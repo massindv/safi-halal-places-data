@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-11-18T17:35:30.458130+00:00",
-  "total_places": 17381,
+  "updated_at": "2026-11-18T17:47:25.729104+00:00",
+  "total_places": 18131,
   "countries": {
     "BE": {
       "name": "Belgium",
@@ -44,6 +44,12 @@
       "count": 1797,
       "file": "places_GB.json",
       "updated_at": "2026-11-18T17:35:30.458130+00:00"
+    },
+    "CH": {
+      "name": "Switzerland",
+      "count": 750,
+      "file": "places_CH.json",
+      "updated_at": "2026-11-18T17:47:25.729104+00:00"
     }
   }
 }
