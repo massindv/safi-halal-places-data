@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-11-18T19:00:17.073888+00:00",
-  "total_places": 22473,
+  "updated_at": "2026-11-18T19:10:41.213019+00:00",
+  "total_places": 23321,
   "countries": {
     "BE": {
       "name": "Belgium",
@@ -86,6 +86,12 @@
       "count": 702,
       "file": "places_PL.json",
       "updated_at": "2026-11-18T19:00:17.073888+00:00"
+    },
+    "IE": {
+      "name": "Ireland",
+      "count": 848,
+      "file": "places_IE.json",
+      "updated_at": "2026-11-18T19:10:41.213019+00:00"
     }
   }
 }
