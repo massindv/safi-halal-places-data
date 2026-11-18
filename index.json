@@ -11,6 +11,14 @@
       "shards_dir": "shards/BE",
       "cities_file": "shards/BE/cities.json",
       "updated_at": "2026-11-18T20:15:00Z"
+    },
+    "LU": {
+      "name": "Luxembourg",
+      "count": 270,
+      "file": "places_LU.json",
+      "updated_at": "2026-11-18T19:20:34.791990+00:00"
     }
-  }
+  },
+  "updated_at": "2026-11-18T19:20:34.791990+00:00",
+  "total_places": 9076
 }
