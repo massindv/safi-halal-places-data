@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-11-18T16:22:42.111371+00:00",
-  "total_places": 10476,
+  "updated_at": "2026-11-18T16:32:14.977375+00:00",
+  "total_places": 12162,
   "countries": {
     "BE": {
       "name": "Belgium",
@@ -14,6 +14,12 @@
       "count": 1670,
       "file": "places_NL.json",
       "updated_at": "2026-11-18T16:22:42.111371+00:00"
+    },
+    "FR": {
+      "name": "France",
+      "count": 1686,
+      "file": "places_FR.json",
+      "updated_at": "2026-11-18T16:32:14.977375+00:00"
     }
   }
 }
