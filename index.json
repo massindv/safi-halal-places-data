@@ -1,97 +1,16 @@
 {
-  "version": "1.0.0",
-  "updated_at": "2026-11-18T19:10:41.213019+00:00",
-  "total_places": 23321,
+  "version": "2.0.0",
+  "sharding": {
+    "chunk_size": 250
+  },
   "countries": {
     "BE": {
       "name": "Belgium",
       "count": 8806,
-      "file": "places_BE.json",
-      "updated_at": "2026-11-18T16:10:41.661045+00:00"
-    },
-    "NL": {
-      "name": "Netherlands",
-      "count": 1670,
-      "file": "places_NL.json",
-      "updated_at": "2026-11-18T16:22:42.111371+00:00"
-    },
-    "FR": {
-      "name": "France",
-      "count": 1686,
-      "file": "places_FR.json",
-      "updated_at": "2026-11-18T16:32:14.977375+00:00"
-    },
-    "DE": {
-      "name": "Germany",
-      "count": 1956,
-      "file": "places_DE.json",
-      "updated_at": "2026-11-18T16:40:54.193276+00:00"
-    },
-    "ES": {
-      "name": "Spain",
-      "count": 527,
-      "file": "places_ES.json",
-      "updated_at": "2026-11-18T17:05:04.842501+00:00"
-    },
-    "IT": {
-      "name": "Italy",
-      "count": 939,
-      "file": "places_IT.json",
-      "updated_at": "2026-11-18T17:23:03.017791+00:00"
-    },
-    "GB": {
-      "name": "United Kingdom",
-      "count": 1797,
-      "file": "places_GB.json",
-      "updated_at": "2026-11-18T17:35:30.458130+00:00"
-    },
-    "CH": {
-      "name": "Switzerland",
-      "count": 750,
-      "file": "places_CH.json",
-      "updated_at": "2026-11-18T17:47:25.729104+00:00"
-    },
-    "AT": {
-      "name": "Austria",
-      "count": 770,
-      "file": "places_AT.json",
-      "updated_at": "2026-11-18T17:54:39.055570+00:00"
-    },
-    "NO": {
-      "name": "Norway",
-      "count": 718,
-      "file": "places_NO.json",
-      "updated_at": "2026-11-18T18:14:53.692268+00:00"
-    },
-    "DK": {
-      "name": "Denmark",
-      "count": 785,
-      "file": "places_DK.json",
-      "updated_at": "2026-11-18T18:23:18.497026+00:00"
-    },
-    "FI": {
-      "name": "Finland",
-      "count": 801,
-      "file": "places_FI.json",
-      "updated_at": "2026-11-18T18:35:29.001897+00:00"
-    },
-    "PT": {
-      "name": "Portugal",
-      "count": 566,
-      "file": "places_PT.json",
-      "updated_at": "2026-11-18T18:49:53.164200+00:00"
-    },
-    "PL": {
-      "name": "Poland",
-      "count": 702,
-      "file": "places_PL.json",
-      "updated_at": "2026-11-18T19:00:17.073888+00:00"
-    },
-    "IE": {
-      "name": "Ireland",
-      "count": 848,
-      "file": "places_IE.json",
-      "updated_at": "2026-11-18T19:10:41.213019+00:00"
+      "total_shards": 36,
+      "shards_dir": "shards/BE",
+      "cities_file": "shards/BE/cities.json",
+      "updated_at": "2026-11-18T20:15:00Z"
     }
   }
 }
