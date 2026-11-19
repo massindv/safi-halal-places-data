@@ -48,20 +48,9 @@
     },
     "GB": {
       "name": "United Kingdom",
-      "count": 2151,
+      "count": 2291,
       "file": "places_GB.json",
-      "updated_at": "2026-11-18T23:28:04.900338+00:00",
-      "shards": [
-        "places_GB_001.json",
-        "places_GB_002.json",
-        "places_GB_003.json",
-        "places_GB_004.json",
-        "places_GB_005.json",
-        "places_GB_006.json",
-        "places_GB_007.json",
-        "places_GB_008.json",
-        "places_GB_009.json"
-      ]
+      "updated_at": "2026-11-19T02:31:08.839626+00:00"
     },
     "CH": {
       "name": "Switzerland",
@@ -148,6 +137,6 @@
       "updated_at": "2026-11-19T01:03:31.885423+00:00"
     }
   },
-  "updated_at": "2026-11-19T02:20:43.374351+00:00",
-  "total_places": 20208
+  "updated_at": "2026-11-19T02:31:08.839626+00:00",
+  "total_places": 20348
 }
