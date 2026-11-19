@@ -60,15 +60,9 @@
     },
     "AT": {
       "name": "Austria",
-      "count": 897,
+      "count": 951,
       "file": "places_AT.json",
-      "updated_at": "2026-11-18T23:53:39.265335+00:00",
-      "shards": [
-        "places_AT_001.json",
-        "places_AT_002.json",
-        "places_AT_003.json",
-        "places_AT_004.json"
-      ]
+      "updated_at": "2026-11-19T02:50:33.005116+00:00"
     },
     "SE": {
       "name": "Sweden",
@@ -131,6 +125,6 @@
       "updated_at": "2026-11-19T01:03:31.885423+00:00"
     }
   },
-  "updated_at": "2026-11-19T02:42:36.572640+00:00",
-  "total_places": 20391
+  "updated_at": "2026-11-19T02:50:33.005116+00:00",
+  "total_places": 20445
 }
