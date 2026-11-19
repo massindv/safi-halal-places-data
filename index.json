@@ -18,19 +18,9 @@
     },
     "NL": {
       "name": "Netherlands",
-      "count": 1907,
+      "count": 2026,
       "file": "places_NL.json",
-      "updated_at": "2026-11-18T22:47:39.425492+00:00",
-      "shards": [
-        "places_NL_001.json",
-        "places_NL_002.json",
-        "places_NL_003.json",
-        "places_NL_004.json",
-        "places_NL_005.json",
-        "places_NL_006.json",
-        "places_NL_007.json",
-        "places_NL_008.json"
-      ]
+      "updated_at": "2026-11-19T01:41:16.296315+00:00"
     },
     "FR": {
       "name": "France",
@@ -194,6 +184,6 @@
       "updated_at": "2026-11-19T01:03:31.885423+00:00"
     }
   },
-  "updated_at": "2026-11-19T01:26:20.759405+00:00",
-  "total_places": 19772
+  "updated_at": "2026-11-19T01:41:16.296315+00:00",
+  "total_places": 19891
 }
