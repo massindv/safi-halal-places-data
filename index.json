@@ -42,16 +42,9 @@
     },
     "IT": {
       "name": "Italy",
-      "count": 1089,
+      "count": 1114,
       "file": "places_IT.json",
-      "updated_at": "2026-11-18T23:21:10.552749+00:00",
-      "shards": [
-        "places_IT_001.json",
-        "places_IT_002.json",
-        "places_IT_003.json",
-        "places_IT_004.json",
-        "places_IT_005.json"
-      ]
+      "updated_at": "2026-11-19T02:20:43.374351+00:00"
     },
     "GB": {
       "name": "United Kingdom",
@@ -155,6 +148,6 @@
       "updated_at": "2026-11-19T01:03:31.885423+00:00"
     }
   },
-  "updated_at": "2026-11-19T02:09:32.972197+00:00",
-  "total_places": 20183
+  "updated_at": "2026-11-19T02:20:43.374351+00:00",
+  "total_places": 20208
 }
