@@ -1,5 +1,234 @@
 {
-  "version": 2,
-  "total_places": 0,
-  "countries": {}
+  "version": "2.0.0",
+  "sharding": {
+    "chunk_size": 250
+  },
+  "countries": {
+    "BE": {
+      "name": "Belgium",
+      "count": 1266,
+      "file": "places_BE.json",
+      "updated_at": "2026-11-18T22:33:13.601270+00:00",
+      "shards": [
+        "places_BE_001.json",
+        "places_BE_002.json",
+        "places_BE_003.json",
+        "places_BE_004.json",
+        "places_BE_005.json",
+        "places_BE_006.json"
+      ]
+    },
+    "LU": {
+      "name": "Luxembourg",
+      "count": 305,
+      "file": "places_LU.json",
+      "updated_at": "2026-11-18T22:18:17.345277+00:00",
+      "shards": [
+        "places_LU_001.json",
+        "places_LU_002.json"
+      ]
+    },
+    "NL": {
+      "name": "Netherlands",
+      "count": 1907,
+      "file": "places_NL.json",
+      "updated_at": "2026-11-18T22:47:39.425492+00:00",
+      "shards": [
+        "places_NL_001.json",
+        "places_NL_002.json",
+        "places_NL_003.json",
+        "places_NL_004.json",
+        "places_NL_005.json",
+        "places_NL_006.json",
+        "places_NL_007.json",
+        "places_NL_008.json"
+      ]
+    },
+    "FR": {
+      "name": "France",
+      "count": 2025,
+      "file": "places_FR.json",
+      "updated_at": "2026-11-18T22:56:49.117867+00:00",
+      "shards": [
+        "places_FR_001.json",
+        "places_FR_002.json",
+        "places_FR_003.json",
+        "places_FR_004.json",
+        "places_FR_005.json",
+        "places_FR_006.json",
+        "places_FR_007.json",
+        "places_FR_008.json",
+        "places_FR_009.json"
+      ]
+    },
+    "DE": {
+      "name": "Germany",
+      "count": 2382,
+      "file": "places_DE.json",
+      "updated_at": "2026-11-18T23:04:14.760724+00:00",
+      "shards": [
+        "places_DE_001.json",
+        "places_DE_002.json",
+        "places_DE_003.json",
+        "places_DE_004.json",
+        "places_DE_005.json",
+        "places_DE_006.json",
+        "places_DE_007.json",
+        "places_DE_008.json",
+        "places_DE_009.json",
+        "places_DE_010.json"
+      ]
+    },
+    "ES": {
+      "name": "Spain",
+      "count": 888,
+      "file": "places_ES.json",
+      "updated_at": "2026-11-18T23:11:16.255489+00:00",
+      "shards": [
+        "places_ES_001.json",
+        "places_ES_002.json",
+        "places_ES_003.json",
+        "places_ES_004.json"
+      ]
+    },
+    "IT": {
+      "name": "Italy",
+      "count": 1089,
+      "file": "places_IT.json",
+      "updated_at": "2026-11-18T23:21:10.552749+00:00",
+      "shards": [
+        "places_IT_001.json",
+        "places_IT_002.json",
+        "places_IT_003.json",
+        "places_IT_004.json",
+        "places_IT_005.json"
+      ]
+    },
+    "GB": {
+      "name": "United Kingdom",
+      "count": 2151,
+      "file": "places_GB.json",
+      "updated_at": "2026-11-18T23:28:04.900338+00:00",
+      "shards": [
+        "places_GB_001.json",
+        "places_GB_002.json",
+        "places_GB_003.json",
+        "places_GB_004.json",
+        "places_GB_005.json",
+        "places_GB_006.json",
+        "places_GB_007.json",
+        "places_GB_008.json",
+        "places_GB_009.json"
+      ]
+    },
+    "CH": {
+      "name": "Switzerland",
+      "count": 848,
+      "file": "places_CH.json",
+      "updated_at": "2026-11-18T23:45:29.072255+00:00",
+      "shards": [
+        "places_CH_001.json",
+        "places_CH_002.json",
+        "places_CH_003.json",
+        "places_CH_004.json"
+      ]
+    },
+    "AT": {
+      "name": "Austria",
+      "count": 897,
+      "file": "places_AT.json",
+      "updated_at": "2026-11-18T23:53:39.265335+00:00",
+      "shards": [
+        "places_AT_001.json",
+        "places_AT_002.json",
+        "places_AT_003.json",
+        "places_AT_004.json"
+      ]
+    },
+    "SE": {
+      "name": "Sweden",
+      "count": 868,
+      "file": "places_SE.json",
+      "updated_at": "2026-11-19T00:01:17.631540+00:00",
+      "shards": [
+        "places_SE_001.json",
+        "places_SE_002.json",
+        "places_SE_003.json",
+        "places_SE_004.json"
+      ]
+    },
+    "NO": {
+      "name": "Norway",
+      "count": 793,
+      "file": "places_NO.json",
+      "updated_at": "2026-11-19T00:10:11.190527+00:00",
+      "shards": [
+        "places_NO_001.json",
+        "places_NO_002.json",
+        "places_NO_003.json",
+        "places_NO_004.json"
+      ]
+    },
+    "DK": {
+      "name": "Denmark",
+      "count": 855,
+      "file": "places_DK.json",
+      "updated_at": "2026-11-19T00:20:51.895757+00:00",
+      "shards": [
+        "places_DK_001.json",
+        "places_DK_002.json",
+        "places_DK_003.json",
+        "places_DK_004.json"
+      ]
+    },
+    "FI": {
+      "name": "Finland",
+      "count": 892,
+      "file": "places_FI.json",
+      "updated_at": "2026-11-18T21:34:19.225304+00:00",
+      "shards": [
+        "places_FI_001.json",
+        "places_FI_002.json",
+        "places_FI_003.json",
+        "places_FI_004.json"
+      ]
+    },
+    "PT": {
+      "name": "Portugal",
+      "count": 637,
+      "file": "places_PT.json",
+      "updated_at": "2026-11-18T21:44:57.912131+00:00",
+      "shards": [
+        "places_PT_001.json",
+        "places_PT_002.json",
+        "places_PT_003.json"
+      ]
+    },
+    "PL": {
+      "name": "Poland",
+      "count": 775,
+      "file": "places_PL.json",
+      "updated_at": "2026-11-18T21:54:26.602921+00:00",
+      "shards": [
+        "places_PL_001.json",
+        "places_PL_002.json",
+        "places_PL_003.json",
+        "places_PL_004.json"
+      ]
+    },
+    "IE": {
+      "name": "Ireland",
+      "count": 928,
+      "file": "places_IE.json",
+      "updated_at": "2026-11-18T22:06:36.649529+00:00",
+      "shards": [
+        "places_IE_001.json",
+        "places_IE_002.json",
+        "places_IE_003.json",
+        "places_IE_004.json"
+      ]
+    }
+  },
+  "updated_at": "2026-11-19T00:20:51.895757+00:00",
+  "total_places": 19506
 }
