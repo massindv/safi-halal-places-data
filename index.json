@@ -6,17 +6,9 @@
   "countries": {
     "BE": {
       "name": "Belgium",
-      "count": 1266,
+      "count": 1375,
       "file": "places_BE.json",
-      "updated_at": "2026-11-18T22:33:13.601270+00:00",
-      "shards": [
-        "places_BE_001.json",
-        "places_BE_002.json",
-        "places_BE_003.json",
-        "places_BE_004.json",
-        "places_BE_005.json",
-        "places_BE_006.json"
-      ]
+      "updated_at": "2026-11-19T01:26:20.759405+00:00"
     },
     "LU": {
       "name": "Luxembourg",
@@ -202,6 +194,6 @@
       "updated_at": "2026-11-19T01:03:31.885423+00:00"
     }
   },
-  "updated_at": "2026-11-19T01:12:11.511949+00:00",
-  "total_places": 19663
+  "updated_at": "2026-11-19T01:26:20.759405+00:00",
+  "total_places": 19772
 }
