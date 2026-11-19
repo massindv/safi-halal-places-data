@@ -195,15 +195,9 @@
     },
     "PL": {
       "name": "Poland",
-      "count": 775,
+      "count": 807,
       "file": "places_PL.json",
-      "updated_at": "2026-11-18T21:54:26.602921+00:00",
-      "shards": [
-        "places_PL_001.json",
-        "places_PL_002.json",
-        "places_PL_003.json",
-        "places_PL_004.json"
-      ]
+      "updated_at": "2026-11-19T00:55:06.683571+00:00"
     },
     "IE": {
       "name": "Ireland",
@@ -218,6 +212,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-19T00:43:56.587574+00:00",
-  "total_places": 19555
+  "updated_at": "2026-11-19T00:55:06.683571+00:00",
+  "total_places": 19587
 }
