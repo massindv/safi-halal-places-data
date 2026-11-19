@@ -30,21 +30,9 @@
     },
     "DE": {
       "name": "Germany",
-      "count": 2382,
+      "count": 2532,
       "file": "places_DE.json",
-      "updated_at": "2026-11-18T23:04:14.760724+00:00",
-      "shards": [
-        "places_DE_001.json",
-        "places_DE_002.json",
-        "places_DE_003.json",
-        "places_DE_004.json",
-        "places_DE_005.json",
-        "places_DE_006.json",
-        "places_DE_007.json",
-        "places_DE_008.json",
-        "places_DE_009.json",
-        "places_DE_010.json"
-      ]
+      "updated_at": "2026-11-19T02:01:22.471053+00:00"
     },
     "ES": {
       "name": "Spain",
@@ -173,6 +161,6 @@
       "updated_at": "2026-11-19T01:03:31.885423+00:00"
     }
   },
-  "updated_at": "2026-11-19T01:51:41.787849+00:00",
-  "total_places": 19999
+  "updated_at": "2026-11-19T02:01:22.471053+00:00",
+  "total_places": 20149
 }
