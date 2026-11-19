@@ -54,15 +54,9 @@
     },
     "CH": {
       "name": "Switzerland",
-      "count": 848,
+      "count": 891,
       "file": "places_CH.json",
-      "updated_at": "2026-11-18T23:45:29.072255+00:00",
-      "shards": [
-        "places_CH_001.json",
-        "places_CH_002.json",
-        "places_CH_003.json",
-        "places_CH_004.json"
-      ]
+      "updated_at": "2026-11-19T02:42:36.572640+00:00"
     },
     "AT": {
       "name": "Austria",
@@ -137,6 +131,6 @@
       "updated_at": "2026-11-19T01:03:31.885423+00:00"
     }
   },
-  "updated_at": "2026-11-19T02:31:08.839626+00:00",
-  "total_places": 20348
+  "updated_at": "2026-11-19T02:42:36.572640+00:00",
+  "total_places": 20391
 }
