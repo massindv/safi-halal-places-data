@@ -36,15 +36,9 @@
     },
     "ES": {
       "name": "Spain",
-      "count": 888,
+      "count": 922,
       "file": "places_ES.json",
-      "updated_at": "2026-11-18T23:11:16.255489+00:00",
-      "shards": [
-        "places_ES_001.json",
-        "places_ES_002.json",
-        "places_ES_003.json",
-        "places_ES_004.json"
-      ]
+      "updated_at": "2026-11-19T02:09:32.972197+00:00"
     },
     "IT": {
       "name": "Italy",
@@ -161,6 +155,6 @@
       "updated_at": "2026-11-19T01:03:31.885423+00:00"
     }
   },
-  "updated_at": "2026-11-19T02:01:22.471053+00:00",
-  "total_places": 20149
+  "updated_at": "2026-11-19T02:09:32.972197+00:00",
+  "total_places": 20183
 }
