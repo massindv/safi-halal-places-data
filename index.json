@@ -66,15 +66,9 @@
     },
     "SE": {
       "name": "Sweden",
-      "count": 868,
+      "count": 912,
       "file": "places_SE.json",
-      "updated_at": "2026-11-19T00:01:17.631540+00:00",
-      "shards": [
-        "places_SE_001.json",
-        "places_SE_002.json",
-        "places_SE_003.json",
-        "places_SE_004.json"
-      ]
+      "updated_at": "2026-11-19T03:00:12.182341+00:00"
     },
     "NO": {
       "name": "Norway",
@@ -125,6 +119,6 @@
       "updated_at": "2026-11-19T01:03:31.885423+00:00"
     }
   },
-  "updated_at": "2026-11-19T02:50:33.005116+00:00",
-  "total_places": 20445
+  "updated_at": "2026-11-19T03:00:12.182341+00:00",
+  "total_places": 20489
 }
