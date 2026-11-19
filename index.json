@@ -72,15 +72,9 @@
     },
     "NO": {
       "name": "Norway",
-      "count": 793,
+      "count": 818,
       "file": "places_NO.json",
-      "updated_at": "2026-11-19T00:10:11.190527+00:00",
-      "shards": [
-        "places_NO_001.json",
-        "places_NO_002.json",
-        "places_NO_003.json",
-        "places_NO_004.json"
-      ]
+      "updated_at": "2026-11-19T03:10:37.652152+00:00"
     },
     "DK": {
       "name": "Denmark",
@@ -119,6 +113,6 @@
       "updated_at": "2026-11-19T01:03:31.885423+00:00"
     }
   },
-  "updated_at": "2026-11-19T03:00:12.182341+00:00",
-  "total_places": 20489
+  "updated_at": "2026-11-19T03:10:37.652152+00:00",
+  "total_places": 20514
 }
