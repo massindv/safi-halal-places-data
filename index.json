@@ -189,14 +189,9 @@
     },
     "PT": {
       "name": "Portugal",
-      "count": 637,
+      "count": 655,
       "file": "places_PT.json",
-      "updated_at": "2026-11-18T21:44:57.912131+00:00",
-      "shards": [
-        "places_PT_001.json",
-        "places_PT_002.json",
-        "places_PT_003.json"
-      ]
+      "updated_at": "2026-11-19T00:43:56.587574+00:00"
     },
     "PL": {
       "name": "Poland",
@@ -223,6 +218,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-19T00:33:18.086469+00:00",
-  "total_places": 19537
+  "updated_at": "2026-11-19T00:43:56.587574+00:00",
+  "total_places": 19555
 }
