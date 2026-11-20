@@ -1,5 +1,799 @@
 [
   {
+    "place_id": "ChIJM70lfhCBwUcRfPJI4edddZg",
+    "name": "Ferme du bois quinaux",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Chastre",
+    "address": "Ferme du bois quinaux, Rue du Bois Quinaux 1, 1450 Chastre",
+    "street": "Rue du Bois Quinaux 1",
+    "postal_code": "1450",
+    "region": null,
+    "latitude": 50.573487899999996,
+    "longitude": 4.6412189,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ferme%20du%20bois%20quinaux&query_place_id=ChIJM70lfhCBwUcRfPJI4edddZg",
+    "open_hours_json": null,
+    "review_count": 3,
+    "rating": 5.0,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=z-wrrcu-ka4DSN9WGhkp1A&cb_client=search.gws-prod.grass&w=80&h=92&yaw=94.186424&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=z-wrrcu-ka4DSN9WGhkp1A&cb_client=search.gws-prod.grass&w=80&h=92&yaw=94.186424&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Hypermarket in Gembloux, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJA7MKJ58pZTUR15blaJBHlKg",
+    "name": "Asia Halal",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "KR",
+    "country_code": "KR",
+    "city": "Cheongju-si",
+    "address": "Asia Halal, 4-1 Bokdae-dong, Heungdeok-gu, Cheongju-si, Chungcheongbuk-do",
+    "street": "4-1 Bokdae-dong",
+    "postal_code": "28641",
+    "region": "Chungcheongbuk-do",
+    "latitude": 36.632883,
+    "longitude": 127.45321759999999,
+    "phone": "010-7610-2304",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Asia%20Halal&query_place_id=ChIJA7MKJ58pZTUR15blaJBHlKg",
+    "open_hours_json": {
+      "Monday": [
+        "10 AM–10 PM"
+      ],
+      "Tuesday": [
+        "10 AM–10 PM"
+      ],
+      "Wednesday": [
+        "10 AM–10 PM"
+      ],
+      "Thursday": [
+        "10 AM–10 PM"
+      ],
+      "Friday": [
+        "10 AM–10 PM"
+      ],
+      "Saturday": [
+        "10 AM–10 PM"
+      ],
+      "Sunday": [
+        "10 AM–10 PM"
+      ]
+    },
+    "review_count": 38,
+    "rating": 4.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd9wtbAwBc_gGv2VQyuwovZAjd_b36LgVdDZ4wkABAzhn2ZXt_Pth_xT63OP9cS_oiIQNimmzRAbWoIdqoJF6vL35cv1kpYQqmq7i9cee1PliT1LSOiDkG_a3NJ74RsGaqKxZumFA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd9wtbAwBc_gGv2VQyuwovZAjd_b36LgVdDZ4wkABAzhn2ZXt_Pth_xT63OP9cS_oiIQNimmzRAbWoIdqoJF6vL35cv1kpYQqmq7i9cee1PliT1LSOiDkG_a3NJ74RsGaqKxZumFA=w1000-h750-no",
+    "source_query": "Halal restaurant in Sintansin, Daejeon, KR",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata"
+  },
+  {
+    "place_id": "ChIJfTwXWQApZTURCL5lCaidogw",
+    "name": "무슬림할랄레스토랑",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "KR",
+    "country_code": "KR",
+    "city": "Cheongju-si",
+    "address": "무슬림할랄레스토랑, 212-19 Bongmyeong-dong, Heungdeok-gu, Cheongju-si, Chungcheongbuk-do",
+    "street": "212-19 Bongmyeong-dong",
+    "postal_code": "28591",
+    "region": "Chungcheongbuk-do",
+    "latitude": 36.6377409,
+    "longitude": 127.4534467,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%EB%AC%B4%EC%8A%AC%EB%A6%BC%ED%95%A0%EB%9E%84%EB%A0%88%EC%8A%A4%ED%86%A0%EB%9E%91&query_place_id=ChIJfTwXWQApZTURCL5lCaidogw",
+    "open_hours_json": null,
+    "review_count": 2,
+    "rating": 4.0,
+    "thumbnail_url": null,
+    "image_url": null,
+    "source_query": "Halal restaurant in Sintansin, Daejeon, KR",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata"
+  },
+  {
+    "place_id": "ChIJ4xPTzhFVwkcR5YzNsUl7DqI",
+    "name": "Duke of Egmont, Count Lamoral Restaurant and Cafe",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Chievres",
+    "address": "Duke of Egmont, Count Lamoral Restaurant and Cafe, Grand'Place 11, 7950 Chièvres",
+    "street": "Grand'Place 11",
+    "postal_code": "7950",
+    "region": null,
+    "latitude": 50.587037099999996,
+    "longitude": 3.8084757999999996,
+    "phone": "068 65 92 95",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Duke%20of%20Egmont%2C%20Count%20Lamoral%20Restaurant%20and%20Cafe&query_place_id=ChIJ4xPTzhFVwkcR5YzNsUl7DqI",
+    "open_hours_json": null,
+    "review_count": 31,
+    "rating": 3.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLccJjOUrNR7ikQ3nzzNTIH3U5PHTUR3GoHitU2MVtl7MfKNBIhf0dGs7vS_lVA6TFfPm0LfBCKw24Dv4roqRtMYKmIWZXLoP3fgwWBNagZ4EVv2CmoQl9OuiCHB2X_MtSTZPo2e=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLccJjOUrNR7ikQ3nzzNTIH3U5PHTUR3GoHitU2MVtl7MfKNBIhf0dGs7vS_lVA6TFfPm0LfBCKw24Dv4roqRtMYKmIWZXLoP3fgwWBNagZ4EVv2CmoQl9OuiCHB2X_MtSTZPo2e=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Chièvres, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJqW-oPD5VwkcRDOEv3k7ITc4",
+    "name": "L' Éden Taverne - Restaurant",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Chievres",
+    "address": "L' Éden Taverne - Restaurant, Grand'Place 18, 7950 Chièvres",
+    "street": "Grand'Place 18",
+    "postal_code": "7950",
+    "region": null,
+    "latitude": 50.587688199999995,
+    "longitude": 3.8085461,
+    "phone": "0491 30 22 90",
+    "website": "http://www.eden-taverne-restaurant.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=L%27%20%C3%89den%20Taverne%20-%20Restaurant&query_place_id=ChIJqW-oPD5VwkcRDOEv3k7ITc4",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "10:30 am–8 pm"
+      ],
+      "Wednesday": [
+        "10:30 am–8 pm"
+      ],
+      "Thursday": [
+        "10:30 am–8 pm"
+      ],
+      "Friday": [
+        "10:30 am–10:30 pm"
+      ],
+      "Saturday": [
+        "10:30 am–10:30 pm"
+      ],
+      "Sunday": [
+        "10 am–8 pm"
+      ]
+    },
+    "review_count": 160,
+    "rating": 4.1,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcWmvlpu4gK19HNQyPCvQSv-A5DJQ9fw5OzfiD_oUPbv2Hz3AWqp1haK6LVUXdBOMt5hvPjL7a6LoOqY44mvdNhHmw8XERYqL4cTAeudWu7J7denteuFbsMRyA1xxcyC2RgavOo=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcWmvlpu4gK19HNQyPCvQSv-A5DJQ9fw5OzfiD_oUPbv2Hz3AWqp1haK6LVUXdBOMt5hvPjL7a6LoOqY44mvdNhHmw8XERYqL4cTAeudWu7J7denteuFbsMRyA1xxcyC2RgavOo=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Chièvres, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJc9HfLFVVwkcRhDvesBNm4uk",
+    "name": "L'essentiel - Sandwicherie / Superette",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Chievres",
+    "address": "L'essentiel - Sandwicherie / Superette, Grand'Place 24, 7950 Chièvres",
+    "street": "Grand'Place 24",
+    "postal_code": "7950",
+    "region": null,
+    "latitude": 50.5874199,
+    "longitude": 3.8093437999999997,
+    "phone": "0455 12 82 22",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=L%27essentiel%20-%20Sandwicherie%20%2F%20Superette&query_place_id=ChIJc9HfLFVVwkcRhDvesBNm4uk",
+    "open_hours_json": {
+      "Monday": [
+        "7 am–4 pm"
+      ],
+      "Tuesday": [
+        "7 am–4 pm"
+      ],
+      "Wednesday": [
+        "7 am–4 pm"
+      ],
+      "Thursday": [
+        "7 am–4 pm"
+      ],
+      "Friday": [
+        "7 am–4 pm"
+      ],
+      "Saturday": [
+        "8 am–3 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 43,
+    "rating": 3.9,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeJIR2uMKinHITg5LHeRGVjGJXwNBetjD6KFRxU1ahI4Rv-0JpDW7qJUSyL3wSpoPDJY99hpN3p48pgWcd50XhZN3JLaJHnS8MGIaT2EC4Nw3oE5kJig17rFp-cNKDKkX59HYN6=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeJIR2uMKinHITg5LHeRGVjGJXwNBetjD6KFRxU1ahI4Rv-0JpDW7qJUSyL3wSpoPDJY99hpN3p48pgWcd50XhZN3JLaJHnS8MGIaT2EC4Nw3oE5kJig17rFp-cNKDKkX59HYN6=w1000-h750-no",
+    "source_query": "Halal restaurant in Chièvres, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJR2Vo_UBVwkcRtIV3Ct6lLnA",
+    "name": "Le Moulin de la Hunelle - E.T.A.",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Chievres",
+    "address": "Le Moulin de la Hunelle - E.T.A., Rue d'Ath 90, 7950 Chièvres",
+    "street": "Rue d'Ath 90",
+    "postal_code": "7950",
+    "region": null,
+    "latitude": 50.598656399999996,
+    "longitude": 3.8027612,
+    "phone": "068 65 67 67",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Moulin%20de%20la%20Hunelle%20-%20E.T.A.&query_place_id=ChIJR2Vo_UBVwkcRtIV3Ct6lLnA",
+    "open_hours_json": {
+      "Monday": [
+        "8 am–12 pm",
+        "12:30–4:30 pm"
+      ],
+      "Tuesday": [
+        "8 am–12 pm",
+        "12:30–4:30 pm"
+      ],
+      "Wednesday": [
+        "8 am–12 pm",
+        "12:30–4:30 pm"
+      ],
+      "Thursday": [
+        "8 am–12 pm",
+        "12:30–4:30 pm"
+      ],
+      "Friday": [
+        "8 am–12 pm",
+        "12:30–2:30 pm"
+      ],
+      "Saturday": [
+        "Closed"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 215,
+    "rating": 4.2,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLddHILPnYQNipbkPNqoIr6ijRtHWTxk_mp_R8R5MJuAoXR8vVyW_Zrh6fre9eD7hupFnmtbv0YjSuMZL9mjAqHxEDWNwCb4hg7fyba6mnXaNj_BdJkr1zAppFH71GyMaFnmyDam=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLddHILPnYQNipbkPNqoIr6ijRtHWTxk_mp_R8R5MJuAoXR8vVyW_Zrh6fre9eD7hupFnmtbv0YjSuMZL9mjAqHxEDWNwCb4hg7fyba6mnXaNj_BdJkr1zAppFH71GyMaFnmyDam=w1000-h750-no",
+    "source_query": "Halal restaurant in Chièvres, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJxSNeMbcFwkcRhHR1dRn6UGk",
+    "name": "AD Chimay",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Chimay",
+    "address": "AD Chimay, Rue de Bourlers 1a, 6460 Chimay",
+    "street": "Rue de Bourlers 1a",
+    "postal_code": "6460",
+    "region": null,
+    "latitude": 50.047944799999996,
+    "longitude": 4.3213653,
+    "phone": "060 21 23 90",
+    "website": "https://adchimay.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=AD%20Chimay&query_place_id=ChIJxSNeMbcFwkcRhHR1dRn6UGk",
+    "open_hours_json": {
+      "Monday": [
+        "7:30 am–7:30 pm"
+      ],
+      "Tuesday": [
+        "7:30 am–7:30 pm"
+      ],
+      "Wednesday": [
+        "7:30 am–7:30 pm"
+      ],
+      "Thursday": [
+        "7:30 am–7:30 pm"
+      ],
+      "Friday": [
+        "7:30 am–8 pm"
+      ],
+      "Saturday": [
+        "7:30 am–8 pm"
+      ],
+      "Sunday": [
+        "7:30 am–12:30 pm"
+      ]
+    },
+    "review_count": 1185,
+    "rating": 4.2,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdgoqoYdhWA_0zRlpDV31ZDv791aiS64uN_OFuKcBmpr-p56OKFB-zXoq8lioP6Nh-iBO6AWA0iPW5DnEAk4A-h1cMiBlikcj9ve9usH2oJbdKv5gsxjd8eidOzj8b31AeL0IgAsA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdgoqoYdhWA_0zRlpDV31ZDv791aiS64uN_OFuKcBmpr-p56OKFB-zXoq8lioP6Nh-iBO6AWA0iPW5DnEAk4A-h1cMiBlikcj9ve9usH2oJbdKv5gsxjd8eidOzj8b31AeL0IgAsA=w1000-h750-no",
+    "source_query": "Hypermarket in Chimay, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJn6wd4JcFwkcRnWL39tqAAB8",
+    "name": "Au Petit Marché Chimay",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Chimay",
+    "address": "Au Petit Marché Chimay, Chau. de Mons 15, 6460 Chimay",
+    "street": "Chau. de Mons 15",
+    "postal_code": "6460",
+    "region": null,
+    "latitude": 50.0507308,
+    "longitude": 4.3095742999999995,
+    "phone": "060 21 26 75",
+    "website": "https://www.facebook.com/AuPetitmarchechimay",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Au%20Petit%20March%C3%A9%20Chimay&query_place_id=ChIJn6wd4JcFwkcRnWL39tqAAB8",
+    "open_hours_json": {
+      "Monday": [
+        "9 am–12 pm",
+        "2–6 pm"
+      ],
+      "Tuesday": [
+        "8:30 am–12 pm",
+        "2–6 pm"
+      ],
+      "Wednesday": [
+        "8:30 am–12 pm",
+        "2–6 pm"
+      ],
+      "Thursday": [
+        "8:30 am–12 pm",
+        "2–6 pm"
+      ],
+      "Friday": [
+        "8 am–6 pm"
+      ],
+      "Saturday": [
+        "8:30 am–6 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 39,
+    "rating": 4.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfhCf66m5H-pEMSklrr4Yw5J3qS765dGXt5RcQDZXhd8vF40N--BCLb9evFN80wSe2pIsLPrfJRVRP3lGqLh19X0M0FHGU6i4LF_h7BjSsFysMkeEfZ6PXtxVLXSL6qTyGvawJVpg=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfhCf66m5H-pEMSklrr4Yw5J3qS765dGXt5RcQDZXhd8vF40N--BCLb9evFN80wSe2pIsLPrfJRVRP3lGqLh19X0M0FHGU6i4LF_h7BjSsFysMkeEfZ6PXtxVLXSL6qTyGvawJVpg=w1000-h750-no",
+    "source_query": "Hypermarket in Chimay, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJg1scNDkFwkcREH79ugoOT2c",
+    "name": "Au Pt'Marché Chimay",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Chimay",
+    "address": "Au Pt'Marché Chimay, Chau. de Mons, 6460 Chimay",
+    "street": "Chau. de Mons",
+    "postal_code": "6460",
+    "region": null,
+    "latitude": 50.050726999999995,
+    "longitude": 4.3091121999999995,
+    "phone": "060 21 26 75",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Au%20Pt%27March%C3%A9%20Chimay&query_place_id=ChIJg1scNDkFwkcREH79ugoOT2c",
+    "open_hours_json": {
+      "Monday": [
+        "8:30 am–12 pm",
+        "2–6 pm"
+      ],
+      "Tuesday": [
+        "8:30 am–12 pm",
+        "2–6 pm"
+      ],
+      "Wednesday": [
+        "8:30 am–12 pm",
+        "2–6 pm"
+      ],
+      "Thursday": [
+        "8:30 am–12 pm",
+        "2–6 pm"
+      ],
+      "Friday": [
+        "7:30 am–6 pm"
+      ],
+      "Saturday": [
+        "8:30 am–6 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 0,
+    "rating": null,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdCYnDMHTn5h0kOZ6H82BP3oQjdG8iZz16OEQTUp4tiAROZf_SE2-MvR2gIQB2coOHG8_JqPkwEpcEH-C_UpT_sBoFGFbWD3XC2VNc3Ijotbd5Ddvw0HXAvh0PO3wo2x4XfT0zoSKm9yZlb=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdCYnDMHTn5h0kOZ6H82BP3oQjdG8iZz16OEQTUp4tiAROZf_SE2-MvR2gIQB2coOHG8_JqPkwEpcEH-C_UpT_sBoFGFbWD3XC2VNc3Ijotbd5Ddvw0HXAvh0PO3wo2x4XfT0zoSKm9yZlb=w1000-h750-no",
+    "source_query": "Hypermarket in Chimay, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJLUAIGLwFwkcRm0g13PLqMHE",
+    "name": "BNP Paribas Fortis Chimay",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Chimay",
+    "address": "BNP Paribas Fortis Chimay, Pl. Froissart 2, 6460 Chimay",
+    "street": "Pl. Froissart 2",
+    "postal_code": "6460",
+    "region": null,
+    "latitude": 50.0478354,
+    "longitude": 4.3149872,
+    "phone": "060 21 03 50",
+    "website": "https://www.bnpparibasfortis.be/fr/public/particuliers",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=BNP%20Paribas%20Fortis%20Chimay&query_place_id=ChIJLUAIGLwFwkcRm0g13PLqMHE",
+    "open_hours_json": null,
+    "review_count": 28,
+    "rating": 3.0,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeE7_laHUUMftL-3gV47WkHRrTQIr8QOgmiBMjdWWt7s_won9sHzKNqWxUC4DodIKKAqJCmp_I84u8bPW2rO32DFRa72OZelB5YFJ5SjhSixSZ5HAui5U2qx7uWNyk5_7xQ02YK=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeE7_laHUUMftL-3gV47WkHRrTQIr8QOgmiBMjdWWt7s_won9sHzKNqWxUC4DodIKKAqJCmp_I84u8bPW2rO32DFRa72OZelB5YFJ5SjhSixSZ5HAui5U2qx7uWNyk5_7xQ02YK=w1000-h750-no",
+    "source_query": "Hypermarket in Chimay, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJaztgI_8FwkcRtw6uHRVeRMA",
+    "name": "Collect&Go Chimay",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Chimay",
+    "address": "Collect&Go Chimay, Chau. de Mons 17, 6460 Chimay",
+    "street": "Chau. de Mons 17",
+    "postal_code": "6460",
+    "region": null,
+    "latitude": 50.0508652,
+    "longitude": 4.3084141,
+    "phone": "02 363 50 05",
+    "website": "https://www.collectandgo.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Collect%26Go%20Chimay&query_place_id=ChIJaztgI_8FwkcRtw6uHRVeRMA",
+    "open_hours_json": {
+      "Monday": [
+        "8 am–8 pm"
+      ],
+      "Tuesday": [
+        "8 am–8 pm"
+      ],
+      "Wednesday": [
+        "8 am–8 pm"
+      ],
+      "Thursday": [
+        "8 am–8 pm"
+      ],
+      "Friday": [
+        "8 am–9 pm"
+      ],
+      "Saturday": [
+        "8 am–8 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 0,
+    "rating": null,
+    "thumbnail_url": null,
+    "image_url": null,
+    "source_query": "Hypermarket in Chimay, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJifKOPusFwkcRNkrtYFHvplU",
+    "name": "El Greco",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Chimay",
+    "address": "El Greco, Rue Rogier 20, 6460 Chimay",
+    "street": "Rue Rogier 20",
+    "postal_code": "6460",
+    "region": null,
+    "latitude": 50.0492668,
+    "longitude": 4.3168826,
+    "phone": "060 21 97 99",
+    "website": "https://elgrecochimay.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=El%20Greco&query_place_id=ChIJifKOPusFwkcRNkrtYFHvplU",
+    "open_hours_json": {
+      "Monday": [
+        "12–2 pm",
+        "6–9 pm"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "12–2 pm",
+        "6–9 pm"
+      ],
+      "Thursday": [
+        "12–2 pm",
+        "6–9 pm"
+      ],
+      "Friday": [
+        "12–2 pm",
+        "6–10 pm"
+      ],
+      "Saturday": [
+        "12–2 pm",
+        "6–10 pm"
+      ],
+      "Sunday": [
+        "12–2 pm",
+        "6–9 pm"
+      ]
+    },
+    "review_count": 225,
+    "rating": 4.4,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfY11zZ2O6ZQpFZCohj3MxddMez7zNBVWYwv_wM5bc195W3axxDSnQSoqLX8QRcsG3Uu9Z_WwadivwuShMh782b4QYLONONP6VxKNClZb__ebsTX0DBivNoRfeRGly55VGJw4e5=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfY11zZ2O6ZQpFZCohj3MxddMez7zNBVWYwv_wM5bc195W3axxDSnQSoqLX8QRcsG3Uu9Z_WwadivwuShMh782b4QYLONONP6VxKNClZb__ebsTX0DBivNoRfeRGly55VGJw4e5=w1000-h750-no",
+    "source_query": "Halal restaurant in Chimay, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJOX0cB3sGwkcRkw4VH1tnvjk",
+    "name": "Entre Temps",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Chimay",
+    "address": "Entre Temps, Chau. de Mons 55b, 6460 Chimay",
+    "street": "Chau. de Mons 55b",
+    "postal_code": "6460",
+    "region": null,
+    "latitude": 50.070693,
+    "longitude": 4.2938486,
+    "phone": "060 21 35 72",
+    "website": "https://entretemps-chimay.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Entre%20Temps&query_place_id=ChIJOX0cB3sGwkcRkw4VH1tnvjk",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "12–2:30 pm",
+        "6:30–9 pm"
+      ],
+      "Friday": [
+        "12–2:30 pm",
+        "6:30–9:30 pm"
+      ],
+      "Saturday": [
+        "12–2:30 pm",
+        "6:30–9:30 pm"
+      ],
+      "Sunday": [
+        "12–2:30 pm",
+        "6:30–9 pm"
+      ]
+    },
+    "review_count": 530,
+    "rating": 4.4,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeCx8mFfbecHfIiUoKEH30RJjaFwZDIkGT2l9lfnTdFq8nWxvubYPjpYUxrOU1ubnscwd6n4Xlntp6iQyTYqPDo7r_-iX6ungPNxhK-1-6xTWBocJKQUWK1NZ8lI13rZ9U31z8WGrlKdE4v=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeCx8mFfbecHfIiUoKEH30RJjaFwZDIkGT2l9lfnTdFq8nWxvubYPjpYUxrOU1ubnscwd6n4Xlntp6iQyTYqPDo7r_-iX6ungPNxhK-1-6xTWBocJKQUWK1NZ8lI13rZ9U31z8WGrlKdE4v=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Chimay, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJLUAIGLwFwkcRFSh87GE5RVY",
+    "name": "La Charlotte",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Chimay",
+    "address": "La Charlotte, Pl. Froissart 8, 6460 Chimay",
+    "street": "La Charlotte, Pl. Froissart 8",
+    "postal_code": "6460",
+    "region": null,
+    "latitude": 50.047526999999995,
+    "longitude": 4.3148085,
+    "phone": "060 21 21 00",
+    "website": "https://www.facebook.com/profile.php?id=100083427818337",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Charlotte&query_place_id=ChIJLUAIGLwFwkcRFSh87GE5RVY",
+    "open_hours_json": {
+      "Monday": [
+        "12–2 pm",
+        "7–9 pm"
+      ],
+      "Tuesday": [
+        "12–2 pm",
+        "7–9 pm"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "Closed"
+      ],
+      "Friday": [
+        "12–2 pm",
+        "7–9 pm"
+      ],
+      "Saturday": [
+        "12–2 pm",
+        "7–9 pm"
+      ],
+      "Sunday": [
+        "12–2 pm"
+      ]
+    },
+    "review_count": 331,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe5-41NbETv34CAoY6xXvYiHIRjncFNEerX5dq3e1g3BCtZuOzjtucVuGr-ZzHXdz9Otc509jTAWknl7z1JCpg58fr3oGAiz1dEJkwkOe-0ZiHebjAiqVXZBA9cepqPoNrElwhR6Q=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe5-41NbETv34CAoY6xXvYiHIRjncFNEerX5dq3e1g3BCtZuOzjtucVuGr-ZzHXdz9Otc509jTAWknl7z1JCpg58fr3oGAiz1dEJkwkOe-0ZiHebjAiqVXZBA9cepqPoNrElwhR6Q=w1000-h750-no",
+    "source_query": "Halal restaurant in Chimay, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJt6_wDb0FwkcRiislvkqOcxs",
+    "name": "La Foulque",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Chimay",
+    "address": "La Foulque, Rue du Parc 2, 6460 Chimay",
+    "street": "Rue du Parc 2",
+    "postal_code": "6460",
+    "region": null,
+    "latitude": 50.0590106,
+    "longitude": 4.3088562,
+    "phone": "060 21 17 35",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Foulque&query_place_id=ChIJt6_wDb0FwkcRiislvkqOcxs",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "Closed"
+      ],
+      "Friday": [
+        "6–10 pm"
+      ],
+      "Saturday": [
+        "6–10 pm"
+      ],
+      "Sunday": [
+        "12–2 pm"
+      ]
+    },
+    "review_count": 28,
+    "rating": 4.0,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc1a_r5vCeIORiqfFIq9_t8MOxbGvxEYIxbSLwxW6YTcaYmbSjl-DdWbu-l8zWi57KS975PJMkiMbrqhUGcn2npYB8fXEVbS5zuUujAc0HoEQUFPq7WmWF8bZeIzmeWXRCbkKDLhQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc1a_r5vCeIORiqfFIq9_t8MOxbGvxEYIxbSLwxW6YTcaYmbSjl-DdWbu-l8zWi57KS975PJMkiMbrqhUGcn2npYB8fXEVbS5zuUujAc0HoEQUFPq7WmWF8bZeIzmeWXRCbkKDLhQ=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Chimay, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJm5Miz7sFwkcRR-tTNq9gEqQ",
+    "name": "La Malterie",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Chimay",
+    "address": "La Malterie, Pl. Léopold 7, 6460 Chimay",
+    "street": "Pl. Léopold 7",
+    "postal_code": "6460",
+    "region": null,
+    "latitude": 50.047082499999995,
+    "longitude": 4.3186271,
+    "phone": "060 21 32 30",
+    "website": "http://www.lamalteriechimay.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Malterie&query_place_id=ChIJm5Miz7sFwkcRR-tTNq9gEqQ",
+    "open_hours_json": {
+      "Monday": [
+        "11 am–3 pm",
+        "6:30–8:30 pm"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "12–2 pm",
+        "6:30–8:30 pm"
+      ],
+      "Friday": [
+        "12–2 pm",
+        "6:30–9 pm"
+      ],
+      "Saturday": [
+        "12–2 pm",
+        "6:30–9 pm"
+      ],
+      "Sunday": [
+        "12–2:30 pm",
+        "6:30–8:30 pm"
+      ]
+    },
+    "review_count": 216,
+    "rating": 4.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe6NuKTS75QjYGOhd9zkwKzYegBzTJU9BLr-fP4WAqByleJOScbdeSxAeveA5kw7uRmKxBQhEa5qRV0lMP0DgdP1gJnYdMy1WkzE-DZfinjKzIFd-Igd2SF04PXSQRal9qlFfbC0w=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe6NuKTS75QjYGOhd9zkwKzYegBzTJU9BLr-fP4WAqByleJOScbdeSxAeveA5kw7uRmKxBQhEa5qRV0lMP0DgdP1gJnYdMy1WkzE-DZfinjKzIFd-Igd2SF04PXSQRal9qlFfbC0w=w1000-h750-no",
+    "source_query": "Halal restaurant in Chimay, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJ-1vbcroFwkcRE8uooQ8xkUk",
     "name": "La Petite Fourchette",
     "type": "restaurant",
@@ -1277,32 +2071,6 @@
     "is_active": true,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJSeLmbOwnwkcR0xheRsuxiZw",
-    "name": "Mosquee et centre culturel et sportif de diyanet",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Châtelet",
-    "address": "Mosquee et centre culturel et sportif de diyanet, Rue de la Poste 47, 6200 Châtelet",
-    "street": "Rue de la Poste 47",
-    "postal_code": "6200",
-    "region": null,
-    "latitude": 50.4088645,
-    "longitude": 4.5201154,
-    "phone": "071 40 04 06",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mosquee%20et%20centre%20culturel%20et%20sportif%20de%20diyanet&query_place_id=ChIJSeLmbOwnwkcR0xheRsuxiZw",
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gUPgTwVrbAHYeYbh5gmK1Q&cb_client=search.gws-prod.grass&w=80&h=92&yaw=113.825905&pitch=0.5985058&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gUPgTwVrbAHYeYbh5gmK1Q&cb_client=search.gws-prod.grass&w=80&h=92&yaw=113.825905&pitch=0.5985058&thumbfov=w1000-h750-no",
-    "rating": 5.0,
-    "review_count": 20,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
   },
   {
     "place_id": "ChIJZ0PN84UnwkcRYHCIaOI31og",
@@ -11111,804 +11879,6 @@
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeVVCwT_ilhOTPrl9yzlPWJb2teYZZO4PU8v-0p9axfTafxM80OuDuacyZ2LRhDzXYUsiSBXT3y8xJhGT11zG_loZvV3gZ8ihnxs8qDcRpShci7kN1QQKpEcjLlgF9txyk9ixuE0A=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeVVCwT_ilhOTPrl9yzlPWJb2teYZZO4PU8v-0p9axfTafxM80OuDuacyZ2LRhDzXYUsiSBXT3y8xJhGT11zG_loZvV3gZ8ihnxs8qDcRpShci7kN1QQKpEcjLlgF9txyk9ixuE0A=w1000-h750-no",
     "source_query": "Hypermarket in Dendermonde, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJP8xNGmuRw0cRivRGWu_QEdA",
-    "name": "Pitalicious",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Dendermonde",
-    "address": "Pitalicious, Zandstraat 69, 9200 Dendermonde",
-    "street": "Zandstraat 69",
-    "postal_code": "9200",
-    "region": null,
-    "latitude": 51.0308925,
-    "longitude": 4.0702187,
-    "phone": "0484 92 05 71",
-    "website": "https://www.pitalicious.be/en",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pitalicious&query_place_id=ChIJP8xNGmuRw0cRivRGWu_QEdA",
-    "open_hours_json": {
-      "Monday": [
-        "4:30–11 pm"
-      ],
-      "Tuesday": [
-        "4:30–11 pm"
-      ],
-      "Wednesday": [
-        "4:30–11 pm"
-      ],
-      "Thursday": [
-        "4:30–11 pm"
-      ],
-      "Friday": [
-        "4:30–11 pm"
-      ],
-      "Saturday": [
-        "4:30–11 pm"
-      ],
-      "Sunday": [
-        "4:30–11 pm"
-      ]
-    },
-    "review_count": 16,
-    "rating": 3.9,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLekWvjjruTltI2LxaY8yN2Qu93CjEH5ugrjvS2Glcor-yv31sbz6Kn2ScISYbuX18bV3Vmbv2rBdC0Gu5Or0PdSBaOUi10m-eBbkc2fMwFSwO66Ef-5OTg8H67rrFx8Lg1kvFHLPwoRFBLM=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLekWvjjruTltI2LxaY8yN2Qu93CjEH5ugrjvS2Glcor-yv31sbz6Kn2ScISYbuX18bV3Vmbv2rBdC0Gu5Or0PdSBaOUi10m-eBbkc2fMwFSwO66Ef-5OTg8H67rrFx8Lg1kvFHLPwoRFBLM=w1000-h750-no",
-    "source_query": "Halal restaurant in Dendermonde, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJu003qDCRw0cRSbzsqNlak_E",
-    "name": "Pitza Point Dendermonde",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Dendermonde",
-    "address": "Pitza Point Dendermonde, Grootzand 158/Bus 1, 9200 Dendermonde",
-    "street": "Grootzand 158/Bus 1",
-    "postal_code": "9200",
-    "region": null,
-    "latitude": 51.0426802,
-    "longitude": 4.1040981,
-    "phone": "0451 02 60 30",
-    "website": "https://www.mymenu.be/pitza-point",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pitza%20Point%20Dendermonde&query_place_id=ChIJu003qDCRw0cRSbzsqNlak_E",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "5–11 pm"
-      ],
-      "Wednesday": [
-        "5–11 pm"
-      ],
-      "Thursday": [
-        "5 pm–1 am"
-      ],
-      "Friday": [
-        "5 pm–12 am"
-      ],
-      "Saturday": [
-        "5 pm–12 am"
-      ],
-      "Sunday": [
-        "5–11 pm"
-      ]
-    },
-    "review_count": 40,
-    "rating": 4.8,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLea7Hh93yyocwnHx9thYAejqeA2Y6BlxCuH0cGvkiLHRfx19jZL6ZnrrQZPVJZJpjy-nuDRl-Q_Ry-NmUfo5s27l3uEJHSGVQMd90KQaRO8yuO6vuCaO1QSOEbkUUzCCj-jMfgucoYw8Nck=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLea7Hh93yyocwnHx9thYAejqeA2Y6BlxCuH0cGvkiLHRfx19jZL6ZnrrQZPVJZJpjy-nuDRl-Q_Ry-NmUfo5s27l3uEJHSGVQMd90KQaRO8yuO6vuCaO1QSOEbkUUzCCj-jMfgucoYw8Nck=w1000-h750-no",
-    "source_query": "Halal restaurant in Dendermonde, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ56pWaUaRw0cR52L9asf-sMg",
-    "name": "Q8",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Dendermonde",
-    "address": "Q8, Mechelsesteenweg 85, 9200 Dendermonde",
-    "street": "Mechelsesteenweg 85",
-    "postal_code": "9200",
-    "region": null,
-    "latitude": 51.03548,
-    "longitude": 4.11574,
-    "phone": "052 20 35 80",
-    "website": "https://www.q8.be/stations/q8-easy-dendermonde-mechelsesteenweg",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Q8&query_place_id=ChIJ56pWaUaRw0cR52L9asf-sMg",
-    "open_hours_json": {
-      "Monday": [
-        "Open 24 hours"
-      ],
-      "Tuesday": [
-        "Open 24 hours"
-      ],
-      "Wednesday": [
-        "Open 24 hours"
-      ],
-      "Thursday": [
-        "Open 24 hours"
-      ],
-      "Friday": [
-        "Open 24 hours"
-      ],
-      "Saturday": [
-        "Open 24 hours"
-      ],
-      "Sunday": [
-        "Open 24 hours"
-      ]
-    },
-    "review_count": 18,
-    "rating": 2.9,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLerVbqUF_nL851ptBFd2Lo_kw932TDCYOMZzAcEnssa1uKuI2a1ykIBxZb_WV9g1ZhVnUaiPpK1aOmJtFk6gFtisGb4v0VTqcONuAzGSqcbI7y8zULWq1GJ4Eg41BPMD-2besjwJrZ-ZhIP=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLerVbqUF_nL851ptBFd2Lo_kw932TDCYOMZzAcEnssa1uKuI2a1ykIBxZb_WV9g1ZhVnUaiPpK1aOmJtFk6gFtisGb4v0VTqcONuAzGSqcbI7y8zULWq1GJ4Eg41BPMD-2besjwJrZ-ZhIP=w1000-h750-no",
-    "source_query": "Hypermarket in Dendermonde, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJQ_r_jcqWw0cRrg73HJTK__M",
-    "name": "Restaurant Cleophas,dendermonde",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Dendermonde",
-    "address": "Restaurant Cleophas,dendermonde, Sint Gillislaan 47, 9200 Dendermonde",
-    "street": "Sint Gillislaan 47",
-    "postal_code": "9200",
-    "region": null,
-    "latitude": 51.0218047,
-    "longitude": 4.1084415,
-    "phone": "0497 57 56 55",
-    "website": "https://cleophas.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20Cleophas%2Cdendermonde&query_place_id=ChIJQ_r_jcqWw0cRrg73HJTK__M",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "12–3 pm",
-        "6–10 pm"
-      ],
-      "Wednesday": [
-        "12–3 pm",
-        "6–10 pm"
-      ],
-      "Thursday": [
-        "12–3 pm",
-        "6–10 pm"
-      ],
-      "Friday": [
-        "12–3 pm",
-        "6–10 pm"
-      ],
-      "Saturday": [
-        "12–3 pm",
-        "6–10 pm"
-      ],
-      "Sunday": [
-        "12–9 pm"
-      ]
-    },
-    "review_count": 946,
-    "rating": 4.5,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeFhgQ7MEccPJLijJAfy-fNf48uZ7y_mDf3-ITao026JvJcH1g5HU2DUlDOJQujh_1LqhtmWawkG4bWXUwOUERPdYchvO9iRKl1jSxn3URRElT-tHZGP-5TfWRZ3Pp0_pNSDjL-jA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeFhgQ7MEccPJLijJAfy-fNf48uZ7y_mDf3-ITao026JvJcH1g5HU2DUlDOJQujh_1LqhtmWawkG4bWXUwOUERPdYchvO9iRKl1jSxn3URRElT-tHZGP-5TfWRZ3Pp0_pNSDjL-jA=w1000-h750-no",
-    "source_query": "Halal restaurant in Sint-Gillis-bij-Dendermonde, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJUWJLlPmXw0cRHyzRG0--Ifg",
-    "name": "SINGH DAGWINKEL",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Dendermonde",
-    "address": "SINGH DAGWINKEL, Oudegemse Baan 199B, 9200 Dendermonde",
-    "street": "Oudegemse Baan 199B",
-    "postal_code": "9200",
-    "region": null,
-    "latitude": 51.0183928,
-    "longitude": 4.0657454,
-    "phone": "0479 55 85 43",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=SINGH%20DAGWINKEL&query_place_id=ChIJUWJLlPmXw0cRHyzRG0--Ifg",
-    "open_hours_json": {
-      "Monday": [
-        "5 am–9:30 pm"
-      ],
-      "Tuesday": [
-        "5 am–9:30 pm"
-      ],
-      "Wednesday": [
-        "5 am–9:30 pm"
-      ],
-      "Thursday": [
-        "5 am–9:30 pm"
-      ],
-      "Friday": [
-        "5 am–9:30 pm"
-      ],
-      "Saturday": [
-        "7 am–9:30 pm"
-      ],
-      "Sunday": [
-        "8 am–9:30 pm"
-      ]
-    },
-    "review_count": 4,
-    "rating": 4.5,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdOSYQ4f70RaaRfqcjb2_sE1-j0VOvH9N3vjgYY2OQdL37bV_pJ-erPqjjF1lZlwb6SZtAte_x1zKR5MdNuSDvxrem8pX0zWY0g4YKiheMeY6QmFC6xW_RX-53fwGrEs-ks2uUNOwnqRb2K=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdOSYQ4f70RaaRfqcjb2_sE1-j0VOvH9N3vjgYY2OQdL37bV_pJ-erPqjjF1lZlwb6SZtAte_x1zKR5MdNuSDvxrem8pX0zWY0g4YKiheMeY6QmFC6xW_RX-53fwGrEs-ks2uUNOwnqRb2K=w1000-h750-no",
-    "source_query": "Hypermarket in Dendermonde, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ4wt2QMeRw0cRXwlcT-LYa1A",
-    "name": "Sakon Thai Street Food",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Dendermonde",
-    "address": "Sakon Thai Street Food, Oude Vest 110, 9200 Dendermonde",
-    "street": "Oude Vest 110",
-    "postal_code": "9200",
-    "region": null,
-    "latitude": 51.0300674,
-    "longitude": 4.1035284,
-    "phone": "052 57 72 33",
-    "website": "http://www.sakonthaistreetfood.com/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Sakon%20Thai%20Street%20Food&query_place_id=ChIJ4wt2QMeRw0cRXwlcT-LYa1A",
-    "open_hours_json": {
-      "Monday": [
-        "10 am–2 pm"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "11 am–2 pm",
-        "5–9 pm"
-      ],
-      "Thursday": [
-        "11 am–2 pm",
-        "5–9 pm"
-      ],
-      "Friday": [
-        "11 am–2 pm",
-        "5–10 pm"
-      ],
-      "Saturday": [
-        "11:30 am–3 pm",
-        "5–10 pm"
-      ],
-      "Sunday": [
-        "5–9 pm"
-      ]
-    },
-    "review_count": 96,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd0n4-eStiRynMEYmw2W-TtyMCdTMLf-W8c8DJACqipdgquYO9KKG9JBzDpGT1QBheQQZEoH5RbGt5GCYYY8QFNUGN9pmNxJqPem81EMFWghNlOHq40pJPXUZneCwuAmNREajvHiqasfmgA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd0n4-eStiRynMEYmw2W-TtyMCdTMLf-W8c8DJACqipdgquYO9KKG9JBzDpGT1QBheQQZEoH5RbGt5GCYYY8QFNUGN9pmNxJqPem81EMFWghNlOHq40pJPXUZneCwuAmNREajvHiqasfmgA=w1000-h750-no",
-    "source_query": "Halal restaurant in Dendermonde, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJxwS1m8WXw0cRkI3itGuFcUM",
-    "name": "Sint-Aldegonde",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Dendermonde",
-    "address": "Sint-Aldegonde, Mespelarestraat 100, 9200 Dendermonde",
-    "street": "Mespelarestraat 100",
-    "postal_code": "9200",
-    "region": null,
-    "latitude": 50.995928,
-    "longitude": 4.0692032,
-    "phone": "0494 36 01 91",
-    "website": "https://www.sint-aldegonde.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Sint-Aldegonde&query_place_id=ChIJxwS1m8WXw0cRkI3itGuFcUM",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "12–4 pm",
-        "6–9 pm"
-      ],
-      "Friday": [
-        "12–4 pm",
-        "6–9 pm"
-      ],
-      "Saturday": [
-        "6–9 pm"
-      ],
-      "Sunday": [
-        "12–4 pm",
-        "6–9 pm"
-      ]
-    },
-    "review_count": 22,
-    "rating": 4.9,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe-VKmTzEyXQiSLUbWkjaKIxNvUugomNN5l52J7T74mpmnavOLTC5Fs_HuZ280vr671U72dLia1UrUyFbtg_9iW248PWSYPGc47a2kP8qhTCoovuf91-ZcIMGn65kqiCOhGkRTFGMAC7Jc=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe-VKmTzEyXQiSLUbWkjaKIxNvUugomNN5l52J7T74mpmnavOLTC5Fs_HuZ280vr671U72dLia1UrUyFbtg_9iW248PWSYPGc47a2kP8qhTCoovuf91-ZcIMGn65kqiCOhGkRTFGMAC7Jc=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Sint-Gillis-bij-Dendermonde, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ67blD7OWw0cRfoZNV6XubSA",
-    "name": "Sint-Gillis",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Dendermonde",
-    "address": "Sint-Gillis, 9200 Dendermonde",
-    "street": null,
-    "postal_code": "9200",
-    "region": null,
-    "latitude": 51.020899,
-    "longitude": 4.1188214,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Sint-Gillis&query_place_id=ChIJ67blD7OWw0cRfoZNV6XubSA",
-    "open_hours_json": null,
-    "review_count": 12,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfMBzlB7uEfwgpc8_LUK6aZ0fGNuCgNqtkKe0Hr4L6LivIrPDs8AQTCRkg1f0dZvu6c9TxF_fifAK0VdX_IzncQTew61UZTXqdNnhpjtVFRCmPPqZQCOzjE8sv9hkJ8-yq50w=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfMBzlB7uEfwgpc8_LUK6aZ0fGNuCgNqtkKe0Hr4L6LivIrPDs8AQTCRkg1f0dZvu6c9TxF_fifAK0VdX_IzncQTew61UZTXqdNnhpjtVFRCmPPqZQCOzjE8sv9hkJ8-yq50w=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Sint-Gillis-bij-Dendermonde, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJW2jOzEWRw0cRzZ5DuiQLolA",
-    "name": "Slagerij Sarah",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Dendermonde",
-    "address": "Slagerij Sarah, Veerstraat 1، 9200 Dendermonde",
-    "street": "Veerstraat 1",
-    "postal_code": "9200",
-    "region": null,
-    "latitude": 51.0323449,
-    "longitude": 4.1018968,
-    "phone": "0465 88 08 96",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Slagerij%20Sarah&query_place_id=ChIJW2jOzEWRw0cRzZ5DuiQLolA",
-    "open_hours_json": {
-      "Monday": [
-        "9 am–7 pm"
-      ],
-      "Tuesday": [
-        "9 am–7 pm"
-      ],
-      "Wednesday": [
-        "9 am–7 pm"
-      ],
-      "Thursday": [
-        "9 am–7 pm"
-      ],
-      "Friday": [
-        "9 am–7 pm"
-      ],
-      "Saturday": [
-        "9 am–7 pm"
-      ],
-      "Sunday": [
-        "9 am–7 pm"
-      ]
-    },
-    "review_count": 120,
-    "rating": 4.8,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfk_w6FGbfWNBWk3BU3NI6PLAazbi05CC2mHellpaA3ieRhNpgST0IdPE_r9b_AidZCP12BoLyWPUY35n9PGAAsCDaxIQDebplnoOpS6zTmUHof4k0QWdPBhXEdxqjgj-7jfVsP4G-WHnA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfk_w6FGbfWNBWk3BU3NI6PLAazbi05CC2mHellpaA3ieRhNpgST0IdPE_r9b_AidZCP12BoLyWPUY35n9PGAAsCDaxIQDebplnoOpS6zTmUHof4k0QWdPBhXEdxqjgj-7jfVsP4G-WHnA=w1000-h750-no",
-    "source_query": "Halal restaurant in Dendermonde, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJhWiva6OXw0cR58S7luqAhN8",
-    "name": "Sociale Kruidenier - TWIJKruid - OCMW Dendermonde",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Dendermonde",
-    "address": "Sociale Kruidenier - TWIJKruid - OCMW Dendermonde, Vijfde Januaristraat 19b, 9200 Dendermonde",
-    "street": "Vijfde Januaristraat 19b",
-    "postal_code": "9200",
-    "region": null,
-    "latitude": 51.020705899999996,
-    "longitude": 4.1140397,
-    "phone": "052 22 34 41",
-    "website": "https://www.dendermonde.be/sociale-kruidenier",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Sociale%20Kruidenier%20-%20TWIJKruid%20-%20OCMW%20Dendermonde&query_place_id=ChIJhWiva6OXw0cR58S7luqAhN8",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "1–4 pm"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "1–5 pm"
-      ],
-      "Friday": [
-        "Closed"
-      ],
-      "Saturday": [
-        "Closed"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 12,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfW3x0nvxCZ3NvTurae_XwAXnhQE_JDAetfouKpQjrILzStbuX5_petvaD8VF4XRX9SKbXFR9_2RnDjfsg3asN6peJoAM8gtigp_RsfILlkpaDdVkc6RaTAo_R8_-sOr6fbRIQU=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfW3x0nvxCZ3NvTurae_XwAXnhQE_JDAetfouKpQjrILzStbuX5_petvaD8VF4XRX9SKbXFR9_2RnDjfsg3asN6peJoAM8gtigp_RsfILlkpaDdVkc6RaTAo_R8_-sOr6fbRIQU=w1000-h750-no",
-    "source_query": "Hypermarket in Dendermonde, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ0wzXTDmRw0cRwSjTdpZc0KA",
-    "name": "Sushi Chère",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Dendermonde",
-    "address": "Sushi Chère, Brusselsestraat 32, 9200 Dendermonde",
-    "street": "Brusselsestraat 32",
-    "postal_code": "9200",
-    "region": null,
-    "latitude": 51.027873299999996,
-    "longitude": 4.099232499999999,
-    "phone": "052 37 37 87",
-    "website": "https://www.sushichere.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Sushi%20Ch%C3%A8re&query_place_id=ChIJ0wzXTDmRw0cRwSjTdpZc0KA",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "11:30 am–3 pm",
-        "5–9:30 pm"
-      ],
-      "Wednesday": [
-        "11:30 am–3 pm",
-        "5–9:30 pm"
-      ],
-      "Thursday": [
-        "11:30 am–3 pm",
-        "5–9:30 pm"
-      ],
-      "Friday": [
-        "11:30 am–3 pm",
-        "5–9:30 pm"
-      ],
-      "Saturday": [
-        "11:30 am–3 pm",
-        "5–9:30 pm"
-      ],
-      "Sunday": [
-        "11:30 am–3 pm",
-        "5–9:30 pm"
-      ]
-    },
-    "review_count": 88,
-    "rating": 4.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdiB0yXf_bSLMIAxhfV5p9YP1GkQORg1Tumh9lZzkuvs4m5aFLCFL2PnAZilqpJD3G2hBbTipoRSexD1I-MjVYeoUynpkWYr9l9hTs6kX_zRWZ3XhDFvXqAxSBiCHjkUIYBVwGCzh7-ZahS=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdiB0yXf_bSLMIAxhfV5p9YP1GkQORg1Tumh9lZzkuvs4m5aFLCFL2PnAZilqpJD3G2hBbTipoRSexD1I-MjVYeoUynpkWYr9l9hTs6kX_zRWZ3XhDFvXqAxSBiCHjkUIYBVwGCzh7-ZahS=w1000-h750-no",
-    "source_query": "Halal restaurant in Dendermonde, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJCTq3jUaXw0cRr9c0JQe5ynM",
-    "name": "Tandoori Bites - Pakistaans Restaurant",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Dendermonde",
-    "address": "Tandoori Bites - Pakistaans Restaurant, Sint Gillislaan 85, 9200 Dendermonde",
-    "street": "Sint Gillislaan 85",
-    "postal_code": "9200",
-    "region": null,
-    "latitude": 51.020441399999996,
-    "longitude": 4.1096752,
-    "phone": "0499 46 79 92",
-    "website": "https://tandooribites.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Tandoori%20Bites%20-%20Pakistaans%20Restaurant&query_place_id=ChIJCTq3jUaXw0cRr9c0JQe5ynM",
-    "open_hours_json": {
-      "Monday": [
-        "4–10 pm"
-      ],
-      "Tuesday": [
-        "4–10 pm"
-      ],
-      "Wednesday": [
-        "4–10 pm"
-      ],
-      "Thursday": [
-        "4–10 pm"
-      ],
-      "Friday": [
-        "4–10 pm"
-      ],
-      "Saturday": [
-        "4–10 pm"
-      ],
-      "Sunday": [
-        "4–10 pm"
-      ]
-    },
-    "review_count": 161,
-    "rating": 4.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdlcDGj7090nExrrZPJkvHW8EGC_fBGmAHiHTTeru9PVi-N-XVNSCXoFcQ1ZpFLnR6dV-bn63XvsskRlXi_Qb_F-rB9U6TzgamhXkAI4ljtYliW48ZmwwLR9mSp0HJ8KCcFfhKtlTa7VK8=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdlcDGj7090nExrrZPJkvHW8EGC_fBGmAHiHTTeru9PVi-N-XVNSCXoFcQ1ZpFLnR6dV-bn63XvsskRlXi_Qb_F-rB9U6TzgamhXkAI4ljtYliW48ZmwwLR9mSp0HJ8KCcFfhKtlTa7VK8=w1000-h750-no",
-    "source_query": "Halal restaurant in Sint-Gillis-bij-Dendermonde, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJu-A6n4OTw0cRzgzscp4fk_k",
-    "name": "Tarra",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Dendermonde",
-    "address": "Tarra, Sint Gillislaan 5, 9200 Dendermonde",
-    "street": "Sint Gillislaan 5",
-    "postal_code": "9200",
-    "region": null,
-    "latitude": 51.023209099999995,
-    "longitude": 4.1057415,
-    "phone": "0496 31 15 45",
-    "website": "https://tarraverpakkingsvrij.com/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Tarra&query_place_id=ChIJu-A6n4OTw0cRzgzscp4fk_k",
-    "open_hours_json": {
-      "Monday": [
-        "2–6 pm"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "9 am–6 pm"
-      ],
-      "Thursday": [
-        "2–7 pm"
-      ],
-      "Friday": [
-        "9 am–6 pm"
-      ],
-      "Saturday": [
-        "9 am–5 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 75,
-    "rating": 4.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc1XejC_nnT5YhVyVk6FOY6Mfn6S5DXxnhvzqNY402Z9slP8wkG5Y0_YTuTfWXdFFhju_3VSAvTxcY4yz3Q12OMEix1iGrSG3lJfF6ZUKbZ1RZPYgE6BdMt8mXopliCY-YfFYIfPw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc1XejC_nnT5YhVyVk6FOY6Mfn6S5DXxnhvzqNY402Z9slP8wkG5Y0_YTuTfWXdFFhju_3VSAvTxcY4yz3Q12OMEix1iGrSG3lJfF6ZUKbZ1RZPYgE6BdMt8mXopliCY-YfFYIfPw=w1000-h750-no",
-    "source_query": "Hypermarket in Dendermonde, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJta1SKDKRw0cRl06d_Nbt3q8",
-    "name": "Telenet Dendermonde",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Dendermonde",
-    "address": "Telenet Dendermonde, Oude Vest 47, 9200 Dendermonde",
-    "street": "Oude Vest 47",
-    "postal_code": "9200",
-    "region": null,
-    "latitude": 51.028881,
-    "longitude": 4.100698599999999,
-    "phone": "052 46 64 24",
-    "website": "https://telenetbyspectrum.be/winkels/dendermonde/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Telenet%20Dendermonde&query_place_id=ChIJta1SKDKRw0cRl06d_Nbt3q8",
-    "open_hours_json": {
-      "Monday": [
-        "10 am–6 pm"
-      ],
-      "Tuesday": [
-        "10 am–6 pm"
-      ],
-      "Wednesday": [
-        "10 am–6 pm"
-      ],
-      "Thursday": [
-        "10 am–6 pm"
-      ],
-      "Friday": [
-        "10 am–6 pm"
-      ],
-      "Saturday": [
-        "9:30 am–4 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 282,
-    "rating": 3.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeE_bKQ-LyRdzfEe2b2hp2so-jhD48Rc2j-Hrok7Mw9Pq0Lngw-iyupPa57wI8uaJlpPx7yTAHc0ScjS3iZImEaIra2Miic5GXE9ZRJyg6JyMfI-EZHejqLkmKPgTgcQ6cBhwXyy0ZjW8_O=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeE_bKQ-LyRdzfEe2b2hp2so-jhD48Rc2j-Hrok7Mw9Pq0Lngw-iyupPa57wI8uaJlpPx7yTAHc0ScjS3iZImEaIra2Miic5GXE9ZRJyg6JyMfI-EZHejqLkmKPgTgcQ6cBhwXyy0ZjW8_O=w1000-h750-no",
-    "source_query": "Hypermarket in Dendermonde, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJPzic-y6Rw0cRYWbBRynRrpU",
-    "name": "The Queen's Head",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Dendermonde",
-    "address": "The Queen's Head, Brusselsestraat 72, 9200 Dendermonde",
-    "street": "Brusselsestraat 72",
-    "postal_code": "9200",
-    "region": null,
-    "latitude": 51.0270029,
-    "longitude": 4.1003077999999995,
-    "phone": "0460 94 87 52",
-    "website": "http://www.thequeenshead.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=The%20Queen%27s%20Head&query_place_id=ChIJPzic-y6Rw0cRYWbBRynRrpU",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "Closed"
-      ],
-      "Friday": [
-        "11 am–8 pm"
-      ],
-      "Saturday": [
-        "9 am–8 pm"
-      ],
-      "Sunday": [
-        "9 am–8 pm"
-      ]
-    },
-    "review_count": 103,
-    "rating": 4.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeKjMYSeGXkY2mgLH6t9DUmWi7tAavfVrL9uBPTO7v_LmdkncOaoUi3prDkvcSNvSWtu9eZHTaiA8ex5W3i6lKR6wCs5NBRFtUlfLfl-GJCn8eAJdf9CqYBy4pkU8ug9z6Evnpa8uG82sg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeKjMYSeGXkY2mgLH6t9DUmWi7tAavfVrL9uBPTO7v_LmdkncOaoUi3prDkvcSNvSWtu9eZHTaiA8ex5W3i6lKR6wCs5NBRFtUlfLfl-GJCn8eAJdf9CqYBy4pkU8ug9z6Evnpa8uG82sg=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Dendermonde, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJzcT9hf6Yw0cR-xYQPkPwqWA",
-    "name": "Theofanis Grieks Restaurant",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Dendermonde",
-    "address": "Theofanis Grieks Restaurant, Bogaerdstraat 6, 9200 Dendermonde",
-    "street": "Bogaerdstraat 6",
-    "postal_code": "9200",
-    "region": null,
-    "latitude": 51.031512,
-    "longitude": 4.1023616,
-    "phone": "0488 25 61 66",
-    "website": "https://www.facebook.com/theofanisgrieksrestaurant",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Theofanis%20Grieks%20Restaurant&query_place_id=ChIJzcT9hf6Yw0cR-xYQPkPwqWA",
-    "open_hours_json": {
-      "Monday": [
-        "12–2:30 pm",
-        "6–10 pm"
-      ],
-      "Tuesday": [
-        "6–10 pm"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "6–10 pm"
-      ],
-      "Friday": [
-        "6–10 pm"
-      ],
-      "Saturday": [
-        "6–10 pm"
-      ],
-      "Sunday": [
-        "12–2:30 pm",
-        "6–10 pm"
-      ]
-    },
-    "review_count": 615,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdK_nySUIRTIv8X6cWiZEyTFl2R1f8aODSVvcniGR2kZWxbigftdgy5y8ya-Qxiw8-BtV3eer5hz5Sz7HHgrTlW7pv12wdr_wrTpK3j0C_EarnyZ6voKK9bJDSsHNBwfk_zdF5L=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdK_nySUIRTIv8X6cWiZEyTFl2R1f8aODSVvcniGR2kZWxbigftdgy5y8ya-Qxiw8-BtV3eer5hz5Sz7HHgrTlW7pv12wdr_wrTpK3j0C_EarnyZ6voKK9bJDSsHNBwfk_zdF5L=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Sint-Gillis-bij-Dendermonde, Flanders, BE",
     "moderation_status": "approved",
     "is_active": true,
     "verification_status": "UNVERIFIED",

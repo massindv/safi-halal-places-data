@@ -1,5 +1,863 @@
 [
   {
+    "place_id": "ChIJv09LJ-n2w0cRHBCcpl3phuk",
+    "name": "Moskee Arrahman",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Antwerpen",
+    "address": "Moskee Arrahman, Boudewijnsstraat 11, 2018 Antwerpen",
+    "street": "Boudewijnsstraat 11",
+    "postal_code": "2018",
+    "region": null,
+    "latitude": 51.2059048,
+    "longitude": 4.3987767,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Arrahman&query_place_id=ChIJv09LJ-n2w0cRHBCcpl3phuk",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc-nN8nvCoXEeP_h1CXWLGY1v0ZfHkECYbfyT4a8GgMSjpX7MAFD1pQv0A1ygDM1nK_PQxM97yoqXp_q0sKR43aw7PIQkWn9jaLgB1r0oG2bk3we3wBrkTdIuSlgOl0LLYA943-QQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc-nN8nvCoXEeP_h1CXWLGY1v0ZfHkECYbfyT4a8GgMSjpX7MAFD1pQv0A1ygDM1nK_PQxM97yoqXp_q0sKR43aw7PIQkWn9jaLgB1r0oG2bk3we3wBrkTdIuSlgOl0LLYA943-QQ=w1000-h750-no",
+    "rating": 4.8,
+    "review_count": 21,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJW22STQD3w0cRJ1CsY0jrTWY",
+    "name": "Moskee Assalaam",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Antwerpen",
+    "address": "Moskee Assalaam, Eugeen Meeusstraat 131, 2170 Antwerpen",
+    "street": "Eugeen Meeusstraat 131",
+    "postal_code": "2170",
+    "region": null,
+    "latitude": 51.2376526,
+    "longitude": 4.4444292,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Assalaam&query_place_id=ChIJW22STQD3w0cRJ1CsY0jrTWY",
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2tvJSbAjZccZlM2SMsU1Hw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=345.75165&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2tvJSbAjZccZlM2SMsU1Hw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=345.75165&pitch=0&thumbfov=w1000-h750-no",
+    "rating": 5.0,
+    "review_count": 3,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJibgM9pf3w0cRy7aaYvLEaes",
+    "name": "Moskee Attaqwa",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Antwerpen",
+    "address": "Moskee Attaqwa, Van Duyststraat 35, 2100 Antwerpen",
+    "street": "Van Duyststraat 35",
+    "postal_code": "2100",
+    "region": null,
+    "latitude": 51.2314278,
+    "longitude": 4.4453109,
+    "phone": "03 295 47 78",
+    "website": "https://www.moskeeattaqwa.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Attaqwa&query_place_id=ChIJibgM9pf3w0cRy7aaYvLEaes",
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=z06w3A8T9AG-i0mZEkDjTA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=303.61853&pitch=-0.8051769&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=z06w3A8T9AG-i0mZEkDjTA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=303.61853&pitch=-0.8051769&thumbfov=w1000-h750-no",
+    "rating": 4.5,
+    "review_count": 31,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJP21XFJ33w0cRbEVH9xQ3ZIg",
+    "name": "Moskee Attawaasol",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Antwerpen",
+    "address": "Moskee Attawaasol, Sergeyselsstraat 52, 2140 Antwerpen",
+    "street": "Sergeyselsstraat 52",
+    "postal_code": "2140",
+    "region": null,
+    "latitude": 51.2117747,
+    "longitude": 4.433084399999999,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Attawaasol&query_place_id=ChIJP21XFJ33w0cRbEVH9xQ3ZIg",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeqKOh3FZeDCHVqX6H38xp-ZblSnyXcmkDwusOOU41U7zbI-pK7omQkGO9luwvm841qTAAD_SQkomfqkbTk9n3hWovT_Zww1zr-0jAl5FjGpxRU03qx9JjPMnoIiPyJZGxlVlPD-g=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeqKOh3FZeDCHVqX6H38xp-ZblSnyXcmkDwusOOU41U7zbI-pK7omQkGO9luwvm841qTAAD_SQkomfqkbTk9n3hWovT_Zww1zr-0jAl5FjGpxRU03qx9JjPMnoIiPyJZGxlVlPD-g=w1000-h750-no",
+    "rating": 4.2,
+    "review_count": 19,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJY_2TYUn3w0cRz4aQpQ68vN0",
+    "name": "Moskee Attawhid",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Antwerpen",
+    "address": "Moskee Attawhid, Vancouverstraat 1D, 2030 Antwerpen",
+    "street": "Vancouverstraat 1D",
+    "postal_code": "2030",
+    "region": null,
+    "latitude": 51.2616358,
+    "longitude": 4.4231153999999995,
+    "phone": null,
+    "website": "https://moskee-attawhid.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Attawhid&query_place_id=ChIJY_2TYUn3w0cRz4aQpQ68vN0",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfCD3CgWnCNtnRNNyshmzKWZsoUH1OwjVUhgBusSsr0obXujYy4U5SR9lVvNPFp45YTuiIWlsaxYYF8dtImz9xBEf9aHWn2iRJsRQDQxOCAkntOF3azd3mGpKUBt2ZOQisK4rYqXYZMFUUW=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfCD3CgWnCNtnRNNyshmzKWZsoUH1OwjVUhgBusSsr0obXujYy4U5SR9lVvNPFp45YTuiIWlsaxYYF8dtImz9xBEf9aHWn2iRJsRQDQxOCAkntOF3azd3mGpKUBt2ZOQisK4rYqXYZMFUUW=w1000-h750-no",
+    "rating": 4.9,
+    "review_count": 61,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJ16r6KLL2w0cRMeZ8iSyPFqU",
+    "name": "Moskee Badr",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Antwerpen",
+    "address": "Moskee Badr, Van Halmalestraat 18, 2020 Antwerpen",
+    "street": "Van Halmalestraat 18",
+    "postal_code": "2020",
+    "region": null,
+    "latitude": 51.1865356,
+    "longitude": 4.376259999999999,
+    "phone": null,
+    "website": "https://www.lamosqueeducoin.com/mosquee/badr-mosque/1112",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Badr&query_place_id=ChIJ16r6KLL2w0cRMeZ8iSyPFqU",
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Y7NfApZv1WN0zjlVH9zdJw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=193.13872&pitch=-4.172356&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Y7NfApZv1WN0zjlVH9zdJw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=193.13872&pitch=-4.172356&thumbfov=w1000-h750-no",
+    "rating": 4.6,
+    "review_count": 34,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJAVM3SAr3w0cRWeLcBT8t4X8",
+    "name": "Moskee Bilal",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Antwerpen",
+    "address": "Moskee Bilal, Van Montfortstraat 33, 2140 Antwerpen",
+    "street": "Van Montfortstraat 33",
+    "postal_code": "2140",
+    "region": null,
+    "latitude": 51.2190205,
+    "longitude": 4.437486799999999,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Bilal&query_place_id=ChIJAVM3SAr3w0cRWeLcBT8t4X8",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeRYb63NoRoNTNziXRZ36LMXy5t96hfTOMP7HyHmiV5FFQLX0B1F7ysOU6RlcEdgZXY81OYdmx_ey0InQag6wrYuVBPCiKfQI7BpYIiLggS_sw_ekOJ_ms6gkfbSgsznVNFUbzP=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeRYb63NoRoNTNziXRZ36LMXy5t96hfTOMP7HyHmiV5FFQLX0B1F7ysOU6RlcEdgZXY81OYdmx_ey0InQag6wrYuVBPCiKfQI7BpYIiLggS_sw_ekOJ_ms6gkfbSgsznVNFUbzP=w1000-h750-no",
+    "rating": 4.7,
+    "review_count": 143,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJbYRm_3L3w0cRiiEKBenolC8",
+    "name": "Moskee Dar Al Hadith",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Antwerpen",
+    "address": "Moskee Dar Al Hadith, Beukenstraat 24, 2140 Antwerpen",
+    "street": "Beukenstraat 24",
+    "postal_code": "2140",
+    "region": null,
+    "latitude": 51.212563499999995,
+    "longitude": 4.4417295,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Dar%20Al%20Hadith&query_place_id=ChIJbYRm_3L3w0cRiiEKBenolC8",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd9JocHdKVw3QrjgJN3A5AIZcl6p1YDNo6pHbvPlb0VRlWRzwaZIx-hchhiIVTBvxNGpvT6hB9qxhsTIcohrHEGxDgIEyoaHRH5zeNH81RlY46VQJvLXuxLLVwFb_XKW7I2b5oCSQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd9JocHdKVw3QrjgJN3A5AIZcl6p1YDNo6pHbvPlb0VRlWRzwaZIx-hchhiIVTBvxNGpvT6hB9qxhsTIcohrHEGxDgIEyoaHRH5zeNH81RlY46VQJvLXuxLLVwFb_XKW7I2b5oCSQ=w1000-h750-no",
+    "rating": 4.9,
+    "review_count": 36,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJvWuOU7L2w0cRQxKPRdVsPEU",
+    "name": "Moskee El Fath En Nassr",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Antwerpen",
+    "address": "Moskee El Fath En Nassr, Polostraat 59, 2660 Antwerpen",
+    "street": "Polostraat 59",
+    "postal_code": "2660",
+    "region": null,
+    "latitude": 51.1846113,
+    "longitude": 4.3762032,
+    "phone": "03 294 06 11",
+    "website": "http://www.mefen.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20El%20Fath%20En%20Nassr&query_place_id=ChIJvWuOU7L2w0cRQxKPRdVsPEU",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc_4Qvbaz6MzTJlGYyRgx8kozkC2lI9es3TjZpEW5OTGrkBIkBaLY2yR1piMwYMX95qWEaysodrDEBUP473LvhGnyIclyme5Lhct5FSZtYRKpzce170FTfB4T0RU3QYGruyLPWwfA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc_4Qvbaz6MzTJlGYyRgx8kozkC2lI9es3TjZpEW5OTGrkBIkBaLY2yR1piMwYMX95qWEaysodrDEBUP473LvhGnyIclyme5Lhct5FSZtYRKpzce170FTfB4T0RU3QYGruyLPWwfA=w1000-h750-no",
+    "rating": 4.6,
+    "review_count": 75,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJF2vabbL2w0cRkXSXcTc1Vis",
+    "name": "Moskee El Fath en Nassr (Grote Moskee van hoboken)",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Antwerpen",
+    "address": "Moskee El Fath en Nassr (Grote Moskee van hoboken), Sint-Bernardsesteenweg 289, 2660 Antwerpen",
+    "street": "Sint-Bernardsesteenweg 289",
+    "postal_code": "2660",
+    "region": null,
+    "latitude": 51.185195799999995,
+    "longitude": 4.3744628,
+    "phone": null,
+    "website": "http://www.mefen.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20El%20Fath%20en%20Nassr%20%28Grote%20Moskee%20van%20hoboken%29&query_place_id=ChIJF2vabbL2w0cRkXSXcTc1Vis",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdilyRugF5lk0_w1GFXH5BIb4pZfBkWBLTvRVjJdwdcCII5FhRpSXeYX4LG6lahp8nRhpkJ1075lboHW9dhDkAPmFVrT6-AkpSQY97eb8u47pdwo6mAsJWMrGCsW8xTmiC3cNo=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdilyRugF5lk0_w1GFXH5BIb4pZfBkWBLTvRVjJdwdcCII5FhRpSXeYX4LG6lahp8nRhpkJ1075lboHW9dhDkAPmFVrT6-AkpSQY97eb8u47pdwo6mAsJWMrGCsW8xTmiC3cNo=w1000-h750-no",
+    "rating": 4.7,
+    "review_count": 93,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJy7XbzSP3w0cRC_ztfRSromU",
+    "name": "Moskee El Mohsinien (ICCEM vzw)",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Antwerpen",
+    "address": "Moskee El Mohsinien (ICCEM vzw), Sint-Lambertusstraat 68, 2600 Antwerpen",
+    "street": "Sint-Lambertusstraat 68",
+    "postal_code": "2600",
+    "region": null,
+    "latitude": 51.1978857,
+    "longitude": 4.4207569,
+    "phone": null,
+    "website": "http://iccem.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20El%20Mohsinien%20%28ICCEM%20vzw%29&query_place_id=ChIJy7XbzSP3w0cRC_ztfRSromU",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeAq4Q926ZK179CwxB6awGyDgQkQRwbuet27Ie4VkvX_7yT4uInpT4sRFPMg0785PYQvt27nX6ihtTScAFw5PPVOqFNeQ5tpKil02peFZqfi-OeSGqQHW6Dq1oH81ANTIChkPkIEer_uGGG=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeAq4Q926ZK179CwxB6awGyDgQkQRwbuet27Ie4VkvX_7yT4uInpT4sRFPMg0785PYQvt27nX6ihtTScAFw5PPVOqFNeQ5tpKil02peFZqfi-OeSGqQHW6Dq1oH81ANTIChkPkIEer_uGGG=w1000-h750-no",
+    "rating": 4.8,
+    "review_count": 106,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJ5WYccvvzw0cRuZs1W558R3A",
+    "name": "Moskee El Ouahda🕌",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Antwerpen",
+    "address": "Moskee El Ouahda🕌, Lelieplaats 25, 2660 Antwerpen",
+    "street": "Lelieplaats 25",
+    "postal_code": "2660",
+    "region": null,
+    "latitude": 51.173994199999996,
+    "longitude": 4.3516875,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20El%20Ouahda%F0%9F%95%8C&query_place_id=ChIJ5WYccvvzw0cRuZs1W558R3A",
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=WCudHiC-Ca7USsgngLGBEw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=58.06745&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=WCudHiC-Ca7USsgngLGBEw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=58.06745&pitch=0&thumbfov=w1000-h750-no",
+    "rating": 4.5,
+    "review_count": 31,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJS2wt1Rr3w0cRurADECIvBVk",
+    "name": "Moskee El-Nour",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Antwerpen",
+    "address": "Moskee El-Nour, Wipstraat 16, 2018 Antwerpen",
+    "street": "Wipstraat 16",
+    "postal_code": "2018",
+    "region": null,
+    "latitude": 51.21113,
+    "longitude": 4.4252775,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20El-Nour&query_place_id=ChIJS2wt1Rr3w0cRurADECIvBVk",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLctTHxoKhqsTq_bGpJH81rP73LDWtVKAeatn79WWhzdrdNWOmzCaI-r-xByKvTuPlHA3SDb8n7fjLZLj3XlPzmm7-a4hyh4s0suv1zPXyz2hHMj9TX7rvJXJ6-m49S0h1kKvBJn=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLctTHxoKhqsTq_bGpJH81rP73LDWtVKAeatn79WWhzdrdNWOmzCaI-r-xByKvTuPlHA3SDb8n7fjLZLj3XlPzmm7-a4hyh4s0suv1zPXyz2hHMj9TX7rvJXJ6-m49S0h1kKvBJn=w1000-h750-no",
+    "rating": 4.9,
+    "review_count": 50,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJeRM1cA_3w0cREuCF91RKtWQ",
+    "name": "Moskee Ennassr",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Antwerpen",
+    "address": "Moskee Ennassr, Kroonstraat 72, 2140 Antwerpen",
+    "street": "Kroonstraat 72",
+    "postal_code": "2140",
+    "region": null,
+    "latitude": 51.2141356,
+    "longitude": 4.429727199999999,
+    "phone": "0484 14 81 23",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Ennassr&query_place_id=ChIJeRM1cA_3w0cREuCF91RKtWQ",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdIg-eWswhsh2kzIgvRn1007k_Cv2QfrTsu-sqIVHwsEPNyyxbthX6MJO1bHdwGYs7M5SUs-9s2IPlVMYuVzkhOmYJSbdNFA_Fa8PKAo16Qaf9FrqIaRDpS-41E_oo8L8_CchNp=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdIg-eWswhsh2kzIgvRn1007k_Cv2QfrTsu-sqIVHwsEPNyyxbthX6MJO1bHdwGYs7M5SUs-9s2IPlVMYuVzkhOmYJSbdNFA_Fa8PKAo16Qaf9FrqIaRDpS-41E_oo8L8_CchNp=w1000-h750-no",
+    "rating": 4.6,
+    "review_count": 37,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJV4YAS6n3w0cRRYTNJPIVvto",
+    "name": "Moskee Es-Sabur🕌",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Antwerpen",
+    "address": "Moskee Es-Sabur🕌, Tulpstraat 38, 2060 Antwerp",
+    "street": "Tulpstraat 38",
+    "postal_code": "2060",
+    "region": null,
+    "latitude": 51.226649699999996,
+    "longitude": 4.4257995999999995,
+    "phone": null,
+    "website": "https://www.facebook.com/Romani-dzamija-ko-Antwerpen-1748539652082172",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Es-Sabur%F0%9F%95%8C&query_place_id=ChIJV4YAS6n3w0cRRYTNJPIVvto",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLenjdu8kVnycniXOkaOeaMkqTCxnV6RVYpkGQIrSoX5iSDZoq89d38YiuripT1az3oiN5WJ_DvNbjqiUUm0KbcQmaCkJ-YOqUQKd4_7IXIUdDL2vrpZzIRPr_tooAvT1rcrHDp6=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLenjdu8kVnycniXOkaOeaMkqTCxnV6RVYpkGQIrSoX5iSDZoq89d38YiuripT1az3oiN5WJ_DvNbjqiUUm0KbcQmaCkJ-YOqUQKd4_7IXIUdDL2vrpZzIRPr_tooAvT1rcrHDp6=w1000-h750-no",
+    "rating": 5.0,
+    "review_count": 11,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJQ9p01b_3w0cRpeBmhAxBUFQ",
+    "name": "Moskee Essalam 🕌",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Antwerpen",
+    "address": "Moskee Essalam 🕌, Borrewaterstraat 131, 2170 Antwerpen",
+    "street": "Borrewaterstraat 131",
+    "postal_code": "2170",
+    "region": null,
+    "latitude": 51.2392664,
+    "longitude": 4.4452633,
+    "phone": "0488 08 96 92",
+    "website": "http://www.moskee-essalam.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Essalam%20%F0%9F%95%8C&query_place_id=ChIJQ9p01b_3w0cRpeBmhAxBUFQ",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeDt2x5P7B6JZikY2aY0IbN1xrQ1yEFnnM1mxTzMc1Wc84VJzvMHtaMKWVEcVQ0EtlCiDugZMRPaN3HF6RQ8gIFqWvCxoPvKdMP-9ViU6OPa2AeNifoYT936a9yHZFjjOa9Xw72=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeDt2x5P7B6JZikY2aY0IbN1xrQ1yEFnnM1mxTzMc1Wc84VJzvMHtaMKWVEcVQ0EtlCiDugZMRPaN3HF6RQ8gIFqWvCxoPvKdMP-9ViU6OPa2AeNifoYT936a9yHZFjjOa9Xw72=w1000-h750-no",
+    "rating": 4.8,
+    "review_count": 116,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJXevDH7r2w0cR7-YKGaabrfo",
+    "name": "Moskee Eyup Sultan Camii",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Antwerpen",
+    "address": "Moskee Eyup Sultan Camii, Sint-Bernardsesteenweg 222, 2020 Antwerpen",
+    "street": "Sint-Bernardsesteenweg 222",
+    "postal_code": "2020",
+    "region": null,
+    "latitude": 51.193028899999995,
+    "longitude": 4.3809732,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Eyup%20Sultan%20Camii&query_place_id=ChIJXevDH7r2w0cR7-YKGaabrfo",
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=uQD3WRVGE7NAJtLDqyYa5A&cb_client=search.gws-prod.grass&w=80&h=92&yaw=302.9943&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=uQD3WRVGE7NAJtLDqyYa5A&cb_client=search.gws-prod.grass&w=80&h=92&yaw=302.9943&pitch=0&thumbfov=w1000-h750-no",
+    "rating": 4.5,
+    "review_count": 16,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJISRkFJn3w0cRQmPgDR2Ai8I",
+    "name": "Moskee Gazi Husrev-beg",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Antwerpen",
+    "address": "Moskee Gazi Husrev-beg, Ten Eekhovelei 223, 2100 Antwerpen",
+    "street": "Ten Eekhovelei 223",
+    "postal_code": "2100",
+    "region": null,
+    "latitude": 51.227469799999994,
+    "longitude": 4.4479934,
+    "phone": "0488 82 81 11",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Gazi%20Husrev-beg&query_place_id=ChIJISRkFJn3w0cRQmPgDR2Ai8I",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcetXtQm9K8CMF_4Qn30dci7NSWODKcNftb9bW7GQprK2aCd-kjqrtZ_SSnyXNMPR3dh7sd9ABiI0QexIaHe78ILTi7yiwPZP3rbkhCowVXVsDoKy0bgGULkzDdsX7l8G4qTfpG=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcetXtQm9K8CMF_4Qn30dci7NSWODKcNftb9bW7GQprK2aCd-kjqrtZ_SSnyXNMPR3dh7sd9ABiI0QexIaHe78ILTi7yiwPZP3rbkhCowVXVsDoKy0bgGULkzDdsX7l8G4qTfpG=w1000-h750-no",
+    "rating": 4.8,
+    "review_count": 47,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJ_QpUDxD3w0cRmolq19iR7ck",
+    "name": "Moskee Hamza",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Antwerpen",
+    "address": "Moskee Hamza, Kroonstraat 210, 2140 Antwerpen",
+    "street": "Kroonstraat 210",
+    "postal_code": "2140",
+    "region": null,
+    "latitude": 51.210333299999995,
+    "longitude": 4.4285305,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Hamza&query_place_id=ChIJ_QpUDxD3w0cRmolq19iR7ck",
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CgF6nxQy6B5IfhZ1VyyYkA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=294.76038&pitch=3.4578142&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CgF6nxQy6B5IfhZ1VyyYkA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=294.76038&pitch=3.4578142&thumbfov=w1000-h750-no",
+    "rating": 4.7,
+    "review_count": 15,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJocHF2673w0cRS99Qz1tcHXs",
+    "name": "Moskee Imami-Buhari Camii 🕌",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Antwerpen",
+    "address": "Moskee Imami-Buhari Camii 🕌, Everaertsstraat 101, 2060 Antwerpen",
+    "street": "Everaertsstraat 101",
+    "postal_code": "2060",
+    "region": null,
+    "latitude": 51.227626799999996,
+    "longitude": 4.4272593,
+    "phone": "0483 02 58 89",
+    "website": "http://facebook.com/antwerpenimambuharicamii",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Imami-Buhari%20Camii%20%F0%9F%95%8C&query_place_id=ChIJocHF2673w0cRS99Qz1tcHXs",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcu4rkGgY3ltF4o0IoJsJdqfkeEQF-J4rkT5Fk4IC7bbSAsXp0YGPY-izMY_Ne3gpJOmquDcBcDwGO0o-QCousFNrQwSitVd0VUjc--xQDkf_ASKib9eZCfe3XUaISHgVc2-SmSSg=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcu4rkGgY3ltF4o0IoJsJdqfkeEQF-J4rkT5Fk4IC7bbSAsXp0YGPY-izMY_Ne3gpJOmquDcBcDwGO0o-QCousFNrQwSitVd0VUjc--xQDkf_ASKib9eZCfe3XUaISHgVc2-SmSSg=w1000-h750-no",
+    "rating": 4.8,
+    "review_count": 118,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJcZ5tbKz3w0cRSQYyFZ5bems",
+    "name": "Moskee Khatim-Ul-Anbia 🕌",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Antwerpen",
+    "address": "Moskee Khatim-Ul-Anbia 🕌, Biekorfstraat 8, 2060 Antwerpen",
+    "street": "Biekorfstraat 8",
+    "postal_code": "2060",
+    "region": null,
+    "latitude": 51.227416399999996,
+    "longitude": 4.4227872999999995,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Khatim-Ul-Anbia%20%F0%9F%95%8C&query_place_id=ChIJcZ5tbKz3w0cRSQYyFZ5bems",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeF2apq5DqWLwa9tOHYEjdjNnU7TlGHOAesW98R3DltcO1wnG4qB0BQNI1PhPpzGMQ_ASoSVWqwTPPc_QIydY6qGqUJ4iLbJJcVW0iinmmZf_PBlDAVDcZrFlbN1lYDZ64zikYJ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeF2apq5DqWLwa9tOHYEjdjNnU7TlGHOAesW98R3DltcO1wnG4qB0BQNI1PhPpzGMQ_ASoSVWqwTPPc_QIydY6qGqUJ4iLbJJcVW0iinmmZf_PBlDAVDcZrFlbN1lYDZ64zikYJ=w1000-h750-no",
+    "rating": 5.0,
+    "review_count": 44,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJFa2oMan3w0cRbtqOJLUlYp8",
+    "name": "Moskee Noor-Ul-Haram 🕌",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Antwerpen",
+    "address": "Moskee Noor-Ul-Haram 🕌, Van Kerckhovenstraat 85/89, 2060 Antwerpen",
+    "street": "Van Kerckhovenstraat 85/89",
+    "postal_code": "2060",
+    "region": null,
+    "latitude": 51.2263458,
+    "longitude": 4.4263145999999995,
+    "phone": "0486 82 16 63",
+    "website": "https://noorulharam.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Noor-Ul-Haram%20%F0%9F%95%8C&query_place_id=ChIJFa2oMan3w0cRbtqOJLUlYp8",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdBoIOkSJ4v4OtOPiYufRQYopyTBsM5X4rCimXDErF8WdX-F2N3KqtUZTMQ8YI9i5lcaeCSxH3nTzN4BB2gGdlQwzaXdFDV63CRUM3RH9d3rwuKy1AARVUBTn9xyCXyPS5RgFeT=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdBoIOkSJ4v4OtOPiYufRQYopyTBsM5X4rCimXDErF8WdX-F2N3KqtUZTMQ8YI9i5lcaeCSxH3nTzN4BB2gGdlQwzaXdFDV63CRUM3RH9d3rwuKy1AARVUBTn9xyCXyPS5RgFeT=w1000-h750-no",
+    "rating": 4.6,
+    "review_count": 87,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJ8yoJza73w0cRrK78uXZhPz0",
+    "name": "Moskee Omar Masjid 🕌",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Antwerpen",
+    "address": "Moskee Omar Masjid 🕌, Tulpstraat 49, 2060 Antwerpen",
+    "street": "Tulpstraat 49",
+    "postal_code": "2060",
+    "region": null,
+    "latitude": 51.226947599999995,
+    "longitude": 4.426645199999999,
+    "phone": null,
+    "website": "https://mawaqit.net/en/omar-antwerpen",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Omar%20Masjid%20%F0%9F%95%8C&query_place_id=ChIJ8yoJza73w0cRrK78uXZhPz0",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfE-HJKcwG8xd2JMOGXBv3nuu9F6YfmciZ-6rZQNUR39crsuSjTJcrNjn5GQNX8xCr2IVKtgwOCIHpFpmQ_7QV09oMZvj47QzruUg8A3-H5YfiuAgPvsYZxt0R2m57lWHy1-E-l=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfE-HJKcwG8xd2JMOGXBv3nuu9F6YfmciZ-6rZQNUR39crsuSjTJcrNjn5GQNX8xCr2IVKtgwOCIHpFpmQ_7QV09oMZvj47QzruUg8A3-H5YfiuAgPvsYZxt0R2m57lWHy1-E-l=w1000-h750-no",
+    "rating": 4.8,
+    "review_count": 72,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJ41m_yCL3w0cRB_ofnkGV3DY",
+    "name": "Moskee Selimiye Camii",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Antwerpen",
+    "address": "Moskee Selimiye Camii, Generaal Drubbelstraat 66, 2600 Antwerpen",
+    "street": "Generaal Drubbelstraat 66",
+    "postal_code": "2600",
+    "region": null,
+    "latitude": 51.199048999999995,
+    "longitude": 4.4256838,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Selimiye%20Camii&query_place_id=ChIJ41m_yCL3w0cRB_ofnkGV3DY",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf7D0auxXOLn7daLtmGM6-MBnn9i8EvIP71S-YTYneUyFIqbegg1q8Z0Z-tP6jT_2xzqOF6oZsEgQLkv_hU3ygxe0EXUD7qk_1iPgUjeePyHdjQlMWXylS6DHeWizmG4bm4yBXj=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf7D0auxXOLn7daLtmGM6-MBnn9i8EvIP71S-YTYneUyFIqbegg1q8Z0Z-tP6jT_2xzqOF6oZsEgQLkv_hU3ygxe0EXUD7qk_1iPgUjeePyHdjQlMWXylS6DHeWizmG4bm4yBXj=w1000-h750-no",
+    "rating": 4.8,
+    "review_count": 53,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJC9RFz-z2w0cRVixzkHQLQrU",
+    "name": "Moskee Taoubat🕌",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Antwerpen",
+    "address": "Moskee Taoubat🕌, Pourbusstraat 9, 2000 Antwerpen",
+    "street": "Pourbusstraat 9",
+    "postal_code": "2000",
+    "region": null,
+    "latitude": 51.2088545,
+    "longitude": 4.3906179,
+    "phone": null,
+    "website": "https://www.companyweb.be/bedrijf/islamitisch-cultureel-centrum-moskee-taoubat/vzw/430867070",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Taoubat%F0%9F%95%8C&query_place_id=ChIJC9RFz-z2w0cRVixzkHQLQrU",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeymwjDLyDBGMSVpwJIi91_P7KmdBi54-jBJ6_-3_jjZUX57TpbrLcodsN5_w-rRnviNQtS3GKlGOujQG9i6rxXkKiGcwb9s2jxDZLXXuDlNl1q01__i3BhMJvCkbt5ytSo8RmYYQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeymwjDLyDBGMSVpwJIi91_P7KmdBi54-jBJ6_-3_jjZUX57TpbrLcodsN5_w-rRnviNQtS3GKlGOujQG9i6rxXkKiGcwb9s2jxDZLXXuDlNl1q01__i3BhMJvCkbt5ytSo8RmYYQ=w1000-h750-no",
+    "rating": 4.7,
+    "review_count": 40,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJd_aMm933w0cRVgz1bKGHBWY",
+    "name": "Moskee Ummatu Muhammad",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Antwerpen",
+    "address": "Moskee Ummatu Muhammad, Gloriantlaan 28, 2050 Antwerpen",
+    "street": "Gloriantlaan 28",
+    "postal_code": "2050",
+    "region": null,
+    "latitude": 51.2307286,
+    "longitude": 4.386095,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Ummatu%20Muhammad&query_place_id=ChIJd_aMm933w0cRVgz1bKGHBWY",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcuuZV5iCCxtPENj-TgGMFWqkVffrd7lQClVaoRAe2yvnPcG7_5O-xUCkwqjq7kYBYGdNAfmjuitq_9gtOtiQ8fCXiDT_n7IycULvi84KdIQL2HET7zEi-iIQtnsn2VS6W0CUtg=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcuuZV5iCCxtPENj-TgGMFWqkVffrd7lQClVaoRAe2yvnPcG7_5O-xUCkwqjq7kYBYGdNAfmjuitq_9gtOtiQ8fCXiDT_n7IycULvi84KdIQL2HET7zEi-iIQtnsn2VS6W0CUtg=w1000-h750-no",
+    "rating": 4.7,
+    "review_count": 30,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJ75PwKj33w0cRyyC7HHapXYo",
+    "name": "Moskee van Berchem (Kuba)",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Antwerpen",
+    "address": "Moskee van Berchem (Kuba), Generaal Drubbelstraat 104, 2600 Antwerpen",
+    "street": "Generaal Drubbelstraat 104",
+    "postal_code": "2600",
+    "region": null,
+    "latitude": 51.198087799999996,
+    "longitude": 4.42646,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20van%20Berchem%20%28Kuba%29&query_place_id=ChIJ75PwKj33w0cRyyC7HHapXYo",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfDQSDIefUNY5CcBOcU92Sk-B8KGbUuV6iQ2VyAXDx6GBnSwTwQn4thoRduH039piQdxqN9PkF0NDBNdQuYhvnvkK0jER7i-jHBUfguMQPR6qITJOHqYZX6wTncYwyUZ4Epkbhr=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfDQSDIefUNY5CcBOcU92Sk-B8KGbUuV6iQ2VyAXDx6GBnSwTwQn4thoRduH039piQdxqN9PkF0NDBNdQuYhvnvkK0jER7i-jHBUfguMQPR6qITJOHqYZX6wTncYwyUZ4Epkbhr=w1000-h750-no",
+    "rating": 4.7,
+    "review_count": 25,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJjT-MOwDzw0cR3_qR9saoCQo",
+    "name": "Moskee van Hoboken",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Antwerpen",
+    "address": "Moskee van Hoboken, Achturendagstraat 16 A, 2660 Antwerp",
+    "street": "Achturendagstraat 16 A",
+    "postal_code": "2660",
+    "region": null,
+    "latitude": 51.1713952,
+    "longitude": 4.3378198999999995,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20van%20Hoboken&query_place_id=ChIJjT-MOwDzw0cR3_qR9saoCQo",
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xLitDsZC4-7FwACCeI61sw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=44.544662&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xLitDsZC4-7FwACCeI61sw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=44.544662&pitch=0&thumbfov=w1000-h750-no",
+    "rating": 5.0,
+    "review_count": 3,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJyTJLtWf3w0cRxSD86Gy5oho",
+    "name": "O'Caprices familierestaurant",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Antwerpen",
+    "address": "O'Caprices familierestaurant, Abdijstraat 135, 2020 Antwerpen",
+    "street": "Abdijstraat 135",
+    "postal_code": "2020",
+    "region": null,
+    "latitude": 51.1882228,
+    "longitude": 4.383274,
+    "phone": "0472 35 43 22",
+    "website": "https://ocaprices.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=O%27Caprices%20familierestaurant&query_place_id=ChIJyTJLtWf3w0cRxSD86Gy5oho",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf2Z87OZHQT4ETFIGHneRNjm3s3bthhX-5w_ZPou0b4NEGe8SonPVEL4DP2XGVk8jF_8SZLjOW2GoTGZmFe_qUkkYmN9Gdq2JvEmLpvaOPrtxpaKcKFvnW5Vv94zc5smy9zLXoS6w=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf2Z87OZHQT4ETFIGHneRNjm3s3bthhX-5w_ZPou0b4NEGe8SonPVEL4DP2XGVk8jF_8SZLjOW2GoTGZmFe_qUkkYmN9Gdq2JvEmLpvaOPrtxpaKcKFvnW5Vv94zc5smy9zLXoS6w=w1000-h750-no",
+    "rating": 4.1,
+    "review_count": 829,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJH3qyfpa-cUERPKdp2APA8MI",
+    "name": "O’tagine 🇲🇦",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Antwerpen",
+    "address": "O’tagine 🇲🇦, Ernest Van Dijckkaai 13, 2000 Antwerpen",
+    "street": "Ernest Van Dijckkaai 13",
+    "postal_code": "2000",
+    "region": null,
+    "latitude": 51.2207704,
+    "longitude": 4.3970205,
+    "phone": "03 237 06 19",
+    "website": "https://www.otagine.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=O%E2%80%99tagine%20%F0%9F%87%B2%F0%9F%87%A6&query_place_id=ChIJH3qyfpa-cUERPKdp2APA8MI",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc8Ys37ecaALDVwSOP1FrLjBy6yLNvYA_NH8nJs8uTfkF9tT4MSO0LM3QSiJUEjqqQtHNa3M6rl9r81nqCaSM3aPTXkiCzSWUWm7kQY0silLgvXf2GAH8R9jsy6urjK6JYh1HUu=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc8Ys37ecaALDVwSOP1FrLjBy6yLNvYA_NH8nJs8uTfkF9tT4MSO0LM3QSiJUEjqqQtHNa3M6rl9r81nqCaSM3aPTXkiCzSWUWm7kQY0silLgvXf2GAH8R9jsy6urjK6JYh1HUu=w1000-h750-no",
+    "rating": 4.3,
+    "review_count": 805,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJ9SXa1WD3w0cRqbMluhouMoo",
+    "name": "PALESTIJNS RESTAURANT",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Antwerpen",
+    "address": "PALESTIJNS RESTAURANT, Handelstraat 54, 2060 Antwerpen",
+    "street": "Handelstraat 54",
+    "postal_code": "2060",
+    "region": null,
+    "latitude": 51.223699499999995,
+    "longitude": 4.4298534,
+    "phone": "0465 92 68 31",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=PALESTIJNS%20RESTAURANT&query_place_id=ChIJ9SXa1WD3w0cRqbMluhouMoo",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdEbDF8VABENppXqwERjDy0RtEUYFJ1c1jQlq_umr4_hdne1CN7z-D6iywDOQFOBPd0kVyWBiRfFtSKgbJ-jUxEC_2f3Iig8uVRdl2EasG2DvHhxxGR7iM6WxyIANMOoT-_nyS01g=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdEbDF8VABENppXqwERjDy0RtEUYFJ1c1jQlq_umr4_hdne1CN7z-D6iywDOQFOBPd0kVyWBiRfFtSKgbJ-jUxEC_2f3Iig8uVRdl2EasG2DvHhxxGR7iM6WxyIANMOoT-_nyS01g=w1000-h750-no",
+    "rating": 4.5,
+    "review_count": 159,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJYXPEBYX3w0cRFF7Zys57Brg",
+    "name": "PIZZA & PASTA CONCEPT",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Antwerpen",
+    "address": "PIZZA & PASTA CONCEPT, De Berlaimontstraat 93, 2100 Antwerpen",
+    "street": "De Berlaimontstraat 93",
+    "postal_code": "2100",
+    "region": null,
+    "latitude": 51.2287208,
+    "longitude": 4.459,
+    "phone": "03 434 58 85",
+    "website": "http://www.pizzapastaconcept.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=PIZZA%20%26%20PASTA%20CONCEPT&query_place_id=ChIJYXPEBYX3w0cRFF7Zys57Brg",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfspEIQMVG9kusJ6w7N8qoKt5qnpL01Oozk8Y3XTLfGNh7POsaiFmZ6p2GC9RSvdvtnmN--po2oh8ATwGGuv9GabfVG6SJK3Rp81daEJRRFLe5w8fg0dG_PqbX2foOSsE1h2MwQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfspEIQMVG9kusJ6w7N8qoKt5qnpL01Oozk8Y3XTLfGNh7POsaiFmZ6p2GC9RSvdvtnmN--po2oh8ATwGGuv9GabfVG6SJK3Rp81daEJRRFLe5w8fg0dG_PqbX2foOSsE1h2MwQ=w1000-h750-no",
+    "rating": 4.5,
+    "review_count": 426,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJM6xMGl73w0cRAHvDBjo4eVA",
+    "name": "Queen Pizza deurne 🍕🍕",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Antwerpen",
+    "address": "Queen Pizza deurne 🍕🍕, Cruyslei 75, 2100 Antwerpen",
+    "street": "Cruyslei 75",
+    "postal_code": "2100",
+    "region": null,
+    "latitude": 51.198989399999995,
+    "longitude": 4.4591296,
+    "phone": "03 411 12 22",
+    "website": "http://www.queenpizza.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Queen%20Pizza%20deurne%20%F0%9F%8D%95%F0%9F%8D%95&query_place_id=ChIJM6xMGl73w0cRAHvDBjo4eVA",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLecOQVOVZsWyhWqhf0gZLsGwwAbvWsBgvt97hVoGHZxzqc-X4qnOGCAIDPeiNZRQ7-SPvg7SZ-6xAVKFU_kSpWl5tWMWsnNl99S1_e_GALrf1fnJ3MQZoOT-vSIahA9w5u0Evb5=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLecOQVOVZsWyhWqhf0gZLsGwwAbvWsBgvt97hVoGHZxzqc-X4qnOGCAIDPeiNZRQ7-SPvg7SZ-6xAVKFU_kSpWl5tWMWsnNl99S1_e_GALrf1fnJ3MQZoOT-vSIahA9w5u0Evb5=w1000-h750-no",
+    "rating": 4.4,
+    "review_count": 146,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
     "place_id": "ChIJPRRVSef3w0cR0PIrZsX9Kjk",
     "name": "Royal Spice Tandoor & Grill - Antwerp",
     "type": "restaurant",
@@ -250,8 +1108,8 @@
     "phone": "0485 16 54 59",
     "website": "http://www.slagerij-aman.be/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Slagerij%20Aman%20%28Halal%29&query_place_id=ChIJR_-vPT33w0cRJd2PAuTj4LQ",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeoh6GwJrZCvLvEHFJn4-IENE6GlGR0yXxQjWKKPebBPtGLM-cc3l916Ta0hokzdHHCyfF8PQFdpExtojl3ZR5UKooX_YK-JKxSJDwUIQFothlXQZ5CsWygR6VFLJTTefmcH5en=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeoh6GwJrZCvLvEHFJn4-IENE6GlGR0yXxQjWKKPebBPtGLM-cc3l916Ta0hokzdHHCyfF8PQFdpExtojl3ZR5UKooX_YK-JKxSJDwUIQFothlXQZ5CsWygR6VFLJTTefmcH5en=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLclrlaQV5kY9uz4pCRwFWdpN49g672vB-nP3iiu9cNhvTWWMhaFoblRxont5YiZ_4E70sfbZiZ72WZ8kvuhb6_2R4nxVbNwHTy9d8SdLimd2DF2jjsQkKX_sm5XgQgGh3IbvjQ2=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLclrlaQV5kY9uz4pCRwFWdpN49g672vB-nP3iiu9cNhvTWWMhaFoblRxont5YiZ_4E70sfbZiZ72WZ8kvuhb6_2R4nxVbNwHTy9d8SdLimd2DF2jjsQkKX_sm5XgQgGh3IbvjQ2=w1000-h750-no",
     "rating": 4.8,
     "review_count": 82,
     "verification_status": "VERIFIED",
@@ -874,8 +1732,8 @@
     "phone": null,
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=ZAM%C3%82N%20Handmade%20D%C3%B6ner%20%26%20Grill&query_place_id=ChIJrX2fZSn3w0cRnwmR3vHTGAI",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLez6MrWKEZ99BqlhkgNJ9rpeUTN-jAQu5saDCZF8CCaUohQ559mHwjSOLZ1MhGuq1lbORTj9ujrhlnf3dnCIuJ8EPADV6nAxXQzjeJIyAqbzrpaSXpPwk9l1swEWU4bvo3dtV4PSe7yvFKD=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLez6MrWKEZ99BqlhkgNJ9rpeUTN-jAQu5saDCZF8CCaUohQ559mHwjSOLZ1MhGuq1lbORTj9ujrhlnf3dnCIuJ8EPADV6nAxXQzjeJIyAqbzrpaSXpPwk9l1swEWU4bvo3dtV4PSe7yvFKD=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf5hb0OAlkE78Ry-gwXVdJDs16nTH0GBmS9tCGR07nVc9H0USkyMdiGIVBh-BZh0B-gpJJLyPGnkaoQTotuWlRPvB43j4BV8SaugmZbXcOnqzdD_fARVtu67W8tpPlP_PDdlN0hrx45WaIw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf5hb0OAlkE78Ry-gwXVdJDs16nTH0GBmS9tCGR07nVc9H0USkyMdiGIVBh-BZh0B-gpJJLyPGnkaoQTotuWlRPvB43j4BV8SaugmZbXcOnqzdD_fARVtu67W8tpPlP_PDdlN0hrx45WaIw=w1000-h750-no",
     "rating": 4.8,
     "review_count": 126,
     "verification_status": "VERIFIED",
@@ -9675,1612 +10533,6 @@
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeH_doUxX1fXeB242U2iOI3VrUc0Xo1htkwqMORrRqESQ2u5h4f6UR-iIc2f9Ws29zPvo0oKonyJ2h1VNrK74g2fb-m0PU-pVpEB_mVUK2yYIoADmn9EunwAPpxWV2M5TJq85U=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeH_doUxX1fXeB242U2iOI3VrUc0Xo1htkwqMORrRqESQ2u5h4f6UR-iIc2f9Ws29zPvo0oKonyJ2h1VNrK74g2fb-m0PU-pVpEB_mVUK2yYIoADmn9EunwAPpxWV2M5TJq85U=w1000-h750-no",
     "source_query": "Halal restaurant in Belgium, Wisconsin, US",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJw-rMZsq_BIgRiS5bxF2Nhmw",
-    "name": "Subway",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "US",
-    "country_code": "US",
-    "city": "Belgium",
-    "address": "Subway, 119 Main St, Belgium, WI 53004",
-    "street": "119 Main St",
-    "postal_code": "53004",
-    "region": "Wisconsin",
-    "latitude": 43.4991771,
-    "longitude": -87.8362781,
-    "phone": "(262) 476-5115",
-    "website": "https://restaurants.subway.com/united-states/wi/belgium/119-main-st?utm_source=yxt-goog&utm_medium=local&utm_term=acq&utm_content=29552&utm_campaign=evergreen-2020&y_source=1_MTQ5MTM3MDUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Subway&query_place_id=ChIJw-rMZsq_BIgRiS5bxF2Nhmw",
-    "open_hours_json": null,
-    "review_count": 85,
-    "rating": 3.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcsj6AbJuR-9OY-G2mGWcx9myId1XKD9uF_WVEc8L5SSpzs7AYctjUEBI9VAPuSTfWFx5dlmkzD6u33miUfUDdETzh7obSaLCwMu5tlVr9BbRSqqkvD-KO9WeOMuwI883OGPrha1g=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcsj6AbJuR-9OY-G2mGWcx9myId1XKD9uF_WVEc8L5SSpzs7AYctjUEBI9VAPuSTfWFx5dlmkzD6u33miUfUDdETzh7obSaLCwMu5tlVr9BbRSqqkvD-KO9WeOMuwI883OGPrha1g=w1000-h750-no",
-    "source_query": "Halal restaurant in Belgium, Wisconsin, US",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ2VSIv5L7wkcRg74EvaknAAs",
-    "name": "A la Pom'd'adam",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Beloeil",
-    "address": "A la Pom'd'adam, Rue Octave Battaille 51, 7971 Beloeil",
-    "street": "Rue Octave Battaille 51",
-    "postal_code": "7971",
-    "region": null,
-    "latitude": 50.5276539,
-    "longitude": 3.6442143,
-    "phone": "0499 46 28 61",
-    "website": "http://www.alapomdadam.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=A%20la%20Pom%27d%27adam&query_place_id=ChIJ2VSIv5L7wkcRg74EvaknAAs",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "Closed"
-      ],
-      "Friday": [
-        "12–10 pm"
-      ],
-      "Saturday": [
-        "12–10 pm"
-      ],
-      "Sunday": [
-        "12–6 pm"
-      ]
-    },
-    "review_count": 107,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcGIf0xjyZv0W5QhCZDVetnMKWhmM7RvOJOOA8mlnNUPHi-iO5L7LY6zbav2pO6M3ff9EICrHJesRRs7KSX6o_Wv6ZBpE9bNXtmoe_inc8O6o-jCklM2xWToswpP1WX-_GcTshf=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcGIf0xjyZv0W5QhCZDVetnMKWhmM7RvOJOOA8mlnNUPHi-iO5L7LY6zbav2pO6M3ff9EICrHJesRRs7KSX6o_Wv6ZBpE9bNXtmoe_inc8O6o-jCklM2xWToswpP1WX-_GcTshf=w1000-h750-no",
-    "source_query": "Fish restaurant in Péruwelz, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJK7aYHXQwwUcRllV5hdEw8rE",
-    "name": "AH be-MINE",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Beringen",
-    "address": "AH be-MINE, be-MINE 6, 3582 Beringen",
-    "street": "be-MINE 6",
-    "postal_code": "3582",
-    "region": null,
-    "latitude": 51.0681017,
-    "longitude": 5.2247695,
-    "phone": "011 32 27 22",
-    "website": "https://www.ah.nl/winkel/3034",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=AH%20be-MINE&query_place_id=ChIJK7aYHXQwwUcRllV5hdEw8rE",
-    "open_hours_json": {
-      "Monday": [
-        "12–8 pm"
-      ],
-      "Tuesday": [
-        "8 am–8 pm"
-      ],
-      "Wednesday": [
-        "8 am–8 pm"
-      ],
-      "Thursday": [
-        "8 am–8 pm"
-      ],
-      "Friday": [
-        "8 am–8 pm"
-      ],
-      "Saturday": [
-        "8 am–8 pm"
-      ],
-      "Sunday": [
-        "9–11:45 am"
-      ]
-    },
-    "review_count": 1705,
-    "rating": 4.0,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcnvhBE_LUuS6D0-gI-Kg4My-35Fs0X0FdOqA-DbpmaM7fh3qSvAGiz2zqsEQVIePCPpYTAYKksDr5R6Lzxipl9K9UPyjZjKkbMlqMirEINnnR23GSszIkdoO1orx4XIBDkSOLn=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcnvhBE_LUuS6D0-gI-Kg4My-35Fs0X0FdOqA-DbpmaM7fh3qSvAGiz2zqsEQVIePCPpYTAYKksDr5R6Lzxipl9K9UPyjZjKkbMlqMirEINnnR23GSszIkdoO1orx4XIBDkSOLn=w1000-h750-no",
-    "source_query": "Hypermarket in Beringen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJJxptzpU6wUcRjmh94sfrvPI",
-    "name": "Alo Kebab - Beringen",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Beringen",
-    "address": "Alo Kebab - Beringen, Scheigoorstraat 6, 3580 Beringen",
-    "street": "Scheigoorstraat 6",
-    "postal_code": "3580",
-    "region": null,
-    "latitude": 51.0463811,
-    "longitude": 5.2252583,
-    "phone": "0492 70 40 25",
-    "website": "https://qr.wwwcafe.de/2025/08/12/alo-kebab/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Alo%20Kebab%20-%20Beringen&query_place_id=ChIJJxptzpU6wUcRjmh94sfrvPI",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "11:30 am–1:30 pm",
-        "4–9 pm"
-      ],
-      "Thursday": [
-        "11:30 am–1:30 pm",
-        "4–9 pm"
-      ],
-      "Friday": [
-        "11:30 am–1:30 pm",
-        "4–9 pm"
-      ],
-      "Saturday": [
-        "4–9 pm"
-      ],
-      "Sunday": [
-        "4–9 pm"
-      ]
-    },
-    "review_count": 214,
-    "rating": 4.4,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe-yhCBb3dhM-Mqk_M2n5GvD59mgLSkwspifXLBWNztoUzc3C4M4zOAwyAEdFW2iaUNTTI_pmyPYV_nBtVgHSYUpJpUWptDwxWdBwb7vIwdsHHc3MdYvxD3Itf8UMs3HMiaeUG5=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe-yhCBb3dhM-Mqk_M2n5GvD59mgLSkwspifXLBWNztoUzc3C4M4zOAwyAEdFW2iaUNTTI_pmyPYV_nBtVgHSYUpJpUWptDwxWdBwb7vIwdsHHc3MdYvxD3Itf8UMs3HMiaeUG5=w1000-h750-no",
-    "source_query": "Halal restaurant in Beringen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJoeyslts7wUcRpwDmzJjl9W8",
-    "name": "Athwal Supermarket",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Beringen",
-    "address": "Athwal Supermarket, Koerselsesteenweg 14, 3580 Beringen",
-    "street": "Koerselsesteenweg 14",
-    "postal_code": "3580",
-    "region": null,
-    "latitude": 51.0485233,
-    "longitude": 5.2267718,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Athwal%20Supermarket&query_place_id=ChIJoeyslts7wUcRpwDmzJjl9W8",
-    "open_hours_json": {
-      "Monday": [
-        "8 am–8 pm"
-      ],
-      "Tuesday": [
-        "8 am–8 pm"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "8 am–8 pm"
-      ],
-      "Friday": [
-        "8 am–9 pm"
-      ],
-      "Saturday": [
-        "9 am–8 pm"
-      ],
-      "Sunday": [
-        "10 am–8 pm"
-      ]
-    },
-    "review_count": 6,
-    "rating": 4.8,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeZ2LjgZWcnprjL2jqbScYidoR9cLcrgzh7SvIxlFqBXh404xChkYpvvyTZXt2t2gETsIWUcqWqKMjTNtKkvyLUgNIPBZtrSmHxoiJqlm_I30-jTMtKVHMA_1rXTlT1atWdSc6p=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeZ2LjgZWcnprjL2jqbScYidoR9cLcrgzh7SvIxlFqBXh404xChkYpvvyTZXt2t2gETsIWUcqWqKMjTNtKkvyLUgNIPBZtrSmHxoiJqlm_I30-jTMtKVHMA_1rXTlT1atWdSc6p=w1000-h750-no",
-    "source_query": "Hypermarket in Beringen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJlynKAeo6wUcRkPXu84pWvqk",
-    "name": "BCS Butterfly",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Beringen",
-    "address": "BCS Butterfly, Lochtemanweg 2, 3580 Beringen",
-    "street": "Lochtemanweg 2",
-    "postal_code": "3580",
-    "region": null,
-    "latitude": 51.0373246,
-    "longitude": 5.228740999999999,
-    "phone": "011 87 17 07",
-    "website": "http://www.butterfly.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=BCS%20Butterfly&query_place_id=ChIJlynKAeo6wUcRkPXu84pWvqk",
-    "open_hours_json": {
-      "Monday": [
-        "9 am–12 pm",
-        "1–5 pm"
-      ],
-      "Tuesday": [
-        "9 am–12 pm",
-        "1–5 pm"
-      ],
-      "Wednesday": [
-        "9 am–12 pm",
-        "1–5 pm"
-      ],
-      "Thursday": [
-        "9 am–12 pm",
-        "1–5 pm"
-      ],
-      "Friday": [
-        "9 am–12 pm",
-        "1–5 pm"
-      ],
-      "Saturday": [
-        "Closed"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 49,
-    "rating": 3.9,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe81tdkeyzDPb2NVFZZXdppPLlyPAt7UK1eVpj4V5LzN44IlYAPr8nAQGN_tvptKqVX2FJRq6yjz-wbD9Mpmb7_Plw9XwrE16xxMb_WT4O6SLieRwWxWBnBgnBOIFd8WpP5tsck=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe81tdkeyzDPb2NVFZZXdppPLlyPAt7UK1eVpj4V5LzN44IlYAPr8nAQGN_tvptKqVX2FJRq6yjz-wbD9Mpmb7_Plw9XwrE16xxMb_WT4O6SLieRwWxWBnBgnBOIFd8WpP5tsck=w1000-h750-no",
-    "source_query": "Hypermarket in Beringen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJSxzFw4klwUcRXvKq9-bu6NM",
-    "name": "Bakkerij Yılmaz Koersel",
-    "type": "bakery",
-    "category": "bakery",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Beringen",
-    "address": "Bakkerij Yılmaz Koersel, Pieter Vanhoudtstraat 35, 3582 Beringen",
-    "street": "Pieter Vanhoudtstraat 35",
-    "postal_code": "3582",
-    "region": null,
-    "latitude": 51.057305899999996,
-    "longitude": 5.272377,
-    "phone": "0487 74 81 71",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bakkerij%20Y%C4%B1lmaz%20Koersel&query_place_id=ChIJSxzFw4klwUcRXvKq9-bu6NM",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "5 am–8 pm"
-      ],
-      "Wednesday": [
-        "5 am–8 pm"
-      ],
-      "Thursday": [
-        "5 am–8 pm"
-      ],
-      "Friday": [
-        "5 am–8 pm"
-      ],
-      "Saturday": [
-        "5 am–8 pm"
-      ],
-      "Sunday": [
-        "7 am–8 pm"
-      ]
-    },
-    "review_count": 27,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdWS4ag4i7Egfcg4rcbGdDd428c5gRXzH7XwTHMXT8sJeyB5EQOYvlvRhv5S-5I7NX_EkiTWR3pXg2__xg4ChhbnN4W01rFkTH56H4ZOZntGlShbi3dzhpzkxD2P33tA3YZrg1Xi8L94vxA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdWS4ag4i7Egfcg4rcbGdDd428c5gRXzH7XwTHMXT8sJeyB5EQOYvlvRhv5S-5I7NX_EkiTWR3pXg2__xg4ChhbnN4W01rFkTH56H4ZOZntGlShbi3dzhpzkxD2P33tA3YZrg1Xi8L94vxA=w1000-h750-no",
-    "source_query": "Hypermarket in Beringen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJMVb_xFglwUcRS5L5N7rFlwg",
-    "name": "Barnaba",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Beringen",
-    "address": "Barnaba, Koersel-Dorp 25, 3582 Beringen",
-    "street": "Koersel-Dorp 25",
-    "postal_code": "3582",
-    "region": null,
-    "latitude": 51.0588522,
-    "longitude": 5.2737171,
-    "phone": "011 19 29 19",
-    "website": "https://www.barnaba.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Barnaba&query_place_id=ChIJMVb_xFglwUcRS5L5N7rFlwg",
-    "open_hours_json": {
-      "Monday": [
-        "5–10 pm"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "5–10 pm"
-      ],
-      "Friday": [
-        "5–10 pm"
-      ],
-      "Saturday": [
-        "5–10 pm"
-      ],
-      "Sunday": [
-        "5–10 pm"
-      ]
-    },
-    "review_count": 799,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfHK1c99f4DxtgULvKQknh1nh1AVctCseTvKlm5yt65pLThyQhcpxjCzy83wz78xq9TxybmpZgnY_ZM3sCL5f7XMHQ33qhdOdrVN3jT5DnwEEKvWT-jbezzcU_flwyqJ8GugcLu=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfHK1c99f4DxtgULvKQknh1nh1AVctCseTvKlm5yt65pLThyQhcpxjCzy83wz78xq9TxybmpZgnY_ZM3sCL5f7XMHQ33qhdOdrVN3jT5DnwEEKvWT-jbezzcU_flwyqJ8GugcLu=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Beringen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJY5QFa5Y6wUcRW5DU3WVrGUk",
-    "name": "Beringen Centrum",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Beringen",
-    "address": "Beringen Centrum, Koerselsesteenweg 10, 3580 Beringen",
-    "street": "Koerselsesteenweg 10",
-    "postal_code": "3580",
-    "region": null,
-    "latitude": 51.0482306,
-    "longitude": 5.2262756,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Beringen%20Centrum&query_place_id=ChIJY5QFa5Y6wUcRW5DU3WVrGUk",
-    "open_hours_json": null,
-    "review_count": 77,
-    "rating": 4.1,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfrSSmMu3MQVtN7Ipxx1TZHPl2nr80FQtZ1ClA9HJyqOO_xDQhXAG_ouFvE6F5XTxscQN2j7LfVP-6j6e5Z-97oNyyzsjJWEVa126Pn6DvnRyCj3lmrzpaLGW3rVTdKXNS5yCg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfrSSmMu3MQVtN7Ipxx1TZHPl2nr80FQtZ1ClA9HJyqOO_xDQhXAG_ouFvE6F5XTxscQN2j7LfVP-6j6e5Z-97oNyyzsjJWEVa126Pn6DvnRyCj3lmrzpaLGW3rVTdKXNS5yCg=w1000-h750-no",
-    "source_query": "Halal restaurant in Beringen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ9Vq1Qsk6wUcRmlDfLH5Gd9s",
-    "name": "Beringen Ehlibeyt Moskee",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Beringen",
-    "address": "Beringen Ehlibeyt Moskee, Hasseltsesteenweg 250, 3580 Beringen",
-    "street": "Hasseltsesteenweg 250",
-    "postal_code": "3580",
-    "region": null,
-    "latitude": 51.0370764,
-    "longitude": 5.244348899999999,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Beringen%20Ehlibeyt%20Moskee&query_place_id=ChIJ9Vq1Qsk6wUcRmlDfLH5Gd9s",
-    "open_hours_json": {
-      "Monday": [
-        "Open 24 hours"
-      ],
-      "Tuesday": [
-        "Open 24 hours"
-      ],
-      "Wednesday": [
-        "Open 24 hours"
-      ],
-      "Thursday": [
-        "Open 24 hours"
-      ],
-      "Friday": [
-        "Open 24 hours"
-      ],
-      "Saturday": [
-        "Open 24 hours"
-      ],
-      "Sunday": [
-        "Open 24 hours"
-      ]
-    },
-    "review_count": 13,
-    "rating": 4.8,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLecqEP7sOj_gvuPaVv17m45skl3b8hMSJzYbxyjbsFD7EyE1jXteFxrrQS4JK2xn4TPrCpUpZoiFHIjKR6AX7_Vd7HD9B9CTg9211mK4-rusHpZRJcUrXJC-fWtK0H9M7nwWIecHa7lHIUE=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLecqEP7sOj_gvuPaVv17m45skl3b8hMSJzYbxyjbsFD7EyE1jXteFxrrQS4JK2xn4TPrCpUpZoiFHIjKR6AX7_Vd7HD9B9CTg9211mK4-rusHpZRJcUrXJC-fWtK0H9M7nwWIecHa7lHIUE=w1000-h750-no",
-    "source_query": "Mosque in Tielt-Winge, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ1_bvtlwwwUcRV884mpzoxic",
-    "name": "Brandino Beverlo",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Beringen",
-    "address": "Brandino Beverlo, Beverlo-Dorp 9, 3581 Beringen",
-    "street": "Beverlo-Dorp 9",
-    "postal_code": "3581",
-    "region": null,
-    "latitude": 51.0881755,
-    "longitude": 5.222003099999999,
-    "phone": "0487 14 59 61",
-    "website": "https://www.brandinobeverlo.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Brandino%20Beverlo&query_place_id=ChIJ1_bvtlwwwUcRV884mpzoxic",
-    "open_hours_json": {
-      "Monday": [
-        "5–10 pm"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "5–10 pm"
-      ],
-      "Friday": [
-        "5 pm–12 am"
-      ],
-      "Saturday": [
-        "5 pm–12 am"
-      ],
-      "Sunday": [
-        "12–10 pm"
-      ]
-    },
-    "review_count": 409,
-    "rating": 4.4,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd08r6PnijO0XEWDV7TrQQGfWIWpsNv4TrygW2a3Uh1ZUAr1ufFiS70IyrTDSMkaXp66QjV58lLbHMX_0ZfTheJbI7tq35WFPIcK70Yax7vJUqCA9hkx4Sn57IvuOQT2t31OyQD=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd08r6PnijO0XEWDV7TrQQGfWIWpsNv4TrygW2a3Uh1ZUAr1ufFiS70IyrTDSMkaXp66QjV58lLbHMX_0ZfTheJbI7tq35WFPIcK70Yax7vJUqCA9hkx4Sn57IvuOQT2t31OyQD=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Beringen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJuwxh4AkxwUcRRcFcTPMuEEk",
-    "name": "Buurtwinkel",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Beringen",
-    "address": "Buurtwinkel, Heerbaan 90, 3582 Beringen",
-    "street": "Heerbaan 90",
-    "postal_code": "3582",
-    "region": null,
-    "latitude": 51.066159299999995,
-    "longitude": 5.2380802,
-    "phone": "0465 25 23 32",
-    "website": "http://www.buurtwinkel.godaddy.com/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Buurtwinkel&query_place_id=ChIJuwxh4AkxwUcRRcFcTPMuEEk",
-    "open_hours_json": {
-      "Monday": [
-        "8:30 am–9:30 pm"
-      ],
-      "Tuesday": [
-        "8:30 am–9:30 pm"
-      ],
-      "Wednesday": [
-        "8:30 am–9:30 pm"
-      ],
-      "Thursday": [
-        "8:30 am–9:30 pm"
-      ],
-      "Friday": [
-        "8:30 am–9:30 pm"
-      ],
-      "Saturday": [
-        "8:30 am–9:30 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 17,
-    "rating": 4.9,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf6hKgFqWkednVi5hmhdoU86_jZfiNUhsn5M_E-wYRqmJ7grNRqRTeabVRnPJyadeD-pACfjsN9URgwvb8OBcon7wzVkKtcxd5_1HKIyQ9Vx795EYtoyFQnIQ8ULu129VmJzfFemA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf6hKgFqWkednVi5hmhdoU86_jZfiNUhsn5M_E-wYRqmJ7grNRqRTeabVRnPJyadeD-pACfjsN9URgwvb8OBcon7wzVkKtcxd5_1HKIyQ9Vx795EYtoyFQnIQ8ULu129VmJzfFemA=w1000-h750-no",
-    "source_query": "Hypermarket in Beringen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJwbTKixE7wUcRmXZun51xnqE",
-    "name": "CTR Chicken Beringen",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Beringen",
-    "address": "CTR Chicken Beringen, Markt 12, 3580 Beringen",
-    "street": "Markt 12",
-    "postal_code": "3580",
-    "region": null,
-    "latitude": 51.0477474,
-    "longitude": 5.2255319,
-    "phone": "011 18 26 61",
-    "website": "http://ctrchickenberingen.online/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=CTR%20Chicken%20Beringen&query_place_id=ChIJwbTKixE7wUcRmXZun51xnqE",
-    "open_hours_json": {
-      "Monday": [
-        "3:30–10 pm"
-      ],
-      "Tuesday": [
-        "3:30–10 pm"
-      ],
-      "Wednesday": [
-        "11:30 am–10 pm"
-      ],
-      "Thursday": [
-        "3:30–10 pm"
-      ],
-      "Friday": [
-        "3:30–10 pm"
-      ],
-      "Saturday": [
-        "3:30–10 pm"
-      ],
-      "Sunday": [
-        "3:30–10 pm"
-      ]
-    },
-    "review_count": 182,
-    "rating": 4.1,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdquv0DuyZaA7IzTeZ_UtGjMr1L5xGHep8Tac1WKdCT-yLV35VZkCWRpNPDiHjAt5CGiDWPqalvG42my5Y9rPKU9-RZNBml96R1UQuaqm5irXziOJ9OF0yanpJTC-9479R1O_W19Q=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdquv0DuyZaA7IzTeZ_UtGjMr1L5xGHep8Tac1WKdCT-yLV35VZkCWRpNPDiHjAt5CGiDWPqalvG42my5Y9rPKU9-RZNBml96R1UQuaqm5irXziOJ9OF0yanpJTC-9479R1O_W19Q=w1000-h750-no",
-    "source_query": "Halal restaurant in Beringen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJGYo1r5s6wUcRA1S8ypJ3bJM",
-    "name": "Carmans E & L Nv",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Beringen",
-    "address": "Carmans E & L Nv, Nijverheidspark 42a, 3580 Beringen",
-    "street": "Nijverheidspark 42a",
-    "postal_code": "3580",
-    "region": null,
-    "latitude": 51.056594,
-    "longitude": 5.2194802,
-    "phone": "011 28 50 24",
-    "website": "https://www.carmansnv.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Carmans%20E%20%26%20L%20Nv&query_place_id=ChIJGYo1r5s6wUcRA1S8ypJ3bJM",
-    "open_hours_json": {
-      "Monday": [
-        "8 am–5 pm"
-      ],
-      "Tuesday": [
-        "8 am–5 pm"
-      ],
-      "Wednesday": [
-        "8 am–5 pm"
-      ],
-      "Thursday": [
-        "8 am–5 pm"
-      ],
-      "Friday": [
-        "8 am–5 pm"
-      ],
-      "Saturday": [
-        "8 am–4 pm"
-      ],
-      "Sunday": [
-        "8 am–12 pm"
-      ]
-    },
-    "review_count": 26,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcEv53tEMH0pCT7svTE2ZqoyfWyX_psnFRg2s6t6-2PO8dkt4q1nqh01PLbDrCUqOTvc7g27sjgVFh9QmAodTEDinbaIlbu0CTR8QUr7z9k4Ep4v_JeucGASOS2gCFY-1ckYXCl=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcEv53tEMH0pCT7svTE2ZqoyfWyX_psnFRg2s6t6-2PO8dkt4q1nqh01PLbDrCUqOTvc7g27sjgVFh9QmAodTEDinbaIlbu0CTR8QUr7z9k4Ep4v_JeucGASOS2gCFY-1ckYXCl=w1000-h750-no",
-    "source_query": "Hypermarket in Beringen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJuePLgmUwwUcRZF2x17qd9wg",
-    "name": "Collect&Go Beringen",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Beringen",
-    "address": "Collect&Go Beringen, Koolmijnlaan 321, 3580 Beringen",
-    "street": "Koolmijnlaan 321",
-    "postal_code": "3580",
-    "region": null,
-    "latitude": 51.0770108,
-    "longitude": 5.2213555,
-    "phone": "02 363 50 05",
-    "website": "https://www.collectandgo.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Collect%26Go%20Beringen&query_place_id=ChIJuePLgmUwwUcRZF2x17qd9wg",
-    "open_hours_json": {
-      "Monday": [
-        "8 am–8 pm"
-      ],
-      "Tuesday": [
-        "8 am–8 pm"
-      ],
-      "Wednesday": [
-        "8 am–8 pm"
-      ],
-      "Thursday": [
-        "8 am–8 pm"
-      ],
-      "Friday": [
-        "8 am–9 pm"
-      ],
-      "Saturday": [
-        "8 am–8 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 47,
-    "rating": 4.4,
-    "thumbnail_url": null,
-    "image_url": null,
-    "source_query": "Hypermarket in Beringen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJVVVVVV45wUcRBKtJMIGtFmY",
-    "name": "De Graal",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Beringen",
-    "address": "De Graal, Heldenlaan 15, 3583 Beringen",
-    "street": "Heldenlaan 15",
-    "postal_code": "3583",
-    "region": null,
-    "latitude": 51.038795,
-    "longitude": 5.1717148,
-    "phone": "011 58 32 84",
-    "website": "https://www.decoratie-degraal.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=De%20Graal&query_place_id=ChIJVVVVVV45wUcRBKtJMIGtFmY",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "9 am–7 pm"
-      ],
-      "Wednesday": [
-        "9 am–7 pm"
-      ],
-      "Thursday": [
-        "9 am–7 pm"
-      ],
-      "Friday": [
-        "9 am–7 pm"
-      ],
-      "Saturday": [
-        "9 am–7 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 282,
-    "rating": 4.4,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLepXizdzFdQFyzWqibvgG6yfvIC9onaaDXIm7zLBVQeDONokdMprHtRYN8lodFHwD8nvSzavvqIaoLnNZ3LhtNbqXr01p2pzyJ3ac2NjRTk1Q6zKf_856w07xChU3nw8A3wmkJf3w=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLepXizdzFdQFyzWqibvgG6yfvIC9onaaDXIm7zLBVQeDONokdMprHtRYN8lodFHwD8nvSzavvqIaoLnNZ3LhtNbqXr01p2pzyJ3ac2NjRTk1Q6zKf_856w07xChU3nw8A3wmkJf3w=w1000-h750-no",
-    "source_query": "Hypermarket in Beringen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJVWRhYrAxwUcRVxu9IQhIvzQ",
-    "name": "EMBR Beringen",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Beringen",
-    "address": "EMBR Beringen, Heerbaan 255/bus 1, 3582 Beringen",
-    "street": "Heerbaan 255/bus 1",
-    "postal_code": "3582",
-    "region": null,
-    "latitude": 51.074216299999996,
-    "longitude": 5.252248,
-    "phone": "011 96 36 90",
-    "website": "https://www.embrberingen.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=EMBR%20Beringen&query_place_id=ChIJVWRhYrAxwUcRVxu9IQhIvzQ",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "11:30 am–2 pm",
-        "5–11 pm"
-      ],
-      "Wednesday": [
-        "11:30 am–2 pm",
-        "5–11 pm"
-      ],
-      "Thursday": [
-        "11:30 am–2 pm",
-        "5–11 pm"
-      ],
-      "Friday": [
-        "11:30 am–2 pm",
-        "5–11 pm"
-      ],
-      "Saturday": [
-        "11:30 am–2 pm",
-        "5–11 pm"
-      ],
-      "Sunday": [
-        "11:30 am–2 pm",
-        "5–11 pm"
-      ]
-    },
-    "review_count": 332,
-    "rating": 4.8,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfy8WAL4lZkRcCDFEU9Z5BIAMCd7NtN3-dyq9wySJxsMRYHA7-qQb8c7X_TL-pjY4HWd3NnoxSiZ-heNvgQdpqyxEUFFTXwvCbD4YJs-uFsRvulV-RgYQSFLKPErAdng2N4E7_iHpDwXqhc=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfy8WAL4lZkRcCDFEU9Z5BIAMCd7NtN3-dyq9wySJxsMRYHA7-qQb8c7X_TL-pjY4HWd3NnoxSiZ-heNvgQdpqyxEUFFTXwvCbD4YJs-uFsRvulV-RgYQSFLKPErAdng2N4E7_iHpDwXqhc=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Beringen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJzwhY0TQxwUcRH8JkEICUP9c",
-    "name": "Emin Supermarkt",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Beringen",
-    "address": "Emin Supermarkt, Dennenstraat 10, 3581 Beringen",
-    "street": "Dennenstraat 10",
-    "postal_code": "3581",
-    "region": null,
-    "latitude": 51.0770365,
-    "longitude": 5.2186714,
-    "phone": null,
-    "website": "https://eminmarket.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Emin%20Supermarkt&query_place_id=ChIJzwhY0TQxwUcRH8JkEICUP9c",
-    "open_hours_json": {
-      "Monday": [
-        "9 am–8 pm"
-      ],
-      "Tuesday": [
-        "9 am–8 pm"
-      ],
-      "Wednesday": [
-        "9 am–8 pm"
-      ],
-      "Thursday": [
-        "9 am–8 pm"
-      ],
-      "Friday": [
-        "9 am–8 pm"
-      ],
-      "Saturday": [
-        "9 am–8 pm"
-      ],
-      "Sunday": [
-        "9 am–8 pm"
-      ]
-    },
-    "review_count": 50,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeZttp12VYDhHswgJF7n3GscyqD7idrlaSs4FSvF3Nv3_gLztWB73ZafNfi44KUciMuoEQOlNoyj8pCUl4obUaGLAOf31iKeSrgpJiiEtKLjbDb00ng_IK_eGxu3EXIHucqU2yejrzbKzG_=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeZttp12VYDhHswgJF7n3GscyqD7idrlaSs4FSvF3Nv3_gLztWB73ZafNfi44KUciMuoEQOlNoyj8pCUl4obUaGLAOf31iKeSrgpJiiEtKLjbDb00ng_IK_eGxu3EXIHucqU2yejrzbKzG_=w1000-h750-no",
-    "source_query": "Hypermarket in Beringen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJz3fA928wwUcRNPWHScXyVxs",
-    "name": "Erpa",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Beringen",
-    "address": "Erpa, Koolmijnlaan 247/269, 3581 Beringen",
-    "street": "Koolmijnlaan 247/269",
-    "postal_code": "3581",
-    "region": null,
-    "latitude": 51.0744128,
-    "longitude": 5.2205561,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Erpa&query_place_id=ChIJz3fA928wwUcRNPWHScXyVxs",
-    "open_hours_json": {
-      "Monday": [
-        "9 am–7:30 pm"
-      ],
-      "Tuesday": [
-        "9 am–7:30 pm"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "9 am–7:30 pm"
-      ],
-      "Friday": [
-        "9 am–7:30 pm"
-      ],
-      "Saturday": [
-        "9 am–7:30 pm"
-      ],
-      "Sunday": [
-        "9 am–7:30 pm"
-      ]
-    },
-    "review_count": 208,
-    "rating": 4.3,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=duGWWdGwrC2_4GnruUNoWQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=100.23122&pitch=1.2333919&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=duGWWdGwrC2_4GnruUNoWQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=100.23122&pitch=1.2333919&thumbfov=w1000-h750-no",
-    "source_query": "Hypermarket in Beringen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJtSqeYMc6wUcRuJjVCtDkmic",
-    "name": "Felix & Jos",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Beringen",
-    "address": "Felix & Jos, Hasseltsesteenweg 143, 3580 Beringen",
-    "street": "Hasseltsesteenweg 143",
-    "postal_code": "3580",
-    "region": null,
-    "latitude": 51.0416709,
-    "longitude": 5.2334743999999995,
-    "phone": "011 45 83 83",
-    "website": "https://www.felix-jos.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Felix%20%26%20Jos&query_place_id=ChIJtSqeYMc6wUcRuJjVCtDkmic",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "9 am–12 pm",
-        "12:30–6 pm"
-      ],
-      "Wednesday": [
-        "9 am–12 pm",
-        "12:30–6 pm"
-      ],
-      "Thursday": [
-        "9 am–12 pm",
-        "12:30–6 pm"
-      ],
-      "Friday": [
-        "9 am–12 pm",
-        "12:30–6 pm"
-      ],
-      "Saturday": [
-        "10 am–5 pm"
-      ],
-      "Sunday": [
-        "10 am–5 pm"
-      ]
-    },
-    "review_count": 756,
-    "rating": 4.5,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcH1ztU6VgbjeUznDsfewKa64-nBbHe52EFKVmr7vwPp8P_7I8bykTLjTBKhOteGZ04QzTNfJRuPDDhToGC8L7Mvr_SHOgaR38w98XXJAWrHxwHxzSYV7RC6RNVjlXDqJbHCDN6cg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcH1ztU6VgbjeUznDsfewKa64-nBbHe52EFKVmr7vwPp8P_7I8bykTLjTBKhOteGZ04QzTNfJRuPDDhToGC8L7Mvr_SHOgaR38w98XXJAWrHxwHxzSYV7RC6RNVjlXDqJbHCDN6cg=w1000-h750-no",
-    "source_query": "Hypermarket in Beringen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJj4XbzPYxwUcRjElBjXqBGYs",
-    "name": "Fishy Store Beringen-Mijn",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Beringen",
-    "address": "Fishy Store Beringen-Mijn, Leysestraat 20, 3581 Beringen",
-    "street": "Leysestraat 20",
-    "postal_code": "3581",
-    "region": null,
-    "latitude": 51.078774599999996,
-    "longitude": 5.2206215,
-    "phone": "011 87 29 24",
-    "website": "http://fishy.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Fishy%20Store%20Beringen-Mijn&query_place_id=ChIJj4XbzPYxwUcRjElBjXqBGYs",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "12:30–11 pm"
-      ],
-      "Wednesday": [
-        "12:30–11 pm"
-      ],
-      "Thursday": [
-        "12:30–11 pm"
-      ],
-      "Friday": [
-        "12:30–11 pm"
-      ],
-      "Saturday": [
-        "12:30–11 pm"
-      ],
-      "Sunday": [
-        "12:30–11 pm"
-      ]
-    },
-    "review_count": 151,
-    "rating": 4.5,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf47zvpU-GzjqjxXqkTmVeqRe13FCp70JavVncVqBLl610-8t_ntf_983SJwTNEcybIaRQI3Go7olbRGClm6ts9t53itTljPJCO2LRKYwgkASEThXCk2CAoWmEl9vKGDJCw-RLaUg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf47zvpU-GzjqjxXqkTmVeqRe13FCp70JavVncVqBLl610-8t_ntf_983SJwTNEcybIaRQI3Go7olbRGClm6ts9t53itTljPJCO2LRKYwgkASEThXCk2CAoWmEl9vKGDJCw-RLaUg=w1000-h750-no",
-    "source_query": "Fish restaurant in Limbourg, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJLcO_AGYwwUcR0TRE7-EQXN0",
-    "name": "Grandi Markt",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Beringen",
-    "address": "Grandi Markt, Leysestraat 27, 3581 Beringen",
-    "street": "Leysestraat 27",
-    "postal_code": "3581",
-    "region": null,
-    "latitude": 51.078597099999996,
-    "longitude": 5.2211582,
-    "phone": "011 37 37 70",
-    "website": "https://grandimarkt.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Grandi%20Markt&query_place_id=ChIJLcO_AGYwwUcR0TRE7-EQXN0",
-    "open_hours_json": {
-      "Monday": [
-        "9 am–8 pm"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "9 am–8 pm"
-      ],
-      "Thursday": [
-        "9 am–8 pm"
-      ],
-      "Friday": [
-        "9 am–8 pm"
-      ],
-      "Saturday": [
-        "9 am–8 pm"
-      ],
-      "Sunday": [
-        "9 am–8 pm"
-      ]
-    },
-    "review_count": 460,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfzSpTA_CPaMDXgPSa2T5Sya7WoB-wXZQ7PNoGUgIIN5H2n6IExdCCVA93td5pH43SODzo4bIAshXgNOkIeMCsZUjXHD06mjP0fXg2yuXjMcjjqi2mFl-f4MogNmwGvH2h9TSmM=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfzSpTA_CPaMDXgPSa2T5Sya7WoB-wXZQ7PNoGUgIIN5H2n6IExdCCVA93td5pH43SODzo4bIAshXgNOkIeMCsZUjXHD06mjP0fXg2yuXjMcjjqi2mFl-f4MogNmwGvH2h9TSmM=w1000-h750-no",
-    "source_query": "Hypermarket in Beringen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ--3YpZE6wUcRd0X9YBzd07k",
-    "name": "Horeca Van Zon Beringen",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Beringen",
-    "address": "Horeca Van Zon Beringen, Nijverheidspark 42, 3580 Beringen",
-    "street": "Nijverheidspark 42",
-    "postal_code": "3580",
-    "region": null,
-    "latitude": 51.056302599999995,
-    "longitude": 5.220097099999999,
-    "phone": "011 42 26 03",
-    "website": "http://www.vanzon.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Horeca%20Van%20Zon%20Beringen&query_place_id=ChIJ--3YpZE6wUcRd0X9YBzd07k",
-    "open_hours_json": {
-      "Monday": [
-        "8 am–5 pm"
-      ],
-      "Tuesday": [
-        "8 am–5 pm"
-      ],
-      "Wednesday": [
-        "8 am–5 pm"
-      ],
-      "Thursday": [
-        "8 am–5 pm"
-      ],
-      "Friday": [
-        "8 am–5 pm"
-      ],
-      "Saturday": [
-        "8 am–4 pm"
-      ],
-      "Sunday": [
-        "8 am–12 pm"
-      ]
-    },
-    "review_count": 154,
-    "rating": 4.5,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdNEL1a9aaiCg2wm7AqyXR8KHl50Ga66JC7J1o5nyJM6LkOYouYvVkjHBw6u1cPJAWa4pbTuU-xxYTCXi_4GK9jFPbdgFL7mZOOwDv_5Rh9FL9TO2brZ01cLL620714GI0Rf6EsVA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdNEL1a9aaiCg2wm7AqyXR8KHl50Ga66JC7J1o5nyJM6LkOYouYvVkjHBw6u1cPJAWa4pbTuU-xxYTCXi_4GK9jFPbdgFL7mZOOwDv_5Rh9FL9TO2brZ01cLL620714GI0Rf6EsVA=w1000-h750-no",
-    "source_query": "Hypermarket in Beringen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ3xeNdqE7wUcR-nk7doKTYnc",
-    "name": "Jumbo Beringen",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Beringen",
-    "address": "Jumbo Beringen, Koolmijnlaan 77, 3580 Beringen",
-    "street": "Koolmijnlaan 77",
-    "postal_code": "3580",
-    "region": null,
-    "latitude": 51.054397699999996,
-    "longitude": 5.2232978999999995,
-    "phone": "011 39 82 00",
-    "website": "https://be.jobs.jumbo.com/vestiging/jumbo-beringen-koolmijnlaan/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Jumbo%20Beringen&query_place_id=ChIJ3xeNdqE7wUcR-nk7doKTYnc",
-    "open_hours_json": {
-      "Monday": [
-        "8 am–8 pm"
-      ],
-      "Tuesday": [
-        "8 am–8 pm"
-      ],
-      "Wednesday": [
-        "8 am–8 pm"
-      ],
-      "Thursday": [
-        "8 am–8 pm"
-      ],
-      "Friday": [
-        "8 am–8 pm"
-      ],
-      "Saturday": [
-        "8 am–8 pm"
-      ],
-      "Sunday": [
-        "8 am–8 pm"
-      ]
-    },
-    "review_count": 56,
-    "rating": 3.9,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdDTER_L1mWaVYVksSlhUUNjuVPV4McwbNXvdM4U_alqdV4hHK3mvmKhkehOzFDtj0nk6go1c4X5T90qHseTnT-k68J6fu1D_rKorhAV-28YncJJJ5EmEx9EpwErmufIyI7M-89QaaGrvPO=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdDTER_L1mWaVYVksSlhUUNjuVPV4McwbNXvdM4U_alqdV4hHK3mvmKhkehOzFDtj0nk6go1c4X5T90qHseTnT-k68J6fu1D_rKorhAV-28YncJJJ5EmEx9EpwErmufIyI7M-89QaaGrvPO=w1000-h750-no",
-    "source_query": "Hypermarket in Beringen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJDViYL3AwwUcRt76e7i7NvlE",
-    "name": "KAYAS SUPERMARKT",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Beringen",
-    "address": "KAYAS SUPERMARKT, Stationsstraat 33, 3582 Beringen",
-    "street": "Stationsstraat 33",
-    "postal_code": "3582",
-    "region": null,
-    "latitude": 51.0729463,
-    "longitude": 5.222275799999999,
-    "phone": "011 42 64 09",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=KAYAS%20SUPERMARKT&query_place_id=ChIJDViYL3AwwUcRt76e7i7NvlE",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "8:30 am–8 pm"
-      ],
-      "Wednesday": [
-        "8:30 am–8 pm"
-      ],
-      "Thursday": [
-        "8:30 am–8 pm"
-      ],
-      "Friday": [
-        "8:30 am–8 pm"
-      ],
-      "Saturday": [
-        "8:30 am–8 pm"
-      ],
-      "Sunday": [
-        "8:30 am–8 pm"
-      ]
-    },
-    "review_count": 191,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfVs2Pzrur5TXvDFG1gUeG0lze34IEmc1qIzCb-ZcHXsIlhqSkwM1lxBfnYFbgVMumj99Fu0BCyxSur7PbUU2J9w4_Ejz964dtRa2I9e19Hav5N-5E68W46nzAY-Rw_pw95H29eQg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfVs2Pzrur5TXvDFG1gUeG0lze34IEmc1qIzCb-ZcHXsIlhqSkwM1lxBfnYFbgVMumj99Fu0BCyxSur7PbUU2J9w4_Ejz964dtRa2I9e19Hav5N-5E68W46nzAY-Rw_pw95H29eQg=w1000-h750-no",
-    "source_query": "Halal restaurant in Beringen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJqb26FnAwwUcRtQVv9IKlFHY",
-    "name": "Kazan Impex",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Beringen",
-    "address": "Kazan Impex, Stationsstraat 11, 3582 Beringen",
-    "street": "Stationsstraat 11",
-    "postal_code": "3582",
-    "region": null,
-    "latitude": 51.072732099999996,
-    "longitude": 5.221190399999999,
-    "phone": "011 45 35 58",
-    "website": "https://www.openingsurengids.be/kazan-impex/beringen/1",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kazan%20Impex&query_place_id=ChIJqb26FnAwwUcRtQVv9IKlFHY",
-    "open_hours_json": {
-      "Monday": [
-        "10 am–7 pm"
-      ],
-      "Tuesday": [
-        "10 am–7 pm"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "10 am–7 pm"
-      ],
-      "Friday": [
-        "10 am–7 pm"
-      ],
-      "Saturday": [
-        "10 am–7 pm"
-      ],
-      "Sunday": [
-        "10 am–7 pm"
-      ]
-    },
-    "review_count": 69,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdwNrinIaaWjiPqkFzvZ8s4dnln6z7MlXbt8VE8-SiCkxQR11qHdvpsZc1s7eQy83o_de3xUPBQCJDmfqxN9aXh5EH_yTc39J1z8js_1dhxYh-sRCPDf5jty10K2x8ABSPwSlmcfg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdwNrinIaaWjiPqkFzvZ8s4dnln6z7MlXbt8VE8-SiCkxQR11qHdvpsZc1s7eQy83o_de3xUPBQCJDmfqxN9aXh5EH_yTc39J1z8js_1dhxYh-sRCPDf5jty10K2x8ABSPwSlmcfg=w1000-h750-no",
-    "source_query": "Hypermarket in Beringen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJWV5_yRwxwUcRJ21nkv8xRXQ",
-    "name": "LUNA Grill Restaurant",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Beringen",
-    "address": "LUNA Grill Restaurant, Stationsstraat 86, 3582 Beringen",
-    "street": "Stationsstraat 86",
-    "postal_code": "3582",
-    "region": null,
-    "latitude": 51.0732594,
-    "longitude": 5.225918399999999,
-    "phone": "0468 20 22 32",
-    "website": "https://www.lunagrill.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=LUNA%20Grill%20Restaurant&query_place_id=ChIJWV5_yRwxwUcRJ21nkv8xRXQ",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "11 am–10 pm"
-      ],
-      "Wednesday": [
-        "11 am–10 pm"
-      ],
-      "Thursday": [
-        "11 am–10 pm"
-      ],
-      "Friday": [
-        "11 am–10 pm"
-      ],
-      "Saturday": [
-        "11 am–10 pm"
-      ],
-      "Sunday": [
-        "11 am–10 pm"
-      ]
-    },
-    "review_count": 194,
-    "rating": 4.5,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc-TyOZHsnHlN9L_2FWYm_KKB9TAGCA0UVofESKBfN3kMg0lD4cSGULATaAEt2CXAXXNx97_tTiaQNJtn0GyC6qT3ns-N_irgZRHRmfGm8d3cSPzNvGKJE5C11_WL1-91Z_VtOq=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc-TyOZHsnHlN9L_2FWYm_KKB9TAGCA0UVofESKBfN3kMg0lD4cSGULATaAEt2CXAXXNx97_tTiaQNJtn0GyC6qT3ns-N_irgZRHRmfGm8d3cSPzNvGKJE5C11_WL1-91Z_VtOq=w1000-h750-no",
-    "source_query": "Halal restaurant in Beringen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJR3QeuYQxwUcRodYlPGm70ZI",
-    "name": "Ludogorie Market",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Beringen",
-    "address": "Ludogorie Market, Stationsstraat 3, 3582 Beringen",
-    "street": "Stationsstraat 3",
-    "postal_code": "3582",
-    "region": null,
-    "latitude": 51.0726416,
-    "longitude": 5.2207405,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ludogorie%20Market&query_place_id=ChIJR3QeuYQxwUcRodYlPGm70ZI",
-    "open_hours_json": {
-      "Monday": [
-        "5 am–8 pm"
-      ],
-      "Tuesday": [
-        "5 am–8 pm"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "5 am–8 pm"
-      ],
-      "Friday": [
-        "5 am–8 pm"
-      ],
-      "Saturday": [
-        "8 am–8 pm"
-      ],
-      "Sunday": [
-        "5 am–8 pm"
-      ]
-    },
-    "review_count": 31,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe924q9wk_iqRBNk_97knSC8eB4HGNGmvPyzyywjeXOZC2_QI9O0xcDEpfFSh-Ah3th-RA2raj6P1b5ZHSrwFDU1n0w05hwbXhVDd2HMGeg7_gS5ce9abVdnO7-RDX1_50V-rCaGjJ_-zCz=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe924q9wk_iqRBNk_97knSC8eB4HGNGmvPyzyywjeXOZC2_QI9O0xcDEpfFSh-Ah3th-RA2raj6P1b5ZHSrwFDU1n0w05hwbXhVDd2HMGeg7_gS5ce9abVdnO7-RDX1_50V-rCaGjJ_-zCz=w1000-h750-no",
-    "source_query": "Hypermarket in Beringen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJxSDO1z46wUcRLw-Xp-Ti9L4",
-    "name": "Maara Kebap",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Beringen",
-    "address": "Maara Kebap, Paal dorp 17, 3583 Beringen",
-    "street": "Paal dorp 17",
-    "postal_code": "3583",
-    "region": null,
-    "latitude": 51.0396097,
-    "longitude": 5.1721620999999995,
-    "phone": "011 22 53 81",
-    "website": "https://www.maarakebapberingen.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Maara%20Kebap&query_place_id=ChIJxSDO1z46wUcRLw-Xp-Ti9L4",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "12–1:30 pm",
-        "4–11 pm"
-      ],
-      "Wednesday": [
-        "12–1:30 pm",
-        "4–11 pm"
-      ],
-      "Thursday": [
-        "12–1:30 pm",
-        "4–11 pm"
-      ],
-      "Friday": [
-        "12–1:30 pm",
-        "4 pm–12 am"
-      ],
-      "Saturday": [
-        "4 pm–12 am"
-      ],
-      "Sunday": [
-        "4–11 pm"
-      ]
-    },
-    "review_count": 274,
-    "rating": 4.1,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeBNu_ucHah2RiJDbFgNfkqxI_Lg_k1gxPf9EiQSvCHud7Y9OVvT6E9lSlNA5wPWCtQgEI4BwuuoIyfXhzC-PmTVFyD2wfid8isjSGcoafPugdnFMHu_-5dtgddL65Mg4PCedJj=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeBNu_ucHah2RiJDbFgNfkqxI_Lg_k1gxPf9EiQSvCHud7Y9OVvT6E9lSlNA5wPWCtQgEI4BwuuoIyfXhzC-PmTVFyD2wfid8isjSGcoafPugdnFMHu_-5dtgddL65Mg4PCedJj=w1000-h750-no",
-    "source_query": "Halal restaurant in Beringen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJy3oc8QAlwUcRr3KCxKo-kfU",
-    "name": "Magreb Breakfast Lunch and Dinner",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Beringen",
-    "address": "Magreb Breakfast Lunch and Dinner, Koersel-Dorp 7, 3582 Beringen",
-    "street": "Koersel-Dorp 7",
-    "postal_code": "3582",
-    "region": null,
-    "latitude": 51.0585382,
-    "longitude": 5.2722937,
-    "phone": "0468 37 75 04",
-    "website": "http://www.magrebbreakfastlunchdinner.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Magreb%20Breakfast%20Lunch%20and%20Dinner&query_place_id=ChIJy3oc8QAlwUcRr3KCxKo-kfU",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "Closed"
-      ],
-      "Friday": [
-        "Closed"
-      ],
-      "Saturday": [
-        "Closed"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 205,
-    "rating": 4.9,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdMXo6qxlCZy-N1ycjDL0Fl6WLxGXzHX3GtFhd4Tv9reyUkSIOu5hY_ko1xpX9GHBprRgzmobgCEDRZwUC_JJthH89o5bsLus1iObia9fwxaR4vZPtrXjXhkQsnP6-CRduDKrAq=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdMXo6qxlCZy-N1ycjDL0Fl6WLxGXzHX3GtFhd4Tv9reyUkSIOu5hY_ko1xpX9GHBprRgzmobgCEDRZwUC_JJthH89o5bsLus1iObia9fwxaR4vZPtrXjXhkQsnP6-CRduDKrAq=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Geel, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJFbXpiXAwwUcROzv7XAtQZcY",
-    "name": "Maxi Zoo Beringen",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Beringen",
-    "address": "Maxi Zoo Beringen, be-MINE 7, 3582 Beringen",
-    "street": "be-MINE 7",
-    "postal_code": "3582",
-    "region": null,
-    "latitude": 51.067563899999996,
-    "longitude": 5.2252377,
-    "phone": "011 23 59 81",
-    "website": "https://www.maxizoo.be/nl/stores/maxi-zoo-beringen/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Maxi%20Zoo%20Beringen&query_place_id=ChIJFbXpiXAwwUcROzv7XAtQZcY",
-    "open_hours_json": {
-      "Monday": [
-        "9 am–6:30 pm"
-      ],
-      "Tuesday": [
-        "9 am–6:30 pm"
-      ],
-      "Wednesday": [
-        "9 am–6:30 pm"
-      ],
-      "Thursday": [
-        "9 am–6:30 pm"
-      ],
-      "Friday": [
-        "9 am–6:30 pm"
-      ],
-      "Saturday": [
-        "9 am–6:30 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 452,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdZ40E007e1OaaD-oJnOx80NeHsss1gGdp6Sn-QnFQQrKnv19SH0i7Wlm-87o6wHgarOtoSwLP3IRnaG6YDnvStf7i_uZlCBgcvY-y-eOpQ3w8C1vcRVgoHmWPW4OcwIK6XgHtYeQX59HJl=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdZ40E007e1OaaD-oJnOx80NeHsss1gGdp6Sn-QnFQQrKnv19SH0i7Wlm-87o6wHgarOtoSwLP3IRnaG6YDnvStf7i_uZlCBgcvY-y-eOpQ3w8C1vcRVgoHmWPW4OcwIK6XgHtYeQX59HJl=w1000-h750-no",
-    "source_query": "Hypermarket in Beringen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJO5MkJwA7wUcR3LAAIblIHv0",
-    "name": "Mini's",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Beringen",
-    "address": "Mini's, Collegestraat 10, 3580 Beringen",
-    "street": "Collegestraat 10",
-    "postal_code": "3580",
-    "region": null,
-    "latitude": 51.0486935,
-    "longitude": 5.2238354,
-    "phone": null,
-    "website": "https://www.instagram.com/minis.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mini%27s&query_place_id=ChIJO5MkJwA7wUcR3LAAIblIHv0",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "10 am–5 pm"
-      ],
-      "Wednesday": [
-        "10 am–5 pm"
-      ],
-      "Thursday": [
-        "10 am–5 pm"
-      ],
-      "Friday": [
-        "10 am–5 pm"
-      ],
-      "Saturday": [
-        "10 am–5 pm"
-      ],
-      "Sunday": [
-        "10 am–3 pm"
-      ]
-    },
-    "review_count": 75,
-    "rating": 4.9,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcwUWSqKluOsRY-rafzWIT5CN-yzX5WQv2Kexvhtoi-vDw8ej_-KzRyTMSr2T3ZetCuYC-iQBnCn0nlMu8HFFh7_ZWAXmaWmZtYXqyR6NaPWnzzewE-_9Ta9EdZPVozXnyoi8ciHGNAiqEe=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcwUWSqKluOsRY-rafzWIT5CN-yzX5WQv2Kexvhtoi-vDw8ej_-KzRyTMSr2T3ZetCuYC-iQBnCn0nlMu8HFFh7_ZWAXmaWmZtYXqyR6NaPWnzzewE-_9Ta9EdZPVozXnyoi8ciHGNAiqEe=w1000-h750-no",
-    "source_query": "Halal restaurant in Beringen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ1WzI6WswwUcRCPE0xkhNEGA",
-    "name": "Mosque Hazreti Hamza Camii",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Beringen",
-    "address": "Mosque Hazreti Hamza Camii, Leysestraat 130, 3581 Beringen",
-    "street": "Leysestraat 130",
-    "postal_code": "3581",
-    "region": null,
-    "latitude": 51.0797119,
-    "longitude": 5.2285455999999995,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mosque%20Hazreti%20Hamza%20Camii&query_place_id=ChIJ1WzI6WswwUcRCPE0xkhNEGA",
-    "open_hours_json": null,
-    "review_count": 26,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd8JjwUdqw0vj2zaK9xyhoSpkHX4cxXLmY5CrxL3xwrbl23FiktjrNQvix49w6gaYkImXarMe1qS9XQWsi0JWszyluD8WkIOzRy3py8-0uF9YFOBA7Yb04iWSJcC70z_zZ7-nxk=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd8JjwUdqw0vj2zaK9xyhoSpkHX4cxXLmY5CrxL3xwrbl23FiktjrNQvix49w6gaYkImXarMe1qS9XQWsi0JWszyluD8WkIOzRy3py8-0uF9YFOBA7Yb04iWSJcC70z_zZ7-nxk=w1000-h750-no",
-    "source_query": "Mosque in Zoutleeuw, Flanders, BE",
     "moderation_status": "approved",
     "is_active": true,
     "verification_status": "UNVERIFIED",
