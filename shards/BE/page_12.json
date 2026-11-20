@@ -1,5 +1,452 @@
 [
   {
+    "place_id": "ChIJuQtHxWODwUcRQ9eOOncv-vY",
+    "name": "GUS - Epicerie Vivante / La petite épicerie Bio de Sarah : épicerie et vins - artisanaux et naturels",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Gembloux",
+    "address": "GUS - Epicerie Vivante / La petite épicerie Bio de Sarah : épicerie et vins - artisanaux et naturels, Rue Chapelle Moureau 25, 5030 Gembloux",
+    "street": "Rue Chapelle Moureau 25",
+    "postal_code": "5030",
+    "region": null,
+    "latitude": 50.553198599999995,
+    "longitude": 4.6927856,
+    "phone": "0474 94 01 70",
+    "website": "http://www.gus-wechange.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=GUS%20-%20Epicerie%20Vivante%20%2F%20La%20petite%20%C3%A9picerie%20Bio%20de%20Sarah%20%3A%20%C3%A9picerie%20et%20vins%20-%20artisanaux%20et%20naturels&query_place_id=ChIJuQtHxWODwUcRQ9eOOncv-vY",
+    "open_hours_json": null,
+    "review_count": 24,
+    "rating": 5.0,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLctyL3_JhbINrzGBH8TH-aRxsxgO2eI5xO6Pza5A98Yfw3ZIoMz3qL1BXbce2cVDMySBMj6_W7guhcsXOlwUrVHECljLoFpijv7QdTGwt8zJobEt6qJvB-vCFngZBmAAS1p3AO68mmg2zgP=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLctyL3_JhbINrzGBH8TH-aRxsxgO2eI5xO6Pza5A98Yfw3ZIoMz3qL1BXbce2cVDMySBMj6_W7guhcsXOlwUrVHECljLoFpijv7QdTGwt8zJobEt6qJvB-vCFngZBmAAS1p3AO68mmg2zgP=w1000-h750-no",
+    "source_query": "Hypermarket in Gembloux, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJowh6XUGCwUcRe2A_c-R3j-0",
+    "name": "Il Padrino",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Gembloux",
+    "address": "Il Padrino, Rue Léopold 18, 5030 Gembloux",
+    "street": "Rue Léopold 18",
+    "postal_code": "5030",
+    "region": null,
+    "latitude": 50.560315599999996,
+    "longitude": 4.6923805,
+    "phone": "081 61 50 50",
+    "website": "http://www.ilpadrino18.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Il%20Padrino&query_place_id=ChIJowh6XUGCwUcRe2A_c-R3j-0",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "6:30–10:30 pm"
+      ],
+      "Wednesday": [
+        "12–2:30 pm",
+        "6:30–10:30 pm"
+      ],
+      "Thursday": [
+        "12–2:30 pm",
+        "6:30–10:30 pm"
+      ],
+      "Friday": [
+        "12–2:30 pm",
+        "6:30–10:30 pm"
+      ],
+      "Saturday": [
+        "6:30–11 pm"
+      ],
+      "Sunday": [
+        "12–2:30 pm",
+        "6:30–11 pm"
+      ]
+    },
+    "review_count": 243,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLekyzGTVDtFsZ1qqy94pNDV0flZ8m-GPt4puIoMZjABcNKGLfrUeJVNN07Q3orUt7Ysy51rwChU2msdFq433oLqq-NfS9UFq1sEFJztZCQ2WSEprenVSdU5hzQ_OModrgYLNFs=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLekyzGTVDtFsZ1qqy94pNDV0flZ8m-GPt4puIoMZjABcNKGLfrUeJVNN07Q3orUt7Ysy51rwChU2msdFq433oLqq-NfS9UFq1sEFJztZCQ2WSEprenVSdU5hzQ_OModrgYLNFs=w1000-h750-no",
+    "source_query": "Halal restaurant in Gembloux, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJnY5gkFCDwUcRdo42yVXVEcs",
+    "name": "Intermarché Gembloux",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Gembloux",
+    "address": "Intermarché Gembloux, Campagne D'enée 1, 5030 Gembloux",
+    "street": "Campagne D'enée 1",
+    "postal_code": "5030",
+    "region": null,
+    "latitude": 50.576510199999994,
+    "longitude": 4.7050214,
+    "phone": "081 61 01 43",
+    "website": "https://www.intermarche.be/magasins/intermarche-gembloux/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Intermarch%C3%A9%20Gembloux&query_place_id=ChIJnY5gkFCDwUcRdo42yVXVEcs",
+    "open_hours_json": {
+      "Monday": [
+        "8:30 am–7 pm"
+      ],
+      "Tuesday": [
+        "8:30 am–7 pm"
+      ],
+      "Wednesday": [
+        "8:30 am–7 pm"
+      ],
+      "Thursday": [
+        "8:30 am–7 pm"
+      ],
+      "Friday": [
+        "8:30 am–7 pm"
+      ],
+      "Saturday": [
+        "8:30 am–7 pm"
+      ],
+      "Sunday": [
+        "8:30 am–7 pm"
+      ]
+    },
+    "review_count": 447,
+    "rating": 4.1,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdGrhZsshPXw_bFbYOt5j_GcthyFjLxQj5Z8PTtwNgcrgbPYsPuL9PyJS6lwo1-edFUvcIAr77W63IIDbqy73_NRqq7K8ulwyJZWK235r0TJYWDOBg-LzlT2E2tlv3boI38R1QvTg=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdGrhZsshPXw_bFbYOt5j_GcthyFjLxQj5Z8PTtwNgcrgbPYsPuL9PyJS6lwo1-edFUvcIAr77W63IIDbqy73_NRqq7K8ulwyJZWK235r0TJYWDOBg-LzlT2E2tlv3boI38R1QvTg=w1000-h750-no",
+    "source_query": "Hypermarket in Gembloux, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJTRVaNO2nwUcRck3EB8-_eEI",
+    "name": "Krëfel Gembloux",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Gembloux",
+    "address": "Krëfel Gembloux, Campagne d'Enée 11, 5030 Gembloux",
+    "street": "Campagne d'Enée 11",
+    "postal_code": "5030",
+    "region": null,
+    "latitude": 50.5768786,
+    "longitude": 4.7040254,
+    "phone": "081 61 07 29",
+    "website": "https://www.krefel.be/fr/magasins/gembloux",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kr%C3%ABfel%20Gembloux&query_place_id=ChIJTRVaNO2nwUcRck3EB8-_eEI",
+    "open_hours_json": {
+      "Monday": [
+        "10 am–6:30 pm"
+      ],
+      "Tuesday": [
+        "10 am–6:30 pm"
+      ],
+      "Wednesday": [
+        "10 am–6:30 pm"
+      ],
+      "Thursday": [
+        "10 am–6:30 pm"
+      ],
+      "Friday": [
+        "10 am–6:30 pm"
+      ],
+      "Saturday": [
+        "10 am–6:30 pm"
+      ],
+      "Sunday": [
+        "10 am–6 pm"
+      ]
+    },
+    "review_count": 610,
+    "rating": 4.4,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcLBSkMvL8XznpTuZDodMuwXvI0OVjwwyTlWxdhW2dtdoKnWRPvE5tJ3WoUNIb7hQx-BkTeLs38Yw1PSsbOQKDE50606pdd3hz4ISi4a_wzINzX5bXCSSeoO8VgX9Lo5aR8-NR06RxfzS0h=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcLBSkMvL8XznpTuZDodMuwXvI0OVjwwyTlWxdhW2dtdoKnWRPvE5tJ3WoUNIb7hQx-BkTeLs38Yw1PSsbOQKDE50606pdd3hz4ISi4a_wzINzX5bXCSSeoO8VgX9Lo5aR8-NR06RxfzS0h=w1000-h750-no",
+    "source_query": "Hypermarket in Gembloux, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJbyajHEOCwUcRAtKiwJMR-pM",
+    "name": "L'Oriental restaurant",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Gembloux",
+    "address": "L'Oriental restaurant, Pl. Saint-Guibert 7, 5030 Gembloux",
+    "street": "Pl. Saint-Guibert 7",
+    "postal_code": "5030",
+    "region": null,
+    "latitude": 50.561107,
+    "longitude": 4.6965614,
+    "phone": "0498 63 47 74",
+    "website": "https://loriental-gembloux.indigo-star-0779.chatgpt.site/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=L%27Oriental%20restaurant&query_place_id=ChIJbyajHEOCwUcRAtKiwJMR-pM",
+    "open_hours_json": {
+      "Monday": [
+        "6–11 pm"
+      ],
+      "Tuesday": [
+        "11:30 am–2:30 pm",
+        "6–11 pm"
+      ],
+      "Wednesday": [
+        "11:30 am–2:30 pm",
+        "6–11 pm"
+      ],
+      "Thursday": [
+        "11:30 am–2:30 pm",
+        "6–11 pm"
+      ],
+      "Friday": [
+        "11:30 am–2:30 pm",
+        "6–11 pm"
+      ],
+      "Saturday": [
+        "11:30 am–2:30 pm",
+        "6–11 pm"
+      ],
+      "Sunday": [
+        "11:30 am–2:30 pm",
+        "6–11 pm"
+      ]
+    },
+    "review_count": 231,
+    "rating": 4.4,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf6lE4EK3Wm0ZQWxuzWi1rVPhQbtCpl_8SJyML4AM19Oce6kk1vIdke4RlzqqSrYtd83mpvL6IHQwwr9hhusz7RekmdgPlDXWcx8h39QQ1ghVioSanuLfUC7vJEHGJa-EJyCeRN=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf6lE4EK3Wm0ZQWxuzWi1rVPhQbtCpl_8SJyML4AM19Oce6kk1vIdke4RlzqqSrYtd83mpvL6IHQwwr9hhusz7RekmdgPlDXWcx8h39QQ1ghVioSanuLfUC7vJEHGJa-EJyCeRN=w1000-h750-no",
+    "source_query": "Halal restaurant in Gembloux, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJkffkRXqCwUcRl85NW6j6290",
+    "name": "La Maison Blanche",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Gembloux",
+    "address": "La Maison Blanche, Chau. de Tirlemont 64, 5030 Gembloux",
+    "street": "Chau. de Tirlemont 64",
+    "postal_code": "5030",
+    "region": null,
+    "latitude": 50.577912,
+    "longitude": 4.704959,
+    "phone": "081 61 20 85",
+    "website": "http://www.lamaisonblanche.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Maison%20Blanche&query_place_id=ChIJkffkRXqCwUcRl85NW6j6290",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "11:30 am–2:30 pm"
+      ],
+      "Wednesday": [
+        "11:30 am–2:30 pm",
+        "6:30–10:30 pm"
+      ],
+      "Thursday": [
+        "11:30 am–2:30 pm",
+        "6:30–10:30 pm"
+      ],
+      "Friday": [
+        "11:30 am–2:30 pm",
+        "6:30–10:30 pm"
+      ],
+      "Saturday": [
+        "6:30–10:30 pm"
+      ],
+      "Sunday": [
+        "11:30 am–2:30 pm"
+      ]
+    },
+    "review_count": 690,
+    "rating": 4.4,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcqGMnIVjhHLd8gcy5S-cOkEh7WfaINRCMwhUfSseRrlJndfBj6Ckw4wdEL7GYldAKYANse0Y-vQrpgMNWUsFWVXBt4K7zN0Dsouatystbk_hn9ptaCgKIkR77ZH7VHk7QOdRLU=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcqGMnIVjhHLd8gcy5S-cOkEh7WfaINRCMwhUfSseRrlJndfBj6Ckw4wdEL7GYldAKYANse0Y-vQrpgMNWUsFWVXBt4K7zN0Dsouatystbk_hn9ptaCgKIkR77ZH7VHk7QOdRLU=w1000-h750-no",
+    "source_query": "Halal restaurant in Gembloux, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ63tF7aSDwUcRilJmAJH266A",
+    "name": "La Vie Claire (ex Biocap)",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Gembloux",
+    "address": "La Vie Claire (ex Biocap), Av. de la Faculté d'Agronomie 28, 5030 Gembloux",
+    "street": "Av. de la Faculté d'Agronomie 28",
+    "postal_code": "5030",
+    "region": null,
+    "latitude": 50.5674706,
+    "longitude": 4.6947667,
+    "phone": "081 13 71 77",
+    "website": "https://magasins.lavieclaire.com/lavieclaire/fr/store/belgique/region-wallonne/namur/gembloux/gembloux/19939?utm_source=GMB&utm_campaign=Multidiffusion&utm_medium=local&utm_content=19939&origin=GMB",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Vie%20Claire%20%28ex%20Biocap%29&query_place_id=ChIJ63tF7aSDwUcRilJmAJH266A",
+    "open_hours_json": {
+      "Monday": [
+        "9 am–7 pm"
+      ],
+      "Tuesday": [
+        "9 am–7 pm"
+      ],
+      "Wednesday": [
+        "9 am–7 pm"
+      ],
+      "Thursday": [
+        "9 am–7 pm"
+      ],
+      "Friday": [
+        "9 am–7 pm"
+      ],
+      "Saturday": [
+        "9 am–7 pm"
+      ],
+      "Sunday": [
+        "9 am–12 pm"
+      ]
+    },
+    "review_count": 41,
+    "rating": 4.2,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdiBKw7MITOrmuRP3eJmvp0vnqDScxn4M-yhw60FEWeEZeKvg6rsuJ_kSDdS4H_eJjX0cCVJI7AnUKKv3k1x7R6M4BpxxH978izimskOjfk6ozxxjVFyjTKm8L3YYZMcv2JBaIk=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdiBKw7MITOrmuRP3eJmvp0vnqDScxn4M-yhw60FEWeEZeKvg6rsuJ_kSDdS4H_eJjX0cCVJI7AnUKKv3k1x7R6M4BpxxH978izimskOjfk6ozxxjVFyjTKm8L3YYZMcv2JBaIk=w1000-h750-no",
+    "source_query": "Hypermarket in Gembloux, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJPdwiQiaDwUcRWmauo33NBe4",
+    "name": "La sweet by Mel",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Gembloux",
+    "address": "La sweet by Mel, Av. de la Faculté d'Agronomie 73, 5030 Gembloux",
+    "street": "Av. de la Faculté d'Agronomie 73",
+    "postal_code": "5030",
+    "region": null,
+    "latitude": 50.567605199999996,
+    "longitude": 4.6942508,
+    "phone": "0455 10 93 87",
+    "website": "https://www.facebook.com/sweetbymel",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20sweet%20by%20Mel&query_place_id=ChIJPdwiQiaDwUcRWmauo33NBe4",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "12:30–5 pm"
+      ],
+      "Thursday": [
+        "9 am–5 pm"
+      ],
+      "Friday": [
+        "9 am–5 pm"
+      ],
+      "Saturday": [
+        "9:30 am–3 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 44,
+    "rating": 5.0,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdVIMfA9l_5IJvHfJ35nZOEBhwins51Qxk0cUT8sn7jaT4ZSD0VM-f3I27vtqPSul4KFz0VBfZ_JDgMslGeLP4lSUJMm5nfQwo_MM-zuNQkHxUH9P_V0oruJV0ys5aLxZMtIEQH=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdVIMfA9l_5IJvHfJ35nZOEBhwins51Qxk0cUT8sn7jaT4ZSD0VM-f3I27vtqPSul4KFz0VBfZ_JDgMslGeLP4lSUJMm5nfQwo_MM-zuNQkHxUH9P_V0oruJV0ys5aLxZMtIEQH=w1000-h750-no",
+    "source_query": "Halal restaurant in Gembloux, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJR8Pm0d6DwUcRU48QBzA7n50",
+    "name": "Le Jardin des Délices",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Gembloux",
+    "address": "Le Jardin des Délices, Rue Try-Ansquet 16, 5030 Gembloux",
+    "street": "Rue Try-Ansquet 16",
+    "postal_code": "5030",
+    "region": null,
+    "latitude": 50.5490281,
+    "longitude": 4.7206179,
+    "phone": "081 28 02 64",
+    "website": "http://www.lejardindesdelices.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Jardin%20des%20D%C3%A9lices&query_place_id=ChIJR8Pm0d6DwUcRU48QBzA7n50",
+    "open_hours_json": null,
+    "review_count": 5,
+    "rating": 5.0,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcH0srDfiCgHXf0qPKChREhpiY8Mr4h0-Bxmv3mtKMt-NCNnFRDUzS4byEUCNdPyDB51rc-_hqdkoTUXL9SXWA_nrDd5wRL1lrwtMei2ODO7NR7RSZP6JoFVCDRKK-VEqWaeAZJ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcH0srDfiCgHXf0qPKChREhpiY8Mr4h0-Bxmv3mtKMt-NCNnFRDUzS4byEUCNdPyDB51rc-_hqdkoTUXL9SXWA_nrDd5wRL1lrwtMei2ODO7NR7RSZP6JoFVCDRKK-VEqWaeAZJ=w1000-h750-no",
+    "source_query": "Hypermarket in Gembloux, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJm2-5vbeDwUcRU_LS-IQ0Vj8",
+    "name": "Les secrets du Liban",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Gembloux",
+    "address": "Les secrets du Liban, Pl. de l'Orneau 6, 5030 Gembloux",
+    "street": "Pl. de l'Orneau 6",
+    "postal_code": "5030",
+    "region": null,
+    "latitude": 50.560479,
+    "longitude": 4.691914,
+    "phone": "081 34 14 15",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les%20secrets%20du%20Liban&query_place_id=ChIJm2-5vbeDwUcRU_LS-IQ0Vj8",
+    "open_hours_json": null,
+    "review_count": 48,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeT56WDzmRWNTKPePJ4erD5ve0gYJ-zlVQ41Y8QHXgmRe8PEA9tmuHeWEsl3gYmC0RqfWbbKSgreCHR6G1Gm0_yURWdQpK47GlS-6f8sXvUHiKowR7EnlFZhFbW2lJlvLKIogU=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeT56WDzmRWNTKPePJ4erD5ve0gYJ-zlVQ41Y8QHXgmRe8PEA9tmuHeWEsl3gYmC0RqfWbbKSgreCHR6G1Gm0_yURWdQpK47GlS-6f8sXvUHiKowR7EnlFZhFbW2lJlvLKIogU=w1000-h750-no",
+    "source_query": "Halal restaurant in Gembloux, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJ1R4UYz2CwUcRQOp3HrHfdYQ",
     "name": "Mayo Nicolas",
     "type": "restaurant",
@@ -2201,12 +2648,12 @@
     "latitude": 50.9935106,
     "longitude": 5.5187203,
     "phone": "089 84 49 44",
-    "website": "https://www.alibabagenk.be/",
+    "website": "https://ali-baba.bestelmandje.be/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ali%20Baba&query_place_id=ChIJG1I1YhHZwEcROTDQ47i9M9I",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdFIm8ZEZarpxST5vnR3TqKiscqT19El0wRhzWJ0B-fheyxSsKZ-i_jkuLFOzpFeREhITmtIbEnO56Ba9q8Aafzf5aHH76d04TwX2XnyIaQ_7vMkTahamc0i2U7ftLG5chV9EXUjw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdFIm8ZEZarpxST5vnR3TqKiscqT19El0wRhzWJ0B-fheyxSsKZ-i_jkuLFOzpFeREhITmtIbEnO56Ba9q8Aafzf5aHH76d04TwX2XnyIaQ_7vMkTahamc0i2U7ftLG5chV9EXUjw=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe2QeZWlxj9B-b7Knhao5tqCAqBn7jOFsy_i9R0ii6tE70dznW6b1fWG6tipTa-uunMgSR6uE6K292vMW2xmDMow3t16MtWY6LQeTm4R040TsX9QU4XeszgTmbNjulWZhxcarQOiQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe2QeZWlxj9B-b7Knhao5tqCAqBn7jOFsy_i9R0ii6tE70dznW6b1fWG6tipTa-uunMgSR6uE6K292vMW2xmDMow3t16MtWY6LQeTm4R040TsX9QU4XeszgTmbNjulWZhxcarQOiQ=w1000-h750-no",
     "rating": 4.1,
-    "review_count": 1009,
+    "review_count": 1010,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null,
     "is_active": true,
@@ -2635,8 +3082,8 @@
     "phone": "089 85 85 35",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Basak%20Supermarkt&query_place_id=ChIJmSJpac_YwEcRA-A9y-1E4Eo",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcCxIalK0W3lXZplZ_XFo0Fsxh8sHvoskAESJbqtfaafvlWWZkvtIVabGQedfUjKWbsbHK9aIHSf2XP7g2x1sbDkmoiNDyMiWhxsgOaE5pWGX0h-zAHUH6OMvgbWlUy9uJURwWm=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcCxIalK0W3lXZplZ_XFo0Fsxh8sHvoskAESJbqtfaafvlWWZkvtIVabGQedfUjKWbsbHK9aIHSf2XP7g2x1sbDkmoiNDyMiWhxsgOaE5pWGX0h-zAHUH6OMvgbWlUy9uJURwWm=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd3dU2SNKiBbgaZqR1OC1vYTjXR0UTWfL4XqPoo_AhFqFvTlRRKHwjdFc3K5Oy8GykFMbHB-riJ5Wyb7iTuvWBaeTMRYI6S2tefZsEGKQkwzkAEBTvIQzNrloj1b-c1NLyoyPdb=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd3dU2SNKiBbgaZqR1OC1vYTjXR0UTWfL4XqPoo_AhFqFvTlRRKHwjdFc3K5Oy8GykFMbHB-riJ5Wyb7iTuvWBaeTMRYI6S2tefZsEGKQkwzkAEBTvIQzNrloj1b-c1NLyoyPdb=w1000-h750-no",
     "rating": 4.4,
     "review_count": 543,
     "verification_status": "UNVERIFIED",
@@ -6397,8 +6844,8 @@
     "phone": "089 47 22 26",
     "website": "https://m.yumm.menu/qubbeqebab/iab",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Qubbe%20Qebab&query_place_id=ChIJVX760fTZwEcRKsLLWibNySE",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLccqAib_KU26kHZtBnDkHUXJh53tFI2JBOvCc-urWc6KrL6idywcQf5Sn6TUGWdlzIQ8uafoG_mFNTAXzX_H8NUUPR-KMxyXuaHY-9KwJAhh8fUA1YSgJRma3GNiXF0o8azUF2a=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLccqAib_KU26kHZtBnDkHUXJh53tFI2JBOvCc-urWc6KrL6idywcQf5Sn6TUGWdlzIQ8uafoG_mFNTAXzX_H8NUUPR-KMxyXuaHY-9KwJAhh8fUA1YSgJRma3GNiXF0o8azUF2a=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfdDul2Xl41al2922XIUo85Yr6y18tXRHS_x1Lbs3KWWhWC0wlbSn1L1A4LhOTDIM7oCeZBeB32pGBofgjvWP7c4rjKP9-MSrhY8F-z1Fu2bGP4bZrJZckce6ua9-beecALMMoV=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfdDul2Xl41al2922XIUo85Yr6y18tXRHS_x1Lbs3KWWhWC0wlbSn1L1A4LhOTDIM7oCeZBeB32pGBofgjvWP7c4rjKP9-MSrhY8F-z1Fu2bGP4bZrJZckce6ua9-beecALMMoV=w1000-h750-no",
     "rating": 4.8,
     "review_count": 695,
     "verification_status": "VERIFIED",
@@ -7009,8 +7456,8 @@
     "phone": "0471 52 32 47",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Slagerij%20Lana%20Halal&query_place_id=ChIJC1t6zA7fwEcRdXCZgNLVuVs",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeBHce_Mz-YBU5YJGzNAsDeo1FD3ZM1s5zS7ONDIgHLLpyF1ACSHk0F5pBEd-qt3eFoAyCQMeOBcTsgVUNP9bm_8ltUCvehCE9mZap2mV1pvHI2RVFoVEq-tTDnX84FFAi7LG4tzumL_tI=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeBHce_Mz-YBU5YJGzNAsDeo1FD3ZM1s5zS7ONDIgHLLpyF1ACSHk0F5pBEd-qt3eFoAyCQMeOBcTsgVUNP9bm_8ltUCvehCE9mZap2mV1pvHI2RVFoVEq-tTDnX84FFAi7LG4tzumL_tI=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcNt6F89dNM2-Zx5htk6L9KMHlJiGa4TS6vZwHj5183xIPhmrR_3ZZwFI-QMGfbex52jendce_4RUi0xPDPPNZfD6i2uHt138wxZqCHEEDfe_U7f3kGgz3T56hYTpwngNFr6uDqMBOIgLM=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcNt6F89dNM2-Zx5htk6L9KMHlJiGa4TS6vZwHj5183xIPhmrR_3ZZwFI-QMGfbex52jendce_4RUi0xPDPPNZfD6i2uHt138wxZqCHEEDfe_U7f3kGgz3T56hYTpwngNFr6uDqMBOIgLM=w1000-h750-no",
     "rating": 5.0,
     "review_count": 5,
     "verification_status": "VERIFIED",
@@ -7470,42 +7917,14 @@
     "phone": "089 30 70 30",
     "website": "http://www.thethrill.be/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=The%20Thrill&query_place_id=ChIJedsEiCzfwEcRLx4zKYYHJi8",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "12–3 pm",
-        "6–11 pm"
-      ],
-      "Wednesday": [
-        "12–3 pm",
-        "6–11 pm"
-      ],
-      "Thursday": [
-        "12–3 pm",
-        "6–11 pm"
-      ],
-      "Friday": [
-        "12–3 pm",
-        "6–11 pm"
-      ],
-      "Saturday": [
-        "6–11 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 344,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLetmJJhJhrZ7T0LgPPN8xAgPu-j9Yp-7cB5ax8vHGfEgYAstlYHtzM70IUgAAZDAF9e_4SvTF-p8RdQkPe6tP_qUFmXdNeW8P7MoKH84yKfzjRtY9Mg2h6kudjKH5aaj4nFgFSibw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLetmJJhJhrZ7T0LgPPN8xAgPu-j9Yp-7cB5ax8vHGfEgYAstlYHtzM70IUgAAZDAF9e_4SvTF-p8RdQkPe6tP_qUFmXdNeW8P7MoKH84yKfzjRtY9Mg2h6kudjKH5aaj4nFgFSibw=w1000-h750-no",
     "rating": 4.4,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfAXdq_YMXKL7YqySkbpY-k5xt0iiVA-8DZYJsFc00TyO4bY0y90LF0JZopfYRVHCgZ2hURILRhBEys9QdwbaZZwsaAaW4hDQOK7IQVIpR8K8OWSCjNQ5OCulYl0HknmUhpZArSnw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfAXdq_YMXKL7YqySkbpY-k5xt0iiVA-8DZYJsFc00TyO4bY0y90LF0JZopfYRVHCgZ2hURILRhBEys9QdwbaZZwsaAaW4hDQOK7IQVIpR8K8OWSCjNQ5OCulYl0HknmUhpZArSnw=w1000-h750-no",
-    "source_query": "Halal restaurant in Genk, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
+    "review_count": 344,
     "verification_status": "UNVERIFIED",
-    "verification_evidence": null
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
   },
   {
     "place_id": "ChIJr1nD1eDfwEcRfgHIjdvr3_M",
@@ -8192,8 +8611,8 @@
     "phone": "09 225 07 21",
     "website": "https://www.openingsurengids.be/aile-kasabi/gent/1",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Aile%20Kasabi&query_place_id=ChIJMbxu-Elxw0cRHQ1wxHGctOg",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcTExvOeNKhs9MxK7iHWBu_7rIrFw8qvVjpJBXEDVbopJp8uzGVxEbact6ntdn5lguLg-XXoa5tTapg8NGGwTsfQrDlq94nMR2HViNuRDKa9CL3rpAwq4cCpxg5vimDd1AG7heE=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcTExvOeNKhs9MxK7iHWBu_7rIrFw8qvVjpJBXEDVbopJp8uzGVxEbact6ntdn5lguLg-XXoa5tTapg8NGGwTsfQrDlq94nMR2HViNuRDKa9CL3rpAwq4cCpxg5vimDd1AG7heE=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd7tSc4F11BHGHC12ocmT_XKd6WRZYkXTINaxje51x11UZJ2V6S32TKjF4t7xC8qHq1kQn8WMQCfO8nxM0Pz4SoeKtNPuulUGFWSLXN6eor9dygwTX4ML2UOJSwtUApb3A71Iah=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd7tSc4F11BHGHC12ocmT_XKd6WRZYkXTINaxje51x11UZJ2V6S32TKjF4t7xC8qHq1kQn8WMQCfO8nxM0Pz4SoeKtNPuulUGFWSLXN6eor9dygwTX4ML2UOJSwtUApb3A71Iah=w1000-h750-no",
     "rating": 4.0,
     "review_count": 36,
     "verification_status": "UNVERIFIED",
@@ -8530,8 +8949,8 @@
     "phone": "0470 84 10 42",
     "website": "https://chefdag.com/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=CHEFDAG%20Gent-Rooigemlaan&query_place_id=ChIJHUW800Vxw0cRmPvhZd7YFFU",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd8byT4jnUMaJ60xW4ZiWoObCy2-ymG-VS7ZcIlcFHC0W85mO_kUyE4mIyHpYW6NkULqQO9OEql9gUEISoKGQWuo7uV3c7y0a0JbQBuIMcN1pCvJo6eXSMLD8hEBuq-qvRjnY2t0g=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd8byT4jnUMaJ60xW4ZiWoObCy2-ymG-VS7ZcIlcFHC0W85mO_kUyE4mIyHpYW6NkULqQO9OEql9gUEISoKGQWuo7uV3c7y0a0JbQBuIMcN1pCvJo6eXSMLD8hEBuq-qvRjnY2t0g=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcAMSO-tN2koGxXXndFBwMfDkRmplmYro2qMT0Zt4X5vRoNHP5wIjk8WKb9sp7h5QzU0dzvFedAjeTBi3vUY4m4kYgjhqnEb_zrGJ-p3EVUOX4-PhsGaA2CXnOT7Pic2uyLYgNoLw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcAMSO-tN2koGxXXndFBwMfDkRmplmYro2qMT0Zt4X5vRoNHP5wIjk8WKb9sp7h5QzU0dzvFedAjeTBi3vUY4m4kYgjhqnEb_zrGJ-p3EVUOX4-PhsGaA2CXnOT7Pic2uyLYgNoLw=w1000-h750-no",
     "rating": 4.2,
     "review_count": 337,
     "verification_status": "VERIFIED",
@@ -8637,7 +9056,7 @@
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW16IndtuiqJxsle2868Lga97uVOEAFfm79YU0OfBbszTYkFU-jNB9MRu64LX5TjVV3ZamXWRMPFIbGTmG0UwUD4gcJHgEewcq1j_ZRqNf0AhQkLLF4cr2yLUt0Ihbwl5XhdIMduxLLzLpxbW7XEeftZ-zkerGLyV-1qQW6YVWtACJQyx9cB4X2hjA=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW16IndtuiqJxsle2868Lga97uVOEAFfm79YU0OfBbszTYkFU-jNB9MRu64LX5TjVV3ZamXWRMPFIbGTmG0UwUD4gcJHgEewcq1j_ZRqNf0AhQkLLF4cr2yLUt0Ihbwl5XhdIMduxLLzLpxbW7XEeftZ-zkerGLyV-1qQW6YVWtACJQyx9cB4X2hjA=w1000-h750-no",
     "rating": 4.7,
-    "review_count": 139,
+    "review_count": 143,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null,
     "is_active": true,
@@ -8871,7 +9290,7 @@
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdsWOIgse3SOSToAaqlXBHuw9H9M8dsFdz_x_58s2H8NqsRG2s7HDZNfVERWz5a2biBLI2Ws_LD5lG-PzrrnR_RS2T-QP14egq5GyFmSL3uZnDq3AY9a9qiYy6S2d1iwUumYw9Pag=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdsWOIgse3SOSToAaqlXBHuw9H9M8dsFdz_x_58s2H8NqsRG2s7HDZNfVERWz5a2biBLI2Ws_LD5lG-PzrrnR_RS2T-QP14egq5GyFmSL3uZnDq3AY9a9qiYy6S2d1iwUumYw9Pag=w1000-h750-no",
     "rating": 4.3,
-    "review_count": 538,
+    "review_count": 539,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null,
     "is_active": true,
@@ -9050,8 +9469,8 @@
     "phone": "09 233 68 38",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ih-vak&query_place_id=ChIJF7D2IDVxw0cRuvxWZZvVwcc",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfARskmNsTNw0Y_3-mK1nsK29-16knA_fl9GDCarb5Nvb1QJn5pFUcDrhSILQs4MmqRE831H3nvPrRF2zVcy0Bqpt53-3NcrOeItcOX75k996CpOF7tVmgLfo1BsoLmK-ELy53-ow=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfARskmNsTNw0Y_3-mK1nsK29-16knA_fl9GDCarb5Nvb1QJn5pFUcDrhSILQs4MmqRE831H3nvPrRF2zVcy0Bqpt53-3NcrOeItcOX75k996CpOF7tVmgLfo1BsoLmK-ELy53-ow=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfJI3dLSx6coSTOP7RaiJGCuLuUzCKaO48fencl1PhfIyVI6Rl1M7g4rp_nAChETji8r12ZYbPP13t6V4sIrWK8ZWy1M4jWvdej2tBfU2LF-nSWBq42Cram2X7Pf1WowNHPmtKLQA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfJI3dLSx6coSTOP7RaiJGCuLuUzCKaO48fencl1PhfIyVI6Rl1M7g4rp_nAChETji8r12ZYbPP13t6V4sIrWK8ZWy1M4jWvdej2tBfU2LF-nSWBq42Cram2X7Pf1WowNHPmtKLQA=w1000-h750-no",
     "rating": 5.0,
     "review_count": 3,
     "verification_status": "UNVERIFIED",
@@ -9180,8 +9599,8 @@
     "phone": "0492 76 55 84",
     "website": "https://lezzetgent.be/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=LEZZET&query_place_id=ChIJX8peZPlxw0cRtbe5DITIgs4",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLft3eOoN8c1PHfBgJpqXomNqkbiGdw-Td7x8k5oc_QDqor1kmq-IXeb_kKTI3fz3yq2p337US81Ts00CBXsJf1U8Gl0kIv9eYm33py5Fjr5seo1_NejBVsansIYM6fYjk76VkYP8LVz2Xzi=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLft3eOoN8c1PHfBgJpqXomNqkbiGdw-Td7x8k5oc_QDqor1kmq-IXeb_kKTI3fz3yq2p337US81Ts00CBXsJf1U8Gl0kIv9eYm33py5Fjr5seo1_NejBVsansIYM6fYjk76VkYP8LVz2Xzi=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLde5qD0KJ_rtGiygdD9tzRfs1Rz5OMeHeBZQwA43qhifOeJxkrXhtP2_fD1t2e2SuPLCU9hZqEF4rcKv2uoaXgZOroQeKmek5MLuensJgkzUJxYxQQGSpIM0wQtlz-lQa3Ju-k7D9PvfR3j=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLde5qD0KJ_rtGiygdD9tzRfs1Rz5OMeHeBZQwA43qhifOeJxkrXhtP2_fD1t2e2SuPLCU9hZqEF4rcKv2uoaXgZOroQeKmek5MLuensJgkzUJxYxQQGSpIM0wQtlz-lQa3Ju-k7D9PvfR3j=w1000-h750-no",
     "rating": 4.8,
     "review_count": 174,
     "verification_status": "VERIFIED",
@@ -9314,266 +9733,6 @@
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdxV_Rv9vOmykF3nWSecuQBgX6P3Ve1xSScVsOs2XSI3KIggkgFan3iK-0k6nr_23eUBkTWSOl2J2SLMSsOaJIvGNvhXHNjCZczoLQqUpKTUQge2Py3MHiQL2XZrOSwtW_leZlddFsy0kiJ=w1000-h750-no",
     "rating": 4.8,
     "review_count": 616,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJzSZ2WwBxw0cRg7o4pigYSPc",
-    "name": "Masjid Alfurqaan (مسجد الفرقان)",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Gent",
-    "address": "Masjid Alfurqaan (مسجد الفرقان), Rietstraat 35, 9000 Gent",
-    "street": "Rietstraat 35",
-    "postal_code": "9000",
-    "region": null,
-    "latitude": 51.064169899999996,
-    "longitude": 3.7100773,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Masjid%20Alfurqaan%20%28%D9%85%D8%B3%D8%AC%D8%AF%20%D8%A7%D9%84%D9%81%D8%B1%D9%82%D8%A7%D9%86%29&query_place_id=ChIJzSZ2WwBxw0cRg7o4pigYSPc",
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=cDI7SrQxfQ3mQg-8dIDXWA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=353.40536&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=cDI7SrQxfQ3mQg-8dIDXWA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=353.40536&pitch=0&thumbfov=w1000-h750-no",
-    "rating": 5.0,
-    "review_count": 4,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJgZZT1xNxw0cRUTeZGIaIYT0",
-    "name": "Masjid Anwar-El-Madinah Gent",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Gent",
-    "address": "Masjid Anwar-El-Madinah Gent, Victor Frisstraat 27, 9000 Gent",
-    "street": "Victor Frisstraat 27",
-    "postal_code": "9000",
-    "region": null,
-    "latitude": 51.0629381,
-    "longitude": 3.7074661,
-    "phone": "0463 07 50 30",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Masjid%20Anwar-El-Madinah%20Gent&query_place_id=ChIJgZZT1xNxw0cRUTeZGIaIYT0",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf4jBxYJqPxiXr4bsL7ZhvrSRZsa61b_meFAy7UqGJlstsnPQ7z_pEdVXtuyD4OFJV9aAKo_YNd3Be1HHeg-cY94py4Y4oM-Kdh98RnLCuYP306VBkYTqoPEnHre8DHaPoqgli1pg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf4jBxYJqPxiXr4bsL7ZhvrSRZsa61b_meFAy7UqGJlstsnPQ7z_pEdVXtuyD4OFJV9aAKo_YNd3Be1HHeg-cY94py4Y4oM-Kdh98RnLCuYP306VBkYTqoPEnHre8DHaPoqgli1pg=w1000-h750-no",
-    "rating": 4.7,
-    "review_count": 61,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJ5xdZ-K52w0cRPIZZcsPIBTU",
-    "name": "Masjid ICC Gent",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Gent",
-    "address": "Masjid ICC Gent, Kerkstraat 188, 9050 Gent",
-    "street": "Kerkstraat 188",
-    "postal_code": "9050",
-    "region": null,
-    "latitude": 51.0436292,
-    "longitude": 3.7470356999999996,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Masjid%20ICC%20Gent&query_place_id=ChIJ5xdZ-K52w0cRPIZZcsPIBTU",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdy9tWkTTYl26A0MTpdUYcmmIW1OgliJEdLDFazmi8qv8ejB8RcOtRPqxEGE7e9QhWiCEtuRzS9_O6oPwT5_u5bRslgiFSFUX_kbSF9oVvn_TDxCtogHjQwGPg_L7gjp3jR94iSmg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdy9tWkTTYl26A0MTpdUYcmmIW1OgliJEdLDFazmi8qv8ejB8RcOtRPqxEGE7e9QhWiCEtuRzS9_O6oPwT5_u5bRslgiFSFUX_kbSF9oVvn_TDxCtogHjQwGPg_L7gjp3jR94iSmg=w1000-h750-no",
-    "rating": 4.7,
-    "review_count": 71,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJl9yvZkePw0cRCUH48Lge23s",
-    "name": "Meat District",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Gent",
-    "address": "Meat District, Ottergemsesteenweg 1, 9000 Gent",
-    "street": "Ottergemsesteenweg 1",
-    "postal_code": "9000",
-    "region": null,
-    "latitude": 51.037363199999994,
-    "longitude": 3.7268451,
-    "phone": "0485 66 44 60",
-    "website": "http://order.store/store/meat-district/HdlsYUbHXqOPzeJ1R_iO2A",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Meat%20District&query_place_id=ChIJl9yvZkePw0cRCUH48Lge23s",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcwcuY05EvfaYfJnOOZikylyuEZYn_wEOcPgsBsexCxvbQ43Spx7qun89kNehxWJQzBx3BcpKb3reNgZ95MdXRqZ5MtGS4XqppAlle_CSHaaP6wf03aqwKec1PnPAnOzRNXlnYSFtP6kOGM=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcwcuY05EvfaYfJnOOZikylyuEZYn_wEOcPgsBsexCxvbQ43Spx7qun89kNehxWJQzBx3BcpKb3reNgZ95MdXRqZ5MtGS4XqppAlle_CSHaaP6wf03aqwKec1PnPAnOzRNXlnYSFtP6kOGM=w1000-h750-no",
-    "rating": 4.7,
-    "review_count": 280,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJWdppYgBxw0cRY3L6JTFFpUA",
-    "name": "Mehmet Ali Şengül Kültür merkezi",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Gent",
-    "address": "Mehmet Ali Şengül Kültür merkezi, Doornzelestraat 5, 9000 Gent",
-    "street": "Doornzelestraat 5",
-    "postal_code": "9000",
-    "region": null,
-    "latitude": 51.0641821,
-    "longitude": 3.7296909,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mehmet%20Ali%20%C5%9Eeng%C3%BCl%20K%C3%BClt%C3%BCr%20merkezi&query_place_id=ChIJWdppYgBxw0cRY3L6JTFFpUA",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfk7niPBXuv13115I2tEuQ10A1_KqRkVIFGgMWdZs1wq1hUoFMDz0NuGurprN4zJ3kEf5lK1lTn5Sq-QaK7hMMXrusF-S24dqzleCBb64r289q4_BkGlpHZMeuHPYm7bjqehY6lXHYbreg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfk7niPBXuv13115I2tEuQ10A1_KqRkVIFGgMWdZs1wq1hUoFMDz0NuGurprN4zJ3kEf5lK1lTn5Sq-QaK7hMMXrusF-S24dqzleCBb64r289q4_BkGlpHZMeuHPYm7bjqehY6lXHYbreg=w1000-h750-no",
-    "rating": 4.8,
-    "review_count": 37,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJ69ik4txww0cRBt5UEwcqLjA",
-    "name": "Melita Meat",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Gent",
-    "address": "Melita Meat, Driemasterstraat 42, 9000 Gent",
-    "street": "Driemasterstraat 42",
-    "postal_code": "9000",
-    "region": null,
-    "latitude": 51.087189099999996,
-    "longitude": 3.7219539,
-    "phone": "09 258 27 00",
-    "website": "http://www.melitameat.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Melita%20Meat&query_place_id=ChIJ69ik4txww0cRBt5UEwcqLjA",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd9F3tRH0Hy-XiQCi-webVyQE7bEeJ4tDD_FKz-X2te0nqkJ4uRTjBfl6oo87-iqcVLGVhbOr1nWN5M_Kg5YzuSGFQNL3kxI9DH2ZV3YOTi-4-GNz6KukscsCuUfhvcR26mpvoo5Q=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd9F3tRH0Hy-XiQCi-webVyQE7bEeJ4tDD_FKz-X2te0nqkJ4uRTjBfl6oo87-iqcVLGVhbOr1nWN5M_Kg5YzuSGFQNL3kxI9DH2ZV3YOTi-4-GNz6KukscsCuUfhvcR26mpvoo5Q=w1000-h750-no",
-    "rating": 4.6,
-    "review_count": 12,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJLR5XXABxw0cRwewF1_J4iNU",
-    "name": "Moskee El Albani",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Gent",
-    "address": "Moskee El Albani, Phoenixstraat 49a, 9000 Ghent",
-    "street": "Phoenixstraat 49a",
-    "postal_code": "9000",
-    "region": null,
-    "latitude": 51.0578315,
-    "longitude": 3.7064019999999998,
-    "phone": null,
-    "website": "https://elalbani.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20El%20Albani&query_place_id=ChIJLR5XXABxw0cRwewF1_J4iNU",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcN7x-IRdlYBhCnt8zuE86oIRcFUDbQcJcy5K1vB2WN2AM4Lp6ljQ5YrE_gc1amAreSvwHo-CGFKyiD-KlX9gTYWPUmjuxatSbUvjYOM_jUKNQw3B9RGT0MOpZrHVMZnttA_zDSFaGckQ4=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcN7x-IRdlYBhCnt8zuE86oIRcFUDbQcJcy5K1vB2WN2AM4Lp6ljQ5YrE_gc1amAreSvwHo-CGFKyiD-KlX9gTYWPUmjuxatSbUvjYOM_jUKNQw3B9RGT0MOpZrHVMZnttA_zDSFaGckQ4=w1000-h750-no",
-    "rating": 3.9,
-    "review_count": 13,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJhaYPJABxw0cRK0lpZf95YJs",
-    "name": "Moskee Ensarija",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Gent",
-    "address": "Moskee Ensarija, Makelaarsstraat 45/a, 9000 Gent",
-    "street": "Makelaarsstraat 45/a",
-    "postal_code": "9000",
-    "region": null,
-    "latitude": 51.0725214,
-    "longitude": 3.7289904,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Ensarija&query_place_id=ChIJhaYPJABxw0cRK0lpZf95YJs",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfSpcQdj_r15bfUZfbnfFwm_tvCuB6pXy55QjXos2_eTV3rX_v3PLZ-uBDlBHGapPaq-UXsxZQvo5eXykuvdFD-RLeuxp-7LPN6tJR6eWFM7OZlP5eDIQgeWC861EBQiP_c4zLYcA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfSpcQdj_r15bfUZfbnfFwm_tvCuB6pXy55QjXos2_eTV3rX_v3PLZ-uBDlBHGapPaq-UXsxZQvo5eXykuvdFD-RLeuxp-7LPN6tJR6eWFM7OZlP5eDIQgeWC861EBQiP_c4zLYcA=w1000-h750-no",
-    "rating": 4.7,
-    "review_count": 7,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJR0Uu4Upxw0cR6vuaW7bGJRU",
-    "name": "Moskee Eyup Sultan Camii",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Gent",
-    "address": "Moskee Eyup Sultan Camii, Kazemattenstraat 80, 9000 Gent",
-    "street": "Kazemattenstraat 80",
-    "postal_code": "9000",
-    "region": null,
-    "latitude": 51.0548934,
-    "longitude": 3.7379179,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Eyup%20Sultan%20Camii&query_place_id=ChIJR0Uu4Upxw0cR6vuaW7bGJRU",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd1FaI7etE0LlpZ9wc-ARlIBQd0DztGzyU4Yy5wB96DdLJ5uV9KdX-Zibbd8CvtdDRIFDYyrHwV64I34WWjoOlW9EQBgzRw8Gze4pIHYHdxZ4q21h37ojmkWVNbTZujudOZkq3ID9mCJ1Gp=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd1FaI7etE0LlpZ9wc-ARlIBQd0DztGzyU4Yy5wB96DdLJ5uV9KdX-Zibbd8CvtdDRIFDYyrHwV64I34WWjoOlW9EQBgzRw8Gze4pIHYHdxZ4q21h37ojmkWVNbTZujudOZkq3ID9mCJ1Gp=w1000-h750-no",
-    "rating": 4.9,
-    "review_count": 171,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJk6ZmnDVxw0cRlfqHS0qbacw",
-    "name": "Moskee OKBA IBN NAFI",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Gent",
-    "address": "Moskee OKBA IBN NAFI, Warandestraat 39, 9000 Gent",
-    "street": "Warandestraat 39",
-    "postal_code": "9000",
-    "region": null,
-    "latitude": 51.0579804,
-    "longitude": 3.7367939999999997,
-    "phone": null,
-    "website": "https://moskee-okbaibnnafi.gent/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20OKBA%20IBN%20NAFI&query_place_id=ChIJk6ZmnDVxw0cRlfqHS0qbacw",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdfb4vs36S8Rz7AIloLjk6JaQmcJlts5FCRler38Vr-DWmP_gKpvUOMTA6hS03Y2iZka5mGfm_tWbMPLLwy91RyGqgNHAhdq0-tJF9Nj39RymDsPLvr87mHgtRfK2QRt3SuHnw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdfb4vs36S8Rz7AIloLjk6JaQmcJlts5FCRler38Vr-DWmP_gKpvUOMTA6hS03Y2iZka5mGfm_tWbMPLLwy91RyGqgNHAhdq0-tJF9Nj39RymDsPLvr87mHgtRfK2QRt3SuHnw=w1000-h750-no",
-    "rating": 4.8,
-    "review_count": 63,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null,
     "is_active": true,

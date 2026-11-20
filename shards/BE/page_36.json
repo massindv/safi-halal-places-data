@@ -1,5 +1,425 @@
 [
   {
+    "place_id": "ChIJdxsUelV9wUcRoGCJnawoCgE",
+    "name": "Babel",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Wavre",
+    "address": "Babel, Rue Haute 30, 1300 Wavre",
+    "street": "Rue Haute 30",
+    "postal_code": "1300",
+    "region": null,
+    "latitude": 50.7163554,
+    "longitude": 4.6090123,
+    "phone": "0483 04 23 89",
+    "website": "https://babel-restaurant.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Babel&query_place_id=ChIJdxsUelV9wUcRoGCJnawoCgE",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "12–2:30 pm",
+        "6:30–10 pm"
+      ],
+      "Wednesday": [
+        "12–2:30 pm",
+        "6:30–10 pm"
+      ],
+      "Thursday": [
+        "12–2:30 pm",
+        "6:30–10 pm"
+      ],
+      "Friday": [
+        "12–2:30 pm",
+        "6:30–10 pm"
+      ],
+      "Saturday": [
+        "12–2:30 pm",
+        "6:30–10 pm"
+      ],
+      "Sunday": [
+        "12–2:30 pm",
+        "6:30–10 pm"
+      ]
+    },
+    "review_count": 250,
+    "rating": 4.4,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLep_SmhO5R6JAWXZpT3Y1u0YVIV5tPJZR6-MMeWLYKUQrkU4Z99GcS1fGsJSmfyr5WktjYVbgzwZzXiwo8eOiWJmoTzdxaUA6dELEkd79KhlIgWGMZHJv6nRRvoS-PJSxbPQFJj=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLep_SmhO5R6JAWXZpT3Y1u0YVIV5tPJZR6-MMeWLYKUQrkU4Z99GcS1fGsJSmfyr5WktjYVbgzwZzXiwo8eOiWJmoTzdxaUA6dELEkd79KhlIgWGMZHJv6nRRvoS-PJSxbPQFJj=w1000-h750-no",
+    "source_query": "Halal restaurant in Wavre, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJCfbJxuR9wUcRG0qpjvMTcMY",
+    "name": "BelChicken Wavre",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Wavre",
+    "address": "BelChicken Wavre, Pl. Alphonse Bosch 45, 1300 Wavre",
+    "street": "Pl. Alphonse Bosch 45",
+    "postal_code": "1300",
+    "region": null,
+    "latitude": 50.7140548,
+    "longitude": 4.6106972,
+    "phone": "0489 13 02 91",
+    "website": "https://belchicken.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=BelChicken%20Wavre&query_place_id=ChIJCfbJxuR9wUcRG0qpjvMTcMY",
+    "open_hours_json": {
+      "Monday": [
+        "11:30 am–9:30 pm"
+      ],
+      "Tuesday": [
+        "11:30 am–9:30 pm"
+      ],
+      "Wednesday": [
+        "11:30 am–9:30 pm"
+      ],
+      "Thursday": [
+        "11:30 am–9:30 pm"
+      ],
+      "Friday": [
+        "11:30 am–10 pm"
+      ],
+      "Saturday": [
+        "11:30 am–10 pm"
+      ],
+      "Sunday": [
+        "11:30 am–9:30 pm"
+      ]
+    },
+    "review_count": 379,
+    "rating": 3.9,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcmUwkwqOo9Y_-XY4s7ILivqoU1m3Rod113Dt_yDPMHSF4kP2-m_PLzuovVptJXG3LQu8YINaeNYnyyJFfby_LGagmq2M68hdb_m8Orj249azSf31s2vl9kKWD3BG0lnrAoKqJDVw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcmUwkwqOo9Y_-XY4s7ILivqoU1m3Rod113Dt_yDPMHSF4kP2-m_PLzuovVptJXG3LQu8YINaeNYnyyJFfby_LGagmq2M68hdb_m8Orj249azSf31s2vl9kKWD3BG0lnrAoKqJDVw=w1000-h750-no",
+    "source_query": "Halal restaurant in Wavre, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJOxZrUnN9wUcRV5WTBkfV78U",
+    "name": "Best Kebab",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Wavre",
+    "address": "Best Kebab, Rue de Bruxelles 58, 1300 Wavre",
+    "street": "Rue de Bruxelles 58",
+    "postal_code": "1300",
+    "region": null,
+    "latitude": 50.7187422,
+    "longitude": 4.612817499999999,
+    "phone": "0487 56 49 90",
+    "website": "http://la-bas.be/brabant-wallon/wavre/wavre-snack-bars/snack-best-kebab-wavre/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Best%20Kebab&query_place_id=ChIJOxZrUnN9wUcRV5WTBkfV78U",
+    "open_hours_json": {
+      "Monday": [
+        "11:30 am–11 pm"
+      ],
+      "Tuesday": [
+        "11:30 am–11 pm"
+      ],
+      "Wednesday": [
+        "11:30 am–11 pm"
+      ],
+      "Thursday": [
+        "11:30 am–11 pm"
+      ],
+      "Friday": [
+        "11:30 am–11 pm"
+      ],
+      "Saturday": [
+        "11:30 am–11 pm"
+      ],
+      "Sunday": [
+        "1–11 pm"
+      ]
+    },
+    "review_count": 311,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdDm_L182LVvZZN9P_eON7cLgOTI0qN3x_BnrH-tL6f7iC-MvGkpWShG7bosJJ1gprsiSCANkCRKbz1k0-6ajY8XP6pyG34VknvzxknhbVyJ21rsW38Y3xFVABO_omzxd_5ttYzzw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdDm_L182LVvZZN9P_eON7cLgOTI0qN3x_BnrH-tL6f7iC-MvGkpWShG7bosJJ1gprsiSCANkCRKbz1k0-6ajY8XP6pyG34VknvzxknhbVyJ21rsW38Y3xFVABO_omzxd_5ttYzzw=w1000-h750-no",
+    "source_query": "Halal restaurant in Wavre, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJs6IKY3R9wUcRtG11uAhjB48",
+    "name": "Boucherie Adda",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Wavre",
+    "address": "Boucherie Adda, Rue de Flandre 15, 1300 Wavre",
+    "street": "Rue de Flandre 15",
+    "postal_code": "1300",
+    "region": null,
+    "latitude": 50.717476,
+    "longitude": 4.609554999999999,
+    "phone": "0484 15 09 39",
+    "website": "https://fr-fr.facebook.com/profile.php?id=100057403280130",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boucherie%20Adda&query_place_id=ChIJs6IKY3R9wUcRtG11uAhjB48",
+    "open_hours_json": {
+      "Monday": [
+        "10 am–6:30 pm"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "10 am–6:30 pm"
+      ],
+      "Thursday": [
+        "10 am–6:30 pm"
+      ],
+      "Friday": [
+        "10 am–6:30 pm"
+      ],
+      "Saturday": [
+        "10 am–6:30 pm"
+      ],
+      "Sunday": [
+        "10 am–6 pm"
+      ]
+    },
+    "review_count": 152,
+    "rating": 4.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdIOSZQj4Y4QWxddReFNz_X7P-6PC5ax4xYYFb-CUlgHWgjCxKEtGrsj729wafE8jZnluLL8jSta2vXej0nrW_H7Rf6Lj74dK3g04RBVwZtj7yXymdRglmC2ROGbWeLMsb3PoM=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdIOSZQj4Y4QWxddReFNz_X7P-6PC5ax4xYYFb-CUlgHWgjCxKEtGrsj729wafE8jZnluLL8jSta2vXej0nrW_H7Rf6Lj74dK3g04RBVwZtj7yXymdRglmC2ROGbWeLMsb3PoM=w1000-h750-no",
+    "source_query": "Halal restaurant in Wavre, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJJYD3aXV9wUcRQqjqZqExJ4k",
+    "name": "Boucherie Habib",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Wavre",
+    "address": "Boucherie Habib, Pl. Alphonse Bosch 43, 1300 Wavre",
+    "street": "Pl. Alphonse Bosch 43",
+    "postal_code": "1300",
+    "region": null,
+    "latitude": 50.714018599999996,
+    "longitude": 4.6107768,
+    "phone": "010 84 12 00",
+    "website": "https://boucheriehabib.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boucherie%20Habib&query_place_id=ChIJJYD3aXV9wUcRQqjqZqExJ4k",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "10 am–7 pm"
+      ],
+      "Wednesday": [
+        "10 am–7 pm"
+      ],
+      "Thursday": [
+        "10 am–7 pm"
+      ],
+      "Friday": [
+        "10 am–2 pm",
+        "3–7 pm"
+      ],
+      "Saturday": [
+        "10 am–7 pm"
+      ],
+      "Sunday": [
+        "10 am–7 pm"
+      ]
+    },
+    "review_count": 266,
+    "rating": 4.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeDzx_qn6tvHi5CIVt04EveXwLGTKcZc22plPUkU2KiVehjPuYs0lolN_fB1NdrIcOVvO-JbI06SrZ8JbexYgoTkKaoIuzLQT-Z6xcDEZv-5gDRYVQBeokhkZya6xfBzjp-eMLbVQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeDzx_qn6tvHi5CIVt04EveXwLGTKcZc22plPUkU2KiVehjPuYs0lolN_fB1NdrIcOVvO-JbI06SrZ8JbexYgoTkKaoIuzLQT-Z6xcDEZv-5gDRYVQBeokhkZya6xfBzjp-eMLbVQ=w1000-h750-no",
+    "source_query": "Halal restaurant in Wavre, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ9b2v53R9wUcRXNUEAz3SBeI",
+    "name": "Bravo / Inacio",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Wavre",
+    "address": "Bravo / Inacio, Rue de la Source 1/A, 1300 Wavre",
+    "street": "Rue de la Source 1/A",
+    "postal_code": "1300",
+    "region": null,
+    "latitude": 50.7161583,
+    "longitude": 4.6110242999999995,
+    "phone": "010 22 24 33",
+    "website": "https://link-eat.be/listing/bravo-inacio-wavre/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bravo%20%2F%20Inacio&query_place_id=ChIJ9b2v53R9wUcRXNUEAz3SBeI",
+    "open_hours_json": {
+      "Monday": [
+        "12–3 pm",
+        "6:45–9 pm"
+      ],
+      "Tuesday": [
+        "12–3 pm",
+        "6:45–9 pm"
+      ],
+      "Wednesday": [
+        "12–3 pm",
+        "6:45–9 pm"
+      ],
+      "Thursday": [
+        "12–3 pm",
+        "6:45–9 pm"
+      ],
+      "Friday": [
+        "12–3 pm",
+        "6:45–9 pm"
+      ],
+      "Saturday": [
+        "12–3 pm",
+        "6:45–9 pm"
+      ],
+      "Sunday": [
+        "12–3 pm",
+        "6:45–9 pm"
+      ]
+    },
+    "review_count": 60,
+    "rating": 4.2,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLejuwVvU_6NuIqfMbQFc0Zgrwjj6hDCrqlBW0BYu47VzxN9TakqgQxj3a-zEZwaqUWjw4svAu7Id2Qs7NoEgXDzm9_3M3o_-op2GEpb88S3Ir_GPHWy5iyDYsLXyNr9f0D-LOoyxKGe8t88=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLejuwVvU_6NuIqfMbQFc0Zgrwjj6hDCrqlBW0BYu47VzxN9TakqgQxj3a-zEZwaqUWjw4svAu7Id2Qs7NoEgXDzm9_3M3o_-op2GEpb88S3Ir_GPHWy5iyDYsLXyNr9f0D-LOoyxKGe8t88=w1000-h750-no",
+    "source_query": "Fish restaurant in Wavre, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ-8egQaB9wUcRZlqbSUzxmjA",
+    "name": "Brozen",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Wavre",
+    "address": "Brozen, Rue de Namur 71, 1300 Wavre",
+    "street": "Rue de Namur 71",
+    "postal_code": "1300",
+    "region": null,
+    "latitude": 50.711985399999996,
+    "longitude": 4.6127281,
+    "phone": "010 88 88 81",
+    "website": "http://www.brozen.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Brozen&query_place_id=ChIJ-8egQaB9wUcRZlqbSUzxmjA",
+    "open_hours_json": {
+      "Monday": [
+        "11 am–2 pm",
+        "6–10 pm"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "11 am–2 pm",
+        "6–10 pm"
+      ],
+      "Friday": [
+        "11 am–2 pm",
+        "6–10 pm"
+      ],
+      "Saturday": [
+        "6–10 pm"
+      ],
+      "Sunday": [
+        "6–10 pm"
+      ]
+    },
+    "review_count": 173,
+    "rating": 4.0,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeddXP_e32ZVcnIeM9Yk1V9Qo1jKVP6oYRfYXCcK6Ui2cbVXIVYNZ1yEuYTcIFo2x5DBabQJ-UlBsYvCu9ugTbyFZoNrPYNrEg6e250EGhyFZ2VUZxK3sPFefUuJSQD_fiKcG4=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeddXP_e32ZVcnIeM9Yk1V9Qo1jKVP6oYRfYXCcK6Ui2cbVXIVYNZ1yEuYTcIFo2x5DBabQJ-UlBsYvCu9ugTbyFZoNrPYNrEg6e250EGhyFZ2VUZxK3sPFefUuJSQD_fiKcG4=w1000-h750-no",
+    "source_query": "Halal restaurant in Wavre, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ670ye0R9wUcRaP4bXoClWEo",
+    "name": "Bébé, Chouchou et Moi",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Wavre",
+    "address": "Bébé, Chouchou et Moi, Rue de Bruxelles 4, 1300 Wavre",
+    "street": "Rue de Bruxelles 4",
+    "postal_code": "1300",
+    "region": null,
+    "latitude": 50.7174949,
+    "longitude": 4.6105544,
+    "phone": "010 24 17 55",
+    "website": "https://www.bebechouchouetmoi.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=B%C3%A9b%C3%A9%2C%20Chouchou%20et%20Moi&query_place_id=ChIJ670ye0R9wUcRaP4bXoClWEo",
+    "open_hours_json": {
+      "Monday": [
+        "6–10 pm"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "11 am–3 pm",
+        "6–10 pm"
+      ],
+      "Thursday": [
+        "6–10 pm"
+      ],
+      "Friday": [
+        "6–10 pm"
+      ],
+      "Saturday": [
+        "11 am–3 pm",
+        "6–10 pm"
+      ],
+      "Sunday": [
+        "11 am–3 pm",
+        "6–10 pm"
+      ]
+    },
+    "review_count": 318,
+    "rating": 4.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdoc0tn03Vfbf2GcpyH797S_EJPkAHbyur5EMPCM6yo-eKNP7E1erx16MMvejU5Z679Zz9GAfaOzrir_wv79SrNqcNwDHtw9tz4y0gy37oP6zNSiyLJJPuXQN3QT2nDp6fa7Zf2=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdoc0tn03Vfbf2GcpyH797S_EJPkAHbyur5EMPCM6yo-eKNP7E1erx16MMvejU5Z679Zz9GAfaOzrir_wv79SrNqcNwDHtw9tz4y0gy37oP6zNSiyLJJPuXQN3QT2nDp6fa7Zf2=w1000-h750-no",
+    "source_query": "Halal restaurant in Wavre, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJJwXYoV59wUcR4q0gS9HJXS4",
     "name": "CRUSH",
     "type": "restaurant",
@@ -7623,6 +8043,32 @@
     "verification_evidence": null
   },
   {
+    "place_id": "ChIJwwFOcQDdw0cRBnEK6TiNaHE",
+    "name": "Kapenhout",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Zaventem",
+    "address": "Kapenhout, Leuvensesteenweg 626, 1930 Zaventem",
+    "street": "Leuvensesteenweg 626",
+    "postal_code": "1930",
+    "region": null,
+    "latitude": 50.877894999999995,
+    "longitude": 4.5060023,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kapenhout&query_place_id=ChIJwwFOcQDdw0cRBnEK6TiNaHE",
+    "thumbnail_url": null,
+    "image_url": null,
+    "rating": null,
+    "review_count": 0,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
     "place_id": "ChIJlaH_N6_dw0cRtYMdoQKnGAk",
     "name": "Korean restaurant Choolchooli",
     "type": "restaurant",
@@ -11328,434 +11774,6 @@
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe_JgmZLlqwjiD9Jc4NIo-AQ6TviQlzwV3M9zvlKthjwSwO68a2rPoBU50G4F25iaGLu6l0X-zBacttQMHbCCCOGRcFaaY98orR6mJnkmZS2pIytFjBkkihvDaDm6X16XfU=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe_JgmZLlqwjiD9Jc4NIo-AQ6TviQlzwV3M9zvlKthjwSwO68a2rPoBU50G4F25iaGLu6l0X-zBacttQMHbCCCOGRcFaaY98orR6mJnkmZS2pIytFjBkkihvDaDm6X16XfU=w1000-h750-no",
     "source_query": "Halal restaurant in Zottegem, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJo9D-7oYVwUcRzSJSz5S9JT0",
-    "name": "B&B 't Pomphuys",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Zoutleeuw",
-    "address": "B&B 't Pomphuys, Groenplaats 7, 3440 Zoutleeuw",
-    "street": "Groenplaats 7",
-    "postal_code": "3440",
-    "region": null,
-    "latitude": 50.8335806,
-    "longitude": 5.102554,
-    "phone": "0484 16 23 98",
-    "website": "https://tpomphuys.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=B%26B%20%27t%20Pomphuys&query_place_id=ChIJo9D-7oYVwUcRzSJSz5S9JT0",
-    "open_hours_json": null,
-    "review_count": 16,
-    "rating": 4.9,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcSN0j0LCaY8-e1_oHpScq7d1-HSrcn8Llixys-z-FYw-XITtCsAZDPMNRuOhmwv6uJyp3gPk_gAPx0AzzjOrq-Huzh-Wg8DSVATRjKsDuxzoGdUPUymblrkmhRQWNcS-aBLho=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcSN0j0LCaY8-e1_oHpScq7d1-HSrcn8Llixys-z-FYw-XITtCsAZDPMNRuOhmwv6uJyp3gPk_gAPx0AzzjOrq-Huzh-Wg8DSVATRjKsDuxzoGdUPUymblrkmhRQWNcS-aBLho=w1000-h750-no",
-    "source_query": "Fish restaurant in Zoutleeuw, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJFaM5BZoWwUcR_fx6hYBAcSo",
-    "name": "BistroHetVinne",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Zoutleeuw",
-    "address": "BistroHetVinne, Ossenwegstraat 70, 3440 Zoutleeuw",
-    "street": "Ossenwegstraat 70",
-    "postal_code": "3440",
-    "region": null,
-    "latitude": 50.8418713,
-    "longitude": 5.1243374,
-    "phone": "0498 65 89 87",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=BistroHetVinne&query_place_id=ChIJFaM5BZoWwUcR_fx6hYBAcSo",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "11 am–9 pm"
-      ],
-      "Thursday": [
-        "11 am–9 pm"
-      ],
-      "Friday": [
-        "11 am–10 pm"
-      ],
-      "Saturday": [
-        "11 am–11 pm"
-      ],
-      "Sunday": [
-        "10 am–9 pm"
-      ]
-    },
-    "review_count": 459,
-    "rating": 4.0,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdr3bjDAuVa23VLzEoylY2oryHOYMUm1e6IgJ_V0cen0BxnTB3nQyLSjzaaAzJGU7mzV7ww-UaTql8U34NLSx0brU1gY6KrEHWZnWOiCW7Prd2P3r-Gq_pckfvPyPMIGbt9zwaH=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdr3bjDAuVa23VLzEoylY2oryHOYMUm1e6IgJ_V0cen0BxnTB3nQyLSjzaaAzJGU7mzV7ww-UaTql8U34NLSx0brU1gY6KrEHWZnWOiCW7Prd2P3r-Gq_pckfvPyPMIGbt9zwaH=w1000-h750-no",
-    "source_query": "Fish restaurant in Zoutleeuw, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJhQx47aUWwUcR27eLtEw3_L0",
-    "name": "Bronckaerts-Maris Fr",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Zoutleeuw",
-    "address": "Bronckaerts-Maris Fr, Sint-Truidensesteenweg 59, 3440 Zoutleeuw",
-    "street": "Sint-Truidensesteenweg 59",
-    "postal_code": "3440",
-    "region": null,
-    "latitude": 50.8280634,
-    "longitude": 5.1187951,
-    "phone": "011 78 22 77",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bronckaerts-Maris%20Fr&query_place_id=ChIJhQx47aUWwUcR27eLtEw3_L0",
-    "open_hours_json": {
-      "Monday": [
-        "8:30 am–7 pm"
-      ],
-      "Tuesday": [
-        "8:30 am–7 pm"
-      ],
-      "Wednesday": [
-        "8:30 am–7 pm"
-      ],
-      "Thursday": [
-        "8:30 am–7 pm"
-      ],
-      "Friday": [
-        "8:30 am–7 pm"
-      ],
-      "Saturday": [
-        "8:30 am–7 pm"
-      ],
-      "Sunday": [
-        "9 am–12:30 pm"
-      ]
-    },
-    "review_count": 2,
-    "rating": 5.0,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=743LPSuSbbdwHvDu-4kl5Q&cb_client=search.gws-prod.grass&w=80&h=92&yaw=11.768147&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=743LPSuSbbdwHvDu-4kl5Q&cb_client=search.gws-prod.grass&w=80&h=92&yaw=11.768147&pitch=0&thumbfov=w1000-h750-no",
-    "source_query": "Hypermarket in Zoutleeuw, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ5Vu07xsUwUcRKKHtxzLkY4c",
-    "name": "Cafétaria De Passant",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Zoutleeuw",
-    "address": "Cafétaria De Passant, Aen Den Hoorn 13, 3440 Zoutleeuw",
-    "street": "Aen Den Hoorn 13",
-    "postal_code": "3440",
-    "region": null,
-    "latitude": 50.832526699999995,
-    "longitude": 5.106642,
-    "phone": "0485 59 18 02",
-    "website": "https://www.handelsgids.be/zoutleeuw/de-passant-1/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9taria%20De%20Passant&query_place_id=ChIJ5Vu07xsUwUcRKKHtxzLkY4c",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "4 pm–1 am"
-      ],
-      "Wednesday": [
-        "1 pm–1 am"
-      ],
-      "Thursday": [
-        "4 pm–1 am"
-      ],
-      "Friday": [
-        "4 pm–1 am"
-      ],
-      "Saturday": [
-        "1 pm–2 am"
-      ],
-      "Sunday": [
-        "10 am–10 pm"
-      ]
-    },
-    "review_count": 116,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeSj5F7CvOP3B1EN-vs_6fTJbEeaF9nOZdLB8euUgElB8OQXiGhlH2LYHDRbGrk17pu3fWpuTtKzfeKAq3RZG5JjBR4kMShEwtUPCrw2L5kF5-GPhJS3DAkgsxAmI9IZZZRu24=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeSj5F7CvOP3B1EN-vs_6fTJbEeaF9nOZdLB8euUgElB8OQXiGhlH2LYHDRbGrk17pu3fWpuTtKzfeKAq3RZG5JjBR4kMShEwtUPCrw2L5kF5-GPhJS3DAkgsxAmI9IZZZRu24=w1000-h750-no",
-    "source_query": "Fish restaurant in Zoutleeuw, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJFcCz5xsUwUcRNS_ac7o9zts",
-    "name": "Cavamil nv",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Zoutleeuw",
-    "address": "Cavamil nv, Sint-Truidensesteenweg 3/A, 3440 Zoutleeuw",
-    "street": "Sint-Truidensesteenweg 3/A",
-    "postal_code": "3440",
-    "region": null,
-    "latitude": 50.8315881,
-    "longitude": 5.1073089,
-    "phone": "011 48 02 90",
-    "website": "https://trendstop.knack.be/nl/detail/426442088/cavamil.aspx",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cavamil%20nv&query_place_id=ChIJFcCz5xsUwUcRNS_ac7o9zts",
-    "open_hours_json": {
-      "Monday": [
-        "9 am–6 pm"
-      ],
-      "Tuesday": [
-        "9 am–6 pm"
-      ],
-      "Wednesday": [
-        "9 am–6 pm"
-      ],
-      "Thursday": [
-        "9 am–6 pm"
-      ],
-      "Friday": [
-        "9 am–6 pm"
-      ],
-      "Saturday": [
-        "9 am–6 pm"
-      ],
-      "Sunday": [
-        "9 am–6 pm"
-      ]
-    },
-    "review_count": 2,
-    "rating": 4.5,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wH_KPmSqsKYuDdIJQg3tZA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=17.595957&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wH_KPmSqsKYuDdIJQg3tZA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=17.595957&pitch=0&thumbfov=w1000-h750-no",
-    "source_query": "Hypermarket in Zoutleeuw, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ45pPhRkUwUcRqAfNJB5r28E",
-    "name": "De Cleyne Taefel",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Zoutleeuw",
-    "address": "De Cleyne Taefel, Prins Leopoldplaats 4, 3440 Zoutleeuw",
-    "street": "Prins Leopoldplaats 4",
-    "postal_code": "3440",
-    "region": null,
-    "latitude": 50.833797399999995,
-    "longitude": 5.1016875,
-    "phone": "011 78 43 43",
-    "website": "http://www.decleynetaefel.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=De%20Cleyne%20Taefel&query_place_id=ChIJ45pPhRkUwUcRqAfNJB5r28E",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "8 am–6:30 pm"
-      ],
-      "Wednesday": [
-        "8 am–6:30 pm"
-      ],
-      "Thursday": [
-        "8 am–6:30 pm"
-      ],
-      "Friday": [
-        "8 am–6:30 pm"
-      ],
-      "Saturday": [
-        "8 am–9 pm"
-      ],
-      "Sunday": [
-        "8 am–9 pm"
-      ]
-    },
-    "review_count": 333,
-    "rating": 4.5,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcoS3L4DPtI2EDEkoi9niAd3_dkfjBsTJERnH2QqXkr2E0UsaZrvNfEgRtw-tghakKYKRi8Hs8-am49LJnjomxughzKx99hTdlrPHb33yR2AQEvYQRDJNr9zlvvPOe1A9I3hEncng=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcoS3L4DPtI2EDEkoi9niAd3_dkfjBsTJERnH2QqXkr2E0UsaZrvNfEgRtw-tghakKYKRi8Hs8-am49LJnjomxughzKx99hTdlrPHb33yR2AQEvYQRDJNr9zlvvPOe1A9I3hEncng=w1000-h750-no",
-    "source_query": "Halal restaurant in Zoutleeuw, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJHYRx3xsUwUcRJsl63EZexj0",
-    "name": "De Lakenhalle",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Zoutleeuw",
-    "address": "De Lakenhalle, Grote Markt 11, 3440 Zoutleeuw",
-    "street": "Grote Markt 11",
-    "postal_code": "3440",
-    "region": null,
-    "latitude": 50.833055599999994,
-    "longitude": 5.1036111,
-    "phone": "011 78 01 17",
-    "website": "https://www.zoutleeuw.be/de-lakenhalle",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=De%20Lakenhalle&query_place_id=ChIJHYRx3xsUwUcRJsl63EZexj0",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "5–10 pm"
-      ],
-      "Thursday": [
-        "5–10 pm"
-      ],
-      "Friday": [
-        "5–10 pm"
-      ],
-      "Saturday": [
-        "5–10 pm"
-      ],
-      "Sunday": [
-        "11 am–9 pm"
-      ]
-    },
-    "review_count": 217,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcRFg8bEuYnJQjcnSriOWs6YfvKnvssJ8PewmTZBabzcrB7qyq4ftT1JHVixVw55Q-9lyFlqjNHLSh869Ql_dajSILmUJPBIzxPf3t9LplKFQyJ7QmzUHq5tvRiY5sQeJ52LLV4=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcRFg8bEuYnJQjcnSriOWs6YfvKnvssJ8PewmTZBabzcrB7qyq4ftT1JHVixVw55Q-9lyFlqjNHLSh869Ql_dajSILmUJPBIzxPf3t9LplKFQyJ7QmzUHq5tvRiY5sQeJ52LLV4=w1000-h750-no",
-    "source_query": "Halal restaurant in Zoutleeuw, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJY42GzBsUwUcR9TfEThMom8A",
-    "name": "De Leeuwenaer",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Zoutleeuw",
-    "address": "De Leeuwenaer, Ridderstraat 16, 3440 Zoutleeuw",
-    "street": "Ridderstraat 16",
-    "postal_code": "3440",
-    "region": null,
-    "latitude": 50.8322546,
-    "longitude": 5.1023277,
-    "phone": "011 78 31 46",
-    "website": "http://www.deleeuwenaer.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=De%20Leeuwenaer&query_place_id=ChIJY42GzBsUwUcR9TfEThMom8A",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "1 pm–1 am"
-      ],
-      "Wednesday": [
-        "1 pm–1 am"
-      ],
-      "Thursday": [
-        "1 pm–1 am"
-      ],
-      "Friday": [
-        "1 pm–1 am"
-      ],
-      "Saturday": [
-        "1 pm–1 am"
-      ],
-      "Sunday": [
-        "10 am–1 am"
-      ]
-    },
-    "review_count": 506,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLelwnlbyTanCfV1dcrdRMHAwacyUYMeVIwjO0IzKSXddKp0e9RzwasDf2czicOx6ky01d8a0kyK3lKvB6UiM6hO2e2QZxt3SIm_EOnXqtAxHwysoLch3oj8qDaTJqvavMOmkPa1=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLelwnlbyTanCfV1dcrdRMHAwacyUYMeVIwjO0IzKSXddKp0e9RzwasDf2czicOx6ky01d8a0kyK3lKvB6UiM6hO2e2QZxt3SIm_EOnXqtAxHwysoLch3oj8qDaTJqvavMOmkPa1=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Zoutleeuw, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJVY6OV1YTwUcRjS8Jih9u1zI",
-    "name": "Gustave",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Zoutleeuw",
-    "address": "Gustave, Grote Steenweg 61, 3440 Zoutleeuw",
-    "street": "Grote Steenweg 61",
-    "postal_code": "3440",
-    "region": null,
-    "latitude": 50.8075921,
-    "longitude": 5.1012056,
-    "phone": "011 19 60 34",
-    "website": "http://www.gustave.bar/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Gustave&query_place_id=ChIJVY6OV1YTwUcRjS8Jih9u1zI",
-    "open_hours_json": {
-      "Monday": [
-        "11 am–11 pm"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "5–11 pm"
-      ],
-      "Thursday": [
-        "11 am–11 pm"
-      ],
-      "Friday": [
-        "11 am–11 pm"
-      ],
-      "Saturday": [
-        "5–11:30 pm"
-      ],
-      "Sunday": [
-        "11 am–11 pm"
-      ]
-    },
-    "review_count": 295,
-    "rating": 4.4,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfWEK1rk1lr_KeuQW2r6DDP8xwYcXcapyNtbAJrBWNQIXhVgg_uvMYMeozEE11VyvaEFEfcnxP6nMADcfmzjKT3j0aQmglJYqO9VQR2z4YEp6bB3fnurlpIDa8mxKDZXS8ANr5y=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfWEK1rk1lr_KeuQW2r6DDP8xwYcXcapyNtbAJrBWNQIXhVgg_uvMYMeozEE11VyvaEFEfcnxP6nMADcfmzjKT3j0aQmglJYqO9VQR2z4YEp6bB3fnurlpIDa8mxKDZXS8ANr5y=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Zoutleeuw, Flanders, BE",
     "moderation_status": "approved",
     "is_active": true,
     "verification_status": "UNVERIFIED",

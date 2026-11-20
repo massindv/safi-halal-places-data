@@ -1,5 +1,830 @@
 [
   {
+    "place_id": "ChIJA53WJo88wkcRPKhxRF5ALFM",
+    "name": "Casa Nostra",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Thuin",
+    "address": "Casa Nostra, Rue Maurice des Ombiaux 4, 6530 Thuin",
+    "street": "Rue Maurice des Ombiaux 4",
+    "postal_code": "6530",
+    "region": null,
+    "latitude": 50.3391576,
+    "longitude": 4.2876237,
+    "phone": "071 55 43 60",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Casa%20Nostra&query_place_id=ChIJA53WJo88wkcRPKhxRF5ALFM",
+    "open_hours_json": {
+      "Monday": [
+        "10 am–3 pm"
+      ],
+      "Tuesday": [
+        "10 am–3 pm",
+        "7–9:30 pm"
+      ],
+      "Wednesday": [
+        "10 am–3 pm"
+      ],
+      "Thursday": [
+        "10 am–3 pm"
+      ],
+      "Friday": [
+        "10 am–3 pm"
+      ],
+      "Saturday": [
+        "Closed"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 192,
+    "rating": 4.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcQnhDVGbFyTbZgM0Ua7TLflnIQkyg8M2G8Au7MytIt3CzoIZo43S1T99WSuQ9UBQJKtU1ht2wN6SuIGgT5vLFeoaNjjlL6fVyFUnvNybu8_Y_AsUHOmZixWqbq2Q1u3CmnfRWg=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcQnhDVGbFyTbZgM0Ua7TLflnIQkyg8M2G8Au7MytIt3CzoIZo43S1T99WSuQ9UBQJKtU1ht2wN6SuIGgT5vLFeoaNjjlL6fVyFUnvNybu8_Y_AsUHOmZixWqbq2Q1u3CmnfRWg=w1000-h750-no",
+    "source_query": "Halal restaurant in Thuin, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJmwIrcmgjwkcR8z3Ce4IFMCk",
+    "name": "Casa Rocky",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Thuin",
+    "address": "Casa Rocky, Rue de Marchienne 71 A, 6534 Thuin",
+    "street": "Rue de Marchienne 71 A",
+    "postal_code": "6534",
+    "region": null,
+    "latitude": 50.3385835,
+    "longitude": 4.3561767,
+    "phone": "071 11 14 95",
+    "website": "https://www.casarocky.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Casa%20Rocky&query_place_id=ChIJmwIrcmgjwkcR8z3Ce4IFMCk",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "9 am–6 pm"
+      ],
+      "Wednesday": [
+        "9 am–6 pm"
+      ],
+      "Thursday": [
+        "9 am–6 pm"
+      ],
+      "Friday": [
+        "9 am–6 pm"
+      ],
+      "Saturday": [
+        "9 am–6 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 100,
+    "rating": 4.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeRltNizMQZiAc_wazJoPDeUXmseTrv0zJTayX5tXELP0ggz7nCuUOQvEuyJ0SvvM7yDpBW_-mkjQrXtN-2mSYQ9PhomoqVRhwVEYz3QZx9ZGboFe51wK8Xmtns8jm1K9tXfPTYDw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeRltNizMQZiAc_wazJoPDeUXmseTrv0zJTayX5tXELP0ggz7nCuUOQvEuyJ0SvvM7yDpBW_-mkjQrXtN-2mSYQ9PhomoqVRhwVEYz3QZx9ZGboFe51wK8Xmtns8jm1K9tXfPTYDw=w1000-h750-no",
+    "source_query": "Hypermarket in Thuin, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJLZYgJEwjwkcRw9VoJ3762Nk",
+    "name": "Chez Éric",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Thuin",
+    "address": "Chez Éric, Rue de Thuin 11, 6534 Thuin",
+    "street": "Rue de Thuin 11",
+    "postal_code": "6534",
+    "region": null,
+    "latitude": 50.3339824,
+    "longitude": 4.3502648,
+    "phone": "071 43 63 20",
+    "website": "https://louisdelhaize.be/magasins/#!/l/thuin/rue-de-thuin-11/4399159",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chez%20%C3%89ric&query_place_id=ChIJLZYgJEwjwkcRw9VoJ3762Nk",
+    "open_hours_json": {
+      "Monday": [
+        "8 am–7 pm"
+      ],
+      "Tuesday": [
+        "8 am–7 pm"
+      ],
+      "Wednesday": [
+        "8 am–7 pm"
+      ],
+      "Thursday": [
+        "8 am–7 pm"
+      ],
+      "Friday": [
+        "8 am–7 pm"
+      ],
+      "Saturday": [
+        "8 am–7 pm"
+      ],
+      "Sunday": [
+        "8 am–7 pm"
+      ]
+    },
+    "review_count": 230,
+    "rating": 4.4,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfv8Ww27LrVQPF6O8jVCJOc4U9allcixc8ik-XVgXFV4ZJP66siJaSI50d6xeXprJiBB4g5TY_LOYKfbF4pBuSYc1NWdPRBEIuqGmVWIKo-EWKtzkeU_2PAhC4I-6Xgvi-RvbU5=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfv8Ww27LrVQPF6O8jVCJOc4U9allcixc8ik-XVgXFV4ZJP66siJaSI50d6xeXprJiBB4g5TY_LOYKfbF4pBuSYc1NWdPRBEIuqGmVWIKo-EWKtzkeU_2PAhC4I-6Xgvi-RvbU5=w1000-h750-no",
+    "source_query": "Hypermarket in Thuin, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJw6HTGVs9wkcRSHpfnoBQJF4",
+    "name": "Collect&Go Thuin",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Thuin",
+    "address": "Collect&Go Thuin, Drève des Alliés 108, 6530 Thuin",
+    "street": "Drève des Alliés 108",
+    "postal_code": "6530",
+    "region": null,
+    "latitude": 50.3394501,
+    "longitude": 4.308669399999999,
+    "phone": "02 363 50 05",
+    "website": "https://www.collectandgo.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Collect%26Go%20Thuin&query_place_id=ChIJw6HTGVs9wkcRSHpfnoBQJF4",
+    "open_hours_json": {
+      "Monday": [
+        "8 am–8 pm"
+      ],
+      "Tuesday": [
+        "8 am–8 pm"
+      ],
+      "Wednesday": [
+        "8 am–8 pm"
+      ],
+      "Thursday": [
+        "8 am–8 pm"
+      ],
+      "Friday": [
+        "8 am–9 pm"
+      ],
+      "Saturday": [
+        "8 am–8 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 0,
+    "rating": null,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=c444euxcuYE4ylT0uo7yOQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=0.89545095&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=c444euxcuYE4ylT0uo7yOQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=0.89545095&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Hypermarket in Thuin, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ_bwd8bE8wkcRLfkrjdKIikY",
+    "name": "Container park Thuin",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Thuin",
+    "address": "Container park Thuin, Drève des Alliés 122 A, 6530 Thuin",
+    "street": "Drève des Alliés 122 A",
+    "postal_code": "6530",
+    "region": null,
+    "latitude": 50.339788299999995,
+    "longitude": 4.3234772,
+    "phone": "071 59 14 19",
+    "website": "https://www.ipalle.be/localisation-et-horaires/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Container%20park%20Thuin&query_place_id=ChIJ_bwd8bE8wkcRLfkrjdKIikY",
+    "open_hours_json": {
+      "Monday": [
+        "12:30–6 pm"
+      ],
+      "Tuesday": [
+        "9 am–12 pm",
+        "12:30–6 pm"
+      ],
+      "Wednesday": [
+        "9 am–12 pm",
+        "12:30–6 pm"
+      ],
+      "Thursday": [
+        "9 am–12 pm",
+        "12:30–6 pm"
+      ],
+      "Friday": [
+        "9 am–12 pm",
+        "12:30–6 pm"
+      ],
+      "Saturday": [
+        "8 am–12 pm",
+        "12:30–5 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 173,
+    "rating": 3.9,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcrdCByLeWTcK62xFwFQEj436Krw2ucSZrsYu85OykSklalqPDPrjkztB1IVXLXz0e-PR6EedE-d2904IMqnlcgQaKmOHzlyzLnPS8JKRWQvP5ilDfn1lpm7UC8WveaMhP8e6cl_A=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcrdCByLeWTcK62xFwFQEj436Krw2ucSZrsYu85OykSklalqPDPrjkztB1IVXLXz0e-PR6EedE-d2904IMqnlcgQaKmOHzlyzLnPS8JKRWQvP5ilDfn1lpm7UC8WveaMhP8e6cl_A=w1000-h750-no",
+    "source_query": "Hypermarket in Thuin, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJRfrCd2gjwkcR0KqYP6GYGUI",
+    "name": "Daoudi / Youssef",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Thuin",
+    "address": "Daoudi / Youssef, Rue de Marchienne 67, 6534 Thuin",
+    "street": "Rue de Marchienne 67",
+    "postal_code": "6534",
+    "region": null,
+    "latitude": 50.3390092,
+    "longitude": 4.3561875,
+    "phone": "071 51 99 06",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Daoudi%20%2F%20Youssef&query_place_id=ChIJRfrCd2gjwkcR0KqYP6GYGUI",
+    "open_hours_json": null,
+    "review_count": 0,
+    "rating": null,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=KEpddNE3O1hHM5vbzgAN4A&cb_client=search.gws-prod.grass&w=80&h=92&yaw=195.92276&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=KEpddNE3O1hHM5vbzgAN4A&cb_client=search.gws-prod.grass&w=80&h=92&yaw=195.92276&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Thuin, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJPcwkMYg8wkcR5S_eahKBF8M",
+    "name": "Drinks Michot",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Thuin",
+    "address": "Drinks Michot, Av. de Ragnies 4, 6530 Thuin",
+    "street": "Av. de Ragnies 4",
+    "postal_code": "6530",
+    "region": null,
+    "latitude": 50.3399857,
+    "longitude": 4.281185499999999,
+    "phone": "071 59 01 45",
+    "website": "https://drinksmichot.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Drinks%20Michot&query_place_id=ChIJPcwkMYg8wkcR5S_eahKBF8M",
+    "open_hours_json": {
+      "Monday": [
+        "9 am–12:30 pm",
+        "2–6 pm"
+      ],
+      "Tuesday": [
+        "9 am–12:30 pm",
+        "2–6 pm"
+      ],
+      "Wednesday": [
+        "9 am–12:30 pm",
+        "2–6 pm"
+      ],
+      "Thursday": [
+        "9 am–12:30 pm",
+        "2–6 pm"
+      ],
+      "Friday": [
+        "9 am–12:30 pm",
+        "2–6 pm"
+      ],
+      "Saturday": [
+        "9 am–12:30 pm",
+        "2–5:30 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 27,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdAzxELgtE70lOR0XXhufKoY3ZBltuSdv7o6vI6A2hT8a4ZeStacGWbqCDFriUeQKZrF8EHkzFjsdYA0qEAvlGzK9WNPS2OMAaBSYWqNYa6PZf5Ml-mCaAn4GXlCllWZO-fA-odFg=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdAzxELgtE70lOR0XXhufKoY3ZBltuSdv7o6vI6A2hT8a4ZeStacGWbqCDFriUeQKZrF8EHkzFjsdYA0qEAvlGzK9WNPS2OMAaBSYWqNYa6PZf5Ml-mCaAn4GXlCllWZO-fA-odFg=w1000-h750-no",
+    "source_query": "Fish restaurant in Thuin, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ-aqu5IU8wkcRvs9FGYErcHU",
+    "name": "Délices de Chine",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Thuin",
+    "address": "Délices de Chine, Rue Gare du N 12, 6530 Thuin",
+    "street": "Rue Gare du N 12",
+    "postal_code": "6530",
+    "region": null,
+    "latitude": 50.3423628,
+    "longitude": 4.2871656,
+    "phone": null,
+    "website": "http://www.delicesdechinethuin.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=D%C3%A9lices%20de%20Chine&query_place_id=ChIJ-aqu5IU8wkcRvs9FGYErcHU",
+    "open_hours_json": {
+      "Monday": [
+        "12–2 pm",
+        "6–10 pm"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "12–2 pm",
+        "6–10 pm"
+      ],
+      "Thursday": [
+        "12–2 pm",
+        "6–10 pm"
+      ],
+      "Friday": [
+        "12–2 pm",
+        "6–11 pm"
+      ],
+      "Saturday": [
+        "12–2 pm",
+        "6–11 pm"
+      ],
+      "Sunday": [
+        "12–3 pm",
+        "6–11 pm"
+      ]
+    },
+    "review_count": 585,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLewfgpfPp3G0ZL2499h-LJ0dcxS3pmtNp1Mve-3ZNz5rbq51Wi-y_TUFysAR-L_iOlsnRNhZ--EFWn3KOOUwXoomipWMo4w1UQy3os5IUEKL_RxfZFy4bksfB9cm93rcSJNYzxg=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLewfgpfPp3G0ZL2499h-LJ0dcxS3pmtNp1Mve-3ZNz5rbq51Wi-y_TUFysAR-L_iOlsnRNhZ--EFWn3KOOUwXoomipWMo4w1UQy3os5IUEKL_RxfZFy4bksfB9cm93rcSJNYzxg=w1000-h750-no",
+    "source_query": "Fish restaurant in Thuin, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJs7c8Tds9wkcRpC5sWtiHU-g",
+    "name": "Ferme -Domaine du Fosteau",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Thuin",
+    "address": "Ferme -Domaine du Fosteau, Rue du Marquis 2, 6530 Thuin",
+    "street": "Rue du Marquis 2",
+    "postal_code": "6530",
+    "region": null,
+    "latitude": 50.304912699999996,
+    "longitude": 4.2521039,
+    "phone": "0497 85 16 05",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ferme%20-Domaine%20du%20Fosteau&query_place_id=ChIJs7c8Tds9wkcRpC5sWtiHU-g",
+    "open_hours_json": null,
+    "review_count": 5,
+    "rating": 4.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcds9Ruqg1Yl1gbO1S-qojIBUFeIvP_xadXWftxBNyVdIAou9F-tUH-yAKu57XJ_ANQ2kCCpXzUSK5HECLRaIRprzazAEczBFcm8Ku4XSIh0xc4IZcA81ciTQmw8i21fORn31Rv=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcds9Ruqg1Yl1gbO1S-qojIBUFeIvP_xadXWftxBNyVdIAou9F-tUH-yAKu57XJ_ANQ2kCCpXzUSK5HECLRaIRprzazAEczBFcm8Ku4XSIh0xc4IZcA81ciTQmw8i21fORn31Rv=w1000-h750-no",
+    "source_query": "Fish restaurant in Thuin, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJrbTDRLY9wkcRwUk5zQ_BxNQ",
+    "name": "Ferme du Château",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Thuin",
+    "address": "Ferme du Château, Rue du Marquis 2, 6530 Thuin",
+    "street": "Rue du Marquis 2",
+    "postal_code": "6530",
+    "region": null,
+    "latitude": 50.304693,
+    "longitude": 4.2539902,
+    "phone": "0497 85 16 05",
+    "website": "https://jecuisinelocal.be/producteurs-artisans/ferme-du-fosteau/#js-refuse-cookies",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ferme%20du%20Ch%C3%A2teau&query_place_id=ChIJrbTDRLY9wkcRwUk5zQ_BxNQ",
+    "open_hours_json": {
+      "Monday": [
+        "2–7 pm"
+      ],
+      "Tuesday": [
+        "2–7 pm"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "2–7 pm"
+      ],
+      "Friday": [
+        "2–7 pm"
+      ],
+      "Saturday": [
+        "2–7 pm"
+      ],
+      "Sunday": [
+        "9 am–12 pm"
+      ]
+    },
+    "review_count": 8,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfOrEPoEKq-82y1iIGktxe2OzxBRkdbvC9fXMFilDSHN982WPmJfYFOGqyccPgLlLfBfc1g2WYY0pptt-1n8upzy-x8LMsAm4-0sm7-_DYle7YAd6m4cQ3KiVuxVGrDPmafCmYFNA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfOrEPoEKq-82y1iIGktxe2OzxBRkdbvC9fXMFilDSHN982WPmJfYFOGqyccPgLlLfBfc1g2WYY0pptt-1n8upzy-x8LMsAm4-0sm7-_DYle7YAd6m4cQ3KiVuxVGrDPmafCmYFNA=w1000-h750-no",
+    "source_query": "Fish restaurant in Thuin, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJAzymTWIjwkcRPkHt7RXibz8",
+    "name": "Fun And Food Gozee",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Thuin",
+    "address": "Fun And Food Gozee, Rue de Bomerée 2, 6534 Thuin",
+    "street": "Rue de Bomerée 2",
+    "postal_code": "6534",
+    "region": null,
+    "latitude": 50.3469148,
+    "longitude": 4.3633055999999995,
+    "phone": "071 43 11 67",
+    "website": "https://fun-and-food-gozee.businessbooster.website/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Fun%20And%20Food%20Gozee&query_place_id=ChIJAzymTWIjwkcRPkHt7RXibz8",
+    "open_hours_json": {
+      "Monday": [
+        "6 am–8 pm"
+      ],
+      "Tuesday": [
+        "6 am–8 pm"
+      ],
+      "Wednesday": [
+        "6 am–8 pm"
+      ],
+      "Thursday": [
+        "6 am–8 pm"
+      ],
+      "Friday": [
+        "6 am–8 pm"
+      ],
+      "Saturday": [
+        "8 am–8 pm"
+      ],
+      "Sunday": [
+        "8 am–8 pm"
+      ]
+    },
+    "review_count": 426,
+    "rating": 4.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdQH_V2YYokhYKPijEbZyjS_DQNTztLILIJu1CLPQfKPPm09OBsMRBVLPi-9b2WMQ5bJsvpTVbiwNGOLV-V9E0M2aidzsjCIIEl8pp_zpj7jCsJKYQjQUulQ7y8_bnS1UKYSTQNAQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdQH_V2YYokhYKPijEbZyjS_DQNTztLILIJu1CLPQfKPPm09OBsMRBVLPi-9b2WMQ5bJsvpTVbiwNGOLV-V9E0M2aidzsjCIIEl8pp_zpj7jCsJKYQjQUulQ7y8_bnS1UKYSTQNAQ=w1000-h750-no",
+    "source_query": "Hypermarket in Thuin, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJXb-1hQ0lwkcRy6auufc_PU0",
+    "name": "Färm Gozée",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Thuin",
+    "address": "Färm Gozée, Rue de Marchienne 185, 6534 Thuin",
+    "street": "Rue de Marchienne 185",
+    "postal_code": "6534",
+    "region": null,
+    "latitude": 50.3566679,
+    "longitude": 4.364197,
+    "phone": "071 18 31 05",
+    "website": "https://stores.farm.coop/fr/farm-gozee",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=F%C3%A4rm%20Goz%C3%A9e&query_place_id=ChIJXb-1hQ0lwkcRy6auufc_PU0",
+    "open_hours_json": {
+      "Monday": [
+        "9:30 am–7 pm"
+      ],
+      "Tuesday": [
+        "9:30 am–7 pm"
+      ],
+      "Wednesday": [
+        "9:30 am–7 pm"
+      ],
+      "Thursday": [
+        "9:30 am–7 pm"
+      ],
+      "Friday": [
+        "9:30 am–7 pm"
+      ],
+      "Saturday": [
+        "9:30 am–7 pm"
+      ],
+      "Sunday": [
+        "9 am–5 pm"
+      ]
+    },
+    "review_count": 134,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc6k5YhFaN-23zncrEKNsOjJmA4tgcpwb-EvUJxyJPBjRD0Ha62XUiuGAsxMh8PA75bBRoiyX_pRaQp37Ib4R_3u3c05a4i0oPwaRZgt7mXq6LLEl7KRhtLxUaCMKU-tw9X7ek5=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc6k5YhFaN-23zncrEKNsOjJmA4tgcpwb-EvUJxyJPBjRD0Ha62XUiuGAsxMh8PA75bBRoiyX_pRaQp37Ib4R_3u3c05a4i0oPwaRZgt7mXq6LLEl7KRhtLxUaCMKU-tw9X7ek5=w1000-h750-no",
+    "source_query": "Hypermarket in Thuin, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJi14tCpk9wkcRdaNJY5uHiUI",
+    "name": "Halte Nautique de Thuin",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Thuin",
+    "address": "Halte Nautique de Thuin, 6530 Thuin",
+    "street": null,
+    "postal_code": "6530",
+    "region": null,
+    "latitude": 50.3419028,
+    "longitude": 4.2835041,
+    "phone": "0478 79 37 71",
+    "website": "https://www.thuin.be/administration/reglements-communaux/reglement-dexploitation-de-la-halte-nautique-de-thuin",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Halte%20Nautique%20de%20Thuin&query_place_id=ChIJi14tCpk9wkcRdaNJY5uHiUI",
+    "open_hours_json": {
+      "Monday": [
+        "Open 24 hours"
+      ],
+      "Tuesday": [
+        "Open 24 hours"
+      ],
+      "Wednesday": [
+        "Open 24 hours"
+      ],
+      "Thursday": [
+        "Open 24 hours"
+      ],
+      "Friday": [
+        "Open 24 hours"
+      ],
+      "Saturday": [
+        "Open 24 hours"
+      ],
+      "Sunday": [
+        "Open 24 hours"
+      ]
+    },
+    "review_count": 7,
+    "rating": 4.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcuoRaCZtYvK2zzojUfZISzFsZNo5qtPtJ0ELq5l8pEWc3Ywt2iNkmCff7EgpRlZIkgfL1Q2fjg7XeCUe_HX5k7oyTKFAIho4QSpPVBMOUbkoz3iiZc4zt6ko5K4vtclH1M84Md5hpythI=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcuoRaCZtYvK2zzojUfZISzFsZNo5qtPtJ0ELq5l8pEWc3Ywt2iNkmCff7EgpRlZIkgfL1Q2fjg7XeCUe_HX5k7oyTKFAIho4QSpPVBMOUbkoz3iiZc4zt6ko5K4vtclH1M84Md5hpythI=w1000-h750-no",
+    "source_query": "Fish restaurant in Thuin, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ8SrJbk8jwkcRdfzjXz3CBrk",
+    "name": "Herboristerie la Ferme de la Follie.",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Thuin",
+    "address": "Herboristerie la Ferme de la Follie., Rue de Thuin 56, 6534 Thuin",
+    "street": "Rue de Thuin 56",
+    "postal_code": "6534",
+    "region": null,
+    "latitude": 50.335539499999996,
+    "longitude": 4.3352213,
+    "phone": "071 51 52 94",
+    "website": "http://www.lafermedelafollie.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Herboristerie%20la%20Ferme%20de%20la%20Follie.&query_place_id=ChIJ8SrJbk8jwkcRdfzjXz3CBrk",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "Closed"
+      ],
+      "Friday": [
+        "9:30 am–12 pm",
+        "2–6 pm"
+      ],
+      "Saturday": [
+        "9:30 am–12 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 36,
+    "rating": 4.4,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeFI4hBX7pLjsvCCIyiBya8Ku_j_TtbR81Ls7ruw-xaFB0ueWKOlpwPhKyA5jz54kYQpRvhPw1c2PjnSU6Ws4HWTvJsIyfiWMr5gs2HkkJYPeZv_R8hzq1MBTtaELlo4dPGhDWa=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeFI4hBX7pLjsvCCIyiBya8Ku_j_TtbR81Ls7ruw-xaFB0ueWKOlpwPhKyA5jz54kYQpRvhPw1c2PjnSU6Ws4HWTvJsIyfiWMr5gs2HkkJYPeZv_R8hzq1MBTtaELlo4dPGhDWa=w1000-h750-no",
+    "source_query": "Hypermarket in Thuin, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJweHiyGMjwkcRq_hRzDzKYoQ",
+    "name": "Intermarché Gozée Bomerée",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Thuin",
+    "address": "Intermarché Gozée Bomerée, Rue de Bomerée 1, 6534 Thuin",
+    "street": "Rue de Bomerée 1",
+    "postal_code": "6534",
+    "region": null,
+    "latitude": 50.3455887,
+    "longitude": 4.3626,
+    "phone": "071 51 14 08",
+    "website": "https://www.intermarche.be/magasins/intermarche-gozee/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Intermarch%C3%A9%20Goz%C3%A9e%20Bomer%C3%A9e&query_place_id=ChIJweHiyGMjwkcRq_hRzDzKYoQ",
+    "open_hours_json": {
+      "Monday": [
+        "8 am–7:45 pm"
+      ],
+      "Tuesday": [
+        "8 am–7:45 pm"
+      ],
+      "Wednesday": [
+        "8 am–7:45 pm"
+      ],
+      "Thursday": [
+        "8 am–7:45 pm"
+      ],
+      "Friday": [
+        "8 am–7:45 pm"
+      ],
+      "Saturday": [
+        "8 am–7:45 pm"
+      ],
+      "Sunday": [
+        "8 am–7 pm"
+      ]
+    },
+    "review_count": 1422,
+    "rating": 3.9,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdthxTdJTGONM3yzsb39Hrf0FjC0qkxyMN-suhwJ85DL5p-zmp6HJKvpNZLjpcNoW3dauFGRePQJIOXmaZTYLpl7MuOS8HRkBZ1DZlNop5fNJw_D1Z5EnRYjV0bJi3Zc5qYbtc=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdthxTdJTGONM3yzsb39Hrf0FjC0qkxyMN-suhwJ85DL5p-zmp6HJKvpNZLjpcNoW3dauFGRePQJIOXmaZTYLpl7MuOS8HRkBZ1DZlNop5fNJw_D1Z5EnRYjV0bJi3Zc5qYbtc=w1000-h750-no",
+    "source_query": "Hypermarket in Thuin, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJZ-_Ei2clwkcRxUIGZySg5E4",
+    "name": "Intermarché Gozée Marchienne",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Thuin",
+    "address": "Intermarché Gozée Marchienne, Rue de Marchienne 204, 6534 Thuin",
+    "street": "Rue de Marchienne 204",
+    "postal_code": "6534",
+    "region": null,
+    "latitude": 50.356728999999994,
+    "longitude": 4.363030999999999,
+    "phone": "071 51 99 79",
+    "website": "https://www.intermarche.be/magasins/intermarche-gozee-2/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Intermarch%C3%A9%20Goz%C3%A9e%20Marchienne&query_place_id=ChIJZ-_Ei2clwkcRxUIGZySg5E4",
+    "open_hours_json": {
+      "Monday": [
+        "8 am–7:30 pm"
+      ],
+      "Tuesday": [
+        "8 am–7:30 pm"
+      ],
+      "Wednesday": [
+        "8 am–7:30 pm"
+      ],
+      "Thursday": [
+        "8 am–7:30 pm"
+      ],
+      "Friday": [
+        "8 am–7:30 pm"
+      ],
+      "Saturday": [
+        "8 am–7:30 pm"
+      ],
+      "Sunday": [
+        "8 am–7 pm"
+      ]
+    },
+    "review_count": 338,
+    "rating": 4.1,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcjvWdqTnfXh-2pgZQxxwOM1-uUVlzTRsS2iI_IIXiMzjtaMI-NOtJbCOoH6V7xNaOFHbnInHoH0u__lUM12sNPXmXfnA-05ejIov-V3K3cT3tKyA1InOjT4bXtmalnr6q0mmZf=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcjvWdqTnfXh-2pgZQxxwOM1-uUVlzTRsS2iI_IIXiMzjtaMI-NOtJbCOoH6V7xNaOFHbnInHoH0u__lUM12sNPXmXfnA-05ejIov-V3K3cT3tKyA1InOjT4bXtmalnr6q0mmZf=w1000-h750-no",
+    "source_query": "Hypermarket in Thuin, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJZz34e4g8wkcR2dI7XyQABxY",
+    "name": "La Baraque à Vrac",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Thuin",
+    "address": "La Baraque à Vrac, Rue t'Serstevens 70, 6530 Thuin",
+    "street": "Rue t'Serstevens 70",
+    "postal_code": "6530",
+    "region": null,
+    "latitude": 50.341403,
+    "longitude": 4.2832871,
+    "phone": "071 30 41 05",
+    "website": "http://www.baraquevrac.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Baraque%20%C3%A0%20Vrac&query_place_id=ChIJZz34e4g8wkcR2dI7XyQABxY",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "10 am–6 pm"
+      ],
+      "Thursday": [
+        "1–7 pm"
+      ],
+      "Friday": [
+        "10 am–6 pm"
+      ],
+      "Saturday": [
+        "10 am–6 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 63,
+    "rating": 4.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcOpVgI7tvsD9_emucdmRAbeLtKOB2d637-GDebcYjFU9IamsfNzJrXaSZq9yyR4S2qE4jFawh19sT7oulMz3yifDvcONUujawKtsEQ9TYhdQDq2ONY93IkVLvlUQgcraC-4fAa=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcOpVgI7tvsD9_emucdmRAbeLtKOB2d637-GDebcYjFU9IamsfNzJrXaSZq9yyR4S2qE4jFawh19sT7oulMz3yifDvcONUujawKtsEQ9TYhdQDq2ONY93IkVLvlUQgcraC-4fAa=w1000-h750-no",
+    "source_query": "Hypermarket in Thuin, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJPyoXgBglwkcRu-IPAPQYypo",
     "name": "La Belle Saison",
     "type": "restaurant",
@@ -9935,7 +10760,7 @@
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdGPd1x1iQ8Fo86kLJT0_aoJXvA8mbu7qfhfnGOghoSxc_tYdrQ8AK8S4ROEdy-NBUpdZ5iSnLVHW0j0YzMLDltF7iO6diYH-9IYu_woi3yp2n2Aag4arQ4Ju5NDQYwOzvJvnfy=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdGPd1x1iQ8Fo86kLJT0_aoJXvA8mbu7qfhfnGOghoSxc_tYdrQ8AK8S4ROEdy-NBUpdZ5iSnLVHW0j0YzMLDltF7iO6diYH-9IYu_woi3yp2n2Aag4arQ4Ju5NDQYwOzvJvnfy=w1000-h750-no",
     "rating": 4.7,
-    "review_count": 3538,
+    "review_count": 3539,
     "verification_status": "VERIFIED",
     "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
     "is_active": true,
@@ -10845,650 +11670,5 @@
     "is_active": true,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJnXMQUvbfwkcR2BeXe0eMFpI",
-    "name": "Croquez Local",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tournai",
-    "address": "Croquez Local, Chau. de Douai 90, 7500 Tournai",
-    "street": "Chau. de Douai 90",
-    "postal_code": "7500",
-    "region": null,
-    "latitude": 50.5991868,
-    "longitude": 3.3766444,
-    "phone": "069 78 13 02",
-    "website": "https://www.croquezlocal.com/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Croquez%20Local&query_place_id=ChIJnXMQUvbfwkcR2BeXe0eMFpI",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "10 am–7 pm"
-      ],
-      "Wednesday": [
-        "10 am–7 pm"
-      ],
-      "Thursday": [
-        "10 am–7 pm"
-      ],
-      "Friday": [
-        "10 am–7 pm"
-      ],
-      "Saturday": [
-        "10 am–7 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 44,
-    "rating": 4.8,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcu5EogcH7Hiz4AzOO2rMZYuO_pshOu4ss6hoCFEif_u1MQdRZW1XH8rhkpJjrS6lfQ0mP_sHQBmAb259D1oBsexH5x9WffczTX4H8pDHFvwiJMq3EGrgl4d8ONE28Hpp13H054pg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcu5EogcH7Hiz4AzOO2rMZYuO_pshOu4ss6hoCFEif_u1MQdRZW1XH8rhkpJjrS6lfQ0mP_sHQBmAb259D1oBsexH5x9WffczTX4H8pDHFvwiJMq3EGrgl4d8ONE28Hpp13H054pg=w1000-h750-no",
-    "source_query": "Hypermarket in Tournai, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJnwQLwZriwkcR640WSGS8g5s",
-    "name": "Delhaye / Christophe",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tournai",
-    "address": "Delhaye / Christophe, Rue de l'Église Saint-Thomas 10, 7534 Tournai",
-    "street": "Rue de l'Église Saint-Thomas 10",
-    "postal_code": "7534",
-    "region": null,
-    "latitude": 50.616758499999996,
-    "longitude": 3.5491496999999996,
-    "phone": "069 54 62 93",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Delhaye%20%2F%20Christophe&query_place_id=ChIJnwQLwZriwkcR640WSGS8g5s",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcv6xTXlzIBcjcpTXIR2goc4BPb4idNLLG-zUwYwgphYZqtbajZ-SjGtOUDMCfZT-g7yqn1dMITc7OgGN9O7nuDIcy6ypKppdF7XV-KZgFt-coHmOKm9OZa42HZbbJAqvt8CTunyw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcv6xTXlzIBcjcpTXIR2goc4BPb4idNLLG-zUwYwgphYZqtbajZ-SjGtOUDMCfZT-g7yqn1dMITc7OgGN9O7nuDIcy6ypKppdF7XV-KZgFt-coHmOKm9OZa42HZbbJAqvt8CTunyw=w1000-h750-no",
-    "rating": 5.0,
-    "review_count": 25,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJq59dMErfwkcRHfXg4fz9mn8",
-    "name": "Deliseche",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tournai",
-    "address": "Deliseche, Rue d'Amiens 63, 7500 Tournai",
-    "street": "Rue d'Amiens 63",
-    "postal_code": "7500",
-    "region": null,
-    "latitude": 50.6168139,
-    "longitude": 3.3779236999999998,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Deliseche&query_place_id=ChIJq59dMErfwkcRHfXg4fz9mn8",
-    "open_hours_json": {
-      "Monday": [
-        "8:30 am–7 pm"
-      ],
-      "Tuesday": [
-        "8:30 am–7 pm"
-      ],
-      "Wednesday": [
-        "8:30 am–7 pm"
-      ],
-      "Thursday": [
-        "8:30 am–7 pm"
-      ],
-      "Friday": [
-        "8:30 am–7 pm"
-      ],
-      "Saturday": [
-        "8:30 am–7 pm"
-      ],
-      "Sunday": [
-        "10 am–12:30 pm"
-      ]
-    },
-    "review_count": 0,
-    "rating": null,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1IBHljMDz3zHRs3SFl1L1Q&cb_client=search.gws-prod.grass&w=80&h=92&yaw=353.17957&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1IBHljMDz3zHRs3SFl1L1Q&cb_client=search.gws-prod.grass&w=80&h=92&yaw=353.17957&pitch=0&thumbfov=w1000-h750-no",
-    "source_query": "Hypermarket in Tournai, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ_XgMCmzgwkcRIATjGHrpYS0",
-    "name": "Di Tournai Bastions",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tournai",
-    "address": "Di Tournai Bastions, Bd Walter de Marvis 22, 7500 Tournai",
-    "street": "Bd Walter de Marvis 22",
-    "postal_code": "7500",
-    "region": null,
-    "latitude": 50.604884999999996,
-    "longitude": 3.4054499999999996,
-    "phone": "069 54 58 21",
-    "website": "https://www.di.be/fr/stores?storeID=4163",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Di%20Tournai%20Bastions&query_place_id=ChIJ_XgMCmzgwkcRIATjGHrpYS0",
-    "open_hours_json": {
-      "Monday": [
-        "9:30 am–7 pm"
-      ],
-      "Tuesday": [
-        "9:30 am–7 pm"
-      ],
-      "Wednesday": [
-        "9:30 am–7 pm"
-      ],
-      "Thursday": [
-        "9:30 am–7 pm"
-      ],
-      "Friday": [
-        "9:30 am–7:30 pm"
-      ],
-      "Saturday": [
-        "9:30 am–7:30 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 169,
-    "rating": 4.2,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcc6pMb61qRkeebdTfMhKzUSi0hlGPs3L0p2MMCAs7CLUm_yZq9ZBZBEU5lEh7jegrfI2clsILVXufbF_6L7MB-1EeHsQEsDu_Mq0vw58dyKZB6UkzbmJltyDmJbY8E5M2jnGA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcc6pMb61qRkeebdTfMhKzUSi0hlGPs3L0p2MMCAs7CLUm_yZq9ZBZBEU5lEh7jegrfI2clsILVXufbF_6L7MB-1EeHsQEsDu_Mq0vw58dyKZB6UkzbmJltyDmJbY8E5M2jnGA=w1000-h750-no",
-    "source_query": "Hypermarket in Tournai, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJC0f2HwDfwkcRyVhS_hfXEEc",
-    "name": "Districado",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tournai",
-    "address": "Districado, Rue de Maire 6, 7503 Tournai",
-    "street": "Rue de Maire 6",
-    "postal_code": "7503",
-    "region": null,
-    "latitude": 50.6261349,
-    "longitude": 3.3678106,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Districado&query_place_id=ChIJC0f2HwDfwkcRyVhS_hfXEEc",
-    "open_hours_json": null,
-    "review_count": 0,
-    "rating": null,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OkT052qGuqoUnYhSJ_yORw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=302.84534&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OkT052qGuqoUnYhSJ_yORw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=302.84534&pitch=0&thumbfov=w1000-h750-no",
-    "source_query": "Hypermarket in Tournai, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJJTcp7d_fwkcRIiqRtVtLLcA",
-    "name": "Djerba - Tournai",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tournai",
-    "address": "Djerba - Tournai, Rue du Marché au Jambon 12, 7500 Tournai",
-    "street": "Rue du Marché au Jambon 12",
-    "postal_code": "7500",
-    "region": null,
-    "latitude": 50.6081648,
-    "longitude": 3.3866403999999997,
-    "phone": "069 23 51 27",
-    "website": "https://qr.wwwcafe.de/2025/08/12/djerba/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Djerba%20-%20Tournai&query_place_id=ChIJJTcp7d_fwkcRIiqRtVtLLcA",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfWdEdJZBGcm9pB_jhduNZj1gE0T_SHSrOopjAgE7F6G3u1rEI7sdaRR9Q7ITvf1SpP_QldzJIch2TLUpreeTHHriXCk1-2IYs1CcoBPntz4grH6dch9FPAqToz1MXZMZgjUOJs=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfWdEdJZBGcm9pB_jhduNZj1gE0T_SHSrOopjAgE7F6G3u1rEI7sdaRR9Q7ITvf1SpP_QldzJIch2TLUpreeTHHriXCk1-2IYs1CcoBPntz4grH6dch9FPAqToz1MXZMZgjUOJs=w1000-h750-no",
-    "rating": 4.5,
-    "review_count": 476,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJ8bSE-7ThwkcRD5s4lXCderU",
-    "name": "Dubai Market",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tournai",
-    "address": "Dubai Market, Rue Morel 29, 7500 Tournai",
-    "street": "Rue Morel 29",
-    "postal_code": "7500",
-    "region": null,
-    "latitude": 50.610018499999995,
-    "longitude": 3.3987703,
-    "phone": "0485 00 70 99",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Dubai%20Market&query_place_id=ChIJ8bSE-7ThwkcRD5s4lXCderU",
-    "open_hours_json": {
-      "Monday": [
-        "9:30 am–10 pm"
-      ],
-      "Tuesday": [
-        "9:30 am–10 pm"
-      ],
-      "Wednesday": [
-        "9:30 am–10 pm"
-      ],
-      "Thursday": [
-        "9:30 am–10 pm"
-      ],
-      "Friday": [
-        "9:30 am–10 pm"
-      ],
-      "Saturday": [
-        "8:30 am–10 pm"
-      ],
-      "Sunday": [
-        "9:30 am–10 pm"
-      ]
-    },
-    "review_count": 14,
-    "rating": 4.9,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcNUUENTIh0UeHHn4_il8Y6J3Ktr5lBkeiYs78fkMhhMlYYbpHIL9aUrV-sk5BaO2-W7ewGJ-su6PzNY_SsyPiASUchObGIohB_8shVVp64ANt6Joy7uYHbRa7262v1LgF-ziROR7VTlE4=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcNUUENTIh0UeHHn4_il8Y6J3Ktr5lBkeiYs78fkMhhMlYYbpHIL9aUrV-sk5BaO2-W7ewGJ-su6PzNY_SsyPiASUchObGIohB_8shVVp64ANt6Joy7uYHbRa7262v1LgF-ziROR7VTlE4=w1000-h750-no",
-    "source_query": "Hypermarket in Tournai, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ_Y8MPSrhwkcRtU0q76S5d3g",
-    "name": "Délices chauds et froids",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tournai",
-    "address": "Délices chauds et froids, Rue du Curé Notre Dame 22, 7500 Tournai",
-    "street": "Rue du Curé Notre Dame 22",
-    "postal_code": "7500",
-    "region": null,
-    "latitude": 50.607415499999995,
-    "longitude": 3.3890521999999996,
-    "phone": "069 30 74 91",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=D%C3%A9lices%20chauds%20et%20froids&query_place_id=ChIJ_Y8MPSrhwkcRtU0q76S5d3g",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe-NkDCUAUTXGPgUWogvVqcXa10XRg-W5bg5kgHfg7RNmwqQrXMgAge53QVkXHAnxOx8CnRkmsri-UryDOjTagBydWvOED5w2tbJIbbyR2mm1yBSNYUjRcT0kMUeDw5bpF2ze9L=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe-NkDCUAUTXGPgUWogvVqcXa10XRg-W5bg5kgHfg7RNmwqQrXMgAge53QVkXHAnxOx8CnRkmsri-UryDOjTagBydWvOED5w2tbJIbbyR2mm1yBSNYUjRcT0kMUeDw5bpF2ze9L=w1000-h750-no",
-    "rating": 4.6,
-    "review_count": 198,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJhzPb2VHfwkcRxfaktQ1AgFc",
-    "name": "EPICERIE CENTRALE",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tournai",
-    "address": "EPICERIE CENTRALE, Rue Edmond Richard, 7522 Tournai",
-    "street": "Rue Edmond Richard",
-    "postal_code": "7522",
-    "region": null,
-    "latitude": 50.622585799999996,
-    "longitude": 3.3002685,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=EPICERIE%20CENTRALE&query_place_id=ChIJhzPb2VHfwkcRxfaktQ1AgFc",
-    "open_hours_json": null,
-    "review_count": 0,
-    "rating": null,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=p_UCbwM0oOrBeiTcj_KPag&cb_client=search.gws-prod.grass&w=80&h=92&yaw=63.083275&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=p_UCbwM0oOrBeiTcj_KPag&cb_client=search.gws-prod.grass&w=80&h=92&yaw=63.083275&pitch=0&thumbfov=w1000-h750-no",
-    "source_query": "Hypermarket in Tournai, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ8-hidgDhwkcR4dimBr0zbMU",
-    "name": "EatMeal",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tournai",
-    "address": "EatMeal, Pl. Crombez 10, 7500 Tournai",
-    "street": "Pl. Crombez 10",
-    "postal_code": "7500",
-    "region": null,
-    "latitude": 50.612449899999994,
-    "longitude": 3.3955425999999997,
-    "phone": "0471 54 57 45",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=EatMeal&query_place_id=ChIJ8-hidgDhwkcR4dimBr0zbMU",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdzp9dAKn7RztO1xMJcctKCR_nxAcrgWwV8u0odHaqRoR1HXY4YXem5G0lwsWRj6WwKTeEa5ysHDU8fFv0WYckQ5zGLvyhKMNlf3OlzboePXr50Y7H5UbTywRut-l48R2coUMRHrm6cYXP8=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdzp9dAKn7RztO1xMJcctKCR_nxAcrgWwV8u0odHaqRoR1HXY4YXem5G0lwsWRj6WwKTeEa5ysHDU8fFv0WYckQ5zGLvyhKMNlf3OlzboePXr50Y7H5UbTywRut-l48R2coUMRHrm6cYXP8=w1000-h750-no",
-    "rating": 4.3,
-    "review_count": 36,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJidyz-zbfwkcRCsSbGOdRl8c",
-    "name": "Elephant coffee",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tournai",
-    "address": "Elephant coffee, Grand'Place 30, 7500 Tournai",
-    "street": "Grand'Place 30",
-    "postal_code": "7500",
-    "region": null,
-    "latitude": 50.6069416,
-    "longitude": 3.3863428,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Elephant%20coffee&query_place_id=ChIJidyz-zbfwkcRCsSbGOdRl8c",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "8:30 am–5:30 pm"
-      ],
-      "Thursday": [
-        "8:30 am–5:30 pm"
-      ],
-      "Friday": [
-        "8:30 am–5:30 pm"
-      ],
-      "Saturday": [
-        "9 am–5:30 pm"
-      ],
-      "Sunday": [
-        "9 am–5:30 pm"
-      ]
-    },
-    "review_count": 155,
-    "rating": 4.9,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdw_sXickGqsHpofaSDJ9S6FvGkqx_4vrJQvOdSDA007gMACpJF65YQ1LC8w7rGsO4tCk7YQEsWGYXoXiopvf5_ZHdKWAB2aWsvSxk9ZvqI8wHyS7GKKd6QG8RDkTth1TGJOQRHLAi6-n4=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdw_sXickGqsHpofaSDJ9S6FvGkqx_4vrJQvOdSDA007gMACpJF65YQ1LC8w7rGsO4tCk7YQEsWGYXoXiopvf5_ZHdKWAB2aWsvSxk9ZvqI8wHyS7GKKd6QG8RDkTth1TGJOQRHLAi6-n4=w1000-h750-no",
-    "source_query": "Hypermarket in Tournai, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJD0pRknXgwkcR-R8Wc_DA-ow",
-    "name": "En Cas de Faim",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tournai",
-    "address": "En Cas de Faim, Rue du Cygne 33, 7500 Tournai",
-    "street": "Rue du Cygne 33",
-    "postal_code": "7500",
-    "region": null,
-    "latitude": 50.6090702,
-    "longitude": 3.3867097999999998,
-    "phone": "069 56 04 84",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=En%20Cas%20de%20Faim&query_place_id=ChIJD0pRknXgwkcR-R8Wc_DA-ow",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "12–2:30 pm",
-        "6:30–9:30 pm"
-      ],
-      "Friday": [
-        "12–2:30 pm",
-        "6:30–9:30 pm"
-      ],
-      "Saturday": [
-        "12–2:30 pm",
-        "6:30–9:30 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 288,
-    "rating": 4.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdLHQj_WTKltv6nGL5nVaktca9kCj2NIp_BojqUHohHIZ6oFBfuMsMs0jB2xI3QcO0EYVp3IQDE83pks8fX6BnoWMtpQ9qmWnCay__TybccOwXfmiUzZ6VoL1vRXRLiJwA-HcHcRg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdLHQj_WTKltv6nGL5nVaktca9kCj2NIp_BojqUHohHIZ6oFBfuMsMs0jB2xI3QcO0EYVp3IQDE83pks8fX6BnoWMtpQ9qmWnCay__TybccOwXfmiUzZ6VoL1vRXRLiJwA-HcHcRg=w1000-h750-no",
-    "source_query": "Halal restaurant in Tournai, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJTctBH3fgwkcR-kA_TVKmmFg",
-    "name": "Epicerie Delto,chez Vincent",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tournai",
-    "address": "Epicerie Delto,chez Vincent, Rue Vauban 6, 7500 Tournai",
-    "street": "Rue Vauban 6",
-    "postal_code": "7500",
-    "region": null,
-    "latitude": 50.6015902,
-    "longitude": 3.3913238,
-    "phone": null,
-    "website": "https://www.lavenir.net/cnt/dmf20130916_00360932",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Epicerie%20Delto%2Cchez%20Vincent&query_place_id=ChIJTctBH3fgwkcR-kA_TVKmmFg",
-    "open_hours_json": {
-      "Monday": [
-        "7:30 am–6 pm"
-      ],
-      "Tuesday": [
-        "7:30 am–6 pm"
-      ],
-      "Wednesday": [
-        "7:30 am–6 pm"
-      ],
-      "Thursday": [
-        "7:30 am–6 pm"
-      ],
-      "Friday": [
-        "7:30 am–6 pm"
-      ],
-      "Saturday": [
-        "8 am–1 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 8,
-    "rating": 4.9,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1plGgbSfy5VYttiTLLJ8ew&cb_client=search.gws-prod.grass&w=80&h=92&yaw=308.54675&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1plGgbSfy5VYttiTLLJ8ew&cb_client=search.gws-prod.grass&w=80&h=92&yaw=308.54675&pitch=0&thumbfov=w1000-h750-no",
-    "source_query": "Hypermarket in Tournai, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJs874v4TfwkcRR7GAOhGU9Ww",
-    "name": "Epicerie du Coeur Asbl",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tournai",
-    "address": "Epicerie du Coeur Asbl, Chau. de Lannoy 109, 7503 Tournai",
-    "street": "Chau. de Lannoy 109",
-    "postal_code": "7503",
-    "region": null,
-    "latitude": 50.6222802,
-    "longitude": 3.3481775999999996,
-    "phone": "069 76 79 24",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Epicerie%20du%20Coeur%20Asbl&query_place_id=ChIJs874v4TfwkcRR7GAOhGU9Ww",
-    "open_hours_json": null,
-    "review_count": 0,
-    "rating": null,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nZbc4u7DBMGOigh2nA7UHQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=155.28868&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nZbc4u7DBMGOigh2nA7UHQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=155.28868&pitch=0&thumbfov=w1000-h750-no",
-    "source_query": "Hypermarket in Tournai, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJgwCmcNrfwkcRfKjf2NOcN-c",
-    "name": "Epicerie du Faubourg",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tournai",
-    "address": "Epicerie du Faubourg, Chau. de Douai 25, 7500 Tournai",
-    "street": "Chau. de Douai 25",
-    "postal_code": "7500",
-    "region": null,
-    "latitude": 50.5998228,
-    "longitude": 3.3781738,
-    "phone": "069 22 04 02",
-    "website": "https://www.geodruid.com/intl/fr/place/980701-superette-du-faubourg-epicerie-de-proximite-tournai-belgie",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Epicerie%20du%20Faubourg&query_place_id=ChIJgwCmcNrfwkcRfKjf2NOcN-c",
-    "open_hours_json": {
-      "Monday": [
-        "8:30 am–7 pm"
-      ],
-      "Tuesday": [
-        "8:30 am–7 pm"
-      ],
-      "Wednesday": [
-        "8:30 am–7 pm"
-      ],
-      "Thursday": [
-        "8:30 am–7 pm"
-      ],
-      "Friday": [
-        "8:30 am–7 pm"
-      ],
-      "Saturday": [
-        "8:30 am–7 pm"
-      ],
-      "Sunday": [
-        "10 am–12:30 pm"
-      ]
-    },
-    "review_count": 12,
-    "rating": 4.5,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Z1VsOzxO9zpqMtFIsRi7xg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=255.44987&pitch=-8.258521&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Z1VsOzxO9zpqMtFIsRi7xg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=255.44987&pitch=-8.258521&thumbfov=w1000-h750-no",
-    "source_query": "Hypermarket in Tournai, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJozkVmdUhw0cRWTcg-yF5dsc",
-    "name": "Epices du monde en tube",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tournai",
-    "address": "Epices du monde en tube, 7500 Tournai",
-    "street": null,
-    "postal_code": null,
-    "region": null,
-    "latitude": 50.5995911,
-    "longitude": 3.3743466,
-    "phone": "0476 22 06 33",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Epices%20du%20monde%20en%20tube&query_place_id=ChIJozkVmdUhw0cRWTcg-yF5dsc",
-    "open_hours_json": null,
-    "review_count": 0,
-    "rating": null,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcwdRdsC1xf_Sa2R4sDjkZtCiAOVktdL9Lqpr9zkajOEwf5XO1UFCZ_ZaEZ0RwfoEvI0kdQpgqvTy2h-apsO0k-vb2Q32kRPz3_2C84Oil876SAjYM_Vx91NEwxvU0m92-H5IeW=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcwdRdsC1xf_Sa2R4sDjkZtCiAOVktdL9Lqpr9zkajOEwf5XO1UFCZ_ZaEZ0RwfoEvI0kdQpgqvTy2h-apsO0k-vb2Q32kRPz3_2C84Oil876SAjYM_Vx91NEwxvU0m92-H5IeW=w1000-h750-no",
-    "source_query": "Hypermarket in Tournai, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ5VaGt3TfwkcRFKXgdSPeVVg",
-    "name": "Europa Cuisson",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tournai",
-    "address": "Europa Cuisson, Rue de la Terre A Briques 14, 7522 Tournai",
-    "street": "Rue de la Terre A Briques 14",
-    "postal_code": "7522",
-    "region": null,
-    "latitude": 50.610324899999995,
-    "longitude": 3.3340541,
-    "phone": "069 76 50 50",
-    "website": "http://www.europacuisson.com/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Europa%20Cuisson&query_place_id=ChIJ5VaGt3TfwkcRFKXgdSPeVVg",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdC9TOznWMF2GRLFlvK_ohNO-jidFK1zUyf1TvqLtT6zt9egAGUBvMGVs4SRKDKSxqHyK8AzQxEvd-2xef0eEAIg13DYqCLGhXh3YdWXPuI_u8uN5rHvQn_CbFMistLR1e9F6C5=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdC9TOznWMF2GRLFlvK_ohNO-jidFK1zUyf1TvqLtT6zt9egAGUBvMGVs4SRKDKSxqHyK8AzQxEvd-2xef0eEAIg13DYqCLGhXh3YdWXPuI_u8uN5rHvQn_CbFMistLR1e9F6C5=w1000-h750-no",
-    "rating": 4.0,
-    "review_count": 145,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
   }
 ]
