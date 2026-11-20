@@ -90,9 +90,11 @@
     },
     "PT": {
       "name": "Portugal",
-      "count": 738,
-      "file": "places_PT.json",
-      "updated_at": "2026-11-19T19:54:11.048756+00:00"
+      "count": 755,
+      "total_shards": 4,
+      "shards_dir": "shards/PT",
+      "cities_file": "shards/PT/cities.json",
+      "updated_at": "2026-11-20T00:51:27.029897+00:00"
     },
     "PL": {
       "name": "Poland",
@@ -107,6 +109,6 @@
       "updated_at": "2026-11-19T20:13:16.808679+00:00"
     }
   },
-  "updated_at": "2026-11-19T21:12:13.385440+00:00",
-  "total_places": 23989
+  "updated_at": "2026-11-20T00:51:27.029897+00:00",
+  "total_places": 24006
 }
