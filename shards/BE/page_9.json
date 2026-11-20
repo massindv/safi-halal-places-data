@@ -1,5 +1,60 @@
 [
   {
+    "place_id": "ChIJ-1vbcroFwkcRE8uooQ8xkUk",
+    "name": "La Petite Fourchette",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Chimay",
+    "address": "La Petite Fourchette, Rue van Humbeeck 20, 6460 Chimay",
+    "street": "Rue van Humbeeck 20",
+    "postal_code": "6460",
+    "region": null,
+    "latitude": 50.0478296,
+    "longitude": 4.3207333,
+    "phone": "060 73 04 43",
+    "website": "http://www.petitefourchette.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Petite%20Fourchette&query_place_id=ChIJ-1vbcroFwkcRE8uooQ8xkUk",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "11 am–2 pm",
+        "5–9:15 pm"
+      ],
+      "Wednesday": [
+        "11 am–2 pm",
+        "5–9:15 pm"
+      ],
+      "Thursday": [
+        "11 am–2 pm",
+        "5–9:15 pm"
+      ],
+      "Friday": [
+        "11 am–2 pm",
+        "5–9:45 pm"
+      ],
+      "Saturday": [
+        "11 am–2 pm",
+        "5–9:15 pm"
+      ],
+      "Sunday": [
+        "5–9:15 pm"
+      ]
+    },
+    "review_count": 319,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLflzI7-Hm826zZG9HCZSMm3P0NbOg_1-xZ1l_Jg685tJbi7z1I6oGeg2UJCGNDB18s2ePKAvXvdOb4HUMQEnVDzecGTfRxNgOxRFeCjN-FxyzQl6pZGqA3pq5n92GAr8tWLOtZN=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLflzI7-Hm826zZG9HCZSMm3P0NbOg_1-xZ1l_Jg685tJbi7z1I6oGeg2UJCGNDB18s2ePKAvXvdOb4HUMQEnVDzecGTfRxNgOxRFeCjN-FxyzQl6pZGqA3pq5n92GAr8tWLOtZN=w1000-h750-no",
+    "source_query": "Halal restaurant in Chimay, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJMUTPwyQFwkcRFjYitNgXrVY",
     "name": "La Planche du Cuistot",
     "type": "restaurant",
@@ -5962,6 +6017,32 @@
     "verification_evidence": "Explicit Halal keyword indicators in listing metadata"
   },
   {
+    "place_id": "ChIJs-yRZE0vwkcRZRPYOXBAQrc",
+    "name": "Le Parisien Gourmand",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Courcelles",
+    "address": "Le Parisien Gourmand, Rue Winston Churchill 3, 6180 Courcelles",
+    "street": "Rue Winston Churchill 3",
+    "postal_code": "6180",
+    "region": null,
+    "latitude": 50.460792899999994,
+    "longitude": 4.3805136,
+    "phone": "0470 17 01 55",
+    "website": "https://leparisien-gourmand.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Parisien%20Gourmand&query_place_id=ChIJs-yRZE0vwkcRZRPYOXBAQrc",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcPs6EqpXlSL234dpny6aItCfrOGOMo2UdLkisx2ybzQ5Gz5HbXuPCHwLICSyg3LCRLcJM2VI-BsJh1m_aUFkK5Qz0BS0SSDKD3kg632KG5OuFYi9uzSmCUskTgbru63sbB__Ki8jV5jBUf=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcPs6EqpXlSL234dpny6aItCfrOGOMo2UdLkisx2ybzQ5Gz5HbXuPCHwLICSyg3LCRLcJM2VI-BsJh1m_aUFkK5Qz0BS0SSDKD3kg632KG5OuFYi9uzSmCUskTgbru63sbB__Ki8jV5jBUf=w1000-h750-no",
+    "rating": 4.5,
+    "review_count": 54,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
     "place_id": "ChIJcV8fcbYxwkcR0aJINrvWIy4",
     "name": "Mosquée Assalam",
     "type": "mosque",
@@ -11828,109 +11909,6 @@
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdK_nySUIRTIv8X6cWiZEyTFl2R1f8aODSVvcniGR2kZWxbigftdgy5y8ya-Qxiw8-BtV3eer5hz5Sz7HHgrTlW7pv12wdr_wrTpK3j0C_EarnyZ6voKK9bJDSsHNBwfk_zdF5L=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdK_nySUIRTIv8X6cWiZEyTFl2R1f8aODSVvcniGR2kZWxbigftdgy5y8ya-Qxiw8-BtV3eer5hz5Sz7HHgrTlW7pv12wdr_wrTpK3j0C_EarnyZ6voKK9bJDSsHNBwfk_zdF5L=w1000-h750-no",
     "source_query": "Moroccan restaurant in Sint-Gillis-bij-Dendermonde, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJA1oKPjKRw0cRrpX_fWJx79U",
-    "name": "VillAroma",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Dendermonde",
-    "address": "VillAroma, Oude Vest 3, 9200 Dendermonde",
-    "street": "Oude Vest 3",
-    "postal_code": "9200",
-    "region": null,
-    "latitude": 51.028237499999996,
-    "longitude": 4.0994427,
-    "phone": "052 20 23 36",
-    "website": "https://www.villaroma-koffiebar.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=VillAroma&query_place_id=ChIJA1oKPjKRw0cRrpX_fWJx79U",
-    "open_hours_json": {
-      "Monday": [
-        "9 am–5 pm"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "9 am–5 pm"
-      ],
-      "Thursday": [
-        "9 am–5 pm"
-      ],
-      "Friday": [
-        "9 am–6 pm"
-      ],
-      "Saturday": [
-        "9 am–6 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 185,
-    "rating": 4.2,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeKePd_iOWGDy3QA_0J_jw82jBZA8gBYs57UnAa_baAGLD1T3SXWh4wKP3ifo4yZs7bBFc1T0Es_eV2nW78k2p4AAZ9gPGZQQVW9lfRlFHCZyQQIboWIdNptCn8tQ-bpXy8a6tL=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeKePd_iOWGDy3QA_0J_jw82jBZA8gBYs57UnAa_baAGLD1T3SXWh4wKP3ifo4yZs7bBFc1T0Es_eV2nW78k2p4AAZ9gPGZQQVW9lfRlFHCZyQQIboWIdNptCn8tQ-bpXy8a6tL=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Sint-Gillis-bij-Dendermonde, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJm7ZEFhCZw0cR1tUvIAVQI-c",
-    "name": "Violi Modern Italian Steak House",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Dendermonde",
-    "address": "Violi Modern Italian Steak House, Vrankrijkstraat 46, 9200 Dendermonde",
-    "street": "Vrankrijkstraat 46",
-    "postal_code": "9200",
-    "region": null,
-    "latitude": 50.997460999999994,
-    "longitude": 4.0203373,
-    "phone": "0465 60 65 42",
-    "website": "http://violi-resto.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Violi%20Modern%20Italian%20Steak%20House&query_place_id=ChIJm7ZEFhCZw0cR1tUvIAVQI-c",
-    "open_hours_json": {
-      "Monday": [
-        "6–10:30 pm"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "6–10:30 pm"
-      ],
-      "Thursday": [
-        "6–10:30 pm"
-      ],
-      "Friday": [
-        "12–2:30 pm",
-        "6–11 pm"
-      ],
-      "Saturday": [
-        "12–3 pm",
-        "6–11 pm"
-      ],
-      "Sunday": [
-        "12–2:30 pm",
-        "6–10 pm"
-      ]
-    },
-    "review_count": 153,
-    "rating": 4.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfSB8EQGkK0d-u3s3baUSPaR8G1mxyx4XMKrwzBjFrRueXJ5UKVpBTKIphkmlKQS-r_TwxLwmTJgxj7uyNIl8I1e82T0A8wZcQWBzSMmijB6lLykkGrVhjSFh1C99BFNISMsQbH=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfSB8EQGkK0d-u3s3baUSPaR8G1mxyx4XMKrwzBjFrRueXJ5UKVpBTKIphkmlKQS-r_TwxLwmTJgxj7uyNIl8I1e82T0A8wZcQWBzSMmijB6lLykkGrVhjSFh1C99BFNISMsQbH=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Dendermonde, Flanders, BE",
     "moderation_status": "approved",
     "is_active": true,
     "verification_status": "UNVERIFIED",
