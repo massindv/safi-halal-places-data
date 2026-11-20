@@ -1,5 +1,724 @@
 [
   {
+    "place_id": "ChIJdUFsJKq43EcRGsTTG-vmgos",
+    "name": "Frescana Lo",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Lo-Reninge",
+    "address": "Frescana Lo, Ooststraat 42, 8647 Lo-Reninge",
+    "street": "Ooststraat 42",
+    "postal_code": "8647",
+    "region": null,
+    "latitude": 50.981644599999996,
+    "longitude": 2.7518879999999997,
+    "phone": "058 28 82 63",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Frescana%20Lo&query_place_id=ChIJdUFsJKq43EcRGsTTG-vmgos",
+    "open_hours_json": {
+      "Monday": [
+        "8:30 am–12 pm",
+        "2–6 pm"
+      ],
+      "Tuesday": [
+        "8:30 am–12 pm",
+        "2–6 pm"
+      ],
+      "Wednesday": [
+        "8:30 am–12 pm",
+        "2–6 pm"
+      ],
+      "Thursday": [
+        "8:30 am–12 pm",
+        "2–6 pm"
+      ],
+      "Friday": [
+        "8:30 am–12 pm",
+        "2–6 pm"
+      ],
+      "Saturday": [
+        "8:30 am–12 pm",
+        "2–6 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 79,
+    "rating": 3.9,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfNQnGrEyFpTrm1rNFUeicKuRRjBHYugcO4QD4BoZodF1D5wlubC8fiRBAOLnf6Cb4XXg2_r0mjmH0fVE7VLqcQVJeJfv7xGMPGNbHlorJberxdn8cEjERR58SMDxD-rt5KwOZK=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfNQnGrEyFpTrm1rNFUeicKuRRjBHYugcO4QD4BoZodF1D5wlubC8fiRBAOLnf6Cb4XXg2_r0mjmH0fVE7VLqcQVJeJfv7xGMPGNbHlorJberxdn8cEjERR58SMDxD-rt5KwOZK=w1000-h750-no",
+    "source_query": "Hypermarket in Reninge, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJx6y4mqq43EcROfVF3wp_x6w",
+    "name": "Gasthof De Zwaan",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Lo-Reninge",
+    "address": "Gasthof De Zwaan, Breydelstraat 1, 8647 Lo-Reninge",
+    "street": "Breydelstraat 1",
+    "postal_code": "8647",
+    "region": null,
+    "latitude": 50.980640099999995,
+    "longitude": 2.7487437,
+    "phone": "058 28 78 70",
+    "website": "http://www.gasthof-dezwaan.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Gasthof%20De%20Zwaan&query_place_id=ChIJx6y4mqq43EcROfVF3wp_x6w",
+    "open_hours_json": {
+      "Monday": [
+        "7:30 am–10 pm"
+      ],
+      "Tuesday": [
+        "7:30 am–2:30 pm"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "7:30 am–10 pm"
+      ],
+      "Friday": [
+        "7:30 am–10 pm"
+      ],
+      "Saturday": [
+        "7:30 am–10 pm"
+      ],
+      "Sunday": [
+        "7:30 am–10 pm"
+      ]
+    },
+    "review_count": 362,
+    "rating": 3.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfEVL2rzIzRFmaFkiPPZZKCowJMjOVZBHUpVfzsvgn1OtNvGNiLIZjZPOkBO4V24R_8emtQgdbP194gtSr2iRpzBd9NdkU9RtMiXIQIPcfv2PHLZXXgJOnR4FHwSumOWxZozwHhWw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfEVL2rzIzRFmaFkiPPZZKCowJMjOVZBHUpVfzsvgn1OtNvGNiLIZjZPOkBO4V24R_8emtQgdbP194gtSr2iRpzBd9NdkU9RtMiXIQIPcfv2PHLZXXgJOnR4FHwSumOWxZozwHhWw=w1000-h750-no",
+    "source_query": "Fish restaurant in Reninge, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJO-jn2gfH3EcRZq34yWpYt8A",
+    "name": "l'Heritage Reninge",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Lo-Reninge",
+    "address": "l'Heritage Reninge, Dorpplaats 15, 8647 Lo-Reninge",
+    "street": "Dorpplaats 15",
+    "postal_code": "8647",
+    "region": null,
+    "latitude": 50.9481506,
+    "longitude": 2.7903606,
+    "phone": "0497 42 16 94",
+    "website": "http://www.lheritage.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=l%27Heritage%20Reninge&query_place_id=ChIJO-jn2gfH3EcRZq34yWpYt8A",
+    "open_hours_json": null,
+    "review_count": 152,
+    "rating": 4.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdU51HePP6hz-26kHYw1NiS2UfnwhWLrnO9QciA4qtq-Rw_sRfmmsH4cCAC_aLNp6v-CkFfU6T527AkdfSvDC5Mkws4EMQVMieBfcZZ5byTt9gQVDUTGNiRbomMjmB7tNUSRIyM4A=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdU51HePP6hz-26kHYw1NiS2UfnwhWLrnO9QciA4qtq-Rw_sRfmmsH4cCAC_aLNp6v-CkFfU6T527AkdfSvDC5Mkws4EMQVMieBfcZZ5byTt9gQVDUTGNiRbomMjmB7tNUSRIyM4A=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Reninge, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJB5q7f5g7wkcRe-6RyoBxs_s",
+    "name": "Antique & Deco * Exotic Boutique New Age *",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Lobbes",
+    "address": "Antique & Deco * Exotic Boutique New Age *, Rue d'Anderlues 68, 6540 Lobbes",
+    "street": "Rue d'Anderlues 68",
+    "postal_code": "6540",
+    "region": null,
+    "latitude": 50.372951,
+    "longitude": 4.2761696,
+    "phone": "0476 87 06 64",
+    "website": "http://www.deco-antique.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Antique%20%26%20Deco%20%2A%20Exotic%20Boutique%20New%20Age%20%2A&query_place_id=ChIJB5q7f5g7wkcRe-6RyoBxs_s",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "1–6 pm"
+      ],
+      "Friday": [
+        "1–6 pm"
+      ],
+      "Saturday": [
+        "1–6 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 445,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeHsstR0G2amkGBrvq3SwfPx-D9-jVMBTun4vy8lWxWtxgnCJyhMmgM2SBfgj7sMg5cpDcO4aY8_sNwCsLVGp7TKoYZtT8lykokQlgrPjDmuXBmK7A04VPHiZ0mF5UdKLvLWNr67A=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeHsstR0G2amkGBrvq3SwfPx-D9-jVMBTun4vy8lWxWtxgnCJyhMmgM2SBfgj7sMg5cpDcO4aY8_sNwCsLVGp7TKoYZtT8lykokQlgrPjDmuXBmK7A04VPHiZ0mF5UdKLvLWNr67A=w1000-h750-no",
+    "source_query": "Fish restaurant in Thuin, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJU_MSNYc7wkcRr6689uJAPTc",
+    "name": "Ferme du champ du Loup",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Lobbes",
+    "address": "Ferme du champ du Loup, Rue du Champ du Loup 14, 6540 Lobbes",
+    "street": "Rue du Champ du Loup 14",
+    "postal_code": "6540",
+    "region": null,
+    "latitude": 50.353718799999996,
+    "longitude": 4.2763187,
+    "phone": "0494 19 87 14",
+    "website": "http://www.lafermeduchampduloup.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ferme%20du%20champ%20du%20Loup&query_place_id=ChIJU_MSNYc7wkcRr6689uJAPTc",
+    "open_hours_json": {
+      "Monday": [
+        "9 am–7 pm"
+      ],
+      "Tuesday": [
+        "9 am–7 pm"
+      ],
+      "Wednesday": [
+        "4–7 pm"
+      ],
+      "Thursday": [
+        "Closed"
+      ],
+      "Friday": [
+        "9 am–7 pm"
+      ],
+      "Saturday": [
+        "9 am–7 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 90,
+    "rating": 4.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcrC2YqwMr6f30XNWSPAKfhyOGfqWd6hh7SdRgeGBNmuBUMEBYaTbP_8j50sTDFfyXkHwgvm85ecMiCg_xjCUrEyyzH0RomRTK32eZI84NENjMX8i2iiLuQiFFw6Gg3gWUAuNE64Q=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcrC2YqwMr6f30XNWSPAKfhyOGfqWd6hh7SdRgeGBNmuBUMEBYaTbP_8j50sTDFfyXkHwgvm85ecMiCg_xjCUrEyyzH0RomRTK32eZI84NENjMX8i2iiLuQiFFw6Gg3gWUAuNE64Q=w1000-h750-no",
+    "source_query": "Fish restaurant in Thuin, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJd2FQL488wkcRteu47h546tU",
+    "name": "Le P'tit Montagnard",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Lobbes",
+    "address": "Le P'tit Montagnard, Rue de Binche 46, 6540 Lobbes",
+    "street": "Rue de Binche 46",
+    "postal_code": "6540",
+    "region": null,
+    "latitude": 50.373194899999994,
+    "longitude": 4.2399284999999995,
+    "phone": "0476 65 50 89",
+    "website": "https://www.facebook.com/restaurantleptitmontagnard",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20P%27tit%20Montagnard&query_place_id=ChIJd2FQL488wkcRteu47h546tU",
+    "open_hours_json": {
+      "Monday": [
+        "12–2 pm",
+        "6–9 pm"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "12–2 pm",
+        "6–9 pm"
+      ],
+      "Thursday": [
+        "12–2 pm",
+        "6–9 pm"
+      ],
+      "Friday": [
+        "12–2 pm",
+        "6–9 pm"
+      ],
+      "Saturday": [
+        "6–9 pm"
+      ],
+      "Sunday": [
+        "12–4 pm"
+      ]
+    },
+    "review_count": 207,
+    "rating": 4.4,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeLXmqzGl32986Wrt64RkgM2g91IappSBzB6ezjEo58QyJOh7VoC6p8oZ8C7sR4v7QHlmRa909KpdAE3dlxu8yTqc7tagggVkAb8wCO838q8zn9CLOKoBpauoNCuETiZzMZf6Y8Gg=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeLXmqzGl32986Wrt64RkgM2g91IappSBzB6ezjEo58QyJOh7VoC6p8oZ8C7sR4v7QHlmRa909KpdAE3dlxu8yTqc7tagggVkAb8wCO838q8zn9CLOKoBpauoNCuETiZzMZf6Y8Gg=w1000-h750-no",
+    "source_query": "Fish restaurant in Thuin, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJCSJfSCiFw0cRzIywinnp4zs",
+    "name": "'t Vier Emmershof",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Lokeren",
+    "address": "'t Vier Emmershof, Krommestraat 1, 9160 Lokeren",
+    "street": "Krommestraat 1",
+    "postal_code": "9160",
+    "region": null,
+    "latitude": 51.119649499999994,
+    "longitude": 4.0005790999999995,
+    "phone": "09 348 63 98",
+    "website": "https://vieremmershof.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%27t%20Vier%20Emmershof&query_place_id=ChIJCSJfSCiFw0cRzIywinnp4zs",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "12–4 pm",
+        "7 pm–12 am"
+      ],
+      "Thursday": [
+        "12–4 pm",
+        "7 pm–12 am"
+      ],
+      "Friday": [
+        "12–4 pm",
+        "7 pm–12 am"
+      ],
+      "Saturday": [
+        "7 pm–12 am"
+      ],
+      "Sunday": [
+        "12–5 pm"
+      ]
+    },
+    "review_count": 776,
+    "rating": 4.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdTTYyA0hMWypcvHFEYbGleB0VAqTQh7XCSQPHcAqoofynrXKi26ticjtJ9lppwBgV42m8qG8OLrz0ifDL7CAh7ehhD3SQMKu8YGfGX0GFp73daYMPkjMWjoyKwXQZfOQH9dqD43g=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdTTYyA0hMWypcvHFEYbGleB0VAqTQh7XCSQPHcAqoofynrXKi26ticjtJ9lppwBgV42m8qG8OLrz0ifDL7CAh7ehhD3SQMKu8YGfGX0GFp73daYMPkjMWjoyKwXQZfOQH9dqD43g=w1000-h750-no",
+    "source_query": "Halal restaurant in Lokeren, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJw4A_Pyibw0cRlf5mSxhhawY",
+    "name": "'t Vitamieneken",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Lokeren",
+    "address": "'t Vitamieneken, Zand 10, 9160 Lokeren",
+    "street": "Zand 10",
+    "postal_code": "9160",
+    "region": null,
+    "latitude": 51.102555699999996,
+    "longitude": 3.9946957,
+    "phone": "0474 49 49 77",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%27t%20Vitamieneken&query_place_id=ChIJw4A_Pyibw0cRlf5mSxhhawY",
+    "open_hours_json": {
+      "Monday": [
+        "8:30 am–6 pm"
+      ],
+      "Tuesday": [
+        "8:30 am–6 pm"
+      ],
+      "Wednesday": [
+        "8:30 am–6 pm"
+      ],
+      "Thursday": [
+        "8:30 am–12 pm"
+      ],
+      "Friday": [
+        "8:30 am–6 pm"
+      ],
+      "Saturday": [
+        "8:30 am–12 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 9,
+    "rating": 4.3,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2RkSxewE5F8jK24OtW07eQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=340.9844&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2RkSxewE5F8jK24OtW07eQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=340.9844&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Hypermarket in Lokeren, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJJYBOfNeaw0cRX6t20WKShzE",
+    "name": "AGROUM B.V.B.A",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Lokeren",
+    "address": "AGROUM B.V.B.A, Zelestraat 5, 9160 Lokeren",
+    "street": "Zelestraat 5",
+    "postal_code": "9160",
+    "region": null,
+    "latitude": 51.1020087,
+    "longitude": 3.9961040999999997,
+    "phone": "09 339 11 15",
+    "website": "http://www.agroum.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=AGROUM%20B.V.B.A&query_place_id=ChIJJYBOfNeaw0cRX6t20WKShzE",
+    "open_hours_json": {
+      "Monday": [
+        "10 am–4 pm"
+      ],
+      "Tuesday": [
+        "10 am–4 pm"
+      ],
+      "Wednesday": [
+        "10 am–4 pm"
+      ],
+      "Thursday": [
+        "10 am–4 pm"
+      ],
+      "Friday": [
+        "10 am–1 pm"
+      ],
+      "Saturday": [
+        "Closed"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 0,
+    "rating": null,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=BXCfLVzmPPQlnye-Zf8RMw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=275.11026&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=BXCfLVzmPPQlnye-Zf8RMw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=275.11026&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Pharmacy in Lokeren, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJRaZAMSabw0cRlpYAUT1yRV8",
+    "name": "Aardappel Automaat",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Lokeren",
+    "address": "Aardappel Automaat, Veldstraat 25, 9160 Lokeren",
+    "street": "Veldstraat 25",
+    "postal_code": "9160",
+    "region": null,
+    "latitude": 51.0999026,
+    "longitude": 3.9921322999999997,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Aardappel%20Automaat&query_place_id=ChIJRaZAMSabw0cRlpYAUT1yRV8",
+    "open_hours_json": null,
+    "review_count": 1,
+    "rating": 5.0,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ul4LBnBrWJqfmEd-VQO5FQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=188.6112&pitch=5.9029727&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ul4LBnBrWJqfmEd-VQO5FQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=188.6112&pitch=5.9029727&thumbfov=w1000-h750-no",
+    "source_query": "Hypermarket in Lokeren, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJsU2XI4CFw0cReQCwZoqNQrE",
+    "name": "Acupunctuur Elke Bundervoet",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Lokeren",
+    "address": "Acupunctuur Elke Bundervoet, Karrestraat 57, 9160 Lokeren",
+    "street": "Karrestraat 57",
+    "postal_code": "9160",
+    "region": null,
+    "latitude": 51.117495399999996,
+    "longitude": 3.998992,
+    "phone": "0475 36 58 11",
+    "website": "http://www.acupunctuur-elke.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Acupunctuur%20Elke%20Bundervoet&query_place_id=ChIJsU2XI4CFw0cReQCwZoqNQrE",
+    "open_hours_json": {
+      "Monday": [
+        "9 am–7 pm"
+      ],
+      "Tuesday": [
+        "9 am–8 pm"
+      ],
+      "Wednesday": [
+        "9 am–8 pm"
+      ],
+      "Thursday": [
+        "1–7:30 pm"
+      ],
+      "Friday": [
+        "9 am–6 pm"
+      ],
+      "Saturday": [
+        "Closed"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 14,
+    "rating": 4.9,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfE_MJBJ7iSuvihDz1kc4Gaz39UdUb8avsPO3DOv44w13AiK3W-ELFbd_EbcxgDEFkjMIwPYXsEbLyYcOAx154RvlrRp1YL1f29Ljjgj3I_KPjwozCNetrMDpR6-l4ksY_pYZA_=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfE_MJBJ7iSuvihDz1kc4Gaz39UdUb8avsPO3DOv44w13AiK3W-ELFbd_EbcxgDEFkjMIwPYXsEbLyYcOAx154RvlrRp1YL1f29Ljjgj3I_KPjwozCNetrMDpR6-l4ksY_pYZA_=w1000-h750-no",
+    "source_query": "Pharmacy in Lokeren, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJsZNt89eaw0cRmVaGZpmz-sE",
+    "name": "Alderande vzw",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Lokeren",
+    "address": "Alderande vzw, Kerkstraat 9 AB01, 9160 Lokeren",
+    "street": "Kerkstraat 9 AB01",
+    "postal_code": "9160",
+    "region": null,
+    "latitude": 51.1036875,
+    "longitude": 3.9927603,
+    "phone": "09 349 54 49",
+    "website": "http://www.alderande.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Alderande%20vzw&query_place_id=ChIJsZNt89eaw0cRmVaGZpmz-sE",
+    "open_hours_json": {
+      "Monday": [
+        "10 am–4:30 pm"
+      ],
+      "Tuesday": [
+        "10 am–4:30 pm"
+      ],
+      "Wednesday": [
+        "10 am–4:30 pm"
+      ],
+      "Thursday": [
+        "10 am–4:30 pm"
+      ],
+      "Friday": [
+        "10 am–4:30 pm"
+      ],
+      "Saturday": [
+        "Closed"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 95,
+    "rating": 4.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdP14Z9m4Sl1izzVYqp7Cfd0WMhc05lMNcu2di9UL7oKi0zKoBUX6gA8R0VfShRduSm5YigBYHuoxooB02NqiiLid4k1CU3KbZV43k6wXwbXFjjEC6fAyTqjV9CVJEXulnpsR73=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdP14Z9m4Sl1izzVYqp7Cfd0WMhc05lMNcu2di9UL7oKi0zKoBUX6gA8R0VfShRduSm5YigBYHuoxooB02NqiiLid4k1CU3KbZV43k6wXwbXFjjEC6fAyTqjV9CVJEXulnpsR73=w1000-h750-no",
+    "source_query": "Fish restaurant in Lokeren, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJB96yv6ubw0cRCk0bkSKHMgs",
+    "name": "Aslanbey Sofrasi",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Lokeren",
+    "address": "Aslanbey Sofrasi, Groentemarkt 28, 9160 Lokeren",
+    "street": "Groentemarkt 28",
+    "postal_code": "9160",
+    "region": null,
+    "latitude": 51.1037375,
+    "longitude": 3.9891284999999996,
+    "phone": "09 273 54 21",
+    "website": "https://qr.wwwcafe.de/2025/08/12/yaseminin-yeri-restaurant/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Aslanbey%20Sofrasi&query_place_id=ChIJB96yv6ubw0cRCk0bkSKHMgs",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "10 am–10 pm"
+      ],
+      "Wednesday": [
+        "10 am–10 pm"
+      ],
+      "Thursday": [
+        "10 am–10 pm"
+      ],
+      "Friday": [
+        "10 am–11 pm"
+      ],
+      "Saturday": [
+        "10 am–11 pm"
+      ],
+      "Sunday": [
+        "10 am–10 pm"
+      ]
+    },
+    "review_count": 422,
+    "rating": 4.2,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcO9u-EDT8l6wTkSgGd3vJLqIOWIyr8dLxWHXaKsO7CNnoPk-Jqf2c-6c-06CkeVlgWmuv3vp9brH5G3ZZ9dbyLjHaE-CNx0zHzH8FdGWAYcU36UiVBnqS8DigGC1wBCwzLfmvHq9XxOFsi=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcO9u-EDT8l6wTkSgGd3vJLqIOWIyr8dLxWHXaKsO7CNnoPk-Jqf2c-6c-06CkeVlgWmuv3vp9brH5G3ZZ9dbyLjHaE-CNx0zHzH8FdGWAYcU36UiVBnqS8DigGC1wBCwzLfmvHq9XxOFsi=w1000-h750-no",
+    "source_query": "Halal restaurant in Lokeren, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJc60rXUuFw0cRZZdTURxLTDU",
+    "name": "Atlas Osteopathie Lokeren",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Lokeren",
+    "address": "Atlas Osteopathie Lokeren, Heilige Geestmolenstraat 67, Gentse Steenweg 115, 9160 Lokeren",
+    "street": "Heilige Geestmolenstraat 67, Gentse Steenweg 115",
+    "postal_code": "9160",
+    "region": null,
+    "latitude": 51.114810899999995,
+    "longitude": 3.9726277,
+    "phone": null,
+    "website": "https://osteopaat-lokeren.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Atlas%20Osteopathie%20Lokeren&query_place_id=ChIJc60rXUuFw0cRZZdTURxLTDU",
+    "open_hours_json": {
+      "Monday": [
+        "8 am–10 pm"
+      ],
+      "Tuesday": [
+        "8 am–10 pm"
+      ],
+      "Wednesday": [
+        "8 am–10 pm"
+      ],
+      "Thursday": [
+        "8 am–10 pm"
+      ],
+      "Friday": [
+        "8 am–10 pm"
+      ],
+      "Saturday": [
+        "8 am–2 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 0,
+    "rating": null,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=BvNkbWjTb_NjScR8Sa_Hnw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=49.806534&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=BvNkbWjTb_NjScR8Sa_Hnw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=49.806534&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Pharmacy in Lokeren, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ3-FbVY2bw0cR1rv45ciSnMM",
+    "name": "Bereket Market",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Lokeren",
+    "address": "Bereket Market, Zand 6a, 9160 Lokeren",
+    "street": "Zand 6a",
+    "postal_code": "9160",
+    "region": null,
+    "latitude": 51.102518599999996,
+    "longitude": 3.9945819,
+    "phone": "0465 93 61 90",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bereket%20Market&query_place_id=ChIJ3-FbVY2bw0cR1rv45ciSnMM",
+    "open_hours_json": {
+      "Monday": [
+        "8:30 am–8:30 pm"
+      ],
+      "Tuesday": [
+        "8:30 am–8:30 pm"
+      ],
+      "Wednesday": [
+        "8:30 am–8:30 pm"
+      ],
+      "Thursday": [
+        "Closed"
+      ],
+      "Friday": [
+        "8:30 am–8:30 pm"
+      ],
+      "Saturday": [
+        "8:30 am–8:30 pm"
+      ],
+      "Sunday": [
+        "8:30 am–8:30 pm"
+      ]
+    },
+    "review_count": 45,
+    "rating": 4.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf9G_jOGXq1_jaVPrPlFDxugvq9XshvLrzwAUbxa1rjNzV-IOydlXX9CAaBkEGJH5lOmLNCBDs7c1LvSABdFsswgALs5SCDXi-ZwDUu4-T_HKcOJiyHrun8zZC3QEdflJluX5pA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf9G_jOGXq1_jaVPrPlFDxugvq9XshvLrzwAUbxa1rjNzV-IOydlXX9CAaBkEGJH5lOmLNCBDs7c1LvSABdFsswgALs5SCDXi-ZwDUu4-T_HKcOJiyHrun8zZC3QEdflJluX5pA=w1000-h750-no",
+    "source_query": "Hypermarket in Lokeren, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJPdW3zC2bw0cRQQMgbks2nL4",
     "name": "Bistro Vienna",
     "type": "restaurant",
@@ -10915,675 +11634,6 @@
     "rating": 4.8,
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeuwsu7mRY_2z1o8tusr4e7pMED8o0rdvPoN3__dXSc-A5qF4XLMxOFpxXP5uhAVQtsRsKTQrjJBFmS-Vzc08lb_TGJUFOVwFwace0iYDh0U7VnG6yOAERURcZGjwvde_jKdWvmkQ=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeuwsu7mRY_2z1o8tusr4e7pMED8o0rdvPoN3__dXSc-A5qF4XLMxOFpxXP5uhAVQtsRsKTQrjJBFmS-Vzc08lb_TGJUFOVwFwace0iYDh0U7VnG6yOAERURcZGjwvde_jKdWvmkQ=w1000-h750-no",
-    "source_query": "Fish restaurant in Malmédy, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJNT_73Qd8wEcRXPFG5_oOgmk",
-    "name": "Hostellerie de la Chapelle",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Malmedy",
-    "address": "Hostellerie de la Chapelle, Rte d'Eupen 35, 4960 Malmedy",
-    "street": "Rte d'Eupen 35",
-    "postal_code": "4960",
-    "region": null,
-    "latitude": 50.441702799999995,
-    "longitude": 6.039463899999999,
-    "phone": "080 33 08 65",
-    "website": "http://www.hostellerie-de-la-chapelle.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Hostellerie%20de%20la%20Chapelle&query_place_id=ChIJNT_73Qd8wEcRXPFG5_oOgmk",
-    "open_hours_json": null,
-    "review_count": 405,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeTqUI5mYHOsBKm3P5p4zb3TsubECFeLBzpxlWz7CtA9vEVnatId90ZRC6gYM6aScdS0SIxGgi31mEIqeRzMa0vDBtyDO8VXKEd11I7WBJOjykb-pZoX6oJTHzeXKAz2AolS0i4=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeTqUI5mYHOsBKm3P5p4zb3TsubECFeLBzpxlWz7CtA9vEVnatId90ZRC6gYM6aScdS0SIxGgi31mEIqeRzMa0vDBtyDO8VXKEd11I7WBJOjykb-pZoX6oJTHzeXKAz2AolS0i4=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Malmédy, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJk1qATCV7wEcRyQMCwpB5Izk",
-    "name": "L'Endroit",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Malmedy",
-    "address": "L'Endroit, Pl. Albert Ier 42, 4960 Malmedy",
-    "street": "Pl. Albert Ier 42",
-    "postal_code": "4960",
-    "region": null,
-    "latitude": 50.4257012,
-    "longitude": 6.0283603,
-    "phone": "080 40 05 96",
-    "website": "https://www.endroit-malmedy.com/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=L%27Endroit&query_place_id=ChIJk1qATCV7wEcRyQMCwpB5Izk",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "9 am–9:30 pm"
-      ],
-      "Wednesday": [
-        "9 am–9:30 pm"
-      ],
-      "Thursday": [
-        "9 am–9:30 pm"
-      ],
-      "Friday": [
-        "9 am–9:30 pm"
-      ],
-      "Saturday": [
-        "9 am–9:30 pm"
-      ],
-      "Sunday": [
-        "9 am–9:30 pm"
-      ]
-    },
-    "review_count": 1042,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc557I4R3bEV-A74i4O04EiobwHBbNhu116f35obWoZhK7c0AcYPV3-qzgeEPtT8VGdDVfnqVmYEbgumNzvbTodBc2GblxDray34Tp_tG9OVuRTBx45OY5a8qkqyH3RlZu9o56XLQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc557I4R3bEV-A74i4O04EiobwHBbNhu116f35obWoZhK7c0AcYPV3-qzgeEPtT8VGdDVfnqVmYEbgumNzvbTodBc2GblxDray34Tp_tG9OVuRTBx45OY5a8qkqyH3RlZu9o56XLQ=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Malmédy, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJqVX-Zex7wEcR9y9EH_KgJko",
-    "name": "L'Esprit Sain",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Malmedy",
-    "address": "L'Esprit Sain, Chemin-Rue 46, 4960 Malmedy",
-    "street": "Chemin-Rue 46",
-    "postal_code": "4960",
-    "region": null,
-    "latitude": 50.425888099999995,
-    "longitude": 6.026393,
-    "phone": "080 33 03 14",
-    "website": "http://www.espritsain.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=L%27Esprit%20Sain&query_place_id=ChIJqVX-Zex7wEcR9y9EH_KgJko",
-    "open_hours_json": null,
-    "review_count": 309,
-    "rating": 4.4,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW2SS3NY3I2iFNx3vNS17VMjfaJ09roMgnHUgjdPNMON5fBdS-veqg92dqGIoUWQNgmCLqovvNBSstBZLcmeDhJC9SGiy4GCRPPPONInL9GKduuHMUzM0okF6JtuBkMmaLEXsGXavIaAfRSVxK0TKXc32oIB1mbOkveKHeZ9Io3imfEFaL0bO-6dJw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW2SS3NY3I2iFNx3vNS17VMjfaJ09roMgnHUgjdPNMON5fBdS-veqg92dqGIoUWQNgmCLqovvNBSstBZLcmeDhJC9SGiy4GCRPPPONInL9GKduuHMUzM0okF6JtuBkMmaLEXsGXavIaAfRSVxK0TKXc32oIB1mbOkveKHeZ9Io3imfEFaL0bO-6dJw=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Malmédy, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJi3PQyO57wEcRhKkaY3M8gqU",
-    "name": "L'Oriental",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Malmedy",
-    "address": "L'Oriental, Rue du Commerce 3, 4960 Malmedy",
-    "street": "Rue du Commerce 3",
-    "postal_code": "4960",
-    "region": null,
-    "latitude": 50.4254951,
-    "longitude": 6.0303534999999995,
-    "phone": "080 78 58 98",
-    "website": "https://www.facebook.com/pages/Loriental/290756728434237",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=L%27Oriental&query_place_id=ChIJi3PQyO57wEcRhKkaY3M8gqU",
-    "open_hours_json": null,
-    "review_count": 9,
-    "rating": 3.6,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=BRYD2i7gGF1oWnvqdaST6w&cb_client=search.gws-prod.grass&w=80&h=92&yaw=23.178905&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=BRYD2i7gGF1oWnvqdaST6w&cb_client=search.gws-prod.grass&w=80&h=92&yaw=23.178905&pitch=0&thumbfov=w1000-h750-no",
-    "source_query": "Halal restaurant in Malmédy, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJx1AgN0J5wEcRiF-uXB8avAg",
-    "name": "La Boulinière",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Malmedy",
-    "address": "La Boulinière, Chem. du Château 9, 4960 Malmedy",
-    "street": "Chem. du Château 9",
-    "postal_code": "4960",
-    "region": null,
-    "latitude": 50.4196424,
-    "longitude": 6.0638007,
-    "phone": "0498 36 43 30",
-    "website": "http://www.bouliniere.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Boulini%C3%A8re&query_place_id=ChIJx1AgN0J5wEcRiF-uXB8avAg",
-    "open_hours_json": null,
-    "review_count": 250,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe3bYB6R-97Ov5vRDmpj_iyYg3jxlvHwVCzMXnwA3fzmY-VHgDgowKwaDGTVXl668zQXvAKZFZYIRXn4QvlohUrY-6XgZhW1XpomE9kIVYyQmwFeGlIp8gyW5UeCIoY46HyvZEJ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe3bYB6R-97Ov5vRDmpj_iyYg3jxlvHwVCzMXnwA3fzmY-VHgDgowKwaDGTVXl668zQXvAKZFZYIRXn4QvlohUrY-6XgZhW1XpomE9kIVYyQmwFeGlIp8gyW5UeCIoY46HyvZEJ=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Malmédy, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJyUv8ypV7wEcRw8ow_9NBuZw",
-    "name": "La Dona Trattoria",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Malmedy",
-    "address": "La Dona Trattoria, Av. des Alliés 17, 4960 Malmedy",
-    "street": "Av. des Alliés 17",
-    "postal_code": "4960",
-    "region": null,
-    "latitude": 50.424537199999996,
-    "longitude": 6.0217504,
-    "phone": "0491 30 41 16",
-    "website": "https://www.facebook.com/La-Dona-Trattoria-1824975564479822/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Dona%20Trattoria&query_place_id=ChIJyUv8ypV7wEcRw8ow_9NBuZw",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "11:30 am–2 pm",
-        "5:30–8:30 pm"
-      ],
-      "Thursday": [
-        "11:30 am–2 pm",
-        "5:30–8:30 pm"
-      ],
-      "Friday": [
-        "11:30 am–2 pm",
-        "5:30–8:30 pm"
-      ],
-      "Saturday": [
-        "11:30 am–2 pm",
-        "5:30–8:30 pm"
-      ],
-      "Sunday": [
-        "11:30 am–2 pm",
-        "5:30–8:30 pm"
-      ]
-    },
-    "review_count": 403,
-    "rating": 4.4,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfGZiNGBfHYmUV5uvY_C_LFdBiOIVRCltEgo7m4xOcHnzUprgvSDdV-947JyG0_hDttidq0HMyHxaTLudgDFA1jilaWBFDBU14G9i4IWpnvB9unTl_a_VSv9bH-9HQMNwBKF15X=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfGZiNGBfHYmUV5uvY_C_LFdBiOIVRCltEgo7m4xOcHnzUprgvSDdV-947JyG0_hDttidq0HMyHxaTLudgDFA1jilaWBFDBU14G9i4IWpnvB9unTl_a_VSv9bH-9HQMNwBKF15X=w1000-h750-no",
-    "source_query": "Fish restaurant in Malmédy, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJMXCvcEd6wEcRaXqmwRDkZGU",
-    "name": "Lac Du Menhir",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Malmedy",
-    "address": "Lac Du Menhir, Lasnenville 15, 4960 Malmedy",
-    "street": "Lasnenville 15",
-    "postal_code": "4960",
-    "region": null,
-    "latitude": 50.386754599999996,
-    "longitude": 6.013562599999999,
-    "phone": "0477 60 38 37",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Lac%20Du%20Menhir&query_place_id=ChIJMXCvcEd6wEcRaXqmwRDkZGU",
-    "open_hours_json": {
-      "Monday": [
-        "7 am–7 pm"
-      ],
-      "Tuesday": [
-        "7 am–7 pm"
-      ],
-      "Wednesday": [
-        "7 am–7 pm"
-      ],
-      "Thursday": [
-        "7 am–7 pm"
-      ],
-      "Friday": [
-        "7 am–7 pm"
-      ],
-      "Saturday": [
-        "7 am–7 pm"
-      ],
-      "Sunday": [
-        "7 am–7 pm"
-      ]
-    },
-    "review_count": 139,
-    "rating": 3.8,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLevMokQiE3ijQt-iEf9KTbiT687848_YgxIdXOQ2zCWG4vaNAJRILtNTfASduHB7Kyf4e1sPhNeNAhw0h46AMUeG3oqm8Hz9YBNrGlwVzlMQZdmdnYFNK4A-UBv39YmQp-IKDLp=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLevMokQiE3ijQt-iEf9KTbiT687848_YgxIdXOQ2zCWG4vaNAJRILtNTfASduHB7Kyf4e1sPhNeNAhw0h46AMUeG3oqm8Hz9YBNrGlwVzlMQZdmdnYFNK4A-UBv39YmQp-IKDLp=w1000-h750-no",
-    "source_query": "Fish restaurant in Malmédy, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJfy-_BAx8wEcRiLSXFyCctJE",
-    "name": "Le Marie-Catherine",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Malmedy",
-    "address": "Le Marie-Catherine, Rte de la Frm Libert 33, 4960 Malmedy",
-    "street": "Rte de la Frm Libert 33",
-    "postal_code": "4960",
-    "region": null,
-    "latitude": 50.446111099999996,
-    "longitude": 6.0325,
-    "phone": "080 78 51 69",
-    "website": "http://www.lemariecatherine.com/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Marie-Catherine&query_place_id=ChIJfy-_BAx8wEcRiLSXFyCctJE",
-    "open_hours_json": null,
-    "review_count": 262,
-    "rating": 4.2,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe2TSAlWw1zRqsWLW7MgNYvVZXoPZr-TN01hRtmwi1EBwrjtKyI_tW58yD-j2GoWMMwxNaxGcvvXmdSIHXoBbf92I2elDGwu6vbyW1HRmhJie0iQqBl8I9t4R-BxeAsJE8PnYP_7ehIrQXf=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe2TSAlWw1zRqsWLW7MgNYvVZXoPZr-TN01hRtmwi1EBwrjtKyI_tW58yD-j2GoWMMwxNaxGcvvXmdSIHXoBbf92I2elDGwu6vbyW1HRmhJie0iQqBl8I9t4R-BxeAsJE8PnYP_7ehIrQXf=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Malmédy, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJyUv8ypV7wEcRv57Fr6GPWh0",
-    "name": "Le Sparta",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Malmedy",
-    "address": "Le Sparta, Av. des Alliés 23, 4960 Malmedy",
-    "street": "Av. des Alliés 23",
-    "postal_code": "4960",
-    "region": null,
-    "latitude": 50.4244324,
-    "longitude": 6.021411,
-    "phone": "080 33 91 11",
-    "website": "https://ausparta.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Sparta&query_place_id=ChIJyUv8ypV7wEcRv57Fr6GPWh0",
-    "open_hours_json": {
-      "Monday": [
-        "5:30–10 pm"
-      ],
-      "Tuesday": [
-        "5:30–10 pm"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "Closed"
-      ],
-      "Friday": [
-        "5:30–10:30 pm"
-      ],
-      "Saturday": [
-        "5:30–10:30 pm"
-      ],
-      "Sunday": [
-        "11:30 am–3 pm",
-        "5:30–10:30 pm"
-      ]
-    },
-    "review_count": 1180,
-    "rating": 4.5,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd3u8ZbdGMmuIhYwczFhpEcymgI42fzWavqpaeb2A0uCLMn9zKrVD5Ssc-qKpNs2GqIPSq9jtfS-BtKakTxznUU1VqO91YLM25Ky-fa4s5fy8D0T4VHuEx3fPdbZcAzRAguxiuvQw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd3u8ZbdGMmuIhYwczFhpEcymgI42fzWavqpaeb2A0uCLMn9zKrVD5Ssc-qKpNs2GqIPSq9jtfS-BtKakTxznUU1VqO91YLM25Ky-fa4s5fy8D0T4VHuEx3fPdbZcAzRAguxiuvQw=w1000-h750-no",
-    "source_query": "Halal restaurant in Malmédy, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJFeRL3uZ7wEcR47nnF6GU22c",
-    "name": "Le Wok",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Malmedy",
-    "address": "Le Wok, Av. Monbijou 53, 4960 Malmedy",
-    "street": "Av. Monbijou 53",
-    "postal_code": "4960",
-    "region": null,
-    "latitude": 50.422054599999996,
-    "longitude": 6.0389678,
-    "phone": "080 86 26 86",
-    "website": "https://www.facebook.com/profile.php?id=61565614751907",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Wok&query_place_id=ChIJFeRL3uZ7wEcR47nnF6GU22c",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "12–2:30 pm",
-        "6–10 pm"
-      ],
-      "Wednesday": [
-        "12–2:30 pm",
-        "6–10 pm"
-      ],
-      "Thursday": [
-        "12–2:30 pm",
-        "6–10 pm"
-      ],
-      "Friday": [
-        "12–2:30 pm",
-        "6–10 pm"
-      ],
-      "Saturday": [
-        "12–2:30 pm",
-        "6–10 pm"
-      ],
-      "Sunday": [
-        "12–2:30 pm",
-        "6–10 pm"
-      ]
-    },
-    "review_count": 716,
-    "rating": 3.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd03U4LoikXOjHwgOol4EPvFQmzZp4cPdhRiESv4ccSQlkQotd7y0lpLFCncD5JcNZwmv4leGOZlfC_Er8ax71sYRewzCmYjfDgM2tFzIDFeX8PXYzFDavVjsUzVC7pkqZ57BpxVA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd03U4LoikXOjHwgOol4EPvFQmzZp4cPdhRiESv4ccSQlkQotd7y0lpLFCncD5JcNZwmv4leGOZlfC_Er8ax71sYRewzCmYjfDgM2tFzIDFeX8PXYzFDavVjsUzVC7pkqZ57BpxVA=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Malmédy, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJdQkq2q17wEcRIYxH314OXWg",
-    "name": "MY Restaurant",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Malmedy",
-    "address": "MY Restaurant, Rue Devant les Grands Moulins 25, 4960 Malmedy",
-    "street": "Rue Devant les Grands Moulins 25",
-    "postal_code": "4960",
-    "region": null,
-    "latitude": 50.429534,
-    "longitude": 6.0260814,
-    "phone": "080 78 00 00",
-    "website": "http://www.myhotel.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=MY%20Restaurant&query_place_id=ChIJdQkq2q17wEcRIYxH314OXWg",
-    "open_hours_json": {
-      "Monday": [
-        "12–2 pm",
-        "6:30–9:30 pm"
-      ],
-      "Tuesday": [
-        "12–2 pm",
-        "6:30–9:30 pm"
-      ],
-      "Wednesday": [
-        "12–2 pm",
-        "6:30–9:30 pm"
-      ],
-      "Thursday": [
-        "12–2 pm",
-        "6:30–9:30 pm"
-      ],
-      "Friday": [
-        "12–2 pm",
-        "6:30–10:30 pm"
-      ],
-      "Saturday": [
-        "12–2 pm",
-        "6:30–10:30 pm"
-      ],
-      "Sunday": [
-        "12–2 pm",
-        "6:30–9:30 pm"
-      ]
-    },
-    "review_count": 235,
-    "rating": 4.4,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdla9hRwvTZfD7DNiR-nATS6EOJboZDi0VAEKwm0bMDSfNOw4jA0E44bpejnk-myKOPn1TCcEv38uloH80x0I6LUL9mDR3IuHyu0nQ0davdL4oD_porbnF_WylgkUhj6n0kSXMF-Q=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdla9hRwvTZfD7DNiR-nATS6EOJboZDi0VAEKwm0bMDSfNOw4jA0E44bpejnk-myKOPn1TCcEv38uloH80x0I6LUL9mDR3IuHyu0nQ0davdL4oD_porbnF_WylgkUhj6n0kSXMF-Q=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Malmédy, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJHV6mSe97wEcRg1tEAqltho4",
-    "name": "Maison Adam animalerie pèche Malmedy",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Malmedy",
-    "address": "Maison Adam animalerie pèche Malmedy, Rue Neuve 9, 4960 Malmedy",
-    "street": "Rue Neuve 9",
-    "postal_code": "4960",
-    "region": null,
-    "latitude": 50.424988299999995,
-    "longitude": 6.033363,
-    "phone": "080 33 08 34",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Maison%20Adam%20animalerie%20p%C3%A8che%20Malmedy&query_place_id=ChIJHV6mSe97wEcRg1tEAqltho4",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "9 am–12:30 pm",
-        "1:30–6:30 pm"
-      ],
-      "Wednesday": [
-        "9 am–12:30 pm",
-        "1:30–6:30 pm"
-      ],
-      "Thursday": [
-        "9 am–12:30 pm",
-        "1:30–6:30 pm"
-      ],
-      "Friday": [
-        "9 am–12:30 pm",
-        "1:30–6:30 pm"
-      ],
-      "Saturday": [
-        "9 am–12:30 pm",
-        "1:30–6 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 136,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLchQdTRHtJWzUCwRYEMO8TrbdOa7Kaxc4YuPcdci-JtGMkpPeJ3rmq7sTPpcAo6zOHgWfizud59UbGQtP7NmRDlBGX7WIDSggdKS4PfxHntGhii9-k4Kie4U63RtCtxqaBBbLer=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLchQdTRHtJWzUCwRYEMO8TrbdOa7Kaxc4YuPcdci-JtGMkpPeJ3rmq7sTPpcAo6zOHgWfizud59UbGQtP7NmRDlBGX7WIDSggdKS4PfxHntGhii9-k4Kie4U63RtCtxqaBBbLer=w1000-h750-no",
-    "source_query": "Fish restaurant in Malmédy, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJwVg6Vux7wEcRpHakcJVVSgM",
-    "name": "Micha Boucherie",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Malmedy",
-    "address": "Micha Boucherie, Pl. Albert Ier 26, 4960 Malmedy",
-    "street": "Pl. Albert Ier 26",
-    "postal_code": "4960",
-    "region": null,
-    "latitude": 50.4252852,
-    "longitude": 6.029699099999999,
-    "phone": "080 33 03 24",
-    "website": "https://www.micha-malmedy.be/fr/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Micha%20Boucherie&query_place_id=ChIJwVg6Vux7wEcRpHakcJVVSgM",
-    "open_hours_json": {
-      "Monday": [
-        "8 am–6:30 pm"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "8 am–6:30 pm"
-      ],
-      "Thursday": [
-        "8 am–6:30 pm"
-      ],
-      "Friday": [
-        "8 am–6:30 pm"
-      ],
-      "Saturday": [
-        "8 am–6:30 pm"
-      ],
-      "Sunday": [
-        "8 am–6 pm"
-      ]
-    },
-    "review_count": 106,
-    "rating": 4.5,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLftksO-56RpbEMB93wMf4kp1wOam42f4VhU3Lqs9qEj1zeFfVn4i4-eXX0a06vrrl4xE2mPnNbrruZ8f74Pqy4WThLOThPVdCeCxdEFOYejo96XTqdJjSzfi7s2AGPdGpdqR92r=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLftksO-56RpbEMB93wMf4kp1wOam42f4VhU3Lqs9qEj1zeFfVn4i4-eXX0a06vrrl4xE2mPnNbrruZ8f74Pqy4WThLOThPVdCeCxdEFOYejo96XTqdJjSzfi7s2AGPdGpdqR92r=w1000-h750-no",
-    "source_query": "Fish restaurant in Malmédy, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJQ0Wn4-J7wEcR37h5VnDz4hM",
-    "name": "Nice Pizza",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Malmedy",
-    "address": "Nice Pizza, Rue du Commerce 3, 4960 Malmedy",
-    "street": "Rue du Commerce 3",
-    "postal_code": "4960",
-    "region": null,
-    "latitude": 50.425399299999995,
-    "longitude": 6.0304058,
-    "phone": "080 39 90 89",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Nice%20Pizza&query_place_id=ChIJQ0Wn4-J7wEcR37h5VnDz4hM",
-    "open_hours_json": {
-      "Monday": [
-        "5–10 pm"
-      ],
-      "Tuesday": [
-        "5–10 pm"
-      ],
-      "Wednesday": [
-        "5–10 pm"
-      ],
-      "Thursday": [
-        "5–10 pm"
-      ],
-      "Friday": [
-        "5–10 pm"
-      ],
-      "Saturday": [
-        "5–10 pm"
-      ],
-      "Sunday": [
-        "5–10 pm"
-      ]
-    },
-    "review_count": 83,
-    "rating": 3.5,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeQrc_5rjtKsvxcsKKikn6ev1NQsosNeygyY5m6XF_EkDfm-FxMRQ3eXZGiNuo3SYkFHTr7ZeJWvM2NdoN-70DFPdj6X6xyYhtvs13VSZIcbE0mLpiNecrJh_BcS7s_TmmYAh5C=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeQrc_5rjtKsvxcsKKikn6ev1NQsosNeygyY5m6XF_EkDfm-FxMRQ3eXZGiNuo3SYkFHTr7ZeJWvM2NdoN-70DFPdj6X6xyYhtvs13VSZIcbE0mLpiNecrJh_BcS7s_TmmYAh5C=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Malmédy, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJD_StiRt6wEcRweCr9Inwpio",
-    "name": "Pisciculture Mathonet-Gabriel",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Malmedy",
-    "address": "Pisciculture Mathonet-Gabriel, Borgueuse Hé, 4960 Malmedy",
-    "street": "Borgueuse Hé",
-    "postal_code": "4960",
-    "region": null,
-    "latitude": 50.3713389,
-    "longitude": 6.0300272,
-    "phone": "080 57 00 40",
-    "website": "http://www.pisciculture-mathonet.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pisciculture%20Mathonet-Gabriel&query_place_id=ChIJD_StiRt6wEcRweCr9Inwpio",
-    "open_hours_json": {
-      "Monday": [
-        "8:30 am–12 pm",
-        "1–4:30 pm"
-      ],
-      "Tuesday": [
-        "8:30 am–12 pm",
-        "1–4:30 pm"
-      ],
-      "Wednesday": [
-        "8:30 am–12 pm",
-        "1–4:30 pm"
-      ],
-      "Thursday": [
-        "8:30 am–12 pm",
-        "1–4:30 pm"
-      ],
-      "Friday": [
-        "8:30 am–12 pm",
-        "1–4:30 pm"
-      ],
-      "Saturday": [
-        "Closed"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 56,
-    "rating": 4.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdOV_pYX-ZhkJlz8HBAjdYu-C4Mi1NZjMTXpJlumLSof9qGJimMy_Ao5Bfo9PB-rjI3XXsVDjnCbwdiEMo4zJa9gwBJGRxxgx1LGZPVCnT2vnTFWfz5RxpXxcS6l-2P10FpzElQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdOV_pYX-ZhkJlz8HBAjdYu-C4Mi1NZjMTXpJlumLSof9qGJimMy_Ao5Bfo9PB-rjI3XXsVDjnCbwdiEMo4zJa9gwBJGRxxgx1LGZPVCnT2vnTFWfz5RxpXxcS6l-2P10FpzElQ=w1000-h750-no",
     "source_query": "Fish restaurant in Malmédy, Wallonia, BE",
     "moderation_status": "approved",
     "is_active": true,

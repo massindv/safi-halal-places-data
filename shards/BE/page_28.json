@@ -1,5 +1,722 @@
 [
   {
+    "place_id": "ChIJ5dNl9to1w0cRIy4cABSIs14",
+    "name": "Il Trullo",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Roeselare",
+    "address": "Il Trullo, Rijselstraat 2, 8800 Roeselare",
+    "street": "Rijselstraat 2",
+    "postal_code": "8800",
+    "region": null,
+    "latitude": 50.941009799999996,
+    "longitude": 3.1237779999999997,
+    "phone": "051 62 35 94",
+    "website": "https://www.il-trullo.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Il%20Trullo&query_place_id=ChIJ5dNl9to1w0cRIy4cABSIs14",
+    "open_hours_json": {
+      "Monday": [
+        "12–2 pm",
+        "6–9 pm"
+      ],
+      "Tuesday": [
+        "12–2 pm",
+        "6–9 pm"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "12–2 pm",
+        "6–9 pm"
+      ],
+      "Friday": [
+        "12–2 pm",
+        "6–9 pm"
+      ],
+      "Saturday": [
+        "12–2 pm",
+        "6–9 pm"
+      ],
+      "Sunday": [
+        "12–2 pm",
+        "6–9 pm"
+      ]
+    },
+    "review_count": 590,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeUF0Ek-EQKlkfoA7g6T0I4UlzB2blxS4ogrtqaYC7dLPr10DD-pQPklwE_5wazskuvrMVIaUM_VGYb5Q0kyXCqRmk2A91N4-5SseUP2_TVtXaLkTrKNsfHCswnOntZuNXaEg9_=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeUF0Ek-EQKlkfoA7g6T0I4UlzB2blxS4ogrtqaYC7dLPr10DD-pQPklwE_5wazskuvrMVIaUM_VGYb5Q0kyXCqRmk2A91N4-5SseUP2_TVtXaLkTrKNsfHCswnOntZuNXaEg9_=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Roeselare, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJH_KJQtw1w0cRBdhdgf5jViU",
+    "name": "JBC ROESELARE-CENTRUM",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Roeselare",
+    "address": "JBC ROESELARE-CENTRUM, Ooststraat 30, 8800 Roeselare",
+    "street": "Ooststraat 30",
+    "postal_code": "8800",
+    "region": null,
+    "latitude": 50.9459076,
+    "longitude": 3.1255159999999997,
+    "phone": "051 24 37 20",
+    "website": "https://www.jbc.be/nl/winkels/roeselare-centrum",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=JBC%20ROESELARE-CENTRUM&query_place_id=ChIJH_KJQtw1w0cRBdhdgf5jViU",
+    "open_hours_json": {
+      "Monday": [
+        "10 am–6 pm"
+      ],
+      "Tuesday": [
+        "10 am–6 pm"
+      ],
+      "Wednesday": [
+        "10 am–6 pm"
+      ],
+      "Thursday": [
+        "10 am–6 pm"
+      ],
+      "Friday": [
+        "9:30 am–6 pm"
+      ],
+      "Saturday": [
+        "9:30 am–6 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 95,
+    "rating": 4.2,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfHRk3J54fNqlJs0FGVcr_rNH-JLPaulcHJoSCg3Sf8_pYyU_9PjviWwwu3h1E7MbLfYPbYKrFXLDyz26WZdsUbwr8JvbP0DT3Lag8RveYeZNrykVG4Dk9hFo8UuzdCLjT4WMwE=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfHRk3J54fNqlJs0FGVcr_rNH-JLPaulcHJoSCg3Sf8_pYyU_9PjviWwwu3h1E7MbLfYPbYKrFXLDyz26WZdsUbwr8JvbP0DT3Lag8RveYeZNrykVG4Dk9hFo8UuzdCLjT4WMwE=w1000-h750-no",
+    "source_query": "Hypermarket in Roeselare, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJn7e0EOs1w0cRIH2z--LYcoc",
+    "name": "Jumbo Meensesteenweg Roeselare",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Roeselare",
+    "address": "Jumbo Meensesteenweg Roeselare, Meensesteenweg 610, 8800 Roeselare",
+    "street": "Meensesteenweg 610",
+    "postal_code": "8800",
+    "region": null,
+    "latitude": 50.9039005,
+    "longitude": 3.1143424,
+    "phone": "051 26 04 80",
+    "website": "https://www.jumbo.com/nl-be",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Jumbo%20Meensesteenweg%20Roeselare&query_place_id=ChIJn7e0EOs1w0cRIH2z--LYcoc",
+    "open_hours_json": {
+      "Monday": [
+        "7 am–8 pm"
+      ],
+      "Tuesday": [
+        "7 am–8 pm"
+      ],
+      "Wednesday": [
+        "7 am–8 pm"
+      ],
+      "Thursday": [
+        "7 am–8 pm"
+      ],
+      "Friday": [
+        "7 am–9 pm"
+      ],
+      "Saturday": [
+        "7 am–8 pm"
+      ],
+      "Sunday": [
+        "7 am–8 pm"
+      ]
+    },
+    "review_count": 186,
+    "rating": 4.2,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfAP4MfgK4VZLAin-5YUP1R4j_zhOp5b3-hh8rtsWe-l69iP9wtY207eKFvyfdKvPcyOqMMD3k9zDCRxgssOKmmXPHGsj4TLdX34_WgxLEzl3U0QFHpSNjyi3WFR6YnUWI9vxcZEA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfAP4MfgK4VZLAin-5YUP1R4j_zhOp5b3-hh8rtsWe-l69iP9wtY207eKFvyfdKvPcyOqMMD3k9zDCRxgssOKmmXPHGsj4TLdX34_WgxLEzl3U0QFHpSNjyi3WFR6YnUWI9vxcZEA=w1000-h750-no",
+    "source_query": "Hypermarket in Roeselare, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJAdFlCeA1w0cR_V6iRgVrtP4",
+    "name": "KANTON KEUKEN",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Roeselare",
+    "address": "KANTON KEUKEN, Ardooisesteenweg 52, 8800 Roeselare",
+    "street": "Ardooisesteenweg 52",
+    "postal_code": "8800",
+    "region": null,
+    "latitude": 50.949745799999995,
+    "longitude": 3.1330453,
+    "phone": "051 24 87 30",
+    "website": "http://www.kantonkeuken.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=KANTON%20KEUKEN&query_place_id=ChIJAdFlCeA1w0cR_V6iRgVrtP4",
+    "open_hours_json": {
+      "Monday": [
+        "11 am–2 pm",
+        "5–10 pm"
+      ],
+      "Tuesday": [
+        "11 am–2 pm",
+        "5–10 pm"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "11 am–2 pm",
+        "5–10 pm"
+      ],
+      "Friday": [
+        "11 am–2 pm",
+        "5–10 pm"
+      ],
+      "Saturday": [
+        "11 am–2 pm",
+        "5–10 pm"
+      ],
+      "Sunday": [
+        "11 am–2 pm",
+        "5–10 pm"
+      ]
+    },
+    "review_count": 123,
+    "rating": 4.4,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLffCeMvvxEqvEI_Y05erbZqmU2AmYsC5yzq8jOQE3TLmUVEQ5_AJt012ceTOcvIXY6eKKSYmXYDoz2xrMvhbPQOlAt1XrsfY-y48rb5efi8uMcZs5fhsmx7QgzE2YMJxGzQ7hp8=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLffCeMvvxEqvEI_Y05erbZqmU2AmYsC5yzq8jOQE3TLmUVEQ5_AJt012ceTOcvIXY6eKKSYmXYDoz2xrMvhbPQOlAt1XrsfY-y48rb5efi8uMcZs5fhsmx7QgzE2YMJxGzQ7hp8=w1000-h750-no",
+    "source_query": "Fish restaurant in Roeselare, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJEfg3sd81w0cR7zjFHu1gy1c",
+    "name": "Kompas",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Roeselare",
+    "address": "Kompas, Hugo Verrieststraat 4, 8800 Roeselare",
+    "street": "Hugo Verrieststraat 4",
+    "postal_code": "8800",
+    "region": null,
+    "latitude": 50.9493833,
+    "longitude": 3.1252024,
+    "phone": "0473 53 57 98",
+    "website": "http://www.kompasvzw.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kompas&query_place_id=ChIJEfg3sd81w0cR7zjFHu1gy1c",
+    "open_hours_json": null,
+    "review_count": 6,
+    "rating": 3.7,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-ieR8-liZM2xge_ImVK2vg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=76.98409&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-ieR8-liZM2xge_ImVK2vg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=76.98409&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Pharmacy in Roeselare, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ2QhMOOg1w0cRvxsKBIgaGHk",
+    "name": "Le Nord",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Roeselare",
+    "address": "Le Nord, Noordstraat 217, 8800 Roeselare",
+    "street": "Noordstraat 217",
+    "postal_code": "8800",
+    "region": null,
+    "latitude": 50.9509654,
+    "longitude": 3.1197507,
+    "phone": "051 25 15 90",
+    "website": "https://www.bistrolenord.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Nord&query_place_id=ChIJ2QhMOOg1w0cRvxsKBIgaGHk",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "12–2 pm",
+        "7–9 pm"
+      ],
+      "Wednesday": [
+        "12–2 pm",
+        "7–9 pm"
+      ],
+      "Thursday": [
+        "12–2 pm",
+        "7–9 pm"
+      ],
+      "Friday": [
+        "12–2 pm",
+        "7–9 pm"
+      ],
+      "Saturday": [
+        "7–9 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 431,
+    "rating": 4.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLct9OmDLpZFHj4VdRxeG_nC2e8URmWc7EzM0rEv7rTZSd6EoGg-dww7hvfMiHxNaJ1wAnOkm4phnxVumjvvmoYIHGwZeKttlLTs2h-onbUx75ZWkS1UQ5sbgoU6StRF9v_Wuh0_=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLct9OmDLpZFHj4VdRxeG_nC2e8URmWc7EzM0rEv7rTZSd6EoGg-dww7hvfMiHxNaJ1wAnOkm4phnxVumjvvmoYIHGwZeKttlLTs2h-onbUx75ZWkS1UQ5sbgoU6StRF9v_Wuh0_=w1000-h750-no",
+    "source_query": "Fish restaurant in Roeselare, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJnWakcsE1w0cRysYRtnQQAWk",
+    "name": "Ma Passion",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Roeselare",
+    "address": "Ma Passion, Diksmuidsesteenweg 159, 8800 Roeselare",
+    "street": "Diksmuidsesteenweg 159",
+    "postal_code": "8800",
+    "region": null,
+    "latitude": 50.946513599999996,
+    "longitude": 3.114093,
+    "phone": "051 69 83 18",
+    "website": "http://www.ma-passion.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ma%20Passion&query_place_id=ChIJnWakcsE1w0cRysYRtnQQAWk",
+    "open_hours_json": {
+      "Monday": [
+        "12–3 pm",
+        "7–10 pm"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "12–3 pm",
+        "7–10 pm"
+      ],
+      "Friday": [
+        "12–3 pm",
+        "7–10 pm"
+      ],
+      "Saturday": [
+        "7–10 pm"
+      ],
+      "Sunday": [
+        "12–3 pm"
+      ]
+    },
+    "review_count": 277,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf3jNz_21yRsgrUEDq4NkEEYGYvXM7HFv1MaDgb2jLAdpyfW3ZWacIX0izDaEbbX_fiPSrZlqpkDTMPTK9VB-rCgS3P2hzbIpLoEOahR5Jg8u9fp08IiB8mUSgHqxuuQUhOmFRehA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf3jNz_21yRsgrUEDq4NkEEYGYvXM7HFv1MaDgb2jLAdpyfW3ZWacIX0izDaEbbX_fiPSrZlqpkDTMPTK9VB-rCgS3P2hzbIpLoEOahR5Jg8u9fp08IiB8mUSgHqxuuQUhOmFRehA=w1000-h750-no",
+    "source_query": "Fish restaurant in Roeselare, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJmZ22f901w0cRw6xHG4T1rRM",
+    "name": "Maison Marie",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Roeselare",
+    "address": "Maison Marie, Hugo Verrieststraat 12, 8800 Roeselare",
+    "street": "Hugo Verrieststraat 12",
+    "postal_code": "8800",
+    "region": null,
+    "latitude": 50.949704999999994,
+    "longitude": 3.1248845,
+    "phone": "051 22 01 22",
+    "website": "https://www.bistro-maisonmarie.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Maison%20Marie&query_place_id=ChIJmZ22f901w0cRw6xHG4T1rRM",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "6–9 pm"
+      ],
+      "Thursday": [
+        "11:30 am–2:30 pm",
+        "6–9 pm"
+      ],
+      "Friday": [
+        "11:30 am–2:30 pm",
+        "6–9 pm"
+      ],
+      "Saturday": [
+        "11:30 am–2:30 pm",
+        "6–9 pm"
+      ],
+      "Sunday": [
+        "11:30 am–2 pm",
+        "5:30–8 pm"
+      ]
+    },
+    "review_count": 312,
+    "rating": 4.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdse0q_89o7iDM14n-5hL92cG2P-XWqFANlxGHAc8W4iJGQLZ2gG0RdCoT-2mGzBuYcC0m_ajuFoQMKaXNDk8upEjHDRU3E_pTcaeXZEyNYLAlS6B7l6tta-HGYj7hfBbV2bnTVDg=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdse0q_89o7iDM14n-5hL92cG2P-XWqFANlxGHAc8W4iJGQLZ2gG0RdCoT-2mGzBuYcC0m_ajuFoQMKaXNDk8upEjHDRU3E_pTcaeXZEyNYLAlS6B7l6tta-HGYj7hfBbV2bnTVDg=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Roeselare, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJt65dG9w1w0cRAVbbxM5PhzI",
+    "name": "Maison Tarifa",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Roeselare",
+    "address": "Maison Tarifa, Sint-Alfonsusstraat 4, 8800 Roeselare",
+    "street": "Sint-Alfonsusstraat 4",
+    "postal_code": "8800",
+    "region": null,
+    "latitude": 50.945209399999996,
+    "longitude": 3.1270941,
+    "phone": "051 22 07 00",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Maison%20Tarifa&query_place_id=ChIJt65dG9w1w0cRAVbbxM5PhzI",
+    "open_hours_json": null,
+    "review_count": 34,
+    "rating": 4.4,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcC0wmAi8YUdK2WJ5UPJX4C9tEVCEu2Zq4QT2bfkgVZydNj_qJoS02CECRzjLHd6lzq765Yg2DYYdV7fwf4DFSyX-jcpvx-QnRGSRY0EMWdoGH9XrThivecu5g_Ba_lDWXzylrCSw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcC0wmAi8YUdK2WJ5UPJX4C9tEVCEu2Zq4QT2bfkgVZydNj_qJoS02CECRzjLHd6lzq765Yg2DYYdV7fwf4DFSyX-jcpvx-QnRGSRY0EMWdoGH9XrThivecu5g_Ba_lDWXzylrCSw=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Roeselare, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ2XV23glKw0cR9RZKwIttJoY",
+    "name": "Mammoet 2001",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Roeselare",
+    "address": "Mammoet 2001, Brugsesteenweg 500, 8800 Roeselare",
+    "street": "Brugsesteenweg 500",
+    "postal_code": "8800",
+    "region": null,
+    "latitude": 50.9715105,
+    "longitude": 3.1201276,
+    "phone": "051 24 33 84",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mammoet%202001&query_place_id=ChIJ2XV23glKw0cR9RZKwIttJoY",
+    "open_hours_json": {
+      "Monday": [
+        "9:30 am–6:30 pm"
+      ],
+      "Tuesday": [
+        "9:30 am–6:30 pm"
+      ],
+      "Wednesday": [
+        "9:30 am–6:30 pm"
+      ],
+      "Thursday": [
+        "9:30 am–6:30 pm"
+      ],
+      "Friday": [
+        "9:30 am–6:30 pm"
+      ],
+      "Saturday": [
+        "9:30 am–6:30 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 22,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdaircFWeda0e6deu5mXenYBxSWpQR-KQSt9Z5ziujuVdyMIhQOV7tXG-QfM4vS1O8PQC4b7Gn2CsiUb3RbkU3uKgzyNA7EiLKmtEnjbVf15FgdzMn-OQu5GKTIjRGO0xS6NGcq=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdaircFWeda0e6deu5mXenYBxSWpQR-KQSt9Z5ziujuVdyMIhQOV7tXG-QfM4vS1O8PQC4b7Gn2CsiUb3RbkU3uKgzyNA7EiLKmtEnjbVf15FgdzMn-OQu5GKTIjRGO0xS6NGcq=w1000-h750-no",
+    "source_query": "Hypermarket in Roeselare, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJHwntmfE1w0cRKbVO_LdGzHw",
+    "name": "Mammoet Center",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Roeselare",
+    "address": "Mammoet Center, Brugsesteenweg 339B, 8800 Roeselare",
+    "street": "Brugsesteenweg 339B",
+    "postal_code": "8800",
+    "region": null,
+    "latitude": 50.9624653,
+    "longitude": 3.1201684999999997,
+    "phone": "051 20 20 14",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mammoet%20Center&query_place_id=ChIJHwntmfE1w0cRKbVO_LdGzHw",
+    "open_hours_json": {
+      "Monday": [
+        "10 am–6 pm"
+      ],
+      "Tuesday": [
+        "10 am–6 pm"
+      ],
+      "Wednesday": [
+        "10 am–6 pm"
+      ],
+      "Thursday": [
+        "10 am–6 pm"
+      ],
+      "Friday": [
+        "10 am–6 pm"
+      ],
+      "Saturday": [
+        "10 am–6 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 49,
+    "rating": 4.3,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Vvr2xLCu8QUteOcDK2xJvw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=171.67378&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Vvr2xLCu8QUteOcDK2xJvw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=171.67378&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Hypermarket in Roeselare, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJqaxj-js1w0cRX6RAvgVH25M",
+    "name": "Mekka supermarkt en slagerij (Halal)",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Roeselare",
+    "address": "Mekka supermarkt en slagerij (Halal), Ardooisesteenweg 33a, 8800 Roeselare",
+    "street": "Ardooisesteenweg 33a",
+    "postal_code": "8800",
+    "region": null,
+    "latitude": 50.949374399999996,
+    "longitude": 3.1319038,
+    "phone": "0465 54 51 11",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mekka%20supermarkt%20en%20slagerij%20%28Halal%29&query_place_id=ChIJqaxj-js1w0cRX6RAvgVH25M",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfqK8KJIM5gDPxPvc9Jg0vOyuxZH3K-_Z253Fe9tRUDGB01crESX_XNgWMvLwklN_SOf23tKQqZJ60N7gkgoKxsxEF0_vtiHaAXak_g5SBkKcU6k-0IyKUwFbqVnt8YVCak52c187NsxzQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfqK8KJIM5gDPxPvc9Jg0vOyuxZH3K-_Z253Fe9tRUDGB01crESX_XNgWMvLwklN_SOf23tKQqZJ60N7gkgoKxsxEF0_vtiHaAXak_g5SBkKcU6k-0IyKUwFbqVnt8YVCak52c187NsxzQ=w1000-h750-no",
+    "rating": 5.0,
+    "review_count": 3,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJwVal9Nk1w0cRkm6wnCY98zY",
+    "name": "Ming Dynasty Takeaway Roeselare",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Roeselare",
+    "address": "Ming Dynasty Takeaway Roeselare, Westlaan 151, 8800 Roeselare",
+    "street": "Westlaan 151",
+    "postal_code": "8800",
+    "region": null,
+    "latitude": 50.9397558,
+    "longitude": 3.1157312999999998,
+    "phone": null,
+    "website": "http://www.mingdynastyroeselare.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ming%20Dynasty%20Takeaway%20Roeselare&query_place_id=ChIJwVal9Nk1w0cRkm6wnCY98zY",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "5:30–10 pm"
+      ],
+      "Wednesday": [
+        "11:30 am–2 pm",
+        "5:30–10 pm"
+      ],
+      "Thursday": [
+        "11:30 am–2 pm",
+        "5:30–10 pm"
+      ],
+      "Friday": [
+        "11:30 am–2 pm",
+        "5:30–10 pm"
+      ],
+      "Saturday": [
+        "11:30 am–2 pm",
+        "5:30–10 pm"
+      ],
+      "Sunday": [
+        "11:30 am–2 pm",
+        "5:30–10 pm"
+      ]
+    },
+    "review_count": 216,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcBNQWAxyZqCUoRFbVH2OblFvvJTFtQRINu3WoCy4mmXeMYO01dqEqyvbKwugbdhyLWzR50lLmmjRSq0CQTnaiOMeOd2kzUF4w83ncRyZT4kANSEKE7OAjN8ybohTNFK6F1qMBF=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcBNQWAxyZqCUoRFbVH2OblFvvJTFtQRINu3WoCy4mmXeMYO01dqEqyvbKwugbdhyLWzR50lLmmjRSq0CQTnaiOMeOd2kzUF4w83ncRyZT4kANSEKE7OAjN8ybohTNFK6F1qMBF=w1000-h750-no",
+    "source_query": "Fish restaurant in Roeselare, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJswAcENw1w0cRccL5iY38Xx4",
+    "name": "Mister Spaghetti",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Roeselare",
+    "address": "Mister Spaghetti, Nonnenstraat 12, 8800 Roeselare",
+    "street": "Nonnenstraat 12",
+    "postal_code": "8800",
+    "region": null,
+    "latitude": 50.944870699999996,
+    "longitude": 3.1255626999999997,
+    "phone": "051 80 15 87",
+    "website": "http://www.mister-spaghetti.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mister%20Spaghetti&query_place_id=ChIJswAcENw1w0cRccL5iY38Xx4",
+    "open_hours_json": {
+      "Monday": [
+        "11:30 am–2 pm",
+        "6–9 pm"
+      ],
+      "Tuesday": [
+        "11:30 am–2 pm",
+        "6–9 pm"
+      ],
+      "Wednesday": [
+        "11:30 am–2 pm",
+        "6–9 pm"
+      ],
+      "Thursday": [
+        "11:30 am–2 pm",
+        "6–9 pm"
+      ],
+      "Friday": [
+        "11:30 am–2 pm",
+        "6–9:30 pm"
+      ],
+      "Saturday": [
+        "11:30 am–2 pm",
+        "6–9:30 pm"
+      ],
+      "Sunday": [
+        "11:30 am–2 pm",
+        "6–9:30 pm"
+      ]
+    },
+    "review_count": 1357,
+    "rating": 4.4,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfRMI0HnYS7-vdybVIvVJzpr-eaB6j8r_0cjgR1O7IZrkpzXWExyJXulOywvPcSlSyrEHrBdu3NK3q6hzD-C01fwTIXIgMKCuxn6TvjJK2Ge3og5C3rHdW4Ehjv5DjnXhUz7I3mQg=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfRMI0HnYS7-vdybVIvVJzpr-eaB6j8r_0cjgR1O7IZrkpzXWExyJXulOywvPcSlSyrEHrBdu3NK3q6hzD-C01fwTIXIgMKCuxn6TvjJK2Ge3og5C3rHdW4Ehjv5DjnXhUz7I3mQg=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Roeselare, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJiyzLqtw1w0cRXvYoVtwZC2U",
+    "name": "Mokkabar",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Roeselare",
+    "address": "Mokkabar, Wallenstraat 21, 8800 Roeselare",
+    "street": "Wallenstraat 21",
+    "postal_code": "8800",
+    "region": null,
+    "latitude": 50.9446631,
+    "longitude": 3.1212652,
+    "phone": "0493 71 27 00",
+    "website": "http://www.mokkabar.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mokkabar&query_place_id=ChIJiyzLqtw1w0cRXvYoVtwZC2U",
+    "open_hours_json": {
+      "Monday": [
+        "8:30 am–5:30 pm"
+      ],
+      "Tuesday": [
+        "8:30 am–5:30 pm"
+      ],
+      "Wednesday": [
+        "8:30 am–5:30 pm"
+      ],
+      "Thursday": [
+        "8:30 am–5:30 pm"
+      ],
+      "Friday": [
+        "8:30 am–6 pm"
+      ],
+      "Saturday": [
+        "8:30 am–6 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 604,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfn5B5Syx-4-WU9iNuzBQxX3chuvKe8MZwmu04DPb66OF9xxKExHvYp0XKvtxL-dU8mrcdpJjoAIbaQTt-DHXBFSRG0VDAxRupYBkeM_6_iCJ5HVuqWJOV2-p7DWnsSCDj5thdN=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfn5B5Syx-4-WU9iNuzBQxX3chuvKe8MZwmu04DPb66OF9xxKExHvYp0XKvtxL-dU8mrcdpJjoAIbaQTt-DHXBFSRG0VDAxRupYBkeM_6_iCJ5HVuqWJOV2-p7DWnsSCDj5thdN=w1000-h750-no",
+    "source_query": "Fish restaurant in Roeselare, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJZ8jQx_Y1w0cR0oi90jHpaU4",
     "name": "Mr chicken Roeselare",
     "type": "restaurant",
@@ -641,32 +1358,6 @@
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe0QUz5fsuN3ln_7cFcTqbG8hmtSiPQ99V_UOdTkTeX3OemxA4cfoX-irVgbCWR3sGNdFuO5i23geM2CAjNTxotpukEU3y9HjD5D0nuCVTzDNRtjeOATeb5WbpTh7VapvGiRnibAw=w1000-h750-no",
     "rating": 4.4,
     "review_count": 358,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJFY9IDgA3w0cRbnrhPzLbcDc",
-    "name": "Rabbiy",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Roeselare",
-    "address": "Rabbiy, 8800 Roeselare",
-    "street": null,
-    "postal_code": "8800",
-    "region": null,
-    "latitude": 50.9388055,
-    "longitude": 3.1451886,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Rabbiy&query_place_id=ChIJFY9IDgA3w0cRbnrhPzLbcDc",
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ifllxD73Zmz0TDM-iygCmw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=205.82484&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ifllxD73Zmz0TDM-iygCmw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=205.82484&pitch=0&thumbfov=w1000-h750-no",
-    "rating": 5.0,
-    "review_count": 1,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null,
     "is_active": true,
@@ -1668,8 +2359,8 @@
     "phone": "0483 63 53 66",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Yummy%20Burger&query_place_id=ChIJlz2LEzY1w0cRfQHUXoWarAI",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd4nzSzNj41L1hx7OgehiwYJo92yKhW0pabWIaJsWcOnf0PQj5rmFDbMcqOHq49cJlyfGKus9DnyNNaOuJpDKnXTLUt_sfOnzHvHdjX8wj1y9cpzciIE4BQxcsD1wDPcx0ugM0e=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd4nzSzNj41L1hx7OgehiwYJo92yKhW0pabWIaJsWcOnf0PQj5rmFDbMcqOHq49cJlyfGKus9DnyNNaOuJpDKnXTLUt_sfOnzHvHdjX8wj1y9cpzciIE4BQxcsD1wDPcx0ugM0e=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfMF_M9jQhrKY4jwGXuSkH0hERVj813XDVYdaRaA6OmL-5xp6NgOOmPTSBHvj_OAxpVWTzha8Vc2OI7FPzpfs-uLVkjBKCReKns6s0fOjp_4LDMuHMqaVJdxB7qcHOVZV0tCP1p=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfMF_M9jQhrKY4jwGXuSkH0hERVj813XDVYdaRaA6OmL-5xp6NgOOmPTSBHvj_OAxpVWTzha8Vc2OI7FPzpfs-uLVkjBKCReKns6s0fOjp_4LDMuHMqaVJdxB7qcHOVZV0tCP1p=w1000-h750-no",
     "rating": 4.8,
     "review_count": 132,
     "verification_status": "UNVERIFIED",
@@ -7126,56 +7817,6 @@
     "verification_evidence": null
   },
   {
-    "place_id": "ChIJQyeXfgDDw0cRHPuXmXxke2A",
-    "name": "OMI restaurant",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Saint-Josse-ten-Noode",
-    "address": "OMI restaurant, Rue du Progrès 39, 1210 Saint-Josse-ten-Noode",
-    "street": "Rue du Progrès 39",
-    "postal_code": "1210",
-    "region": null,
-    "latitude": 50.857676899999994,
-    "longitude": 4.3591817,
-    "phone": "0472 59 89 05",
-    "website": "https://www.instagram.com/omi_brussels?igsh=YWZyb3RiYXBiMjJz&utm_source=qr",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=OMI%20restaurant&query_place_id=ChIJQyeXfgDDw0cRHPuXmXxke2A",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "9 am–11 pm"
-      ],
-      "Wednesday": [
-        "9 am–11 pm"
-      ],
-      "Thursday": [
-        "9 am–11 pm"
-      ],
-      "Friday": [
-        "9 am–11 pm"
-      ],
-      "Saturday": [
-        "9 am–11 pm"
-      ],
-      "Sunday": [
-        "9 am–11 pm"
-      ]
-    },
-    "review_count": 900,
-    "rating": 4.8,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfW1rUbGqQ57XqUlP4ftRXM63JGeRsegzIxuTJvdRErmN08mUK9I_ykLenHp0o07ohJN287voeuPU47nHsjfe7Yf4Rz0APenwmXGBfGsquxe_zxVYKeTfYYDSg7SwM-5oZ6qWM=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfW1rUbGqQ57XqUlP4ftRXM63JGeRsegzIxuTJvdRErmN08mUK9I_ykLenHp0o07ohJN287voeuPU47nHsjfe7Yf4Rz0APenwmXGBfGsquxe_zxVYKeTfYYDSg7SwM-5oZ6qWM=w1000-h750-no",
-    "source_query": "Halal restaurant in Brussels, Brussels Capital, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
     "place_id": "ChIJgY3Yb5_Dw0cR6iawI6_k5Ng",
     "name": "Restaurants casablanca",
     "type": "restaurant",
@@ -7950,6 +8591,32 @@
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcuqw9E9yxLCodYXjapHbWsfTDmugYVYltJ92-b42FhCuJAmHGqqEn8rrDgpmhleuMwPNOtrDjlXvkY9BMUmoOQESaZV7HGGYRJnE2F2lDY_I02RhZM4yg1x-1D54BnNyqzzctf=w1000-h750-no",
     "rating": 4.3,
     "review_count": 88,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJYQv0A-7Dw0cRUNyb0j6zByw",
+    "name": "Beenhouwerij Nuh Slagerij 🥩",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Schaarbeek",
+    "address": "Beenhouwerij Nuh Slagerij 🥩, Wijnheuvelenstraat 207, 1030 Schaarbeek",
+    "street": "Wijnheuvelenstraat 207",
+    "postal_code": "1030",
+    "region": null,
+    "latitude": 50.8594213,
+    "longitude": 4.3772337,
+    "phone": "02 372 98 93",
+    "website": "https://www.nuh-kasap.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Beenhouwerij%20Nuh%20Slagerij%20%F0%9F%A5%A9&query_place_id=ChIJYQv0A-7Dw0cRUNyb0j6zByw",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe6fBuHEffuNrIJ7PsaO1qhFTFMnIfM5MZ0yZy9llXokeQvdRzSJYLQsk6vfam2dwN6wkq2_tiVNPl_GfUtfWA7fP6kh-BW1tFgQ-PlaRE3CvIO4lRvq7HBaXFHstLWGAWsZqTQvg=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe6fBuHEffuNrIJ7PsaO1qhFTFMnIfM5MZ0yZy9llXokeQvdRzSJYLQsk6vfam2dwN6wkq2_tiVNPl_GfUtfWA7fP6kh-BW1tFgQ-PlaRE3CvIO4lRvq7HBaXFHstLWGAWsZqTQvg=w1000-h750-no",
+    "rating": 4.5,
+    "review_count": 187,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null,
     "is_active": true,
@@ -8762,6 +9429,32 @@
     "moderation_status": "approved"
   },
   {
+    "place_id": "ChIJsZE6-qDDw0cRQD-XepVGSF8",
+    "name": "Mehmet Ali Bey Emirdağ",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Schaarbeek",
+    "address": "Mehmet Ali Bey Emirdağ, Haachtsesteenweg 120, 1030 Schaarbeek",
+    "street": "Haachtsesteenweg 120",
+    "postal_code": "1030",
+    "region": null,
+    "latitude": 50.858506299999995,
+    "longitude": 4.370459299999999,
+    "phone": "0483 07 04 60",
+    "website": "https://www.facebook.com/profile.php?id=100063660573721",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mehmet%20Ali%20Bey%20Emirda%C4%9F&query_place_id=ChIJsZE6-qDDw0cRQD-XepVGSF8",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLedSM5ojktkdHIT7EN9qZTjUa84s-ILv8hOtHcjHkMG4SFsIhOOUBoIVyERpZRwjoF0r25HwzqPfvYISPMFHye_jRrT8CIAGHTRkh78TkPn9EvlOIScLgjga1vfgniQFhqNuZWgcA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLedSM5ojktkdHIT7EN9qZTjUa84s-ILv8hOtHcjHkMG4SFsIhOOUBoIVyERpZRwjoF0r25HwzqPfvYISPMFHye_jRrT8CIAGHTRkh78TkPn9EvlOIScLgjga1vfgniQFhqNuZWgcA=w1000-h750-no",
+    "rating": 4.2,
+    "review_count": 46,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
     "place_id": "ChIJzTUaegDDw0cRfvc41-OQU2A",
     "name": "Moskee BIF Ahmet yesevi",
     "type": "mosque",
@@ -9126,6 +9819,32 @@
     "moderation_status": "approved"
   },
   {
+    "place_id": "ChIJT3PNd3TDw0cRI7BDiVIgC7o",
+    "name": "Slagerij Harun 🥩",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Schaarbeek",
+    "address": "Slagerij Harun 🥩, Gallaitstraat 1, 1030 Schaarbeek",
+    "street": "Gallaitstraat 1",
+    "postal_code": "1030",
+    "region": null,
+    "latitude": 50.8648586,
+    "longitude": 4.367436,
+    "phone": null,
+    "website": "https://www.localservices.be/boutique/boucherie-harun-boucheries-schaerbeek/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Slagerij%20Harun%20%F0%9F%A5%A9&query_place_id=ChIJT3PNd3TDw0cRI7BDiVIgC7o",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdOaaIiy5eCuZvSe6ymuJmmt02O97XSj4NYck7RzvXC58LDyTbrHxTzrPQ6Hl_CfGGbD20-eVVQZI5GufzRyhhWXkIVGTyJ2RUkhofwiKGEfWR-LTaDc4enQHeT3ktpZQm7XHKKPg=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdOaaIiy5eCuZvSe6ymuJmmt02O97XSj4NYck7RzvXC58LDyTbrHxTzrPQ6Hl_CfGGbD20-eVVQZI5GufzRyhhWXkIVGTyJ2RUkhofwiKGEfWR-LTaDc4enQHeT3ktpZQm7XHKKPg=w1000-h750-no",
+    "rating": 4.3,
+    "review_count": 230,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
     "place_id": "ChIJk-DckwzDw0cRqGUB1CNWVT8",
     "name": "Slagerij Salam",
     "type": "butcher",
@@ -9478,703 +10197,6 @@
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLemzvylrVqStfB8xypRGMYls1FvPFJ4F3LnfGfGso-d-di8NFEdNwR8LTvtKV_ISZ9U1UuqGgExYsV-7v6bf8vc3mnc-Nv5mSUkh8EOfNTNwz8xQkE4Dc7YR6dVl2ivSwTYtQq5IQ=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLemzvylrVqStfB8xypRGMYls1FvPFJ4F3LnfGfGso-d-di8NFEdNwR8LTvtKV_ISZ9U1UuqGgExYsV-7v6bf8vc3mnc-Nv5mSUkh8EOfNTNwz8xQkE4Dc7YR6dVl2ivSwTYtQq5IQ=w1000-h750-no",
     "source_query": "Moroccan restaurant in Vilvoorde, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJPxpXQCfDw0cRYyDJwMaa2gI",
-    "name": "Dar Meryem",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Schaerbeek",
-    "address": "Dar Meryem, Chau. de Helmet 294, 1030 Schaerbeek",
-    "street": "Chau. de Helmet 294",
-    "postal_code": "1030",
-    "region": null,
-    "latitude": 50.8747713,
-    "longitude": 4.3888959,
-    "phone": "02 779 33 29",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Dar%20Meryem&query_place_id=ChIJPxpXQCfDw0cRYyDJwMaa2gI",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "10 am–10 pm"
-      ],
-      "Wednesday": [
-        "10 am–10 pm"
-      ],
-      "Thursday": [
-        "10 am–10 pm"
-      ],
-      "Friday": [
-        "10 am–11 pm"
-      ],
-      "Saturday": [
-        "10 am–11 pm"
-      ],
-      "Sunday": [
-        "10 am–10 pm"
-      ]
-    },
-    "review_count": 457,
-    "rating": 4.8,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeTk3Z-JMZGmiCBL8Vxh6JQr8vcHv6l1v26qH4Z91UAMg6A_zTZVRpy6_YW5Zk1ETTXdO_QHPn1f1bMMPPVmtnVQrGgBauD-W1thP7CBpaKYwB3uol_si829bnfKzGDysHmaKesq4nTDz-x=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeTk3Z-JMZGmiCBL8Vxh6JQr8vcHv6l1v26qH4Z91UAMg6A_zTZVRpy6_YW5Zk1ETTXdO_QHPn1f1bMMPPVmtnVQrGgBauD-W1thP7CBpaKYwB3uol_si829bnfKzGDysHmaKesq4nTDz-x=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Vilvoorde, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJbwdSsA3Dw0cR_OT7_AiTVtM",
-    "name": "L'andalou",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Schaerbeek",
-    "address": "L'andalou, Rue François-Joseph Navez 60, 1030 Schaerbeek",
-    "street": "Rue François-Joseph Navez 60",
-    "postal_code": "1030",
-    "region": null,
-    "latitude": 50.8716277,
-    "longitude": 4.3724007,
-    "phone": null,
-    "website": "https://fr.restaurantguru.com/Landalou-Schaerbeek",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=L%27andalou&query_place_id=ChIJbwdSsA3Dw0cR_OT7_AiTVtM",
-    "open_hours_json": {
-      "Monday": [
-        "7 am–12 am"
-      ],
-      "Tuesday": [
-        "7 am–12 am"
-      ],
-      "Wednesday": [
-        "7 am–12 am"
-      ],
-      "Thursday": [
-        "7 am–12 am"
-      ],
-      "Friday": [
-        "7 am–1 am"
-      ],
-      "Saturday": [
-        "7 am–1 am"
-      ],
-      "Sunday": [
-        "7 am–12 am"
-      ]
-    },
-    "review_count": 296,
-    "rating": 4.0,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLffbysQqUIeehGWpbxHGCK6hi-KG8Ee4QFawWg5SCRwRKPOwa8fP2sfF5FSSfVeV_LaiglJeJqcHbOKPL0slabpx0PNjLfgBEV_iHZyfiE600HJ0HN9W_t4DjlnOCEoJLQkCqZfeQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLffbysQqUIeehGWpbxHGCK6hi-KG8Ee4QFawWg5SCRwRKPOwa8fP2sfF5FSSfVeV_LaiglJeJqcHbOKPL0slabpx0PNjLfgBEV_iHZyfiE600HJ0HN9W_t4DjlnOCEoJLQkCqZfeQ=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Vilvoorde, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ_T-7gpPDw0cRuSOn1iEjJUs",
-    "name": "Lovent borek",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Schaerbeek",
-    "address": "Lovent borek, Chau. de Haecht 132, 1030 Schaerbeek",
-    "street": "Chau. de Haecht 132",
-    "postal_code": "1030",
-    "region": null,
-    "latitude": 50.8588861,
-    "longitude": 4.3706961,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Lovent%20borek&query_place_id=ChIJ_T-7gpPDw0cRuSOn1iEjJUs",
-    "open_hours_json": {
-      "Monday": [
-        "12–2:30 pm",
-        "6–11 pm"
-      ],
-      "Tuesday": [
-        "12–2:30 pm",
-        "6–11 pm"
-      ],
-      "Wednesday": [
-        "12–3 pm",
-        "6–11 pm"
-      ],
-      "Thursday": [
-        "12–3 pm",
-        "6–11 pm"
-      ],
-      "Friday": [
-        "12–3 pm",
-        "6–11 pm"
-      ],
-      "Saturday": [
-        "12–3 pm",
-        "6–11 pm"
-      ],
-      "Sunday": [
-        "12–3 pm",
-        "6–11 pm"
-      ]
-    },
-    "review_count": 5,
-    "rating": 3.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe9rp05qLmy8eOOomYXnagH90LcC-nAFeESVL1JkhrnDnBn3YRwxc8dnxx1MA7avn-hz2ru1wcIK_LUtiKRfb9YmU44t9hxS9W5iVyug8-ltFT55E9Rxbd-Plpyj-gVjWwcqLEv=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe9rp05qLmy8eOOomYXnagH90LcC-nAFeESVL1JkhrnDnBn3YRwxc8dnxx1MA7avn-hz2ru1wcIK_LUtiKRfb9YmU44t9hxS9W5iVyug8-ltFT55E9Rxbd-Plpyj-gVjWwcqLEv=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Vilvoorde, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJz-iXZdLDw0cR-dI-x5buZ1I",
-    "name": "Restaurant mamounia 2",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Schaerbeek",
-    "address": "Restaurant mamounia 2, Av. de la Reine 94, 1030 Schaerbeek",
-    "street": "Av. de la Reine 94",
-    "postal_code": "1030",
-    "region": null,
-    "latitude": 50.8678891,
-    "longitude": 4.3632086999999995,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20mamounia%202&query_place_id=ChIJz-iXZdLDw0cR-dI-x5buZ1I",
-    "open_hours_json": null,
-    "review_count": 0,
-    "rating": null,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YflIDgyutXqo6H0NAts2Pg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=261.60464&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YflIDgyutXqo6H0NAts2Pg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=261.60464&pitch=0&thumbfov=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Vilvoorde, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJTymJJRHDw0cRhUXe-dNPgtY",
-    "name": "Snack Grill Darna",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Schaerbeek",
-    "address": "Snack Grill Darna, Rue Van Oost 6, 1030 Schaerbeek",
-    "street": "Rue Van Oost 6",
-    "postal_code": "1030",
-    "region": null,
-    "latitude": 50.870239299999994,
-    "longitude": 4.3722676,
-    "phone": "0496 74 40 64",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Snack%20Grill%20Darna&query_place_id=ChIJTymJJRHDw0cRhUXe-dNPgtY",
-    "open_hours_json": null,
-    "review_count": 41,
-    "rating": 4.8,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdAOOX-BvPAwr2V8N6ksm_gDF3eb_Nb6OkOx8We3GuaVMd7OXqX26jDpXJPveumt4xdu9czF1FGyQzqOxiTu7u7aZLCxs15EuODsFkil-EUFRrtwLl52EpA-ia3AXObyAVdk7YV=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdAOOX-BvPAwr2V8N6ksm_gDF3eb_Nb6OkOx8We3GuaVMd7OXqX26jDpXJPveumt4xdu9czF1FGyQzqOxiTu7u7aZLCxs15EuODsFkil-EUFRrtwLl52EpA-ia3AXObyAVdk7YV=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Vilvoorde, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "VERIFIED",
-    "verification_evidence": "Explicit Halal keyword indicators in listing metadata"
-  },
-  {
-    "place_id": "ChIJmW2WfHDDw0cROzJh0gfQW2M",
-    "name": "TEO SUPERMARKET",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Schaerbeek",
-    "address": "TEO SUPERMARKET, Chau. de Haecht, 1030 Schaerbeek",
-    "street": "Chau. de Haecht",
-    "postal_code": "1030",
-    "region": null,
-    "latitude": 50.8582708,
-    "longitude": 4.369989299999999,
-    "phone": "02 217 75 32",
-    "website": "https://www.facebook.com/Supermarket-TEO-1442630722657277/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=TEO%20SUPERMARKET&query_place_id=ChIJmW2WfHDDw0cROzJh0gfQW2M",
-    "open_hours_json": {
-      "Monday": [
-        "8:30 am–8 pm"
-      ],
-      "Tuesday": [
-        "9 am–8:30 pm"
-      ],
-      "Wednesday": [
-        "8:30 am–8 pm"
-      ],
-      "Thursday": [
-        "8:30 am–8 pm"
-      ],
-      "Friday": [
-        "8:30 am–8:30 pm"
-      ],
-      "Saturday": [
-        "8 am–8:30 pm"
-      ],
-      "Sunday": [
-        "8 am–8:30 pm"
-      ]
-    },
-    "review_count": 51,
-    "rating": 3.2,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeo6fwthhzD8Pun_hP9NJTNC5iruSzvsrmrvWvK0uGIeGprmTMWkto5xgCzXD6JMkUVwtoGncSezHRCEUP1DjOs2ulCEcfDETxGsdkvdR22BIWsBlFz6oEAMfCZToVATe4jpIpafdgDI-DU=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeo6fwthhzD8Pun_hP9NJTNC5iruSzvsrmrvWvK0uGIeGprmTMWkto5xgCzXD6JMkUVwtoGncSezHRCEUP1DjOs2ulCEcfDETxGsdkvdR22BIWsBlFz6oEAMfCZToVATe4jpIpafdgDI-DU=w1000-h750-no",
-    "source_query": "Hypermarket in Brussels, Brussels Capital, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJHR5tXHDDw0cRjuEPgcoC93E",
-    "name": "Uğur Market",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Schaerbeek",
-    "address": "Uğur Market, Koninginneplein 22, 1030 Schaarbeek",
-    "street": "Pl. de la Reine 22",
-    "postal_code": "1030",
-    "region": null,
-    "latitude": 50.8592674,
-    "longitude": 4.3702556,
-    "phone": "0486 05 08 68",
-    "website": "http://www.dodom.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=U%C4%9Fur%20Market&query_place_id=ChIJHR5tXHDDw0cRjuEPgcoC93E",
-    "open_hours_json": {
-      "Monday": [
-        "9 am–8 pm"
-      ],
-      "Tuesday": [
-        "9 am–8 pm"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "9 am–8 pm"
-      ],
-      "Friday": [
-        "9 am–8 pm"
-      ],
-      "Saturday": [
-        "9 am–8 pm"
-      ],
-      "Sunday": [
-        "9 am–8 pm"
-      ]
-    },
-    "review_count": 275,
-    "rating": 4.4,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfJ3XfNXqjfkjDdc3RoG48elNXU0z6a1RNq-IdF3AiUJU-rEbVmUsKIZahiW1Dc5rTO3KopBWCanC5G3TBycu1a8FgEQ7HmEN-WnQUuxlQ46lCOfSn85zh42LPvDXCBGudMWOPUOA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfJ3XfNXqjfkjDdc3RoG48elNXU0z6a1RNq-IdF3AiUJU-rEbVmUsKIZahiW1Dc5rTO3KopBWCanC5G3TBycu1a8FgEQ7HmEN-WnQUuxlQ46lCOfSn85zh42LPvDXCBGudMWOPUOA=w1000-h750-no",
-    "source_query": "Hypermarket in Brussels, Brussels Capital, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJV_iU-XbDw0cR3jLE7HHTsEg",
-    "name": "Walima",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Schaerbeek",
-    "address": "Walima, Rue de Brabant 184, 1030 Schaerbeek",
-    "street": "Rue de Brabant 184",
-    "postal_code": "1030",
-    "region": null,
-    "latitude": 50.861083799999996,
-    "longitude": 4.364107,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Walima&query_place_id=ChIJV_iU-XbDw0cR3jLE7HHTsEg",
-    "open_hours_json": {
-      "Monday": [
-        "12–8 pm"
-      ],
-      "Tuesday": [
-        "12–8 pm"
-      ],
-      "Wednesday": [
-        "12–8 pm"
-      ],
-      "Thursday": [
-        "12–8 pm"
-      ],
-      "Friday": [
-        "12–10 pm"
-      ],
-      "Saturday": [
-        "12–10 pm"
-      ],
-      "Sunday": [
-        "12–10 pm"
-      ]
-    },
-    "review_count": 166,
-    "rating": 3.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLej-nsn6OEI09yKv6NOLomvOioyzEe1I5vaMfB5zk6LWyae3sX4BRgTkofqvWaUC0JlyYJA8zeYQJ7AqGjjUB1FE8jDDqtfXW5mx3DvDw74UR1ap_slQMcDMA_0htOKkntPL0zHww=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLej-nsn6OEI09yKv6NOLomvOioyzEe1I5vaMfB5zk6LWyae3sX4BRgTkofqvWaUC0JlyYJA8zeYQJ7AqGjjUB1FE8jDDqtfXW5mx3DvDw74UR1ap_slQMcDMA_0htOKkntPL0zHww=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Vilvoorde, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJG5mtuQzDw0cR3iGw7_qfRzA",
-    "name": "lefloranger",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Schaerbeek",
-    "address": "lefloranger, Rue Van Droogenbroeck 4, 1030 Schaerbeek",
-    "street": "Rue Van Droogenbroeck 4",
-    "postal_code": "1030",
-    "region": null,
-    "latitude": 50.877483999999995,
-    "longitude": 4.3881065999999995,
-    "phone": "0494 48 01 30",
-    "website": "https://lefloranger.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=lefloranger&query_place_id=ChIJG5mtuQzDw0cR3iGw7_qfRzA",
-    "open_hours_json": null,
-    "review_count": 0,
-    "rating": null,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=keAMXeAutKRsc_5V5L6OwA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=31.370392&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=keAMXeAutKRsc_5V5L6OwA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=31.370392&pitch=0&thumbfov=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Vilvoorde, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ_bZvDRXzw0cRSMuxg-kGB1Q",
-    "name": "Mosquée Tawfieq / Moskee Tawfieq",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Schelle",
-    "address": "Mosquée Tawfieq / Moskee Tawfieq, Steenwinkelstraat 11, 2627 Schelle",
-    "street": "Steenwinkelstraat 11",
-    "postal_code": "2627",
-    "region": null,
-    "latitude": 51.125633099999995,
-    "longitude": 4.3398087,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mosqu%C3%A9e%20Tawfieq%20%2F%20Moskee%20Tawfieq&query_place_id=ChIJ_bZvDRXzw0cRSMuxg-kGB1Q",
-    "open_hours_json": null,
-    "review_count": 15,
-    "rating": 4.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLddgbJStC19OUTOIptGjQrkYTRteTrKQmLC0LnXX6sC8IBVsziLui3SdON3mY1EXTYcLfdW3jCv1fJTiJ1PI96tRWfY2JuxPNdGPJqhDr60HRP8Jo9uHx_1Cwrr0QlruuSEAmxZ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLddgbJStC19OUTOIptGjQrkYTRteTrKQmLC0LnXX6sC8IBVsziLui3SdON3mY1EXTYcLfdW3jCv1fJTiJ1PI96tRWfY2JuxPNdGPJqhDr60HRP8Jo9uHx_1Cwrr0QlruuSEAmxZ=w1000-h750-no",
-    "source_query": "Mosque in Veurne, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ2YOxFzhBwUcRvtgllYM-Yg8",
-    "name": "24-1 Shop",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Scherpenheuvel-Zichem",
-    "address": "24-1 Shop, Lelielaan, 3270 Scherpenheuvel-Zichem",
-    "street": "Lelielaan",
-    "postal_code": "3270",
-    "region": null,
-    "latitude": 50.979411999999996,
-    "longitude": 4.961879199999999,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=24-1%20Shop&query_place_id=ChIJ2YOxFzhBwUcRvtgllYM-Yg8",
-    "open_hours_json": null,
-    "review_count": 1,
-    "rating": 2.0,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=v5qwTYuqD02Z0G5r1YyCEA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=241.65274&pitch=0.55007774&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=v5qwTYuqD02Z0G5r1YyCEA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=241.65274&pitch=0.55007774&thumbfov=w1000-h750-no",
-    "source_query": "Hypermarket in Scherpenheuvel, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJbSNXQi9BwUcRNOG8WycW9Vs",
-    "name": "Basilique Notre-Dame de Scherpenheuvel",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Scherpenheuvel-Zichem",
-    "address": "Basilique Notre-Dame de Scherpenheuvel, Albertusplein 7, 3270 Scherpenheuvel-Zichem",
-    "street": "Albertusplein 7",
-    "postal_code": "3270",
-    "region": null,
-    "latitude": 50.980308099999995,
-    "longitude": 4.9781328,
-    "phone": "013 77 14 96",
-    "website": "http://scherpenheuvel.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Basilique%20Notre-Dame%20de%20Scherpenheuvel&query_place_id=ChIJbSNXQi9BwUcRNOG8WycW9Vs",
-    "open_hours_json": {
-      "Monday": [
-        "7 am–6 pm"
-      ],
-      "Tuesday": [
-        "7:15 am–6 pm"
-      ],
-      "Wednesday": [
-        "7:15 am–6 pm"
-      ],
-      "Thursday": [
-        "7:15 am–6 pm"
-      ],
-      "Friday": [
-        "7:15 am–6 pm"
-      ],
-      "Saturday": [
-        "7:15 am–6 pm"
-      ],
-      "Sunday": [
-        "7:15 am–6 pm"
-      ]
-    },
-    "review_count": 1289,
-    "rating": 4.5,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcbRvh26e8goEUZFF4AF5UFXokqVxoVANkGD6f-YpvFc76fNOb81Sowea3UQAR7c0TfID9Y7228inTZhSfUloyG2ml6FalD_uGZ1wuq2k7EizWPg1ayA83u0Glv114Ml9ZLHgDS=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcbRvh26e8goEUZFF4AF5UFXokqVxoVANkGD6f-YpvFc76fNOb81Sowea3UQAR7c0TfID9Y7228inTZhSfUloyG2ml6FalD_uGZ1wuq2k7EizWPg1ayA83u0Glv114Ml9ZLHgDS=w1000-h750-no",
-    "source_query": "Mosque in Scherpenheuvel, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJB6qcNwBBwUcR-0bexgCaDD0",
-    "name": "Buscemi's Pizzeria",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Scherpenheuvel-Zichem",
-    "address": "Buscemi's Pizzeria, Basilieklaan 102, 3270 Scherpenheuvel-Zichem",
-    "street": "Basilieklaan 102",
-    "postal_code": "3270",
-    "region": null,
-    "latitude": 50.979687299999995,
-    "longitude": 4.9709465,
-    "phone": null,
-    "website": "http://www.buscemis-pizza.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Buscemi%27s%20Pizzeria&query_place_id=ChIJB6qcNwBBwUcR-0bexgCaDD0",
-    "open_hours_json": {
-      "Monday": [
-        "5–9 pm"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "5–9 pm"
-      ],
-      "Friday": [
-        "5–9 pm"
-      ],
-      "Saturday": [
-        "5–9 pm"
-      ],
-      "Sunday": [
-        "5–9 pm"
-      ]
-    },
-    "review_count": 196,
-    "rating": 4.9,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfUm7h1XWHUa3xlf4IRukOwC93MvIj6qUxHOWMeS3S2CczWmJKFXGnDtOxo2ZeZkPIV3LT6PR-XuKImlYLrs6ulTVruXymGOTT3mtVT1JkvaRkRGWe70FYBwYsdiM3muU-HINWV=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfUm7h1XWHUa3xlf4IRukOwC93MvIj6qUxHOWMeS3S2CczWmJKFXGnDtOxo2ZeZkPIV3LT6PR-XuKImlYLrs6ulTVruXymGOTT3mtVT1JkvaRkRGWe70FYBwYsdiM3muU-HINWV=w1000-h750-no",
-    "source_query": "Halal restaurant in Scherpenheuvel, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJP6ORgi9BwUcR_y1bgq6kWpU",
-    "name": "Coffee Talk",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Scherpenheuvel-Zichem",
-    "address": "Coffee Talk, Basilieklaan 6, 3270 Scherpenheuvel-Zichem",
-    "street": "Basilieklaan 6",
-    "postal_code": "3270",
-    "region": null,
-    "latitude": 50.980097699999995,
-    "longitude": 4.9765226,
-    "phone": "0472 09 28 53",
-    "website": "https://www.dekoffieklets.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Coffee%20Talk&query_place_id=ChIJP6ORgi9BwUcR_y1bgq6kWpU",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "9 am–6 pm"
-      ],
-      "Wednesday": [
-        "9 am–6 pm"
-      ],
-      "Thursday": [
-        "9 am–6 pm"
-      ],
-      "Friday": [
-        "9 am–6 pm"
-      ],
-      "Saturday": [
-        "9 am–6 pm"
-      ],
-      "Sunday": [
-        "9 am–4 pm"
-      ]
-    },
-    "review_count": 353,
-    "rating": 4.4,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfsS0wTE0-jTXAX9R62kfqZQZ6lFqHs8GBP2lQFsYHfNJnR3vV_hhfFI-5ZqJA0qeZk_Gw7GNWuiZTt-VZHDJsziX8Sfe1NTUW9mBPgVOwJPZq1OnhMt6Z6wxchnndxOexAEAUapg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfsS0wTE0-jTXAX9R62kfqZQZ6lFqHs8GBP2lQFsYHfNJnR3vV_hhfFI-5ZqJA0qeZk_Gw7GNWuiZTt-VZHDJsziX8Sfe1NTUW9mBPgVOwJPZq1OnhMt6Z6wxchnndxOexAEAUapg=w1000-h750-no",
-    "source_query": "Halal restaurant in Scherpenheuvel, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ3wem9AtBwUcRuoQLIg8FUgA",
-    "name": "Collect&Go Scherpenheuvel-Zichem",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Scherpenheuvel-Zichem",
-    "address": "Collect&Go Scherpenheuvel-Zichem, August Nihoulstraat 139, 3270 Scherpenheuvel-Zichem",
-    "street": "August Nihoulstraat 139",
-    "postal_code": "3270",
-    "region": null,
-    "latitude": 50.974170099999995,
-    "longitude": 4.971832,
-    "phone": "02 363 50 05",
-    "website": "https://www.collectandgo.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Collect%26Go%20Scherpenheuvel-Zichem&query_place_id=ChIJ3wem9AtBwUcRuoQLIg8FUgA",
-    "open_hours_json": {
-      "Monday": [
-        "8 am–8 pm"
-      ],
-      "Tuesday": [
-        "8 am–8 pm"
-      ],
-      "Wednesday": [
-        "8 am–8 pm"
-      ],
-      "Thursday": [
-        "8 am–8 pm"
-      ],
-      "Friday": [
-        "8 am–9 pm"
-      ],
-      "Saturday": [
-        "8 am–8 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 2,
-    "rating": 4.0,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4csfmq2NVXiPL_2RZ_1AFg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=245.28983&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4csfmq2NVXiPL_2RZ_1AFg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=245.28983&pitch=0&thumbfov=w1000-h750-no",
-    "source_query": "Hypermarket in Scherpenheuvel, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ9e10WC9BwUcRkPYyZewqdFQ",
-    "name": "De Heerlyckheid",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Scherpenheuvel-Zichem",
-    "address": "De Heerlyckheid, Albertusplein 19, 3270 Scherpenheuvel-Zichem",
-    "street": "Albertusplein 19",
-    "postal_code": "3270",
-    "region": null,
-    "latitude": 50.9793179,
-    "longitude": 4.9784577,
-    "phone": "013 33 55 69",
-    "website": "http://www.eetcafedeheerlyckheid.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=De%20Heerlyckheid&query_place_id=ChIJ9e10WC9BwUcRkPYyZewqdFQ",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "10 am–6 pm"
-      ],
-      "Wednesday": [
-        "10 am–6 pm"
-      ],
-      "Thursday": [
-        "10 am–6 pm"
-      ],
-      "Friday": [
-        "10 am–6 pm"
-      ],
-      "Saturday": [
-        "10 am–7:30 pm"
-      ],
-      "Sunday": [
-        "10 am–7:30 pm"
-      ]
-    },
-    "review_count": 401,
-    "rating": 4.1,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfhwMQkMYlV1hchmNG0S68nlZyQNIUV_A7dyHH05cb0wiB9V52r70dftO5x-dPbB31x4FQHCkQSNjwzxyI0gfRwfmy3R4-FvBDWstyGA0Eqd06UT4kE_PgzdFPJWOqbjg6OObYV=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfhwMQkMYlV1hchmNG0S68nlZyQNIUV_A7dyHH05cb0wiB9V52r70dftO5x-dPbB31x4FQHCkQSNjwzxyI0gfRwfmy3R4-FvBDWstyGA0Eqd06UT4kE_PgzdFPJWOqbjg6OObYV=w1000-h750-no",
-    "source_query": "Halal restaurant in Scherpenheuvel, Flanders, BE",
     "moderation_status": "approved",
     "is_active": true,
     "verification_status": "UNVERIFIED",
