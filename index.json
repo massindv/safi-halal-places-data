@@ -110,9 +110,11 @@
     },
     "FI": {
       "name": "Finland",
-      "count": 1045,
-      "file": "places_FI.json",
-      "updated_at": "2026-11-19T19:42:32.644114+00:00"
+      "count": 1055,
+      "total_shards": 5,
+      "shards_dir": "shards/FI",
+      "cities_file": "shards/FI/cities.json",
+      "updated_at": "2026-11-20T03:36:33.102721+00:00"
     },
     "PT": {
       "name": "Portugal",
@@ -139,6 +141,6 @@
       "updated_at": "2026-11-20T01:16:15.891477+00:00"
     }
   },
-  "updated_at": "2026-11-20T03:28:09.849944+00:00",
-  "total_places": 31782
+  "updated_at": "2026-11-20T03:36:33.102721+00:00",
+  "total_places": 31792
 }
