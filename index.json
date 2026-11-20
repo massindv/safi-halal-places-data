@@ -54,11 +54,11 @@
     },
     "IT": {
       "name": "Italy",
-      "count": 1354,
+      "count": 1365,
       "total_shards": 6,
       "shards_dir": "shards/IT",
       "cities_file": "shards/IT/cities.json",
-      "updated_at": "2026-11-20T17:02:55.893292+00:00"
+      "updated_at": "2026-11-20T19:45:58.855630+00:00"
     },
     "GB": {
       "name": "United Kingdom",
@@ -141,6 +141,6 @@
       "updated_at": "2026-11-20T18:40:46.088192+00:00"
     }
   },
-  "updated_at": "2026-11-20T19:37:34.727449+00:00",
-  "total_places": 33350
+  "updated_at": "2026-11-20T19:45:58.855630+00:00",
+  "total_places": 33361
 }
