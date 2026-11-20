@@ -1,5 +1,33 @@
 [
   {
+    "place_id": "ChIJvwShMimv3EcRXf2smmu08Os",
+    "name": "Pauwels / Guido",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Ostend",
+    "address": "Pauwels / Guido, Frère-Orbanstraat 69, 8400 Oostende",
+    "street": "Frère-Orbanstraat 69",
+    "postal_code": "8400",
+    "region": null,
+    "latitude": 51.219854999999995,
+    "longitude": 2.9114087,
+    "phone": "059 70 66 59",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pauwels%20%2F%20Guido&query_place_id=ChIJvwShMimv3EcRXf2smmu08Os",
+    "open_hours_json": null,
+    "review_count": 0,
+    "rating": null,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QrvYE8veqOjxoXaQjoDukw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=193.99475&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QrvYE8veqOjxoXaQjoDukw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=193.99475&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Hypermarket in Ostend, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJEz-DvdOo3EcRWnGhdjlLeAw",
     "name": "Petit Nice",
     "type": "restaurant",
@@ -57,56 +85,6 @@
     "verification_evidence": null
   },
   {
-    "place_id": "ChIJqwJEMyyv3EcRWUkYgKmflQw",
-    "name": "Pitta Grill Alibaba",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Ostend",
-    "address": "Pitta Grill Alibaba, Torhoutsesteenweg 96, 8400 Oostende",
-    "street": "Torhoutsesteenweg 96",
-    "postal_code": "8400",
-    "region": null,
-    "latitude": 51.2227913,
-    "longitude": 2.9088591999999998,
-    "phone": "059 44 11 90",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pitta%20Grill%20Alibaba&query_place_id=ChIJqwJEMyyv3EcRWUkYgKmflQw",
-    "open_hours_json": {
-      "Monday": [
-        "11 am–11:30 pm"
-      ],
-      "Tuesday": [
-        "11 am–11:30 pm"
-      ],
-      "Wednesday": [
-        "11 am–11:30 pm"
-      ],
-      "Thursday": [
-        "11 am–11:30 pm"
-      ],
-      "Friday": [
-        "11 am–11:30 pm"
-      ],
-      "Saturday": [
-        "11 am–11:30 pm"
-      ],
-      "Sunday": [
-        "11 am–11:30 pm"
-      ]
-    },
-    "review_count": 62,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe5zJEfhaOUQwSNYW-1CWvf8UMuIrW2RJrZ45nKF6YGcUo7zv09ax9dh-hALChntfs9LJ8c_JT86fd5ub-SvxFzhxo9BBSH49hEijbC6hTePP5LjBvSCaf5Th_XdvEvS6y2iXX7DX5O4IHC=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe5zJEfhaOUQwSNYW-1CWvf8UMuIrW2RJrZ45nKF6YGcUo7zv09ax9dh-hALChntfs9LJ8c_JT86fd5ub-SvxFzhxo9BBSH49hEijbC6hTePP5LjBvSCaf5Th_XdvEvS6y2iXX7DX5O4IHC=w1000-h750-no",
-    "source_query": "Halal restaurant in Ostend, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
     "place_id": "ChIJD6bI6DWp3EcRvC8cKcjbAbU",
     "name": "Pizzeria Cezar",
     "type": "restaurant",
@@ -150,85 +128,6 @@
     "rating": 4.4,
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfIt_c-BsqYUz4_L-a32eJvgAXz0HwbznkyAwAeyAQbdOvOaokedLdnYYqtuTQ6N5a7Ng33Qv4KOY4nZXYA61B_qFqXMEunksvFqNZA_SaNCD2yUi3-sBu72iedEWh6aATKzjVB=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfIt_c-BsqYUz4_L-a32eJvgAXz0HwbznkyAwAeyAQbdOvOaokedLdnYYqtuTQ6N5a7Ng33Qv4KOY4nZXYA61B_qFqXMEunksvFqNZA_SaNCD2yUi3-sBu72iedEWh6aATKzjVB=w1000-h750-no",
-    "source_query": "Halal restaurant in Ostend, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJnVj_bxup3EcRGBbHM1LFm-8",
-    "name": "Poule & Poulette",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Ostend",
-    "address": "Poule & Poulette, Leopold II-laan 34, 8400 Oostende",
-    "street": "Leopold II-laan 34",
-    "postal_code": "8400",
-    "region": null,
-    "latitude": 51.2308938,
-    "longitude": 2.9127462,
-    "phone": "059 79 02 55",
-    "website": "http://www.poulepoulette.com/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Poule%20%26%20Poulette&query_place_id=ChIJnVj_bxup3EcRGBbHM1LFm-8",
-    "open_hours_json": {
-      "Monday": [
-        "5–8:30 pm"
-      ],
-      "Tuesday": [
-        "5–8:30 pm"
-      ],
-      "Wednesday": [
-        "12–8:30 pm"
-      ],
-      "Thursday": [
-        "5–8:30 pm"
-      ],
-      "Friday": [
-        "12–2:30 pm",
-        "5–9:30 pm"
-      ],
-      "Saturday": [
-        "12–9:30 pm"
-      ],
-      "Sunday": [
-        "12–8:30 pm"
-      ]
-    },
-    "review_count": 1165,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfQvGvPmaY-3uwtEInKdufgNTXaDuYXxK1J96eGnFZBYVvSLM9zY4iSSO1AKOUWvVihrdGx_uljh1GV9VEJseDdRvhlYy5q9M0IUkW-6IDFa3dEzSpwD6G478j5ZDCRGeuVih3UCA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfQvGvPmaY-3uwtEInKdufgNTXaDuYXxK1J96eGnFZBYVvSLM9zY4iSSO1AKOUWvVihrdGx_uljh1GV9VEJseDdRvhlYy5q9M0IUkW-6IDFa3dEzSpwD6G478j5ZDCRGeuVih3UCA=w1000-h750-no",
-    "source_query": "Halal restaurant in Ostend, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJf8JADm-v3EcRfgx4xPpusZU",
-    "name": "Presto restaurant Oostende",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Ostend",
-    "address": "Presto restaurant Oostende, Torhoutsesteenweg 184, 8400 Oostende",
-    "street": "Torhoutsesteenweg 184",
-    "postal_code": "8400",
-    "region": null,
-    "latitude": 51.2194302,
-    "longitude": 2.9079528999999997,
-    "phone": "0492 46 86 87",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Presto%20restaurant%20Oostende&query_place_id=ChIJf8JADm-v3EcRfgx4xPpusZU",
-    "open_hours_json": null,
-    "review_count": 23,
-    "rating": 4.2,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfqikj-8tmM-w7_F_yyfjHzxilne_A6kmlGDBMvD1B3ZBPlLaF6-ZAYAx1gu7ZXbB29jDDjB-p4npE6oUv14REyUC3y68wFLsa2fOWPS8CP4BEUVINJX_bXVB2ggM2WwTQVqK38nw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfqikj-8tmM-w7_F_yyfjHzxilne_A6kmlGDBMvD1B3ZBPlLaF6-ZAYAx1gu7ZXbB29jDDjB-p4npE6oUv14REyUC3y68wFLsa2fOWPS8CP4BEUVINJX_bXVB2ggM2WwTQVqK38nw=w1000-h750-no",
     "source_query": "Halal restaurant in Ostend, Flanders, BE",
     "moderation_status": "approved",
     "is_active": true,
@@ -1346,56 +1245,6 @@
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfrdqd-MXdOTN3tDQifFQSWUdWHwu4UhTVAYY8E-YSBaiX6dN-FuHUyqBGQQoyJCJH_AsLWLkpdxfb57y2L7b2JgZbqsQrhtNNFSHvN4lnfy87VRKS8wPp2nztKTIULfEs4vYzA=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfrdqd-MXdOTN3tDQifFQSWUdWHwu4UhTVAYY8E-YSBaiX6dN-FuHUyqBGQQoyJCJH_AsLWLkpdxfb57y2L7b2JgZbqsQrhtNNFSHvN4lnfy87VRKS8wPp2nztKTIULfEs4vYzA=w1000-h750-no",
     "source_query": "Fish restaurant in Ostend, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJJakFcGyp3EcRu0MXu7HXxQA",
-    "name": "Scopa Focacceria Oostende",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Ostend",
-    "address": "Scopa Focacceria Oostende, Kapellestraat 19, 8400 Ostend",
-    "street": "Kapellestraat 19",
-    "postal_code": "8400",
-    "region": null,
-    "latitude": 51.230991499999995,
-    "longitude": 2.9180292,
-    "phone": null,
-    "website": "https://www.scopafoca.it/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Scopa%20Focacceria%20Oostende&query_place_id=ChIJJakFcGyp3EcRu0MXu7HXxQA",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "11 am–6 pm"
-      ],
-      "Thursday": [
-        "11 am–6 pm"
-      ],
-      "Friday": [
-        "11 am–6 pm"
-      ],
-      "Saturday": [
-        "11 am–6 pm"
-      ],
-      "Sunday": [
-        "11 am–6 pm"
-      ]
-    },
-    "review_count": 266,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfLHXtcMVgd3KAWAp2uHdEywClij_H91xhrMwAydcoGWbh2INgXyhOmZDkCmWGZo8-iz3INv71N-sgm-9EqYFtummRSIuQUzDaakk6CuJpre_TffILrTi_1e7jgOJkmEj24DtES9SFK6TRo=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfLHXtcMVgd3KAWAp2uHdEywClij_H91xhrMwAydcoGWbh2INgXyhOmZDkCmWGZo8-iz3INv71N-sgm-9EqYFtummRSIuQUzDaakk6CuJpre_TffILrTi_1e7jgOJkmEj24DtES9SFK6TRo=w1000-h750-no",
-    "source_query": "Halal restaurant in Ostend, Flanders, BE",
     "moderation_status": "approved",
     "is_active": true,
     "verification_status": "UNVERIFIED",
@@ -11710,6 +11559,135 @@
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcpVYL482FzQTH73Zc9SP4u5E2rasWYcpHZVuX1TxHyuYv9lkCLunJYls7mVpzDyb-jJ2MiwnMejcD7zGzLoZydAFBpSAmpts9Y86hTs2qttGWpZfc9sOFo_pfBCh4D1bHQHsGdXA=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcpVYL482FzQTH73Zc9SP4u5E2rasWYcpHZVuX1TxHyuYv9lkCLunJYls7mVpzDyb-jJ2MiwnMejcD7zGzLoZydAFBpSAmpts9Y86hTs2qttGWpZfc9sOFo_pfBCh4D1bHQHsGdXA=w1000-h750-no",
     "source_query": "Hypermarket in Peer, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJm207howpwUcRRNKTCD0Jjvk",
+    "name": "L'Uno Coll'Altro",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Peer",
+    "address": "L'Uno Coll'Altro, Bomerstraat 22, 3990 Peer",
+    "street": "Bomerstraat 22",
+    "postal_code": "3990",
+    "region": null,
+    "latitude": 51.1307675,
+    "longitude": 5.446322599999999,
+    "phone": "011 63 71 78",
+    "website": "http://www.lunocollaltro.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=L%27Uno%20Coll%27Altro&query_place_id=ChIJm207howpwUcRRNKTCD0Jjvk",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "Closed"
+      ],
+      "Friday": [
+        "12–9 pm"
+      ],
+      "Saturday": [
+        "12–9 pm"
+      ],
+      "Sunday": [
+        "12–9 pm"
+      ]
+    },
+    "review_count": 326,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd3caCHgjmroZ-P7qrV46O-GWsjI0f9pMmcZTMGRSEewf2IknFVcyaSN-CYQX6lIvjU2Dsij86WiI1QV720UCX1D-zpCh2G1j1bOrKc44BlUrnSjg8TfeA1nArrfTEw7lJBmgA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd3caCHgjmroZ-P7qrV46O-GWsjI0f9pMmcZTMGRSEewf2IknFVcyaSN-CYQX6lIvjU2Dsij86WiI1QV720UCX1D-zpCh2G1j1bOrKc44BlUrnSjg8TfeA1nArrfTEw7lJBmgA=w1000-h750-no",
+    "source_query": "Halal restaurant in Peer, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJt6GbsHPWwEcRfAml1OUGYag",
+    "name": "Market Dome Erperheide",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Peer",
+    "address": "Market Dome Erperheide, Erperheidestraat 2, 3990 Peer",
+    "street": "Erperheidestraat 2",
+    "postal_code": "3990",
+    "region": null,
+    "latitude": 51.1267303,
+    "longitude": 5.5051418,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Market%20Dome%20Erperheide&query_place_id=ChIJt6GbsHPWwEcRfAml1OUGYag",
+    "open_hours_json": null,
+    "review_count": 12,
+    "rating": 4.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcKRRZcEwKu8zUNwl8804B8xeZ_4ydBKWWhDqEpwsR-5C0JBkrAjNrOLYAlOaCA46Q8jz1poIww0cy4kgT0xhTPjxVyK4Bf3v90CbVCvRvTI4PT6Bd0SV0PsNf9XPrd_mOBLlJsDgCQoWTc=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcKRRZcEwKu8zUNwl8804B8xeZ_4ydBKWWhDqEpwsR-5C0JBkrAjNrOLYAlOaCA46Q8jz1poIww0cy4kgT0xhTPjxVyK4Bf3v90CbVCvRvTI4PT6Bd0SV0PsNf9XPrd_mOBLlJsDgCQoWTc=w1000-h750-no",
+    "source_query": "Hypermarket in Peer, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJbSfdVWIpwUcRodawutDdFEA",
+    "name": "Momo's Broodjes & meer",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Peer",
+    "address": "Momo's Broodjes & meer, Baan naar Bree 16, 3990 Peer",
+    "street": "Baan naar Bree 16",
+    "postal_code": "3990",
+    "region": null,
+    "latitude": 51.1313326,
+    "longitude": 5.4609499,
+    "phone": "011 94 13 46",
+    "website": "https://momos-broodjeszaak.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Momo%27s%20Broodjes%20%26%20meer&query_place_id=ChIJbSfdVWIpwUcRodawutDdFEA",
+    "open_hours_json": {
+      "Monday": [
+        "10:30 am–7:30 pm"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "10:30 am–7:30 pm"
+      ],
+      "Thursday": [
+        "10:30 am–7:30 pm"
+      ],
+      "Friday": [
+        "10 am–1:30 pm",
+        "3–8 pm"
+      ],
+      "Saturday": [
+        "11:30 am–8 pm"
+      ],
+      "Sunday": [
+        "12–7:30 pm"
+      ]
+    },
+    "review_count": 94,
+    "rating": 4.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfDK7orB0vDPMmZ719yxOhOBwtRACTRnPxJ3fA0pBuWXEQWL0xqFNtZ7UYzFGuVNO0z09xjWyXA-PrwyqOObldGnCO7vzwnER9fpNjKbuNqG-heDXjXIrSKG3AfWRBHdhs49Lw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfDK7orB0vDPMmZ719yxOhOBwtRACTRnPxJ3fA0pBuWXEQWL0xqFNtZ7UYzFGuVNO0z09xjWyXA-PrwyqOObldGnCO7vzwnER9fpNjKbuNqG-heDXjXIrSKG3AfWRBHdhs49Lw=w1000-h750-no",
+    "source_query": "Halal restaurant in Peer, Flanders, BE",
     "moderation_status": "approved",
     "is_active": true,
     "verification_status": "UNVERIFIED",

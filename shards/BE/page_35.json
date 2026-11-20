@@ -1,5 +1,269 @@
 [
   {
+    "place_id": "ChIJ_xgJsC-V6kcRGRt3-Hz6JWs",
+    "name": "O Chalet",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Virton",
+    "address": "O Chalet, Rue Dr Jeanty 7, 6760 Virton",
+    "street": "Rue Dr Jeanty 7",
+    "postal_code": "6760",
+    "region": null,
+    "latitude": 49.5674705,
+    "longitude": 5.5310090999999995,
+    "phone": "063 67 72 55",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=O%20Chalet&query_place_id=ChIJ_xgJsC-V6kcRGRt3-Hz6JWs",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "10 am–2:30 pm",
+        "6–9:30 pm"
+      ],
+      "Wednesday": [
+        "10 am–2:30 pm",
+        "6–9:30 pm"
+      ],
+      "Thursday": [
+        "10 am–2:30 pm",
+        "6–9:30 pm"
+      ],
+      "Friday": [
+        "9 am–2:30 pm",
+        "6–9:30 pm"
+      ],
+      "Saturday": [
+        "6–9:30 pm"
+      ],
+      "Sunday": [
+        "10 am–2:39 pm"
+      ]
+    },
+    "review_count": 318,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfxXXCe-DoSnnfISer2ITLdXlXxEJQPjyWb44zHPwdXFsM3-ve0VoNmu2hT5FrNZhf-LR0aTpcB-ZyCEn5DNV4G0w3VZfbr5qLiwCbHRwXwiFZzn5pwj62CXIM0L76Lw9j9GBPz=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfxXXCe-DoSnnfISer2ITLdXlXxEJQPjyWb44zHPwdXFsM3-ve0VoNmu2hT5FrNZhf-LR0aTpcB-ZyCEn5DNV4G0w3VZfbr5qLiwCbHRwXwiFZzn5pwj62CXIM0L76Lw9j9GBPz=w1000-h750-no",
+    "source_query": "Halal restaurant in Virton, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJpZ6Ryy-V6kcRiH8D6hI1qvU",
+    "name": "Ottos tacos",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Virton",
+    "address": "Ottos tacos, Rue du Curé 4, 6760 Virton",
+    "street": "Rue du Curé 4",
+    "postal_code": "6760",
+    "region": null,
+    "latitude": 49.5670194,
+    "longitude": 5.5319612,
+    "phone": null,
+    "website": "https://wisaa.top/ottos-tacos",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ottos%20tacos&query_place_id=ChIJpZ6Ryy-V6kcRiH8D6hI1qvU",
+    "open_hours_json": {
+      "Monday": [
+        "11 am–2 pm",
+        "6–10:30 pm"
+      ],
+      "Tuesday": [
+        "11 am–2 pm",
+        "6–10:30 pm"
+      ],
+      "Wednesday": [
+        "11 am–2 pm",
+        "6–10:30 pm"
+      ],
+      "Thursday": [
+        "11 am–2 pm",
+        "6–10:30 pm"
+      ],
+      "Friday": [
+        "11 am–2 pm",
+        "6–11:30 pm"
+      ],
+      "Saturday": [
+        "6–11:30 pm"
+      ],
+      "Sunday": [
+        "6–10:30 pm"
+      ]
+    },
+    "review_count": 81,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd3bFP72DGL634CNZfQiXbSBUkM8B_E7jnTaO0k9aKVKeZjPPKzkiAIGLK_mRW9UuKVh1FB0KT14phXfef6OIESL420lRr8IIoygOBribnKH7p_4ZtrOBMqnoMD7fGSdy2ppOZYOw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd3bFP72DGL634CNZfQiXbSBUkM8B_E7jnTaO0k9aKVKeZjPPKzkiAIGLK_mRW9UuKVh1FB0KT14phXfef6OIESL420lRr8IIoygOBribnKH7p_4ZtrOBMqnoMD7fGSdy2ppOZYOw=w1000-h750-no",
+    "source_query": "Halal restaurant in Virton, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJGyZY6C-V6kcRVLINMtSY6lE",
+    "name": "Prés verts",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Virton",
+    "address": "Prés verts, Grand-Rue 52, 6760 Virton",
+    "street": "Grand-Rue 52",
+    "postal_code": "6760",
+    "region": null,
+    "latitude": 49.5681686,
+    "longitude": 5.5326667,
+    "phone": "063 42 25 67",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pr%C3%A9s%20verts&query_place_id=ChIJGyZY6C-V6kcRVLINMtSY6lE",
+    "open_hours_json": {
+      "Monday": [
+        "8 am–3 pm"
+      ],
+      "Tuesday": [
+        "8 am–3 pm"
+      ],
+      "Wednesday": [
+        "8 am–3 pm"
+      ],
+      "Thursday": [
+        "8 am–3 pm"
+      ],
+      "Friday": [
+        "8 am–3 pm"
+      ],
+      "Saturday": [
+        "Closed"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 181,
+    "rating": 4.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeb_aO88RwYMuxJfwJH3CBd-spQmLTSA2nXgDkzDjmCrot57_HfVrNiiVbM-mQma2tghkTVaMEVwFY7feuhRaCEVWv3VSbf59w8GCx9tY722Bde0SFvH366nW-N-wIR8uj_SCQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeb_aO88RwYMuxJfwJH3CBd-spQmLTSA2nXgDkzDjmCrot57_HfVrNiiVbM-mQma2tghkTVaMEVwFY7feuhRaCEVWv3VSbf59w8GCx9tY722Bde0SFvH366nW-N-wIR8uj_SCQ=w1000-h750-no",
+    "source_query": "Halal restaurant in Virton, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJAbhZHXaV6kcRsTBVU-rECk0",
+    "name": "Snack Chez Halil",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Virton",
+    "address": "Snack Chez Halil, Fbg d'Arival 40, 6760 Virton",
+    "street": "Fbg d'Arival 40",
+    "postal_code": "6760",
+    "region": null,
+    "latitude": 49.5654208,
+    "longitude": 5.5315749,
+    "phone": "0488 71 25 24",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Snack%20Chez%20Halil&query_place_id=ChIJAbhZHXaV6kcRsTBVU-rECk0",
+    "open_hours_json": {
+      "Monday": [
+        "11 am–2 pm",
+        "6–10 pm"
+      ],
+      "Tuesday": [
+        "11 am–2 pm",
+        "6–10 pm"
+      ],
+      "Wednesday": [
+        "11 am–2 pm",
+        "6–10 pm"
+      ],
+      "Thursday": [
+        "11 am–2 pm",
+        "6–10 pm"
+      ],
+      "Friday": [
+        "11 am–2 pm",
+        "6–10 pm"
+      ],
+      "Saturday": [
+        "6–10 pm"
+      ],
+      "Sunday": [
+        "6–10 pm"
+      ]
+    },
+    "review_count": 83,
+    "rating": 4.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdjIpHelpOGaYf6BOL9AdQDIfal0SEu9el4cQF5uyk0QdFHoYk8iD5abuIOTtffrE3AcpO7W4pKkcDH7sG1Rps1UqDLdl1RcpnEbci00vyWvcNDWY_3heSPZ_Wa1JqCvjEvO1JH3w=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdjIpHelpOGaYf6BOL9AdQDIfal0SEu9el4cQF5uyk0QdFHoYk8iD5abuIOTtffrE3AcpO7W4pKkcDH7sG1Rps1UqDLdl1RcpnEbci00vyWvcNDWY_3heSPZ_Wa1JqCvjEvO1JH3w=w1000-h750-no",
+    "source_query": "Halal restaurant in Virton, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ6939PUdxw0cRLEaAU9wFebA",
+    "name": "Steenweg",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Virton",
+    "address": "Steenweg, A la Cr Marchal 25, 6760 Virton",
+    "street": "A la Cr Marchal 25",
+    "postal_code": "6760",
+    "region": null,
+    "latitude": 49.565711,
+    "longitude": 5.5354344,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Steenweg&query_place_id=ChIJ6939PUdxw0cRLEaAU9wFebA",
+    "open_hours_json": {
+      "Monday": [
+        "7:45 am–5 pm"
+      ],
+      "Tuesday": [
+        "7:45 am–5 pm"
+      ],
+      "Wednesday": [
+        "7:45 am–5 pm"
+      ],
+      "Thursday": [
+        "7:45 am–5 pm"
+      ],
+      "Friday": [
+        "7:45 am–5 pm"
+      ],
+      "Saturday": [
+        "9 am–5 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 51,
+    "rating": 3.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcXhS1DHzJqfl2XXuVUOEVEHQlxw4kJL0GjVwiLhtcSeZitE_sYlUMVGYRUWe0UhB_GBSseJmu2TztCtixIJv4HvIHAvIaojlLeLHpx6h5B2UPMMFz3Qq3lMfe1a6tEFoebaq2SIA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcXhS1DHzJqfl2XXuVUOEVEHQlxw4kJL0GjVwiLhtcSeZitE_sYlUMVGYRUWe0UhB_GBSseJmu2TztCtixIJv4HvIHAvIaojlLeLHpx6h5B2UPMMFz3Qq3lMfe1a6tEFoebaq2SIA=w1000-h750-no",
+    "source_query": "Fish restaurant in Virton, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJU2OnfDuV6kcRLG69SCQz5qE",
     "name": "TRAFIC VIRTON",
     "type": "restaurant",
@@ -1696,8 +1960,8 @@
     "phone": "04 362 28 43",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mosqu%C3%A9e%20Mimar%20Sinan&query_place_id=ChIJS8VnxpXxwEcRSxnrhGUht2M",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLewUrj1Rgu6i9T_76RdZ6GZX4n1T29HoBeUXqde_IFPS9SurTYy6EpiRIN-eQGb7yM_5LBIBPnzjwrKPcIsX2tqJgZJLaNu4DRBRkPHEggNf7rhe3bWv6Ys6nDcR7SDsHP-KrF5=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLewUrj1Rgu6i9T_76RdZ6GZX4n1T29HoBeUXqde_IFPS9SurTYy6EpiRIN-eQGb7yM_5LBIBPnzjwrKPcIsX2tqJgZJLaNu4DRBRkPHEggNf7rhe3bWv6Ys6nDcR7SDsHP-KrF5=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeKVQTmELxppz9J_WqtJ-PCv6viFrN501ODo_plztcq3smKlbw962SqPAl3drYiW2IOJAyA6CLskBcBWQG09ZIk9Twlh1hp_6Avy3Tqae2vi8YWsTgT-hya5laJ3a6zQMJBAi0G=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeKVQTmELxppz9J_WqtJ-PCv6viFrN501ODo_plztcq3smKlbw962SqPAl3drYiW2IOJAyA6CLskBcBWQG09ZIk9Twlh1hp_6Avy3Tqae2vi8YWsTgT-hya5laJ3a6zQMJBAi0G=w1000-h750-no",
     "rating": 5.0,
     "review_count": 26,
     "verification_status": "UNVERIFIED",
@@ -2574,8 +2838,8 @@
     "phone": null,
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=AlKaram&query_place_id=ChIJlUeztTLEw0cRIyrOxJIPAro",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfHHxwpxOjyJ_KfLsmaqKh7RVevy2W3RHL3uVHcC0_Hqv5TdO2yoGW6HmrGB3kWth0WLuP-MNcayvQvYQbj55qiwSFnyFMirtE1zKoC4H3iHf6NnLBn012WJqNwMUsQX3xwg0WhXQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfHHxwpxOjyJ_KfLsmaqKh7RVevy2W3RHL3uVHcC0_Hqv5TdO2yoGW6HmrGB3kWth0WLuP-MNcayvQvYQbj55qiwSFnyFMirtE1zKoC4H3iHf6NnLBn012WJqNwMUsQX3xwg0WhXQ=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc6s_zLs7R7lHh-HPYn8kAtCRqkbMa4NoNr7qpFFmagNFbZ7Lb8CNw9uizIcBkFAZon9fa6sWUF3BjQ_090G0CNKM343Ziwek20g0GN4TZGqNKhj1Uh7kgj7Wi1iZjpCIuNrbGDhw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc6s_zLs7R7lHh-HPYn8kAtCRqkbMa4NoNr7qpFFmagNFbZ7Lb8CNw9uizIcBkFAZon9fa6sWUF3BjQ_090G0CNKM343Ziwek20g0GN4TZGqNKhj1Uh7kgj7Wi1iZjpCIuNrbGDhw=w1000-h750-no",
     "rating": 4.4,
     "review_count": 72,
     "verification_status": "UNVERIFIED",
@@ -11368,235 +11632,6 @@
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcNG_SSXkk_g57WkVLJpWEdRY-06aHAhRJNuFzF7N2cUMzRD72blkU3opotzPNlRs4oi8IZ45FSrPO68k8kI3kdwNHmlhVMc1viNecKNe3mOLoET0IYpSeZ5RpuEa0tw_pMrqNdsQ=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcNG_SSXkk_g57WkVLJpWEdRY-06aHAhRJNuFzF7N2cUMzRD72blkU3opotzPNlRs4oi8IZ45FSrPO68k8kI3kdwNHmlhVMc1viNecKNe3mOLoET0IYpSeZ5RpuEa0tw_pMrqNdsQ=w1000-h750-no",
     "source_query": "Moroccan restaurant in Wavre, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJo5o3F1R9wUcRFkLWByZgQFA",
-    "name": "Le Corner",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Wavre",
-    "address": "Le Corner, Rue de Nivelles 127, 1300 Wavre",
-    "street": "Rue de Nivelles 127",
-    "postal_code": "1300",
-    "region": null,
-    "latitude": 50.713961,
-    "longitude": 4.605246,
-    "phone": "0495 52 22 99",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Corner&query_place_id=ChIJo5o3F1R9wUcRFkLWByZgQFA",
-    "open_hours_json": {
-      "Monday": [
-        "5:30 pm–12 am"
-      ],
-      "Tuesday": [
-        "5:30 pm–12 am"
-      ],
-      "Wednesday": [
-        "5:30 pm–12 am"
-      ],
-      "Thursday": [
-        "5:30 pm–12 am"
-      ],
-      "Friday": [
-        "5:30 pm–1 am"
-      ],
-      "Saturday": [
-        "5:30 pm–1 am"
-      ],
-      "Sunday": [
-        "5:30 pm–12 am"
-      ]
-    },
-    "review_count": 237,
-    "rating": 4.5,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf6XV70_S-S1JWwbJLX_k36A0_ad_llEYS6z1zbpivkHEFIWV2xq_qXJ8VLvpXZHKXsw-bTDy0URh5gZkiYpQujYZ80b7bChp00JyNBx06BdqHWaDHNnnzoGDHigGZwCGvJ_OlKkD9f4b3x=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf6XV70_S-S1JWwbJLX_k36A0_ad_llEYS6z1zbpivkHEFIWV2xq_qXJ8VLvpXZHKXsw-bTDy0URh5gZkiYpQujYZ80b7bChp00JyNBx06BdqHWaDHNnnzoGDHigGZwCGvJ_OlKkD9f4b3x=w1000-h750-no",
-    "source_query": "Halal restaurant in Wavre, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ65uHRld9wUcR4DyJlRjoRG0",
-    "name": "Le Soleil de Marrakech",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Wavre",
-    "address": "Le Soleil de Marrakech, Rue de Namur 43, 1300 Wavre",
-    "street": "Rue de Namur 43",
-    "postal_code": "1300",
-    "region": null,
-    "latitude": 50.7123625,
-    "longitude": 4.6120199,
-    "phone": "0472 86 20 01",
-    "website": "https://soleil-de-marrakech.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Soleil%20de%20Marrakech&query_place_id=ChIJ65uHRld9wUcR4DyJlRjoRG0",
-    "open_hours_json": null,
-    "review_count": 72,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc3SZ4WfaoWAjfGsO-m-k85yGM5xtXYlutj5GCjn6sv72aOsbhE-hqrZtjJTdSvJqSghH6g8I-GFskk0Bq7zv96wKdMQ00IE4H6X8lhH0ESXvz4Cz-FPHj7lTYKu5sAgJuK3WPehQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc3SZ4WfaoWAjfGsO-m-k85yGM5xtXYlutj5GCjn6sv72aOsbhE-hqrZtjJTdSvJqSghH6g8I-GFskk0Bq7zv96wKdMQ00IE4H6X8lhH0ESXvz4Cz-FPHj7lTYKu5sAgJuK3WPehQ=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Wavreille, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJrRAyKPh9wUcRjeJm95e9Zxs",
-    "name": "Le Souq Market",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Wavre",
-    "address": "Le Souq Market, Av. des Princes 30, 1300 Wavre",
-    "street": "Av. des Princes 30",
-    "postal_code": "1300",
-    "region": null,
-    "latitude": 50.7161773,
-    "longitude": 4.6152673,
-    "phone": "010 41 07 17",
-    "website": "https://souqmarket.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Souq%20Market&query_place_id=ChIJrRAyKPh9wUcRjeJm95e9Zxs",
-    "open_hours_json": {
-      "Monday": [
-        "8:30 am–8 pm"
-      ],
-      "Tuesday": [
-        "8:30 am–8 pm"
-      ],
-      "Wednesday": [
-        "8:30 am–8 pm"
-      ],
-      "Thursday": [
-        "8:30 am–8 pm"
-      ],
-      "Friday": [
-        "8:30 am–8 pm"
-      ],
-      "Saturday": [
-        "8:30 am–8 pm"
-      ],
-      "Sunday": [
-        "8:30 am–8 pm"
-      ]
-    },
-    "review_count": 144,
-    "rating": 4.1,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcKeSWxzYidpPJU8CpyztZy8vs21-y8SjUtATcbbZih5EnFSfrznFgXldp6xcB9-HAeBRIZfxGT8zTsFvyH1ioKH2WlkKrOgalYZfzDAw9x7Rpl4_mviyxSMIgdQE3yPba2zUCI2A84e20=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcKeSWxzYidpPJU8CpyztZy8vs21-y8SjUtATcbbZih5EnFSfrznFgXldp6xcB9-HAeBRIZfxGT8zTsFvyH1ioKH2WlkKrOgalYZfzDAw9x7Rpl4_mviyxSMIgdQE3yPba2zUCI2A84e20=w1000-h750-no",
-    "source_query": "Halal restaurant in Wavre, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJU92ycx19wUcRwcv8Ynf5SPg",
-    "name": "Les Halles",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Wavre",
-    "address": "Les Halles, Chau. de Louvain 509, 1300 Wavre",
-    "street": "Chau. de Louvain 509",
-    "postal_code": "1300",
-    "region": null,
-    "latitude": 50.724486399999996,
-    "longitude": 4.637857299999999,
-    "phone": "010 81 08 21",
-    "website": "https://les-halles.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les%20Halles&query_place_id=ChIJU92ycx19wUcRwcv8Ynf5SPg",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "12–2 pm",
-        "7–9:30 pm"
-      ],
-      "Wednesday": [
-        "10 am–9:30 pm"
-      ],
-      "Thursday": [
-        "10 am–9:30 pm"
-      ],
-      "Friday": [
-        "10 am–9:30 pm"
-      ],
-      "Saturday": [
-        "10 am–9:30 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 230,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdbs64n9v-wHtf6sXxPq9N7pJacOOWbwV-R-Qxf49YovoGLrUuUWdBacLsGMyNgtFvw4cVxoZXHhBhseEe0Up9SZP5LmFaMIZqkYerpcXdhNFYusAyqID4eJBOlcObkPbP_zwwV3Q=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdbs64n9v-wHtf6sXxPq9N7pJacOOWbwV-R-Qxf49YovoGLrUuUWdBacLsGMyNgtFvw4cVxoZXHhBhseEe0Up9SZP5LmFaMIZqkYerpcXdhNFYusAyqID4eJBOlcObkPbP_zwwV3Q=w1000-h750-no",
-    "source_query": "Fish restaurant in Wavre, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJv2NcLz_Ww0cRnZ48Pu2KjvE",
-    "name": "Les Pirates de la Bouffe",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Wavre",
-    "address": "Les Pirates de la Bouffe, Av. de la Calèche 22, 1300 Wavre",
-    "street": "Av. de la Calèche 22",
-    "postal_code": "1300",
-    "region": null,
-    "latitude": 50.6987342,
-    "longitude": 4.5625374,
-    "phone": "0476 60 67 06",
-    "website": "http://www.piratesdelabouffe.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les%20Pirates%20de%20la%20Bouffe&query_place_id=ChIJv2NcLz_Ww0cRnZ48Pu2KjvE",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "Closed"
-      ],
-      "Friday": [
-        "4–7 pm"
-      ],
-      "Saturday": [
-        "Closed"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 27,
-    "rating": 4.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc11EsII1OtGKNFItRmcqNfHa7CCwF_h581rNJMZIw5XQzc77pp_dUzFsBLik3LAYoJoaac37zr7bCkdHwJxQJ0edCWt2a55vDw9KHN8IDjFmW8fDIsZcKJcQ8VpSpvLsE5sSt0=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc11EsII1OtGKNFItRmcqNfHa7CCwF_h581rNJMZIw5XQzc77pp_dUzFsBLik3LAYoJoaac37zr7bCkdHwJxQJ0edCWt2a55vDw9KHN8IDjFmW8fDIsZcKJcQ8VpSpvLsE5sSt0=w1000-h750-no",
-    "source_query": "Fish restaurant in Wavre, Wallonia, BE",
     "moderation_status": "approved",
     "is_active": true,
     "verification_status": "UNVERIFIED",

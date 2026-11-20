@@ -1,5 +1,234 @@
 [
   {
+    "place_id": "ChIJo5o3F1R9wUcRFkLWByZgQFA",
+    "name": "Le Corner",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Wavre",
+    "address": "Le Corner, Rue de Nivelles 127, 1300 Wavre",
+    "street": "Rue de Nivelles 127",
+    "postal_code": "1300",
+    "region": null,
+    "latitude": 50.713961,
+    "longitude": 4.605246,
+    "phone": "0495 52 22 99",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Corner&query_place_id=ChIJo5o3F1R9wUcRFkLWByZgQFA",
+    "open_hours_json": {
+      "Monday": [
+        "5:30 pm–12 am"
+      ],
+      "Tuesday": [
+        "5:30 pm–12 am"
+      ],
+      "Wednesday": [
+        "5:30 pm–12 am"
+      ],
+      "Thursday": [
+        "5:30 pm–12 am"
+      ],
+      "Friday": [
+        "5:30 pm–1 am"
+      ],
+      "Saturday": [
+        "5:30 pm–1 am"
+      ],
+      "Sunday": [
+        "5:30 pm–12 am"
+      ]
+    },
+    "review_count": 237,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf6XV70_S-S1JWwbJLX_k36A0_ad_llEYS6z1zbpivkHEFIWV2xq_qXJ8VLvpXZHKXsw-bTDy0URh5gZkiYpQujYZ80b7bChp00JyNBx06BdqHWaDHNnnzoGDHigGZwCGvJ_OlKkD9f4b3x=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf6XV70_S-S1JWwbJLX_k36A0_ad_llEYS6z1zbpivkHEFIWV2xq_qXJ8VLvpXZHKXsw-bTDy0URh5gZkiYpQujYZ80b7bChp00JyNBx06BdqHWaDHNnnzoGDHigGZwCGvJ_OlKkD9f4b3x=w1000-h750-no",
+    "source_query": "Halal restaurant in Wavre, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ65uHRld9wUcR4DyJlRjoRG0",
+    "name": "Le Soleil de Marrakech",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Wavre",
+    "address": "Le Soleil de Marrakech, Rue de Namur 43, 1300 Wavre",
+    "street": "Rue de Namur 43",
+    "postal_code": "1300",
+    "region": null,
+    "latitude": 50.7123625,
+    "longitude": 4.6120199,
+    "phone": "0472 86 20 01",
+    "website": "https://soleil-de-marrakech.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Soleil%20de%20Marrakech&query_place_id=ChIJ65uHRld9wUcR4DyJlRjoRG0",
+    "open_hours_json": null,
+    "review_count": 72,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc3SZ4WfaoWAjfGsO-m-k85yGM5xtXYlutj5GCjn6sv72aOsbhE-hqrZtjJTdSvJqSghH6g8I-GFskk0Bq7zv96wKdMQ00IE4H6X8lhH0ESXvz4Cz-FPHj7lTYKu5sAgJuK3WPehQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc3SZ4WfaoWAjfGsO-m-k85yGM5xtXYlutj5GCjn6sv72aOsbhE-hqrZtjJTdSvJqSghH6g8I-GFskk0Bq7zv96wKdMQ00IE4H6X8lhH0ESXvz4Cz-FPHj7lTYKu5sAgJuK3WPehQ=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Wavreille, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJrRAyKPh9wUcRjeJm95e9Zxs",
+    "name": "Le Souq Market",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Wavre",
+    "address": "Le Souq Market, Av. des Princes 30, 1300 Wavre",
+    "street": "Av. des Princes 30",
+    "postal_code": "1300",
+    "region": null,
+    "latitude": 50.7161773,
+    "longitude": 4.6152673,
+    "phone": "010 41 07 17",
+    "website": "https://souqmarket.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Souq%20Market&query_place_id=ChIJrRAyKPh9wUcRjeJm95e9Zxs",
+    "open_hours_json": {
+      "Monday": [
+        "8:30 am–8 pm"
+      ],
+      "Tuesday": [
+        "8:30 am–8 pm"
+      ],
+      "Wednesday": [
+        "8:30 am–8 pm"
+      ],
+      "Thursday": [
+        "8:30 am–8 pm"
+      ],
+      "Friday": [
+        "8:30 am–8 pm"
+      ],
+      "Saturday": [
+        "8:30 am–8 pm"
+      ],
+      "Sunday": [
+        "8:30 am–8 pm"
+      ]
+    },
+    "review_count": 144,
+    "rating": 4.1,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcKeSWxzYidpPJU8CpyztZy8vs21-y8SjUtATcbbZih5EnFSfrznFgXldp6xcB9-HAeBRIZfxGT8zTsFvyH1ioKH2WlkKrOgalYZfzDAw9x7Rpl4_mviyxSMIgdQE3yPba2zUCI2A84e20=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcKeSWxzYidpPJU8CpyztZy8vs21-y8SjUtATcbbZih5EnFSfrznFgXldp6xcB9-HAeBRIZfxGT8zTsFvyH1ioKH2WlkKrOgalYZfzDAw9x7Rpl4_mviyxSMIgdQE3yPba2zUCI2A84e20=w1000-h750-no",
+    "source_query": "Halal restaurant in Wavre, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJU92ycx19wUcRwcv8Ynf5SPg",
+    "name": "Les Halles",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Wavre",
+    "address": "Les Halles, Chau. de Louvain 509, 1300 Wavre",
+    "street": "Chau. de Louvain 509",
+    "postal_code": "1300",
+    "region": null,
+    "latitude": 50.724486399999996,
+    "longitude": 4.637857299999999,
+    "phone": "010 81 08 21",
+    "website": "https://les-halles.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les%20Halles&query_place_id=ChIJU92ycx19wUcRwcv8Ynf5SPg",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "12–2 pm",
+        "7–9:30 pm"
+      ],
+      "Wednesday": [
+        "10 am–9:30 pm"
+      ],
+      "Thursday": [
+        "10 am–9:30 pm"
+      ],
+      "Friday": [
+        "10 am–9:30 pm"
+      ],
+      "Saturday": [
+        "10 am–9:30 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 230,
+    "rating": 4.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdbs64n9v-wHtf6sXxPq9N7pJacOOWbwV-R-Qxf49YovoGLrUuUWdBacLsGMyNgtFvw4cVxoZXHhBhseEe0Up9SZP5LmFaMIZqkYerpcXdhNFYusAyqID4eJBOlcObkPbP_zwwV3Q=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdbs64n9v-wHtf6sXxPq9N7pJacOOWbwV-R-Qxf49YovoGLrUuUWdBacLsGMyNgtFvw4cVxoZXHhBhseEe0Up9SZP5LmFaMIZqkYerpcXdhNFYusAyqID4eJBOlcObkPbP_zwwV3Q=w1000-h750-no",
+    "source_query": "Fish restaurant in Wavre, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJv2NcLz_Ww0cRnZ48Pu2KjvE",
+    "name": "Les Pirates de la Bouffe",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Wavre",
+    "address": "Les Pirates de la Bouffe, Av. de la Calèche 22, 1300 Wavre",
+    "street": "Av. de la Calèche 22",
+    "postal_code": "1300",
+    "region": null,
+    "latitude": 50.6987342,
+    "longitude": 4.5625374,
+    "phone": "0476 60 67 06",
+    "website": "http://www.piratesdelabouffe.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les%20Pirates%20de%20la%20Bouffe&query_place_id=ChIJv2NcLz_Ww0cRnZ48Pu2KjvE",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "Closed"
+      ],
+      "Friday": [
+        "4–7 pm"
+      ],
+      "Saturday": [
+        "Closed"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 27,
+    "rating": 4.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc11EsII1OtGKNFItRmcqNfHa7CCwF_h581rNJMZIw5XQzc77pp_dUzFsBLik3LAYoJoaac37zr7bCkdHwJxQJ0edCWt2a55vDw9KHN8IDjFmW8fDIsZcKJcQ8VpSpvLsE5sSt0=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc11EsII1OtGKNFItRmcqNfHa7CCwF_h581rNJMZIw5XQzc77pp_dUzFsBLik3LAYoJoaac37zr7bCkdHwJxQJ0edCWt2a55vDw9KHN8IDjFmW8fDIsZcKJcQ8VpSpvLsE5sSt0=w1000-h750-no",
+    "source_query": "Fish restaurant in Wavre, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJt753Gjt9wUcReMcqBcdWRos",
     "name": "Macavrac",
     "type": "restaurant",
@@ -3379,16 +3608,14 @@
     "phone": null,
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Bayt%20Al-Salaam&query_place_id=ChIJdfmIdQDvw0cRkaw1E7hd5mo",
-    "open_hours_json": null,
-    "review_count": 7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeG2DKbBUeqrhq_Jyo6-YU3PuR06gq4QJfiY3eh8DEFAHjVZ0ejiKp3eyaW0Q_lbydrnxu6Aftjsha345LS3pa-OGI3c9xS4zw_tCqkk18SHL01quKXhAHBq9JJovaobQg-dwijRr8JVEtX=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeG2DKbBUeqrhq_Jyo6-YU3PuR06gq4QJfiY3eh8DEFAHjVZ0ejiKp3eyaW0Q_lbydrnxu6Aftjsha345LS3pa-OGI3c9xS4zw_tCqkk18SHL01quKXhAHBq9JJovaobQg-dwijRr8JVEtX=w1000-h750-no",
     "rating": 4.4,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeefsd7YspQIZSB8H8phZAXHQdUE7sVqDcLOQNjZkkJR5K_HegK5U3wn7EsiqjK24y1vDBEAtxzxyJEsD-mAVXrD9pqUdndKq8XIbMnE601pt2JiVIsWIzTZAX1ko8DjlAp21W4OF3QFmQi=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeefsd7YspQIZSB8H8phZAXHQdUE7sVqDcLOQNjZkkJR5K_HegK5U3wn7EsiqjK24y1vDBEAtxzxyJEsD-mAVXrD9pqUdndKq8XIbMnE601pt2JiVIsWIzTZAX1ko8DjlAp21W4OF3QFmQi=w1000-h750-no",
-    "source_query": "Mosque in Tielt-Winge, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
+    "review_count": 7,
     "verification_status": "UNVERIFIED",
-    "verification_evidence": null
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
   },
   {
     "place_id": "ChIJa2m3MGTuw0cRrd09UwyGKpM",
@@ -6828,10 +7055,10 @@
     "phone": "0467 87 81 98",
     "website": "https://www.facebook.com/PureHetVlees",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Slagerij%20Elif%20Zaventem%20%28%20The%20Halal%20Butcher%20%26%20The%20Helal%20Kasap%20%29&query_place_id=ChIJW1-tLsXdw0cR9dPgwn7sge4",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdLmbm10RDZy66tKOOhBymyelbT2RgHtJDlkJUAXHebnxT4KEEgnxZdrq8S23im6SedsiZrNUZMG61O2EOGCN1q6laPw6_LdREXXDo_KJLuF3lQqEEzTZsnKwEm08r2mi2UU_wUR4zk2xc=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdLmbm10RDZy66tKOOhBymyelbT2RgHtJDlkJUAXHebnxT4KEEgnxZdrq8S23im6SedsiZrNUZMG61O2EOGCN1q6laPw6_LdREXXDo_KJLuF3lQqEEzTZsnKwEm08r2mi2UU_wUR4zk2xc=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeuWpi2oEbrq8jNKcfyQLGPKuOhLYvD4TdzM9SV4kVRLkXdRcpeq2GOVvOAGNpDrNNaINZrla2yfLhXZktzHclx_a35Ee37GRKepS_xEwCEq2no3q_D0MbJFoV_O4WWqlp2nXsF=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeuWpi2oEbrq8jNKcfyQLGPKuOhLYvD4TdzM9SV4kVRLkXdRcpeq2GOVvOAGNpDrNNaINZrla2yfLhXZktzHclx_a35Ee37GRKepS_xEwCEq2no3q_D0MbJFoV_O4WWqlp2nXsF=w1000-h750-no",
     "rating": 4.3,
-    "review_count": 116,
+    "review_count": 117,
     "verification_status": "VERIFIED",
     "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
     "is_active": true,
