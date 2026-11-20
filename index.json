@@ -106,11 +106,13 @@
     },
     "IE": {
       "name": "Ireland",
-      "count": 1155,
-      "file": "places_IE.json",
-      "updated_at": "2026-11-19T20:13:16.808679+00:00"
+      "count": 1174,
+      "total_shards": 5,
+      "shards_dir": "shards/IE",
+      "cities_file": "shards/IE/cities.json",
+      "updated_at": "2026-11-20T01:16:15.891477+00:00"
     }
   },
-  "updated_at": "2026-11-20T01:05:36.648926+00:00",
-  "total_places": 24027
+  "updated_at": "2026-11-20T01:16:15.891477+00:00",
+  "total_places": 24046
 }
