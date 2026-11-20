@@ -1,5 +1,55 @@
 [
   {
+    "place_id": "ChIJ7ezEZgCp3EcR9Lduh9zr8vw",
+    "name": "Mediterraneo",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Ostend",
+    "address": "Mediterraneo, Kapellestraat 87b, 8400 Oostende",
+    "street": "Kapellestraat 87b",
+    "postal_code": "8400",
+    "region": null,
+    "latitude": 51.228881099999995,
+    "longitude": 2.9201387999999997,
+    "phone": "059 50 33 20",
+    "website": "https://mediterraneo.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mediterraneo&query_place_id=ChIJ7ezEZgCp3EcR9Lduh9zr8vw",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "10 am–6 pm"
+      ],
+      "Wednesday": [
+        "10 am–6 pm"
+      ],
+      "Thursday": [
+        "10 am–6 pm"
+      ],
+      "Friday": [
+        "10 am–6 pm"
+      ],
+      "Saturday": [
+        "10 am–6 pm"
+      ],
+      "Sunday": [
+        "11 am–6 pm"
+      ]
+    },
+    "review_count": 26,
+    "rating": 4.9,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc0E5oT4RwMhSpYLwXN9ynal0L_CbMnt-qF0UfadjWzmdTNcBuCgxGgDo-49oC3jJsXsD1dXOgM42I7mlxtHkSpXA-xTGgwb2iluCqNxlhYF6yo0a2Cjo1RVp55BS72EOmhu9CspXxfr41q=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc0E5oT4RwMhSpYLwXN9ynal0L_CbMnt-qF0UfadjWzmdTNcBuCgxGgDo-49oC3jJsXsD1dXOgM42I7mlxtHkSpXA-xTGgwb2iluCqNxlhYF6yo0a2Cjo1RVp55BS72EOmhu9CspXxfr41q=w1000-h750-no",
+    "source_query": "Hypermarket in Ostend, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJ6VQQBdao3EcR7N6-V_HrYP0",
     "name": "Mini Mix",
     "type": "restaurant",
@@ -11660,56 +11710,6 @@
     "rating": 4.1,
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc5yLBdxofR9f_VDc3k4YP6luY-_hnGsdOpAVIGa6jU5OsC2paKlAQdXUY2jG0WONVu0FN266Xfm-RLIEL7s-UzpXI4Vu5GSAIrbnUUeKrGfYApNdrYSIw00GCJn10P1MXeskg=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc5yLBdxofR9f_VDc3k4YP6luY-_hnGsdOpAVIGa6jU5OsC2paKlAQdXUY2jG0WONVu0FN266Xfm-RLIEL7s-UzpXI4Vu5GSAIrbnUUeKrGfYApNdrYSIw00GCJn10P1MXeskg=w1000-h750-no",
-    "source_query": "Hypermarket in Beringen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJiwy44k87wUcR3Z8z8QMFqMo",
-    "name": "Spar Paal",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Paal",
-    "address": "Spar Paal, Sint-Janstraat 7, 3583 Paal",
-    "street": "Sint-Janstraat 7",
-    "postal_code": "3583",
-    "region": null,
-    "latitude": 51.039787999999994,
-    "longitude": 5.174332199999999,
-    "phone": "011 43 17 08",
-    "website": "https://www.mijnspar.be/winkels/spar-paal",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Spar%20Paal&query_place_id=ChIJiwy44k87wUcR3Z8z8QMFqMo",
-    "open_hours_json": {
-      "Monday": [
-        "8:30 am–6:30 pm"
-      ],
-      "Tuesday": [
-        "8:30 am–6:30 pm"
-      ],
-      "Wednesday": [
-        "8:30 am–6:30 pm"
-      ],
-      "Thursday": [
-        "8:30 am–6:30 pm"
-      ],
-      "Friday": [
-        "8:30 am–6:30 pm"
-      ],
-      "Saturday": [
-        "8:30 am–6 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 65,
-    "rating": 4.2,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdbtmOHX9lwO6pweVUFBidFf0kEXq0Oh4YgBRnN3KhdtX11ECD5k6u8795zFf4_z0LN1yOnVEE27zYbptDsg_Ut2gmCZ-aKxFECR58enZVDxwEJ-3zXUpqC8cQ-Cv6mUw8apNECLdPqOsH6=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdbtmOHX9lwO6pweVUFBidFf0kEXq0Oh4YgBRnN3KhdtX11ECD5k6u8795zFf4_z0LN1yOnVEE27zYbptDsg_Ut2gmCZ-aKxFECR58enZVDxwEJ-3zXUpqC8cQ-Cv6mUw8apNECLdPqOsH6=w1000-h750-no",
     "source_query": "Hypermarket in Beringen, Flanders, BE",
     "moderation_status": "approved",
     "is_active": true,
