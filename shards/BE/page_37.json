@@ -1,5 +1,209 @@
 [
   {
+    "place_id": "ChIJnweGpAEKw0cREzse3kQ63gY",
+    "name": "'t Hooghuys",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Zottegem",
+    "address": "'t Hooghuys, Hoogstraat 29, 9620 Zottegem",
+    "street": "Hoogstraat 29",
+    "postal_code": "9620",
+    "region": null,
+    "latitude": 50.8689865,
+    "longitude": 3.8097412999999998,
+    "phone": "09 360 10 16",
+    "website": "https://traiteur-thooghuys.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%27t%20Hooghuys&query_place_id=ChIJnweGpAEKw0cREzse3kQ63gY",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "8:30 am–6 pm"
+      ],
+      "Wednesday": [
+        "8:30 am–1:30 pm"
+      ],
+      "Thursday": [
+        "8:30 am–6 pm"
+      ],
+      "Friday": [
+        "8:30 am–6 pm"
+      ],
+      "Saturday": [
+        "8:30 am–5 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 132,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdlKqal6GiIlJz4CHinVrHvbjp9-zDx-iRxfhl6WK11MdjPo8Bj-0AhEh2B-8oYJPhghNWSkgvSgvJbcwqB-c_eux7JenT3lMxNMlZi6poavEgapBOXXR3RHwSyAHlkInMl5Jk=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdlKqal6GiIlJz4CHinVrHvbjp9-zDx-iRxfhl6WK11MdjPo8Bj-0AhEh2B-8oYJPhghNWSkgvSgvJbcwqB-c_eux7JenT3lMxNMlZi6poavEgapBOXXR3RHwSyAHlkInMl5Jk=w1000-h750-no",
+    "source_query": "Fish restaurant in Zottegem, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ0yVlkz-hw0cRA0LxnYjiJso",
+    "name": "'t Pachthuis",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Zottegem",
+    "address": "'t Pachthuis, Gentse Steenweg 264, 9620 Zottegem",
+    "street": "Gentse Steenweg 264",
+    "postal_code": "9620",
+    "region": null,
+    "latitude": 50.8843975,
+    "longitude": 3.8294202999999998,
+    "phone": "0493 91 63 51",
+    "website": "https://www.tpachthuis.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%27t%20Pachthuis&query_place_id=ChIJ0yVlkz-hw0cRA0LxnYjiJso",
+    "open_hours_json": {
+      "Monday": [
+        "12–2 pm",
+        "7–9 pm"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "12–2 pm",
+        "7–9 pm"
+      ],
+      "Friday": [
+        "12–2 pm",
+        "7–9 pm"
+      ],
+      "Saturday": [
+        "Closed"
+      ],
+      "Sunday": [
+        "12–2 pm",
+        "7–9 pm"
+      ]
+    },
+    "review_count": 133,
+    "rating": 4.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfTnKqqekHe2G9u1oQ4JGWfzETRxMnbuDzSxZFu2R4drE9urBP5oJkpfHTW_3dewgBu2ZNmJCAYke78aSLtZxpa2Q5v-bH6c9WBY9wIaCBzWbn0jJ4htD_yMYLuJ1vDubhXF2Ej=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfTnKqqekHe2G9u1oQ4JGWfzETRxMnbuDzSxZFu2R4drE9urBP5oJkpfHTW_3dewgBu2ZNmJCAYke78aSLtZxpa2Q5v-bH6c9WBY9wIaCBzWbn0jJ4htD_yMYLuJ1vDubhXF2Ej=w1000-h750-no",
+    "source_query": "Halal restaurant in Zottegem, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJN9ytI7ygw0cRS0ma9latApw",
+    "name": "AH Spelaanstraat",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Zottegem",
+    "address": "AH Spelaanstraat, Spelaanstraat 2 a, 9620 Zottegem",
+    "street": "Spelaanstraat 2 a",
+    "postal_code": "9620",
+    "region": null,
+    "latitude": 50.8836011,
+    "longitude": 3.8300959,
+    "phone": "09 356 32 25",
+    "website": "https://www.ah.nl/winkel/3037",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=AH%20Spelaanstraat&query_place_id=ChIJN9ytI7ygw0cRS0ma9latApw",
+    "open_hours_json": {
+      "Monday": [
+        "12–8 pm"
+      ],
+      "Tuesday": [
+        "8 am–8 pm"
+      ],
+      "Wednesday": [
+        "8 am–8 pm"
+      ],
+      "Thursday": [
+        "8 am–8 pm"
+      ],
+      "Friday": [
+        "8 am–8 pm"
+      ],
+      "Saturday": [
+        "8 am–8 pm"
+      ],
+      "Sunday": [
+        "9–11:45 am"
+      ]
+    },
+    "review_count": 1233,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeoHXZG0C0LTKaP_XLD5LV2eXD_-ag8yoRKiPKEHyO5F6H98uPScU2yakEJnY1U6X_ybsC74uqJ0nb2PfenWaPVYthEe1pUqaPurag2bxYi5jin7xF9uc_2D95ZwTB6GC6YK1wy=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeoHXZG0C0LTKaP_XLD5LV2eXD_-ag8yoRKiPKEHyO5F6H98uPScU2yakEJnY1U6X_ybsC74uqJ0nb2PfenWaPVYthEe1pUqaPurag2bxYi5jin7xF9uc_2D95ZwTB6GC6YK1wy=w1000-h750-no",
+    "source_query": "Hypermarket in Zottegem, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJoQB_glSnw0cRPeWfFw3t1JQ",
+    "name": "AZ Sint-Elisabeth Zottegem",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Zottegem",
+    "address": "AZ Sint-Elisabeth Zottegem, Godveerdegemstraat 69, 9620 Zottegem",
+    "street": "Godveerdegemstraat 69",
+    "postal_code": "9620",
+    "region": null,
+    "latitude": 50.8648215,
+    "longitude": 3.8177501,
+    "phone": "09 364 81 11",
+    "website": "http://www.sezz.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=AZ%20Sint-Elisabeth%20Zottegem&query_place_id=ChIJoQB_glSnw0cRPeWfFw3t1JQ",
+    "open_hours_json": {
+      "Monday": [
+        "Open 24 hours"
+      ],
+      "Tuesday": [
+        "Open 24 hours"
+      ],
+      "Wednesday": [
+        "Open 24 hours"
+      ],
+      "Thursday": [
+        "Open 24 hours"
+      ],
+      "Friday": [
+        "Open 24 hours"
+      ],
+      "Saturday": [
+        "Open 24 hours"
+      ],
+      "Sunday": [
+        "Open 24 hours"
+      ]
+    },
+    "review_count": 226,
+    "rating": 3.2,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd1DyC2RcyEof-3N37lVhCFXjdS5VOYCdOybrMqo8JjSECRBk3gZPd8KHD7QvtEQG_nZPgFQ2aazcp57t-mv1iCF2gsLUt9MzKo9MilD3hzDa202agMkPTD5cL4F5IV2VK8Jtio=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd1DyC2RcyEof-3N37lVhCFXjdS5VOYCdOybrMqo8JjSECRBk3gZPd8KHD7QvtEQG_nZPgFQ2aazcp57t-mv1iCF2gsLUt9MzKo9MilD3hzDa202agMkPTD5cL4F5IV2VK8Jtio=w1000-h750-no",
+    "source_query": "Pharmacy in Zottegem, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJKUfiwGanw0cRtuZvnv9CKps",
     "name": "Allegro",
     "type": "butcher",
@@ -3214,8 +3418,8 @@
     "phone": "02 524 04 47",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Beenhouwerij%20Abdallah&query_place_id=ChIJc2CCwwzEw0cRD0ww8lSZH50",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLflEYaYoBF9Z0YcepE-QbwauB7ek9Py6hYjt1870g6efDInYoJh-0MgTyAukahfQ5vUOQiixjEonBUyg-Q5rmKcBLb8K68wEh4vjr84F8nDFjLzKIVMX3xWez38d8PjV8ABzHhPLQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLflEYaYoBF9Z0YcepE-QbwauB7ek9Py6hYjt1870g6efDInYoJh-0MgTyAukahfQ5vUOQiixjEonBUyg-Q5rmKcBLb8K68wEh4vjr84F8nDFjLzKIVMX3xWez38d8PjV8ABzHhPLQ=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfXTcZ2BXY2IWu7WXyLURurMI0TtweYkZwR31r2NX1u9EnYMegd6Nm65xfKjW7dibfpj96xCIYg7BlYXJvULI8ivIuHJVnMjZvWuW1yOCEi5bPp7Ar64mLHg1p-nuxauVWypECO=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfXTcZ2BXY2IWu7WXyLURurMI0TtweYkZwR31r2NX1u9EnYMegd6Nm65xfKjW7dibfpj96xCIYg7BlYXJvULI8ivIuHJVnMjZvWuW1yOCEi5bPp7Ar64mLHg1p-nuxauVWypECO=w1000-h750-no",
     "rating": 4.6,
     "review_count": 261,
     "verification_status": "UNVERIFIED",
