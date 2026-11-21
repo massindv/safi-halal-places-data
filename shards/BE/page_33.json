@@ -1,5 +1,462 @@
 [
   {
+    "place_id": "ChIJ-agViuEvw0cRkguqX4T4JNo",
+    "name": "O'poulé",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "FR",
+    "country_code": "FR",
+    "city": "Tourcoing",
+    "address": "O'poulé, 1 Place Notre Dame, 59200 Tourcoing, France",
+    "street": "1 Place Notre Dame",
+    "postal_code": "59200",
+    "region": null,
+    "latitude": 50.7246143,
+    "longitude": 3.1552643999999996,
+    "phone": "+33 7 73 36 20 53",
+    "website": "https://opoule-tourcoing.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=O%27poul%C3%A9&query_place_id=ChIJ-agViuEvw0cRkguqX4T4JNo",
+    "open_hours_json": {
+      "Monday": [
+        "11:30 am–10 pm"
+      ],
+      "Tuesday": [
+        "11:30 am–10 pm"
+      ],
+      "Wednesday": [
+        "11:30 am–10 pm"
+      ],
+      "Thursday": [
+        "11:30 am–10 pm"
+      ],
+      "Friday": [
+        "5–11 pm"
+      ],
+      "Saturday": [
+        "11:30 am–11 pm"
+      ],
+      "Sunday": [
+        "11:30 am–10 pm"
+      ]
+    },
+    "review_count": 147,
+    "rating": 4.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdOZPWoDbWVrvDUZvdN16T9DBCc2qWOGhHII2i5XcJqAD1Gx9eWVk3b0Wreunfp1Gyo-TDiGDLtKz8LeXEIUNI648fHmwtYMvwtAZ_4oMWhfSfV25aKjQ0HF1YXirom9w8ERCbVzyKg4Ys=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdOZPWoDbWVrvDUZvdN16T9DBCc2qWOGhHII2i5XcJqAD1Gx9eWVk3b0Wreunfp1Gyo-TDiGDLtKz8LeXEIUNI648fHmwtYMvwtAZ_4oMWhfSfV25aKjQ0HF1YXirom9w8ERCbVzyKg4Ys=w1000-h750-no",
+    "source_query": "Halal restaurant in Wervik, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata"
+  },
+  {
+    "place_id": "ChIJzT-l3M0vw0cRGlKDzfPKze4",
+    "name": "Sayman's",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "FR",
+    "country_code": "FR",
+    "city": "Tourcoing",
+    "address": "Sayman's, 6 Rue Saint-Jacques, 59200 Tourcoing, France",
+    "street": "6 Rue Saint-Jacques",
+    "postal_code": "59200",
+    "region": null,
+    "latitude": 50.723133499999996,
+    "longitude": 3.1584855,
+    "phone": "+33 6 17 94 63 30",
+    "website": "https://saymans.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Sayman%27s&query_place_id=ChIJzT-l3M0vw0cRGlKDzfPKze4",
+    "open_hours_json": {
+      "Monday": [
+        "7 am–9 pm"
+      ],
+      "Tuesday": [
+        "7 am–9 pm"
+      ],
+      "Wednesday": [
+        "7 am–9 pm"
+      ],
+      "Thursday": [
+        "7 am–9 pm"
+      ],
+      "Friday": [
+        "7 am–10:30 pm"
+      ],
+      "Saturday": [
+        "7 am–10 pm"
+      ],
+      "Sunday": [
+        "7 am–9 pm"
+      ]
+    },
+    "review_count": 89,
+    "rating": 4.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeK1H8MRZv4CpYiC0nq9Ch8V3arp-xP1QjEUK57KUdcrrW2W7W7vJX086jCPT7CkT1L_WIk1uWe0hJDWgT8T-aw2jFKTAGQ8FJmx1fqibopsDqhzDSk8k0AAnzc3qpPJqeiaAHGz4hnmoHh=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeK1H8MRZv4CpYiC0nq9Ch8V3arp-xP1QjEUK57KUdcrrW2W7W7vJX086jCPT7CkT1L_WIk1uWe0hJDWgT8T-aw2jFKTAGQ8FJmx1fqibopsDqhzDSk8k0AAnzc3qpPJqeiaAHGz4hnmoHh=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Wervik, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJD-BFhzwvw0cRfy10Jq9Lirs",
+    "name": "Supermarché Match",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "FR",
+    "country_code": "FR",
+    "city": "Tourcoing",
+    "address": "Supermarché Match, 2 Rue de Fleurus, 59200 Tourcoing, France",
+    "street": "2 Rue de Fleurus",
+    "postal_code": "59200",
+    "region": null,
+    "latitude": 50.735516,
+    "longitude": 3.173063,
+    "phone": "+33 3 20 03 24 40",
+    "website": "https://www.supermarchesmatch.fr/?choixMagasin=0511",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Supermarch%C3%A9%20Match&query_place_id=ChIJD-BFhzwvw0cRfy10Jq9Lirs",
+    "open_hours_json": {
+      "Monday": [
+        "8 am–8 pm"
+      ],
+      "Tuesday": [
+        "8 am–8 pm"
+      ],
+      "Wednesday": [
+        "8 am–8 pm"
+      ],
+      "Thursday": [
+        "8 am–8 pm"
+      ],
+      "Friday": [
+        "8 am–8 pm"
+      ],
+      "Saturday": [
+        "8 am–8 pm"
+      ],
+      "Sunday": [
+        "8:30 am–12:45 pm"
+      ]
+    },
+    "review_count": 556,
+    "rating": 3.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdPb0N1CI1DnwlBYKzE73GsaGhDUo8V2IpWUY2Qdld5LcxW-mm4mzPYNglzYQ98AWmB4C8Hug9vAewO2vHRBVnnE7LJGE0wK38ThCdDFlC7x3Dy2Gudy7inbKHrNWm7103FyGEK=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdPb0N1CI1DnwlBYKzE73GsaGhDUo8V2IpWUY2Qdld5LcxW-mm4mzPYNglzYQ98AWmB4C8Hug9vAewO2vHRBVnnE7LJGE0wK38ThCdDFlC7x3Dy2Gudy7inbKHrNWm7103FyGEK=w1000-h750-no",
+    "source_query": "Hypermarket in Mouscron, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ-8lwOAAvw0cRDSxZrcHHaxc",
+    "name": "Utrecht new location",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "FR",
+    "country_code": "FR",
+    "city": "Tourcoing",
+    "address": "Utrecht new location, 19 Rue de Soissons, 59200 Tourcoing, France",
+    "street": "19 Rue de Soissons",
+    "postal_code": "59200",
+    "region": null,
+    "latitude": 50.7356019,
+    "longitude": 3.1896592,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Utrecht%20new%20location&query_place_id=ChIJ-8lwOAAvw0cRDSxZrcHHaxc",
+    "open_hours_json": null,
+    "review_count": 0,
+    "rating": null,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=n6j5K4URY3EnYLnXzdoLEA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=275.9588&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=n6j5K4URY3EnYLnXzdoLEA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=275.9588&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Mosque in Reningelst, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJg2Efj97fwkcRtznpxPFIjKY",
+    "name": "2. Alimentation Generale",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tournai",
+    "address": "2. Alimentation Generale, Rue Dorez 22, 7500 Tournai",
+    "street": "Rue Dorez 22",
+    "postal_code": "7500",
+    "region": null,
+    "latitude": 50.6066437,
+    "longitude": 3.382243,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=2.%20Alimentation%20Generale&query_place_id=ChIJg2Efj97fwkcRtznpxPFIjKY",
+    "open_hours_json": {
+      "Monday": [
+        "7:30 am–6 pm"
+      ],
+      "Tuesday": [
+        "7:30 am–6 pm"
+      ],
+      "Wednesday": [
+        "7:30 am–6 pm"
+      ],
+      "Thursday": [
+        "7:30 am–6 pm"
+      ],
+      "Friday": [
+        "7:30 am–6 pm"
+      ],
+      "Saturday": [
+        "9 am–6 pm"
+      ],
+      "Sunday": [
+        "9 am–6 pm"
+      ]
+    },
+    "review_count": 4,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeIuVcsTUlO8c6aXOblpnt_rRhr3sNDy-iQbvH-ymBVEV2erxbLpkBSr69DAAH765il11H9w6HmSfWc0ZpFpEl828ysWkqcR9G_ijEzOdmM06_G7EnBENjocAVttjv56073A3o-=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeIuVcsTUlO8c6aXOblpnt_rRhr3sNDy-iQbvH-ymBVEV2erxbLpkBSr69DAAH765il11H9w6HmSfWc0ZpFpEl828ysWkqcR9G_ijEzOdmM06_G7EnBENjocAVttjv56073A3o-=w1000-h750-no",
+    "source_query": "Hypermarket in Tournai, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJuzYtOkXfwkcR9y4fjdEfoUs",
+    "name": "8 Etoiles - JOYFUL (sushi & bubble tea)",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tournai",
+    "address": "8 Etoiles - JOYFUL (sushi & bubble tea), Grand'Place 8, 7500 Tournai",
+    "street": "Grand'Place 8",
+    "postal_code": "7500",
+    "region": null,
+    "latitude": 50.606145899999994,
+    "longitude": 3.3874543,
+    "phone": "069 57 95 01",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=8%20Etoiles%20-%20JOYFUL%20%28sushi%20%26%20bubble%20tea%29&query_place_id=ChIJuzYtOkXfwkcR9y4fjdEfoUs",
+    "open_hours_json": {
+      "Monday": [
+        "11:30 am–11 pm"
+      ],
+      "Tuesday": [
+        "11:30 am–11 pm"
+      ],
+      "Wednesday": [
+        "11:30 am–11 pm"
+      ],
+      "Thursday": [
+        "11:30 am–11 pm"
+      ],
+      "Friday": [
+        "11:30 am–11 pm"
+      ],
+      "Saturday": [
+        "11:30 am–11 pm"
+      ],
+      "Sunday": [
+        "11:30 am–11 pm"
+      ]
+    },
+    "review_count": 133,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdGfWEtj7_WLBxD4GQzB2jYK5DSKAqL2jDw4S0bz_edAlAo61jXZm6GUAnV3X-gJ6uSa0xhxYowoCQz6OYant8hyxFUtTFBYCrke-MEU7iqUqxPPmOG-4phAEnkrv27tPk8tJ-Hsg=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdGfWEtj7_WLBxD4GQzB2jYK5DSKAqL2jDw4S0bz_edAlAo61jXZm6GUAnV3X-gJ6uSa0xhxYowoCQz6OYant8hyxFUtTFBYCrke-MEU7iqUqxPPmOG-4phAEnkrv27tPk8tJ-Hsg=w1000-h750-no",
+    "source_query": "Halal restaurant in Tournai, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJn9OLi97fwkcRN9zVioh1KUc",
+    "name": "ADANA",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tournai",
+    "address": "ADANA, Rue Dorez 15, 7500 Tournai",
+    "street": "Rue Dorez 15",
+    "postal_code": "7500",
+    "region": null,
+    "latitude": 50.606812999999995,
+    "longitude": 3.3827198,
+    "phone": "0499 03 08 08",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=ADANA&query_place_id=ChIJn9OLi97fwkcRN9zVioh1KUc",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf1C48c4zC5SppCK9hdkec68NX5MNIe89CUT0GSYap9iL5dl8os3Tz8LMmhMz2VsGF0wYhw3Eh7KgnlHzrHt-0SxeXrC5faLeZ9_ysZJpWhVEdgejMDuvxiinvpU74ftbn_qGs=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf1C48c4zC5SppCK9hdkec68NX5MNIe89CUT0GSYap9iL5dl8os3Tz8LMmhMz2VsGF0wYhw3Eh7KgnlHzrHt-0SxeXrC5faLeZ9_ysZJpWhVEdgejMDuvxiinvpU74ftbn_qGs=w1000-h750-no",
+    "rating": 4.3,
+    "review_count": 614,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJFanhPc3fwkcRtau4yDOCfoM",
+    "name": "Alimentaion general superette",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tournai",
+    "address": "Alimentaion general superette, Rue Saint-Martin 107, 7500 Tournai",
+    "street": "Rue Saint-Martin 107",
+    "postal_code": "7500",
+    "region": null,
+    "latitude": 50.6031731,
+    "longitude": 3.3850167,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Alimentaion%20general%20superette&query_place_id=ChIJFanhPc3fwkcRtau4yDOCfoM",
+    "open_hours_json": {
+      "Monday": [
+        "9:30 am–7:30 pm"
+      ],
+      "Tuesday": [
+        "9 am–7 pm"
+      ],
+      "Wednesday": [
+        "9 am–7 pm"
+      ],
+      "Thursday": [
+        "9:30 am–7:30 pm"
+      ],
+      "Friday": [
+        "9:30 am–7:30 pm"
+      ],
+      "Saturday": [
+        "9:30 am–7:30 pm"
+      ],
+      "Sunday": [
+        "10 am–12:30 pm"
+      ]
+    },
+    "review_count": 9,
+    "rating": 4.1,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLclqJNKENdRPdL-BZJxuiMmdnGEJZVVzLpHf0S1LzWODMnY9g-gxELuVJJ2QoaIvtuYk7xnJE6PFSHHChAT8j8GNJOjkIRsbi7egZNOIMlbcXhoydcO1JRQtxguhFteAqU-9Lm8=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLclqJNKENdRPdL-BZJxuiMmdnGEJZVVzLpHf0S1LzWODMnY9g-gxELuVJJ2QoaIvtuYk7xnJE6PFSHHChAT8j8GNJOjkIRsbi7egZNOIMlbcXhoydcO1JRQtxguhFteAqU-9Lm8=w1000-h750-no",
+    "source_query": "Hypermarket in Tournai, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJr3dDwaTfwkcRm_-qTCsEGB4",
+    "name": "Au Coeur Joyeux",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tournai",
+    "address": "Au Coeur Joyeux, Chau. de Lille 456, 7501 Tournai",
+    "street": "Chau. de Lille 456",
+    "postal_code": "7501",
+    "region": null,
+    "latitude": 50.6037554,
+    "longitude": 3.3493063999999997,
+    "phone": "069 22 41 82",
+    "website": "http://www.aucoeurjoyeux.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Au%20Coeur%20Joyeux&query_place_id=ChIJr3dDwaTfwkcRm_-qTCsEGB4",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "11 am–5:30 pm"
+      ],
+      "Wednesday": [
+        "11 am–11 pm"
+      ],
+      "Thursday": [
+        "11 am–11 pm"
+      ],
+      "Friday": [
+        "11 am–12 am"
+      ],
+      "Saturday": [
+        "6 pm–12 am"
+      ],
+      "Sunday": [
+        "11 am–5 pm"
+      ]
+    },
+    "review_count": 184,
+    "rating": 4.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeqppMsBr2yqHWehXXTvEQDo-n-Q4d0lbuJgeiFiQUERTyRb-UexZGLY8my8K38RKAgHAEd8aoQgyJ7x1kMMFPpAWsAH0QLEigOu77t2YsPoYaPIOLIR8gtuQ-Q_OS7Yz4WlbdsCg=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeqppMsBr2yqHWehXXTvEQDo-n-Q4d0lbuJgeiFiQUERTyRb-UexZGLY8my8K38RKAgHAEd8aoQgyJ7x1kMMFPpAWsAH0QLEigOu77t2YsPoYaPIOLIR8gtuQ-Q_OS7Yz4WlbdsCg=w1000-h750-no",
+    "source_query": "Fish restaurant in Tournai, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJTZl_u37fwkcRDejOxYjWl3w",
+    "name": "Au Colombophile",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tournai",
+    "address": "Au Colombophile, Chau. de Lannoy 174, 7503 Tournai",
+    "street": "Chau. de Lannoy 174",
+    "postal_code": "7503",
+    "region": null,
+    "latitude": 50.6275056,
+    "longitude": 3.3360600999999996,
+    "phone": null,
+    "website": "https://www.facebook.com/AuColombophileFroyennes",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Au%20Colombophile&query_place_id=ChIJTZl_u37fwkcRDejOxYjWl3w",
+    "open_hours_json": {
+      "Monday": [
+        "11 am–3 pm"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "11 am–3 pm"
+      ],
+      "Thursday": [
+        "11 am–3 pm",
+        "6–9:30 pm"
+      ],
+      "Friday": [
+        "11 am–3 pm",
+        "6–9:30 pm"
+      ],
+      "Saturday": [
+        "11 am–3 pm",
+        "6–9:30 pm"
+      ],
+      "Sunday": [
+        "11 am–3 pm"
+      ]
+    },
+    "review_count": 73,
+    "rating": 4.4,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc9adbbHsSAeyCZdsitiM1Hd8-noNa3O8cdRxPjRgVgPF3i9yIi0x938fc4QigGy4Huz1WSPJSa6n4ZWQcJGONApgAUXbvMGWjvZMurO8fivY3RAGz12XettE8-MSN5K59XFgzC7w=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc9adbbHsSAeyCZdsitiM1Hd8-noNa3O8cdRxPjRgVgPF3i9yIi0x938fc4QigGy4Huz1WSPJSa6n4ZWQcJGONApgAUXbvMGWjvZMurO8fivY3RAGz12XettE8-MSN5K59XFgzC7w=w1000-h750-no",
+    "source_query": "Fish restaurant in Tournai, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJo9grQpDfwkcRXcjkH7ayilU",
     "name": "Au Jardin De St Eloi",
     "type": "hypermarket",
@@ -198,10 +655,10 @@
     "phone": null,
     "website": "https://restaurants.bnwburger.com/tournai-les-bastions/?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Black%20%26%20White%20Burger%20Tournai&query_place_id=ChIJ1YtdffbhwkcRZObDzmWfoHA",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdGPd1x1iQ8Fo86kLJT0_aoJXvA8mbu7qfhfnGOghoSxc_tYdrQ8AK8S4ROEdy-NBUpdZ5iSnLVHW0j0YzMLDltF7iO6diYH-9IYu_woi3yp2n2Aag4arQ4Ju5NDQYwOzvJvnfy=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdGPd1x1iQ8Fo86kLJT0_aoJXvA8mbu7qfhfnGOghoSxc_tYdrQ8AK8S4ROEdy-NBUpdZ5iSnLVHW0j0YzMLDltF7iO6diYH-9IYu_woi3yp2n2Aag4arQ4Ju5NDQYwOzvJvnfy=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfrygXwhvidWD1F-u2XRjufkL2JMz_59Myt6b8Im1Y4wUxm6mBuWyhVeHF3YyEdGqfkEJFNp7nFEYaD6wbNXv372b884CTH1TiNyVDC4nRos9ebXHyp1FHzFVbSd3EJW9oWrDis=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfrygXwhvidWD1F-u2XRjufkL2JMz_59Myt6b8Im1Y4wUxm6mBuWyhVeHF3YyEdGqfkEJFNp7nFEYaD6wbNXv372b884CTH1TiNyVDC4nRos9ebXHyp1FHzFVbSd3EJW9oWrDis=w1000-h750-no",
     "rating": 4.7,
-    "review_count": 3539,
+    "review_count": 3540,
     "verification_status": "VERIFIED",
     "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
     "is_active": true,
@@ -256,136 +713,6 @@
     "is_active": true,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJtRHb9nXgwkcRWMd4sdln_k8",
-    "name": "Boucherie De clercq",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tournai",
-    "address": "Boucherie De clercq, Rue Saint-Martin 16, 7500 Tournai",
-    "street": "Rue Saint-Martin 16",
-    "postal_code": "7500",
-    "region": null,
-    "latitude": 50.6049461,
-    "longitude": 3.387641,
-    "phone": "069 22 43 84",
-    "website": "https://www.boucheriedeclercq.com/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boucherie%20De%20clercq&query_place_id=ChIJtRHb9nXgwkcRWMd4sdln_k8",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeMu9Mdc8eHol7Mi1rSu-dVhkKT9SwTzma89Vh7Curq5zcRiwLjYnjO4GOC9qTlGnmegquvHiZTDS5dpDG0mBURmxN6rgAep2Yj1T3DU0skGAVdz_wE8JNn-3lmgNFwoeCvQsAB=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeMu9Mdc8eHol7Mi1rSu-dVhkKT9SwTzma89Vh7Curq5zcRiwLjYnjO4GOC9qTlGnmegquvHiZTDS5dpDG0mBURmxN6rgAep2Yj1T3DU0skGAVdz_wE8JNn-3lmgNFwoeCvQsAB=w1000-h750-no",
-    "rating": 4.5,
-    "review_count": 39,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJUb7UFAfgwkcRiKI5RGmWrVE",
-    "name": "Boucherie Francois",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tournai",
-    "address": "Boucherie Francois, Rue Albert 48, 7540 Tournai",
-    "street": "Rue Albert 48",
-    "postal_code": "7540",
-    "region": null,
-    "latitude": 50.6234835,
-    "longitude": 3.3909569,
-    "phone": "069 22 52 52",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boucherie%20Francois&query_place_id=ChIJUb7UFAfgwkcRiKI5RGmWrVE",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfKJMS2LxtjPUDFBWgrBPP8OERBEcR6ENbrTsdqfR5pX3LHMi6xJWXlWa9934t9VhhaWHXib1ozGOmCjyxO4wfMIdY5kX8LsZbOVoi9Pu5C84uV7nqjhrY8eXA4yj6x-PumW8GR=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfKJMS2LxtjPUDFBWgrBPP8OERBEcR6ENbrTsdqfR5pX3LHMi6xJWXlWa9934t9VhhaWHXib1ozGOmCjyxO4wfMIdY5kX8LsZbOVoi9Pu5C84uV7nqjhrY8eXA4yj6x-PumW8GR=w1000-h750-no",
-    "rating": 4.7,
-    "review_count": 42,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJaTzA7-LfwkcRMprfsatdrMU",
-    "name": "Boucherie Traiteur Sénéchal - Henri Derasse",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tournai",
-    "address": "Boucherie Traiteur Sénéchal - Henri Derasse, Chau. d'Audenarde 200, 7500 Tournai",
-    "street": "Chau. d'Audenarde 200",
-    "postal_code": "7500",
-    "region": null,
-    "latitude": 50.617992199999996,
-    "longitude": 3.3865034,
-    "phone": "069 22 13 34",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boucherie%20Traiteur%20S%C3%A9n%C3%A9chal%20-%20Henri%20Derasse&query_place_id=ChIJaTzA7-LfwkcRMprfsatdrMU",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfbT_Ddm2oFThFyUPJl9k01sokaPVZsvj00UZ3MZ8gak2Kw0X16ExafoCbB9ngj-16AEfaKDcglZIODrGb2yjEm9kks7PiDsNdzGv_6e3MRWVGS979yOBbkZoeKYebp-SF2aX1SrQ3jMQry=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfbT_Ddm2oFThFyUPJl9k01sokaPVZsvj00UZ3MZ8gak2Kw0X16ExafoCbB9ngj-16AEfaKDcglZIODrGb2yjEm9kks7PiDsNdzGv_6e3MRWVGS979yOBbkZoeKYebp-SF2aX1SrQ3jMQry=w1000-h750-no",
-    "rating": 4.5,
-    "review_count": 57,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJ1y5FRDrhwkcRE1pqUoLdHj0",
-    "name": "Boucherie du Centre",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tournai",
-    "address": "Boucherie du Centre, Rue des Puits-L'Eau basse 21, 7500 Tournai",
-    "street": "Rue des Puits-L'Eau basse 21",
-    "postal_code": "7500",
-    "region": null,
-    "latitude": 50.6061738,
-    "longitude": 3.391968,
-    "phone": "0471 85 34 42",
-    "website": "https://www.instagram.com/boucherie_du_centre_7500",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boucherie%20du%20Centre&query_place_id=ChIJ1y5FRDrhwkcRE1pqUoLdHj0",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf2SmXKIrPxC7AfEc8-XmkojuDSOFau9dkYEOS6ZY3gAL7XDdHq3pzlQTCSgaxoW1cU7gw2ZJaEbM_LZe6F6F3hX8Cd3DE-QVD9-q0_5wH7p4AwGf5AfmuHBGLurvrwF34UQAnyMeDZ9TSo=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf2SmXKIrPxC7AfEc8-XmkojuDSOFau9dkYEOS6ZY3gAL7XDdHq3pzlQTCSgaxoW1cU7gw2ZJaEbM_LZe6F6F3hX8Cd3DE-QVD9-q0_5wH7p4AwGf5AfmuHBGLurvrwF34UQAnyMeDZ9TSo=w1000-h750-no",
-    "rating": 4.6,
-    "review_count": 10,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJnY6fngzgwkcRTh7e80Eqz5E",
-    "name": "Boucherie-charcuterie Jean",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tournai",
-    "address": "Boucherie-charcuterie Jean, Rue Royale 68/B, 7500 Tournai",
-    "street": "Rue Royale 68/B",
-    "postal_code": "7500",
-    "region": null,
-    "latitude": 50.6110957,
-    "longitude": 3.3943106999999997,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boucherie-charcuterie%20Jean&query_place_id=ChIJnY6fngzgwkcRTh7e80Eqz5E",
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Xzc9vqozFYzLdAHXGTnEUA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=253.7229&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Xzc9vqozFYzLdAHXGTnEUA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=253.7229&pitch=0&thumbfov=w1000-h750-no",
-    "rating": 3.9,
-    "review_count": 21,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
   },
   {
     "place_id": "ChIJqxszbPLfwkcRziD_viByxdE",
@@ -454,8 +781,8 @@
     "phone": "069 23 23 84",
     "website": "https://qr.wwwcafe.de/2025/08/12/cleopatra/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=CLEOPATRA%20-%20Tournai&query_place_id=ChIJd-6cXAvgwkcRRfgqKP8Hn3I",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdcQMc3I2pvqsMbxSUgh0zmqS8D8NE5A891dpNmT3NKduJMn5DVMqEvEcswVQRHPhZ7F_Ic-vZNDlXL1ZN3b8Y1veY2wk7DHrxvvsDC4tYcepLgRD4l2znxRjEBgPjIa-0pTUDv=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdcQMc3I2pvqsMbxSUgh0zmqS8D8NE5A891dpNmT3NKduJMn5DVMqEvEcswVQRHPhZ7F_Ic-vZNDlXL1ZN3b8Y1veY2wk7DHrxvvsDC4tYcepLgRD4l2znxRjEBgPjIa-0pTUDv=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe1dogyjcJbRlSOg1uTW1B6C81NbLf_VYJajWFfUDVwuTEAjz2bESWrR3EcgAigPRnFt6BbYNJZcXvphPhA-w1j9KmIW6TzzM-K0ybBOW80dTXYMgpnlJFQm4UhhQ29cP9ssIyZ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe1dogyjcJbRlSOg1uTW1B6C81NbLf_VYJajWFfUDVwuTEAjz2bESWrR3EcgAigPRnFt6BbYNJZcXvphPhA-w1j9KmIW6TzzM-K0ybBOW80dTXYMgpnlJFQm4UhhQ29cP9ssIyZ=w1000-h750-no",
     "rating": 4.3,
     "review_count": 645,
     "verification_status": "UNVERIFIED",
@@ -536,8 +863,8 @@
     "phone": "069 78 01 11",
     "website": "https://yellow.pages.wwwcafe.de/cannelle-et-safran/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cannelle%20et%20safran%20-%20Tournai&query_place_id=ChIJgdyv_3TgwkcRKeBRa86OZNI",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLedJrR_T_t3zXgpJuQDTpfiTBBvib1bk0zYMMLoihh8vaxpgD3qwlhZuXFqOH-cYTM2G7ijufwZKQ7sEC4Fo9d4GVzG_vgzOtm4HCUXIsoj0UlB6DNdGypHM6A7Sicb8HLT8YI=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLedJrR_T_t3zXgpJuQDTpfiTBBvib1bk0zYMMLoihh8vaxpgD3qwlhZuXFqOH-cYTM2G7ijufwZKQ7sEC4Fo9d4GVzG_vgzOtm4HCUXIsoj0UlB6DNdGypHM6A7Sicb8HLT8YI=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfid9IPqQvWaUzh0FJo1PaDfRbBhvUrncNphxpd31D9d5PnD-UGvpccqDj226zW8mXpNXKKbZ-YiYuRC2NFUbpB-qLYH65oL00eYVEyi1E8FF09hTHCDnzF0Ny6oQDXHZfdA3Q=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfid9IPqQvWaUzh0FJo1PaDfRbBhvUrncNphxpd31D9d5PnD-UGvpccqDj226zW8mXpNXKKbZ-YiYuRC2NFUbpB-qLYH65oL00eYVEyi1E8FF09hTHCDnzF0Ny6oQDXHZfdA3Q=w1000-h750-no",
     "rating": 4.4,
     "review_count": 299,
     "verification_status": "UNVERIFIED",
@@ -1163,32 +1490,6 @@
     "verification_evidence": null
   },
   {
-    "place_id": "ChIJnwQLwZriwkcR640WSGS8g5s",
-    "name": "Delhaye / Christophe",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tournai",
-    "address": "Delhaye / Christophe, Rue de l'Église Saint-Thomas 10, 7534 Tournai",
-    "street": "Rue de l'Église Saint-Thomas 10",
-    "postal_code": "7534",
-    "region": null,
-    "latitude": 50.616758499999996,
-    "longitude": 3.5491496999999996,
-    "phone": "069 54 62 93",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Delhaye%20%2F%20Christophe&query_place_id=ChIJnwQLwZriwkcR640WSGS8g5s",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcv6xTXlzIBcjcpTXIR2goc4BPb4idNLLG-zUwYwgphYZqtbajZ-SjGtOUDMCfZT-g7yqn1dMITc7OgGN9O7nuDIcy6ypKppdF7XV-KZgFt-coHmOKm9OZa42HZbbJAqvt8CTunyw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcv6xTXlzIBcjcpTXIR2goc4BPb4idNLLG-zUwYwgphYZqtbajZ-SjGtOUDMCfZT-g7yqn1dMITc7OgGN9O7nuDIcy6ypKppdF7XV-KZgFt-coHmOKm9OZa42HZbbJAqvt8CTunyw=w1000-h750-no",
-    "rating": 5.0,
-    "review_count": 25,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
     "place_id": "ChIJq59dMErfwkcRHfXg4fz9mn8",
     "name": "Deliseche",
     "type": "restaurant",
@@ -1732,32 +2033,6 @@
     "verification_evidence": null
   },
   {
-    "place_id": "ChIJ5VaGt3TfwkcRFKXgdSPeVVg",
-    "name": "Europa Cuisson",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tournai",
-    "address": "Europa Cuisson, Rue de la Terre A Briques 14, 7522 Tournai",
-    "street": "Rue de la Terre A Briques 14",
-    "postal_code": "7522",
-    "region": null,
-    "latitude": 50.610324899999995,
-    "longitude": 3.3340541,
-    "phone": "069 76 50 50",
-    "website": "http://www.europacuisson.com/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Europa%20Cuisson&query_place_id=ChIJ5VaGt3TfwkcRFKXgdSPeVVg",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfwnWvg6L1Omyt0ZCf1cHzP8JRNCQb4Qny9rOmfw5-JTC0eY3MGXJZfDUKt7QGK8z9BYYAo73eed5oOCnQybbQaqMlgVkRkoupAbXINwYH3p2QBWspyt-xfkruQsyDIh2PF69ud=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfwnWvg6L1Omyt0ZCf1cHzP8JRNCQb4Qny9rOmfw5-JTC0eY3MGXJZfDUKt7QGK8z9BYYAo73eed5oOCnQybbQaqMlgVkRkoupAbXINwYH3p2QBWspyt-xfkruQsyDIh2PF69ud=w1000-h750-no",
-    "rating": 4.0,
-    "review_count": 145,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
     "place_id": "ChIJY9IRThLgwkcRRS3Md-vsIk0",
     "name": "Fauconnier M",
     "type": "hypermarket",
@@ -2124,32 +2399,6 @@
     "verification_evidence": null
   },
   {
-    "place_id": "ChIJzWZcHd_fwkcRrWBzV-SygGQ",
-    "name": "Hempte / Michel",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tournai",
-    "address": "Hempte / Michel, Rue des Maux 17, 7500 Tournai",
-    "street": "Rue des Maux 17",
-    "postal_code": "7500",
-    "region": null,
-    "latitude": 50.6063183,
-    "longitude": 3.3843177,
-    "phone": "069 22 48 19",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Hempte%20%2F%20Michel&query_place_id=ChIJzWZcHd_fwkcRrWBzV-SygGQ",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcQzu7f-1Okls5BBH5tXHsyvIgdh7NCTg8XQV-zfLW5yN1qxrWBD4hy1ixA7YegxPpvbMPG2FqDnWQFJSu_e3FqbcbE2-uCfVoVf2XAatFiZL53s-em2vgFn7Lb7z0nRW1m_6zO=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcQzu7f-1Okls5BBH5tXHsyvIgdh7NCTg8XQV-zfLW5yN1qxrWBD4hy1ixA7YegxPpvbMPG2FqDnWQFJSu_e3FqbcbE2-uCfVoVf2XAatFiZL53s-em2vgFn7Lb7z0nRW1m_6zO=w1000-h750-no",
-    "rating": 4.8,
-    "review_count": 32,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
     "place_id": "ChIJl3XHaNjfwkcRtoOgsjMJBOs",
     "name": "Hospital Center Of Wallonie Picardy - Website Union",
     "type": "restaurant",
@@ -2493,38 +2742,14 @@
     "phone": "0488 28 85 82",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=King%20of%20Kebab%20Livraison%2024h%2F24h&query_place_id=ChIJ8TQfhZvhwkcRlawCBwcTlvI",
-    "open_hours_json": {
-      "Monday": [
-        "Open 24 hours"
-      ],
-      "Tuesday": [
-        "Open 24 hours"
-      ],
-      "Wednesday": [
-        "Open 24 hours"
-      ],
-      "Thursday": [
-        "Open 24 hours"
-      ],
-      "Friday": [
-        "Open 24 hours"
-      ],
-      "Saturday": [
-        "Open 24 hours"
-      ],
-      "Sunday": [
-        "Open 24 hours"
-      ]
-    },
-    "review_count": 77,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdZcaM1GHmq_O1QNR6Myap5JqExnuCTHS3assOaz5HAqGnMlUso_ppFxoe2xiNnJ9-VVgAsgTpHqtgv_Tn-r4_-OJhhif12NCf0Z_Zbzurn3tXPwfQhXkodogurx6Hnetn_SpfLT_4RsVJH=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdZcaM1GHmq_O1QNR6Myap5JqExnuCTHS3assOaz5HAqGnMlUso_ppFxoe2xiNnJ9-VVgAsgTpHqtgv_Tn-r4_-OJhhif12NCf0Z_Zbzurn3tXPwfQhXkodogurx6Hnetn_SpfLT_4RsVJH=w1000-h750-no",
     "rating": 3.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeBOGRRJVHsnVXFTUoKb1zbTDfT58uJdN300zDaWisfAkYp43BiE4Uh8p966BV5Tyzlub_u0CqvSKoJSZ_zIp8pTRkP8U2-O7y1R8tngELSLaPpcryWxrF5UfzYNve8y-G40laa0CvzuJVq=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeBOGRRJVHsnVXFTUoKb1zbTDfT58uJdN300zDaWisfAkYp43BiE4Uh8p966BV5Tyzlub_u0CqvSKoJSZ_zIp8pTRkP8U2-O7y1R8tngELSLaPpcryWxrF5UfzYNve8y-G40laa0CvzuJVq=w1000-h750-no",
-    "source_query": "Halal restaurant in Tournai, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
+    "review_count": 77,
     "verification_status": "UNVERIFIED",
-    "verification_evidence": null
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
   },
   {
     "place_id": "ChIJy2j8HN_fwkcRgVros16ZApo",
@@ -2654,32 +2879,6 @@
     "is_active": true,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJu4RbE3TgwkcRmPEgwPb2Ufk",
-    "name": "La Boucherie De Tournai",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tournai",
-    "address": "La Boucherie De Tournai, Rue des Clairisses 14/3, 7500 Tournai",
-    "street": "Rue des Clairisses 14/3",
-    "postal_code": "7500",
-    "region": null,
-    "latitude": 50.6054068,
-    "longitude": 3.3922463,
-    "phone": "069 35 13 20",
-    "website": "http://www.hainaut-terredegouts.be/producteur/boucherie-de-tournai/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Boucherie%20De%20Tournai&query_place_id=ChIJu4RbE3TgwkcRmPEgwPb2Ufk",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLee3YxGh8a19Ei8HzxeocBpW7mWoFz9Oyghk1Qsbw1GyOdpKC3qaNssF9fE8Z0uo0y6RMxXRCrA0_BRqWXy6eZI_twiLhVdEPvrk64J8Lrxu4V_YpuSdpTkbjVOt4yeh6q2Ai-E=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLee3YxGh8a19Ei8HzxeocBpW7mWoFz9Oyghk1Qsbw1GyOdpKC3qaNssF9fE8Z0uo0y6RMxXRCrA0_BRqWXy6eZI_twiLhVdEPvrk64J8Lrxu4V_YpuSdpTkbjVOt4yeh6q2Ai-E=w1000-h750-no",
-    "rating": null,
-    "review_count": 0,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
   },
   {
     "place_id": "ChIJvfq49nXgwkcR7-h2ClA2Oy0",
@@ -4242,10 +4441,114 @@
     "phone": "0488 56 75 80",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mega%20Grill%20Tournai&query_place_id=ChIJp4nxusXhwkcRjlWuhHd5NJM",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfiwjmSKUeA51uJFcDNfHJf8tkFDsUrgsOB4sXgFTB8yrq7ULp0ys7t7nd_RDRnPmvI3nw9KRRWQkpvVfZ8eIt8jhw43QgDd8bsH63RMUEFAgZ-t1h9tJxBj9HgV-QVT-xLovtPhQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfiwjmSKUeA51uJFcDNfHJf8tkFDsUrgsOB4sXgFTB8yrq7ULp0ys7t7nd_RDRnPmvI3nw9KRRWQkpvVfZ8eIt8jhw43QgDd8bsH63RMUEFAgZ-t1h9tJxBj9HgV-QVT-xLovtPhQ=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcn922P7oTOYD8UsEEb52tegKh_goa-gTvy39P4tAykXNlXHofs0MN01yQs6AFpqF5mczajwqI2IezhaVwDTK5xhjrwJQC03i8o6WkOAV9ipOyr-frGdREQlZk532S6MbMvMBcZLA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcn922P7oTOYD8UsEEb52tegKh_goa-gTvy39P4tAykXNlXHofs0MN01yQs6AFpqF5mczajwqI2IezhaVwDTK5xhjrwJQC03i8o6WkOAV9ipOyr-frGdREQlZk532S6MbMvMBcZLA=w1000-h750-no",
     "rating": 4.1,
     "review_count": 25,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJP-ZFJLTewkcR9RjqSl0AeEM",
+    "name": "Momentum",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tournai",
+    "address": "Momentum, Rue Bruenne 35, 7502 Tournai",
+    "street": "Rue Bruenne 35",
+    "postal_code": "7502",
+    "region": null,
+    "latitude": 50.5672923,
+    "longitude": 3.291104,
+    "phone": "050 62 55 60",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Momentum&query_place_id=ChIJP-ZFJLTewkcR9RjqSl0AeEM",
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TsG2JXptKBpxrAXC4nbnvQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=135.7578&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TsG2JXptKBpxrAXC4nbnvQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=135.7578&pitch=0&thumbfov=w1000-h750-no",
+    "rating": null,
+    "review_count": 0,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJe7uwvXHgwkcRx6ebTd4Lbt8",
+    "name": "Moskee van Doornik",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tournai",
+    "address": "Moskee van Doornik, Rue des Récollets 27, 7500 Tournai",
+    "street": "Rue des Récollets 27",
+    "postal_code": "7500",
+    "region": null,
+    "latitude": 50.602601199999995,
+    "longitude": 3.3970509,
+    "phone": "0474 47 67 18",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20van%20Doornik&query_place_id=ChIJe7uwvXHgwkcRx6ebTd4Lbt8",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcYHDcfOWF7WrR-K-h-sf51ydSyUiuXQjE8aXJh0C8cqVt9R2t0YP1_ycq4z7p25PVHe0gEK_As7uz2wBpCYg9J2vSUN9aH8DM1LhRXesuQGv-WkpkfIT0X0Wmgup_0RnCNUoILceTBdNY=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcYHDcfOWF7WrR-K-h-sf51ydSyUiuXQjE8aXJh0C8cqVt9R2t0YP1_ycq4z7p25PVHe0gEK_As7uz2wBpCYg9J2vSUN9aH8DM1LhRXesuQGv-WkpkfIT0X0Wmgup_0RnCNUoILceTBdNY=w1000-h750-no",
+    "rating": 4.6,
+    "review_count": 45,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJe7uwvXHgwkcRLAELRPPBJzc",
+    "name": "Mosquée Abou Bakr",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tournai",
+    "address": "Mosquée Abou Bakr, Rue des Récollets 27, 7500 Tournai",
+    "street": "Rue des Récollets 27",
+    "postal_code": "7500",
+    "region": null,
+    "latitude": 50.6026034,
+    "longitude": 3.3970575,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mosqu%C3%A9e%20Abou%20Bakr&query_place_id=ChIJe7uwvXHgwkcRLAELRPPBJzc",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeoyNdd3-RWOGSf1N2CRO-dJYF_ZstHJ48Hl5uUuDodT44XwdcDJV5OfJR6bLVtu7311HekWFXadoElTj93CaT75QgVDp5vAyrQi0LCg_oYXvGWQwIQkcLZab2OkyEIikLhhzkY=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeoyNdd3-RWOGSf1N2CRO-dJYF_ZstHJ48Hl5uUuDodT44XwdcDJV5OfJR6bLVtu7311HekWFXadoElTj93CaT75QgVDp5vAyrQi0LCg_oYXvGWQwIQkcLZab2OkyEIikLhhzkY=w1000-h750-no",
+    "rating": 4.9,
+    "review_count": 23,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJkSBp_4XhwkcR_PeECYRaKkE",
+    "name": "Mosquée de Tournai El Mouwahidines",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tournai",
+    "address": "Mosquée de Tournai El Mouwahidines, Rue de Saint-Maur 13, 7500 Tournai",
+    "street": "Rue de Saint-Maur 13",
+    "postal_code": "7500",
+    "region": null,
+    "latitude": 50.5926356,
+    "longitude": 3.3989578999999996,
+    "phone": "0498 43 42 10",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mosqu%C3%A9e%20de%20Tournai%20El%20Mouwahidines&query_place_id=ChIJkSBp_4XhwkcR_PeECYRaKkE",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfPIHzaoPds_l4YRrRfzMq5LCGwZUQ-9ok7yWdIHbzS0qnHLr0oTg69DwGV_P_zfmk_1DfyrOagIOsMlcUDVHI2jCNdSyhSgqi1vdmYmr1hvRQUzbjbXO-SRCz-d16Lha6GDjXH=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfPIHzaoPds_l4YRrRfzMq5LCGwZUQ-9ok7yWdIHbzS0qnHLr0oTg69DwGV_P_zfmk_1DfyrOagIOsMlcUDVHI2jCNdSyhSgqi1vdmYmr1hvRQUzbjbXO-SRCz-d16Lha6GDjXH=w1000-h750-no",
+    "rating": 5.0,
+    "review_count": 11,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null,
     "is_active": true,
@@ -4448,8 +4751,8 @@
     "phone": "069 84 27 39",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Oufella%20%2F%20Rabah&query_place_id=ChIJqeDBR7vfwkcRvvQ2sNpPOzs",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLewSJGcep-INaKJYZlm3tnyLNLObkpUvxf9Rk-JcRkYdyflzgirRVt1jCtAHZIP4abDNWew1g5_1Nw31ZdRpdCHwgfzA-xE7gW0AVtYnW9IyNGj5MkWeRyEo8qqBEZqwqdV-p4A=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLewSJGcep-INaKJYZlm3tnyLNLObkpUvxf9Rk-JcRkYdyflzgirRVt1jCtAHZIP4abDNWew1g5_1Nw31ZdRpdCHwgfzA-xE7gW0AVtYnW9IyNGj5MkWeRyEo8qqBEZqwqdV-p4A=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfcvz32gNcntb9i_LPf2lA6Zmd6JasSgdtLnyh1DicK8YFF_JrUZPFNVyl_EDHe-sDsUvpEv1J6vLqqUmHWJhrD5g06SlifARFsenjt6MyojCM6bPpYnOAe4SF2UZ1Rx3GDLP_f=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfcvz32gNcntb9i_LPf2lA6Zmd6JasSgdtLnyh1DicK8YFF_JrUZPFNVyl_EDHe-sDsUvpEv1J6vLqqUmHWJhrD5g06SlifARFsenjt6MyojCM6bPpYnOAe4SF2UZ1Rx3GDLP_f=w1000-h750-no",
     "rating": 4.5,
     "review_count": 6,
     "verification_status": "UNVERIFIED",
@@ -4474,8 +4777,8 @@
     "phone": "0487 96 56 72",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=O%E2%80%99break&query_place_id=ChIJ1QCIHinhwkcRlEJFvHZ2ZIY",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW2ftdmkX6Xa-1pZa7ZWZ1iNhGfsNO31QxKwe11rA5yNyCY7bz4uRdZirOq3_hgSOQFikWBe3Kzb-HEk-eisn9DT_MQWXRo5liGwJmQyGXIDOfb2_HC-L7BmVW4me4WxcLwBRKhfz_IkfEECuxiIluxPOtH_61M-TOo1MFTC_c5NXBS3axBpJqs-NQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW2ftdmkX6Xa-1pZa7ZWZ1iNhGfsNO31QxKwe11rA5yNyCY7bz4uRdZirOq3_hgSOQFikWBe3Kzb-HEk-eisn9DT_MQWXRo5liGwJmQyGXIDOfb2_HC-L7BmVW4me4WxcLwBRKhfz_IkfEECuxiIluxPOtH_61M-TOo1MFTC_c5NXBS3axBpJqs-NQ=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW3O0pvgVO5jWMpnaWlZHJ8tBcD-F9hjJ1u57GeXnrzbE2YfFeBoUB4_TQDG3_mBeEXyY39odNx_H81FxgqBeo5Mf_W5DNidWohLhxTEiUlRtY7fX6dnhjfhDUE8Pexts7-iX2Spsrini9U-TotQWohaGuiNOJdKDKVZwRU6-VAvSUB2P7p5nXiKuw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW3O0pvgVO5jWMpnaWlZHJ8tBcD-F9hjJ1u57GeXnrzbE2YfFeBoUB4_TQDG3_mBeEXyY39odNx_H81FxgqBeo5Mf_W5DNidWohLhxTEiUlRtY7fX6dnhjfhDUE8Pexts7-iX2Spsrini9U-TotQWohaGuiNOJdKDKVZwRU6-VAvSUB2P7p5nXiKuw=w1000-h750-no",
     "rating": 5.0,
     "review_count": 155,
     "verification_status": "VERIFIED",
@@ -6463,8 +6766,8 @@
     "phone": "0489 66 82 26",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Tournai%20Grill&query_place_id=ChIJt0reaXTgwkcRDXxo9eXjCF8",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcAIaKuTyFHZ2sHQnXPjOiJ18gV1tAJKZrHno6jjmyQWqlxzF6JiFJD56FHrOtyNHha_eOwUbDSczu5EVT-7Bn57--bslEDhPBqznWQsPsK-_D_utqvw0YNYuwRqscQYWs046M=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcAIaKuTyFHZ2sHQnXPjOiJ18gV1tAJKZrHno6jjmyQWqlxzF6JiFJD56FHrOtyNHha_eOwUbDSczu5EVT-7Bn57--bslEDhPBqznWQsPsK-_D_utqvw0YNYuwRqscQYWs046M=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLffGFTbIeyle_d6465_I57g1lsHDX4jKry0UF0mVQFqgq708m2oHA7RLAnA2-W1RX35hpXiDFtnPAFK9LUrAA-udQy6YUDskmbEAcEaLTKYm_3NqVIBBbvlOY93sGKM6fH0WrA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLffGFTbIeyle_d6465_I57g1lsHDX4jKry0UF0mVQFqgq708m2oHA7RLAnA2-W1RX35hpXiDFtnPAFK9LUrAA-udQy6YUDskmbEAcEaLTKYm_3NqVIBBbvlOY93sGKM6fH0WrA=w1000-h750-no",
     "rating": 4.1,
     "review_count": 1025,
     "verification_status": "UNVERIFIED",
@@ -11009,239 +11312,6 @@
     "rating": null,
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdKlSoZi5Mkb9QeIFw0wrdFDOy06LbOMUVmbjAUEiWCStXmQ37o9ahBOem6OezxYy_J_FuC4jXQN0syHtQP0iDTxXxTQXPNx7jFMJ30pzWvswROWCtdl6k-jl5HjgEaJOUvXnZMawkFh0bA=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdKlSoZi5Mkb9QeIFw0wrdFDOy06LbOMUVmbjAUEiWCStXmQ37o9ahBOem6OezxYy_J_FuC4jXQN0syHtQP0iDTxXxTQXPNx7jFMJ30pzWvswROWCtdl6k-jl5HjgEaJOUvXnZMawkFh0bA=w1000-h750-no",
-    "source_query": "Hypermarket in Turnhout, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ7fj4R9OzxkcR98WxMM3TNtc",
-    "name": "Peeters / Carina",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Turnhout",
-    "address": "Peeters / Carina, Korte Gasthuisstraat 65, 2300 Turnhout",
-    "street": "Korte Gasthuisstraat 65",
-    "postal_code": "2300",
-    "region": null,
-    "latitude": 51.3199499,
-    "longitude": 4.9455554,
-    "phone": "014 41 32 49",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Peeters%20%2F%20Carina&query_place_id=ChIJ7fj4R9OzxkcR98WxMM3TNtc",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "7:30 am–6 pm"
-      ],
-      "Wednesday": [
-        "7:30 am–6 pm"
-      ],
-      "Thursday": [
-        "7:30 am–6 pm"
-      ],
-      "Friday": [
-        "7:30 am–6 pm"
-      ],
-      "Saturday": [
-        "7:30 am–4 pm"
-      ],
-      "Sunday": [
-        "7 am–12:30 pm"
-      ]
-    },
-    "review_count": 4,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdULFIAxSTwsxz5vj6aUBWXBqlBhMDSF5vFNqsjDZBIHj8mibIoriZINaMlxqXNnqruiHV6v6J0jXBTvPjjHKVUwZPoBl2GPFMYvr6SiBUHv4JpjBFveiehw_EZjkmTq0HpEWQH7Q=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdULFIAxSTwsxz5vj6aUBWXBqlBhMDSF5vFNqsjDZBIHj8mibIoriZINaMlxqXNnqruiHV6v6J0jXBTvPjjHKVUwZPoBl2GPFMYvr6SiBUHv4JpjBFveiehw_EZjkmTq0HpEWQH7Q=w1000-h750-no",
-    "source_query": "Hypermarket in Turnhout, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJpY1BY96zxkcRoPXAcY3jigQ",
-    "name": "Q8",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Turnhout",
-    "address": "Q8, Steenweg op Mol 118, 2300 Turnhout",
-    "street": "Steenweg op Mol 118",
-    "postal_code": "2300",
-    "region": null,
-    "latitude": 51.321161499999995,
-    "longitude": 4.9666549,
-    "phone": "03 241 35 35",
-    "website": "https://www.q8.be/stations/q8-turnhout-steenweg-op-mol",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Q8&query_place_id=ChIJpY1BY96zxkcRoPXAcY3jigQ",
-    "open_hours_json": {
-      "Monday": [
-        "Open 24 hours"
-      ],
-      "Tuesday": [
-        "Open 24 hours"
-      ],
-      "Wednesday": [
-        "Open 24 hours"
-      ],
-      "Thursday": [
-        "Open 24 hours"
-      ],
-      "Friday": [
-        "Open 24 hours"
-      ],
-      "Saturday": [
-        "Open 24 hours"
-      ],
-      "Sunday": [
-        "Open 24 hours"
-      ]
-    },
-    "review_count": 289,
-    "rating": 4.1,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeVjS3dixHBu2KGa7BPyMAsP12pbHgsWWhANwtKoHdTFHoX09OK6tg3I2yCfkdNoeejVy-S78KqndOYaFDzZnBImLVwIGO8C0gH3Bfg_T30BEXWaH4Kcw4DH7i0lR69M7LJkzOw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeVjS3dixHBu2KGa7BPyMAsP12pbHgsWWhANwtKoHdTFHoX09OK6tg3I2yCfkdNoeejVy-S78KqndOYaFDzZnBImLVwIGO8C0gH3Bfg_T30BEXWaH4Kcw4DH7i0lR69M7LJkzOw=w1000-h750-no",
-    "source_query": "Hypermarket in Turnhout, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJjbzaX9SzxkcRyXaIFI7ZHGU",
-    "name": "Restaurant Marché 17",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Turnhout",
-    "address": "Restaurant Marché 17, Grote Markt 17, 2300 Turnhout",
-    "street": "Grote Markt 17",
-    "postal_code": "2300",
-    "region": null,
-    "latitude": 51.3236321,
-    "longitude": 4.94889,
-    "phone": "014 42 78 99",
-    "website": "http://www.marche17.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20March%C3%A9%2017&query_place_id=ChIJjbzaX9SzxkcRyXaIFI7ZHGU",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "12–2 pm",
-        "6–9 pm"
-      ],
-      "Wednesday": [
-        "12–2 pm",
-        "6–9 pm"
-      ],
-      "Thursday": [
-        "12–2 pm",
-        "6–9 pm"
-      ],
-      "Friday": [
-        "12–2 pm",
-        "6–9 pm"
-      ],
-      "Saturday": [
-        "12–2 pm",
-        "6–9 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 268,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdG4kSfkZmgigx1yvky5xGMO5FdNKFY3L8w3Jh1ySTDrjmK7W1Rp45U3_rQe09HhD3XA4jadSAEFwqY1Hlt1qHBtXeAhz-V-gKlyFGpk4NWYlW3t1aMNjvt3GUh2W99xLq7WtMvww=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdG4kSfkZmgigx1yvky5xGMO5FdNKFY3L8w3Jh1ySTDrjmK7W1Rp45U3_rQe09HhD3XA4jadSAEFwqY1Hlt1qHBtXeAhz-V-gKlyFGpk4NWYlW3t1aMNjvt3GUh2W99xLq7WtMvww=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Turnhout, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJqY4nlCmyxkcRGejECp5m8cY",
-    "name": "Resto & Guesthouse Cachet de Cire",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Turnhout",
-    "address": "Resto & Guesthouse Cachet de Cire, Guldensporenlei 23, 2300 Turnhout",
-    "street": "Guldensporenlei 23",
-    "postal_code": "2300",
-    "region": null,
-    "latitude": 51.3254473,
-    "longitude": 4.9373799,
-    "phone": "0495 84 81 85",
-    "website": "http://www.cachetdecire.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Resto%20%26%20Guesthouse%20Cachet%20de%20Cire&query_place_id=ChIJqY4nlCmyxkcRGejECp5m8cY",
-    "open_hours_json": null,
-    "review_count": 167,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcBrCYg5e32RnodIu_G3PqyJtOJw_0CTSKpE0d23TpMQoYu_B2H23x1w5bkJdrC-XORgypsc12zdtk1wh9bs1ESuV5nxOmsKbyxTgHrlr_HPXQOs4r1IPaIM6tUuSUpsdxG5U4UAA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcBrCYg5e32RnodIu_G3PqyJtOJw_0CTSKpE0d23TpMQoYu_B2H23x1w5bkJdrC-XORgypsc12zdtk1wh9bs1ESuV5nxOmsKbyxTgHrlr_HPXQOs4r1IPaIM6tUuSUpsdxG5U4UAA=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Turnhout, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJk2YhUACzxkcRNjPHC_BZvYo",
-    "name": "SUMER supermarket",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Turnhout",
-    "address": "SUMER supermarket, Prinsenstraat 3, 2300 Turnhout",
-    "street": "Prinsenstraat 3",
-    "postal_code": "2300",
-    "region": null,
-    "latitude": 51.321535499999996,
-    "longitude": 4.9332981,
-    "phone": "0491 52 27 27",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=SUMER%20supermarket&query_place_id=ChIJk2YhUACzxkcRNjPHC_BZvYo",
-    "open_hours_json": {
-      "Monday": [
-        "7 am–8 pm"
-      ],
-      "Tuesday": [
-        "7 am–8 pm"
-      ],
-      "Wednesday": [
-        "7 am–8 pm"
-      ],
-      "Thursday": [
-        "7 am–8 pm"
-      ],
-      "Friday": [
-        "7 am–8 pm"
-      ],
-      "Saturday": [
-        "8 am–8 pm"
-      ],
-      "Sunday": [
-        "8 am–8 pm"
-      ]
-    },
-    "review_count": 0,
-    "rating": null,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeeGtkq1NqaTISJR6VGwGUD93GrCG2AfAwdJnJIOGCvkz2p_bavhtiZZM1dqUn9dAvp693Y7C3pbpRkSfAHQ8XQRFYoWR9uGLQ1bSlLbjbFoYW7yqOKv10v3otYO36DqyLacVnTc_tEVIny=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeeGtkq1NqaTISJR6VGwGUD93GrCG2AfAwdJnJIOGCvkz2p_bavhtiZZM1dqUn9dAvp693Y7C3pbpRkSfAHQ8XQRFYoWR9uGLQ1bSlLbjbFoYW7yqOKv10v3otYO36DqyLacVnTc_tEVIny=w1000-h750-no",
     "source_query": "Hypermarket in Turnhout, Flanders, BE",
     "moderation_status": "approved",
     "is_active": true,
