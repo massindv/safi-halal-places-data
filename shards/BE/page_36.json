@@ -1,5 +1,339 @@
 [
   {
+    "place_id": "ChIJr5u5GyMFwUcRRjGGc0zC5tU",
+    "name": "Le Prestige Waremme",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Waremme",
+    "address": "Le Prestige Waremme, Rue Prte de Liège 59/2, 4300 Waremme",
+    "street": "Rue Prte de Liège 59/2",
+    "postal_code": "4300",
+    "region": null,
+    "latitude": 50.697879699999994,
+    "longitude": 5.2613208,
+    "phone": "0471 94 42 73",
+    "website": "http://prestigewaremme.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Prestige%20Waremme&query_place_id=ChIJr5u5GyMFwUcRRjGGc0zC5tU",
+    "open_hours_json": {
+      "Monday": [
+        "12–2 pm",
+        "6–10 pm"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "6–10 pm"
+      ],
+      "Thursday": [
+        "12–2 pm",
+        "6–10 pm"
+      ],
+      "Friday": [
+        "12–2 pm",
+        "6–10 pm"
+      ],
+      "Saturday": [
+        "12–2 pm",
+        "6–10 pm"
+      ],
+      "Sunday": [
+        "12–2 pm",
+        "6–10 pm"
+      ]
+    },
+    "review_count": 87,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdJ8G18xE06S2kKv7GUGdkOsuoFglBgioPZglEjNpvhbx-TxFVr4njU6y71Fk6JKdor8hRjOjTNHlX2idc6fNcNiLoar3cj7RSF4AVga2X7BZ34stUB-RuQoTTPL_J3gjRPkC_97SP8bqo=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdJ8G18xE06S2kKv7GUGdkOsuoFglBgioPZglEjNpvhbx-TxFVr4njU6y71Fk6JKdor8hRjOjTNHlX2idc6fNcNiLoar3cj7RSF4AVga2X7BZ34stUB-RuQoTTPL_J3gjRPkC_97SP8bqo=w1000-h750-no",
+    "source_query": "Fish restaurant in Waremme, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ6a_Kiu4EwUcRO91vUud0pXA",
+    "name": "Les Trois Palmiers",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Waremme",
+    "address": "Les Trois Palmiers, Rue Hubert Stiernet 33, 4300 Waremme",
+    "street": "Rue Hubert Stiernet 33",
+    "postal_code": "4300",
+    "region": null,
+    "latitude": 50.6988189,
+    "longitude": 5.256341,
+    "phone": "0474 83 83 89",
+    "website": "http://www.troispalmiers.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les%20Trois%20Palmiers&query_place_id=ChIJ6a_Kiu4EwUcRO91vUud0pXA",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "Closed"
+      ],
+      "Friday": [
+        "Closed"
+      ],
+      "Saturday": [
+        "6:30–10:30 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 48,
+    "rating": 4.4,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcEGYzDPFMWm0f11hSugAFH1GKfZrJu7MqByfJfsu84mr9ZzCwbiTBXS3CR96G4Wb4yVdkhtHEiKKFW7QHRzc6nu0Z9jFxg3RxplyGTTHrTl3iUAPgK1i4EJ9vOsOsNFYTOA2AJHg=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcEGYzDPFMWm0f11hSugAFH1GKfZrJu7MqByfJfsu84mr9ZzCwbiTBXS3CR96G4Wb4yVdkhtHEiKKFW7QHRzc6nu0Z9jFxg3RxplyGTTHrTl3iUAPgK1i4EJ9vOsOsNFYTOA2AJHg=w1000-h750-no",
+    "source_query": "Halal restaurant in Waremme, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ1dxeVoMFwUcRvtFB8DyHyc8",
+    "name": "Maza House Waremme",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Waremme",
+    "address": "Maza House Waremme, Rue Joseph Wauters 14, 4300 Waremme",
+    "street": "Rue Joseph Wauters 14",
+    "postal_code": "4300",
+    "region": null,
+    "latitude": 50.6978523,
+    "longitude": 5.256029799999999,
+    "phone": "0483 31 40 65",
+    "website": "https://www.mazahouse-waremme.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Maza%20House%20Waremme&query_place_id=ChIJ1dxeVoMFwUcRvtFB8DyHyc8",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "6–10:30 pm"
+      ],
+      "Wednesday": [
+        "6–10:30 pm"
+      ],
+      "Thursday": [
+        "6–10:30 pm"
+      ],
+      "Friday": [
+        "6–10:30 pm"
+      ],
+      "Saturday": [
+        "6–10:30 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 345,
+    "rating": 4.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd3LmVbFqtlFnruthKvpEhGlPCKd2nMuMl8jU-uiZLKEKKFVAKp0iot1RofOi_a_JjSDbGoFqq7qLfA5FtyUHEZ7A8VRZun54be9SmJXog1schiGLxACpMYf-cpHBrLMV5Aa__qZQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd3LmVbFqtlFnruthKvpEhGlPCKd2nMuMl8jU-uiZLKEKKFVAKp0iot1RofOi_a_JjSDbGoFqq7qLfA5FtyUHEZ7A8VRZun54be9SmJXog1schiGLxACpMYf-cpHBrLMV5Aa__qZQ=w1000-h750-no",
+    "source_query": "Halal restaurant in Waremme, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJCdq_BpAEwUcReROX_rTPveM",
+    "name": "McDonald's",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Waremme",
+    "address": "McDonald's, Rue Hyacinthe Docquier 173, 4300 Waremme",
+    "street": "Rue Hyacinthe Docquier 173",
+    "postal_code": "4300",
+    "region": null,
+    "latitude": 50.695366799999995,
+    "longitude": 5.2759148,
+    "phone": "019 32 60 37",
+    "website": "http://www.mcdonalds.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=McDonald%27s&query_place_id=ChIJCdq_BpAEwUcReROX_rTPveM",
+    "open_hours_json": {
+      "Monday": [
+        "10:30 am–12 am"
+      ],
+      "Tuesday": [
+        "10:30 am–12 am"
+      ],
+      "Wednesday": [
+        "10:30 am–12 am"
+      ],
+      "Thursday": [
+        "10:30 am–12 am"
+      ],
+      "Friday": [
+        "10:30 am–1 am"
+      ],
+      "Saturday": [
+        "10:30 am–1 am"
+      ],
+      "Sunday": [
+        "10:30 am–12 am"
+      ]
+    },
+    "review_count": 1667,
+    "rating": 3.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf7KiX_XCeFA01Vcb_JHe_k2OUW8bMbnyfAquh5VqV3wjeYBso2Q_kelyVpYKo0dcOg3MM1QzmwdnF6GBB1xkXBE9nZcu1pHl76nL2O0gdjuR_2BiuSudVBLo67rChOl4XVFjw0=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf7KiX_XCeFA01Vcb_JHe_k2OUW8bMbnyfAquh5VqV3wjeYBso2Q_kelyVpYKo0dcOg3MM1QzmwdnF6GBB1xkXBE9nZcu1pHl76nL2O0gdjuR_2BiuSudVBLo67rChOl4XVFjw0=w1000-h750-no",
+    "source_query": "Fish restaurant in Waremme, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJm_FXw7wFwUcRoKn6hyYqD78",
+    "name": "Mosquée Ar Rahma Waremme",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Waremme",
+    "address": "Mosquée Ar Rahma Waremme, Av. Guillaume Joachim 1D, 4300 Waremme",
+    "street": "Av. Guillaume Joachim 1D",
+    "postal_code": "4300",
+    "region": null,
+    "latitude": 50.697609199999995,
+    "longitude": 5.2596484,
+    "phone": "0484 29 88 21",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mosqu%C3%A9e%20Ar%20Rahma%20Waremme&query_place_id=ChIJm_FXw7wFwUcRoKn6hyYqD78",
+    "open_hours_json": null,
+    "review_count": 8,
+    "rating": 5.0,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdtTsIdUntxvbYzrDZ5rxOaSGHDlRSb1sl_POxW_7hJk6njOYsG86c9H51QVNuK9XItZiIoMx4GnAR-LQxezmDnpXLuj-UrdRxRSftxguYLsjOVgiy8my3eFfNc7uT2LClWzoj5=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdtTsIdUntxvbYzrDZ5rxOaSGHDlRSb1sl_POxW_7hJk6njOYsG86c9H51QVNuK9XItZiIoMx4GnAR-LQxezmDnpXLuj-UrdRxRSftxguYLsjOVgiy8my3eFfNc7uT2LClWzoj5=w1000-h750-no",
+    "source_query": "Mosque in Mechelen-Bovelingen, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ6dNkovAEwUcRz3ummxySgqk",
+    "name": "Nucky’s Steakhouse",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Waremme",
+    "address": "Nucky’s Steakhouse, Rue de Huy 36, 4300 Waremme",
+    "street": "Rue de Huy 36",
+    "postal_code": "4300",
+    "region": null,
+    "latitude": 50.692412999999995,
+    "longitude": 5.2511149999999995,
+    "phone": "0476 25 25 69",
+    "website": "http://www.nuckys.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Nucky%E2%80%99s%20Steakhouse&query_place_id=ChIJ6dNkovAEwUcRz3ummxySgqk",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "Closed"
+      ],
+      "Friday": [
+        "6:30–9 pm"
+      ],
+      "Saturday": [
+        "6:30–9 pm"
+      ],
+      "Sunday": [
+        "12–2 pm",
+        "6:30–8:30 pm"
+      ]
+    },
+    "review_count": 834,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcMhHM_5PPCh24eUS0JNw7lWZPvkd_Vtwb9TBzJS1exj2H55X4w2K22cF6uwJgwYMkmc8Qc-5C4Ss6wjC3Sco89y0St7jXsd7HOUlULCen4ILerPmTmiDZTAZaFBZ8XDUtPb6U=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcMhHM_5PPCh24eUS0JNw7lWZPvkd_Vtwb9TBzJS1exj2H55X4w2K22cF6uwJgwYMkmc8Qc-5C4Ss6wjC3Sco89y0St7jXsd7HOUlULCen4ILerPmTmiDZTAZaFBZ8XDUtPb6U=w1000-h750-no",
+    "source_query": "Halal restaurant in Waremme, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJGVXun2sFwUcRLBdH4XW91lg",
+    "name": "O'Tacos Waremme",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Waremme",
+    "address": "O'Tacos Waremme, Pl. du Roi Albert Premier 6, 4300 Waremme",
+    "street": "Pl. du Roi Albert Premier 6",
+    "postal_code": "4300",
+    "region": null,
+    "latitude": 50.6959868,
+    "longitude": 5.254034,
+    "phone": null,
+    "website": "https://restaurants.o-tacos.com/belgium/region-wallonne/liege/waremme/waremme-place-roi-albert-premier?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=O%27Tacos%20Waremme&query_place_id=ChIJGVXun2sFwUcRLBdH4XW91lg",
+    "open_hours_json": {
+      "Monday": [
+        "11 am–10 pm"
+      ],
+      "Tuesday": [
+        "11 am–10 pm"
+      ],
+      "Wednesday": [
+        "11 am–10 pm"
+      ],
+      "Thursday": [
+        "11 am–10:30 pm"
+      ],
+      "Friday": [
+        "11 am–10:30 pm"
+      ],
+      "Saturday": [
+        "11 am–10:30 pm"
+      ],
+      "Sunday": [
+        "11 am–10 pm"
+      ]
+    },
+    "review_count": 473,
+    "rating": 2.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcuc9X63kkJzScVy_08YTpGeF1pWpBYBNeqMsykKTRH_F6dbPHlmA0dKE8wN4R8wTIFdimo0oX718rT8QZQQe8q0RygfHNjJsh0TtPjO5qTSAEITz-qXZMdhbZP_gz7yoh1zP9A=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcuc9X63kkJzScVy_08YTpGeF1pWpBYBNeqMsykKTRH_F6dbPHlmA0dKE8wN4R8wTIFdimo0oX718rT8QZQQe8q0RygfHNjJsh0TtPjO5qTSAEITz-qXZMdhbZP_gz7yoh1zP9A=w1000-h750-no",
+    "source_query": "Halal restaurant in Waremme, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata"
+  },
+  {
     "place_id": "ChIJtcbAr-0EwUcRX8gMESWSJXI",
     "name": "Orchidea",
     "type": "restaurant",
@@ -1150,6 +1484,32 @@
     "verification_evidence": null
   },
   {
+    "place_id": "ChIJg_r9EnMnw0cRUsSAkfmVwVY",
+    "name": "Au Cordon Bleu Chez Amari",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "FR",
+    "country_code": "FR",
+    "city": "Wattrelos",
+    "address": "Au Cordon Bleu Chez Amari, 268 Rue Faidherbe, 59150 Wattrelos, Frankrijk",
+    "street": "268 Rue Faidherbe",
+    "postal_code": "59150",
+    "region": null,
+    "latitude": 50.698102399999996,
+    "longitude": 3.2044903,
+    "phone": "+33 3 20 11 03 80",
+    "website": "https://aucordonbleu.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Au%20Cordon%20Bleu%20Chez%20Amari&query_place_id=ChIJg_r9EnMnw0cRUsSAkfmVwVY",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcWdHe4AL_Keftixe6PKtf33jML0TermLq7PtMcEZclxYuFoTbW97_-LO4oF2JSEu3OnMJQORLmYpwcvm-MGpwimARFCFHv--QWokQoxGp3QKdSC7bUI2lrZQVyZN4gAc8pS4XUcEd7edwA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcWdHe4AL_Keftixe6PKtf33jML0TermLq7PtMcEZclxYuFoTbW97_-LO4oF2JSEu3OnMJQORLmYpwcvm-MGpwimARFCFHv--QWokQoxGp3QKdSC7bUI2lrZQVyZN4gAc8pS4XUcEd7edwA=w1000-h750-no",
+    "rating": 3.3,
+    "review_count": 169,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
     "place_id": "ChIJASZSqJgnw0cR3uBRRE7g_hE",
     "name": "BRO'S BURGER",
     "type": "restaurant",
@@ -1198,6 +1558,32 @@
     "is_active": true,
     "verification_status": "VERIFIED",
     "verification_evidence": "Explicit Halal keyword indicators in listing metadata"
+  },
+  {
+    "place_id": "ChIJQbNioRYmw0cRYaS61N59VW4",
+    "name": "Boucherie Younes",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "FR",
+    "country_code": "FR",
+    "city": "Wattrelos",
+    "address": "Boucherie Younes, 55 Rue du Général de Gaulle, 59150 Wattrelos, Frankrijk",
+    "street": "55 Rue du Général de Gaulle",
+    "postal_code": "59150",
+    "region": null,
+    "latitude": 50.701639,
+    "longitude": 3.221389,
+    "phone": "+33 3 20 72 54 94",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boucherie%20Younes&query_place_id=ChIJQbNioRYmw0cRYaS61N59VW4",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcFDEqLUonZQGi-YfAG0yeQXkf2lx7tMWD8yXHI-G8Z9LwPEn6eq5ganwhSu47zpO63z27inRxHRlTKYAt3nY0pn5KgfR_hWIZzM8L7TRPtW-bBI103h_dOH5zmdibKCEL0KOLP=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcFDEqLUonZQGi-YfAG0yeQXkf2lx7tMWD8yXHI-G8Z9LwPEn6eq5ganwhSu47zpO63z27inRxHRlTKYAt3nY0pn5KgfR_hWIZzM8L7TRPtW-bBI103h_dOH5zmdibKCEL0KOLP=w1000-h750-no",
+    "rating": 4.3,
+    "review_count": 80,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
   },
   {
     "place_id": "ChIJj33xZV0nw0cR7CwYq0Xs74g",
@@ -7000,8 +7386,8 @@
     "phone": "0485 72 13 02",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Slagerij%20Aaliyah%20%26%20algemene%20voeding&query_place_id=ChIJ-3pXCjDvw0cR1xr5HuXjOOU",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcmZGzn6p7ZszoCcr3fWnFYOSGs6Ih4p1i00ftb4GCJSBt4dd0zbs7URTkSbitckyPEpj5qxcrsQ5pT_8idxrhCsV7nIxWLZnv8xa_kdVQ--bVk4i7-Hadeov0A54HKpBAgpNk=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcmZGzn6p7ZszoCcr3fWnFYOSGs6Ih4p1i00ftb4GCJSBt4dd0zbs7URTkSbitckyPEpj5qxcrsQ5pT_8idxrhCsV7nIxWLZnv8xa_kdVQ--bVk4i7-Hadeov0A54HKpBAgpNk=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcfiwTjjZ_3hliScdby2_6GAuwc4uBPbCq25I7aQsJbjnSAqDzdMioj3RyCrcLeND1mo-Eek_fPGJLLmbY3_uQx5_Zoiga7Elwz1kPNBVu3rHpu8HBBNJ9DQhCdT5rKb0KvqYpv=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcfiwTjjZ_3hliScdby2_6GAuwc4uBPbCq25I7aQsJbjnSAqDzdMioj3RyCrcLeND1mo-Eek_fPGJLLmbY3_uQx5_Zoiga7Elwz1kPNBVu3rHpu8HBBNJ9DQhCdT5rKb0KvqYpv=w1000-h750-no",
     "rating": 4.3,
     "review_count": 54,
     "verification_status": "UNVERIFIED",
@@ -11308,421 +11694,6 @@
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd1DyC2RcyEof-3N37lVhCFXjdS5VOYCdOybrMqo8JjSECRBk3gZPd8KHD7QvtEQG_nZPgFQ2aazcp57t-mv1iCF2gsLUt9MzKo9MilD3hzDa202agMkPTD5cL4F5IV2VK8Jtio=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd1DyC2RcyEof-3N37lVhCFXjdS5VOYCdOybrMqo8JjSECRBk3gZPd8KHD7QvtEQG_nZPgFQ2aazcp57t-mv1iCF2gsLUt9MzKo9MilD3hzDa202agMkPTD5cL4F5IV2VK8Jtio=w1000-h750-no",
     "source_query": "Pharmacy in Zottegem, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJKUfiwGanw0cRtuZvnv9CKps",
-    "name": "Allegro",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Zottegem",
-    "address": "Allegro, Ten Ede 6, 9620 Zottegem",
-    "street": "Ten Ede 6",
-    "postal_code": "9620",
-    "region": null,
-    "latitude": 50.8419582,
-    "longitude": 3.8179119999999998,
-    "phone": "09 360 20 64",
-    "website": "http://www.traiteur-allegro.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Allegro&query_place_id=ChIJKUfiwGanw0cRtuZvnv9CKps",
-    "open_hours_json": {
-      "Monday": [
-        "8 am–12:30 pm",
-        "2–6 pm"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "8 am–12:30 pm",
-        "2–6 pm"
-      ],
-      "Thursday": [
-        "8 am–12:30 pm",
-        "2–6 pm"
-      ],
-      "Friday": [
-        "8 am–12:30 pm",
-        "2–6 pm"
-      ],
-      "Saturday": [
-        "8 am–5 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 20,
-    "rating": 4.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfmLNfVraJXOvuw6mx5-HlVuymNNL0fJn0Lwis8cWfeM1x94xs9i5MDpjwddtvIgj6rxMcRS80ei6N7BSfMOrqRSuJgUdG5Rwc37DoaZaGigdtMO2hrVmzjpauacj0Ra_HnCltgHx-i024=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfmLNfVraJXOvuw6mx5-HlVuymNNL0fJn0Lwis8cWfeM1x94xs9i5MDpjwddtvIgj6rxMcRS80ei6N7BSfMOrqRSuJgUdG5Rwc37DoaZaGigdtMO2hrVmzjpauacj0Ra_HnCltgHx-i024=w1000-h750-no",
-    "source_query": "Halal restaurant in Zottegem, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJIz1BP7ILw0cR7XFHYmBaSVE",
-    "name": "Automatenshop",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Zottegem",
-    "address": "Automatenshop, Bruggenhoek 2, 9620 Zottegem",
-    "street": "Bruggenhoek 2",
-    "postal_code": "9620",
-    "region": null,
-    "latitude": 50.8741771,
-    "longitude": 3.8102986,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Automatenshop&query_place_id=ChIJIz1BP7ILw0cR7XFHYmBaSVE",
-    "open_hours_json": null,
-    "review_count": 6,
-    "rating": 2.0,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLelXgzZ8RKK0u-F9hPyNDushNF3SVVBkHO4uCvGZCzQhn-5apAzt-cs5HYixI4-fcQrOYFpYCJgHqHOFDD0UxHInQCqeNw7Fdmi6ZInsaUT-0TyADzCt2AIpg8DHNkEBqoRM4In=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLelXgzZ8RKK0u-F9hPyNDushNF3SVVBkHO4uCvGZCzQhn-5apAzt-cs5HYixI4-fcQrOYFpYCJgHqHOFDD0UxHInQCqeNw7Fdmi6ZInsaUT-0TyADzCt2AIpg8DHNkEBqoRM4In=w1000-h750-no",
-    "source_query": "Hypermarket in Zottegem, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ4X-iC6igw0cRz8Oufrz13sY",
-    "name": "Bio-Planet",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Zottegem",
-    "address": "Bio-Planet, Buke 20, 9620 Zottegem",
-    "street": "Buke 20",
-    "postal_code": "9620",
-    "region": null,
-    "latitude": 50.877005999999994,
-    "longitude": 3.8156458,
-    "phone": "02 616 78 72",
-    "website": "http://www.bioplanet.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bio-Planet&query_place_id=ChIJ4X-iC6igw0cRz8Oufrz13sY",
-    "open_hours_json": {
-      "Monday": [
-        "9 am–7 pm"
-      ],
-      "Tuesday": [
-        "9 am–7 pm"
-      ],
-      "Wednesday": [
-        "9 am–7 pm"
-      ],
-      "Thursday": [
-        "9 am–7 pm"
-      ],
-      "Friday": [
-        "9 am–7 pm"
-      ],
-      "Saturday": [
-        "9 am–7 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 208,
-    "rating": 3.9,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeCpMhrNcQZOJkCGV9sQsGWHfVRMJJEwTHGHsBeu7Jtz38W5AA86YlVe41R9ZcECY3LvHwdzIuGwV0z72t62ljqvECiIlXXFtkkb4DaUINqPesC007pBBbB2j4tAYlXEEh-0uw3=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeCpMhrNcQZOJkCGV9sQsGWHfVRMJJEwTHGHsBeu7Jtz38W5AA86YlVe41R9ZcECY3LvHwdzIuGwV0z72t62ljqvECiIlXXFtkkb4DaUINqPesC007pBBbB2j4tAYlXEEh-0uw3=w1000-h750-no",
-    "source_query": "Hypermarket in Zottegem, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJCcWhcUahw0cRGuFCEsxp7QQ",
-    "name": "Bistro Vink",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Zottegem",
-    "address": "Bistro Vink, Buke 107, 9620 Zottegem",
-    "street": "Buke 107",
-    "postal_code": "9620",
-    "region": null,
-    "latitude": 50.8810386,
-    "longitude": 3.8225431,
-    "phone": "09 329 93 95",
-    "website": "https://www.bistrovink.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bistro%20Vink&query_place_id=ChIJCcWhcUahw0cRGuFCEsxp7QQ",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "11:30 am–1:30 pm",
-        "5:30–8:30 pm"
-      ],
-      "Wednesday": [
-        "11:30 am–1:30 pm",
-        "5:30–8:30 pm"
-      ],
-      "Thursday": [
-        "11:30 am–1:30 pm",
-        "5:30–8:30 pm"
-      ],
-      "Friday": [
-        "11:30 am–1:30 pm",
-        "5:30–9 pm"
-      ],
-      "Saturday": [
-        "11:30 am–1:30 pm",
-        "5:30–9 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 314,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfiq9R0T0-IteEsZpRfGyKUhI01i1KGuV_52Fvpu7Nvn6Ki2nbMoLPJ0zjLynlDzEXbHgNtv34k1aYMpIAIwkg96sEFnxBji7NzPY-YleSZVpXLjAZAcLUM7muZZhukWudRtwYz=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfiq9R0T0-IteEsZpRfGyKUhI01i1KGuV_52Fvpu7Nvn6Ki2nbMoLPJ0zjLynlDzEXbHgNtv34k1aYMpIAIwkg96sEFnxBji7NzPY-YleSZVpXLjAZAcLUM7muZZhukWudRtwYz=w1000-h750-no",
-    "source_query": "Halal restaurant in Zottegem, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJW1gsEOgLw0cROfRJ8lIv978",
-    "name": "Chez LaRichesse",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Zottegem",
-    "address": "Chez LaRichesse, Heldenlaan 42, 9620 Zottegem",
-    "street": "Heldenlaan 42",
-    "postal_code": "9620",
-    "region": null,
-    "latitude": 50.8710044,
-    "longitude": 3.8098448,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chez%20LaRichesse&query_place_id=ChIJW1gsEOgLw0cROfRJ8lIv978",
-    "open_hours_json": null,
-    "review_count": 4,
-    "rating": 4.8,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLffTYrbxcExTgAT2W4khxj1PpbbICMLhUy3SmDkxyO5c9-Bknk7uAs4ZMRkgA-lAVim2zBvIdyvpccc6E4SNZJTFhAioGVRKVAt2dV3AVw-GyAxd-k2Yk06gZiTzqIKEClwEkLd=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLffTYrbxcExTgAT2W4khxj1PpbbICMLhUy3SmDkxyO5c9-Bknk7uAs4ZMRkgA-lAVim2zBvIdyvpccc6E4SNZJTFhAioGVRKVAt2dV3AVw-GyAxd-k2Yk06gZiTzqIKEClwEkLd=w1000-h750-no",
-    "source_query": "Halal restaurant in Zottegem, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ_xQR27qgw0cRkYuL3mNJcw8",
-    "name": "Collect&Go Zottegem",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Zottegem",
-    "address": "Collect&Go Zottegem, Bijlokestraat 2, 9620 Zottegem",
-    "street": "Bijlokestraat 2",
-    "postal_code": "9620",
-    "region": null,
-    "latitude": 50.879219199999994,
-    "longitude": 3.8290412999999996,
-    "phone": "02 363 50 05",
-    "website": "https://www.collectandgo.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Collect%26Go%20Zottegem&query_place_id=ChIJ_xQR27qgw0cRkYuL3mNJcw8",
-    "open_hours_json": {
-      "Monday": [
-        "8 am–8 pm"
-      ],
-      "Tuesday": [
-        "8 am–8 pm"
-      ],
-      "Wednesday": [
-        "8 am–8 pm"
-      ],
-      "Thursday": [
-        "8 am–8 pm"
-      ],
-      "Friday": [
-        "8 am–9 pm"
-      ],
-      "Saturday": [
-        "8 am–8 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 61,
-    "rating": 4.5,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8FUsQCueJx6aIrB5PGXY6g&cb_client=search.gws-prod.grass&w=80&h=92&yaw=198.8316&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8FUsQCueJx6aIrB5PGXY6g&cb_client=search.gws-prod.grass&w=80&h=92&yaw=198.8316&pitch=0&thumbfov=w1000-h750-no",
-    "source_query": "Hypermarket in Zottegem, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJK83r0K6gw0cRWz8zCcrXBag",
-    "name": "De Zoeten Inval",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Zottegem",
-    "address": "De Zoeten Inval, Vijverstraat 26, 9620 Zottegem",
-    "street": "Vijverstraat 26",
-    "postal_code": "9620",
-    "region": null,
-    "latitude": 50.874571499999995,
-    "longitude": 3.8233126,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=De%20Zoeten%20Inval&query_place_id=ChIJK83r0K6gw0cRWz8zCcrXBag",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "3 pm–12 am"
-      ],
-      "Thursday": [
-        "3 pm–12 am"
-      ],
-      "Friday": [
-        "3 pm–1 am"
-      ],
-      "Saturday": [
-        "2 pm–1 am"
-      ],
-      "Sunday": [
-        "10 am–9 pm"
-      ]
-    },
-    "review_count": 267,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcZBod5Q52RjG-Xh6iOY8Bo64oGbAVYMoRGi6C3K8jQ18OALaLSeE0sFoLijJLG_UYIcDORM1RJ1i17JrDIEnZJv-RKy3e2irH6P7VwNQnRno1rWGOpGFUutHql3RY1QUNRVLJY=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcZBod5Q52RjG-Xh6iOY8Bo64oGbAVYMoRGi6C3K8jQ18OALaLSeE0sFoLijJLG_UYIcDORM1RJ1i17JrDIEnZJv-RKy3e2irH6P7VwNQnRno1rWGOpGFUutHql3RY1QUNRVLJY=w1000-h750-no",
-    "source_query": "Fish restaurant in Zottegem, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJmTLoEAEKw0cRqkPimHhc2QA",
-    "name": "Di Zottegem Centrum",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Zottegem",
-    "address": "Di Zottegem Centrum, Heldenlaan 18, 9620 Zottegem",
-    "street": "Heldenlaan 18",
-    "postal_code": "9620",
-    "region": null,
-    "latitude": 50.8703419,
-    "longitude": 3.810095,
-    "phone": "09 360 60 37",
-    "website": "https://www.di.be/nl/stores?storeID=4135",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Di%20Zottegem%20Centrum&query_place_id=ChIJmTLoEAEKw0cRqkPimHhc2QA",
-    "open_hours_json": {
-      "Monday": [
-        "9 am–6 pm"
-      ],
-      "Tuesday": [
-        "9 am–6 pm"
-      ],
-      "Wednesday": [
-        "9 am–6 pm"
-      ],
-      "Thursday": [
-        "9 am–6 pm"
-      ],
-      "Friday": [
-        "9 am–6 pm"
-      ],
-      "Saturday": [
-        "9 am–6 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 36,
-    "rating": 4.0,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdYIIZPMGsIAxsmaRM-8XItTB_qcuPX14mZvhi4UGRys8e5YSMvLDU2ZgPzhsXDM1Wapqs2DseI-CVB5MWDCmLZD1dVod9rNvGVRC2eRWShSbrjI0naxNp7LSG5BRXsrxMygOKPe8C3Ph-y=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdYIIZPMGsIAxsmaRM-8XItTB_qcuPX14mZvhi4UGRys8e5YSMvLDU2ZgPzhsXDM1Wapqs2DseI-CVB5MWDCmLZD1dVod9rNvGVRC2eRWShSbrjI0naxNp7LSG5BRXsrxMygOKPe8C3Ph-y=w1000-h750-no",
-    "source_query": "Hypermarket in Zottegem, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJsaVLfOgLw0cRRR7lLwJAtis",
-    "name": "Domino's Pizza Zottegem",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Zottegem",
-    "address": "Domino's Pizza Zottegem, Markt 13, 9620 Zottegem",
-    "street": "Markt 13",
-    "postal_code": "9620",
-    "region": null,
-    "latitude": 50.869304299999996,
-    "longitude": 3.8114155,
-    "phone": "09 394 39 00",
-    "website": "https://www.dominos.be/?utm_source=google&utm_medium=local&utm_campaign=yext",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domino%27s%20Pizza%20Zottegem&query_place_id=ChIJsaVLfOgLw0cRRR7lLwJAtis",
-    "open_hours_json": {
-      "Monday": [
-        "11 am–10 pm"
-      ],
-      "Tuesday": [
-        "11 am–10 pm"
-      ],
-      "Wednesday": [
-        "11 am–10 pm"
-      ],
-      "Thursday": [
-        "11 am–10 pm"
-      ],
-      "Friday": [
-        "11 am–10 pm"
-      ],
-      "Saturday": [
-        "11 am–10 pm"
-      ],
-      "Sunday": [
-        "11 am–10 pm"
-      ]
-    },
-    "review_count": 182,
-    "rating": 3.8,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdvkCm5m1n0Oqk6U5ZDayJ-F1_bpYuGJM3nlo2Oa-HQqpthJv3maWudlTT8uNSYPP9v1-TbTxLT5NznnX5YbIW7AP0SoSwPbdAN39c_DowXOZ1fZlxqAnRZ7EhrJ2JIFNlgWRlFhHlari4N=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdvkCm5m1n0Oqk6U5ZDayJ-F1_bpYuGJM3nlo2Oa-HQqpthJv3maWudlTT8uNSYPP9v1-TbTxLT5NznnX5YbIW7AP0SoSwPbdAN39c_DowXOZ1fZlxqAnRZ7EhrJ2JIFNlgWRlFhHlari4N=w1000-h750-no",
-    "source_query": "Halal restaurant in Zottegem, Flanders, BE",
     "moderation_status": "approved",
     "is_active": true,
     "verification_status": "UNVERIFIED",
