@@ -1,5 +1,923 @@
 [
   {
+    "place_id": "ChIJb-ZUGgW1w0cR1zXZLDIuRtI",
+    "name": "Snack Istanbul Braine-le-comte",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Braine-le-Comte",
+    "address": "Snack Istanbul Braine-le-comte, Rue de la Station 15, 7090 Braine-le-Comte",
+    "street": "Rue de la Station 15",
+    "postal_code": "7090",
+    "region": null,
+    "latitude": 50.6096115,
+    "longitude": 4.1369904,
+    "phone": "0494 44 55 40",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Snack%20Istanbul%20Braine-le-comte&query_place_id=ChIJb-ZUGgW1w0cR1zXZLDIuRtI",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "11:30 am–11 pm"
+      ],
+      "Wednesday": [
+        "11:30 am–11 pm"
+      ],
+      "Thursday": [
+        "11:30 am–11 pm"
+      ],
+      "Friday": [
+        "11:30 am–11 pm"
+      ],
+      "Saturday": [
+        "11:30 am–11 pm"
+      ],
+      "Sunday": [
+        "11:30 am–11 pm"
+      ]
+    },
+    "review_count": 149,
+    "rating": 3.9,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcTF2UP4lRVMa__8I_GHAKmPQm2rdgpWG5o5csSJTsOu-QXcTx5Qu0YBqwlND4uphqZ-w2OtrSs3LDq_IFqagEkWcKZxIvbXOJfpQtTyqZ6G6vzcnJZIGvnhz85-854IPZWQFhR=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcTF2UP4lRVMa__8I_GHAKmPQm2rdgpWG5o5csSJTsOu-QXcTx5Qu0YBqwlND4uphqZ-w2OtrSs3LDq_IFqagEkWcKZxIvbXOJfpQtTyqZ6G6vzcnJZIGvnhz85-854IPZWQFhR=w1000-h750-no",
+    "source_query": "Halal restaurant in Braine-le-Comte, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJubdJHQC1w0cRtdXRrrhJdc8",
+    "name": "Spar Braine-le-Comte",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Braine-le-Comte",
+    "address": "Spar Braine-le-Comte, Rue Charles Mahieu 22, 7090 Braine-le-Comte",
+    "street": "Rue Charles Mahieu 22",
+    "postal_code": "7090",
+    "region": null,
+    "latitude": 50.6077533,
+    "longitude": 4.1318633,
+    "phone": "067 28 09 40",
+    "website": "https://www.monspar.be/magasins/spar-braine-le-comte",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Spar%20Braine-le-Comte&query_place_id=ChIJubdJHQC1w0cRtdXRrrhJdc8",
+    "open_hours_json": {
+      "Monday": [
+        "7:30 am–8 pm"
+      ],
+      "Tuesday": [
+        "7:30 am–8 pm"
+      ],
+      "Wednesday": [
+        "7:30 am–8 pm"
+      ],
+      "Thursday": [
+        "7:30 am–8 pm"
+      ],
+      "Friday": [
+        "7:30 am–8 pm"
+      ],
+      "Saturday": [
+        "7:30 am–8 pm"
+      ],
+      "Sunday": [
+        "8 am–6 pm"
+      ]
+    },
+    "review_count": 23,
+    "rating": 4.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdIabQ05Dv_6MGm-9hkm9Kbb_h_Zwk5Wm5IvpByU0xvkGSvjZc8G0Q-sclQQT-t4Lec1GmcRyYoOi0E5u2TqzrcgJb-9GER_AfPVXn9lx1e-IyLfX3pkqmZqdxGwQ8c9wQGkmwoV4sIiJtd=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdIabQ05Dv_6MGm-9hkm9Kbb_h_Zwk5Wm5IvpByU0xvkGSvjZc8G0Q-sclQQT-t4Lec1GmcRyYoOi0E5u2TqzrcgJb-9GER_AfPVXn9lx1e-IyLfX3pkqmZqdxGwQ8c9wQGkmwoV4sIiJtd=w1000-h750-no",
+    "source_query": "Hypermarket in Braine-le-Comte, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJTQe5Myy1w0cRia22x1C16zc",
+    "name": "Sportoase Braine-le-Comte",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Braine-le-Comte",
+    "address": "Sportoase Braine-le-Comte, Rue d'Horrues 53b, 7090 Braine-le-Comte",
+    "street": "Rue d'Horrues 53b",
+    "postal_code": "7090",
+    "region": null,
+    "latitude": 50.610586,
+    "longitude": 4.1328263,
+    "phone": "067 69 00 20",
+    "website": "http://sportoase.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Sportoase%20Braine-le-Comte&query_place_id=ChIJTQe5Myy1w0cRia22x1C16zc",
+    "open_hours_json": {
+      "Monday": [
+        "8 am–10 pm"
+      ],
+      "Tuesday": [
+        "8 am–10 pm"
+      ],
+      "Wednesday": [
+        "8 am–10 pm"
+      ],
+      "Thursday": [
+        "8 am–10 pm"
+      ],
+      "Friday": [
+        "8 am–10 pm"
+      ],
+      "Saturday": [
+        "8 am–6 pm"
+      ],
+      "Sunday": [
+        "8 am–6 pm"
+      ]
+    },
+    "review_count": 1028,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc3N0JrYtU_qlPGCC2bMlX78gVihdgugAIvr8ZrW64jvrVnM8oN3mJXVt2y7ZWIhK-CSLEkqWl-33RWRgLxsZmNss9WFeoYLi4bpoZ0jPtagrTBXoy2RI35KI4WIC-zdy26ZtV-=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc3N0JrYtU_qlPGCC2bMlX78gVihdgugAIvr8ZrW64jvrVnM8oN3mJXVt2y7ZWIhK-CSLEkqWl-33RWRgLxsZmNss9WFeoYLi4bpoZ0jPtagrTBXoy2RI35KI4WIC-zdy26ZtV-=w1000-h750-no",
+    "source_query": "Hypermarket in Braine-le-Comte, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJk-cfZha1w0cRBgP10agg2uI",
+    "name": "TRAFIC BRAINE-LE-COMTE",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Braine-le-Comte",
+    "address": "TRAFIC BRAINE-LE-COMTE, Chau. de Bruxelles 182, 7090 Braine-le-Comte",
+    "street": "Chau. de Bruxelles 182",
+    "postal_code": "7090",
+    "region": null,
+    "latitude": 50.628143599999994,
+    "longitude": 4.1454599,
+    "phone": "067 85 28 48",
+    "website": "https://www.trafic.com/fr_BE/magasins/trafic-braine-le-compte/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=TRAFIC%20BRAINE-LE-COMTE&query_place_id=ChIJk-cfZha1w0cRBgP10agg2uI",
+    "open_hours_json": {
+      "Monday": [
+        "9:30 am–6:30 pm"
+      ],
+      "Tuesday": [
+        "9:30 am–6:30 pm"
+      ],
+      "Wednesday": [
+        "9:30 am–6:30 pm"
+      ],
+      "Thursday": [
+        "9:30 am–6:30 pm"
+      ],
+      "Friday": [
+        "9:30 am–6:30 pm"
+      ],
+      "Saturday": [
+        "9:30 am–6:30 pm"
+      ],
+      "Sunday": [
+        "10 am–1 pm"
+      ]
+    },
+    "review_count": 257,
+    "rating": 4.4,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLczNyNXtyAhrbe1JMEIqfxiWEU42wusTdgNuV2n1gHwb-pQ2jafeKbrsGeg0FpNrPhfhALfyonE5fxN5Za5IN0nty2bPd7po_sUDe0BW38H79Dx-cTAArXFXzTj1xM3A39tw_0O=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLczNyNXtyAhrbe1JMEIqfxiWEU42wusTdgNuV2n1gHwb-pQ2jafeKbrsGeg0FpNrPhfhALfyonE5fxN5Za5IN0nty2bPd7po_sUDe0BW38H79Dx-cTAArXFXzTj1xM3A39tw_0O=w1000-h750-no",
+    "source_query": "Hypermarket in Braine-le-Comte, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ7S7dbTy1w0cRuWlIPjXCe3s",
+    "name": "Washoku Kyo",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Braine-le-Comte",
+    "address": "Braine-le-Comte, Rue de la Grange aux Dîmes, Washoku Kyo邮政编码: 7090",
+    "street": "Rue de la Grange aux Dîmes 33",
+    "postal_code": "7090",
+    "region": null,
+    "latitude": 50.6111657,
+    "longitude": 4.1356188,
+    "phone": "067 56 18 68",
+    "website": "http://www.washokukyo.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Washoku%20Kyo&query_place_id=ChIJ7S7dbTy1w0cRuWlIPjXCe3s",
+    "open_hours_json": {
+      "Monday": [
+        "12–2 pm",
+        "6–11 pm"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "12–2 pm",
+        "6–11 pm"
+      ],
+      "Thursday": [
+        "12–2 pm",
+        "6–11 pm"
+      ],
+      "Friday": [
+        "12–2 pm",
+        "6–11 pm"
+      ],
+      "Saturday": [
+        "12–2 pm",
+        "6–11 pm"
+      ],
+      "Sunday": [
+        "12–2 pm",
+        "6–11 pm"
+      ]
+    },
+    "review_count": 187,
+    "rating": 3.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcOZGKDKLmpHqwCNPxF-CJQ4f_8vfGpeYYVMH01IAhWnWm0rKTxQ4p00LWrTI4Fg5UPoRXNUgR6dqaHRig-0FwafuZf8YWDeAK-NPR49-HLYIfcHf1lV5NQ7jHOYeAks_TZodVU=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcOZGKDKLmpHqwCNPxF-CJQ4f_8vfGpeYYVMH01IAhWnWm0rKTxQ4p00LWrTI4Fg5UPoRXNUgR6dqaHRig-0FwafuZf8YWDeAK-NPR49-HLYIfcHf1lV5NQ7jHOYeAks_TZodVU=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Braine-le-Comte, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJaQlYxTK1w0cRSkoGlmH904Y",
+    "name": "Yummy",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Braine-le-Comte",
+    "address": "Yummy, Rue de la Station 120, 7090 Braine-le-Comte",
+    "street": "Rue de la Station 120",
+    "postal_code": "7090",
+    "region": null,
+    "latitude": 50.606707099999994,
+    "longitude": 4.1379298,
+    "phone": "067 21 40 23",
+    "website": "https://www.facebook.com/yummy.vietnamien/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Yummy&query_place_id=ChIJaQlYxTK1w0cRSkoGlmH904Y",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "6–10 pm"
+      ],
+      "Wednesday": [
+        "6–10 pm"
+      ],
+      "Thursday": [
+        "6–10 pm"
+      ],
+      "Friday": [
+        "6–10 pm"
+      ],
+      "Saturday": [
+        "6–10 pm"
+      ],
+      "Sunday": [
+        "12–2 pm"
+      ]
+    },
+    "review_count": 246,
+    "rating": 4.4,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc_7nZgmQIDsuzjLHYJhIxOssBvZ4kQG5MUHnztOzcTLDDJynxU7AU5Z6VSgak7_FnIQPVO67Gj_fwNIPZ6-OuwRkwXc9RfYJnpeL2aOdhmBb5_u3V1E3VFJ4MmAyQ9yr9zjXcI=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc_7nZgmQIDsuzjLHYJhIxOssBvZ4kQG5MUHnztOzcTLDDJynxU7AU5Z6VSgak7_FnIQPVO67Gj_fwNIPZ6-OuwRkwXc9RfYJnpeL2aOdhmBb5_u3V1E3VFJ4MmAyQ9yr9zjXcI=w1000-h750-no",
+    "source_query": "Halal restaurant in Braine-le-Comte, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJCZ4r4HmR3EcRMxeulvoyT2o",
+    "name": "snack royale",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "FR",
+    "country_code": "FR",
+    "city": "Bray-Dunes",
+    "address": "snack royale, 750 Bd Georges Pompidou, 59123 Bray-Dunes, France",
+    "street": "750 Bd Georges Pompidou",
+    "postal_code": "59123",
+    "region": null,
+    "latitude": 51.0791615,
+    "longitude": 2.5173123,
+    "phone": "+33 6 13 22 39 92",
+    "website": "https://www.instagram.com/kik_ikebab?igsh=MXNtaWQ1MWx4ZjVuOA==",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=snack%20royale&query_place_id=ChIJCZ4r4HmR3EcRMxeulvoyT2o",
+    "open_hours_json": {
+      "Monday": [
+        "6–9:30 pm"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "6–9:30 pm"
+      ],
+      "Thursday": [
+        "6–9:30 pm"
+      ],
+      "Friday": [
+        "6–9:30 pm"
+      ],
+      "Saturday": [
+        "11 am–2 pm",
+        "6–10 pm"
+      ],
+      "Sunday": [
+        "6–10 pm"
+      ]
+    },
+    "review_count": 333,
+    "rating": 4.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfO9lMO998xzKJFBImhiylG3FRrohwy7VFLWwrjZqfgWvpZz1UzFYnUvEjLUFFPHxb0HWjnNsxBrQWhIvXGR3HnU_owo_s9JhuTq_pZL7XmVaexH5ijLThFl1DJdzUNaWv5dmQh=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfO9lMO998xzKJFBImhiylG3FRrohwy7VFLWwrjZqfgWvpZz1UzFYnUvEjLUFFPHxb0HWjnNsxBrQWhIvXGR3HnU_owo_s9JhuTq_pZL7XmVaexH5ijLThFl1DJdzUNaWv5dmQh=w1000-h750-no",
+    "source_query": "Halal restaurant in Veurne, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJfRK4g8Op3EcRmG3nBCbPdnY",
+    "name": "Indian Tandoori Grill",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Bredene",
+    "address": "Indian Tandoori Grill, Kapelstraat 33, 8450 Bredene",
+    "street": "Kapelstraat 33",
+    "postal_code": "8450",
+    "region": null,
+    "latitude": 51.2484531,
+    "longitude": 2.9635708,
+    "phone": "0466 21 16 87",
+    "website": "https://indiantandoorigrill.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Indian%20Tandoori%20Grill&query_place_id=ChIJfRK4g8Op3EcRmG3nBCbPdnY",
+    "open_hours_json": {
+      "Monday": [
+        "5:30–10 pm"
+      ],
+      "Tuesday": [
+        "5:30–10 pm"
+      ],
+      "Wednesday": [
+        "5:30–10 pm"
+      ],
+      "Thursday": [
+        "5–10 pm"
+      ],
+      "Friday": [
+        "5–10 pm"
+      ],
+      "Saturday": [
+        "5:30–10 pm"
+      ],
+      "Sunday": [
+        "5:30–10 pm"
+      ]
+    },
+    "review_count": 566,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc9_6-9wgdOpEbm_vQ-buJMyNQLnmAv92Utdsc4M3HgRpOhCvlyy8SYT0ONQ6-NGw5BEndmvh1SF56onw1GvPwG9pvuj1fHw-beQAtoP3S-Sve7XhC9iY4mEK6CDvhdL4gY4dw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc9_6-9wgdOpEbm_vQ-buJMyNQLnmAv92Utdsc4M3HgRpOhCvlyy8SYT0ONQ6-NGw5BEndmvh1SF56onw1GvPwG9pvuj1fHw-beQAtoP3S-Sve7XhC9iY4mEK6CDvhdL4gY4dw=w1000-h750-no",
+    "source_query": "Halal restaurant in Oudenburg, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ1RbQ3gOs3EcR2Ua1SlH74xQ",
+    "name": "SPAR CG Unimarket, Bredene",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Bredene",
+    "address": "SPAR CG Unimarket, Bredene, Brugsesteenweg 37/bus 9, 8450 Bredene",
+    "street": "Brugsesteenweg 37/bus 9",
+    "postal_code": "8450",
+    "region": null,
+    "latitude": 51.220647,
+    "longitude": 2.9633401999999998,
+    "phone": "059 27 54 04",
+    "website": "https://www.mijnspar.be/winkels/spar-bredene-shoppingcenter",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=SPAR%20CG%20Unimarket%2C%20Bredene&query_place_id=ChIJ1RbQ3gOs3EcR2Ua1SlH74xQ",
+    "open_hours_json": {
+      "Monday": [
+        "7:30 am–7:30 pm"
+      ],
+      "Tuesday": [
+        "7:30 am–7:30 pm"
+      ],
+      "Wednesday": [
+        "7:30 am–7:30 pm"
+      ],
+      "Thursday": [
+        "7:30 am–7:30 pm"
+      ],
+      "Friday": [
+        "7:30 am–7:30 pm"
+      ],
+      "Saturday": [
+        "7:30 am–7:30 pm"
+      ],
+      "Sunday": [
+        "7:30 am–7:30 pm"
+      ]
+    },
+    "review_count": 493,
+    "rating": 3.9,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc2wIl1OsHUNTWdrCI4_40XBGqInWN6i5PhYcdZbpDRcJM6XDPDN-LFzmRkiOcQNxSet1LcVY1y0zhONrtjxLvIVaz2nh5TgnEkrrrRUW2I1Dt7NlqVS2v9QpuZZV0ybj3VnEfF=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc2wIl1OsHUNTWdrCI4_40XBGqInWN6i5PhYcdZbpDRcJM6XDPDN-LFzmRkiOcQNxSet1LcVY1y0zhONrtjxLvIVaz2nh5TgnEkrrrRUW2I1Dt7NlqVS2v9QpuZZV0ybj3VnEfF=w1000-h750-no",
+    "source_query": "Hypermarket in Oudenburg, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ921Gu-_TwEcRYb4yN1_zXLU",
+    "name": "'t Kruidenhuys",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Bree",
+    "address": "'t Kruidenhuys, Opitterstraat 4, 3960 Bree",
+    "street": "Opitterstraat 4",
+    "postal_code": "3960",
+    "region": null,
+    "latitude": 51.141224,
+    "longitude": 5.599537199999999,
+    "phone": "089 47 35 52",
+    "website": "http://www.kruidenhuys.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%27t%20Kruidenhuys&query_place_id=ChIJ921Gu-_TwEcRYb4yN1_zXLU",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "9:30 am–12 pm",
+        "2–6 pm"
+      ],
+      "Wednesday": [
+        "9:30 am–12 pm",
+        "2–6 pm"
+      ],
+      "Thursday": [
+        "Closed"
+      ],
+      "Friday": [
+        "8:30 am–12 pm",
+        "2–6 pm"
+      ],
+      "Saturday": [
+        "9:30 am–12 pm",
+        "1–5 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 57,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeHWTY2Kmhwz7arzJFwbqKgY3tmPw0TulEg-i-XRg9AMvudfRMJqobmKbVpqvgoEs7tb4m_kUrglcs7-6Rz0n-OjqQ-R_dL697xv0YmaIhnW98HPo0Y3NHrdrd32yFrDmw5OFJ-=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeHWTY2Kmhwz7arzJFwbqKgY3tmPw0TulEg-i-XRg9AMvudfRMJqobmKbVpqvgoEs7tb4m_kUrglcs7-6Rz0n-OjqQ-R_dL697xv0YmaIhnW98HPo0Y3NHrdrd32yFrDmw5OFJ-=w1000-h750-no",
+    "source_query": "Hypermarket in Bree, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJEVL7o93TwEcRQT5bQuzCP5A",
+    "name": "A.v.m.",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Bree",
+    "address": "A.v.m., Roterstraat 7, 3960 Bree",
+    "street": "Roterstraat 7",
+    "postal_code": "3960",
+    "region": null,
+    "latitude": 51.136603199999996,
+    "longitude": 5.6075446,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=A.v.m.&query_place_id=ChIJEVL7o93TwEcRQT5bQuzCP5A",
+    "open_hours_json": null,
+    "review_count": 0,
+    "rating": null,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oBCOwKKJEv4KmMQ8SmKlFQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=81.464035&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oBCOwKKJEv4KmMQ8SmKlFQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=81.464035&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Hypermarket in Bree, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ3yFzOe_TwEcRkrUQOR800hI",
+    "name": "CocoThai",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Bree",
+    "address": "CocoThai, Hoogstraat 18, 3960 Bree",
+    "street": "Hoogstraat 18",
+    "postal_code": "3960",
+    "region": null,
+    "latitude": 51.1411928,
+    "longitude": 5.5986381,
+    "phone": "089 23 96 65",
+    "website": "http://www.cocothaibree.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=CocoThai&query_place_id=ChIJ3yFzOe_TwEcRkrUQOR800hI",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "5–10 pm"
+      ],
+      "Wednesday": [
+        "5–10 pm"
+      ],
+      "Thursday": [
+        "5–10 pm"
+      ],
+      "Friday": [
+        "5–10 pm"
+      ],
+      "Saturday": [
+        "5–10 pm"
+      ],
+      "Sunday": [
+        "5–10 pm"
+      ]
+    },
+    "review_count": 248,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeyBqgCD4BRv9vgL8SU8W-_OX2uZxfjPoIpSl65m51h0VmXa-OEUtMetA9AGSyJx-L7Xd5QRAlPEYY7LU2Sxs1cGfBegnLz68NBgg_WGQ4R3OCENCddd0wx9ONKe6_VP0vI3UwJnw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeyBqgCD4BRv9vgL8SU8W-_OX2uZxfjPoIpSl65m51h0VmXa-OEUtMetA9AGSyJx-L7Xd5QRAlPEYY7LU2Sxs1cGfBegnLz68NBgg_WGQ4R3OCENCddd0wx9ONKe6_VP0vI3UwJnw=w1000-h750-no",
+    "source_query": "Halal restaurant in Bree, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJIdiyo-jTwEcRegQIjt5l6s8",
+    "name": "Doner Kebab Palmiye",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Bree",
+    "address": "Doner Kebab Palmiye, Grauwe Torenwal 40, 3960 Bree",
+    "street": "Grauwe Torenwal 40",
+    "postal_code": "3960",
+    "region": null,
+    "latitude": 51.140197099999995,
+    "longitude": 5.6010485999999995,
+    "phone": "089 46 33 79",
+    "website": "https://www.palmiye-bree.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Doner%20Kebab%20Palmiye&query_place_id=ChIJIdiyo-jTwEcRegQIjt5l6s8",
+    "open_hours_json": {
+      "Monday": [
+        "4:30–8:30 pm"
+      ],
+      "Tuesday": [
+        "4–10 pm"
+      ],
+      "Wednesday": [
+        "4–10 pm"
+      ],
+      "Thursday": [
+        "4–10 pm"
+      ],
+      "Friday": [
+        "4–10 pm"
+      ],
+      "Saturday": [
+        "4–10 pm"
+      ],
+      "Sunday": [
+        "4–9 pm"
+      ]
+    },
+    "review_count": 196,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLervzvMnuZmtmnVND7E3Yxpg3DrsJTvTYEeQ5RW3sw_dYdwNpc6UdzOxbC2qj7r4HgfXBwdH0lix19ZBco9zhbaX7SqzqL8LjEUJpxcPucv3tMg6TzjR1-ul5MHpyjIUyELxPn2fQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLervzvMnuZmtmnVND7E3Yxpg3DrsJTvTYEeQ5RW3sw_dYdwNpc6UdzOxbC2qj7r4HgfXBwdH0lix19ZBco9zhbaX7SqzqL8LjEUJpxcPucv3tMg6TzjR1-ul5MHpyjIUyELxPn2fQ=w1000-h750-no",
+    "source_query": "Halal restaurant in Bree, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJBdYBTN3TwEcR4DDeWiYbIEc",
+    "name": "DreamLand Bree",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Bree",
+    "address": "DreamLand Bree, Regenboogstraat 12, 3960 Bree",
+    "street": "Regenboogstraat 12",
+    "postal_code": "3960",
+    "region": null,
+    "latitude": 51.138703,
+    "longitude": 5.6065689,
+    "phone": "089 70 45 92",
+    "website": "https://www.dreamland.be/nl/winkels/dreamland-bree",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=DreamLand%20Bree&query_place_id=ChIJBdYBTN3TwEcR4DDeWiYbIEc",
+    "open_hours_json": {
+      "Monday": [
+        "10 am–6:30 pm"
+      ],
+      "Tuesday": [
+        "10 am–6:30 pm"
+      ],
+      "Wednesday": [
+        "10 am–6:30 pm"
+      ],
+      "Thursday": [
+        "10 am–6:30 pm"
+      ],
+      "Friday": [
+        "10 am–7 pm"
+      ],
+      "Saturday": [
+        "9:30 am–6:30 pm"
+      ],
+      "Sunday": [
+        "10 am–5 pm"
+      ]
+    },
+    "review_count": 795,
+    "rating": 4.2,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdXdQmi6ooiY3pdJQLKOFMGDUmu3uHTeFlg2zClho-s0BXTKEKbMPyEZmYaKaqB7rPj2ALIU0qjrnlSIKaufdoirYIAlr7mYvUEWceMS5mrp-9zFhRUFVwj_2IIktY_yqlCe-sUeg=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdXdQmi6ooiY3pdJQLKOFMGDUmu3uHTeFlg2zClho-s0BXTKEKbMPyEZmYaKaqB7rPj2ALIU0qjrnlSIKaufdoirYIAlr7mYvUEWceMS5mrp-9zFhRUFVwj_2IIktY_yqlCe-sUeg=w1000-h750-no",
+    "source_query": "Hypermarket in Bree, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJmae1UOTTwEcRM8r0e6tJo1o",
+    "name": "Granny's Ice",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Bree",
+    "address": "Granny's Ice, Rode Kruislaan 28, 3960 Bree",
+    "street": "Rode Kruislaan 28",
+    "postal_code": "3960",
+    "region": null,
+    "latitude": 51.136829399999996,
+    "longitude": 5.5960874,
+    "phone": "089 20 30 30",
+    "website": "http://www.omasijs.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Granny%27s%20Ice&query_place_id=ChIJmae1UOTTwEcRM8r0e6tJo1o",
+    "open_hours_json": null,
+    "review_count": 694,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfeAy_w89Vl6u9Oif9nO979jEYh1gqCBzk0-oiZf6Jnhk-t8w3xg4XoLx9KIKamrpQ3-etnGm6JrFrpK_1ShxF1sdDB74PmgpxgfToYhu81e-b0xVE8ZafenRqUKb2U_THiyI4=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfeAy_w89Vl6u9Oif9nO979jEYh1gqCBzk0-oiZf6Jnhk-t8w3xg4XoLx9KIKamrpQ3-etnGm6JrFrpK_1ShxF1sdDB74PmgpxgfToYhu81e-b0xVE8ZafenRqUKb2U_THiyI4=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Bree, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ3X7lPFjTwEcRfHzfNenfZHo",
+    "name": "Grill De Gouden Os",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Bree",
+    "address": "Grill De Gouden Os, Het Hasseltkiezel 19a, 3960 Bree",
+    "street": "Het Hasseltkiezel 19a",
+    "postal_code": "3960",
+    "region": null,
+    "latitude": 51.142896799999995,
+    "longitude": 5.6586896,
+    "phone": "0472 64 82 29",
+    "website": "https://www.degoudenos.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Grill%20De%20Gouden%20Os&query_place_id=ChIJ3X7lPFjTwEcRfHzfNenfZHo",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "Closed"
+      ],
+      "Friday": [
+        "5–10:30 pm"
+      ],
+      "Saturday": [
+        "5–10:30 pm"
+      ],
+      "Sunday": [
+        "12–3 pm",
+        "5–10:30 pm"
+      ]
+    },
+    "review_count": 34,
+    "rating": 4.4,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfHUaByMUf2qTTLiHcfuXMovluh84_aRtD9ahAt3bxxeSb-11yaYQBm9_QCzk_tJb3PH0uGy9ZiwZyGvGFMiN7B83AsXrpWA_IgnK5Ypv28_baY9tgjQw2iquPzMP07fmTUdh69xZjnrsw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfHUaByMUf2qTTLiHcfuXMovluh84_aRtD9ahAt3bxxeSb-11yaYQBm9_QCzk_tJb3PH0uGy9ZiwZyGvGFMiN7B83AsXrpWA_IgnK5Ypv28_baY9tgjQw2iquPzMP07fmTUdh69xZjnrsw=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Bree, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJVZ5rtOjTwEcRa5lWH7MGgTA",
+    "name": "Joseph Grill",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Bree",
+    "address": "Joseph Grill, Opitterstraat 19, 3960 Bree",
+    "street": "Opitterstraat 19",
+    "postal_code": "3960",
+    "region": null,
+    "latitude": 51.1409143,
+    "longitude": 5.6001034,
+    "phone": "089 77 55 38",
+    "website": "http://www.josephgrill.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Joseph%20Grill&query_place_id=ChIJVZ5rtOjTwEcRa5lWH7MGgTA",
+    "open_hours_json": {
+      "Monday": [
+        "6–8 pm"
+      ],
+      "Tuesday": [
+        "6–8 pm"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "6–8 pm"
+      ],
+      "Friday": [
+        "6 pm–12 am"
+      ],
+      "Saturday": [
+        "6 pm–12 am"
+      ],
+      "Sunday": [
+        "5 pm–12 am"
+      ]
+    },
+    "review_count": 435,
+    "rating": 4.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcUcOPPIDb43yX7eiWTxa7jcHInaQvCypR8fNcskUQMC6G9TB3huNuYfigDSwitV_UJ9KkcGfiJ_WllEzq1574HACtdMze0bKUkbkLWB0XO21rbQVHJPgK3DyNEUX1svAZWmpBJ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcUcOPPIDb43yX7eiWTxa7jcHInaQvCypR8fNcskUQMC6G9TB3huNuYfigDSwitV_UJ9KkcGfiJ_WllEzq1574HACtdMze0bKUkbkLWB0XO21rbQVHJPgK3DyNEUX1svAZWmpBJ=w1000-h750-no",
+    "source_query": "Halal restaurant in Bree, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ4VzRYBjTwEcRIkJ56DboRJU",
+    "name": "Jumbo Bree | de Jumbo's van Ralf & René",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Bree",
+    "address": "Jumbo Bree | de Jumbo's van Ralf & René, Sportlaan 44, 3960 Bree",
+    "street": "Sportlaan 44",
+    "postal_code": "3960",
+    "region": null,
+    "latitude": 51.149877,
+    "longitude": 5.591983,
+    "phone": "089 46 90 80",
+    "website": "https://www.jumbo.com/nl-be/winkels/jumbo-bree",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Jumbo%20Bree%20%7C%20de%20Jumbo%27s%20van%20Ralf%20%26%20Ren%C3%A9&query_place_id=ChIJ4VzRYBjTwEcRIkJ56DboRJU",
+    "open_hours_json": {
+      "Monday": [
+        "7 am–9 pm"
+      ],
+      "Tuesday": [
+        "7 am–9 pm"
+      ],
+      "Wednesday": [
+        "7 am–9 pm"
+      ],
+      "Thursday": [
+        "7 am–9 pm"
+      ],
+      "Friday": [
+        "7 am–9 pm"
+      ],
+      "Saturday": [
+        "7 am–9 pm"
+      ],
+      "Sunday": [
+        "7 am–9 pm"
+      ]
+    },
+    "review_count": 587,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeszLYvlEHO2D6EKJiVjnH7YMv0C2PjBhdxM43ZV45p0WEAeNWsWQh0G2QW9uQBUPg78kpFtWgxPTqnVueeGsmNtjSH_EyStrHev73p82X_plKsw3TL2EVZpn6rTT8dkwc31BIHxQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeszLYvlEHO2D6EKJiVjnH7YMv0C2PjBhdxM43ZV45p0WEAeNWsWQh0G2QW9uQBUPg78kpFtWgxPTqnVueeGsmNtjSH_EyStrHev73p82X_plKsw3TL2EVZpn6rTT8dkwc31BIHxQ=w1000-h750-no",
+    "source_query": "Hypermarket in Bree, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJLyaOZePTwEcRqpfqWaWbRTo",
+    "name": "Moskee Ajiaal",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Bree",
+    "address": "Moskee Ajiaal, Gruitroderstraat 57, 3960 Bree",
+    "street": "Gruitroderstraat 57",
+    "postal_code": "3960",
+    "region": null,
+    "latitude": 51.1339294,
+    "longitude": 5.5939809,
+    "phone": "0485 43 60 38",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Ajiaal&query_place_id=ChIJLyaOZePTwEcRqpfqWaWbRTo",
+    "open_hours_json": {
+      "Monday": [
+        "Open 24 hours"
+      ],
+      "Tuesday": [
+        "Open 24 hours"
+      ],
+      "Wednesday": [
+        "Open 24 hours"
+      ],
+      "Thursday": [
+        "Open 24 hours"
+      ],
+      "Friday": [
+        "Open 24 hours"
+      ],
+      "Saturday": [
+        "Open 24 hours"
+      ],
+      "Sunday": [
+        "Open 24 hours"
+      ]
+    },
+    "review_count": 27,
+    "rating": 4.4,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcXPox0RaCZ_g2f2kol8qhgzCKKVN63DQr8tGRKhF1Ns7hp_3EGVssYqgnf5iugju9XHuOaKbzscjQsa7dkFrtThfSy1TQJDsEBJ3M3VyC6vIriHs27zZUEyaw4FsE0_lR8FuCW=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcXPox0RaCZ_g2f2kol8qhgzCKKVN63DQr8tGRKhF1Ns7hp_3EGVssYqgnf5iugju9XHuOaKbzscjQsa7dkFrtThfSy1TQJDsEBJ3M3VyC6vIriHs27zZUEyaw4FsE0_lR8FuCW=w1000-h750-no",
+    "source_query": "Mosque in Peer, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJX4INbeTTwEcRGgJFS-pYE_I",
     "name": "NOSTIMO",
     "type": "restaurant",
@@ -9626,7 +10544,7 @@
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe86QmE55gfX9vTyorzEACzNZluBEM5PEc64cVxETPymiYdlzHhbPoMGvUyz-YrkcnqvT6YqzRrp7tkLtUSLxctes3_BhSST5AIq5SefZwm1vLwq5XURmuLu5Ltiqnini9Ep4DETdWMuGCP=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe86QmE55gfX9vTyorzEACzNZluBEM5PEc64cVxETPymiYdlzHhbPoMGvUyz-YrkcnqvT6YqzRrp7tkLtUSLxctes3_BhSST5AIq5SefZwm1vLwq5XURmuLu5Ltiqnini9Ep4DETdWMuGCP=w1000-h750-no",
     "rating": 4.8,
-    "review_count": 1045,
+    "review_count": 1055,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null,
     "is_active": true,
@@ -9678,7 +10596,7 @@
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdtv8eZ3Bw_Xc_4BTlaEvh-CDVKtbcAvDxTVnFozZNgVImPXBHldUJtZmhwfLEPRoT7SdfzEPy8dSKq235Kd3UaebROyI9XT4-gKSq46ebuDwFyPJHtDgtMNASw6yJoeBwmrWjz8A=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdtv8eZ3Bw_Xc_4BTlaEvh-CDVKtbcAvDxTVnFozZNgVImPXBHldUJtZmhwfLEPRoT7SdfzEPy8dSKq235Kd3UaebROyI9XT4-gKSq46ebuDwFyPJHtDgtMNASw6yJoeBwmrWjz8A=w1000-h750-no",
     "rating": 4.4,
-    "review_count": 1375,
+    "review_count": 1377,
     "verification_status": "VERIFIED",
     "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
     "is_active": true,
@@ -9727,8 +10645,8 @@
     "phone": "0475 26 81 62",
     "website": "https://barouche.eu/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Barouche&query_place_id=ChIJ4bObtSlRw0cRQlXhaExUf94",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdclAYoGV5X5PLiW5PEcxkWYMcH__ihtzZ2ScfYIJpkcYiE5nrLOj4PtOLe9hesLOvgxMW72a7isLEVq5pioJLWL0wKsXHwr41nCGtaX_JPZDvqBsrIVlf-gwwfgEiImhMQEy2dFu0e9MBB=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdclAYoGV5X5PLiW5PEcxkWYMcH__ihtzZ2ScfYIJpkcYiE5nrLOj4PtOLe9hesLOvgxMW72a7isLEVq5pioJLWL0wKsXHwr41nCGtaX_JPZDvqBsrIVlf-gwwfgEiImhMQEy2dFu0e9MBB=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLem5pr-hGtAHUA6gRj4qpZPGqNigi7BiX3PHB8fuRLZTPxsJObq66CrOK4GJzdYaA3zgFSMORMvmNOHpB8Ka_yzHDQZkQjJjasbZxlTo0EV7WQGXWVhwqVs3pF07xweFz0z5nHHWHKZch3A=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLem5pr-hGtAHUA6gRj4qpZPGqNigi7BiX3PHB8fuRLZTPxsJObq66CrOK4GJzdYaA3zgFSMORMvmNOHpB8Ka_yzHDQZkQjJjasbZxlTo0EV7WQGXWVhwqVs3pF07xweFz0z5nHHWHKZch3A=w1000-h750-no",
     "rating": 4.7,
     "review_count": 486,
     "verification_status": "UNVERIFIED",
@@ -10354,7 +11272,7 @@
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfesL6G7iNWmOOAISb9AUhlEuHqn19Sx7tSDm3lJe_NSyhsbtT2dM-w_BHOl57IiwdaaUvMUxL0tjOju017eG2PTFf998_2EAU0vcK71K7zSACo47iTjQ_2JrqegeF0VQtTXJHbDA=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfesL6G7iNWmOOAISb9AUhlEuHqn19Sx7tSDm3lJe_NSyhsbtT2dM-w_BHOl57IiwdaaUvMUxL0tjOju017eG2PTFf998_2EAU0vcK71K7zSACo47iTjQ_2JrqegeF0VQtTXJHbDA=w1000-h750-no",
     "rating": 4.1,
-    "review_count": 1012,
+    "review_count": 1013,
     "verification_status": "VERIFIED",
     "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
     "is_active": true,
@@ -10385,523 +11303,5 @@
     "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
     "is_active": true,
     "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJl1wtLSFRw0cRmxmMTMjoLNI",
-    "name": "Pinoli streetfood",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Brugge",
-    "address": "Pinoli streetfood, Geldmuntstraat 14, 8000 Brugge",
-    "street": "Geldmuntstraat 14",
-    "postal_code": "8000",
-    "region": null,
-    "latitude": 51.2090531,
-    "longitude": 3.2222483,
-    "phone": "0472 73 38 54",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pinoli%20streetfood&query_place_id=ChIJl1wtLSFRw0cRmxmMTMjoLNI",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfz8LMaeCsKatZ6KgaWhVafWBFNuQFb6NjdokSU79_65WdGoT0zbk6ATLoIMyzpAtzvbWnwOWlVxU1USJ2vgkdzo51UhzPVeYfYFv_EUgpiI0KBPeVhd3SNIC7r2rKz05BldpVFlw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfz8LMaeCsKatZ6KgaWhVafWBFNuQFb6NjdokSU79_65WdGoT0zbk6ATLoIMyzpAtzvbWnwOWlVxU1USJ2vgkdzo51UhzPVeYfYFv_EUgpiI0KBPeVhd3SNIC7r2rKz05BldpVFlw=w1000-h750-no",
-    "rating": 4.2,
-    "review_count": 253,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJs3mDJwxRw0cRkvb5eK8DtxU",
-    "name": "Quick pizza Brugge (Halal)",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Brugge",
-    "address": "Quick pizza Brugge (Halal), Smedenstraat 50, 8000 Brugge",
-    "street": "Smedenstraat 50",
-    "postal_code": "8000",
-    "region": null,
-    "latitude": 51.205435699999995,
-    "longitude": 3.2144542,
-    "phone": "0465 84 86 46",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Quick%20pizza%20Brugge%20%28Halal%29&query_place_id=ChIJs3mDJwxRw0cRkvb5eK8DtxU",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdXwedKeK_BvklVRIulF-QFtP0Y9liny9-L5gTnIGpj3w1zaMjkuA4iP5KJVO8ZhN3Ml8hxFhkl47MHwyxPkcIx03evKU_HyM0L4AWtH5-10CDZzcItoW_z2n6RMNPglkLkVqQ3stbpXyc=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdXwedKeK_BvklVRIulF-QFtP0Y9liny9-L5gTnIGpj3w1zaMjkuA4iP5KJVO8ZhN3Ml8hxFhkl47MHwyxPkcIx03evKU_HyM0L4AWtH5-10CDZzcItoW_z2n6RMNPglkLkVqQ3stbpXyc=w1000-h750-no",
-    "rating": 3.7,
-    "review_count": 15,
-    "verification_status": "VERIFIED",
-    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJTwATFxdXw0cR1Whph501Zbw",
-    "name": "Restaurant Grilladin",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Brugge",
-    "address": "Restaurant Grilladin, Dudzeelse Steenweg 325, 8000 Brugge",
-    "street": "Dudzeelse Steenweg 325",
-    "postal_code": "8000",
-    "region": null,
-    "latitude": 51.245616999999996,
-    "longitude": 3.2305647,
-    "phone": "050 59 98 36",
-    "website": "http://www.grilladin.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20Grilladin&query_place_id=ChIJTwATFxdXw0cR1Whph501Zbw",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLewzAGmkbnyCWGoqpdysPMs8KxPl6IX0e2dOyG3ajFg1lrV3NT1vOclC0v1aYvURTkKlrJQgyAR4AUF2o94cAzpyR7C0oychoqntJRp0cba9kgohLtl_fMa5CDvVAiexvTJmg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLewzAGmkbnyCWGoqpdysPMs8KxPl6IX0e2dOyG3ajFg1lrV3NT1vOclC0v1aYvURTkKlrJQgyAR4AUF2o94cAzpyR7C0oychoqntJRp0cba9kgohLtl_fMa5CDvVAiexvTJmg=w1000-h750-no",
-    "rating": 4.4,
-    "review_count": 134,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJAVd6g9lQw0cR4sry6CB9GX8",
-    "name": "SaBa",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Brugge",
-    "address": "SaBa, Noordzandstraat 90, 8000 Brugge",
-    "street": "Noordzandstraat 90",
-    "postal_code": "8000",
-    "region": null,
-    "latitude": 51.2062755,
-    "longitude": 3.2180543,
-    "phone": "0473 22 11 21",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=SaBa&query_place_id=ChIJAVd6g9lQw0cR4sry6CB9GX8",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeB21PEAGEMmbRj0J4go9ksTbYtnE5KQpP1GwZMNbR8xIbXB-bBWT8Y3i3wIeSwetIMmFeG92L6YTSDRq3Asj9ZruH0xGZSeb0__Sryfv_7HE16WWY5p-9AkC9_nkT6b2xYyxwf=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeB21PEAGEMmbRj0J4go9ksTbYtnE5KQpP1GwZMNbR8xIbXB-bBWT8Y3i3wIeSwetIMmFeG92L6YTSDRq3Asj9ZruH0xGZSeb0__Sryfv_7HE16WWY5p-9AkC9_nkT6b2xYyxwf=w1000-h750-no",
-    "rating": 3.9,
-    "review_count": 465,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJJYLA7rxQw0cRa6TNENzfkQM",
-    "name": "Shalimar",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Brugge",
-    "address": "Shalimar, Gaston Roelandtsplein 25, 8310 Brugge",
-    "street": "Gaston Roelandtsplein 25",
-    "postal_code": "8310",
-    "region": null,
-    "latitude": 51.2006966,
-    "longitude": 3.2456646,
-    "phone": "0494 48 24 73",
-    "website": "http://www.shalimar-brugge.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Shalimar&query_place_id=ChIJJYLA7rxQw0cRa6TNENzfkQM",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdx6eKdMQR_PJh3Wni-trancUhJXhyGkmKN2QJX5KERxumbfRqF0VWa2BDVa0uiLv8s2JNFaZ1MmmxacTknwmN1fU4C4qwuiIefqshl1GAtUyFtiCBrsD6wDFpgNsoLy8MTqA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdx6eKdMQR_PJh3Wni-trancUhJXhyGkmKN2QJX5KERxumbfRqF0VWa2BDVa0uiLv8s2JNFaZ1MmmxacTknwmN1fU4C4qwuiIefqshl1GAtUyFtiCBrsD6wDFpgNsoLy8MTqA=w1000-h750-no",
-    "rating": 4.6,
-    "review_count": 725,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJBUszJBFRw0cR5d1dUUYBsSU",
-    "name": "Sint-Willibrorduskerk",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Brugge",
-    "address": "Sint-Willibrorduskerk, Keurvorst Karel Theodoorstraat 3, 8200 Brugge",
-    "street": "Keurvorst Karel Theodoorstraat 3",
-    "postal_code": "8200",
-    "region": null,
-    "latitude": 51.1927959,
-    "longitude": 3.1949444,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Sint-Willibrorduskerk&query_place_id=ChIJBUszJBFRw0cR5d1dUUYBsSU",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfJ3AJVaNgmIkgke6ygV2kW1ZClqA1TwIPOIQvXn_iyupRwW3daHtbD7dSVHv_NABoqrkyuMnhvXISI5_WKc_t_I_EsvbkLYCxl7HQzfD-0cl8jezXsuSHKYlMANAkFZBu5lwJALQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfJ3AJVaNgmIkgke6ygV2kW1ZClqA1TwIPOIQvXn_iyupRwW3daHtbD7dSVHv_NABoqrkyuMnhvXISI5_WKc_t_I_EsvbkLYCxl7HQzfD-0cl8jezXsuSHKYlMANAkFZBu5lwJALQ=w1000-h750-no",
-    "rating": 3.6,
-    "review_count": 17,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJw6So4itRw0cRCpHc6YzK734",
-    "name": "Slagerij Maertens",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Brugge",
-    "address": "Slagerij Maertens, Leopold I-laan 98, 8000 Brugge",
-    "street": "Leopold I-laan 98",
-    "postal_code": "8000",
-    "region": null,
-    "latitude": 51.214022799999995,
-    "longitude": 3.2078086,
-    "phone": "050 31 61 05",
-    "website": "http://www.maertensbrugge.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Slagerij%20Maertens&query_place_id=ChIJw6So4itRw0cRCpHc6YzK734",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfXiOLCRI1NivTtj71XFwzlUdhezOEjVfc2Jl9zkT-VS0vr1tHJtkdQTUK871OHZ1ClG5XUUN1cZjLXVYpFj_bOXzQ3DkRJra39mgEyGhINelJQKMrXoyf8xSE3hxrdNeyAtr1Ncp4Txemj=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfXiOLCRI1NivTtj71XFwzlUdhezOEjVfc2Jl9zkT-VS0vr1tHJtkdQTUK871OHZ1ClG5XUUN1cZjLXVYpFj_bOXzQ3DkRJra39mgEyGhINelJQKMrXoyf8xSE3hxrdNeyAtr1Ncp4Txemj=w1000-h750-no",
-    "rating": 4.6,
-    "review_count": 242,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJ-Rm8FidRw0cRy-xQ3M-YfCA",
-    "name": "Slagerij Ya Salam🥩",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Brugge",
-    "address": "Slagerij Ya Salam🥩, Legeweg 2, 8200 Brugge",
-    "street": "Legeweg 2",
-    "postal_code": "8200",
-    "region": null,
-    "latitude": 51.205206499999996,
-    "longitude": 3.2103034,
-    "phone": "050 31 90 54",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Slagerij%20Ya%20Salam%F0%9F%A5%A9&query_place_id=ChIJ-Rm8FidRw0cRy-xQ3M-YfCA",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfsLhMTSd0G0T-I_ykF4PFe8EY-AxyB8shWN34XlJIaEgrFzK1Nsxa3_DSUKHVVn_sT6kRbO9JpfXw0gg32Nl3D7t_UpzW7ckpaWiItPCv96mSGv7rwou6-wkSuLldNfyAyG7Y=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfsLhMTSd0G0T-I_ykF4PFe8EY-AxyB8shWN34XlJIaEgrFzK1Nsxa3_DSUKHVVn_sT6kRbO9JpfXw0gg32Nl3D7t_UpzW7ckpaWiItPCv96mSGv7rwou6-wkSuLldNfyAyG7Y=w1000-h750-no",
-    "rating": 4.6,
-    "review_count": 153,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJk_jmeRFRw0cRkGCJ8rNJzWQ",
-    "name": "Taco’s Loco’s",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Brugge",
-    "address": "Taco’s Loco’s, Katelijnestraat 51, 8000 Brugge",
-    "street": "Katelijnestraat 51",
-    "postal_code": "8000",
-    "region": null,
-    "latitude": 51.2025113,
-    "longitude": 3.2261732999999997,
-    "phone": "0483 80 04 91",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Taco%E2%80%99s%20Loco%E2%80%99s&query_place_id=ChIJk_jmeRFRw0cRkGCJ8rNJzWQ",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcOgYRUSgx2iyrhWcS1ebuCfqEQPBoZwAjwiWIGy8Ydwdikmc6HAxKDgNuF5S8shFPEusqA73vfTwLbhdT5C5rkg4s1tXUNcY-7437zcVijmm6XD8rRb5Otb-v7_PR_Pes7ahsKh0RbxQo=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcOgYRUSgx2iyrhWcS1ebuCfqEQPBoZwAjwiWIGy8Ydwdikmc6HAxKDgNuF5S8shFPEusqA73vfTwLbhdT5C5rkg4s1tXUNcY-7437zcVijmm6XD8rRb5Otb-v7_PR_Pes7ahsKh0RbxQo=w1000-h750-no",
-    "rating": 4.7,
-    "review_count": 173,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJn5CJRXtRw0cRFEulYXc07rY",
-    "name": "Taste of Asia",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Brugge",
-    "address": "Taste of Asia, Ezelstraat 6, 8000 Brugge",
-    "street": "Ezelstraat 6",
-    "postal_code": "8000",
-    "region": null,
-    "latitude": 51.211700799999996,
-    "longitude": 3.2204042,
-    "phone": "050 41 70 07",
-    "website": "https://www.tasteofasiabrugge.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Taste%20of%20Asia&query_place_id=ChIJn5CJRXtRw0cRFEulYXc07rY",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLflLg0DjCHCR1Ijpjl3HHl6iEl7ief8jaP9StZrLq5AOdj6on9L24udbXkN91BB7lgkGBjufEhTeTc6lSXlp-Zm9lnCnJ6qg9Sn2Qq8PL3EuEJziz8rxnaYEYaPPV0waRLQNtJ2gjJOQdXG=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLflLg0DjCHCR1Ijpjl3HHl6iEl7ief8jaP9StZrLq5AOdj6on9L24udbXkN91BB7lgkGBjufEhTeTc6lSXlp-Zm9lnCnJ6qg9Sn2Qq8PL3EuEJziz8rxnaYEYaPPV0waRLQNtJ2gjJOQdXG=w1000-h750-no",
-    "rating": 4.6,
-    "review_count": 144,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJwRy2KwZRw0cRqbyofSPhFuQ",
-    "name": "Tasty Sandwichshop",
-    "type": "bakery",
-    "category": "bakery",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Brugge",
-    "address": "Tasty Sandwichshop, Eiermarkt 7, 8000 Brugge",
-    "street": "Eiermarkt 7",
-    "postal_code": "8000",
-    "region": null,
-    "latitude": 51.2094416,
-    "longitude": 3.2230032,
-    "phone": "050 49 09 54",
-    "website": "https://tasty-bruges.odoo.com/r/Tkl",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Tasty%20Sandwichshop&query_place_id=ChIJwRy2KwZRw0cRqbyofSPhFuQ",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcBFYY-Rh-Ys-SaCDoQS7Tzm9uU0I7LC4ianeNr_7FKu3pn30s1lureq_ZtdjNCt_HG_olU8esQDihbfYqDFbDDf5cvxusDdrsYepfg6WtcAuDGxYhqFD3eoMMVshyjwabIcDiwBlhXJftK=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcBFYY-Rh-Ys-SaCDoQS7Tzm9uU0I7LC4ianeNr_7FKu3pn30s1lureq_ZtdjNCt_HG_olU8esQDihbfYqDFbDDf5cvxusDdrsYepfg6WtcAuDGxYhqFD3eoMMVshyjwabIcDiwBlhXJftK=w1000-h750-no",
-    "rating": 4.9,
-    "review_count": 644,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJv_97jrJRw0cR4DZGv9gLw5c",
-    "name": "The Beef Club - Home of the Smash",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Brugge",
-    "address": "The Beef Club - Home of the Smash, Smedenstraat 50, 8000 Brugge",
-    "street": "Smedenstraat 50",
-    "postal_code": "8000",
-    "region": null,
-    "latitude": 51.205435699999995,
-    "longitude": 3.2144542,
-    "phone": "0471 93 15 67",
-    "website": "https://www.thebeefclub.be/nl?utm_source=google&utm_medium=organic&utm_campaign=gbp",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=The%20Beef%20Club%20-%20Home%20of%20the%20Smash&query_place_id=ChIJv_97jrJRw0cR4DZGv9gLw5c",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeXQ5ZKgphdig48C2Q-KXBonyyFHrCpqyxvNHrl6mBWki4RAECbe7LCTFexwLStPWwL2maqsBiRO6I-_9o3QiUlHjzF8WaduL4Bomdv_PtawskTp-sFjfUB0Rp_glt5HCpukaOFlmedwCg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeXQ5ZKgphdig48C2Q-KXBonyyFHrCpqyxvNHrl6mBWki4RAECbe7LCTFexwLStPWwL2maqsBiRO6I-_9o3QiUlHjzF8WaduL4Bomdv_PtawskTp-sFjfUB0Rp_glt5HCpukaOFlmedwCg=w1000-h750-no",
-    "rating": 4.6,
-    "review_count": 166,
-    "verification_status": "VERIFIED",
-    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJ3fniRMVQw0cRrWAJYle5VjE",
-    "name": "The Olive Street Food",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Brugge",
-    "address": "The Olive Street Food, Wollestraat 12, 8000 Brugge",
-    "street": "Wollestraat 12",
-    "postal_code": "8000",
-    "region": null,
-    "latitude": 51.207584999999995,
-    "longitude": 3.226013,
-    "phone": "050 41 50 96",
-    "website": "http://www.theolivestreetfood.com/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=The%20Olive%20Street%20Food&query_place_id=ChIJ3fniRMVQw0cRrWAJYle5VjE",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc8Sq-zJOhz0ACXV24l3M3gBfKL4525Zau9Htm0LdUviqcwn_mW9uFNRZK9U2xSc2uIiJD4k0fWmX7x4wt9OUyhX-DIHZHAc8RadTUpVysee_uMFpmZDFbhtq0m-gXLb3X6GD5d=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc8Sq-zJOhz0ACXV24l3M3gBfKL4525Zau9Htm0LdUviqcwn_mW9uFNRZK9U2xSc2uIiJD4k0fWmX7x4wt9OUyhX-DIHZHAc8RadTUpVysee_uMFpmZDFbhtq0m-gXLb3X6GD5d=w1000-h750-no",
-    "rating": 4.6,
-    "review_count": 1600,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJD0hnItBQw0cRdHZgRvgNKzw",
-    "name": "Vlaminck '14",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Brugge",
-    "address": "Vlaminck '14, Vlamingstraat 14, 8000 Brugge",
-    "street": "Vlamingstraat 14",
-    "postal_code": "8000",
-    "region": null,
-    "latitude": 51.209767299999996,
-    "longitude": 3.2247402,
-    "phone": "050 66 63 75",
-    "website": "https://www.vlaminck14.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Vlaminck%20%2714&query_place_id=ChIJD0hnItBQw0cRdHZgRvgNKzw",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeazXB6Zqtksqd3xue1vL8kyfbkWmDUq_3UV6YR7I2bh8YBF_YbsE71nVZKMLZIF4MqIj3AZDyZOo1Uq7RWOnngntrEYzVG2bOZO0DJoShrWF09yVzr8UESa1EUIHJaBc4JUjwkJA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeazXB6Zqtksqd3xue1vL8kyfbkWmDUq_3UV6YR7I2bh8YBF_YbsE71nVZKMLZIF4MqIj3AZDyZOo1Uq7RWOnngntrEYzVG2bOZO0DJoShrWF09yVzr8UESa1EUIHJaBc4JUjwkJA=w1000-h750-no",
-    "rating": 4.6,
-    "review_count": 3118,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJD1-dRuRXw0cR9t8vQGlRVt0",
-    "name": "Vleesbank Halal Slagerij",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Brugge",
-    "address": "Vleesbank Halal Slagerij, Sint-Pieterszuidstraat 47, 8000 Brugge",
-    "street": "Sint-Pieterszuidstraat 47",
-    "postal_code": "8000",
-    "region": null,
-    "latitude": 51.2230986,
-    "longitude": 3.2110811,
-    "phone": "+31 6 38388665",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Vleesbank%20Halal%20Slagerij&query_place_id=ChIJD1-dRuRXw0cR9t8vQGlRVt0",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfRyHStXfyZpF9C6KQGJr1IpKFF2sd5xEqC4ZmGbD8Uzmuy9f1TU9bQCW4u6kTDFoXXeHWRWWw2KtT9cFBZen8q63hMSUPMC8d1Sq-elc8756doMW4TKNSYRjxbozjA3XAN-zXFZHISxffT=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfRyHStXfyZpF9C6KQGJr1IpKFF2sd5xEqC4ZmGbD8Uzmuy9f1TU9bQCW4u6kTDFoXXeHWRWWw2KtT9cFBZen8q63hMSUPMC8d1Sq-elc8756doMW4TKNSYRjxbozjA3XAN-zXFZHISxffT=w1000-h750-no",
-    "rating": 4.9,
-    "review_count": 56,
-    "verification_status": "VERIFIED",
-    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJGwFCZCJRw0cRgnkiaQVLvTc",
-    "name": "Zizou",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Brugge",
-    "address": "Zizou, Katelijnestraat 92, 8000 Bruges",
-    "street": "Katelijnestraat 92",
-    "postal_code": "8000",
-    "region": null,
-    "latitude": 51.201365599999995,
-    "longitude": 3.2273144,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Zizou&query_place_id=ChIJGwFCZCJRw0cRgnkiaQVLvTc",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLej_npfr9suYcjLu9vMn9w4n_Yytr7B489e_8zs6qxQGaEeOjFOPZoX6yoK_PgaJS2RNQt-p_XercQ2ka9LH8FMvNWe1GZH9Kz6oKjtZsMoFaPM684cpVBlRrdxkC4wkBHeVll9=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLej_npfr9suYcjLu9vMn9w4n_Yytr7B489e_8zs6qxQGaEeOjFOPZoX6yoK_PgaJS2RNQt-p_XercQ2ka9LH8FMvNWe1GZH9Kz6oKjtZsMoFaPM684cpVBlRrdxkC4wkBHeVll9=w1000-h750-no",
-    "rating": 4.3,
-    "review_count": 67,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJzXd4LQCpxEcRD1sYHjoR5X8",
-    "name": "Мечеть",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Brugge",
-    "address": "Мечеть, Marktplein 12, 8380 Brugge",
-    "street": "Marktplein 12",
-    "postal_code": "8380",
-    "region": null,
-    "latitude": 51.331535099999996,
-    "longitude": 3.2106944,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%D0%9C%D0%B5%D1%87%D0%B5%D1%82%D1%8C&query_place_id=ChIJzXd4LQCpxEcRD1sYHjoR5X8",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcSgT_azabxemaYPnYbBC_5TKbFlvitJRpsepkV1buyHZJxl2Jb46XIr3kvFiWf2xfE8k30Xo7yIwN08HGF-pfWDEZg_h-5olpjMjC83GJ702IllFwHh0zGbfn_B11w8S1VdDcDzVQvFFw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcSgT_azabxemaYPnYbBC_5TKbFlvitJRpsepkV1buyHZJxl2Jb46XIr3kvFiWf2xfE8k30Xo7yIwN08HGF-pfWDEZg_h-5olpjMjC83GJ702IllFwHh0zGbfn_B11w8S1VdDcDzVQvFFw=w1000-h750-no",
-    "rating": 5.0,
-    "review_count": 3,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJL7BpVc9Rw0cRBS8aA6F7Gg4",
-    "name": "🔥BROODJES",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Brugge",
-    "address": "🔥BROODJES, Jan Breydellaan 105, 8200 Brugge",
-    "street": "Jan Breydellaan 105",
-    "postal_code": "8200",
-    "region": null,
-    "latitude": 51.211209499999995,
-    "longitude": 3.2059845,
-    "phone": "0456 79 83 15",
-    "website": "https://firebroodjes.com/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%F0%9F%94%A5BROODJES&query_place_id=ChIJL7BpVc9Rw0cRBS8aA6F7Gg4",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdPqgD-OWS6exg-wf5db8CyRlcv9bDgKKw9VnP44CjCfAI7imaBrdH1PhHhwNRI7urXV7H4Y6chL7njZFzRhdmdsaVbeTlzqGHNUcoCOXOY_t5lV7jY02kRcGuB-iHBzmA23r-ax-kNnpfW=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdPqgD-OWS6exg-wf5db8CyRlcv9bDgKKw9VnP44CjCfAI7imaBrdH1PhHhwNRI7urXV7H4Y6chL7njZFzRhdmdsaVbeTlzqGHNUcoCOXOY_t5lV7jY02kRcGuB-iHBzmA23r-ax-kNnpfW=w1000-h750-no",
-    "rating": 4.9,
-    "review_count": 30,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJNw5bkyrhwkcRyTE6uQpmjXE",
-    "name": "Intermarché Hollain",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Brunehaut",
-    "address": "Intermarché Hollain, Rue du Marais 5, 7620 Brunehaut",
-    "street": "Rue du Marais 5",
-    "postal_code": "7620",
-    "region": null,
-    "latitude": 50.546166299999996,
-    "longitude": 3.4305917,
-    "phone": "069 77 74 44",
-    "website": "https://www.intermarche.be/fr/storelocator/intermarche-hollain",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Intermarch%C3%A9%20Hollain&query_place_id=ChIJNw5bkyrhwkcRyTE6uQpmjXE",
-    "open_hours_json": {
-      "Monday": [
-        "8:30 am–7 pm"
-      ],
-      "Tuesday": [
-        "8:30 am–7 pm"
-      ],
-      "Wednesday": [
-        "8:30 am–7 pm"
-      ],
-      "Thursday": [
-        "8:30 am–7 pm"
-      ],
-      "Friday": [
-        "8:30 am–7 pm"
-      ],
-      "Saturday": [
-        "8:30 am–7 pm"
-      ],
-      "Sunday": [
-        "8:30 am–6 pm"
-      ]
-    },
-    "review_count": 944,
-    "rating": 4.1,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdJjdYfElCYkTShB91UuhdOD1zkbZ1Dpg5JslK9dLGw5fZYzpwxgdIKxv__vXknmfAw5vL0PdVV53siyrLPDyck9HKnfrR0Uemd25VD_HkO7WMlMuFfAgdmM1IAcliCtAk8jxya-g=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdJjdYfElCYkTShB91UuhdOD1zkbZ1Dpg5JslK9dLGw5fZYzpwxgdIKxv__vXknmfAw5vL0PdVV53siyrLPDyck9HKnfrR0Uemd25VD_HkO7WMlMuFfAgdmM1IAcliCtAk8jxya-g=w1000-h750-no",
-    "source_query": "Hypermarket in Tournai, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
   }
 ]

@@ -1,5 +1,547 @@
 [
   {
+    "place_id": "ChIJHwIb04fDw0cRPOi70Lp7Yjo",
+    "name": "CTR Chicken Liedts",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Bruxelles",
+    "address": "CTR Chicken Liedts, Pl. Liedts 26A, 1030 Bruxelles",
+    "street": "Pl. Liedts 26A",
+    "postal_code": "1030",
+    "region": null,
+    "latitude": 50.8639291,
+    "longitude": 4.3660403,
+    "phone": "0490 48 89 39",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=CTR%20Chicken%20Liedts&query_place_id=ChIJHwIb04fDw0cRPOi70Lp7Yjo",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeSXtDUQT73DVxKxsy0Vke62OcHHQu2sJLT3KZSS8ZBpARzloB9U2RA0Ji1lv-6FhSj22k7M-Ba9St7tBOI9uYRpfJ5u7HFXS9I1u61WuG70-6j3tyc6Er35r05XRkPHe6tIgVXUq7e1fKA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeSXtDUQT73DVxKxsy0Vke62OcHHQu2sJLT3KZSS8ZBpARzloB9U2RA0Ji1lv-6FhSj22k7M-Ba9St7tBOI9uYRpfJ5u7HFXS9I1u61WuG70-6j3tyc6Er35r05XRkPHe6tIgVXUq7e1fKA=w1000-h750-no",
+    "rating": 4.3,
+    "review_count": 129,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJQ23MML7Dw0cRbctgI89_2n4",
+    "name": "Day to day Saint-Ghislain Sud",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Bruxelles",
+    "address": "Day to day Saint-Ghislain Sud, DIRECTION BRUXELLES, E19, 7330 Bruxelles",
+    "street": "DIRECTION BRUXELLES, E19",
+    "postal_code": "7330",
+    "region": null,
+    "latitude": 50.4515245,
+    "longitude": 3.8047918999999997,
+    "phone": "065 76 42 30",
+    "website": "https://magasins.louisdelhaize.be/fr/saint-ghislain-sud",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Day%20to%20day%20Saint-Ghislain%20Sud&query_place_id=ChIJQ23MML7Dw0cRbctgI89_2n4",
+    "open_hours_json": {
+      "Monday": [
+        "Open 24 hours"
+      ],
+      "Tuesday": [
+        "Open 24 hours"
+      ],
+      "Wednesday": [
+        "Open 24 hours"
+      ],
+      "Thursday": [
+        "Open 24 hours"
+      ],
+      "Friday": [
+        "Open 24 hours"
+      ],
+      "Saturday": [
+        "Open 24 hours"
+      ],
+      "Sunday": [
+        "Open 24 hours"
+      ]
+    },
+    "review_count": 24,
+    "rating": 1.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfqXnNfMB3jBHytLC6RhUXymCNlxnDE1galuUM9_Zc-6modmx2mIzXwKB2r5JUlCBGjsfNUIPSjmi-exO4agSXZSTjQIQ0NCemFORFGb3EHbjtIvwI_XJ64Deo4qbNKQZJyIj1xv3Z2GvMj=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfqXnNfMB3jBHytLC6RhUXymCNlxnDE1galuUM9_Zc-6modmx2mIzXwKB2r5JUlCBGjsfNUIPSjmi-exO4agSXZSTjQIQ0NCemFORFGb3EHbjtIvwI_XJ64Deo4qbNKQZJyIj1xv3Z2GvMj=w1000-h750-no",
+    "source_query": "Hypermarket in Saint-Ghislain, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJuVBrP1tBwUcRywXyy_ipiLc",
+    "name": "Great Market",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Bruxelles",
+    "address": "Great Market, Leuvensesteenweg 650, 1030 Bruxelles",
+    "street": "Leuvensesteenweg 650",
+    "postal_code": "1030",
+    "region": null,
+    "latitude": 50.8554609,
+    "longitude": 4.4013572,
+    "phone": "02 217 65 94",
+    "website": "http://www.greatmarket.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Great%20Market&query_place_id=ChIJuVBrP1tBwUcRywXyy_ipiLc",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcjGmXQdDP1h13SmyoPojVd29uDiuJIbhYq5jZT4dagv2KM0jIS8R0fm_oC2uY-AEOe-oVN7DinrTlP8KrCDglZ-Qeis1T6KYqzGv9lCGzoEamZ3x1LvT6zDhA3QKgaQaG8fL0sng=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcjGmXQdDP1h13SmyoPojVd29uDiuJIbhYq5jZT4dagv2KM0jIS8R0fm_oC2uY-AEOe-oVN7DinrTlP8KrCDglZ-Qeis1T6KYqzGv9lCGzoEamZ3x1LvT6zDhA3QKgaQaG8fL0sng=w1000-h750-no",
+    "rating": 4.4,
+    "review_count": 1839,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJvVmzfwDbw0cREACB_mJ1zcA",
+    "name": "K-bane",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Bruxelles",
+    "address": "K-bane, Rue de la Sta de Woluwe 140, 1200 Bruxelles",
+    "street": "Stationsstraat van Woluwe 140",
+    "postal_code": "1200",
+    "region": null,
+    "latitude": 50.83669,
+    "longitude": 4.437022499999999,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=K-bane&query_place_id=ChIJvVmzfwDbw0cREACB_mJ1zcA",
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=84pyylHRQbi8X5eZjlbDfg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=191.21118&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=84pyylHRQbi8X5eZjlbDfg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=191.21118&pitch=0&thumbfov=w1000-h750-no",
+    "rating": 4.0,
+    "review_count": 4,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJp5x5_xnFw0cRrzPePtsLhSE",
+    "name": "L'Éleveur Boucher | Chez Hmida",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Bruxelles",
+    "address": "L'Éleveur Boucher | Chez Hmida, Brogniezstraat 133, 1070 Bruxelles",
+    "street": "Brogniezstraat 133",
+    "postal_code": "1070",
+    "region": null,
+    "latitude": 50.8393576,
+    "longitude": 4.3333446,
+    "phone": "0488 95 37 90",
+    "website": "https://www.eleveurboucher.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=L%27%C3%89leveur%20Boucher%20%7C%20Chez%20Hmida&query_place_id=ChIJp5x5_xnFw0cRrzPePtsLhSE",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf95QncuCM0wY7wZzLtpuJ-pr5JKlw9hfVxyef6TP4LTK03fBFRuXLpxNfZS_0-dpc72_Ra9BuBWu1Z2VF9hmUiUq-6Gbg2SikkBvt8OYTJ8GQRWB8VzsJgWrVJzMq9OH0wUHlk=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf95QncuCM0wY7wZzLtpuJ-pr5JKlw9hfVxyef6TP4LTK03fBFRuXLpxNfZS_0-dpc72_Ra9BuBWu1Z2VF9hmUiUq-6Gbg2SikkBvt8OYTJ8GQRWB8VzsJgWrVJzMq9OH0wUHlk=w1000-h750-no",
+    "rating": 4.7,
+    "review_count": 17,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJAb4aqNPbw0cRYut16UIA9oY",
+    "name": "Levante",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Bruxelles",
+    "address": "Levante, Vorstlaan 240, 1160 Bruxelles",
+    "street": "Vorstlaan 240",
+    "postal_code": "1160",
+    "region": null,
+    "latitude": 50.815208,
+    "longitude": 4.4237592999999995,
+    "phone": "0483 64 00 83",
+    "website": "https://levantebelgium.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Levante&query_place_id=ChIJAb4aqNPbw0cRYut16UIA9oY",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLefcKcHD5QCMZwP5VIgaKBxm7VyDZHocAsFYTTKREyB3ZuuMD0xG1tdbRH0Z27k4Gm4jieufHbqlPsrtQ6Gp5eCCsFOI3zCnqovXoM1_ATmOlhGqh5gZacFew96LFQsh46O40bBvgcc3y57=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLefcKcHD5QCMZwP5VIgaKBxm7VyDZHocAsFYTTKREyB3ZuuMD0xG1tdbRH0Z27k4Gm4jieufHbqlPsrtQ6Gp5eCCsFOI3zCnqovXoM1_ATmOlhGqh5gZacFew96LFQsh46O40bBvgcc3y57=w1000-h750-no",
+    "rating": 5.0,
+    "review_count": 20,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJrQbxav7Fw0cRI3US1KBRdZI",
+    "name": "Pasta King",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Bruxelles",
+    "address": "Pasta King, Sq. Albert Ier 13, 1070 Bruxelles",
+    "street": "Albert I-square 13",
+    "postal_code": "1070",
+    "region": null,
+    "latitude": 50.839127999999995,
+    "longitude": 4.323586199999999,
+    "phone": "0471 52 33 16",
+    "website": "https://www.pastaking.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pasta%20King&query_place_id=ChIJrQbxav7Fw0cRI3US1KBRdZI",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfJqZqUlXaCDLKX7GnxvF6akqR7DU_GdtWl5aCesq9eibh2mp49skP3Mvc7M3m9Pq89IKVcdK59SfW2CS1GBag22w1QphcTDLmKfaG2nTcHUsCClgtqqFz0G_6MKPrznTLzY2-ASAWf-ZtW=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfJqZqUlXaCDLKX7GnxvF6akqR7DU_GdtWl5aCesq9eibh2mp49skP3Mvc7M3m9Pq89IKVcdK59SfW2CS1GBag22w1QphcTDLmKfaG2nTcHUsCClgtqqFz0G_6MKPrznTLzY2-ASAWf-ZtW=w1000-h750-no",
+    "rating": 4.9,
+    "review_count": 155,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJK3r6m3bDw0cRJPj_L7rI81k",
+    "name": "Restaurant Pyramides",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Bruxelles",
+    "address": "Restaurant Pyramides, Rue de Brabant 159, 1030 Bruxelles",
+    "street": "Brabantstraat 159",
+    "postal_code": "1030",
+    "region": null,
+    "latitude": 50.8627384,
+    "longitude": 4.3651843,
+    "phone": "0484 96 02 00",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20Pyramides&query_place_id=ChIJK3r6m3bDw0cRJPj_L7rI81k",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLergKSerUcoWgia7V_AIj-5Vmou-Hz7CT3XBwY3SpQnJHCzKKT3MN-qbnX4thnRv5GHNwmK-kvi2sRJcFFvmiFfh8FJ8VAXLoIF-e7vuvy1NP8EzKUlmndvhlvXtTbx03jmAh8=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLergKSerUcoWgia7V_AIj-5Vmou-Hz7CT3XBwY3SpQnJHCzKKT3MN-qbnX4thnRv5GHNwmK-kvi2sRJcFFvmiFfh8FJ8VAXLoIF-e7vuvy1NP8EzKUlmndvhlvXtTbx03jmAh8=w1000-h750-no",
+    "rating": 3.9,
+    "review_count": 637,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJxxdFkZXDw0cR4MH2pm-qHto",
+    "name": "Slagerij chez mounir",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Bruxelles",
+    "address": "Slagerij chez mounir, Jubelfeestlaan 174, 1080 Bruxelles",
+    "street": "Jubelfeestlaan 174",
+    "postal_code": "1080",
+    "region": null,
+    "latitude": 50.868275499999996,
+    "longitude": 4.3410015,
+    "phone": "0477 26 57 07",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Slagerij%20chez%20mounir&query_place_id=ChIJxxdFkZXDw0cR4MH2pm-qHto",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcy81fqLTxrDkr-WZ-rZtyXc2Is_DtxrQxDkFXaaZiwNljAeQFCb6m4KpjADYVgzkXaVT4HkADdrKMN8__ufW4_UPwYV0TCg6PuGWu0ui9pseTquwKA52FfbiI7p9EN_xl7Zl1D=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcy81fqLTxrDkr-WZ-rZtyXc2Is_DtxrQxDkFXaaZiwNljAeQFCb6m4KpjADYVgzkXaVT4HkADdrKMN8__ufW4_UPwYV0TCg6PuGWu0ui9pseTquwKA52FfbiI7p9EN_xl7Zl1D=w1000-h750-no",
+    "rating": 4.6,
+    "review_count": 8,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJVUgWbpnGw0cRV0tnUyTHq6k",
+    "name": "Soleil d'Agadir",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Bruxelles",
+    "address": "Soleil d'Agadir, Bergensesteenweg 1039, 1070 Bruxelles",
+    "street": "Bergensesteenweg 1039",
+    "postal_code": "1070",
+    "region": null,
+    "latitude": 50.824846199999996,
+    "longitude": 4.2965358,
+    "phone": "0489 29 63 03",
+    "website": "http://www.instagram.com/soleildagadir",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Soleil%20d%27Agadir&query_place_id=ChIJVUgWbpnGw0cRV0tnUyTHq6k",
+    "open_hours_json": {
+      "Monday": [
+        "3–6 pm"
+      ],
+      "Tuesday": [
+        "12–11 pm"
+      ],
+      "Wednesday": [
+        "12–11 pm"
+      ],
+      "Thursday": [
+        "12–11 pm"
+      ],
+      "Friday": [
+        "3–11 pm"
+      ],
+      "Saturday": [
+        "12–11 pm"
+      ],
+      "Sunday": [
+        "3:30–11 pm"
+      ]
+    },
+    "review_count": 86,
+    "rating": 4.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfhsnCyngJLLreU2zO1siuyQk5EcUVQtuIQr4mBGPrmy15AE1VS5JzaZ8Y2MLzTnSikaXCHVyoYXW_IWDTyd4Kt8jfYJS7IfdK7-x17q3ARzLJ1Quym0rxOg-7ffCaxgBXjrQ1V=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfhsnCyngJLLreU2zO1siuyQk5EcUVQtuIQr4mBGPrmy15AE1VS5JzaZ8Y2MLzTnSikaXCHVyoYXW_IWDTyd4Kt8jfYJS7IfdK7-x17q3ARzLJ1Quym0rxOg-7ffCaxgBXjrQ1V=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Halle, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJscXsubPDw0cRY9_rbXaubGI",
+    "name": "The Cousin's Restaurant",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Bruxelles",
+    "address": "The Cousin's Restaurant, Rue Léon Theodor 252, 1090 Bruxelles",
+    "street": "Léon Theodorstraat 252",
+    "postal_code": "1090",
+    "region": null,
+    "latitude": 50.8799181,
+    "longitude": 4.3292771,
+    "phone": "0468 45 41 89",
+    "website": "https://www.thecousins-jette.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=The%20Cousin%27s%20Restaurant&query_place_id=ChIJscXsubPDw0cRY9_rbXaubGI",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcagFFTAH1DPFdgs5L-YqOtDTrRoDDTUO26yKL4DznQU1_z8oys10KeUtRKHieWycyIQgI-o0phclvoa0EsYlTboiQHZNLZ9QQeWCZrApoZgnmzsrSwRiQhktHiiS7I9OweiCPE=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcagFFTAH1DPFdgs5L-YqOtDTrRoDDTUO26yKL4DznQU1_z8oys10KeUtRKHieWycyIQgI-o0phclvoa0EsYlTboiQHZNLZ9QQeWCZrApoZgnmzsrSwRiQhktHiiS7I9OweiCPE=w1000-h750-no",
+    "rating": 4.5,
+    "review_count": 465,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJmZSx8MzDw0cRbEIunmH9ewY",
+    "name": "We Wok",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Bruxelles",
+    "address": "We Wok, Chau. de Ninove 123, 1080 Bruxelles",
+    "street": "Ninoofsesteenweg 123",
+    "postal_code": "1080",
+    "region": null,
+    "latitude": 50.8494472,
+    "longitude": 4.3279178,
+    "phone": "0489 88 81 37",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=We%20Wok&query_place_id=ChIJmZSx8MzDw0cRbEIunmH9ewY",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdze9vPUjHsMPRKKWWqBYtC9k4N6hI8bnAmR-EGp9w26JqIyo8IElreFP1jQhT3v2fSSLpXfXD4Hv6s9JOtztpO5ru_Nbz640Ac0VSqeZGZjx4jHusUzws-mH6JIzkKXukpibc=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdze9vPUjHsMPRKKWWqBYtC9k4N6hI8bnAmR-EGp9w26JqIyo8IElreFP1jQhT3v2fSSLpXfXD4Hv6s9JOtztpO5ru_Nbz640Ac0VSqeZGZjx4jHusUzws-mH6JIzkKXukpibc=w1000-h750-no",
+    "rating": 4.2,
+    "review_count": 370,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJQYtLtiLDw0cRLuQ_ucN-G8A",
+    "name": "Wok masala",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Bruxelles",
+    "address": "Wok masala, Avenue Docteur Dejase 36, Scharbeek, 1030 Bruxelles",
+    "street": "Avenue Docteur Dejase 36, Scharbeek",
+    "postal_code": "1030",
+    "region": null,
+    "latitude": 50.8689058,
+    "longitude": 4.3899748999999995,
+    "phone": "0465 79 55 09",
+    "website": "https://www.wokmasala.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Wok%20masala&query_place_id=ChIJQYtLtiLDw0cRLuQ_ucN-G8A",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLclQK-4gbn3yqZ3bhFsbZlF37_gqv7zdm08_7oqupIM11l24oqmwyqkavNcNaJlbUpoIFjDv1xKfwW6i5Hmv_zNvXQzFfiVDwkbUTCTZtRxuKaKA7N2rdpE1BsnfvmlzE6ave6NSw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLclQK-4gbn3yqZ3bhFsbZlF37_gqv7zdm08_7oqupIM11l24oqmwyqkavNcNaJlbUpoIFjDv1xKfwW6i5Hmv_zNvXQzFfiVDwkbUTCTZtRxuKaKA7N2rdpE1BsnfvmlzE6ave6NSw=w1000-h750-no",
+    "rating": 4.2,
+    "review_count": 129,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJG5ZqDpHDw0cROyspMgJ1gEc",
+    "name": "chic et bon",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Bruxelles",
+    "address": "chic et bon, Rue Delaunoy 58, 1080 Bruxelles",
+    "street": "Delaunoystraat 58",
+    "postal_code": "1080",
+    "region": null,
+    "latitude": 50.8527693,
+    "longitude": 4.3299553,
+    "phone": "0471 70 81 16",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=chic%20et%20bon&query_place_id=ChIJG5ZqDpHDw0cROyspMgJ1gEc",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLegSAYnrCu4YN1blNmt01zefAK17fNbh42A-jPBS8hPgFmxHtQQz8BjRdQxFR6mc8dpEWrAbhQqXf4XxpMFeZ7p7545_Dbb952k35V7L656C6iQ47h4GAgppqerW0A1WdYjfjGBHPHvkCKj=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLegSAYnrCu4YN1blNmt01zefAK17fNbh42A-jPBS8hPgFmxHtQQz8BjRdQxFR6mc8dpEWrAbhQqXf4XxpMFeZ7p7545_Dbb952k35V7L656C6iQ47h4GAgppqerW0A1WdYjfjGBHPHvkCKj=w1000-h750-no",
+    "rating": 3.3,
+    "review_count": 21,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJT9U_bQDDw0cRqnPGXg2n_sM",
+    "name": "مسجد أبو بكر",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Bruxelles",
+    "address": "مسجد أبو بكر, Kolomstraat 32/34، 1080 Bruxelles",
+    "street": "Kolomstraat 32/34",
+    "postal_code": "1080",
+    "region": null,
+    "latitude": 50.853511,
+    "longitude": 4.3353087,
+    "phone": "0486 28 11 07",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%D9%85%D8%B3%D8%AC%D8%AF%20%D8%A3%D8%A8%D9%88%20%D8%A8%D9%83%D8%B1&query_place_id=ChIJT9U_bQDDw0cRqnPGXg2n_sM",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLescv6X7kLEBGJrx-ZTZ8gYCAQyWO6nuFAssP8TBaM7sr-zMfOFLAkAGfYrXqzZf9EMxBatVcdq17ryN3EdZx79D3DZczFlp01roxAYASPmyoh5q7uMiwB3-t2OQkIt70881Y3JpgG0oCPo=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLescv6X7kLEBGJrx-ZTZ8gYCAQyWO6nuFAssP8TBaM7sr-zMfOFLAkAGfYrXqzZf9EMxBatVcdq17ryN3EdZx79D3DZczFlp01roxAYASPmyoh5q7uMiwB3-t2OQkIt70881Y3JpgG0oCPo=w1000-h750-no",
+    "rating": null,
+    "review_count": 0,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJL0jmRADFw0cR7CbMrL85T6w",
+    "name": "مسجد اندرلخت",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Bruxelles",
+    "address": "مسجد اندرلخت, Auguste Gevaertstraat 37، 1070 Bruxelles",
+    "street": "Auguste Gevaertstraat 37",
+    "postal_code": "1070",
+    "region": null,
+    "latitude": 50.8374631,
+    "longitude": 4.3290790999999995,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%D9%85%D8%B3%D8%AC%D8%AF%20%D8%A7%D9%86%D8%AF%D8%B1%D9%84%D8%AE%D8%AA&query_place_id=ChIJL0jmRADFw0cR7CbMrL85T6w",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLccRJhrJqD_UyCcC8yQkDI4uK3l8G3_OJeofguOKGUaSVkBk0mKeknhs2dqku2a4xGcJQ-KTbzOayCGgFhZX_TLtjL5s9HvGsxCn4LZwi5Vy-Iso_fCjqylLJ5nNMGfY1QzkXWjqUdfZCU=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLccRJhrJqD_UyCcC8yQkDI4uK3l8G3_OJeofguOKGUaSVkBk0mKeknhs2dqku2a4xGcJQ-KTbzOayCGgFhZX_TLtjL5s9HvGsxCn4LZwi5Vy-Iso_fCjqylLJ5nNMGfY1QzkXWjqUdfZCU=w1000-h750-no",
+    "rating": null,
+    "review_count": 0,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJrehoyZImVQ0R2EKXa7oCYzE",
+    "name": "Begles Mosque",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "FR",
+    "country_code": "FR",
+    "city": "Bègles",
+    "address": "Begles Mosque, 23 Av. Jeanne d'Arc, 33130 Bègles",
+    "street": "23 Av. Jeanne d'Arc",
+    "postal_code": "33130",
+    "region": null,
+    "latitude": 44.8010405,
+    "longitude": -0.544368,
+    "phone": "05 56 75 80 05",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Begles%20Mosque&query_place_id=ChIJrehoyZImVQ0R2EKXa7oCYzE",
+    "open_hours_json": null,
+    "review_count": 47,
+    "rating": 4.4,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdLN09QPG0ctZQWKW63jtrY_ToMS04-XrjN4rcNxCrqbl9geUnn1ZT49Ga-p2f0nDqgWHnwP_gcCp9Py380VOl9q5NkF_R6i-XhzD0czm_pT80jedZuzBAITZtabCUboeSf_pGwvw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdLN09QPG0ctZQWKW63jtrY_ToMS04-XrjN4rcNxCrqbl9geUnn1ZT49Ga-p2f0nDqgWHnwP_gcCp9Py380VOl9q5NkF_R6i-XhzD0czm_pT80jedZuzBAITZtabCUboeSf_pGwvw=w1000-h750-no",
+    "source_query": "Mosque in Bruges, New Aquitaine, FR",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJs80X-q4oVQ0RzuFQ_gBwQL4",
+    "name": "Mosquée de Cenon",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "FR",
+    "country_code": "FR",
+    "city": "Cenon",
+    "address": "Mosquée de Cenon, 20 Cr Victor Hugo, 33150 Cenon",
+    "street": "20 Cr Victor Hugo",
+    "postal_code": "33150",
+    "region": null,
+    "latitude": 44.8561749,
+    "longitude": -0.5320476,
+    "phone": null,
+    "website": "https://facebook.com/IslamBordeaux/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mosqu%C3%A9e%20de%20Cenon&query_place_id=ChIJs80X-q4oVQ0RzuFQ_gBwQL4",
+    "open_hours_json": {
+      "Monday": [
+        "6 am–10 pm"
+      ],
+      "Tuesday": [
+        "6 am–10 pm"
+      ],
+      "Wednesday": [
+        "6 am–10 pm"
+      ],
+      "Thursday": [
+        "6 am–10 pm"
+      ],
+      "Friday": [
+        "6 am–10 pm"
+      ],
+      "Saturday": [
+        "Closed"
+      ],
+      "Sunday": [
+        "6 am–10 pm"
+      ]
+    },
+    "review_count": 80,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdBod_YrCfGH_H_JMTpZwT-3acdY0YclKqFxLafp5Et12b-ob1q6QlDGc9uMlDLId59jGzLi_Se0LbzRM5jHdeN1ykIbkFxVXZC8_I-Y3qEYoszeaYZ4Kb7aiQ9DUvCGncS7cVI6A=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdBod_YrCfGH_H_JMTpZwT-3acdY0YclKqFxLafp5Et12b-ob1q6QlDGc9uMlDLId59jGzLi_Se0LbzRM5jHdeN1ykIbkFxVXZC8_I-Y3qEYoszeaYZ4Kb7aiQ9DUvCGncS7cVI6A=w1000-h750-no",
+    "source_query": "Mosque in Bruges, New Aquitaine, FR",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJGVxymlcdwkcR_EYAS9E8Z9I",
     "name": "La Table d'Elyse",
     "type": "restaurant",
@@ -1288,8 +1830,8 @@
     "phone": "071 87 79 90",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boucheri%20Azouagh&query_place_id=ChIJfzfxMwklwkcRm2h8oMIqo0U",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf79IX7H-yWGp5r5yeVNDU3PoEwB1zW1vBv3WgpOR2wpR_icXtp7snd6Ep0z5CbIUyS9QZwh-nSaYkiR3yXmvXRbdTwNOG1IfxpfFJ6IBBDOe091O_ySZX3RDLc-YUXBXav9_I=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf79IX7H-yWGp5r5yeVNDU3PoEwB1zW1vBv3WgpOR2wpR_icXtp7snd6Ep0z5CbIUyS9QZwh-nSaYkiR3yXmvXRbdTwNOG1IfxpfFJ6IBBDOe091O_ySZX3RDLc-YUXBXav9_I=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeQUA3LiTdQzyWq393OTPgi89Eaqz0JUdvtggWYmpLX44MREBFrZEyP-d3Nn2g186YtNA4f6Jz4lY6CSwUePC9FazuTk0Np6KrFbye3-p_RZHKVyVUF3-vLmcX6UNtFN2ZS9B4=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeQUA3LiTdQzyWq393OTPgi89Eaqz0JUdvtggWYmpLX44MREBFrZEyP-d3Nn2g186YtNA4f6Jz4lY6CSwUePC9FazuTk0Np6KrFbye3-p_RZHKVyVUF3-vLmcX6UNtFN2ZS9B4=w1000-h750-no",
     "rating": 3.9,
     "review_count": 234,
     "verification_status": "UNVERIFIED",
@@ -3344,8 +3886,8 @@
     "phone": null,
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=HFC%20Halal%20Fried%20Chicken%20%D8%AD%D9%84%D8%A7%D9%84&query_place_id=ChIJc0tT-EEnwkcRavUX3ULI7WY",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeX2V8Tj8BA0K-fPGp2m-09b2Cd0nPJES0SqnKoKScLRSkOYyPTPI2IXWvaLvzdH7S3C9lMchkdXl4bVfcdMsM-Kn1vU1EGOkpjjzM51QUL5lLbKmbm8Na9GPxvmLtdTMbpBD3GQA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeX2V8Tj8BA0K-fPGp2m-09b2Cd0nPJES0SqnKoKScLRSkOYyPTPI2IXWvaLvzdH7S3C9lMchkdXl4bVfcdMsM-Kn1vU1EGOkpjjzM51QUL5lLbKmbm8Na9GPxvmLtdTMbpBD3GQA=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcprCBg2PEGL-VX0RxINz02bhhnFv6_r3PhTCascSFoTv3mTxaqYmfOSdf8CwUkpQmwpFsX-maqGFWbxHlLEumpA27VFRSa9bMYhGRt3gOBex6QrB211JG4IHmCcwl2WlCbZwPqag=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcprCBg2PEGL-VX0RxINz02bhhnFv6_r3PhTCascSFoTv3mTxaqYmfOSdf8CwUkpQmwpFsX-maqGFWbxHlLEumpA27VFRSa9bMYhGRt3gOBex6QrB211JG4IHmCcwl2WlCbZwPqag=w1000-h750-no",
     "rating": 5.0,
     "review_count": 4,
     "verification_status": "VERIFIED",
@@ -3915,7 +4457,7 @@
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcM8EJHF70pAn5QQWAHUzQUYuTFFFYWKwnE3wOhkBQhgmihW6o-byeDJqyfUVayBYyBZmX9jQklQOgDfZ7lz1LnU8exlwkxXbX853Imgq2oTMeuc5eRPbaGG_lI9-FZdUDHTARha3TdFOY=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcM8EJHF70pAn5QQWAHUzQUYuTFFFYWKwnE3wOhkBQhgmihW6o-byeDJqyfUVayBYyBZmX9jQklQOgDfZ7lz1LnU8exlwkxXbX853Imgq2oTMeuc5eRPbaGG_lI9-FZdUDHTARha3TdFOY=w1000-h750-no",
     "rating": 4.9,
-    "review_count": 208,
+    "review_count": 209,
     "verification_status": "VERIFIED",
     "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
     "is_active": true,
@@ -5500,8 +6042,8 @@
     "phone": "071 32 11 93",
     "website": "https://www.diyanet.be/Kurumsal/Camiler-ve-Dernekler/CategoryID/126",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mosqu%C3%A9e%20Diyanet%20et%20Centre%20Culturel-Sportif%20A%20Charleroi&query_place_id=ChIJgRQvdAYmwkcRVZJjhcTkIDk",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdMqTJrvNpcFh6KnHANsb-sT-WGQZy8nQqutxMBvt-hxFil1Bgf9nub4-283BVVCqCAhTrlmVAk0LrL-cOUVnfnmEAELR78U93oSdPjSPkDvj_Qj96JqDBbDt531jMkj3qQWoKq=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdMqTJrvNpcFh6KnHANsb-sT-WGQZy8nQqutxMBvt-hxFil1Bgf9nub4-283BVVCqCAhTrlmVAk0LrL-cOUVnfnmEAELR78U93oSdPjSPkDvj_Qj96JqDBbDt531jMkj3qQWoKq=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfgWEj10_BrEm7A6HeeLOQqm3G3mW41ZZr2iRdcnaqpJCC0rY4kKL-zB5qUdT6LjZzVBvGAwUwBJGbokhTUGrlvom2_M9f8aUjumiqtbuNRfqVz-iuRHzUVc5o0ANWZq0httYmT=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfgWEj10_BrEm7A6HeeLOQqm3G3mW41ZZr2iRdcnaqpJCC0rY4kKL-zB5qUdT6LjZzVBvGAwUwBJGbokhTUGrlvom2_M9f8aUjumiqtbuNRfqVz-iuRHzUVc5o0ANWZq0httYmT=w1000-h750-no",
     "rating": 4.7,
     "review_count": 66,
     "verification_status": "UNVERIFIED",
@@ -7752,7 +8294,7 @@
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeqxnkQsUmC80FkBoLLOm6Wr1UP5GmxfhVtsQyLhng6p-y6TPYMeRJddgaRoRi3OHoGC0K8aZeYjrP_UUnF_V5nhSXo9KAo8Eoq6FpPGSSoc1iq3Wy-0N0NURe2mVF79akypLM=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeqxnkQsUmC80FkBoLLOm6Wr1UP5GmxfhVtsQyLhng6p-y6TPYMeRJddgaRoRi3OHoGC0K8aZeYjrP_UUnF_V5nhSXo9KAo8Eoq6FpPGSSoc1iq3Wy-0N0NURe2mVF79akypLM=w1000-h750-no",
     "rating": 4.6,
-    "review_count": 531,
+    "review_count": 533,
     "verification_status": "VERIFIED",
     "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
     "is_active": true,
@@ -7901,7 +8443,7 @@
     "latitude": 50.434590199999995,
     "longitude": 4.4137908999999995,
     "phone": "0471 69 32 89",
-    "website": null,
+    "website": "https://www.takeaway.com/be-en/menu/the-box-lab?_gl=1*172fpos*_up*MQ..*_gs*MQ..&gclid=Cj0KCQjw7IjOBhDyARIsAFzrWQwWRrrb0e_TQmF3B_nN_uvB6_sauJ3t1vSs3fVsJoN_oNbIBOtA9OoaAgmKEALw_wcB&gbraid=0AAAAAD3ULIXWYRQqAsiXgeD08cwNEb6px&__cf_chl_f_tk=7Hih7O2Qorl19mP7qzh3Ur7nWZc3lHk.zQus.e28GT0-1782998219-1.0.1.1-BKaTxRSIR9ev0fD3RKTIJCRJp8BNaaUV.ZRKMC6izOw",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=The%20Box%20Lab&query_place_id=ChIJXe9GKQAvwkcRxUjZIZFQj9s",
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeJF_SLo0BUmdPR7jCKslrQtBKgXfh5C76RzA3gYsDarfjPO_zwMbX5533IYPSgxcEuNnEOK9yA_ML1e79AB9OEffjvGNkDFTlVDisi9Grj4iLGCAu0K548599wlCajBnKoGZ_LFmGiKumq=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeJF_SLo0BUmdPR7jCKslrQtBKgXfh5C76RzA3gYsDarfjPO_zwMbX5533IYPSgxcEuNnEOK9yA_ML1e79AB9OEffjvGNkDFTlVDisi9Grj4iLGCAu0K548599wlCajBnKoGZ_LFmGiKumq=w1000-h750-no",
@@ -8843,877 +9385,6 @@
     "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=z-wrrcu-ka4DSN9WGhkp1A&cb_client=search.gws-prod.grass&w=80&h=92&yaw=94.186424&pitch=0&thumbfov=w1000-h750-no",
     "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=z-wrrcu-ka4DSN9WGhkp1A&cb_client=search.gws-prod.grass&w=80&h=92&yaw=94.186424&pitch=0&thumbfov=w1000-h750-no",
     "source_query": "Hypermarket in Gembloux, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJA7MKJ58pZTUR15blaJBHlKg",
-    "name": "Asia Halal",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "KR",
-    "country_code": "KR",
-    "city": "Cheongju-si",
-    "address": "Asia Halal, 4-1 Bokdae-dong, Heungdeok-gu, Cheongju-si, Chungcheongbuk-do",
-    "street": "4-1 Bokdae-dong",
-    "postal_code": "28641",
-    "region": "Chungcheongbuk-do",
-    "latitude": 36.632883,
-    "longitude": 127.45321759999999,
-    "phone": "010-7610-2304",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Asia%20Halal&query_place_id=ChIJA7MKJ58pZTUR15blaJBHlKg",
-    "open_hours_json": {
-      "Monday": [
-        "10 AM–10 PM"
-      ],
-      "Tuesday": [
-        "10 AM–10 PM"
-      ],
-      "Wednesday": [
-        "10 AM–10 PM"
-      ],
-      "Thursday": [
-        "10 AM–10 PM"
-      ],
-      "Friday": [
-        "10 AM–10 PM"
-      ],
-      "Saturday": [
-        "10 AM–10 PM"
-      ],
-      "Sunday": [
-        "10 AM–10 PM"
-      ]
-    },
-    "review_count": 38,
-    "rating": 4.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd9wtbAwBc_gGv2VQyuwovZAjd_b36LgVdDZ4wkABAzhn2ZXt_Pth_xT63OP9cS_oiIQNimmzRAbWoIdqoJF6vL35cv1kpYQqmq7i9cee1PliT1LSOiDkG_a3NJ74RsGaqKxZumFA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd9wtbAwBc_gGv2VQyuwovZAjd_b36LgVdDZ4wkABAzhn2ZXt_Pth_xT63OP9cS_oiIQNimmzRAbWoIdqoJF6vL35cv1kpYQqmq7i9cee1PliT1LSOiDkG_a3NJ74RsGaqKxZumFA=w1000-h750-no",
-    "source_query": "Halal restaurant in Sintansin, Daejeon, KR",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "VERIFIED",
-    "verification_evidence": "Explicit Halal keyword indicators in listing metadata"
-  },
-  {
-    "place_id": "ChIJfTwXWQApZTURCL5lCaidogw",
-    "name": "무슬림할랄레스토랑",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "KR",
-    "country_code": "KR",
-    "city": "Cheongju-si",
-    "address": "무슬림할랄레스토랑, 212-19 Bongmyeong-dong, Heungdeok-gu, Cheongju-si, Chungcheongbuk-do",
-    "street": "212-19 Bongmyeong-dong",
-    "postal_code": "28591",
-    "region": "Chungcheongbuk-do",
-    "latitude": 36.6377409,
-    "longitude": 127.4534467,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%EB%AC%B4%EC%8A%AC%EB%A6%BC%ED%95%A0%EB%9E%84%EB%A0%88%EC%8A%A4%ED%86%A0%EB%9E%91&query_place_id=ChIJfTwXWQApZTURCL5lCaidogw",
-    "open_hours_json": null,
-    "review_count": 2,
-    "rating": 4.0,
-    "thumbnail_url": null,
-    "image_url": null,
-    "source_query": "Halal restaurant in Sintansin, Daejeon, KR",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "VERIFIED",
-    "verification_evidence": "Explicit Halal keyword indicators in listing metadata"
-  },
-  {
-    "place_id": "ChIJ4xPTzhFVwkcR5YzNsUl7DqI",
-    "name": "Duke of Egmont, Count Lamoral Restaurant and Cafe",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Chievres",
-    "address": "Duke of Egmont, Count Lamoral Restaurant and Cafe, Grand'Place 11, 7950 Chièvres",
-    "street": "Grand'Place 11",
-    "postal_code": "7950",
-    "region": null,
-    "latitude": 50.587037099999996,
-    "longitude": 3.8084757999999996,
-    "phone": "068 65 92 95",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Duke%20of%20Egmont%2C%20Count%20Lamoral%20Restaurant%20and%20Cafe&query_place_id=ChIJ4xPTzhFVwkcR5YzNsUl7DqI",
-    "open_hours_json": null,
-    "review_count": 31,
-    "rating": 3.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLccJjOUrNR7ikQ3nzzNTIH3U5PHTUR3GoHitU2MVtl7MfKNBIhf0dGs7vS_lVA6TFfPm0LfBCKw24Dv4roqRtMYKmIWZXLoP3fgwWBNagZ4EVv2CmoQl9OuiCHB2X_MtSTZPo2e=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLccJjOUrNR7ikQ3nzzNTIH3U5PHTUR3GoHitU2MVtl7MfKNBIhf0dGs7vS_lVA6TFfPm0LfBCKw24Dv4roqRtMYKmIWZXLoP3fgwWBNagZ4EVv2CmoQl9OuiCHB2X_MtSTZPo2e=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Chièvres, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJqW-oPD5VwkcRDOEv3k7ITc4",
-    "name": "L' Éden Taverne - Restaurant",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Chievres",
-    "address": "L' Éden Taverne - Restaurant, Grand'Place 18, 7950 Chièvres",
-    "street": "Grand'Place 18",
-    "postal_code": "7950",
-    "region": null,
-    "latitude": 50.587688199999995,
-    "longitude": 3.8085461,
-    "phone": "0491 30 22 90",
-    "website": "http://www.eden-taverne-restaurant.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=L%27%20%C3%89den%20Taverne%20-%20Restaurant&query_place_id=ChIJqW-oPD5VwkcRDOEv3k7ITc4",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "10:30 am–8 pm"
-      ],
-      "Wednesday": [
-        "10:30 am–8 pm"
-      ],
-      "Thursday": [
-        "10:30 am–8 pm"
-      ],
-      "Friday": [
-        "10:30 am–10:30 pm"
-      ],
-      "Saturday": [
-        "10:30 am–10:30 pm"
-      ],
-      "Sunday": [
-        "10 am–8 pm"
-      ]
-    },
-    "review_count": 160,
-    "rating": 4.1,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcWmvlpu4gK19HNQyPCvQSv-A5DJQ9fw5OzfiD_oUPbv2Hz3AWqp1haK6LVUXdBOMt5hvPjL7a6LoOqY44mvdNhHmw8XERYqL4cTAeudWu7J7denteuFbsMRyA1xxcyC2RgavOo=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcWmvlpu4gK19HNQyPCvQSv-A5DJQ9fw5OzfiD_oUPbv2Hz3AWqp1haK6LVUXdBOMt5hvPjL7a6LoOqY44mvdNhHmw8XERYqL4cTAeudWu7J7denteuFbsMRyA1xxcyC2RgavOo=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Chièvres, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJc9HfLFVVwkcRhDvesBNm4uk",
-    "name": "L'essentiel - Sandwicherie / Superette",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Chievres",
-    "address": "L'essentiel - Sandwicherie / Superette, Grand'Place 24, 7950 Chièvres",
-    "street": "Grand'Place 24",
-    "postal_code": "7950",
-    "region": null,
-    "latitude": 50.5874199,
-    "longitude": 3.8093437999999997,
-    "phone": "0455 12 82 22",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=L%27essentiel%20-%20Sandwicherie%20%2F%20Superette&query_place_id=ChIJc9HfLFVVwkcRhDvesBNm4uk",
-    "open_hours_json": {
-      "Monday": [
-        "7 am–4 pm"
-      ],
-      "Tuesday": [
-        "7 am–4 pm"
-      ],
-      "Wednesday": [
-        "7 am–4 pm"
-      ],
-      "Thursday": [
-        "7 am–4 pm"
-      ],
-      "Friday": [
-        "7 am–4 pm"
-      ],
-      "Saturday": [
-        "8 am–3 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 43,
-    "rating": 3.9,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeJIR2uMKinHITg5LHeRGVjGJXwNBetjD6KFRxU1ahI4Rv-0JpDW7qJUSyL3wSpoPDJY99hpN3p48pgWcd50XhZN3JLaJHnS8MGIaT2EC4Nw3oE5kJig17rFp-cNKDKkX59HYN6=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeJIR2uMKinHITg5LHeRGVjGJXwNBetjD6KFRxU1ahI4Rv-0JpDW7qJUSyL3wSpoPDJY99hpN3p48pgWcd50XhZN3JLaJHnS8MGIaT2EC4Nw3oE5kJig17rFp-cNKDKkX59HYN6=w1000-h750-no",
-    "source_query": "Halal restaurant in Chièvres, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJR2Vo_UBVwkcRtIV3Ct6lLnA",
-    "name": "Le Moulin de la Hunelle - E.T.A.",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Chievres",
-    "address": "Le Moulin de la Hunelle - E.T.A., Rue d'Ath 90, 7950 Chièvres",
-    "street": "Rue d'Ath 90",
-    "postal_code": "7950",
-    "region": null,
-    "latitude": 50.598656399999996,
-    "longitude": 3.8027612,
-    "phone": "068 65 67 67",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Moulin%20de%20la%20Hunelle%20-%20E.T.A.&query_place_id=ChIJR2Vo_UBVwkcRtIV3Ct6lLnA",
-    "open_hours_json": {
-      "Monday": [
-        "8 am–12 pm",
-        "12:30–4:30 pm"
-      ],
-      "Tuesday": [
-        "8 am–12 pm",
-        "12:30–4:30 pm"
-      ],
-      "Wednesday": [
-        "8 am–12 pm",
-        "12:30–4:30 pm"
-      ],
-      "Thursday": [
-        "8 am–12 pm",
-        "12:30–4:30 pm"
-      ],
-      "Friday": [
-        "8 am–12 pm",
-        "12:30–2:30 pm"
-      ],
-      "Saturday": [
-        "Closed"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 215,
-    "rating": 4.2,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLddHILPnYQNipbkPNqoIr6ijRtHWTxk_mp_R8R5MJuAoXR8vVyW_Zrh6fre9eD7hupFnmtbv0YjSuMZL9mjAqHxEDWNwCb4hg7fyba6mnXaNj_BdJkr1zAppFH71GyMaFnmyDam=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLddHILPnYQNipbkPNqoIr6ijRtHWTxk_mp_R8R5MJuAoXR8vVyW_Zrh6fre9eD7hupFnmtbv0YjSuMZL9mjAqHxEDWNwCb4hg7fyba6mnXaNj_BdJkr1zAppFH71GyMaFnmyDam=w1000-h750-no",
-    "source_query": "Halal restaurant in Chièvres, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJxSNeMbcFwkcRhHR1dRn6UGk",
-    "name": "AD Chimay",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Chimay",
-    "address": "AD Chimay, Rue de Bourlers 1a, 6460 Chimay",
-    "street": "Rue de Bourlers 1a",
-    "postal_code": "6460",
-    "region": null,
-    "latitude": 50.047944799999996,
-    "longitude": 4.3213653,
-    "phone": "060 21 23 90",
-    "website": "https://adchimay.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=AD%20Chimay&query_place_id=ChIJxSNeMbcFwkcRhHR1dRn6UGk",
-    "open_hours_json": {
-      "Monday": [
-        "7:30 am–7:30 pm"
-      ],
-      "Tuesday": [
-        "7:30 am–7:30 pm"
-      ],
-      "Wednesday": [
-        "7:30 am–7:30 pm"
-      ],
-      "Thursday": [
-        "7:30 am–7:30 pm"
-      ],
-      "Friday": [
-        "7:30 am–8 pm"
-      ],
-      "Saturday": [
-        "7:30 am–8 pm"
-      ],
-      "Sunday": [
-        "7:30 am–12:30 pm"
-      ]
-    },
-    "review_count": 1185,
-    "rating": 4.2,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdgoqoYdhWA_0zRlpDV31ZDv791aiS64uN_OFuKcBmpr-p56OKFB-zXoq8lioP6Nh-iBO6AWA0iPW5DnEAk4A-h1cMiBlikcj9ve9usH2oJbdKv5gsxjd8eidOzj8b31AeL0IgAsA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdgoqoYdhWA_0zRlpDV31ZDv791aiS64uN_OFuKcBmpr-p56OKFB-zXoq8lioP6Nh-iBO6AWA0iPW5DnEAk4A-h1cMiBlikcj9ve9usH2oJbdKv5gsxjd8eidOzj8b31AeL0IgAsA=w1000-h750-no",
-    "source_query": "Hypermarket in Chimay, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJn6wd4JcFwkcRnWL39tqAAB8",
-    "name": "Au Petit Marché Chimay",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Chimay",
-    "address": "Au Petit Marché Chimay, Chau. de Mons 15, 6460 Chimay",
-    "street": "Chau. de Mons 15",
-    "postal_code": "6460",
-    "region": null,
-    "latitude": 50.0507308,
-    "longitude": 4.3095742999999995,
-    "phone": "060 21 26 75",
-    "website": "https://www.facebook.com/AuPetitmarchechimay",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Au%20Petit%20March%C3%A9%20Chimay&query_place_id=ChIJn6wd4JcFwkcRnWL39tqAAB8",
-    "open_hours_json": {
-      "Monday": [
-        "9 am–12 pm",
-        "2–6 pm"
-      ],
-      "Tuesday": [
-        "8:30 am–12 pm",
-        "2–6 pm"
-      ],
-      "Wednesday": [
-        "8:30 am–12 pm",
-        "2–6 pm"
-      ],
-      "Thursday": [
-        "8:30 am–12 pm",
-        "2–6 pm"
-      ],
-      "Friday": [
-        "8 am–6 pm"
-      ],
-      "Saturday": [
-        "8:30 am–6 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 39,
-    "rating": 4.8,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfhCf66m5H-pEMSklrr4Yw5J3qS765dGXt5RcQDZXhd8vF40N--BCLb9evFN80wSe2pIsLPrfJRVRP3lGqLh19X0M0FHGU6i4LF_h7BjSsFysMkeEfZ6PXtxVLXSL6qTyGvawJVpg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfhCf66m5H-pEMSklrr4Yw5J3qS765dGXt5RcQDZXhd8vF40N--BCLb9evFN80wSe2pIsLPrfJRVRP3lGqLh19X0M0FHGU6i4LF_h7BjSsFysMkeEfZ6PXtxVLXSL6qTyGvawJVpg=w1000-h750-no",
-    "source_query": "Hypermarket in Chimay, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJg1scNDkFwkcREH79ugoOT2c",
-    "name": "Au Pt'Marché Chimay",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Chimay",
-    "address": "Au Pt'Marché Chimay, Chau. de Mons, 6460 Chimay",
-    "street": "Chau. de Mons",
-    "postal_code": "6460",
-    "region": null,
-    "latitude": 50.050726999999995,
-    "longitude": 4.3091121999999995,
-    "phone": "060 21 26 75",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Au%20Pt%27March%C3%A9%20Chimay&query_place_id=ChIJg1scNDkFwkcREH79ugoOT2c",
-    "open_hours_json": {
-      "Monday": [
-        "8:30 am–12 pm",
-        "2–6 pm"
-      ],
-      "Tuesday": [
-        "8:30 am–12 pm",
-        "2–6 pm"
-      ],
-      "Wednesday": [
-        "8:30 am–12 pm",
-        "2–6 pm"
-      ],
-      "Thursday": [
-        "8:30 am–12 pm",
-        "2–6 pm"
-      ],
-      "Friday": [
-        "7:30 am–6 pm"
-      ],
-      "Saturday": [
-        "8:30 am–6 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 0,
-    "rating": null,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdCYnDMHTn5h0kOZ6H82BP3oQjdG8iZz16OEQTUp4tiAROZf_SE2-MvR2gIQB2coOHG8_JqPkwEpcEH-C_UpT_sBoFGFbWD3XC2VNc3Ijotbd5Ddvw0HXAvh0PO3wo2x4XfT0zoSKm9yZlb=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdCYnDMHTn5h0kOZ6H82BP3oQjdG8iZz16OEQTUp4tiAROZf_SE2-MvR2gIQB2coOHG8_JqPkwEpcEH-C_UpT_sBoFGFbWD3XC2VNc3Ijotbd5Ddvw0HXAvh0PO3wo2x4XfT0zoSKm9yZlb=w1000-h750-no",
-    "source_query": "Hypermarket in Chimay, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJLUAIGLwFwkcRm0g13PLqMHE",
-    "name": "BNP Paribas Fortis Chimay",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Chimay",
-    "address": "BNP Paribas Fortis Chimay, Pl. Froissart 2, 6460 Chimay",
-    "street": "Pl. Froissart 2",
-    "postal_code": "6460",
-    "region": null,
-    "latitude": 50.0478354,
-    "longitude": 4.3149872,
-    "phone": "060 21 03 50",
-    "website": "https://www.bnpparibasfortis.be/fr/public/particuliers",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=BNP%20Paribas%20Fortis%20Chimay&query_place_id=ChIJLUAIGLwFwkcRm0g13PLqMHE",
-    "open_hours_json": null,
-    "review_count": 28,
-    "rating": 3.0,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeE7_laHUUMftL-3gV47WkHRrTQIr8QOgmiBMjdWWt7s_won9sHzKNqWxUC4DodIKKAqJCmp_I84u8bPW2rO32DFRa72OZelB5YFJ5SjhSixSZ5HAui5U2qx7uWNyk5_7xQ02YK=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeE7_laHUUMftL-3gV47WkHRrTQIr8QOgmiBMjdWWt7s_won9sHzKNqWxUC4DodIKKAqJCmp_I84u8bPW2rO32DFRa72OZelB5YFJ5SjhSixSZ5HAui5U2qx7uWNyk5_7xQ02YK=w1000-h750-no",
-    "source_query": "Hypermarket in Chimay, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJaztgI_8FwkcRtw6uHRVeRMA",
-    "name": "Collect&Go Chimay",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Chimay",
-    "address": "Collect&Go Chimay, Chau. de Mons 17, 6460 Chimay",
-    "street": "Chau. de Mons 17",
-    "postal_code": "6460",
-    "region": null,
-    "latitude": 50.0508652,
-    "longitude": 4.3084141,
-    "phone": "02 363 50 05",
-    "website": "https://www.collectandgo.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Collect%26Go%20Chimay&query_place_id=ChIJaztgI_8FwkcRtw6uHRVeRMA",
-    "open_hours_json": {
-      "Monday": [
-        "8 am–8 pm"
-      ],
-      "Tuesday": [
-        "8 am–8 pm"
-      ],
-      "Wednesday": [
-        "8 am–8 pm"
-      ],
-      "Thursday": [
-        "8 am–8 pm"
-      ],
-      "Friday": [
-        "8 am–9 pm"
-      ],
-      "Saturday": [
-        "8 am–8 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 0,
-    "rating": null,
-    "thumbnail_url": null,
-    "image_url": null,
-    "source_query": "Hypermarket in Chimay, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJifKOPusFwkcRNkrtYFHvplU",
-    "name": "El Greco",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Chimay",
-    "address": "El Greco, Rue Rogier 20, 6460 Chimay",
-    "street": "Rue Rogier 20",
-    "postal_code": "6460",
-    "region": null,
-    "latitude": 50.0492668,
-    "longitude": 4.3168826,
-    "phone": "060 21 97 99",
-    "website": "https://elgrecochimay.com/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=El%20Greco&query_place_id=ChIJifKOPusFwkcRNkrtYFHvplU",
-    "open_hours_json": {
-      "Monday": [
-        "12–2 pm",
-        "6–9 pm"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "12–2 pm",
-        "6–9 pm"
-      ],
-      "Thursday": [
-        "12–2 pm",
-        "6–9 pm"
-      ],
-      "Friday": [
-        "12–2 pm",
-        "6–10 pm"
-      ],
-      "Saturday": [
-        "12–2 pm",
-        "6–10 pm"
-      ],
-      "Sunday": [
-        "12–2 pm",
-        "6–9 pm"
-      ]
-    },
-    "review_count": 225,
-    "rating": 4.4,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfY11zZ2O6ZQpFZCohj3MxddMez7zNBVWYwv_wM5bc195W3axxDSnQSoqLX8QRcsG3Uu9Z_WwadivwuShMh782b4QYLONONP6VxKNClZb__ebsTX0DBivNoRfeRGly55VGJw4e5=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfY11zZ2O6ZQpFZCohj3MxddMez7zNBVWYwv_wM5bc195W3axxDSnQSoqLX8QRcsG3Uu9Z_WwadivwuShMh782b4QYLONONP6VxKNClZb__ebsTX0DBivNoRfeRGly55VGJw4e5=w1000-h750-no",
-    "source_query": "Halal restaurant in Chimay, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJOX0cB3sGwkcRkw4VH1tnvjk",
-    "name": "Entre Temps",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Chimay",
-    "address": "Entre Temps, Chau. de Mons 55b, 6460 Chimay",
-    "street": "Chau. de Mons 55b",
-    "postal_code": "6460",
-    "region": null,
-    "latitude": 50.070693,
-    "longitude": 4.2938486,
-    "phone": "060 21 35 72",
-    "website": "https://entretemps-chimay.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Entre%20Temps&query_place_id=ChIJOX0cB3sGwkcRkw4VH1tnvjk",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "12–2:30 pm",
-        "6:30–9 pm"
-      ],
-      "Friday": [
-        "12–2:30 pm",
-        "6:30–9:30 pm"
-      ],
-      "Saturday": [
-        "12–2:30 pm",
-        "6:30–9:30 pm"
-      ],
-      "Sunday": [
-        "12–2:30 pm",
-        "6:30–9 pm"
-      ]
-    },
-    "review_count": 530,
-    "rating": 4.4,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeCx8mFfbecHfIiUoKEH30RJjaFwZDIkGT2l9lfnTdFq8nWxvubYPjpYUxrOU1ubnscwd6n4Xlntp6iQyTYqPDo7r_-iX6ungPNxhK-1-6xTWBocJKQUWK1NZ8lI13rZ9U31z8WGrlKdE4v=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeCx8mFfbecHfIiUoKEH30RJjaFwZDIkGT2l9lfnTdFq8nWxvubYPjpYUxrOU1ubnscwd6n4Xlntp6iQyTYqPDo7r_-iX6ungPNxhK-1-6xTWBocJKQUWK1NZ8lI13rZ9U31z8WGrlKdE4v=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Chimay, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJLUAIGLwFwkcRFSh87GE5RVY",
-    "name": "La Charlotte",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Chimay",
-    "address": "La Charlotte, Pl. Froissart 8, 6460 Chimay",
-    "street": "La Charlotte, Pl. Froissart 8",
-    "postal_code": "6460",
-    "region": null,
-    "latitude": 50.047526999999995,
-    "longitude": 4.3148085,
-    "phone": "060 21 21 00",
-    "website": "https://www.facebook.com/profile.php?id=100083427818337",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Charlotte&query_place_id=ChIJLUAIGLwFwkcRFSh87GE5RVY",
-    "open_hours_json": {
-      "Monday": [
-        "12–2 pm",
-        "7–9 pm"
-      ],
-      "Tuesday": [
-        "12–2 pm",
-        "7–9 pm"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "Closed"
-      ],
-      "Friday": [
-        "12–2 pm",
-        "7–9 pm"
-      ],
-      "Saturday": [
-        "12–2 pm",
-        "7–9 pm"
-      ],
-      "Sunday": [
-        "12–2 pm"
-      ]
-    },
-    "review_count": 331,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe5-41NbETv34CAoY6xXvYiHIRjncFNEerX5dq3e1g3BCtZuOzjtucVuGr-ZzHXdz9Otc509jTAWknl7z1JCpg58fr3oGAiz1dEJkwkOe-0ZiHebjAiqVXZBA9cepqPoNrElwhR6Q=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe5-41NbETv34CAoY6xXvYiHIRjncFNEerX5dq3e1g3BCtZuOzjtucVuGr-ZzHXdz9Otc509jTAWknl7z1JCpg58fr3oGAiz1dEJkwkOe-0ZiHebjAiqVXZBA9cepqPoNrElwhR6Q=w1000-h750-no",
-    "source_query": "Halal restaurant in Chimay, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJt6_wDb0FwkcRiislvkqOcxs",
-    "name": "La Foulque",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Chimay",
-    "address": "La Foulque, Rue du Parc 2, 6460 Chimay",
-    "street": "Rue du Parc 2",
-    "postal_code": "6460",
-    "region": null,
-    "latitude": 50.0590106,
-    "longitude": 4.3088562,
-    "phone": "060 21 17 35",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Foulque&query_place_id=ChIJt6_wDb0FwkcRiislvkqOcxs",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "Closed"
-      ],
-      "Friday": [
-        "6–10 pm"
-      ],
-      "Saturday": [
-        "6–10 pm"
-      ],
-      "Sunday": [
-        "12–2 pm"
-      ]
-    },
-    "review_count": 28,
-    "rating": 4.0,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc1a_r5vCeIORiqfFIq9_t8MOxbGvxEYIxbSLwxW6YTcaYmbSjl-DdWbu-l8zWi57KS975PJMkiMbrqhUGcn2npYB8fXEVbS5zuUujAc0HoEQUFPq7WmWF8bZeIzmeWXRCbkKDLhQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc1a_r5vCeIORiqfFIq9_t8MOxbGvxEYIxbSLwxW6YTcaYmbSjl-DdWbu-l8zWi57KS975PJMkiMbrqhUGcn2npYB8fXEVbS5zuUujAc0HoEQUFPq7WmWF8bZeIzmeWXRCbkKDLhQ=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Chimay, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJm5Miz7sFwkcRR-tTNq9gEqQ",
-    "name": "La Malterie",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Chimay",
-    "address": "La Malterie, Pl. Léopold 7, 6460 Chimay",
-    "street": "Pl. Léopold 7",
-    "postal_code": "6460",
-    "region": null,
-    "latitude": 50.047082499999995,
-    "longitude": 4.3186271,
-    "phone": "060 21 32 30",
-    "website": "http://www.lamalteriechimay.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Malterie&query_place_id=ChIJm5Miz7sFwkcRR-tTNq9gEqQ",
-    "open_hours_json": {
-      "Monday": [
-        "11 am–3 pm",
-        "6:30–8:30 pm"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "12–2 pm",
-        "6:30–8:30 pm"
-      ],
-      "Friday": [
-        "12–2 pm",
-        "6:30–9 pm"
-      ],
-      "Saturday": [
-        "12–2 pm",
-        "6:30–9 pm"
-      ],
-      "Sunday": [
-        "12–2:30 pm",
-        "6:30–8:30 pm"
-      ]
-    },
-    "review_count": 216,
-    "rating": 4.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe6NuKTS75QjYGOhd9zkwKzYegBzTJU9BLr-fP4WAqByleJOScbdeSxAeveA5kw7uRmKxBQhEa5qRV0lMP0DgdP1gJnYdMy1WkzE-DZfinjKzIFd-Igd2SF04PXSQRal9qlFfbC0w=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe6NuKTS75QjYGOhd9zkwKzYegBzTJU9BLr-fP4WAqByleJOScbdeSxAeveA5kw7uRmKxBQhEa5qRV0lMP0DgdP1gJnYdMy1WkzE-DZfinjKzIFd-Igd2SF04PXSQRal9qlFfbC0w=w1000-h750-no",
-    "source_query": "Halal restaurant in Chimay, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ-1vbcroFwkcRE8uooQ8xkUk",
-    "name": "La Petite Fourchette",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Chimay",
-    "address": "La Petite Fourchette, Rue van Humbeeck 20, 6460 Chimay",
-    "street": "Rue van Humbeeck 20",
-    "postal_code": "6460",
-    "region": null,
-    "latitude": 50.0478296,
-    "longitude": 4.3207333,
-    "phone": "060 73 04 43",
-    "website": "http://www.petitefourchette.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Petite%20Fourchette&query_place_id=ChIJ-1vbcroFwkcRE8uooQ8xkUk",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "11 am–2 pm",
-        "5–9:15 pm"
-      ],
-      "Wednesday": [
-        "11 am–2 pm",
-        "5–9:15 pm"
-      ],
-      "Thursday": [
-        "11 am–2 pm",
-        "5–9:15 pm"
-      ],
-      "Friday": [
-        "11 am–2 pm",
-        "5–9:45 pm"
-      ],
-      "Saturday": [
-        "11 am–2 pm",
-        "5–9:15 pm"
-      ],
-      "Sunday": [
-        "5–9:15 pm"
-      ]
-    },
-    "review_count": 319,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLflzI7-Hm826zZG9HCZSMm3P0NbOg_1-xZ1l_Jg685tJbi7z1I6oGeg2UJCGNDB18s2ePKAvXvdOb4HUMQEnVDzecGTfRxNgOxRFeCjN-FxyzQl6pZGqA3pq5n92GAr8tWLOtZN=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLflzI7-Hm826zZG9HCZSMm3P0NbOg_1-xZ1l_Jg685tJbi7z1I6oGeg2UJCGNDB18s2ePKAvXvdOb4HUMQEnVDzecGTfRxNgOxRFeCjN-FxyzQl6pZGqA3pq5n92GAr8tWLOtZN=w1000-h750-no",
-    "source_query": "Halal restaurant in Chimay, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJMUTPwyQFwkcRFjYitNgXrVY",
-    "name": "La Planche du Cuistot",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Chimay",
-    "address": "La Planche du Cuistot, Grand'Place 16, 6460 Chimay",
-    "street": "Grand'Place 16",
-    "postal_code": "6460",
-    "region": null,
-    "latitude": 50.0491816,
-    "longitude": 4.315034,
-    "phone": "060 39 06 13",
-    "website": "https://www.facebook.com/LaPlancheduCuistot/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Planche%20du%20Cuistot&query_place_id=ChIJMUTPwyQFwkcRFjYitNgXrVY",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "10 am–9:45 pm"
-      ],
-      "Thursday": [
-        "10 am–9:45 pm"
-      ],
-      "Friday": [
-        "10 am–10 pm"
-      ],
-      "Saturday": [
-        "10 am–10 pm"
-      ],
-      "Sunday": [
-        "10 am–9:30 pm"
-      ]
-    },
-    "review_count": 211,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdEpJA9mTTfA5MS2uDDHXuUvKClbGjEsS7PYE6kJnEtopIzAXSY_DkvhcBTPyDMHoZJ72f3cQN2joEkjoNz3Dw-_KC1BveJey335SZzUndVNZ3jcxioPCU1NUWZDryR7l-GGgsp=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdEpJA9mTTfA5MS2uDDHXuUvKClbGjEsS7PYE6kJnEtopIzAXSY_DkvhcBTPyDMHoZJ72f3cQN2joEkjoNz3Dw-_KC1BveJey335SZzUndVNZ3jcxioPCU1NUWZDryR7l-GGgsp=w1000-h750-no",
-    "source_query": "Halal restaurant in Chimay, Wallonia, BE",
     "moderation_status": "approved",
     "is_active": true,
     "verification_status": "UNVERIFIED",
