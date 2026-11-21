@@ -46,11 +46,11 @@
     },
     "ES": {
       "name": "Spain",
-      "count": 1188,
-      "total_shards": 5,
+      "count": 1404,
+      "total_shards": 6,
       "shards_dir": "shards/ES",
       "cities_file": "shards/ES/cities.json",
-      "updated_at": "2026-11-21T20:50:24.286787+00:00"
+      "updated_at": "2026-11-21T23:23:54.270827+00:00"
     },
     "IT": {
       "name": "Italy",
@@ -141,6 +141,6 @@
       "updated_at": "2026-11-21T22:25:07.710786+00:00"
     }
   },
-  "updated_at": "2026-11-21T23:16:13.268642+00:00",
-  "total_places": 34757
+  "updated_at": "2026-11-21T23:23:54.270827+00:00",
+  "total_places": 34973
 }
