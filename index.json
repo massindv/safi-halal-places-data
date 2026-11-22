@@ -86,11 +86,11 @@
     },
     "SE": {
       "name": "Sweden",
-      "count": 1221,
+      "count": 1236,
       "total_shards": 5,
       "shards_dir": "shards/SE",
       "cities_file": "shards/SE/cities.json",
-      "updated_at": "2026-11-22T02:51:44.956194+00:00"
+      "updated_at": "2026-11-22T05:22:06.798257+00:00"
     },
     "NO": {
       "name": "Norway",
@@ -141,6 +141,6 @@
       "updated_at": "2026-11-22T03:45:43.128806+00:00"
     }
   },
-  "updated_at": "2026-11-22T05:13:24.579045+00:00",
-  "total_places": 35406
+  "updated_at": "2026-11-22T05:22:06.798257+00:00",
+  "total_places": 35421
 }
