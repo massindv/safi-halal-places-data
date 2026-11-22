@@ -1,5 +1,87 @@
 [
   {
+    "place_id": "ChIJk8my0eQVw0cRCewPYYSrP8Q",
+    "name": "Peking",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Waregem",
+    "address": "Peking, Holstraat 15, 8790 Waregem",
+    "street": "Holstraat 15",
+    "postal_code": "8790",
+    "region": null,
+    "latitude": 50.8858892,
+    "longitude": 3.4340937,
+    "phone": "056 60 45 11",
+    "website": "https://www.facebook.com/Peking-Waregem-312271318888394",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Peking&query_place_id=ChIJk8my0eQVw0cRCewPYYSrP8Q",
+    "open_hours_json": {
+      "Monday": [
+        "6–9 pm"
+      ],
+      "Tuesday": [
+        "6–9 pm"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "12–2 pm",
+        "6–9 pm"
+      ],
+      "Friday": [
+        "12–2 pm",
+        "6–9 pm"
+      ],
+      "Saturday": [
+        "12–2 pm",
+        "6–9 pm"
+      ],
+      "Sunday": [
+        "12–2 pm",
+        "6–9 pm"
+      ]
+    },
+    "review_count": 67,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLehAd64rgf4wqP_rQwB3y14qV4IbP-pj8qDySM47R9epPYTseadmgR50dRBNthyMRWkyNlOxIyKLb1ARjpXX5KMbeZNMdGQwgqxRo5dTbObYWw97180-KWGNNsYYAgiza3Yn6UAddeaDBAr=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLehAd64rgf4wqP_rQwB3y14qV4IbP-pj8qDySM47R9epPYTseadmgR50dRBNthyMRWkyNlOxIyKLb1ARjpXX5KMbeZNMdGQwgqxRo5dTbObYWw97180-KWGNNsYYAgiza3Yn6UAddeaDBAr=w1000-h750-no",
+    "source_query": "Fish restaurant in Waregem, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJTVvjJptsw0cRI1cEh0gHQaA",
+    "name": "PharmaPets",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Waregem",
+    "address": "PharmaPets, Mannebeekstraat 5, 8790 Waregem",
+    "street": "Mannebeekstraat 5",
+    "postal_code": "8790",
+    "region": null,
+    "latitude": 50.8611668,
+    "longitude": 3.4284014,
+    "phone": "09 298 17 73",
+    "website": "https://www.pharmapets.be/nl/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=PharmaPets&query_place_id=ChIJTVvjJptsw0cRI1cEh0gHQaA",
+    "open_hours_json": null,
+    "review_count": 1431,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfYM1qNSbtTJRKSkVW1R96pYJdYk0CEBJz6D2x7wwi1Hl-2-xnr-LBGnTbfeC418ZrMWFAB4w8tsgoE6K-hPo-u3P_14QtDum-lH4CLDorcGlN9x6DChADy-RrKhPyKk48KC47q=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfYM1qNSbtTJRKSkVW1R96pYJdYk0CEBJz6D2x7wwi1Hl-2-xnr-LBGnTbfeC418ZrMWFAB4w8tsgoE6K-hPo-u3P_14QtDum-lH4CLDorcGlN9x6DChADy-RrKhPyKk48KC47q=w1000-h750-no",
+    "source_query": "Pharmacy in Waregem, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJv6vaMmoVw0cR4DlIXjnTQs8",
     "name": "Pita Pyramide Waregem",
     "type": "restaurant",
@@ -11748,105 +11830,5 @@
     "is_active": true,
     "verification_status": "VERIFIED",
     "verification_evidence": "Explicit Halal keyword indicators in listing metadata"
-  },
-  {
-    "place_id": "ChIJs1F_K8_dw0cRbBmVJrmUQuI",
-    "name": "Buurtwinkel Zaventem",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Zaventem",
-    "address": "Buurtwinkel Zaventem, Stationsstraat 28, 1930 Zaventem",
-    "street": "Stationsstraat 28",
-    "postal_code": "1930",
-    "region": null,
-    "latitude": 50.8821692,
-    "longitude": 4.4724546,
-    "phone": "02 652 43 37",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Buurtwinkel%20Zaventem&query_place_id=ChIJs1F_K8_dw0cRbBmVJrmUQuI",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "10 am–7 pm"
-      ],
-      "Wednesday": [
-        "10 am–7 pm"
-      ],
-      "Thursday": [
-        "10 am–7 pm"
-      ],
-      "Friday": [
-        "10 am–7 pm"
-      ],
-      "Saturday": [
-        "10 am–7 pm"
-      ],
-      "Sunday": [
-        "10 am–7 pm"
-      ]
-    },
-    "review_count": 55,
-    "rating": 4.8,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLegk1xMfPmrTsDoVRmko-q49g4EHH4D9RpAkq4xTqdKwvFAQLKuj_h-pAHE7hNPXNOuRlXQlgw-b5JDIB4xUxMyrxQ6hqHUUihT8ZAj5gBC3HRWExHBG6PXuB3h-sca7QKtGYBAow=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLegk1xMfPmrTsDoVRmko-q49g4EHH4D9RpAkq4xTqdKwvFAQLKuj_h-pAHE7hNPXNOuRlXQlgw-b5JDIB4xUxMyrxQ6hqHUUihT8ZAj5gBC3HRWExHBG6PXuB3h-sca7QKtGYBAow=w1000-h750-no",
-    "source_query": "Hypermarket in Sint-Stevens-Woluwe, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJjYCChG_dw0cRvrWl9-1gDyo",
-    "name": "Cafe Blue Lime",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Zaventem",
-    "address": "Cafe Blue Lime, Excelsiorlaan 31, 1930 Zaventem",
-    "street": "Excelsiorlaan 31",
-    "postal_code": "1930",
-    "region": null,
-    "latitude": 50.881926899999996,
-    "longitude": 4.452344699999999,
-    "phone": "0465 00 36 77",
-    "website": "http://cafebluelime.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cafe%20Blue%20Lime&query_place_id=ChIJjYCChG_dw0cRvrWl9-1gDyo",
-    "open_hours_json": {
-      "Monday": [
-        "11 am–3:30 pm"
-      ],
-      "Tuesday": [
-        "11 am–3:30 pm"
-      ],
-      "Wednesday": [
-        "11 am–3:30 pm"
-      ],
-      "Thursday": [
-        "11 am–3:30 pm"
-      ],
-      "Friday": [
-        "11 am–3:30 pm"
-      ],
-      "Saturday": [
-        "Closed"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 247,
-    "rating": 5.0,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdPjONuDCFIWhCxPJ4YoJBMP15MDJHelXEGW8swQilm_lTltSLrXA4m9WOlr3Os4jHXJs3wWh7P1rptQ2LWn7JlRzJ7TA8fmrS0Nvtwzi5duFkaWSjoobr8Ebcvusba6XWR_qzHKw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdPjONuDCFIWhCxPJ4YoJBMP15MDJHelXEGW8swQilm_lTltSLrXA4m9WOlr3Os4jHXJs3wWh7P1rptQ2LWn7JlRzJ7TA8fmrS0Nvtwzi5duFkaWSjoobr8Ebcvusba6XWR_qzHKw=w1000-h750-no",
-    "source_query": "Halal restaurant in Sint-Stevens-Woluwe, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
   }
 ]

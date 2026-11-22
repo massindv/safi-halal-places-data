@@ -1,5 +1,105 @@
 [
   {
+    "place_id": "ChIJs1F_K8_dw0cRbBmVJrmUQuI",
+    "name": "Buurtwinkel Zaventem",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Zaventem",
+    "address": "Buurtwinkel Zaventem, Stationsstraat 28, 1930 Zaventem",
+    "street": "Stationsstraat 28",
+    "postal_code": "1930",
+    "region": null,
+    "latitude": 50.8821692,
+    "longitude": 4.4724546,
+    "phone": "02 652 43 37",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Buurtwinkel%20Zaventem&query_place_id=ChIJs1F_K8_dw0cRbBmVJrmUQuI",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "10 am–7 pm"
+      ],
+      "Wednesday": [
+        "10 am–7 pm"
+      ],
+      "Thursday": [
+        "10 am–7 pm"
+      ],
+      "Friday": [
+        "10 am–7 pm"
+      ],
+      "Saturday": [
+        "10 am–7 pm"
+      ],
+      "Sunday": [
+        "10 am–7 pm"
+      ]
+    },
+    "review_count": 55,
+    "rating": 4.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLegk1xMfPmrTsDoVRmko-q49g4EHH4D9RpAkq4xTqdKwvFAQLKuj_h-pAHE7hNPXNOuRlXQlgw-b5JDIB4xUxMyrxQ6hqHUUihT8ZAj5gBC3HRWExHBG6PXuB3h-sca7QKtGYBAow=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLegk1xMfPmrTsDoVRmko-q49g4EHH4D9RpAkq4xTqdKwvFAQLKuj_h-pAHE7hNPXNOuRlXQlgw-b5JDIB4xUxMyrxQ6hqHUUihT8ZAj5gBC3HRWExHBG6PXuB3h-sca7QKtGYBAow=w1000-h750-no",
+    "source_query": "Hypermarket in Sint-Stevens-Woluwe, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJjYCChG_dw0cRvrWl9-1gDyo",
+    "name": "Cafe Blue Lime",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Zaventem",
+    "address": "Cafe Blue Lime, Excelsiorlaan 31, 1930 Zaventem",
+    "street": "Excelsiorlaan 31",
+    "postal_code": "1930",
+    "region": null,
+    "latitude": 50.881926899999996,
+    "longitude": 4.452344699999999,
+    "phone": "0465 00 36 77",
+    "website": "http://cafebluelime.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cafe%20Blue%20Lime&query_place_id=ChIJjYCChG_dw0cRvrWl9-1gDyo",
+    "open_hours_json": {
+      "Monday": [
+        "11 am–3:30 pm"
+      ],
+      "Tuesday": [
+        "11 am–3:30 pm"
+      ],
+      "Wednesday": [
+        "11 am–3:30 pm"
+      ],
+      "Thursday": [
+        "11 am–3:30 pm"
+      ],
+      "Friday": [
+        "11 am–3:30 pm"
+      ],
+      "Saturday": [
+        "Closed"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 247,
+    "rating": 5.0,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdPjONuDCFIWhCxPJ4YoJBMP15MDJHelXEGW8swQilm_lTltSLrXA4m9WOlr3Os4jHXJs3wWh7P1rptQ2LWn7JlRzJ7TA8fmrS0Nvtwzi5duFkaWSjoobr8Ebcvusba6XWR_qzHKw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdPjONuDCFIWhCxPJ4YoJBMP15MDJHelXEGW8swQilm_lTltSLrXA4m9WOlr3Os4jHXJs3wWh7P1rptQ2LWn7JlRzJ7TA8fmrS0Nvtwzi5duFkaWSjoobr8Ebcvusba6XWR_qzHKw=w1000-h750-no",
+    "source_query": "Halal restaurant in Sint-Stevens-Woluwe, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJw82uLavdw0cRDZpl2YOISBU",
     "name": "Chifuri Woluwe-Saint-Etienne",
     "type": "restaurant",
@@ -610,8 +710,8 @@
     "phone": null,
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Othman%20Zaventem%20-%20Islah&query_place_id=ChIJI2MWU1Tcw0cReWNb_AMEvTo",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfSP_2PzE_mU2K5vJ6NMI-e071xGAGpWvK4wNvNswP_4gZZXkqz1KS8QCRxyj5_mATYQcmuYtNSZSC4jlalIFNv4AGXNk_5EeIeNNvQIyFu_qQy7dWAYsJm-hkymKjt2qXM2CmBvg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfSP_2PzE_mU2K5vJ6NMI-e071xGAGpWvK4wNvNswP_4gZZXkqz1KS8QCRxyj5_mATYQcmuYtNSZSC4jlalIFNv4AGXNk_5EeIeNNvQIyFu_qQy7dWAYsJm-hkymKjt2qXM2CmBvg=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcuu_r29eiXvX9b2JKM4K6yWm2yYfpX9DdFhMyoxXjmO6guQeely7ONFbKSqcS8aUrcbw6sHf8zAi7RYpnT52DKFQBLF7n1mUUY2OQKIhQskXLAnB0urc4cWchhIBeBuu5GXBUe-g=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcuu_r29eiXvX9b2JKM4K6yWm2yYfpX9DdFhMyoxXjmO6guQeely7ONFbKSqcS8aUrcbw6sHf8zAi7RYpnT52DKFQBLF7n1mUUY2OQKIhQskXLAnB0urc4cWchhIBeBuu5GXBUe-g=w1000-h750-no",
     "rating": 4.6,
     "review_count": 116,
     "verification_status": "UNVERIFIED",

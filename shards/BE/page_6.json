@@ -1,5 +1,239 @@
 [
   {
+    "place_id": "ChIJCUOp2PS1w0cR11vTw4xJhBo",
+    "name": "Intermarché Braine-le-Comte Digues",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Braine-le-Comte",
+    "address": "Intermarché Braine-le-Comte Digues, Rue des Digues 60, 7090 Braine-le-Comte",
+    "street": "Rue des Digues 60",
+    "postal_code": "7090",
+    "region": null,
+    "latitude": 50.612221,
+    "longitude": 4.1401509999999995,
+    "phone": "067 56 01 88",
+    "website": "https://www.intermarche.be/magasins/intermarche-braine-le-comte-2/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Intermarch%C3%A9%20Braine-le-Comte%20Digues&query_place_id=ChIJCUOp2PS1w0cR11vTw4xJhBo",
+    "open_hours_json": {
+      "Monday": [
+        "8 am–8 pm"
+      ],
+      "Tuesday": [
+        "8 am–8 pm"
+      ],
+      "Wednesday": [
+        "8 am–8 pm"
+      ],
+      "Thursday": [
+        "8 am–8 pm"
+      ],
+      "Friday": [
+        "8 am–8 pm"
+      ],
+      "Saturday": [
+        "8 am–8 pm"
+      ],
+      "Sunday": [
+        "8 am–8 pm"
+      ]
+    },
+    "review_count": 463,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLesEYB8hvhvX2LIJRgeJXTi8ftnWvS-DHeXAbo__0AwiibpyT5Fzfj2XNi8B1KK9Nehua5w6VOlIaZjm48o06P-_ZAhS9o-mOZmOVIG5sCwRyod-CK5s_kLqBf6RMkOZABK6u-wCMQeIhmE=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLesEYB8hvhvX2LIJRgeJXTi8ftnWvS-DHeXAbo__0AwiibpyT5Fzfj2XNi8B1KK9Nehua5w6VOlIaZjm48o06P-_ZAhS9o-mOZmOVIG5sCwRyod-CK5s_kLqBf6RMkOZABK6u-wCMQeIhmE=w1000-h750-no",
+    "source_query": "Hypermarket in Braine-le-Comte, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJzQSRmS21w0cRvVs_fGIEoNs",
+    "name": "L'Acropole",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Braine-le-Comte",
+    "address": "L'Acropole, Rue de Mons 29, 7090 Braine-le-Comte",
+    "street": "Rue de Mons 29",
+    "postal_code": "7090",
+    "region": null,
+    "latitude": 50.6096953,
+    "longitude": 4.1349272,
+    "phone": "067 79 03 66",
+    "website": "https://lacropole.eatbu.com/?lang=fr#map",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=L%27Acropole&query_place_id=ChIJzQSRmS21w0cRvVs_fGIEoNs",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "6:30–9 pm"
+      ],
+      "Thursday": [
+        "6:30–9 pm"
+      ],
+      "Friday": [
+        "6:30–9 pm"
+      ],
+      "Saturday": [
+        "6:30–9 pm"
+      ],
+      "Sunday": [
+        "12–1:30 pm"
+      ]
+    },
+    "review_count": 423,
+    "rating": 4.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLchCol9UI_hfnVu65sznrEO-gCUTARu0r5LfD9po-a35_QI7h5V1TSW4RwC5GLs4TelRbZU2LR-PcosHdsVJ1UO16CtfcbdrIYMfNrAuuNi30-KxJzTFRfpxjk0rrOhthaj9RcMEQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLchCol9UI_hfnVu65sznrEO-gCUTARu0r5LfD9po-a35_QI7h5V1TSW4RwC5GLs4TelRbZU2LR-PcosHdsVJ1UO16CtfcbdrIYMfNrAuuNi30-KxJzTFRfpxjk0rrOhthaj9RcMEQ=w1000-h750-no",
+    "source_query": "Halal restaurant in Braine-le-Comte, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJQceVFi-1w0cRGGx7v6Sh2sQ",
+    "name": "L'épicerie - du local au bio",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Braine-le-Comte",
+    "address": "L'épicerie - du local au bio, Rue du Ronchy 23, 7090 Braine-le-Comte",
+    "street": "Rue du Ronchy 23",
+    "postal_code": "7090",
+    "region": null,
+    "latitude": 50.640136399999996,
+    "longitude": 4.1770385999999995,
+    "phone": "067 21 66 14",
+    "website": "https://www.facebook.com/L%C3%A9picerie-Du-local-au-bio-967727516752167/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=L%27%C3%A9picerie%20-%20du%20local%20au%20bio&query_place_id=ChIJQceVFi-1w0cRGGx7v6Sh2sQ",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "10 am–6 pm"
+      ],
+      "Thursday": [
+        "10 am–6 pm"
+      ],
+      "Friday": [
+        "10 am–6 pm"
+      ],
+      "Saturday": [
+        "10 am–5 pm"
+      ],
+      "Sunday": [
+        "10 am–12:30 pm"
+      ]
+    },
+    "review_count": 220,
+    "rating": 4.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdKn7vr7DlW5gQGHWymbQRETgNz0L_MhVKsqsj4ValOqo9iQANdhNxBencUerwiFlBs5VZElINUGEd_hz4X1m57SQ-kxfKEUtHFvvFdrRU18BKAtwLiXXheFESTUfxrilGAwwXW=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdKn7vr7DlW5gQGHWymbQRETgNz0L_MhVKsqsj4ValOqo9iQANdhNxBencUerwiFlBs5VZElINUGEd_hz4X1m57SQ-kxfKEUtHFvvFdrRU18BKAtwLiXXheFESTUfxrilGAwwXW=w1000-h750-no",
+    "source_query": "Hypermarket in Braine-le-Comte, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJb0gSLi1LwkcRt1sOPoJS9kY",
+    "name": "La Basteniere",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Braine-le-Comte",
+    "address": "La Basteniere, Chem. des Carmes 1, 7090 Braine-le-Comte",
+    "street": "Chem. des Carmes 1",
+    "postal_code": "7090",
+    "region": null,
+    "latitude": 50.6066503,
+    "longitude": 4.1131256,
+    "phone": "067 55 42 79",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Basteniere&query_place_id=ChIJb0gSLi1LwkcRt1sOPoJS9kY",
+    "open_hours_json": null,
+    "review_count": 4,
+    "rating": 4.5,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8flzWKAtiN9UHNyDxEyoKQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=309.75308&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8flzWKAtiN9UHNyDxEyoKQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=309.75308&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Hypermarket in Braine-le-Comte, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJf1gemi21w0cRPmGPUr11MAw",
+    "name": "La Chine",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Braine-le-Comte",
+    "address": "La Chine, Rue de Mons 3, 7090 Braine-le-Comte",
+    "street": "Rue de Mons 3",
+    "postal_code": "7090",
+    "region": null,
+    "latitude": 50.6104165,
+    "longitude": 4.1352714,
+    "phone": "067 55 54 92",
+    "website": "http://la-chine.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Chine&query_place_id=ChIJf1gemi21w0cRPmGPUr11MAw",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "12–2 pm",
+        "6–11 pm"
+      ],
+      "Wednesday": [
+        "12–2 pm",
+        "6–11 pm"
+      ],
+      "Thursday": [
+        "12–2 pm",
+        "6–11 pm"
+      ],
+      "Friday": [
+        "12–2 pm",
+        "6–11 pm"
+      ],
+      "Saturday": [
+        "12–2 pm",
+        "6–11 pm"
+      ],
+      "Sunday": [
+        "12–2 pm",
+        "6–11 pm"
+      ]
+    },
+    "review_count": 416,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeqr23i_7IMvozSR-EwjBZijAsfQ09BvFpCr_YoD7kdEg-I2UNC_4Krf6cexqO0S-ll5ZcuC4rVySre0udGEt13lOztLBSX-5ZVS_zHNdX0YECetwUUP_j64BzZtn_ReIL6f8T_=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeqr23i_7IMvozSR-EwjBZijAsfQ09BvFpCr_YoD7kdEg-I2UNC_4Krf6cexqO0S-ll5ZcuC4rVySre0udGEt13lOztLBSX-5ZVS_zHNdX0YECetwUUP_j64BzZtn_ReIL6f8T_=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Braine-le-Comte, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJNUtB8BW1w0cRRE2aXZNJdQo",
     "name": "La Ferme Les Cinq Epines",
     "type": "restaurant",
@@ -10996,7 +11230,7 @@
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe86QmE55gfX9vTyorzEACzNZluBEM5PEc64cVxETPymiYdlzHhbPoMGvUyz-YrkcnqvT6YqzRrp7tkLtUSLxctes3_BhSST5AIq5SefZwm1vLwq5XURmuLu5Ltiqnini9Ep4DETdWMuGCP=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe86QmE55gfX9vTyorzEACzNZluBEM5PEc64cVxETPymiYdlzHhbPoMGvUyz-YrkcnqvT6YqzRrp7tkLtUSLxctes3_BhSST5AIq5SefZwm1vLwq5XURmuLu5Ltiqnini9Ep4DETdWMuGCP=w1000-h750-no",
     "rating": 4.8,
-    "review_count": 1056,
+    "review_count": 1058,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null,
     "is_active": true,
@@ -11048,7 +11282,7 @@
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdtv8eZ3Bw_Xc_4BTlaEvh-CDVKtbcAvDxTVnFozZNgVImPXBHldUJtZmhwfLEPRoT7SdfzEPy8dSKq235Kd3UaebROyI9XT4-gKSq46ebuDwFyPJHtDgtMNASw6yJoeBwmrWjz8A=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdtv8eZ3Bw_Xc_4BTlaEvh-CDVKtbcAvDxTVnFozZNgVImPXBHldUJtZmhwfLEPRoT7SdfzEPy8dSKq235Kd3UaebROyI9XT4-gKSq46ebuDwFyPJHtDgtMNASw6yJoeBwmrWjz8A=w1000-h750-no",
     "rating": 4.4,
-    "review_count": 1379,
+    "review_count": 1380,
     "verification_status": "VERIFIED",
     "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
     "is_active": true,
@@ -11126,7 +11360,7 @@
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfeMXx8mpYl0DsNQldu7UmPOX1KBB4QNGwTo4R_KV7KH21PufyS1ZEZ44LMXesg2ldjMW8LKXZkvdBhmUr5zqvPnSJEpmMoA00qT1UE1wDfoxgyXuJpZwXcdacjVf47cunwVMkLfQ=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfeMXx8mpYl0DsNQldu7UmPOX1KBB4QNGwTo4R_KV7KH21PufyS1ZEZ44LMXesg2ldjMW8LKXZkvdBhmUr5zqvPnSJEpmMoA00qT1UE1wDfoxgyXuJpZwXcdacjVf47cunwVMkLfQ=w1000-h750-no",
     "rating": 3.8,
-    "review_count": 1117,
+    "review_count": 1118,
     "verification_status": "VERIFIED",
     "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
     "is_active": true,
@@ -11253,8 +11487,8 @@
     "phone": "050 31 77 01",
     "website": "http://www.brugsevleescentrale.be/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Brugse%20Vleescentrale&query_place_id=ChIJRTtERdRWw0cRRqOm_9T-eII",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfcOl4-zkaFpglK5NajX4VVud-qIuZfsa1whO__gdhC_TidadUTH1_LEYzFtar6d_b97TPfyLlSM_RGLiKPfoVPtzVDiW4C2jkXijFqAKxcxzUQ2k_MfmWNGrV-4qIu6jbkqebWGw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfcOl4-zkaFpglK5NajX4VVud-qIuZfsa1whO__gdhC_TidadUTH1_LEYzFtar6d_b97TPfyLlSM_RGLiKPfoVPtzVDiW4C2jkXijFqAKxcxzUQ2k_MfmWNGrV-4qIu6jbkqebWGw=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdvBgAqvaOcBDE5EnQXUs3KTNkRbsl9kAnuMCE-wHEtLO8GVSFh-soANF2Uu7A2aeikSnYR3uDkEKyqV0ZiZmrvXKcsSzS69fvoOlQwAMbtPEeDhSWVoOcVG4out6pqIwROGLD8Zw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdvBgAqvaOcBDE5EnQXUs3KTNkRbsl9kAnuMCE-wHEtLO8GVSFh-soANF2Uu7A2aeikSnYR3uDkEKyqV0ZiZmrvXKcsSzS69fvoOlQwAMbtPEeDhSWVoOcVG4out6pqIwROGLD8Zw=w1000-h750-no",
     "rating": 4.5,
     "review_count": 143,
     "verification_status": "UNVERIFIED",
@@ -11389,136 +11623,6 @@
     "review_count": 226,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJG2Kl0jhRw0cRehvUwQSXeFk",
-    "name": "De Oriënt",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Brugge",
-    "address": "De Oriënt, Kuipersstraat 17, 8000 Brugge",
-    "street": "Kuipersstraat 17",
-    "postal_code": "8000",
-    "region": null,
-    "latitude": 51.2101401,
-    "longitude": 3.2231677,
-    "phone": "0471 52 74 95",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=De%20Ori%C3%ABnt&query_place_id=ChIJG2Kl0jhRw0cRehvUwQSXeFk",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd6XvRvfb9iLyZqdTVZa4DVlqqgCUXmJyOR3tSj3ZX-2tkRVWQinBVSAYW_MYP2C_PPVL5iJ3_Bv2eVJ1_Uc5ir9dQCvy6klYsP4dBfo9xiF6fgYXptlurxhzLCOjZNeUBdOiIj5w=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd6XvRvfb9iLyZqdTVZa4DVlqqgCUXmJyOR3tSj3ZX-2tkRVWQinBVSAYW_MYP2C_PPVL5iJ3_Bv2eVJ1_Uc5ir9dQCvy6klYsP4dBfo9xiF6fgYXptlurxhzLCOjZNeUBdOiIj5w=w1000-h750-no",
-    "rating": 4.6,
-    "review_count": 267,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJ4574obJRw0cRgBjygyPmwuU",
-    "name": "Dunya Doner,Türk restaurant Brugge, Halal Restaurant food, Kebab, pitta dünya döner, pitta",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Brugge",
-    "address": "Dunya Doner,Türk restaurant Brugge, Halal Restaurant food, Kebab, pitta dünya döner, pitta, Hendrik Brugmansstraat 4/bus 0001, 8000 Brugge",
-    "street": "Hendrik Brugmansstraat 4/bus 0001",
-    "postal_code": "8000",
-    "region": null,
-    "latitude": 51.1973304,
-    "longitude": 3.2191240999999997,
-    "phone": "0484 67 30 88",
-    "website": "https://www.pittadunya.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Dunya%20Doner%2CT%C3%BCrk%20restaurant%20Brugge%2C%20Halal%20Restaurant%20food%2C%20Kebab%2C%20pitta%20d%C3%BCnya%20d%C3%B6ner%2C%20pitta&query_place_id=ChIJ4574obJRw0cRgBjygyPmwuU",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcVHuRlihWBXQePVVMKMlMim9DYgYnfXYSlVEA6p8Zi0gYgq6lVU4BL42NY74ZypxwN4d5RIywuxHZ0GUyZtzPm1xm2ROk8pV2-DnBzGUXsUvZlANbYRcXYzzJwF0-ijhzhiuoTOQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcVHuRlihWBXQePVVMKMlMim9DYgYnfXYSlVEA6p8Zi0gYgq6lVU4BL42NY74ZypxwN4d5RIywuxHZ0GUyZtzPm1xm2ROk8pV2-DnBzGUXsUvZlANbYRcXYzzJwF0-ijhzhiuoTOQ=w1000-h750-no",
-    "rating": 4.8,
-    "review_count": 580,
-    "verification_status": "VERIFIED",
-    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJ2_OczNFQw0cRCEyy6XdGe5g",
-    "name": "El Churrasco Argentino",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Brugge",
-    "address": "El Churrasco Argentino, Vlamingstraat 76, 8000 Brugge",
-    "street": "Vlamingstraat 76",
-    "postal_code": "8000",
-    "region": null,
-    "latitude": 51.2111303,
-    "longitude": 3.2243527,
-    "phone": "050 34 68 28",
-    "website": "https://www.elchurrascoargentinobrugge.com/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=El%20Churrasco%20Argentino&query_place_id=ChIJ2_OczNFQw0cRCEyy6XdGe5g",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfG9NF-06utiOXCp0-H_-jSJH3x1t6fSQOx4koyH6YiFW-ioQ4uiimKxTzvnKKWFP99gLOKYvdB-GuHJnpuqBL_D4SXFjGzV54aEbFlLV_3_ZfDxH2N9dsA0C731Dn4pIE9B_VpIQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfG9NF-06utiOXCp0-H_-jSJH3x1t6fSQOx4koyH6YiFW-ioQ4uiimKxTzvnKKWFP99gLOKYvdB-GuHJnpuqBL_D4SXFjGzV54aEbFlLV_3_ZfDxH2N9dsA0C731Dn4pIE9B_VpIQ=w1000-h750-no",
-    "rating": 4.4,
-    "review_count": 1581,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJuRKiaz-pxEcRrYadYcZRoaI",
-    "name": "Family trio (Halal)",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Brugge",
-    "address": "Family trio (Halal), Baron de Maerelaan 36, 8380 Bruges",
-    "street": "Baron de Maerelaan 36",
-    "postal_code": "8380",
-    "region": null,
-    "latitude": 51.3283719,
-    "longitude": 3.1838574,
-    "phone": "0484 43 04 93",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Family%20trio%20%28Halal%29&query_place_id=ChIJuRKiaz-pxEcRrYadYcZRoaI",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfGGh1pwTFfj-T5KQ3WQbDsIH6L7W3ncue_csuE7m_7nztk9vnueXrPscWknDNb3o9rg-NKLlZNx1K-PnGPWmrzz_e0QYnLNHpZ8XIW7Te6lLOG0sOVaNCKG90s4iaaoohefdQzP5qkog5Y=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfGGh1pwTFfj-T5KQ3WQbDsIH6L7W3ncue_csuE7m_7nztk9vnueXrPscWknDNb3o9rg-NKLlZNx1K-PnGPWmrzz_e0QYnLNHpZ8XIW7Te6lLOG0sOVaNCKG90s4iaaoohefdQzP5qkog5Y=w1000-h750-no",
-    "rating": 4.5,
-    "review_count": 447,
-    "verification_status": "VERIFIED",
-    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJJTtN47ZRw0cRbhgSd0cXwkc",
-    "name": "Grab And Eat",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Brugge",
-    "address": "Grab And Eat, Hoogstraat 16, 8000 Brugge",
-    "street": "Hoogstraat 16",
-    "postal_code": "8000",
-    "region": null,
-    "latitude": 51.2094968,
-    "longitude": 3.2289803,
-    "phone": "0485 54 05 23",
-    "website": "http://grabandeat.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Grab%20And%20Eat&query_place_id=ChIJJTtN47ZRw0cRbhgSd0cXwkc",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfrZmr-Bsj59FY_3nHXHXfmr9F36PsyYaNu-YRN3SMPJzuDUcLVN6DLrqOam6GTnsdhJE_eJ1RkGXsy5H4GCFC-EivDgfCaeduKHk5DZBJUG-z5u8VUm7lQz9tiObD9qbkh4JC-fpguPYAm=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfrZmr-Bsj59FY_3nHXHXfmr9F36PsyYaNu-YRN3SMPJzuDUcLVN6DLrqOam6GTnsdhJE_eJ1RkGXsy5H4GCFC-EivDgfCaeduKHk5DZBJUG-z5u8VUm7lQz9tiObD9qbkh4JC-fpguPYAm=w1000-h750-no",
-    "rating": 4.5,
-    "review_count": 401,
-    "verification_status": "VERIFIED",
-    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
     "is_active": true,
     "moderation_status": "approved"
   }

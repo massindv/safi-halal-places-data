@@ -1,5 +1,131 @@
 [
   {
+    "place_id": "ChIJ5eIA2WuZwUcRSNSPyiIczIs",
+    "name": "Turkish shop",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Namur",
+    "address": "Turkish shop, Rue Piret-Pauchet 17, 5000 Namur",
+    "street": "Rue Piret-Pauchet 17",
+    "postal_code": "5000",
+    "region": null,
+    "latitude": 50.4708336,
+    "longitude": 4.8651295,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Turkish%20shop&query_place_id=ChIJ5eIA2WuZwUcRSNSPyiIczIs",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "9 am–7 pm"
+      ],
+      "Wednesday": [
+        "9 am–7 pm"
+      ],
+      "Thursday": [
+        "9 am–7 pm"
+      ],
+      "Friday": [
+        "9 am–7 pm"
+      ],
+      "Saturday": [
+        "9 am–7 pm"
+      ],
+      "Sunday": [
+        "9 am–7 pm"
+      ]
+    },
+    "review_count": 23,
+    "rating": 3.9,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0nYjrfMjeN7Scm74D6LU_g&cb_client=search.gws-prod.grass&w=80&h=92&yaw=50.90301&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0nYjrfMjeN7Scm74D6LU_g&cb_client=search.gws-prod.grass&w=80&h=92&yaw=50.90301&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Hypermarket in Namur, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJU1zPIC2ZwUcRXiwFV93ryEo",
+    "name": "Turquoise grill",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Namur",
+    "address": "Turquoise grill, Rue des Brasseurs 7, 5000 Namur",
+    "street": "Rue des Brasseurs 7",
+    "postal_code": "5000",
+    "region": null,
+    "latitude": 50.4622253,
+    "longitude": 4.8671294,
+    "phone": "0467 08 94 91",
+    "website": "https://www.turquoisegrill.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Turquoise%20grill&query_place_id=ChIJU1zPIC2ZwUcRXiwFV93ryEo",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLenWWJA5iC-RoL2Gn9pOdFtUn6MDYmELpsKt4PiJHnfKTIO2tObDhOFd21SIDrcuyDWN9R1a7dgBYLHbFfxUqPgsyXgI33yhWXLT9RLlseo1b55Qw966smy-P2zt1D4WLGhGtnI=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLenWWJA5iC-RoL2Gn9pOdFtUn6MDYmELpsKt4PiJHnfKTIO2tObDhOFd21SIDrcuyDWN9R1a7dgBYLHbFfxUqPgsyXgI33yhWXLT9RLlseo1b55Qw966smy-P2zt1D4WLGhGtnI=w1000-h750-no",
+    "rating": 4.7,
+    "review_count": 187,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJP8kjYXKZwUcREz1i6zM4l2I",
+    "name": "Vitamine",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Namur",
+    "address": "Vitamine, Pl. Maurice Servais n° 1, 5000 Namur",
+    "street": "Pl. Maurice Servais n° 1",
+    "postal_code": "5000",
+    "region": null,
+    "latitude": 50.4625208,
+    "longitude": 4.8654435,
+    "phone": "081 22 70 72",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Vitamine&query_place_id=ChIJP8kjYXKZwUcREz1i6zM4l2I",
+    "open_hours_json": {
+      "Monday": [
+        "9 am–6 pm"
+      ],
+      "Tuesday": [
+        "9 am–6 pm"
+      ],
+      "Wednesday": [
+        "9 am–6 pm"
+      ],
+      "Thursday": [
+        "9 am–6 pm"
+      ],
+      "Friday": [
+        "9 am–6 pm"
+      ],
+      "Saturday": [
+        "9 am–6 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 48,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe7ztif_BCOBEy_txajf8aidKOzxiZlZHqD_yWHoQdAIQbehTUcOWPkOuUg8ElksUKcicnxAZgClF7iALUl3L0FhmRe4qiC3dpKt7b5RlrNxixg10hrCNFFABIbdECJ8nMg0CpHjw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe7ztif_BCOBEy_txajf8aidKOzxiZlZHqD_yWHoQdAIQbehTUcOWPkOuUg8ElksUKcicnxAZgClF7iALUl3L0FhmRe4qiC3dpKt7b5RlrNxixg10hrCNFFABIbdECJ8nMg0CpHjw=w1000-h750-no",
+    "source_query": "Hypermarket in Namur, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJj0U3pXSZwUcRfSSIOal9mx8",
     "name": "Vue sur mer",
     "type": "restaurant",
@@ -8962,8 +9088,8 @@
     "phone": "059 41 11 58",
     "website": "https://tastyfish.be/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Afghan%20Tasty%20fish%20Restaurant&query_place_id=ChIJuUUO2Wyv3EcR5_yPVIVU7PU",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd7T3I4oFVaEAd0PAe4U2ruyY_vVNxsen_7o31sr277eR1ax4C4OAmKFqqpenNSbAJ5lkeengAwih-OMA_GmTx4OXdE9Z_1jUnYaWrQ_d3TB8QUEJAPcijXZWm9wWfyR0a_zpOHxUjFJxo=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd7T3I4oFVaEAd0PAe4U2ruyY_vVNxsen_7o31sr277eR1ax4C4OAmKFqqpenNSbAJ5lkeengAwih-OMA_GmTx4OXdE9Z_1jUnYaWrQ_d3TB8QUEJAPcijXZWm9wWfyR0a_zpOHxUjFJxo=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLchc1Q7gI9gLq7Rfn3DhZ4H9lgtQ1txmCkY1T_IBWCUv_OF_ItLkPlfK0qEV4ys8-FI1yFgAP303FTrMYnq-DCZJT6Wz0tgT_i5uj2h2Lr3A4hDSKd1YYZfGnzt17jfkG4_XKaNZ7wZPps=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLchc1Q7gI9gLq7Rfn3DhZ4H9lgtQ1txmCkY1T_IBWCUv_OF_ItLkPlfK0qEV4ys8-FI1yFgAP303FTrMYnq-DCZJT6Wz0tgT_i5uj2h2Lr3A4hDSKd1YYZfGnzt17jfkG4_XKaNZ7wZPps=w1000-h750-no",
     "rating": 4.4,
     "review_count": 162,
     "verification_status": "UNVERIFIED",
@@ -9014,8 +9140,8 @@
     "phone": null,
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Albanees%20Cultureel%20Centrum%20%28Mosque%20Cami%20Masjid%29%20%F0%9F%95%8C&query_place_id=ChIJ3wO4rS-v3EcR6gyqxXrRUq4",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf6wlhK8CcSSzdroCSEWF8t4JvfN1qXcAAtwz0yQnVxwFJn3JSrUgWCCtgpHEllFjm5KQo-XUOuuTdPCyxcPqtNMV9ow4dn7LLqCSPeg_YCZM16Vh3BDCs1_J_azpKiP5YwTk0=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf6wlhK8CcSSzdroCSEWF8t4JvfN1qXcAAtwz0yQnVxwFJn3JSrUgWCCtgpHEllFjm5KQo-XUOuuTdPCyxcPqtNMV9ow4dn7LLqCSPeg_YCZM16Vh3BDCs1_J_azpKiP5YwTk0=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcAo7mZZjGLZc-JLmMZNTVNj_y0Jg1rsbH452urxdTfifTBiR5JmAYx1gDL4bCcoSCxO7ZjuKtLJdmBLMjtZ7VrYeM9nkAerna-PHheF2EdydhDYMg7_jjERUrCaUUIURR52g4=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcAo7mZZjGLZc-JLmMZNTVNj_y0Jg1rsbH452urxdTfifTBiR5JmAYx1gDL4bCcoSCxO7ZjuKtLJdmBLMjtZ7VrYeM9nkAerna-PHheF2EdydhDYMg7_jjERUrCaUUIURR52g4=w1000-h750-no",
     "rating": 4.5,
     "review_count": 37,
     "verification_status": "UNVERIFIED",
@@ -9098,32 +9224,6 @@
     "review_count": 1910,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJARgzfy6v3EcRS4igHufrk3o",
-    "name": "Beenhouwerij Rayan Halal",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Oostende",
-    "address": "Beenhouwerij Rayan Halal, Torhoutsesteenweg 135, 8400 Oostende",
-    "street": "Torhoutsesteenweg 135",
-    "postal_code": "8400",
-    "region": null,
-    "latitude": 51.2217868,
-    "longitude": 2.9082604,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Beenhouwerij%20Rayan%20Halal&query_place_id=ChIJARgzfy6v3EcRS4igHufrk3o",
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RkBe6fd48OQSJd8VCmXxDQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=315.66638&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RkBe6fd48OQSJd8VCmXxDQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=315.66638&pitch=0&thumbfov=w1000-h750-no",
-    "rating": 3.9,
-    "review_count": 8,
-    "verification_status": "VERIFIED",
-    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
     "is_active": true,
     "moderation_status": "approved"
   },
@@ -9336,32 +9436,6 @@
     "moderation_status": "approved"
   },
   {
-    "place_id": "ChIJ-x7mZSWv3EcRaD_geW2AIWo",
-    "name": "Halal Brahim",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Oostende",
-    "address": "Halal Brahim, Torhoutsesteenweg 278, 8400 Oostende",
-    "street": "Torhoutsesteenweg 278",
-    "postal_code": "8400",
-    "region": null,
-    "latitude": 51.216179399999994,
-    "longitude": 2.9071108999999997,
-    "phone": "059 44 30 09",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Halal%20Brahim&query_place_id=ChIJ-x7mZSWv3EcRaD_geW2AIWo",
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=holsxcd0wrnx9YQuIh0u0A&cb_client=search.gws-prod.grass&w=80&h=92&yaw=96.320206&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=holsxcd0wrnx9YQuIh0u0A&cb_client=search.gws-prod.grass&w=80&h=92&yaw=96.320206&pitch=0&thumbfov=w1000-h750-no",
-    "rating": 4.2,
-    "review_count": 23,
-    "verification_status": "VERIFIED",
-    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
     "place_id": "ChIJmaFoetao3EcRjrFLX7ZhDWQ",
     "name": "Halal Imbiss",
     "type": "restaurant",
@@ -9382,32 +9456,6 @@
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcEu7ypzpHXt9siQMCtWPbkfVKCRt3pAU8-vvqUjmnncpMGvFDUJIhG34UsWlu_fzlgTOh-Dc8GLh3ecOAiIRTPfJpxgBBUwrqX23Ddz0Z6tFCNvKfksl689b5-5EUo9k2PcLYrvQ=w1000-h750-no",
     "rating": 3.3,
     "review_count": 73,
-    "verification_status": "VERIFIED",
-    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJH9rN_j2v3EcRxyHQ8SzGsTQ",
-    "name": "Halal Slagerij De Kraan",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Oostende",
-    "address": "Halal Slagerij De Kraan, Torhoutsesteenweg 283, 8400 Oostende",
-    "street": "Torhoutsesteenweg 283",
-    "postal_code": "8400",
-    "region": null,
-    "latitude": 51.2170054,
-    "longitude": 2.9069469999999997,
-    "phone": "0492 49 45 01",
-    "website": "https://www.mariaslagerij.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Halal%20Slagerij%20De%20Kraan&query_place_id=ChIJH9rN_j2v3EcRxyHQ8SzGsTQ",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLciXqQBjQfSdlOIET9tJMTLXmiISMq6-Gquu-VqBDZEYZmlYVMdvM-pwmk_2JizLVqHifW5JykPI3u_PlmefOr0t46ZESfIuSZBkh3Q59vHICSzxZue2MFw69nSwqbUOGxa97yU56Q6ZtA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLciXqQBjQfSdlOIET9tJMTLXmiISMq6-Gquu-VqBDZEYZmlYVMdvM-pwmk_2JizLVqHifW5JykPI3u_PlmefOr0t46ZESfIuSZBkh3Q59vHICSzxZue2MFw69nSwqbUOGxa97yU56Q6ZtA=w1000-h750-no",
-    "rating": 4.4,
-    "review_count": 35,
     "verification_status": "VERIFIED",
     "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
     "is_active": true,
@@ -9716,8 +9764,8 @@
     "phone": null,
     "website": "https://restaurants.o-tacos.com/belgium/vlaanderen/west-vlaanderen/oostende/otacos-oostende?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=O%27Tacos%20Oostende&query_place_id=ChIJv_6cfOap3EcRsRMmseKV2DI",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfeOX6o5hKWWGnE8HlrKRIuZlx6kPscHPF4Oek_81TDtnx8uOBlI3HXDmnx3KxPfh4RMuyhHDRX3xV3AwClVEgyYULf-JNCcr7gT7-JD0RHPF6Mp2XYocboVNtZEZgHPaJo0VFStKuZVPo=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfeOX6o5hKWWGnE8HlrKRIuZlx6kPscHPF4Oek_81TDtnx8uOBlI3HXDmnx3KxPfh4RMuyhHDRX3xV3AwClVEgyYULf-JNCcr7gT7-JD0RHPF6Mp2XYocboVNtZEZgHPaJo0VFStKuZVPo=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcwVaY9gDIhsaKGtjgh5ouNLm59t7heGQAWlZjIsWbi33PgPTbqvgrycMmP-yw82VlJkVO79yZEmTz68epG-tSrQgIxgL5vq_3cxTApzXO9_MGHQLTa2tDNT_AnxF74TP97Gxty6Y-D-88=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcwVaY9gDIhsaKGtjgh5ouNLm59t7heGQAWlZjIsWbi33PgPTbqvgrycMmP-yw82VlJkVO79yZEmTz68epG-tSrQgIxgL5vq_3cxTApzXO9_MGHQLTa2tDNT_AnxF74TP97Gxty6Y-D-88=w1000-h750-no",
     "rating": 4.2,
     "review_count": 134,
     "verification_status": "VERIFIED",
@@ -9980,84 +10028,6 @@
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcx2yxDRn-47-VOLOv0uwtucOBcjGkkgQbeVi2gPtWhwVonLU6Kd4xaO-xYgtCDvuAm5Z73iak2Ax4pG4yiSFtrxKLpx4Q69xXCOVa-f5Nfufxtxm-IKSaZgvVwbxj7ptQvi2qYIZQrYb4l=w1000-h750-no",
     "rating": 4.6,
     "review_count": 266,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJa4F99R6v3EcRCBXTWl5Z1-Q",
-    "name": "Slagerij Al Firdaws",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Oostende",
-    "address": "Slagerij Al Firdaws, Stuiverstraat 182, 8400 Oostende",
-    "street": "Stuiverstraat 182",
-    "postal_code": "8400",
-    "region": null,
-    "latitude": 51.215623099999995,
-    "longitude": 2.9075770999999997,
-    "phone": "0488 19 31 88",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Slagerij%20Al%20Firdaws&query_place_id=ChIJa4F99R6v3EcRCBXTWl5Z1-Q",
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FcMl7Q-xTodyCt3fq43yIg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=22.126534&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FcMl7Q-xTodyCt3fq43yIg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=22.126534&pitch=0&thumbfov=w1000-h750-no",
-    "rating": 5.0,
-    "review_count": 3,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJF07x-lqv3EcRDczVL9QU948",
-    "name": "Slagerij Badr 🥩",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Oostende",
-    "address": "Slagerij Badr 🥩, Torhoutsesteenweg 256, 8400 Oostende",
-    "street": "Torhoutsesteenweg 256",
-    "postal_code": "8400",
-    "region": null,
-    "latitude": 51.2169179,
-    "longitude": 2.9073766,
-    "phone": "0465 24 51 48",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Slagerij%20Badr%20%F0%9F%A5%A9&query_place_id=ChIJF07x-lqv3EcRDczVL9QU948",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcrHDUjJswQlhzl5US3BwOnfr8zc46Y0BEEcwOuI4zIPStdIPHOzugKuc9OUmufjfpJWbOPdUuqOLmYgwJZM44ZSV9T5sJzD0c8JbnVy7VWeLeYVtfcVqHmauNO-x-El1YtcgLRZbh8vUY=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcrHDUjJswQlhzl5US3BwOnfr8zc46Y0BEEcwOuI4zIPStdIPHOzugKuc9OUmufjfpJWbOPdUuqOLmYgwJZM44ZSV9T5sJzD0c8JbnVy7VWeLeYVtfcVqHmauNO-x-El1YtcgLRZbh8vUY=w1000-h750-no",
-    "rating": 4.9,
-    "review_count": 49,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJn1juhT2v3EcRUQXvB-NgagU",
-    "name": "Toha Slagerij 🥩",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Oostende",
-    "address": "Toha Slagerij 🥩, Torhoutsesteenweg 196, 8400 Oostende",
-    "street": "Torhoutsesteenweg 196",
-    "postal_code": "8400",
-    "region": null,
-    "latitude": 51.2189139,
-    "longitude": 2.9079230999999996,
-    "phone": "0488 25 09 76",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Toha%20Slagerij%20%F0%9F%A5%A9&query_place_id=ChIJn1juhT2v3EcRUQXvB-NgagU",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf7JirrRJricAio7JVzJ2VdB89o-C2jDnKchCZIqNcaxAjYD3QkJ2UnRKuLwNMkXabVR3iHa9uy00oROOjP59OjBDe0s9rhuTAvN0i-bAbGsgg6Q4gdZEtZNxfjmt8xmL5VJLEd=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf7JirrRJricAio7JVzJ2VdB89o-C2jDnKchCZIqNcaxAjYD3QkJ2UnRKuLwNMkXabVR3iHa9uy00oROOjP59OjBDe0s9rhuTAvN0i-bAbGsgg6Q4gdZEtZNxfjmt8xmL5VJLEd=w1000-h750-no",
-    "rating": 4.6,
-    "review_count": 35,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null,
     "is_active": true,
@@ -11029,6 +10999,161 @@
     "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=og0Oh3L-MS4NUuoxKOeMPw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=266.18494&pitch=0&thumbfov=w1000-h750-no",
     "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=og0Oh3L-MS4NUuoxKOeMPw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=266.18494&pitch=0&thumbfov=w1000-h750-no",
     "source_query": "Hypermarket in Ostend, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJqRUiVl6p3EcR_dx1QoQ418Y",
+    "name": "Biovita Oostende",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Ostend",
+    "address": "Biovita Oostende, Van Iseghemlaan 44, 8400 Oostende",
+    "street": "Van Iseghemlaan 44",
+    "postal_code": "8400",
+    "region": null,
+    "latitude": 51.232439,
+    "longitude": 2.9144025,
+    "phone": "059 47 18 00",
+    "website": "http://www.biovita.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Biovita%20Oostende&query_place_id=ChIJqRUiVl6p3EcR_dx1QoQ418Y",
+    "open_hours_json": {
+      "Monday": [
+        "9 am–6:30 pm"
+      ],
+      "Tuesday": [
+        "9 am–6:30 pm"
+      ],
+      "Wednesday": [
+        "9 am–6:30 pm"
+      ],
+      "Thursday": [
+        "9 am–6:30 pm"
+      ],
+      "Friday": [
+        "9 am–6:30 pm"
+      ],
+      "Saturday": [
+        "9 am–6 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 125,
+    "rating": 4.4,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdxwMabXZ3asENT9E-1xfxWud0cffVWZPmNws4We9oqN1nxKxXPQUmEWADhGdCU-hx6QDi26lMZ9zoewhHP4Ca14WUYG4pR7dRhta0EcYsK8H_HazlmgWG1V3V8M4IfmVZnkxLAPw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdxwMabXZ3asENT9E-1xfxWud0cffVWZPmNws4We9oqN1nxKxXPQUmEWADhGdCU-hx6QDi26lMZ9zoewhHP4Ca14WUYG4pR7dRhta0EcYsK8H_HazlmgWG1V3V8M4IfmVZnkxLAPw=w1000-h750-no",
+    "source_query": "Hypermarket in Ostend, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJkV_3sFWp3EcRVoLUJF4ugRk",
+    "name": "Bistro Beethoven - Oostende",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Ostend",
+    "address": "Bistro Beethoven - Oostende, Sint-Petrus-en-Paulusplein 18, 8400 Oostende",
+    "street": "Sint-Petrus-en-Paulusplein 18",
+    "postal_code": "8400",
+    "region": null,
+    "latitude": 51.2298463,
+    "longitude": 2.9232041,
+    "phone": "059 51 46 76",
+    "website": "https://qr.wwwcafe.de/2025/08/12/bistro-beethoven/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bistro%20Beethoven%20-%20Oostende&query_place_id=ChIJkV_3sFWp3EcRVoLUJF4ugRk",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "11 am–9 pm"
+      ],
+      "Thursday": [
+        "11 am–9 pm"
+      ],
+      "Friday": [
+        "11 am–9 pm"
+      ],
+      "Saturday": [
+        "11 am–9 pm"
+      ],
+      "Sunday": [
+        "11 am–9 pm"
+      ]
+    },
+    "review_count": 385,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfYls_AwPox2_tc5BVeVdvI8KOrgDtud1k1KRW-meq8KquWKx_3XvpSIah3RDelZ6TmDn_aGPtdLDImjeKBTy7r2Z807gP-JjVbMUBMH5JZNRK6IgfM6Z5V02SGgcqDCViT_aHk=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfYls_AwPox2_tc5BVeVdvI8KOrgDtud1k1KRW-meq8KquWKx_3XvpSIah3RDelZ6TmDn_aGPtdLDImjeKBTy7r2Z807gP-JjVbMUBMH5JZNRK6IgfM6Z5V02SGgcqDCViT_aHk=w1000-h750-no",
+    "source_query": "Fish restaurant in Ostend, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJA7yFFB6v3EcRXRvds_ho2nM",
+    "name": "Bistro De Lisse",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Ostend",
+    "address": "Bistro De Lisse, Stenedorpstraat 27, 8400 Oostende",
+    "street": "Stenedorpstraat 27",
+    "postal_code": "8400",
+    "region": null,
+    "latitude": 51.201879299999995,
+    "longitude": 2.9142554,
+    "phone": "059 80 08 82",
+    "website": "https://bistrodelisse.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bistro%20De%20Lisse&query_place_id=ChIJA7yFFB6v3EcRXRvds_ho2nM",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "12–2:30 pm",
+        "6–9 pm"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "12–2:30 pm",
+        "6–9 pm"
+      ],
+      "Friday": [
+        "12–2:30 pm",
+        "6–9 pm"
+      ],
+      "Saturday": [
+        "12–2:30 pm",
+        "6–9 pm"
+      ],
+      "Sunday": [
+        "12–2:30 pm",
+        "6–9 pm"
+      ]
+    },
+    "review_count": 157,
+    "rating": 4.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf1pIyQfSMhFE7-eCUcgI-xqaStMN1SEfyk_e7rvyRI8Qfiw9E0CCsBKZV_gUSAL1niOumZ-pLFlKR0XNdkmQeVFfT71M2nJWZH94kqwoIBMLF0KBhksVbtd_82WGi_8xRy358=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf1pIyQfSMhFE7-eCUcgI-xqaStMN1SEfyk_e7rvyRI8Qfiw9E0CCsBKZV_gUSAL1niOumZ-pLFlKR0XNdkmQeVFfT71M2nJWZH94kqwoIBMLF0KBhksVbtd_82WGi_8xRy358=w1000-h750-no",
+    "source_query": "Fish restaurant in Ostend, Flanders, BE",
     "moderation_status": "approved",
     "is_active": true,
     "verification_status": "UNVERIFIED",
