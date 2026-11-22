@@ -70,11 +70,11 @@
     },
     "CH": {
       "name": "Switzerland",
-      "count": 1207,
+      "count": 1213,
       "total_shards": 5,
       "shards_dir": "shards/CH",
       "cities_file": "shards/CH/cities.json",
-      "updated_at": "2026-11-22T19:32:34.083023+00:00"
+      "updated_at": "2026-11-22T21:58:41.412749+00:00"
     },
     "AT": {
       "name": "Austria",
@@ -141,6 +141,6 @@
       "updated_at": "2026-11-22T20:37:11.045873+00:00"
     }
   },
-  "updated_at": "2026-11-22T21:49:09.484747+00:00",
-  "total_places": 36593
+  "updated_at": "2026-11-22T21:58:41.412749+00:00",
+  "total_places": 36599
 }
