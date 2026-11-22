@@ -1,5 +1,135 @@
 [
   {
+    "place_id": "ChIJccj3bcDdw0cRCvauzhcLa_w",
+    "name": "Sakura Sushi",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Zaventem",
+    "address": "Sakura Sushi, Leuvensesteenweg 179, 1932 Zaventem",
+    "street": "Leuvensesteenweg 179",
+    "postal_code": "1932",
+    "region": null,
+    "latitude": 50.867238099999994,
+    "longitude": 4.4466117999999994,
+    "phone": "0480 64 40 04",
+    "website": "https://sakuracm.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Sakura%20Sushi&query_place_id=ChIJccj3bcDdw0cRCvauzhcLa_w",
+    "open_hours_json": {
+      "Monday": [
+        "12–2:30 pm",
+        "6–10 pm"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "6–10 pm"
+      ],
+      "Thursday": [
+        "6–10 pm"
+      ],
+      "Friday": [
+        "12–2:30 pm",
+        "6–10:30 pm"
+      ],
+      "Saturday": [
+        "12–2:30 pm",
+        "6–10 pm"
+      ],
+      "Sunday": [
+        "9 am–5 pm",
+        "6–10 pm"
+      ]
+    },
+    "review_count": 350,
+    "rating": 3.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcK7S8VBePZEguahOT_WCtk7W8NWLIv_aXgAIaTEVA26Fpik1saa7w2C8apMBmxBmyPPrkPg8xZXOQlJYiEzofYeXfFF7sgUhuKrc6BSuuPzBx8AAynr-sDrDi8vJjBbLbD2xzZ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcK7S8VBePZEguahOT_WCtk7W8NWLIv_aXgAIaTEVA26Fpik1saa7w2C8apMBmxBmyPPrkPg8xZXOQlJYiEzofYeXfFF7sgUhuKrc6BSuuPzBx8AAynr-sDrDi8vJjBbLbD2xzZ=w1000-h750-no",
+    "source_query": "Halal restaurant in Sint-Stevens-Woluwe, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJMx7MJ7fdw0cR50bF3eZuuM8",
+    "name": "Shop & Go Zaventem",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Zaventem",
+    "address": "Shop & Go Zaventem, Leuvensesteenweg 524, 1930 Zaventem",
+    "street": "Leuvensesteenweg 524",
+    "postal_code": "1930",
+    "region": null,
+    "latitude": 50.8735341,
+    "longitude": 4.4863924,
+    "phone": "02 644 25 12",
+    "website": "https://stores.delhaize.be/nl/shop-and-go-delhaize-q8-zaventem",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Shop%20%26%20Go%20Zaventem&query_place_id=ChIJMx7MJ7fdw0cR50bF3eZuuM8",
+    "open_hours_json": {
+      "Monday": [
+        "6 am–10 pm"
+      ],
+      "Tuesday": [
+        "6 am–10 pm"
+      ],
+      "Wednesday": [
+        "6 am–10 pm"
+      ],
+      "Thursday": [
+        "6 am–10 pm"
+      ],
+      "Friday": [
+        "6 am–10 pm"
+      ],
+      "Saturday": [
+        "6 am–10 pm"
+      ],
+      "Sunday": [
+        "6 am–10 pm"
+      ]
+    },
+    "review_count": 105,
+    "rating": 4.0,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc0GcacU1bZ1c-bOCyrdPs9Z_B5lK78s6i_M1p2tcjXOMfWdc_QMuFc3WwugYMYyMtMMVEnLk3-T3Ey4NxdofksyescQz-PjDTTWBxJU2DERqbDVomXMhndw1Sd_NYWoo1nEztZ0w=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc0GcacU1bZ1c-bOCyrdPs9Z_B5lK78s6i_M1p2tcjXOMfWdc_QMuFc3WwugYMYyMtMMVEnLk3-T3Ey4NxdofksyescQz-PjDTTWBxJU2DERqbDVomXMhndw1Sd_NYWoo1nEztZ0w=w1000-h750-no",
+    "source_query": "Hypermarket in Sint-Stevens-Woluwe, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJW1-tLsXdw0cR9dPgwn7sge4",
+    "name": "Slagerij Elif Zaventem ( The Halal Butcher & The Helal Kasap )",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Zaventem",
+    "address": "Slagerij Elif Zaventem ( The Halal Butcher & The Helal Kasap ), Heldenplein 15, 1930 Zaventem",
+    "street": "Heldenplein 15",
+    "postal_code": "1930",
+    "region": null,
+    "latitude": 50.8848735,
+    "longitude": 4.4711077,
+    "phone": "0467 87 81 98",
+    "website": "https://www.facebook.com/PureHetVlees",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Slagerij%20Elif%20Zaventem%20%28%20The%20Halal%20Butcher%20%26%20The%20Helal%20Kasap%20%29&query_place_id=ChIJW1-tLsXdw0cR9dPgwn7sge4",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf81bIRmqSOxqf2TPQHqvmW3-Ay3QZi-Ffh1Aou6_fMpuTpdeyZB9wUclhYPcVZfiHv8wMMKn5_zwps_nE0E8KtyXzUcoDguK38iQpRYrWyX0_d0aPafZc-bYf_cJ0L1-byH8It=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf81bIRmqSOxqf2TPQHqvmW3-Ay3QZi-Ffh1Aou6_fMpuTpdeyZB9wUclhYPcVZfiHv8wMMKn5_zwps_nE0E8KtyXzUcoDguK38iQpRYrWyX0_d0aPafZc-bYf_cJ0L1-byH8It=w1000-h750-no",
+    "rating": 4.3,
+    "review_count": 117,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
     "place_id": "ChIJibeTn1Pcw0cRTcdyNYosav0",
     "name": "Snack Bodrum - Zaventem",
     "type": "restaurant",
@@ -407,7 +537,7 @@
     "region": null,
     "latitude": 51.001531799999995,
     "longitude": 4.4876764,
-    "phone": null,
+    "phone": "0477 98 09 76",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Beenhouwerij%20Rif&query_place_id=ChIJO5XDWYbmw0cRjHyOG5jRKY0",
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcdYs_4eMfbhrjBHEo6YA-fzV8JyqctEM-bEj9o-doFZH-ShKmVna9OjSYbZSe5i662iUmlxD4zyNRMc4tz8LTbQshoDu-1xKbApoq82p3DrMNFME0yxCVPsx7_XdvxQxiNTilr=w1000-h750-no",
@@ -494,6 +624,32 @@
     "is_active": true,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJSXOpBO7nw0cRLvAU7zurrfU",
+    "name": "Stichting Ikhlaas",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Zemst",
+    "address": "Stichting Ikhlaas, Tervuursesteenweg 7, 1981 Zemst",
+    "street": "Tervuursesteenweg 7",
+    "postal_code": "1981",
+    "region": null,
+    "latitude": 51.0049262,
+    "longitude": 4.4865119,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Stichting%20Ikhlaas&query_place_id=ChIJSXOpBO7nw0cRLvAU7zurrfU",
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=kD6pLUjVWz07UGH19ddPjQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=77.565765&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=kD6pLUjVWz07UGH19ddPjQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=77.565765&pitch=0&thumbfov=w1000-h750-no",
+    "rating": 4.9,
+    "review_count": 13,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
   },
   {
     "place_id": "ChIJTdDKZbMmwUcRVBWcGpZoLzU",
