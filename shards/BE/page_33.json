@@ -1,5 +1,922 @@
 [
   {
+    "place_id": "ChIJB3nGh93jwEcRWwWx73_MfbU",
+    "name": "Ma Marraine Restaurant",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tongeren-Borgloon",
+    "address": "Ma Marraine Restaurant, Maastrichterstraat 2, 3700 Tongeren-Borgloon",
+    "street": "Maastrichterstraat 2",
+    "postal_code": "3700",
+    "region": null,
+    "latitude": 50.7811884,
+    "longitude": 5.4635073,
+    "phone": "0478 91 45 26",
+    "website": "http://www.mamarraine.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ma%20Marraine%20Restaurant&query_place_id=ChIJB3nGh93jwEcRWwWx73_MfbU",
+    "open_hours_json": {
+      "Monday": [
+        "12–2 pm",
+        "6–9 pm"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "12–2 pm",
+        "6–9 pm"
+      ],
+      "Friday": [
+        "12–2 pm",
+        "6–9 pm"
+      ],
+      "Saturday": [
+        "6–9 pm"
+      ],
+      "Sunday": [
+        "12–2 pm",
+        "6–9 pm"
+      ]
+    },
+    "review_count": 113,
+    "rating": 4.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLefzFh0lVfvy3481Gg87lLnoB0xTxkElA1Jv-iMHmu1g2Pn-VDuquazlnLXcgLX_y_ntf4gTZUXcX3SV2jev4qSqNgdJjuXJzmO061PaLH-rRZr9qzAjlnvAtITQ0BDVXXXLAA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLefzFh0lVfvy3481Gg87lLnoB0xTxkElA1Jv-iMHmu1g2Pn-VDuquazlnLXcgLX_y_ntf4gTZUXcX3SV2jev4qSqNgdJjuXJzmO061PaLH-rRZr9qzAjlnvAtITQ0BDVXXXLAA=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Tongeren, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJv3iCasrjwEcRPqJYGkXI-rA",
+    "name": "Magis",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tongeren-Borgloon",
+    "address": "Magis, Sint-Geertruistraat 14, 3700 Tongeren-Borgloon",
+    "street": "Sint-Geertruistraat 14",
+    "postal_code": "3700",
+    "region": null,
+    "latitude": 50.805465899999994,
+    "longitude": 5.4618011,
+    "phone": "012 74 34 64",
+    "website": "http://www.magisterra.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Magis&query_place_id=ChIJv3iCasrjwEcRPqJYGkXI-rA",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "12–4 pm",
+        "7–11 pm"
+      ],
+      "Thursday": [
+        "12–4 pm",
+        "7–11 pm"
+      ],
+      "Friday": [
+        "12–4 pm",
+        "7–11 pm"
+      ],
+      "Saturday": [
+        "7–11 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 412,
+    "rating": 4.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdfbaOQsInN2WHSQ-mkraBF_jWNKSM1t_FEo85G5I84oTmD_WwDtHUO1voFC0pa43nMErBuYTZx8x_bPzULPHuAt0m4n0ZOU5i0Ee2lFMn3sA7Fgr6g3P1_ydQ1C6-HyEqILX0=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdfbaOQsInN2WHSQ-mkraBF_jWNKSM1t_FEo85G5I84oTmD_WwDtHUO1voFC0pa43nMErBuYTZx8x_bPzULPHuAt0m4n0ZOU5i0Ee2lFMn3sA7Fgr6g3P1_ydQ1C6-HyEqILX0=w1000-h750-no",
+    "source_query": "Halal restaurant in Tongeren, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJKSKzAsTjwEcROybs_pjhAnY",
+    "name": "Moskee Tongeren",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tongeren-Borgloon",
+    "address": "Moskee Tongeren, Elderseweg 31, 3700 Tongeren-Borgloon",
+    "street": "Elderseweg 31",
+    "postal_code": "3700",
+    "region": null,
+    "latitude": 50.7848906,
+    "longitude": 5.4770277,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Tongeren&query_place_id=ChIJKSKzAsTjwEcROybs_pjhAnY",
+    "open_hours_json": {
+      "Monday": [
+        "Open 24 hours"
+      ],
+      "Tuesday": [
+        "Open 24 hours"
+      ],
+      "Wednesday": [
+        "Open 24 hours"
+      ],
+      "Thursday": [
+        "Open 24 hours"
+      ],
+      "Friday": [
+        "Open 24 hours"
+      ],
+      "Saturday": [
+        "Open 24 hours"
+      ],
+      "Sunday": [
+        "Open 24 hours"
+      ]
+    },
+    "review_count": 8,
+    "rating": 4.5,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=U9yK8ebGu42BvpN4wT4Klw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=185.84492&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=U9yK8ebGu42BvpN4wT4Klw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=185.84492&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Mosque in Tongeren, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ-RnpNB8dwUcRHro7ua_HHW4",
+    "name": "Nyde",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tongeren-Borgloon",
+    "address": "Nyde, Tongersesteenweg 30, 3840 Tongeren-Borgloon",
+    "street": "Tongersesteenweg 30",
+    "postal_code": "3840",
+    "region": null,
+    "latitude": 50.801854399999996,
+    "longitude": 5.3506339,
+    "phone": "012 39 32 37",
+    "website": "http://www.nyde.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Nyde&query_place_id=ChIJ-RnpNB8dwUcRHro7ua_HHW4",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "7–7:30 pm"
+      ],
+      "Thursday": [
+        "12–12:45 pm",
+        "7–7:30 pm"
+      ],
+      "Friday": [
+        "12–12:45 pm",
+        "7–7:30 pm"
+      ],
+      "Saturday": [
+        "7–7:30 pm"
+      ],
+      "Sunday": [
+        "12–12:45 pm"
+      ]
+    },
+    "review_count": 212,
+    "rating": 4.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLePaLUmZD10FESq9p13j_ah-HuG9YEtuAiskyHLHkmBuPhDuE4XaMr9S8pbnGUpTIXmnE_kq3fWKK6HAoxpOo-CCSCuJG3CjNGFOdVmBt8urijdsAAAy-Nw2nLXBsXBMTQDi2_I=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLePaLUmZD10FESq9p13j_ah-HuG9YEtuAiskyHLHkmBuPhDuE4XaMr9S8pbnGUpTIXmnE_kq3fWKK6HAoxpOo-CCSCuJG3CjNGFOdVmBt8urijdsAAAy-Nw2nLXBsXBMTQDi2_I=w1000-h750-no",
+    "source_query": "Halal restaurant in Borgloon, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJObR9l9XjwEcR6OZbMFHHYzY",
+    "name": "Osteopath Dirk Meesen",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tongeren-Borgloon",
+    "address": "Osteopath Dirk Meesen, Bilzersteenweg 336, 3700 Tongeren-Borgloon",
+    "street": "Bilzersteenweg 336",
+    "postal_code": "3700",
+    "region": null,
+    "latitude": 50.8001212,
+    "longitude": 5.4653165,
+    "phone": "012 21 61 60",
+    "website": "http://www.dirkmeesen.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Osteopath%20Dirk%20Meesen&query_place_id=ChIJObR9l9XjwEcR6OZbMFHHYzY",
+    "open_hours_json": null,
+    "review_count": 15,
+    "rating": 5.0,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfv7YS0T-V45ICSvEgKwByQEZ42DD-B-JSYsDUkYfn2KKU7DeJcxSicExsI7Pl6y0jeegQqjavgQmrQDMsUnWX9J93osO7xJcOSeQaO9_X_sqZcfKBF-rPXOOrW3Q52rKw92Sforw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfv7YS0T-V45ICSvEgKwByQEZ42DD-B-JSYsDUkYfn2KKU7DeJcxSicExsI7Pl6y0jeegQqjavgQmrQDMsUnWX9J93osO7xJcOSeQaO9_X_sqZcfKBF-rPXOOrW3Q52rKw92Sforw=w1000-h750-no",
+    "source_query": "Pharmacy in Tongeren, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJe9Hl6fjjwEcRzXspk6h99xk",
+    "name": "Pizza Da Mario",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tongeren-Borgloon",
+    "address": "Pizza Da Mario, Grote Markt 27, 3700 Tongeren-Borgloon",
+    "street": "Grote Markt 27",
+    "postal_code": "3700",
+    "region": null,
+    "latitude": 50.780287099999995,
+    "longitude": 5.4631115,
+    "phone": "012 21 93 86",
+    "website": "https://www.facebook.com/pages/category/Restaurant/Da-Mario-325944311445540/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pizza%20Da%20Mario&query_place_id=ChIJe9Hl6fjjwEcRzXspk6h99xk",
+    "open_hours_json": {
+      "Monday": [
+        "5–9:30 pm"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "5–9:30 pm"
+      ],
+      "Thursday": [
+        "12–2 pm",
+        "5–9:30 pm"
+      ],
+      "Friday": [
+        "5–9:30 pm"
+      ],
+      "Saturday": [
+        "5–9:30 pm"
+      ],
+      "Sunday": [
+        "12–2 pm",
+        "5–9:30 pm"
+      ]
+    },
+    "review_count": 129,
+    "rating": 4.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLebf7OniEXTwgb1QV7Ihe4jwNCuY0nEec_HyNb8vVNqK5PpNfBGQU8bkRu4N5zWQrTrfKRevp_HCuKbMH2AhHUm-lhZ9r_yonntpiAB2b0O3p4B6SF5kX-hshZRvG-sNjLvsKIwGw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLebf7OniEXTwgb1QV7Ihe4jwNCuY0nEec_HyNb8vVNqK5PpNfBGQU8bkRu4N5zWQrTrfKRevp_HCuKbMH2AhHUm-lhZ9r_yonntpiAB2b0O3p4B6SF5kX-hshZRvG-sNjLvsKIwGw=w1000-h750-no",
+    "source_query": "Fish restaurant in Tongeren, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ_VXwAtMdwUcRAIbxeS0AV60",
+    "name": "Po Shing",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tongeren-Borgloon",
+    "address": "Po Shing, Tongersesteenweg 161, 3840 Tongeren-Borgloon",
+    "street": "Tongersesteenweg 161",
+    "postal_code": "3840",
+    "region": null,
+    "latitude": 50.7982319,
+    "longitude": 5.3619284,
+    "phone": "012 74 67 86",
+    "website": "https://po-shing-borgloon.p9kjsn28y9.chatgpt.site/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Po%20Shing&query_place_id=ChIJ_VXwAtMdwUcRAIbxeS0AV60",
+    "open_hours_json": {
+      "Monday": [
+        "12–2 pm",
+        "4:30–9:30 pm"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "12–2 pm",
+        "4:30–9:30 pm"
+      ],
+      "Thursday": [
+        "12–2 pm",
+        "4:30–9:30 pm"
+      ],
+      "Friday": [
+        "12–2 pm",
+        "4:30–9:30 pm"
+      ],
+      "Saturday": [
+        "11:30 am–2 pm",
+        "4:30–9:30 pm"
+      ],
+      "Sunday": [
+        "11:30 am–2 pm",
+        "4:30–9:30 pm"
+      ]
+    },
+    "review_count": 166,
+    "rating": 4.4,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfZLJ-USjpYg7JDwRVtJKDSPz8mdTkEa3lYPOpiziAUT5KOe6MjuuaCwGvGw3CFUvkwgkzfW7mS-AObdcCkZlOyI5T3TQ8JTYJfJjr48zvGQFZ9DF2tzLjxvgejDNTpNxkemoE4pxcuTuOw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfZLJ-USjpYg7JDwRVtJKDSPz8mdTkEa3lYPOpiziAUT5KOe6MjuuaCwGvGw3CFUvkwgkzfW7mS-AObdcCkZlOyI5T3TQ8JTYJfJjr48zvGQFZ9DF2tzLjxvgejDNTpNxkemoE4pxcuTuOw=w1000-h750-no",
+    "source_query": "Halal restaurant in Borgloon, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ09NfTDUdwUcRBd-scWt1Kmc",
+    "name": "Restaurant Grevenhuis",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tongeren-Borgloon",
+    "address": "Restaurant Grevenhuis, Markt 5, 3840 Tongeren-Borgloon",
+    "street": "Markt 5",
+    "postal_code": "3840",
+    "region": null,
+    "latitude": 50.8026055,
+    "longitude": 5.3435608,
+    "phone": "012 21 32 40",
+    "website": "http://grevenhuis.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20Grevenhuis&query_place_id=ChIJ09NfTDUdwUcRBd-scWt1Kmc",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "12–1 pm",
+        "6–8 pm"
+      ],
+      "Wednesday": [
+        "12–1 pm",
+        "6–8 pm"
+      ],
+      "Thursday": [
+        "12–1 pm",
+        "6–8 pm"
+      ],
+      "Friday": [
+        "12–1 pm",
+        "6–8 pm"
+      ],
+      "Saturday": [
+        "6–8 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 204,
+    "rating": 4.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdPWJie0fG7DZyz7RatA52ViGRIxedzeOoUz9gB3w4t3UbwrhweNeAznaSftFCkO5N471FwJ_2t5a8PdcGxewApRfQwhoieErxxS0Ls-VTV53477jVpgyzfQ_AB7gOBwV6Ssdpk_g=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdPWJie0fG7DZyz7RatA52ViGRIxedzeOoUz9gB3w4t3UbwrhweNeAznaSftFCkO5N471FwJ_2t5a8PdcGxewApRfQwhoieErxxS0Ls-VTV53477jVpgyzfQ_AB7gOBwV6Ssdpk_g=w1000-h750-no",
+    "source_query": "Halal restaurant in Borgloon, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJk5kc-FPjwEcRA3TWLclQE3o",
+    "name": "Restaurant Hēdonē",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tongeren-Borgloon",
+    "address": "Restaurant Hēdonē, Stationslaan 6, 3700 Tongeren-Borgloon",
+    "street": "Stationslaan 6",
+    "postal_code": "3700",
+    "region": null,
+    "latitude": 50.7834115,
+    "longitude": 5.4709978999999995,
+    "phone": "012 67 10 16",
+    "website": "https://www.restauranthedone.be/nl",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20H%C4%93don%C4%93&query_place_id=ChIJk5kc-FPjwEcRA3TWLclQE3o",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "7–8:30 pm"
+      ],
+      "Wednesday": [
+        "12–2 pm",
+        "7–8:30 pm"
+      ],
+      "Thursday": [
+        "12–2 pm",
+        "7–8:30 pm"
+      ],
+      "Friday": [
+        "12–2 pm",
+        "7–8:30 pm"
+      ],
+      "Saturday": [
+        "7–8:30 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 74,
+    "rating": 4.9,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLejjW9BByJuNocdTf78Br4j1ZTWkfA2GWSotdJF9snbgAnTiTuwbReaoCJE3knw68rqarQC3UkR4vLE8keX2vkfQxWFdDHYYXhUYLQWetqqEhVARpE7ULYGQq6caM2EJO_jzNhl4w=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLejjW9BByJuNocdTf78Br4j1ZTWkfA2GWSotdJF9snbgAnTiTuwbReaoCJE3knw68rqarQC3UkR4vLE8keX2vkfQxWFdDHYYXhUYLQWetqqEhVARpE7ULYGQq6caM2EJO_jzNhl4w=w1000-h750-no",
+    "source_query": "Halal restaurant in Tongeren, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJeT675DniwEcRImJpIXTbNZ8",
+    "name": "Restaurant Konings",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tongeren-Borgloon",
+    "address": "Restaurant Konings, Oude Fonteinweg 49, 3700 Tongeren-Borgloon",
+    "street": "Oude Fonteinweg 49",
+    "postal_code": "3700",
+    "region": null,
+    "latitude": 50.7879049,
+    "longitude": 5.449207899999999,
+    "phone": "012 23 78 67",
+    "website": "https://www.restaurant-konings.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20Konings&query_place_id=ChIJeT675DniwEcRImJpIXTbNZ8",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "12–2 pm",
+        "6–9:30 pm"
+      ],
+      "Wednesday": [
+        "12–2 pm",
+        "6–9:30 pm"
+      ],
+      "Thursday": [
+        "12–2 pm",
+        "6–9:30 pm"
+      ],
+      "Friday": [
+        "12–2 pm",
+        "6–9:30 pm"
+      ],
+      "Saturday": [
+        "6–10 pm"
+      ],
+      "Sunday": [
+        "12–2 pm",
+        "6–9:30 pm"
+      ]
+    },
+    "review_count": 670,
+    "rating": 4.4,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLelRj-2Zbu_GJ4xVfMLRDGjAF4BP0ts99y6iyj0RsExj7_-1tnJ_2x9rooAXToWa9EfcBdF5RTBXd3_jUddwQsQ5VsBMSbp-OTqgWYcQkwccOY6V3IvnZpq0llsWWfgdrUVAaAHYA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLelRj-2Zbu_GJ4xVfMLRDGjAF4BP0ts99y6iyj0RsExj7_-1tnJ_2x9rooAXToWa9EfcBdF5RTBXd3_jUddwQsQ5VsBMSbp-OTqgWYcQkwccOY6V3IvnZpq0llsWWfgdrUVAaAHYA=w1000-h750-no",
+    "source_query": "Fish restaurant in Tongeren, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ71cW2yEcwUcRGgiBL7yolhE",
+    "name": "SPAR Borgloon",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tongeren-Borgloon",
+    "address": "SPAR Borgloon, Graethempoort 50, 3840 Tongeren-Borgloon",
+    "street": "Graethempoort 50",
+    "postal_code": "3840",
+    "region": null,
+    "latitude": 50.803824,
+    "longitude": 5.3357392,
+    "phone": "012 26 13 94",
+    "website": "https://www.spar.be/winkels/spar-borgloon",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=SPAR%20Borgloon&query_place_id=ChIJ71cW2yEcwUcRGgiBL7yolhE",
+    "open_hours_json": {
+      "Monday": [
+        "7:30 am–6:30 pm"
+      ],
+      "Tuesday": [
+        "7:30 am–6:30 pm"
+      ],
+      "Wednesday": [
+        "7:30 am–6:30 pm"
+      ],
+      "Thursday": [
+        "7:30 am–6:30 pm"
+      ],
+      "Friday": [
+        "7:30 am–6:30 pm"
+      ],
+      "Saturday": [
+        "7:30 am–6:30 pm"
+      ],
+      "Sunday": [
+        "7:30 am–3:30 pm"
+      ]
+    },
+    "review_count": 193,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcfHqt-IPS23axI1lJZJ9uuHE6Q3iPPSee39yZLea3tznk5wLZKbHmraSzjqSRTJQWTtczMgEiiDrbkEs0_s8bQ3LYphK9Ho6pWlXdKkj4qWKKSp7nn1Vx-vRDY9lCVm3OK2AeGOA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcfHqt-IPS23axI1lJZJ9uuHE6Q3iPPSee39yZLea3tznk5wLZKbHmraSzjqSRTJQWTtczMgEiiDrbkEs0_s8bQ3LYphK9Ho6pWlXdKkj4qWKKSp7nn1Vx-vRDY9lCVm3OK2AeGOA=w1000-h750-no",
+    "source_query": "Hypermarket in Borgloon, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJf_I5GyYcwUcRCW2OnbtyUKw",
+    "name": "SPAR Express Borgloon",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tongeren-Borgloon",
+    "address": "SPAR Express Borgloon, Tongersestraat 10, 3840 Tongeren-Borgloon",
+    "street": "Tongersestraat 10",
+    "postal_code": "3840",
+    "region": null,
+    "latitude": 50.8020667,
+    "longitude": 5.3469074,
+    "phone": "012 74 14 24",
+    "website": "https://www.spar.be/winkels/spar-express-borgloon",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=SPAR%20Express%20Borgloon&query_place_id=ChIJf_I5GyYcwUcRCW2OnbtyUKw",
+    "open_hours_json": {
+      "Monday": [
+        "8 am–6 pm"
+      ],
+      "Tuesday": [
+        "8 am–6 pm"
+      ],
+      "Wednesday": [
+        "8 am–6 pm"
+      ],
+      "Thursday": [
+        "8 am–6 pm"
+      ],
+      "Friday": [
+        "7 am–6 pm"
+      ],
+      "Saturday": [
+        "7 am–5 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 31,
+    "rating": 4.4,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yueq9aTdLguWMPE6pcS3Vw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=124.4306&pitch=1.1715683&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yueq9aTdLguWMPE6pcS3Vw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=124.4306&pitch=1.1715683&thumbfov=w1000-h750-no",
+    "source_query": "Hypermarket in Borgloon, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJxeQeS7jjwEcRgsZn25faots",
+    "name": "SPAR Express Tongeren",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tongeren-Borgloon",
+    "address": "SPAR Express Tongeren, Wijkstraat 11, 3700 Tongeren-Borgloon",
+    "street": "Wijkstraat 11",
+    "postal_code": "3700",
+    "region": null,
+    "latitude": 50.777581899999994,
+    "longitude": 5.4718065,
+    "phone": "012 23 00 62",
+    "website": "https://www.spar.be/winkels/spar-express-tongeren",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=SPAR%20Express%20Tongeren&query_place_id=ChIJxeQeS7jjwEcRgsZn25faots",
+    "open_hours_json": {
+      "Monday": [
+        "8 am–7 pm"
+      ],
+      "Tuesday": [
+        "8 am–7 pm"
+      ],
+      "Wednesday": [
+        "8 am–7 pm"
+      ],
+      "Thursday": [
+        "8 am–7 pm"
+      ],
+      "Friday": [
+        "8 am–7 pm"
+      ],
+      "Saturday": [
+        "8 am–7 pm"
+      ],
+      "Sunday": [
+        "8 am–7 pm"
+      ]
+    },
+    "review_count": 127,
+    "rating": 4.1,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdYDdyCf9WEr0y3p15gkU2639iMi_Pw19rBuS7uMTzvHueI-Sw0elTQ-OlOlAdLeyfy7OAoG1yKjv9i_GrXuvRKSxCdBzDYjcw5LZ4z2FYy7DSRh1Q6HzqTfxGNBnRdXpfDQKE=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdYDdyCf9WEr0y3p15gkU2639iMi_Pw19rBuS7uMTzvHueI-Sw0elTQ-OlOlAdLeyfy7OAoG1yKjv9i_GrXuvRKSxCdBzDYjcw5LZ4z2FYy7DSRh1Q6HzqTfxGNBnRdXpfDQKE=w1000-h750-no",
+    "source_query": "Hypermarket in Tongeren, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJRdssQEniwEcRDxzN151PVf8",
+    "name": "SPAR Tongeren",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tongeren-Borgloon",
+    "address": "SPAR Tongeren, Rode Kruislaan 54, 3700 Tongeren-Borgloon",
+    "street": "Rode Kruislaan 54",
+    "postal_code": "3700",
+    "region": null,
+    "latitude": 50.7769032,
+    "longitude": 5.4493553,
+    "phone": "012 23 31 49",
+    "website": "http://www.spar.be/nl/shop/spar-tongeren",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=SPAR%20Tongeren&query_place_id=ChIJRdssQEniwEcRDxzN151PVf8",
+    "open_hours_json": {
+      "Monday": [
+        "1–7 pm"
+      ],
+      "Tuesday": [
+        "8 am–7 pm"
+      ],
+      "Wednesday": [
+        "8 am–7 pm"
+      ],
+      "Thursday": [
+        "8 am–7 pm"
+      ],
+      "Friday": [
+        "8 am–7 pm"
+      ],
+      "Saturday": [
+        "8 am–6 pm"
+      ],
+      "Sunday": [
+        "8 am–12:30 pm"
+      ]
+    },
+    "review_count": 294,
+    "rating": 4.4,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLecZjoyESbtG6oH__GQ5YStX3FsnqKxV4VC3dHay6yAyRBq04daxe4jKiRnAGzAR-Cc67ywe9YZ4n3mK2PwozixAOMAmULjtvH-RCBGmrydtvapRbiis7nHaLJvxsBG6f3Cz2a7=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLecZjoyESbtG6oH__GQ5YStX3FsnqKxV4VC3dHay6yAyRBq04daxe4jKiRnAGzAR-Cc67ywe9YZ4n3mK2PwozixAOMAmULjtvH-RCBGmrydtvapRbiis7nHaLJvxsBG6f3Cz2a7=w1000-h750-no",
+    "source_query": "Hypermarket in Tongeren, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJazVhCMrjwEcR8SKl7itHl2E",
+    "name": "Stas De Jong",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tongeren-Borgloon",
+    "address": "Stas De Jong, Grote Markt 29, 3700 Tongeren-Borgloon",
+    "street": "Grote Markt 29",
+    "postal_code": "3700",
+    "region": null,
+    "latitude": 50.7801949,
+    "longitude": 5.4630581,
+    "phone": "012 23 24 98",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Stas%20De%20Jong&query_place_id=ChIJazVhCMrjwEcR8SKl7itHl2E",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "5:30–9 pm"
+      ],
+      "Thursday": [
+        "11:30 am–2 pm",
+        "5:30–9 pm"
+      ],
+      "Friday": [
+        "11:30 am–2 pm",
+        "5:30–9 pm"
+      ],
+      "Saturday": [
+        "11:30 am–2 pm",
+        "5:30–9 pm"
+      ],
+      "Sunday": [
+        "11:30 am–2 pm",
+        "5:30–9 pm"
+      ]
+    },
+    "review_count": 216,
+    "rating": 4.2,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcjk8-lI70mgVxt-20VnRxU0pGNhmZBbwlSvQRljXBECBtZOpHzCXskeuUn1PZ6PCyCQqRs4MFYozTK85ApRta93RFgsPVESy7Ks_y1ustMh01J71Z2098wqg22caOs1PxLpt_5=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcjk8-lI70mgVxt-20VnRxU0pGNhmZBbwlSvQRljXBECBtZOpHzCXskeuUn1PZ6PCyCQqRs4MFYozTK85ApRta93RFgsPVESy7Ks_y1ustMh01J71Z2098wqg22caOs1PxLpt_5=w1000-h750-no",
+    "source_query": "Fish restaurant in Tongeren, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ68THOivjwEcRSDJCEBKEoq8",
+    "name": "Stoemp",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tongeren-Borgloon",
+    "address": "Stoemp, Piepelpoel 9, 3700 Tongeren-Borgloon",
+    "street": "Piepelpoel 9",
+    "postal_code": "3700",
+    "region": null,
+    "latitude": 50.7801014,
+    "longitude": 5.4655996,
+    "phone": "0498 52 36 18",
+    "website": "https://stoemp-tongeren.metro.bar/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Stoemp&query_place_id=ChIJ68THOivjwEcRSDJCEBKEoq8",
+    "open_hours_json": {
+      "Monday": [
+        "3–11 pm"
+      ],
+      "Tuesday": [
+        "11 am–11 pm"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "Closed"
+      ],
+      "Friday": [
+        "3–11 pm"
+      ],
+      "Saturday": [
+        "11 am–11 pm"
+      ],
+      "Sunday": [
+        "11 am–11 pm"
+      ]
+    },
+    "review_count": 194,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeExEDokidx8qWv_Ragll-NOblQAroA2WJGHj-apk6Sso0tPp_CoZPg4sSAjmbNpENkcGJJzb_vAwcvWYPpwe8nbTVD20h4ozLrbZJbwMNjvKBfShdiBVt8gllUnTFyJEmk1Nm5=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeExEDokidx8qWv_Ragll-NOblQAroA2WJGHj-apk6Sso0tPp_CoZPg4sSAjmbNpENkcGJJzb_vAwcvWYPpwe8nbTVD20h4ozLrbZJbwMNjvKBfShdiBVt8gllUnTFyJEmk1Nm5=w1000-h750-no",
+    "source_query": "Halal restaurant in Tongeren, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJZbfRyJ0ewUcRv5C2PUkikfU",
+    "name": "Stroopwinkel",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tongeren-Borgloon",
+    "address": "Stroopwinkel, Stationsplein, 3840 Tongeren-Borgloon",
+    "street": "Stationsplein",
+    "postal_code": "3840",
+    "region": null,
+    "latitude": 50.8105398,
+    "longitude": 5.3445088,
+    "phone": "012 67 36 53",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Stroopwinkel&query_place_id=ChIJZbfRyJ0ewUcRv5C2PUkikfU",
+    "open_hours_json": {
+      "Monday": [
+        "10 am–5 pm"
+      ],
+      "Tuesday": [
+        "10 am–5 pm"
+      ],
+      "Wednesday": [
+        "10 am–5 pm"
+      ],
+      "Thursday": [
+        "10 am–5 pm"
+      ],
+      "Friday": [
+        "10 am–5 pm"
+      ],
+      "Saturday": [
+        "10 am–5 pm"
+      ],
+      "Sunday": [
+        "10 am–5 pm"
+      ]
+    },
+    "review_count": 82,
+    "rating": 4.1,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLftQBiVms752SlP7p3DSMt-F_WPNbeyWzR9z8utrNBwEwj0-CNoInaPcHH67-TkMBAVEbmrW5Ia75wY_DuJb7759dqTKkda-kgxgkfGYGSRcaH6U_QU6rf4ha_GxhNVLX79KLOoCg=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLftQBiVms752SlP7p3DSMt-F_WPNbeyWzR9z8utrNBwEwj0-CNoInaPcHH67-TkMBAVEbmrW5Ia75wY_DuJb7759dqTKkda-kgxgkfGYGSRcaH6U_QU6rf4ha_GxhNVLX79KLOoCg=w1000-h750-no",
+    "source_query": "Hypermarket in Borgloon, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ750R97XjwEcR0ckM2NFrWbk",
+    "name": "Toàn’s",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tongeren-Borgloon",
+    "address": "Toàn’s, Grote Markt 47, 3700 Tongeren-Borgloon",
+    "street": "Grote Markt 47",
+    "postal_code": "3700",
+    "region": null,
+    "latitude": 50.7795906,
+    "longitude": 5.463407,
+    "phone": "0472 67 55 09",
+    "website": "https://toanstongeren.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=To%C3%A0n%E2%80%99s&query_place_id=ChIJ750R97XjwEcR0ckM2NFrWbk",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "12–3 pm",
+        "6–9:30 pm"
+      ],
+      "Wednesday": [
+        "12–3 pm",
+        "6–9:30 pm"
+      ],
+      "Thursday": [
+        "12–3 pm",
+        "6–9:30 pm"
+      ],
+      "Friday": [
+        "12–3 pm",
+        "6–9:30 pm"
+      ],
+      "Saturday": [
+        "12–3 pm",
+        "6–9:30 pm"
+      ],
+      "Sunday": [
+        "12–3 pm",
+        "6–9:30 pm"
+      ]
+    },
+    "review_count": 202,
+    "rating": 4.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc3MRp8DBvqc79NDMx-jPLJGAsPu3qIvPGwrYs4c2_Rf7nUP6Qz7ehAWtrQsRe4eUCqAgYKdjW_n_EjEzQIVyQv5fKceld5dPOU5tZQPkwVN98KWWQpUy_H53mRC3X9pVW9ZT8=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc3MRp8DBvqc79NDMx-jPLJGAsPu3qIvPGwrYs4c2_Rf7nUP6Qz7ehAWtrQsRe4eUCqAgYKdjW_n_EjEzQIVyQv5fKceld5dPOU5tZQPkwVN98KWWQpUy_H53mRC3X9pVW9ZT8=w1000-h750-no",
+    "source_query": "Halal restaurant in Tongeren, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJlS4CrdPjwEcR6Bb-VNNzIM8",
     "name": "Villa Au Soleil",
     "type": "restaurant",
@@ -1169,32 +2086,6 @@
     "verification_evidence": null
   },
   {
-    "place_id": "ChIJo8pVDfvfwkcRJGNOVrlRG6U",
-    "name": "Atelier de la Gourmandise",
-    "type": "bakery",
-    "category": "bakery",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tournai",
-    "address": "Atelier de la Gourmandise, Quai des Vicinaux 24/01, 7500 Tournai",
-    "street": "Quai des Vicinaux 24/01",
-    "postal_code": "7500",
-    "region": null,
-    "latitude": 50.6176372,
-    "longitude": 3.3803297,
-    "phone": "069 84 43 23",
-    "website": "https://mesbonbons.net/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Atelier%20de%20la%20Gourmandise&query_place_id=ChIJo8pVDfvfwkcRJGNOVrlRG6U",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdSTgFQ1OihE2Nl5qB0WCzvUxRVnOQOfjaHBU4BcJm0R2qqVKEV7oysM3wIGcBBgujOad4ogvbzf9ii2wZdqXDgatobpArw7G_bxgsvsOUVisE7vW1qnK82xMfVSqm5pNUsKj8Y=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdSTgFQ1OihE2Nl5qB0WCzvUxRVnOQOfjaHBU4BcJm0R2qqVKEV7oysM3wIGcBBgujOad4ogvbzf9ii2wZdqXDgatobpArw7G_bxgsvsOUVisE7vW1qnK82xMfVSqm5pNUsKj8Y=w1000-h750-no",
-    "rating": 4.6,
-    "review_count": 1386,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
     "place_id": "ChIJr3dDwaTfwkcRm_-qTCsEGB4",
     "name": "Au Coeur Joyeux",
     "type": "restaurant",
@@ -1502,162 +2393,6 @@
     "review_count": 3539,
     "verification_status": "VERIFIED",
     "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJ9cXBA4fhwkcR3niOwOqmFas",
-    "name": "Boucherie \"Au Sanglier\"",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tournai",
-    "address": "Boucherie \"Au Sanglier\", Chau. de Saint-Amand 113, 7500 Tournai",
-    "street": "Chau. de Saint-Amand 113",
-    "postal_code": "7500",
-    "region": null,
-    "latitude": 50.5955212,
-    "longitude": 3.4003543,
-    "phone": "069 22 33 92",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boucherie%20%22Au%20Sanglier%22&query_place_id=ChIJ9cXBA4fhwkcR3niOwOqmFas",
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fuX9tV5s6oEw1YHaw_gR9g&cb_client=search.gws-prod.grass&w=80&h=92&yaw=269.5749&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fuX9tV5s6oEw1YHaw_gR9g&cb_client=search.gws-prod.grass&w=80&h=92&yaw=269.5749&pitch=0&thumbfov=w1000-h750-no",
-    "rating": 4.8,
-    "review_count": 44,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJtRHb9nXgwkcRWMd4sdln_k8",
-    "name": "Boucherie De clercq",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tournai",
-    "address": "Boucherie De clercq, Rue Saint-Martin 16, 7500 Tournai",
-    "street": "Rue Saint-Martin 16",
-    "postal_code": "7500",
-    "region": null,
-    "latitude": 50.6049461,
-    "longitude": 3.387641,
-    "phone": "069 22 43 84",
-    "website": "https://www.boucheriedeclercq.com/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boucherie%20De%20clercq&query_place_id=ChIJtRHb9nXgwkcRWMd4sdln_k8",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdPpli5joOJRCpowRBUcJF7i9sNrYGgYMp7gi_KYg9eC_FScgwsSMoyPlNkNDMCbKEE-K9jG0MR8WkfIxAQxLO5rST5dA459ZIa33zgnsPiYKJ7uevoIPKXQtFlWNluCOXKNYMF=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdPpli5joOJRCpowRBUcJF7i9sNrYGgYMp7gi_KYg9eC_FScgwsSMoyPlNkNDMCbKEE-K9jG0MR8WkfIxAQxLO5rST5dA459ZIa33zgnsPiYKJ7uevoIPKXQtFlWNluCOXKNYMF=w1000-h750-no",
-    "rating": 4.5,
-    "review_count": 39,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJUb7UFAfgwkcRiKI5RGmWrVE",
-    "name": "Boucherie Francois",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tournai",
-    "address": "Boucherie Francois, Rue Albert 48, 7540 Tournai",
-    "street": "Rue Albert 48",
-    "postal_code": "7540",
-    "region": null,
-    "latitude": 50.6234835,
-    "longitude": 3.3909569,
-    "phone": "069 22 52 52",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boucherie%20Francois&query_place_id=ChIJUb7UFAfgwkcRiKI5RGmWrVE",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLewmRCmwY6fo43aSuqonhfmsFa_pDDYmwvHExzunUCK7UwSakfgNMhr7Ydu7o449r34SAVSClIY2A1Zh_s3bSpi5UcnD-c7lUkik1Vo9l5t2LpqBW-z1mXXGkgJBK9vVSM6efMn=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLewmRCmwY6fo43aSuqonhfmsFa_pDDYmwvHExzunUCK7UwSakfgNMhr7Ydu7o449r34SAVSClIY2A1Zh_s3bSpi5UcnD-c7lUkik1Vo9l5t2LpqBW-z1mXXGkgJBK9vVSM6efMn=w1000-h750-no",
-    "rating": 4.7,
-    "review_count": 42,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJaTzA7-LfwkcRMprfsatdrMU",
-    "name": "Boucherie Traiteur Sénéchal - Henri Derasse",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tournai",
-    "address": "Boucherie Traiteur Sénéchal - Henri Derasse, Chau. d'Audenarde 200, 7500 Tournai",
-    "street": "Chau. d'Audenarde 200",
-    "postal_code": "7500",
-    "region": null,
-    "latitude": 50.617992199999996,
-    "longitude": 3.3865034,
-    "phone": "069 22 13 34",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boucherie%20Traiteur%20S%C3%A9n%C3%A9chal%20-%20Henri%20Derasse&query_place_id=ChIJaTzA7-LfwkcRMprfsatdrMU",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeN7mDAaL2j4jhf659PWapgKAgfZefiKnDPxhn4YSZnXIGCH4cBah9EmckLwB0nn8b2a6eIa6Q_ioACD5Sy-uTJRx_H2CDqL_cFr0mz26Dq8PZeeeEbLTGVa7CjGbtOd-f_B1wDUBzEXPq0=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeN7mDAaL2j4jhf659PWapgKAgfZefiKnDPxhn4YSZnXIGCH4cBah9EmckLwB0nn8b2a6eIa6Q_ioACD5Sy-uTJRx_H2CDqL_cFr0mz26Dq8PZeeeEbLTGVa7CjGbtOd-f_B1wDUBzEXPq0=w1000-h750-no",
-    "rating": 4.5,
-    "review_count": 57,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJ1y5FRDrhwkcRE1pqUoLdHj0",
-    "name": "Boucherie du Centre",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tournai",
-    "address": "Boucherie du Centre, Rue des Puits-L'Eau basse 21, 7500 Tournai",
-    "street": "Rue des Puits-L'Eau basse 21",
-    "postal_code": "7500",
-    "region": null,
-    "latitude": 50.6061738,
-    "longitude": 3.391968,
-    "phone": "0471 85 34 42",
-    "website": "https://www.instagram.com/boucherie_du_centre_7500",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boucherie%20du%20Centre&query_place_id=ChIJ1y5FRDrhwkcRE1pqUoLdHj0",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd7-GNjfqfKB8OJZaXsn1FoCq15HbedxI8Lzd4FJlCeUFJm238jXKFO7GFuVhN_ks55rFmSOiQWHROtlMPs--DP0U6V-Ow0gYjW4TlEUK0cGGxrKJeoEv4ggnEU50jg4FTMY_KCcuefey8s=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd7-GNjfqfKB8OJZaXsn1FoCq15HbedxI8Lzd4FJlCeUFJm238jXKFO7GFuVhN_ks55rFmSOiQWHROtlMPs--DP0U6V-Ow0gYjW4TlEUK0cGGxrKJeoEv4ggnEU50jg4FTMY_KCcuefey8s=w1000-h750-no",
-    "rating": 4.6,
-    "review_count": 10,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJnY6fngzgwkcRTh7e80Eqz5E",
-    "name": "Boucherie-charcuterie Jean",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tournai",
-    "address": "Boucherie-charcuterie Jean, Rue Royale 68/B, 7500 Tournai",
-    "street": "Rue Royale 68/B",
-    "postal_code": "7500",
-    "region": null,
-    "latitude": 50.6110957,
-    "longitude": 3.3943106999999997,
-    "phone": "069 22 26 64",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boucherie-charcuterie%20Jean&query_place_id=ChIJnY6fngzgwkcRTh7e80Eqz5E",
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Xzc9vqozFYzLdAHXGTnEUA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=253.7229&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Xzc9vqozFYzLdAHXGTnEUA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=253.7229&pitch=0&thumbfov=w1000-h750-no",
-    "rating": 3.9,
-    "review_count": 21,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
     "is_active": true,
     "moderation_status": "approved"
   },
@@ -2437,26 +3172,26 @@
     "verification_evidence": null
   },
   {
-    "place_id": "ChIJnwQLwZriwkcR640WSGS8g5s",
-    "name": "Delhaye / Christophe",
-    "type": "butcher",
-    "category": "butcher",
+    "place_id": "ChIJxTC153TgwkcRjiecC9GaMuc",
+    "name": "D'olive et de menthe/Katty",
+    "type": "restaurant",
+    "category": "restaurant",
     "country": "BE",
     "country_code": "BE",
     "city": "Tournai",
-    "address": "Delhaye / Christophe, Rue de l'Église Saint-Thomas 10, 7534 Tournai",
-    "street": "Rue de l'Église Saint-Thomas 10",
-    "postal_code": "7534",
+    "address": "D'olive et de menthe/Katty, Quai du Marché au Poisson 5, 7500 Tournai",
+    "street": "Quai du Marché au Poisson 5",
+    "postal_code": "7500",
     "region": null,
-    "latitude": 50.616758499999996,
-    "longitude": 3.5491496999999996,
-    "phone": "069 54 62 93",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Delhaye%20%2F%20Christophe&query_place_id=ChIJnwQLwZriwkcR640WSGS8g5s",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfQm50TQ3-LKypahFAmaQ2r65vpA59IMAqGH1l8LHgdumTEixg2x8kHZF5BoNdHXcXJQrk6YZnYoNjeT5eweTxFLXoRFUefxS86lp66p8tTNYJWeA07_GW5guYUlVOGsrlD47Tzzg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfQm50TQ3-LKypahFAmaQ2r65vpA59IMAqGH1l8LHgdumTEixg2x8kHZF5BoNdHXcXJQrk6YZnYoNjeT5eweTxFLXoRFUefxS86lp66p8tTNYJWeA07_GW5guYUlVOGsrlD47Tzzg=w1000-h750-no",
-    "rating": 5.0,
-    "review_count": 25,
+    "latitude": 50.607940299999996,
+    "longitude": 3.3910518,
+    "phone": "0497 45 14 45",
+    "website": "https://www.facebook.com/p/Un-th%C3%A9-sous-le-figuier-concept-RestoD%C3%A9co-100057595474086/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=D%27olive%20et%20de%20menthe%2FKatty&query_place_id=ChIJxTC153TgwkcRjiecC9GaMuc",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcL06D6-KJdMPYrFb9vwQ5ZjYsTP_WJdmptfAufhe4K8HtoYTZfcdF_nfxjJgEsok7dV8IwjgklZGbgSZO4eyJ8_6W9l2nAzlcMM51avHcGbhZ7cEIGdi56aL0RasujCvX8zVZvPA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcL06D6-KJdMPYrFb9vwQ5ZjYsTP_WJdmptfAufhe4K8HtoYTZfcdF_nfxjJgEsok7dV8IwjgklZGbgSZO4eyJ8_6W9l2nAzlcMM51avHcGbhZ7cEIGdi56aL0RasujCvX8zVZvPA=w1000-h750-no",
+    "rating": 4.6,
+    "review_count": 239,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null,
     "is_active": true,
@@ -3006,32 +3741,6 @@
     "verification_evidence": null
   },
   {
-    "place_id": "ChIJ5VaGt3TfwkcRFKXgdSPeVVg",
-    "name": "Europa Cuisson",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tournai",
-    "address": "Europa Cuisson, Rue de la Terre A Briques 14, 7522 Tournai",
-    "street": "Rue de la Terre A Briques 14",
-    "postal_code": "7522",
-    "region": null,
-    "latitude": 50.610324899999995,
-    "longitude": 3.3340541,
-    "phone": "069 76 50 50",
-    "website": "http://www.europacuisson.com/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Europa%20Cuisson&query_place_id=ChIJ5VaGt3TfwkcRFKXgdSPeVVg",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfwnWvg6L1Omyt0ZCf1cHzP8JRNCQb4Qny9rOmfw5-JTC0eY3MGXJZfDUKt7QGK8z9BYYAo73eed5oOCnQybbQaqMlgVkRkoupAbXINwYH3p2QBWspyt-xfkruQsyDIh2PF69ud=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfwnWvg6L1Omyt0ZCf1cHzP8JRNCQb4Qny9rOmfw5-JTC0eY3MGXJZfDUKt7QGK8z9BYYAo73eed5oOCnQybbQaqMlgVkRkoupAbXINwYH3p2QBWspyt-xfkruQsyDIh2PF69ud=w1000-h750-no",
-    "rating": 4.0,
-    "review_count": 145,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
     "place_id": "ChIJY9IRThLgwkcRRS3Md-vsIk0",
     "name": "Fauconnier M",
     "type": "hypermarket",
@@ -3396,32 +4105,6 @@
     "is_active": true,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJzWZcHd_fwkcRrWBzV-SygGQ",
-    "name": "Hempte / Michel",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tournai",
-    "address": "Hempte / Michel, Rue des Maux 17, 7500 Tournai",
-    "street": "Rue des Maux 17",
-    "postal_code": "7500",
-    "region": null,
-    "latitude": 50.6063183,
-    "longitude": 3.3843177,
-    "phone": "069 22 48 19",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Hempte%20%2F%20Michel&query_place_id=ChIJzWZcHd_fwkcRrWBzV-SygGQ",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeao_Sr87eH8l4wER1J2ED-xxm9dmCR9SoJfk3EiB4aPZvTGEAThCz1bHOCJs8G1cOqU-a-WrXIUmYy1anc9nYM9jRIFmBFq22RZ6EjfGNpFO5gOAy-HA4Ndk9oaTnR22bzPPmg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeao_Sr87eH8l4wER1J2ED-xxm9dmCR9SoJfk3EiB4aPZvTGEAThCz1bHOCJs8G1cOqU-a-WrXIUmYy1anc9nYM9jRIFmBFq22RZ6EjfGNpFO5gOAy-HA4Ndk9oaTnR22bzPPmg=w1000-h750-no",
-    "rating": 4.8,
-    "review_count": 32,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
   },
   {
     "place_id": "ChIJl3XHaNjfwkcRtoOgsjMJBOs",
@@ -3904,32 +4587,6 @@
     "is_active": true,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJu4RbE3TgwkcRmPEgwPb2Ufk",
-    "name": "La Boucherie De Tournai",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tournai",
-    "address": "La Boucherie De Tournai, Rue des Clairisses 14/3, 7500 Tournai",
-    "street": "Rue des Clairisses 14/3",
-    "postal_code": "7500",
-    "region": null,
-    "latitude": 50.6054068,
-    "longitude": 3.3922463,
-    "phone": "069 35 13 20",
-    "website": "http://www.hainaut-terredegouts.be/producteur/boucherie-de-tournai/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Boucherie%20De%20Tournai&query_place_id=ChIJu4RbE3TgwkcRmPEgwPb2Ufk",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfEkJTBbZ46kVl0pDiMlLOKFstniQrVQYpz2wGtL3iVnwWFHaOIIDhuYTo7bTOW55CRs7SIvoV1lg61IKJlDDustMnfJnNUVAMwb7DUiQkURz0D5ZcuOoawrARMK5zyd3JDmxsL=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfEkJTBbZ46kVl0pDiMlLOKFstniQrVQYpz2wGtL3iVnwWFHaOIIDhuYTo7bTOW55CRs7SIvoV1lg61IKJlDDustMnfJnNUVAMwb7DUiQkURz0D5ZcuOoawrARMK5zyd3JDmxsL=w1000-h750-no",
-    "rating": 4.8,
-    "review_count": 189,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
   },
   {
     "place_id": "ChIJvfq49nXgwkcR7-h2ClA2Oy0",
@@ -5465,110 +6122,6 @@
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcn922P7oTOYD8UsEEb52tegKh_goa-gTvy39P4tAykXNlXHofs0MN01yQs6AFpqF5mczajwqI2IezhaVwDTK5xhjrwJQC03i8o6WkOAV9ipOyr-frGdREQlZk532S6MbMvMBcZLA=w1000-h750-no",
     "rating": 4.1,
     "review_count": 25,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJP-ZFJLTewkcR9RjqSl0AeEM",
-    "name": "Momentum",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tournai",
-    "address": "Momentum, Rue Bruenne 35, 7502 Tournai",
-    "street": "Rue Bruenne 35",
-    "postal_code": "7502",
-    "region": null,
-    "latitude": 50.5672923,
-    "longitude": 3.291104,
-    "phone": "050 62 55 60",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Momentum&query_place_id=ChIJP-ZFJLTewkcR9RjqSl0AeEM",
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TsG2JXptKBpxrAXC4nbnvQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=135.7578&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TsG2JXptKBpxrAXC4nbnvQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=135.7578&pitch=0&thumbfov=w1000-h750-no",
-    "rating": null,
-    "review_count": 0,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJe7uwvXHgwkcRx6ebTd4Lbt8",
-    "name": "Moskee van Doornik",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tournai",
-    "address": "Moskee van Doornik, Rue des Récollets 27, 7500 Tournai",
-    "street": "Rue des Récollets 27",
-    "postal_code": "7500",
-    "region": null,
-    "latitude": 50.602601199999995,
-    "longitude": 3.3970509,
-    "phone": "0474 47 67 18",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20van%20Doornik&query_place_id=ChIJe7uwvXHgwkcRx6ebTd4Lbt8",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcYHDcfOWF7WrR-K-h-sf51ydSyUiuXQjE8aXJh0C8cqVt9R2t0YP1_ycq4z7p25PVHe0gEK_As7uz2wBpCYg9J2vSUN9aH8DM1LhRXesuQGv-WkpkfIT0X0Wmgup_0RnCNUoILceTBdNY=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcYHDcfOWF7WrR-K-h-sf51ydSyUiuXQjE8aXJh0C8cqVt9R2t0YP1_ycq4z7p25PVHe0gEK_As7uz2wBpCYg9J2vSUN9aH8DM1LhRXesuQGv-WkpkfIT0X0Wmgup_0RnCNUoILceTBdNY=w1000-h750-no",
-    "rating": 4.6,
-    "review_count": 45,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJe7uwvXHgwkcRLAELRPPBJzc",
-    "name": "Mosquée Abou Bakr",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tournai",
-    "address": "Mosquée Abou Bakr, Rue des Récollets 27, 7500 Tournai",
-    "street": "Rue des Récollets 27",
-    "postal_code": "7500",
-    "region": null,
-    "latitude": 50.6026034,
-    "longitude": 3.3970575,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mosqu%C3%A9e%20Abou%20Bakr&query_place_id=ChIJe7uwvXHgwkcRLAELRPPBJzc",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeoyNdd3-RWOGSf1N2CRO-dJYF_ZstHJ48Hl5uUuDodT44XwdcDJV5OfJR6bLVtu7311HekWFXadoElTj93CaT75QgVDp5vAyrQi0LCg_oYXvGWQwIQkcLZab2OkyEIikLhhzkY=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeoyNdd3-RWOGSf1N2CRO-dJYF_ZstHJ48Hl5uUuDodT44XwdcDJV5OfJR6bLVtu7311HekWFXadoElTj93CaT75QgVDp5vAyrQi0LCg_oYXvGWQwIQkcLZab2OkyEIikLhhzkY=w1000-h750-no",
-    "rating": 4.9,
-    "review_count": 23,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJkSBp_4XhwkcR_PeECYRaKkE",
-    "name": "Mosquée de Tournai El Mouwahidines",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tournai",
-    "address": "Mosquée de Tournai El Mouwahidines, Rue de Saint-Maur 13, 7500 Tournai",
-    "street": "Rue de Saint-Maur 13",
-    "postal_code": "7500",
-    "region": null,
-    "latitude": 50.5926356,
-    "longitude": 3.3989578999999996,
-    "phone": "0498 43 42 10",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mosqu%C3%A9e%20de%20Tournai%20El%20Mouwahidines&query_place_id=ChIJkSBp_4XhwkcR_PeECYRaKkE",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfPIHzaoPds_l4YRrRfzMq5LCGwZUQ-9ok7yWdIHbzS0qnHLr0oTg69DwGV_P_zfmk_1DfyrOagIOsMlcUDVHI2jCNdSyhSgqi1vdmYmr1hvRQUzbjbXO-SRCz-d16Lha6GDjXH=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfPIHzaoPds_l4YRrRfzMq5LCGwZUQ-9ok7yWdIHbzS0qnHLr0oTg69DwGV_P_zfmk_1DfyrOagIOsMlcUDVHI2jCNdSyhSgqi1vdmYmr1hvRQUzbjbXO-SRCz-d16Lha6GDjXH=w1000-h750-no",
-    "rating": 5.0,
-    "review_count": 11,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null,
     "is_active": true,
@@ -7844,56 +8397,6 @@
     "rating": 4.4,
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe5Xh7GMVoVwEC73E2oEzJ4TqmDovpEJ_I5lmp5lMr5xNmtT7ZGlGJSBaz6iRLvtQtKT3osN149gkcnjUgoiadbOMhXxCBlg7h_2kt9X9EMc6n90ucLTyTdcdwKVWkBeV_iyQwT=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe5Xh7GMVoVwEC73E2oEzJ4TqmDovpEJ_I5lmp5lMr5xNmtT7ZGlGJSBaz6iRLvtQtKT3osN149gkcnjUgoiadbOMhXxCBlg7h_2kt9X9EMc6n90ucLTyTdcdwKVWkBeV_iyQwT=w1000-h750-no",
-    "source_query": "Halal restaurant in Tournai, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJxTC153TgwkcRjiecC9GaMuc",
-    "name": "Un thé sous le Figuier",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tournai",
-    "address": "Un thé sous le Figuier, Quai du Marché au Poisson 5, 7500 Tournai",
-    "street": "Quai du Marché au Poisson 5",
-    "postal_code": "7500",
-    "region": null,
-    "latitude": 50.607940299999996,
-    "longitude": 3.3910518,
-    "phone": "0497 45 14 45",
-    "website": "https://www.facebook.com/p/Un-th%C3%A9-sous-le-figuier-concept-RestoD%C3%A9co-100057595474086/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Un%20th%C3%A9%20sous%20le%20Figuier&query_place_id=ChIJxTC153TgwkcRjiecC9GaMuc",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "7–11 pm"
-      ],
-      "Wednesday": [
-        "7–11 pm"
-      ],
-      "Thursday": [
-        "7–11 pm"
-      ],
-      "Friday": [
-        "7–11 pm"
-      ],
-      "Saturday": [
-        "7–11 pm"
-      ],
-      "Sunday": [
-        "12–3 pm"
-      ]
-    },
-    "review_count": 239,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLectyazvUzZHkXPWsTM8vBIUDPqJAt3P-QUr263soYDKgwELORJFiCnV5VQEBYdzhraSqw8IOpZpnuMC1p9w5_qmaCjPgWjSa092uj8PQ2925a-5boxGJ99jx5yke4mlanSq9Lwrw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLectyazvUzZHkXPWsTM8vBIUDPqJAt3P-QUr263soYDKgwELORJFiCnV5VQEBYdzhraSqw8IOpZpnuMC1p9w5_qmaCjPgWjSa092uj8PQ2925a-5boxGJ99jx5yke4mlanSq9Lwrw=w1000-h750-no",
     "source_query": "Halal restaurant in Tournai, Wallonia, BE",
     "moderation_status": "approved",
     "is_active": true,
@@ -10796,156 +11299,6 @@
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdG8_1Q_Os1lYbdmQJ1zvmHVLBGU7sYqDXNM7WnNXkDUMGNbVBgx9sJxaKxwx80DM9w3gWmufBVGEsJGULBcRauuwOao5HWov9hrIbJq3p7Pi_bqqP4Atz2FZ1RNxCq-oaS4IVvuAljuXQo=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdG8_1Q_Os1lYbdmQJ1zvmHVLBGU7sYqDXNM7WnNXkDUMGNbVBgx9sJxaKxwx80DM9w3gWmufBVGEsJGULBcRauuwOao5HWov9hrIbJq3p7Pi_bqqP4Atz2FZ1RNxCq-oaS4IVvuAljuXQo=w1000-h750-no",
     "source_query": "Halal restaurant in Turnhout, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ6cleL82zxkcRjcemh5VxvPY",
-    "name": "Eethuis Istanbul",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Turnhout",
-    "address": "Eethuis Istanbul, Rubensstraat 158, 2300 Turnhout",
-    "street": "Rubensstraat 158",
-    "postal_code": "2300",
-    "region": null,
-    "latitude": 51.3141282,
-    "longitude": 4.9437077,
-    "phone": "014 71 76 74",
-    "website": "http://istanbul-eethuis-turnhout.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Eethuis%20Istanbul&query_place_id=ChIJ6cleL82zxkcRjcemh5VxvPY",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "11 am–10:30 pm"
-      ],
-      "Wednesday": [
-        "11 am–10:30 pm"
-      ],
-      "Thursday": [
-        "11 am–10:30 pm"
-      ],
-      "Friday": [
-        "11 am–10:30 pm"
-      ],
-      "Saturday": [
-        "11 am–10:30 pm"
-      ],
-      "Sunday": [
-        "11 am–10:30 pm"
-      ]
-    },
-    "review_count": 584,
-    "rating": 4.2,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcdgZfS5Qs5Nv8F_1oGnrhTsUeEG_hAxeHgn2vn-P3sv8SAtW-wjR2n_-GPT5cmj83VBH9oaeEnOIpNA7J0z2W6NmMVpXaLRLAe8QcbArzkdXmzmycIdFY-gl6A5Aq84BgQqFSJ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcdgZfS5Qs5Nv8F_1oGnrhTsUeEG_hAxeHgn2vn-P3sv8SAtW-wjR2n_-GPT5cmj83VBH9oaeEnOIpNA7J0z2W6NmMVpXaLRLAe8QcbArzkdXmzmycIdFY-gl6A5Aq84BgQqFSJ=w1000-h750-no",
-    "source_query": "Halal restaurant in Turnhout, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJETf97UizxkcR6QF7WT3xKaQ",
-    "name": "Eethuis Turnhout",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Turnhout",
-    "address": "Eethuis Turnhout, Herentalsstraat 80، 2300 Turnhout",
-    "street": "Herentalsstraat 80",
-    "postal_code": "2300",
-    "region": null,
-    "latitude": 51.319331999999996,
-    "longitude": 4.949775,
-    "phone": "014 43 61 80",
-    "website": "http://turnhout-eethuis.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Eethuis%20Turnhout&query_place_id=ChIJETf97UizxkcR6QF7WT3xKaQ",
-    "open_hours_json": {
-      "Monday": [
-        "11 am–11 pm"
-      ],
-      "Tuesday": [
-        "11 am–11 pm"
-      ],
-      "Wednesday": [
-        "11 am–11 pm"
-      ],
-      "Thursday": [
-        "11 am–11 pm"
-      ],
-      "Friday": [
-        "11 am–12 am"
-      ],
-      "Saturday": [
-        "11 am–12 am"
-      ],
-      "Sunday": [
-        "12–10 pm"
-      ]
-    },
-    "review_count": 157,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcjxEawrHuzG5lawqaGrSlGcn5AfKy3uLyvwL9aHgOwSpBT_i2_vd7Sicsl_6p0CyhY_lFr-dHU6CMfaLFDJvTrQnHNMT9TBqvxKSm2CrEbyb7u8eBdFtUn2bIjFeSxdn51L_o=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcjxEawrHuzG5lawqaGrSlGcn5AfKy3uLyvwL9aHgOwSpBT_i2_vd7Sicsl_6p0CyhY_lFr-dHU6CMfaLFDJvTrQnHNMT9TBqvxKSm2CrEbyb7u8eBdFtUn2bIjFeSxdn51L_o=w1000-h750-no",
-    "source_query": "Halal restaurant in Turnhout, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJBR0qoV-zxkcRK4vXfdIIi14",
-    "name": "Est-Traditional Bvba",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Turnhout",
-    "address": "Est-Traditional Bvba, De Merodelei 71, 2300 Turnhout",
-    "street": "De Merodelei 71",
-    "postal_code": "2300",
-    "region": null,
-    "latitude": 51.3217863,
-    "longitude": 4.9390855,
-    "phone": "0484 12 14 89",
-    "website": "http://www.esttraditional.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Est-Traditional%20Bvba&query_place_id=ChIJBR0qoV-zxkcRK4vXfdIIi14",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "1–7 pm"
-      ],
-      "Wednesday": [
-        "1–7 pm"
-      ],
-      "Thursday": [
-        "1–7 pm"
-      ],
-      "Friday": [
-        "1–7 pm"
-      ],
-      "Saturday": [
-        "10 am–7 pm"
-      ],
-      "Sunday": [
-        "10 am–5 pm"
-      ]
-    },
-    "review_count": 61,
-    "rating": 4.4,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdBBmRWfRtn5vFxQ65mkGo37XvMerQ1yXLAYdKhixxlM7hOsIe2uGVMzvx-iWDFNjNIdTjt1VPoMDdVOzXwkxdlMFNzDZzsHuNhmBeu9pKYp6lnqacNk8IU2WWKoBf9m9_wMQCb=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdBBmRWfRtn5vFxQ65mkGo37XvMerQ1yXLAYdKhixxlM7hOsIe2uGVMzvx-iWDFNjNIdTjt1VPoMDdVOzXwkxdlMFNzDZzsHuNhmBeu9pKYp6lnqacNk8IU2WWKoBf9m9_wMQCb=w1000-h750-no",
-    "source_query": "Hypermarket in Turnhout, Flanders, BE",
     "moderation_status": "approved",
     "is_active": true,
     "verification_status": "UNVERIFIED",
