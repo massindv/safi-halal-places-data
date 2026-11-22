@@ -1,5 +1,58 @@
 [
   {
+    "place_id": "ChIJ6djtiNWzxkcRaM7pF3C8kHs",
+    "name": "Amu",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Turnhout",
+    "address": "Amu, Patersstraat 79, 2300 Turnhout",
+    "street": "Patersstraat 79",
+    "postal_code": "2300",
+    "region": null,
+    "latitude": 51.3263873,
+    "longitude": 4.9493621,
+    "phone": "014 41 24 89",
+    "website": "http://www.amu-turnhout.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Amu&query_place_id=ChIJ6djtiNWzxkcRaM7pF3C8kHs",
+    "open_hours_json": {
+      "Monday": [
+        "12–3:30 pm",
+        "6 pm–12 am"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "6 pm–12 am"
+      ],
+      "Friday": [
+        "12–3:30 pm",
+        "6 pm–12 am"
+      ],
+      "Saturday": [
+        "6 pm–1 am"
+      ],
+      "Sunday": [
+        "12–3:30 pm",
+        "5:30–11 pm"
+      ]
+    },
+    "review_count": 257,
+    "rating": 4.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeJl_uOBNFTXnt6GzJ3CUlt5-oLjwT6SHJWcgNr_hwasPIvtBuu1-Ec9N68wtlccPGyF_OdVpxBM-_c-EkQ0FSpznbQpS-5QZmwUb6LLO8pyCmAIaqh7ifKSXqfQOEzVRdZcx8W=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeJl_uOBNFTXnt6GzJ3CUlt5-oLjwT6SHJWcgNr_hwasPIvtBuu1-Ec9N68wtlccPGyF_OdVpxBM-_c-EkQ0FSpznbQpS-5QZmwUb6LLO8pyCmAIaqh7ifKSXqfQOEzVRdZcx8W=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Turnhout, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJ8bWjtdWzxkcRoCfLOfccEeg",
     "name": "Argentijns grillrestaurant Argentino",
     "type": "restaurant",
@@ -3623,10 +3676,10 @@
     "phone": "0479 38 44 11",
     "website": "https://www.sawa-resto.com/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Sawa%20resto&query_place_id=ChIJyxiN6KTFw0cR3D1Un5yBeOE",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcGMweXDKvQ94ksw59ab9HyJEa2cb26V8zqI9Dd2v7jSsVq0lAY9_70NuqH5Gk7h09vF6K83s9OlSvK8cyJLd-TAnpVn3JhlKC5quZXpFcQYsp_gI00zJSyE0t5FBMhdXGBpi8m=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcGMweXDKvQ94ksw59ab9HyJEa2cb26V8zqI9Dd2v7jSsVq0lAY9_70NuqH5Gk7h09vF6K83s9OlSvK8cyJLd-TAnpVn3JhlKC5quZXpFcQYsp_gI00zJSyE0t5FBMhdXGBpi8m=w1000-h750-no",
-    "rating": null,
-    "review_count": 0,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfCTdyOaF9TUNXUTe7okBveJXWs-_ihparHEUJJaJa03Wv-PPtM8VzSq28q2mP4CQWe_3rDiVkg2lWHLiCvj88xFQZ2-mL_xKC-bYOHoI7DRtQyXEKYIyzy4mrjFQLCTRzu6e1R=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfCTdyOaF9TUNXUTe7okBveJXWs-_ihparHEUJJaJa03Wv-PPtM8VzSq28q2mP4CQWe_3rDiVkg2lWHLiCvj88xFQZ2-mL_xKC-bYOHoI7DRtQyXEKYIyzy4mrjFQLCTRzu6e1R=w1000-h750-no",
+    "rating": 4.8,
+    "review_count": 190,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null,
     "is_active": true,
@@ -3649,8 +3702,8 @@
     "phone": "02 374 08 86",
     "website": "https://boucherie-saint-job.be/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Slagerij%20St-Job&query_place_id=ChIJ4T-SZRDFw0cRdOciwj-Ai2M",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcvUkBu_SKzQs0ExX4RrwzvyPxTRGRQGRHeyONVY3By3CH2ywxeYT6g00o0tpmzBS4p5gSwys2Do0kxpr8wAQxsyUKL8WQ2bMV4bb3mltg7YjXCPTnvcr_yxeQqL0kohSf2fRlBCw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcvUkBu_SKzQs0ExX4RrwzvyPxTRGRQGRHeyONVY3By3CH2ywxeYT6g00o0tpmzBS4p5gSwys2Do0kxpr8wAQxsyUKL8WQ2bMV4bb3mltg7YjXCPTnvcr_yxeQqL0kohSf2fRlBCw=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfbQi6xLQO8clTVQwpm2Hq5OLDttN3aFONeYivoaiyV-4IiXfBMoOhVgMiiGX_8jUE19pWKvt_WY9MdR24xQpVX-R6OwQD1P-PrHSURjC2_l8EamRv1wEFhddgUjsUU6Q7K75IA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfbQi6xLQO8clTVQwpm2Hq5OLDttN3aFONeYivoaiyV-4IiXfBMoOhVgMiiGX_8jUE19pWKvt_WY9MdR24xQpVX-R6OwQD1P-PrHSURjC2_l8EamRv1wEFhddgUjsUU6Q7K75IA=w1000-h750-no",
     "rating": 3.7,
     "review_count": 225,
     "verification_status": "UNVERIFIED",
@@ -3729,8 +3782,8 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Touareg&query_place_id=ChIJ2fyYgYrEw0cRBzUWwERGxZs",
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe99Ds6_bXAEQV_C_jYGIjxNe4-7iH49IOzGyx0bq1n_Vk4VTBT9DYgZKvOIVKQHpeGH06tZ5xeuvWc0uFr2QDA8thT2bVXApSQQ9j6IE5hqDJnZ-FQ2cTZT9UIVrMZb6Sxd6r4=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe99Ds6_bXAEQV_C_jYGIjxNe4-7iH49IOzGyx0bq1n_Vk4VTBT9DYgZKvOIVKQHpeGH06tZ5xeuvWc0uFr2QDA8thT2bVXApSQQ9j6IE5hqDJnZ-FQ2cTZT9UIVrMZb6Sxd6r4=w1000-h750-no",
-    "rating": null,
-    "review_count": 0,
+    "rating": 4.4,
+    "review_count": 271,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null,
     "is_active": true,
@@ -5102,8 +5155,8 @@
     "phone": "0492 42 63 20",
     "website": "https://www.facebook.com/Boucherie-de-la-Grappe-102626238290953/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boucherie%20de%20la%20Grappe&query_place_id=ChIJrdm7gO-LwEcR5L0pe7ImwZ0",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfXrRYLOzikiHHNVCTnZutFBhHCeXEUH-1LC9U08z1-hn87CNcHiPvk8p9M3rKXywXHfIC8JzRBR6fBfBBQj3Ttu3SgDGZ20zB12ZzV43eKn5mtSpEQyR_1pMGQMVytbaFhInRj=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfXrRYLOzikiHHNVCTnZutFBhHCeXEUH-1LC9U08z1-hn87CNcHiPvk8p9M3rKXywXHfIC8JzRBR6fBfBBQj3Ttu3SgDGZ20zB12ZzV43eKn5mtSpEQyR_1pMGQMVytbaFhInRj=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfjuUWJ3Bb4qirmxAbY1JgFWQg_V-yb32sI9-c23ElPVHsQccJ3i2LDeQTQ7HMagNbFSMDABPnOFEMxkGe19V-z1dwkCEoaBXUhyNK3qCKoUvJcifJ0_t1mKMNUgUuLRJuwuImo=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfjuUWJ3Bb4qirmxAbY1JgFWQg_V-yb32sI9-c23ElPVHsQccJ3i2LDeQTQ7HMagNbFSMDABPnOFEMxkGe19V-z1dwkCEoaBXUhyNK3qCKoUvJcifJ0_t1mKMNUgUuLRJuwuImo=w1000-h750-no",
     "rating": 4.8,
     "review_count": 65,
     "verification_status": "UNVERIFIED",
@@ -5480,8 +5533,8 @@
     "phone": "087 31 57 31",
     "website": "http://www.chez-didier.be/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chez%20Didier&query_place_id=ChIJRVX5Dr6LwEcR_FxcWFajNcI",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdqTHtXRMMIu11v9WGVXoFmFj9zo7olR0YuP_mdutPYfylVADrpvNcTrEypAyF1TqQsAE2QRsyaKIRFEgadmTObRbOZx8gT_tpQD_pS395_Ob4YxqJwxxYmtTZ4KEjLislybiU=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdqTHtXRMMIu11v9WGVXoFmFj9zo7olR0YuP_mdutPYfylVADrpvNcTrEypAyF1TqQsAE2QRsyaKIRFEgadmTObRbOZx8gT_tpQD_pS395_Ob4YxqJwxxYmtTZ4KEjLislybiU=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf3EV2YQct7DVXClPMIPI_oQdHiYk-j1rIA21eJXf2ybmkssU6yKy1mZ0G0i1zvNGLfSma8AtgL9-IP_ZjrLbkfCMcgYKpuXd6szcby7HIkmWRINN474n15bUjFus2Cvfa1DgU=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf3EV2YQct7DVXClPMIPI_oQdHiYk-j1rIA21eJXf2ybmkssU6yKy1mZ0G0i1zvNGLfSma8AtgL9-IP_ZjrLbkfCMcgYKpuXd6szcby7HIkmWRINN474n15bUjFus2Cvfa1DgU=w1000-h750-no",
     "rating": 4.6,
     "review_count": 700,
     "verification_status": "UNVERIFIED",
@@ -5506,8 +5559,8 @@
     "phone": "0470 31 58 18",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chez%20Mamy%20-%20Boucherie%20R%C3%B4tisserie&query_place_id=ChIJvbGY9FaLwEcReko8CCTfwRY",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcw1DbLCDCXARw9PVnLoCfJKLAWi-smSjUHf4ckoTpRPidhEqF-QPNWF-upSD0VAqy1R69swCxaiKCqvhrotJLu-Vdb6uzKr9QEcxQgfFG2iLr0jfqfzmsoCjuq0YoA2orHqDI=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcw1DbLCDCXARw9PVnLoCfJKLAWi-smSjUHf4ckoTpRPidhEqF-QPNWF-upSD0VAqy1R69swCxaiKCqvhrotJLu-Vdb6uzKr9QEcxQgfFG2iLr0jfqfzmsoCjuq0YoA2orHqDI=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfZnbSxhNBqIZLM2Gj3y8szfC-puY1Y47xL-QV2eWOz2eTPDG19c43k-sp_VISkvzXtImzMkMPIEuK3m24AJ3GZX-qbLQr4PqA2qTiywaSUuBBxNAhuRLMHiHfEqmwGvYGb8cY=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfZnbSxhNBqIZLM2Gj3y8szfC-puY1Y47xL-QV2eWOz2eTPDG19c43k-sp_VISkvzXtImzMkMPIEuK3m24AJ3GZX-qbLQr4PqA2qTiywaSUuBBxNAhuRLMHiHfEqmwGvYGb8cY=w1000-h750-no",
     "rating": 4.8,
     "review_count": 4,
     "verification_status": "UNVERIFIED",
@@ -6126,40 +6179,14 @@
     "phone": "0489 74 92 22",
     "website": "https://donemilia.com/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Don%20Emilia%20Pizzeria&query_place_id=ChIJIQavsqmLwEcRkBXRsuLC3E0",
-    "open_hours_json": {
-      "Monday": [
-        "5–10:30 pm"
-      ],
-      "Tuesday": [
-        "5–10:30 pm"
-      ],
-      "Wednesday": [
-        "5–10:30 pm"
-      ],
-      "Thursday": [
-        "5–10:30 pm"
-      ],
-      "Friday": [
-        "11:30 am–1:30 pm",
-        "5:30–10:30 pm"
-      ],
-      "Saturday": [
-        "5:30–10:30 pm"
-      ],
-      "Sunday": [
-        "11:30 am–1:45 pm",
-        "5–10:30 pm"
-      ]
-    },
-    "review_count": 188,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfhGyyMKiMvNDi5-fBiE8sHIdTvFm9BaHdQ5yqAb-hCO6k2wTz3B-oQcVR9iR1HY3qimbuC3Zk_eXDZNhW7MRWGAKnKJVkrFZ-ratRIxEpJLFoqb-qKPeMbb2lhWDB29eJqBQJy=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfhGyyMKiMvNDi5-fBiE8sHIdTvFm9BaHdQ5yqAb-hCO6k2wTz3B-oQcVR9iR1HY3qimbuC3Zk_eXDZNhW7MRWGAKnKJVkrFZ-ratRIxEpJLFoqb-qKPeMbb2lhWDB29eJqBQJy=w1000-h750-no",
     "rating": 4.5,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdeZQUhhRJngJO7A7-shbicVXf97O1PKnAoq6mvM7lBh7v0DYYmiPzkbBlpITIHW9Xid81TM21PNfgph8DDxL3QY_VknjNCRGnMpnmggD9a9Yhz1YOV7WahS7bHmgB6s9hS_IfP=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdeZQUhhRJngJO7A7-shbicVXf97O1PKnAoq6mvM7lBh7v0DYYmiPzkbBlpITIHW9Xid81TM21PNfgph8DDxL3QY_VknjNCRGnMpnmggD9a9Yhz1YOV7WahS7bHmgB6s9hS_IfP=w1000-h750-no",
-    "source_query": "Halal restaurant in Verviers, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
+    "review_count": 189,
     "verification_status": "UNVERIFIED",
-    "verification_evidence": null
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
   },
   {
     "place_id": "ChIJ7UuYZACLwEcRQ65ZsLf4edI",
@@ -7302,8 +7329,8 @@
     "phone": "0467 80 24 00",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Late%20Night%20Pizza%20Verviers&query_place_id=ChIJ26r6KDGLwEcRTtjrRTSe9Pc",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW3Q-Dnk0i2iGqFcr_pdCgfQF2kyA3iYLnj-_dmXPi0A7Y0O8BOl-PL5M7jwCeYIm0r5bkDmIS9tUlNNtjXC2YrUhYJKBklwcsZzByG0s2cSpAs0xZhlRcNXtuzef0nuitPNV88fPn9JbwgcTHL15BtnGzLeCJEN1vGSkoIyZ4pAM1rjvyXEL_rD9A=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW3Q-Dnk0i2iGqFcr_pdCgfQF2kyA3iYLnj-_dmXPi0A7Y0O8BOl-PL5M7jwCeYIm0r5bkDmIS9tUlNNtjXC2YrUhYJKBklwcsZzByG0s2cSpAs0xZhlRcNXtuzef0nuitPNV88fPn9JbwgcTHL15BtnGzLeCJEN1vGSkoIyZ4pAM1rjvyXEL_rD9A=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW1OyEHlX7jxs6Zj35ROijAJQn9R7J7uQ6xs1O7vLQ5D_9pGJZrTbMBYbC81HZXXGET3vHTbTV3QYNOooTr7jGxjROx3hBmavo-R39WD5ipQjQ4X6cahPoehlpIrVVpwbt9XXS6m-jgTo6LNLjjDqFC6L2Cf5SZWbNUPN_fVUG-H9JkOmqyDEP_B0w=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW1OyEHlX7jxs6Zj35ROijAJQn9R7J7uQ6xs1O7vLQ5D_9pGJZrTbMBYbC81HZXXGET3vHTbTV3QYNOooTr7jGxjROx3hBmavo-R39WD5ipQjQ4X6cahPoehlpIrVVpwbt9XXS6m-jgTo6LNLjjDqFC6L2Cf5SZWbNUPN_fVUG-H9JkOmqyDEP_B0w=w1000-h750-no",
     "rating": 4.3,
     "review_count": 60,
     "verification_status": "UNVERIFIED",
@@ -8367,7 +8394,7 @@
     "region": null,
     "latitude": 50.5910485,
     "longitude": 5.8674405,
-    "phone": null,
+    "phone": "0470 82 18 72",
     "website": "https://www.facebook.com/OTaksim-105601835370968/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=O%27Taksim&query_place_id=ChIJuUWB_Q2LwEcRfZP4DMTJF4M",
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfmlNetz28ZlDkOt3hbhkVl71RfNdiG5xE4jxk39f5IcsTX7Jxhjen7cAV384BU7zom2sFM37xeSMI2cfsYEwm7OmQPo3dwbfChpK8TxjuQsXrvuPn5Tq_DKnymQa8mnPFed27RNw=w1000-h750-no",
@@ -8486,6 +8513,32 @@
     "is_active": true,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJq8qA07WLwEcRJRBfVic4nw4",
+    "name": "O’Bendo",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Verviers",
+    "address": "O’Bendo, Rue de Hodimont 102, 4800 Verviers",
+    "street": "Rue de Hodimont 102",
+    "postal_code": "4800",
+    "region": null,
+    "latitude": 50.5942782,
+    "longitude": 5.8538616,
+    "phone": "0467 68 17 50",
+    "website": "https://www.facebook.com/Obendo48",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=O%E2%80%99Bendo&query_place_id=ChIJq8qA07WLwEcRJRBfVic4nw4",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcMK1a_90H0VGxcjT5d33Fuxr2DBMV3ewp_JV5JpBL_4k6riEvnekjs_nrR4zRFNDc3RWxP-uneq9K8dN-c8ELs5JRtBYrGerQMYBrg3BnThWKgXkPERmRqe2ZHp_em7G_4ksB_=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcMK1a_90H0VGxcjT5d33Fuxr2DBMV3ewp_JV5JpBL_4k6riEvnekjs_nrR4zRFNDc3RWxP-uneq9K8dN-c8ELs5JRtBYrGerQMYBrg3BnThWKgXkPERmRqe2ZHp_em7G_4ksB_=w1000-h750-no",
+    "rating": 4.5,
+    "review_count": 106,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
   },
   {
     "place_id": "ChIJ34b3F5mLwEcRtK66nN9AsKA",
@@ -9924,90 +9977,6 @@
     "rating": 4.0,
     "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Og7uopvcF_N6lyj19yr5jA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=329.444&pitch=0&thumbfov=w1000-h750-no",
     "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Og7uopvcF_N6lyj19yr5jA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=329.444&pitch=0&thumbfov=w1000-h750-no",
-    "source_query": "Hypermarket in Verviers, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJf5nGlJ2LwEcRBbNjp11LTxM",
-    "name": "bella Verona",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Verviers",
-    "address": "bella Verona, Rue de Hodimont 226, 4800 Verviers",
-    "street": "Rue de Hodimont 226",
-    "postal_code": "4800",
-    "region": null,
-    "latitude": 50.5951835,
-    "longitude": 5.8529241,
-    "phone": "087 76 62 48",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=bella%20Verona&query_place_id=ChIJf5nGlJ2LwEcRBbNjp11LTxM",
-    "open_hours_json": {
-      "Monday": [
-        "11:30 am–2:30 pm",
-        "5:30–10:30 pm"
-      ],
-      "Tuesday": [
-        "11:30 am–2:30 pm",
-        "5:30–10:30 pm"
-      ],
-      "Wednesday": [
-        "5:30–10:30 pm"
-      ],
-      "Thursday": [
-        "11:30 am–2:30 pm",
-        "5:30–10:30 pm"
-      ],
-      "Friday": [
-        "11:30 am–2:30 pm",
-        "5:30–10:30 pm"
-      ],
-      "Saturday": [
-        "11:30 am–2:30 pm",
-        "5:30–10:30 pm"
-      ],
-      "Sunday": [
-        "11:30 am–2:30 pm",
-        "5:30–10:30 pm"
-      ]
-    },
-    "review_count": 112,
-    "rating": 4.5,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfYw2zzL2sE2FScRrs2CxiJR_kTuDZqg1xaYgHELvwHl79QNszno6Sv5RbyZJsoEzCZBT6ZUXeLX6B20mUhmn64Dsx0fRXtgd53paixtI09eu2wKGx5p4DC_UgN1crm2XnEBoNW=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfYw2zzL2sE2FScRrs2CxiJR_kTuDZqg1xaYgHELvwHl79QNszno6Sv5RbyZJsoEzCZBT6ZUXeLX6B20mUhmn64Dsx0fRXtgd53paixtI09eu2wKGx5p4DC_UgN1crm2XnEBoNW=w1000-h750-no",
-    "source_query": "Fish restaurant in Verviers, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJSdplus6LwEcRS3O1BSixje8",
-    "name": "supermarkt",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Verviers",
-    "address": "supermarkt, Av. de Spa 66, 4802 Verviers",
-    "street": "Av. de Spa 66",
-    "postal_code": "4802",
-    "region": null,
-    "latitude": 50.581080799999995,
-    "longitude": 5.8636016,
-    "phone": "+44 7546 348614",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=supermarkt&query_place_id=ChIJSdplus6LwEcRS3O1BSixje8",
-    "open_hours_json": null,
-    "review_count": 1,
-    "rating": 4.0,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=qWGrEE0uDFynucm8bAPbtA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=274.43594&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=qWGrEE0uDFynucm8bAPbtA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=274.43594&pitch=0&thumbfov=w1000-h750-no",
     "source_query": "Hypermarket in Verviers, Wallonia, BE",
     "moderation_status": "approved",
     "is_active": true,
