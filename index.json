@@ -102,11 +102,11 @@
     },
     "DK": {
       "name": "Denmark",
-      "count": 1239,
-      "total_shards": 5,
+      "count": 1257,
+      "total_shards": 6,
       "shards_dir": "shards/DK",
       "cities_file": "shards/DK/cities.json",
-      "updated_at": "2026-11-23T03:53:36.241417+00:00"
+      "updated_at": "2026-11-23T06:20:38.415804+00:00"
     },
     "FI": {
       "name": "Finland",
@@ -141,6 +141,6 @@
       "updated_at": "2026-11-23T04:28:03.005340+00:00"
     }
   },
-  "updated_at": "2026-11-23T06:10:59.678134+00:00",
-  "total_places": 36925
+  "updated_at": "2026-11-23T06:20:38.415804+00:00",
+  "total_places": 36943
 }
