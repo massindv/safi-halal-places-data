@@ -1,5 +1,822 @@
 [
   {
+    "place_id": "ChIJB6Tl6LaWw0cRRnfJofEdRrc",
+    "name": "Blaffetuurken",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Dendermonde",
+    "address": "Blaffetuurken, Zeelsebaan 93, 9200 Dendermonde",
+    "street": "Zeelsebaan 93",
+    "postal_code": "9200",
+    "region": null,
+    "latitude": 51.0519521,
+    "longitude": 4.0766249,
+    "phone": "052 21 80 95",
+    "website": "https://www.blaffetuurkenderdermonde.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Blaffetuurken&query_place_id=ChIJB6Tl6LaWw0cRRnfJofEdRrc",
+    "open_hours_json": {
+      "Monday": [
+        "12–2:30 pm",
+        "6–10:30 pm"
+      ],
+      "Tuesday": [
+        "12–2:30 pm",
+        "6–10:30 pm"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "12–2:30 pm",
+        "6–10:30 pm"
+      ],
+      "Friday": [
+        "12–2:30 pm",
+        "6–10:30 pm"
+      ],
+      "Saturday": [
+        "6–10:30 pm"
+      ],
+      "Sunday": [
+        "12–2:30 pm",
+        "6–10:30 pm"
+      ]
+    },
+    "review_count": 366,
+    "rating": 4.1,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeDhLeW5mQCPwe-wv1g3WdjE1Kfl1XD17TNGZ7NLNb2PCs0PG5LdFJgajCRCOH7ZHfT7qD8QoPscB8d12OC6oHZvwBYZ-W6j176uG_MqQ7HAaG72FW9oXa7Ar7Naw3t2LR9oyUeMA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeDhLeW5mQCPwe-wv1g3WdjE1Kfl1XD17TNGZ7NLNb2PCs0PG5LdFJgajCRCOH7ZHfT7qD8QoPscB8d12OC6oHZvwBYZ-W6j176uG_MqQ7HAaG72FW9oXa7Ar7Naw3t2LR9oyUeMA=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Sint-Gillis-bij-Dendermonde, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJcdI4WpmRw0cRfrw3s-wg6tU",
+    "name": "City kebab",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Dendermonde",
+    "address": "City kebab, Oude Vest 62/A, 9200 Dendermonde",
+    "street": "Oude Vest 62/A",
+    "postal_code": "9200",
+    "region": null,
+    "latitude": 51.028962899999996,
+    "longitude": 4.101531,
+    "phone": "0470 58 39 69",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=City%20kebab&query_place_id=ChIJcdI4WpmRw0cRfrw3s-wg6tU",
+    "open_hours_json": {
+      "Monday": [
+        "11 am–11:30 pm"
+      ],
+      "Tuesday": [
+        "11 am–11:30 pm"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "11 am–11:30 pm"
+      ],
+      "Friday": [
+        "11 am–12:45 am"
+      ],
+      "Saturday": [
+        "11 am–12:45 am"
+      ],
+      "Sunday": [
+        "2:30–11 pm"
+      ]
+    },
+    "review_count": 94,
+    "rating": 4.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe_dSvoOn_nonrb1qzqjrKl54gUsxIcyzFHs33SXg30cp_UQADyCNvbnhF_fpE7SBwiI323SPfIrjSL4qY8-x7eaLUSwsWEdCW-fhQofHsbhd4aNJuLh-hc9kPQpFtayPczbMbMYcEB4trK=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe_dSvoOn_nonrb1qzqjrKl54gUsxIcyzFHs33SXg30cp_UQADyCNvbnhF_fpE7SBwiI323SPfIrjSL4qY8-x7eaLUSwsWEdCW-fhQofHsbhd4aNJuLh-hc9kPQpFtayPczbMbMYcEB4trK=w1000-h750-no",
+    "source_query": "Halal restaurant in Dendermonde, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJPSkUaDGRw0cRLWxPUn_wLgo",
+    "name": "Collect&Go Dendermonde",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Dendermonde",
+    "address": "Collect&Go Dendermonde, Oude Vest 98, 9200 Dendermonde",
+    "street": "Oude Vest 98",
+    "postal_code": "9200",
+    "region": null,
+    "latitude": 51.0293541,
+    "longitude": 4.1036787,
+    "phone": "02 363 50 05",
+    "website": "https://www.collectandgo.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Collect%26Go%20Dendermonde&query_place_id=ChIJPSkUaDGRw0cRLWxPUn_wLgo",
+    "open_hours_json": {
+      "Monday": [
+        "8 am–8 pm"
+      ],
+      "Tuesday": [
+        "8 am–8 pm"
+      ],
+      "Wednesday": [
+        "8 am–8 pm"
+      ],
+      "Thursday": [
+        "8 am–8 pm"
+      ],
+      "Friday": [
+        "8 am–9 pm"
+      ],
+      "Saturday": [
+        "8 am–8 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 37,
+    "rating": 4.4,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5cmN3TkGnNGayz0RZ_lopw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=58.77794&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5cmN3TkGnNGayz0RZ_lopw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=58.77794&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Hypermarket in Dendermonde, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJR--CQzGRw0cRY0t-xAl_6OI",
+    "name": "Couscous Marrakech",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Dendermonde",
+    "address": "Couscous Marrakech, Oude Vest 110, 9200 Dendermonde",
+    "street": "Oude Vest 110",
+    "postal_code": "9200",
+    "region": null,
+    "latitude": 51.0300674,
+    "longitude": 4.1035284,
+    "phone": "0487 37 03 66",
+    "website": "https://www.pizza-eten-bestellen.be/couscous-marrakech",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Couscous%20Marrakech&query_place_id=ChIJR--CQzGRw0cRY0t-xAl_6OI",
+    "open_hours_json": null,
+    "review_count": 25,
+    "rating": 4.0,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcKNjV32wpe1wDFf4nOlSIWhEN6SEnKhMMH1XE5UboskNzBYoT07eunzxU0a1w_J7btu0_Pb7WZZ_jLt4IvG-S5pm8nmmj6kS8Vh8qJqoQ3bNut0kiEAvZtJULj-rUMO6enH80cYQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcKNjV32wpe1wDFf4nOlSIWhEN6SEnKhMMH1XE5UboskNzBYoT07eunzxU0a1w_J7btu0_Pb7WZZ_jLt4IvG-S5pm8nmmj6kS8Vh8qJqoQ3bNut0kiEAvZtJULj-rUMO6enH80cYQ=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Sint-Gillis-bij-Dendermonde, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJq-snkwKRw0cRjV8mXZlG-Ak",
+    "name": "Crispy House",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Dendermonde",
+    "address": "Crispy House, Brusselsestraat 75, 9200 Dendermonde",
+    "street": "Brusselsestraat 75",
+    "postal_code": "9200",
+    "region": null,
+    "latitude": 51.0265929,
+    "longitude": 4.1009382,
+    "phone": "052 55 06 44",
+    "website": "https://www.crispyhouse.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Crispy%20House&query_place_id=ChIJq-snkwKRw0cRjV8mXZlG-Ak",
+    "open_hours_json": {
+      "Monday": [
+        "4:30–10 pm"
+      ],
+      "Tuesday": [
+        "4:30–10 pm"
+      ],
+      "Wednesday": [
+        "4:30–10 pm"
+      ],
+      "Thursday": [
+        "4:30–10 pm"
+      ],
+      "Friday": [
+        "4:30–10 pm"
+      ],
+      "Saturday": [
+        "4–10 pm"
+      ],
+      "Sunday": [
+        "4–10 pm"
+      ]
+    },
+    "review_count": 81,
+    "rating": 4.2,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc_mf7-zgjwpeJkw305i0-_00vrF5_7yAlX7u8eVwK6r0j2M1IZsfyA2IOmmoh5TgPxd9OHpqS3Wqe3Uqb6WOQqQIAXXRjo73J_l9IKkzrXCsKNk2Hn8KXtzXjnszuTNOjOEiGhAvroFp1D=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc_mf7-zgjwpeJkw305i0-_00vrF5_7yAlX7u8eVwK6r0j2M1IZsfyA2IOmmoh5TgPxd9OHpqS3Wqe3Uqb6WOQqQIAXXRjo73J_l9IKkzrXCsKNk2Hn8KXtzXjnszuTNOjOEiGhAvroFp1D=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Sint-Gillis-bij-Dendermonde, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJozHAgNSXw0cRuXhORUdPxow",
+    "name": "DAGWINKEL OUDEGEM",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Dendermonde",
+    "address": "DAGWINKEL OUDEGEM, Oudegemse Baan 41/B, 9200 Dendermonde",
+    "street": "Oudegemse Baan 41/B",
+    "postal_code": "9200",
+    "region": null,
+    "latitude": 51.0109444,
+    "longitude": 4.0628551999999996,
+    "phone": "0484 42 89 78",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=DAGWINKEL%20OUDEGEM&query_place_id=ChIJozHAgNSXw0cRuXhORUdPxow",
+    "open_hours_json": {
+      "Monday": [
+        "10 am–9:30 pm"
+      ],
+      "Tuesday": [
+        "10 am–9:30 pm"
+      ],
+      "Wednesday": [
+        "10 am–9:30 pm"
+      ],
+      "Thursday": [
+        "10 am–9:30 pm"
+      ],
+      "Friday": [
+        "10 am–9:30 pm"
+      ],
+      "Saturday": [
+        "10 am–9:30 pm"
+      ],
+      "Sunday": [
+        "10 am–9:30 pm"
+      ]
+    },
+    "review_count": 4,
+    "rating": 5.0,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc1vC5PUqSFGeZY4RdDeP10NoUXKqVIB2E7NIsivlh7oHcgBteVwSi_WY8cjD0EUTr7AAtESGmQuMnmgckkF9LuMg85twXF7lm8bofCdTX-_WeIFA2P7gxTl2h7i-9QWLHuaM7Q0oBkRbBx=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc1vC5PUqSFGeZY4RdDeP10NoUXKqVIB2E7NIsivlh7oHcgBteVwSi_WY8cjD0EUTr7AAtESGmQuMnmgckkF9LuMg85twXF7lm8bofCdTX-_WeIFA2P7gxTl2h7i-9QWLHuaM7Q0oBkRbBx=w1000-h750-no",
+    "source_query": "Hypermarket in Dendermonde, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJe5_9praWw0cROWgD2O7XRps",
+    "name": "Da Vinci Restaurant",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Dendermonde",
+    "address": "Da Vinci Restaurant, Koning Albertstraat 29, 9200 Dendermonde",
+    "street": "Koning Albertstraat 29",
+    "postal_code": "9200",
+    "region": null,
+    "latitude": 51.017993399999995,
+    "longitude": 4.1137023,
+    "phone": "0475 92 58 35",
+    "website": "http://davincirestaurant.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Da%20Vinci%20Restaurant&query_place_id=ChIJe5_9praWw0cROWgD2O7XRps",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "7–11:30 pm"
+      ],
+      "Thursday": [
+        "12:15–3:30 pm",
+        "7–11:30 pm"
+      ],
+      "Friday": [
+        "12:15–3:30 pm",
+        "7–11:30 pm"
+      ],
+      "Saturday": [
+        "7–11:30 pm"
+      ],
+      "Sunday": [
+        "12:15–3:30 pm",
+        "7–11:30 pm"
+      ]
+    },
+    "review_count": 266,
+    "rating": 4.9,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeApEBsC0Fhdl8IGSgB6kT0DcA3RA6AnJDkpv29vpXo2HW-yCYwsmNizr4g07btHu2foCWy23uguDS9X532Sc19sfEto18qs9HXFn9i4fSXzmKQtMmwKNIo4fMyHO2vP3KPkRR5_g=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeApEBsC0Fhdl8IGSgB6kT0DcA3RA6AnJDkpv29vpXo2HW-yCYwsmNizr4g07btHu2foCWy23uguDS9X532Sc19sfEto18qs9HXFn9i4fSXzmKQtMmwKNIo4fMyHO2vP3KPkRR5_g=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Dendermonde, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJoR8PATORw0cRM-V4DTf5hsE",
+    "name": "Deli Casa",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Dendermonde",
+    "address": "Deli Casa, Oude Vest 67, 9200 Dendermonde",
+    "street": "Oude Vest 67",
+    "postal_code": "9200",
+    "region": null,
+    "latitude": 51.0294295,
+    "longitude": 4.1015591,
+    "phone": "052 57 46 56",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Deli%20Casa&query_place_id=ChIJoR8PATORw0cRM-V4DTf5hsE",
+    "open_hours_json": {
+      "Monday": [
+        "9 am–9 pm"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "11:30 am–9 pm"
+      ],
+      "Friday": [
+        "11:30 am–10 pm"
+      ],
+      "Saturday": [
+        "11:30 am–10 pm"
+      ],
+      "Sunday": [
+        "11:30 am–9 pm"
+      ]
+    },
+    "review_count": 248,
+    "rating": 4.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcci5gB9uyQJbt_A8bxt4TE_jEQsPZnx7azYdgQfnvoymg85PYli6xXQ1ldECZGSzQpB7ldK1u1wamV4mUysL9G7HQxLzzPMsVEZHBv7aEGxzSWz35jw-JGcg4MntRM0o_sNDIRAQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcci5gB9uyQJbt_A8bxt4TE_jEQsPZnx7azYdgQfnvoymg85PYli6xXQ1ldECZGSzQpB7ldK1u1wamV4mUysL9G7HQxLzzPMsVEZHBv7aEGxzSWz35jw-JGcg4MntRM0o_sNDIRAQ=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Dendermonde, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJJRzQfwCRw0cR4-NX77-PU0Y",
+    "name": "Dender markt",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Dendermonde",
+    "address": "Dender markt, Franz Courtensstraat 38, 9200 Dendermonde",
+    "street": "Franz Courtensstraat 38",
+    "postal_code": "9200",
+    "region": null,
+    "latitude": 51.032309,
+    "longitude": 4.1019619,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Dender%20markt&query_place_id=ChIJJRzQfwCRw0cR4-NX77-PU0Y",
+    "open_hours_json": {
+      "Monday": [
+        "8 am–8 pm"
+      ],
+      "Tuesday": [
+        "8 am–8 pm"
+      ],
+      "Wednesday": [
+        "8 am–8 pm"
+      ],
+      "Thursday": [
+        "8 am–8 pm"
+      ],
+      "Friday": [
+        "8 am–8 pm"
+      ],
+      "Saturday": [
+        "8 am–8 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 13,
+    "rating": 3.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfsZs9sTKLk_HjxWOhRvxxQoqPTVLkorMjAxPQf2i7ibvQS0AZaVf59CbExCX_xMTXhUgfeHpEwwRIStdscNzMjjI0K_PiuKo4XtUI2PGnxG7DIyhZkhlex_Jx2v6i5myjiLOIu1-ZBJkAF=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfsZs9sTKLk_HjxWOhRvxxQoqPTVLkorMjAxPQf2i7ibvQS0AZaVf59CbExCX_xMTXhUgfeHpEwwRIStdscNzMjjI0K_PiuKo4XtUI2PGnxG7DIyhZkhlex_Jx2v6i5myjiLOIu1-ZBJkAF=w1000-h750-no",
+    "source_query": "Hypermarket in Dendermonde, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ7yHwjaqRw0cR6KSKtjwOLOc",
+    "name": "Domino's Pizza Dendermonde",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Dendermonde",
+    "address": "Domino's Pizza Dendermonde, Oude Vest 30, 9200 Dendermonde",
+    "street": "Oude Vest 30",
+    "postal_code": "9200",
+    "region": null,
+    "latitude": 51.028506799999995,
+    "longitude": 4.100851,
+    "phone": "052 28 09 00",
+    "website": "https://www.dominos.be/?utm_source=google&utm_medium=local&utm_campaign=yext",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domino%27s%20Pizza%20Dendermonde&query_place_id=ChIJ7yHwjaqRw0cR6KSKtjwOLOc",
+    "open_hours_json": {
+      "Monday": [
+        "11 am–10 pm"
+      ],
+      "Tuesday": [
+        "11 am–10 pm"
+      ],
+      "Wednesday": [
+        "11 am–10 pm"
+      ],
+      "Thursday": [
+        "11 am–10 pm"
+      ],
+      "Friday": [
+        "11 am–10 pm"
+      ],
+      "Saturday": [
+        "11 am–10 pm"
+      ],
+      "Sunday": [
+        "11 am–10 pm"
+      ]
+    },
+    "review_count": 495,
+    "rating": 3.9,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLclvegVbu1X7Ead-II7NQZjXGRz8fnFBoa2IyOmkEYBarbo6qk2unbrgj1ci16vubqscfy1m00hkPdf4yk8FQlGg1qyUrIzYAY6bp4g74mOJnMIINSpOrC8K_JBPrJpleGEqod8=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLclvegVbu1X7Ead-II7NQZjXGRz8fnFBoa2IyOmkEYBarbo6qk2unbrgj1ci16vubqscfy1m00hkPdf4yk8FQlGg1qyUrIzYAY6bp4g74mOJnMIINSpOrC8K_JBPrJpleGEqod8=w1000-h750-no",
+    "source_query": "Halal restaurant in Dendermonde, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJyTuzHjKRw0cRXNgL4wWpk0k",
+    "name": "Ekowinkel MaeleGijs",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Dendermonde",
+    "address": "Ekowinkel MaeleGijs, Kroonveldlaan 9, 9200 Dendermonde",
+    "street": "Kroonveldlaan 9",
+    "postal_code": "9200",
+    "region": null,
+    "latitude": 51.0322835,
+    "longitude": 4.110019299999999,
+    "phone": "052 21 40 48",
+    "website": "https://ekowinkel.eu/dendermonde/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ekowinkel%20MaeleGijs&query_place_id=ChIJyTuzHjKRw0cRXNgL4wWpk0k",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "9 am–6 pm"
+      ],
+      "Wednesday": [
+        "9 am–6 pm"
+      ],
+      "Thursday": [
+        "9 am–6 pm"
+      ],
+      "Friday": [
+        "9 am–6 pm"
+      ],
+      "Saturday": [
+        "9 am–5 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 21,
+    "rating": 4.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe-bpOD3VxQ3wwk-O02-jl0r03VWfhawRIvOPFAiK4vCJHByOm3QLYz2ZbCMQuxWeEg-m39qN4bZCFQsp9Joh7-PS01iA8fFWKGKLERfPFnFpRqEmF1phEAhBFFLVx7f9TJR8h4=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe-bpOD3VxQ3wwk-O02-jl0r03VWfhawRIvOPFAiK4vCJHByOm3QLYz2ZbCMQuxWeEg-m39qN4bZCFQsp9Joh7-PS01iA8fFWKGKLERfPFnFpRqEmF1phEAhBFFLVx7f9TJR8h4=w1000-h750-no",
+    "source_query": "Hypermarket in Dendermonde, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJGc303zGRw0cRIYBAvfDdsx8",
+    "name": "Het Vaderland",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Dendermonde",
+    "address": "Het Vaderland, Grote Markt 16/17, 9200 Dendermonde",
+    "street": "Grote Markt 16/17",
+    "postal_code": "9200",
+    "region": null,
+    "latitude": 51.030724899999996,
+    "longitude": 4.0980963,
+    "phone": "052 21 11 36",
+    "website": "https://www.vaderland.be/nl",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Het%20Vaderland&query_place_id=ChIJGc303zGRw0cRIYBAvfDdsx8",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "12–2 pm",
+        "6–9 pm"
+      ],
+      "Wednesday": [
+        "12–2 pm",
+        "6–9 pm"
+      ],
+      "Thursday": [
+        "Closed"
+      ],
+      "Friday": [
+        "12–2 pm",
+        "6–9 pm"
+      ],
+      "Saturday": [
+        "6–9 pm"
+      ],
+      "Sunday": [
+        "12–8 pm"
+      ]
+    },
+    "review_count": 330,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfKNhJ68kaQE2AHQ9aGIX2uAammrbFRhwx7Mje-Vpp_mSiQrFBrEGRXqAlWNF_8yupXDJJMtyu3XfAmDu_NepQUxUr6Sx6l2mHhB-Q_WiaaIs8aA8c1SV9dyh2S4nSx7Tn6wt-ztQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfKNhJ68kaQE2AHQ9aGIX2uAammrbFRhwx7Mje-Vpp_mSiQrFBrEGRXqAlWNF_8yupXDJJMtyu3XfAmDu_NepQUxUr6Sx6l2mHhB-Q_WiaaIs8aA8c1SV9dyh2S4nSx7Tn6wt-ztQ=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Dendermonde, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJLeMEQgCXw0cRUMDd7s8G_9U",
+    "name": "Hollandse kazen",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Dendermonde",
+    "address": "Hollandse kazen, Heirbaan 284, 9200 Dendermonde",
+    "street": "Heirbaan 284",
+    "postal_code": "9200",
+    "region": null,
+    "latitude": 51.0094844,
+    "longitude": 4.1181477,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Hollandse%20kazen&query_place_id=ChIJLeMEQgCXw0cRUMDd7s8G_9U",
+    "open_hours_json": null,
+    "review_count": 1,
+    "rating": 5.0,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JvYBRfFjv33gehrYDqiq9A&cb_client=search.gws-prod.grass&w=80&h=92&yaw=264.30643&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JvYBRfFjv33gehrYDqiq9A&cb_client=search.gws-prod.grass&w=80&h=92&yaw=264.30643&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Hypermarket in Sint-Gillis-bij-Dendermonde, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJhStcZK-Tw0cRwE7Q2jKipBA",
+    "name": "Jumbo Baasrode",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Dendermonde",
+    "address": "Jumbo Baasrode, Theodoor Vermijlenstraat 1, 9200 Dendermonde",
+    "street": "Theodoor Vermijlenstraat 1",
+    "postal_code": "9200",
+    "region": null,
+    "latitude": 51.032657099999994,
+    "longitude": 4.1710617999999995,
+    "phone": "052 36 57 60",
+    "website": "https://www.jumbo.com/nl-be/winkels/jumbo-baasrode",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Jumbo%20Baasrode&query_place_id=ChIJhStcZK-Tw0cRwE7Q2jKipBA",
+    "open_hours_json": {
+      "Monday": [
+        "8 am–8 pm"
+      ],
+      "Tuesday": [
+        "8 am–8 pm"
+      ],
+      "Wednesday": [
+        "8 am–8 pm"
+      ],
+      "Thursday": [
+        "8 am–8 pm"
+      ],
+      "Friday": [
+        "8 am–8 pm"
+      ],
+      "Saturday": [
+        "8 am–8 pm"
+      ],
+      "Sunday": [
+        "8:30 am–12 pm"
+      ]
+    },
+    "review_count": 299,
+    "rating": 4.4,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeTOTMylQRYq4V_7tZGPzGE6DArSRePzJBKxdBuXJB_n9MitS6_x-ovQl0F98Hz7fjsz65nTF7zhgmWYJi58zfCDJOjwDpnh69ZscJYTTRqStYMN7KFfKet8Wj04zuFlR7DWY3h=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeTOTMylQRYq4V_7tZGPzGE6DArSRePzJBKxdBuXJB_n9MitS6_x-ovQl0F98Hz7fjsz65nTF7zhgmWYJi58zfCDJOjwDpnh69ZscJYTTRqStYMN7KFfKet8Wj04zuFlR7DWY3h=w1000-h750-no",
+    "source_query": "Hypermarket in Dendermonde, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJi-2CxumXw0cRs3xeMZ3f9Gs",
+    "name": "Jumbo Dendermonde",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Dendermonde",
+    "address": "Jumbo Dendermonde, Heirbaan 270, 9200 Dendermonde",
+    "street": "Heirbaan 270",
+    "postal_code": "9200",
+    "region": null,
+    "latitude": 51.0099916,
+    "longitude": 4.1176267,
+    "phone": null,
+    "website": "https://be.jobs.jumbo.com/vestiging/jumbo-dendermonde/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Jumbo%20Dendermonde&query_place_id=ChIJi-2CxumXw0cRs3xeMZ3f9Gs",
+    "open_hours_json": {
+      "Monday": [
+        "8 am–8 pm"
+      ],
+      "Tuesday": [
+        "8 am–8 pm"
+      ],
+      "Wednesday": [
+        "8 am–8 pm"
+      ],
+      "Thursday": [
+        "8 am–8 pm"
+      ],
+      "Friday": [
+        "8 am–8 pm"
+      ],
+      "Saturday": [
+        "8 am–8 pm"
+      ],
+      "Sunday": [
+        "8 am–8 pm"
+      ]
+    },
+    "review_count": 77,
+    "rating": 4.4,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfIk2AAGlxT6d3OqwnzsrTTxQBJLcHMn1y7-7BJn31c65OFiiwYxp2D8xoRuAVn7_7dh5HRoYlQqt1_7XmC66Cp_neLWmkq0iG-jhoa768sIDDMFZIahelKZqIpsGu0JdJurvnKVvG-WkM=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfIk2AAGlxT6d3OqwnzsrTTxQBJLcHMn1y7-7BJn31c65OFiiwYxp2D8xoRuAVn7_7dh5HRoYlQqt1_7XmC66Cp_neLWmkq0iG-jhoa768sIDDMFZIahelKZqIpsGu0JdJurvnKVvG-WkM=w1000-h750-no",
+    "source_query": "Hypermarket in Sint-Gillis-bij-Dendermonde, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJd6ZsL22Rw0cRjFCBfCfgxlU",
+    "name": "KISSBURGER Dendermonde",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Dendermonde",
+    "address": "KISSBURGER Dendermonde, Grote Markt 5, 9200 Dendermonde",
+    "street": "Grote Markt 5",
+    "postal_code": "9200",
+    "region": null,
+    "latitude": 51.0307283,
+    "longitude": 4.0988282,
+    "phone": "0472 56 56 02",
+    "website": "https://www.kissburgerdendermonde.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=KISSBURGER%20Dendermonde&query_place_id=ChIJd6ZsL22Rw0cRjFCBfCfgxlU",
+    "open_hours_json": {
+      "Monday": [
+        "4:30–11 pm"
+      ],
+      "Tuesday": [
+        "4:30–11 pm"
+      ],
+      "Wednesday": [
+        "4:30–11 pm"
+      ],
+      "Thursday": [
+        "4:30–11 pm"
+      ],
+      "Friday": [
+        "4:30 pm–2 am"
+      ],
+      "Saturday": [
+        "4 pm–2 am"
+      ],
+      "Sunday": [
+        "4–10 pm"
+      ]
+    },
+    "review_count": 51,
+    "rating": 4.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcdjiTo1379DqzbAU2n-pyopmJWlTdIe9RrJOvlySPtM9Mq3c5wbUzTUbv6fIoFTFO1fSyRTndwuk0hXksPV_SVMbZxDLeaX72ifHDDElsE51XR8z-4SGIdFnuyc4J1bBuUPWF5NL_yIbM=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcdjiTo1379DqzbAU2n-pyopmJWlTdIe9RrJOvlySPtM9Mq3c5wbUzTUbv6fIoFTFO1fSyRTndwuk0hXksPV_SVMbZxDLeaX72ifHDDElsE51XR8z-4SGIdFnuyc4J1bBuUPWF5NL_yIbM=w1000-h750-no",
+    "source_query": "Halal restaurant in Sint-Gillis-bij-Dendermonde, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJiTDCCduXw0cRSCt7ilDBIHA",
+    "name": "Kebab Queens",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Dendermonde",
+    "address": "Kebab Queens, Oudegemse Baan 63, 9200 Dendermonde",
+    "street": "Oudegemse Baan 63",
+    "postal_code": "9200",
+    "region": null,
+    "latitude": 51.0119842,
+    "longitude": 4.0633041,
+    "phone": "0472 11 69 72",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kebab%20Queens&query_place_id=ChIJiTDCCduXw0cRSCt7ilDBIHA",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "5–10 pm"
+      ],
+      "Wednesday": [
+        "5–10 pm"
+      ],
+      "Thursday": [
+        "5–10 pm"
+      ],
+      "Friday": [
+        "5 pm–12 am"
+      ],
+      "Saturday": [
+        "5 pm–12 am"
+      ],
+      "Sunday": [
+        "5–10 pm"
+      ]
+    },
+    "review_count": 4,
+    "rating": 4.0,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=hEdnYXeDTbyDaDThxGIWEg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=277.18997&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=hEdnYXeDTbyDaDThxGIWEg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=277.18997&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Halal restaurant in Dendermonde, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJNWHa-i-Rw0cR-8cVplREZdk",
     "name": "Kingribs Dendermonde",
     "type": "restaurant",
@@ -10767,820 +11584,6 @@
     "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dVZdco88TXQ8ika5HIzIKw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=203.78442&pitch=0&thumbfov=w1000-h750-no",
     "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dVZdco88TXQ8ika5HIzIKw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=203.78442&pitch=0&thumbfov=w1000-h750-no",
     "source_query": "Hypermarket in Eeklo, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJq-oxBQBlw0cRKTTHr4RF0KM",
-    "name": "DagWinkel Garam Masala(Asian grocery)",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Eeklo",
-    "address": "DagWinkel Garam Masala(Asian grocery), Markt 30, 9900 Eeklo",
-    "street": "Markt 30",
-    "postal_code": "9900",
-    "region": null,
-    "latitude": 51.184497199999996,
-    "longitude": 3.5666143999999997,
-    "phone": "0489 78 08 85",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=DagWinkel%20Garam%20Masala%28Asian%20grocery%29&query_place_id=ChIJq-oxBQBlw0cRKTTHr4RF0KM",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "9 am–9 pm"
-      ],
-      "Wednesday": [
-        "9 am–9 pm"
-      ],
-      "Thursday": [
-        "9 am–9 pm"
-      ],
-      "Friday": [
-        "9 am–9 pm"
-      ],
-      "Saturday": [
-        "9 am–9 pm"
-      ],
-      "Sunday": [
-        "9 am–9 pm"
-      ]
-    },
-    "review_count": 1,
-    "rating": 3.0,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdzi8p8EK03xVt4e0xu0HUZElVLkDIpRBuvgfddK_yT6Ir03VzQt0i0O_zsC2befzYLUkbRtiqyiOV4Sxkvani-sEk7d74Xx2AIVVLKsvSKIf9sPgcfkKepcWfbYKBDMA1k9-8y4JqF6E_p=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdzi8p8EK03xVt4e0xu0HUZElVLkDIpRBuvgfddK_yT6Ir03VzQt0i0O_zsC2befzYLUkbRtiqyiOV4Sxkvani-sEk7d74Xx2AIVVLKsvSKIf9sPgcfkKepcWfbYKBDMA1k9-8y4JqF6E_p=w1000-h750-no",
-    "source_query": "Hypermarket in Eeklo, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJR--Cj_tlw0cRcnSEsbodP1Y",
-    "name": "Dagwinkel",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Eeklo",
-    "address": "Dagwinkel, N499 11, 9900 Eeklo",
-    "street": "N499 11",
-    "postal_code": "9900",
-    "region": null,
-    "latitude": 51.184942,
-    "longitude": 3.5637347999999998,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Dagwinkel&query_place_id=ChIJR--Cj_tlw0cRcnSEsbodP1Y",
-    "open_hours_json": null,
-    "review_count": 1,
-    "rating": 1.0,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rYB-Otmu_p796ZwQi8UUXQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=240.26689&pitch=0.5514826&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rYB-Otmu_p796ZwQi8UUXQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=240.26689&pitch=0.5514826&thumbfov=w1000-h750-no",
-    "source_query": "Hypermarket in Eeklo, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJtSacYztkw0cR3EvtdtGAH-I",
-    "name": "De Kruger",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Eeklo",
-    "address": "De Kruger, Stationsstraat 82, 9900 Eeklo",
-    "street": "Stationsstraat 82",
-    "postal_code": "9900",
-    "region": null,
-    "latitude": 51.1818783,
-    "longitude": 3.5714371,
-    "phone": "0485 05 37 87",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=De%20Kruger&query_place_id=ChIJtSacYztkw0cR3EvtdtGAH-I",
-    "open_hours_json": {
-      "Monday": [
-        "9 am–5:30 pm"
-      ],
-      "Tuesday": [
-        "9 am–5:30 pm"
-      ],
-      "Wednesday": [
-        "9 am–5:30 pm"
-      ],
-      "Thursday": [
-        "9 am–5:30 pm"
-      ],
-      "Friday": [
-        "10 am–5:30 pm"
-      ],
-      "Saturday": [
-        "10 am–5:30 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 344,
-    "rating": 3.9,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLco3Ml2DGNabTEvu0tULbVyhhx_G-mK5g60uRWeadYsp_uR3EXlJvYP8CMSGFVD70TU403WWJcIDPKsgfLhZzHnsoN-2Z4zdjSzu-eMR9FxQKe3MRCDWJSAWH18GNnj1z94iQ5s_Q=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLco3Ml2DGNabTEvu0tULbVyhhx_G-mK5g60uRWeadYsp_uR3EXlJvYP8CMSGFVD70TU403WWJcIDPKsgfLhZzHnsoN-2Z4zdjSzu-eMR9FxQKe3MRCDWJSAWH18GNnj1z94iQ5s_Q=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Eeklo, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJHxOVpyNkw0cRP3kCwLcbSEw",
-    "name": "De Ramblas",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Eeklo",
-    "address": "De Ramblas, Markt 24, 9900 Eeklo",
-    "street": "Markt 24",
-    "postal_code": "9900",
-    "region": null,
-    "latitude": 51.184538599999996,
-    "longitude": 3.5668406999999998,
-    "phone": "09 377 43 00",
-    "website": "https://www.deramblas.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=De%20Ramblas&query_place_id=ChIJHxOVpyNkw0cRP3kCwLcbSEw",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "8:30 am–1 am"
-      ],
-      "Wednesday": [
-        "8:30 am–1 am"
-      ],
-      "Thursday": [
-        "8 am–1 am"
-      ],
-      "Friday": [
-        "8:30 am–1 am"
-      ],
-      "Saturday": [
-        "8:30 am–1 am"
-      ],
-      "Sunday": [
-        "8:30 am–1 am"
-      ]
-    },
-    "review_count": 764,
-    "rating": 4.1,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf0m9cyYu_urMgEdXzr2ubmvAsxkGhFRdIf35FaJbwr8-AL4pdnkEcfyiEcEzC5SoIKceg32yATkemcReR-Q_SNkOh2UuOuEhRE2bqmtm6CrzzJE_dSJq-ajlDa5Qy14yAXWJ2CFQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf0m9cyYu_urMgEdXzr2ubmvAsxkGhFRdIf35FaJbwr8-AL4pdnkEcfyiEcEzC5SoIKceg32yATkemcReR-Q_SNkOh2UuOuEhRE2bqmtm6CrzzJE_dSJq-ajlDa5Qy14yAXWJ2CFQ=w1000-h750-no",
-    "source_query": "Halal restaurant in Eeklo, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJrVYOWhlkw0cR3N04Ykpd9qQ",
-    "name": "De Zandheuvel",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Eeklo",
-    "address": "De Zandheuvel, Zandvleuge 84, 9900 Eeklo",
-    "street": "Zandvleuge 84",
-    "postal_code": "9900",
-    "region": null,
-    "latitude": 51.193142699999996,
-    "longitude": 3.5653911999999996,
-    "phone": "09 376 41 14",
-    "website": "http://www.restaurantdezandheuvel.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=De%20Zandheuvel&query_place_id=ChIJrVYOWhlkw0cR3N04Ykpd9qQ",
-    "open_hours_json": {
-      "Monday": [
-        "12–4 pm"
-      ],
-      "Tuesday": [
-        "12–3 pm"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "12–3 pm",
-        "6–8 pm"
-      ],
-      "Friday": [
-        "12–3 pm",
-        "6–8 pm"
-      ],
-      "Saturday": [
-        "12–3 pm",
-        "6–8:30 pm"
-      ],
-      "Sunday": [
-        "12–6 pm"
-      ]
-    },
-    "review_count": 89,
-    "rating": 4.4,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf0Hvd37pmvoflmhzXMBalGDD_oEt37jmVxpVuUuE7dXpYaNPYICaANE-U8zfZA-pKAmOQ2WCQt6nxOBY_LWz6VElxlNv0y8V5Yk7GsQv3EYLNtzoSPyWBLx3Ss82W64M31VNvm=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf0Hvd37pmvoflmhzXMBalGDD_oEt37jmVxpVuUuE7dXpYaNPYICaANE-U8zfZA-pKAmOQ2WCQt6nxOBY_LWz6VElxlNv0y8V5Yk7GsQv3EYLNtzoSPyWBLx3Ss82W64M31VNvm=w1000-h750-no",
-    "source_query": "Halal restaurant in Eeklo, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ1YWsCyNkw0cRWXxl0eMy088",
-    "name": "Eethuis De Raedt",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Eeklo",
-    "address": "Eethuis De Raedt, Markt 8, 9900 Eeklo",
-    "street": "Markt 8",
-    "postal_code": "9900",
-    "region": null,
-    "latitude": 51.184344499999995,
-    "longitude": 3.5672704,
-    "phone": "0468 22 00 74",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Eethuis%20De%20Raedt&query_place_id=ChIJ1YWsCyNkw0cRWXxl0eMy088",
-    "open_hours_json": {
-      "Monday": [
-        "9 am–9 pm"
-      ],
-      "Tuesday": [
-        "9 am–9 pm"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "9 am–9 pm"
-      ],
-      "Friday": [
-        "9 am–9 pm"
-      ],
-      "Saturday": [
-        "9 am–9 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 310,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLckzKAK7e3UOA-m470ogWxNuWjVpz3ltviYN2FDDV6cPSqJ2HzSf7D3PagOyQE3TaBrcRAcUjc8mCc1N0X30IZQzmu1kC9C4gDGdrxLLG0C-kopYESoDgNL5n1VVpIVBECFCORM=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLckzKAK7e3UOA-m470ogWxNuWjVpz3ltviYN2FDDV6cPSqJ2HzSf7D3PagOyQE3TaBrcRAcUjc8mCc1N0X30IZQzmu1kC9C4gDGdrxLLG0C-kopYESoDgNL5n1VVpIVBECFCORM=w1000-h750-no",
-    "source_query": "Halal restaurant in Eeklo, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJUesr-Jdmw0cRVx4uEbnkm6k",
-    "name": "Els En Co",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Eeklo",
-    "address": "Els En Co, Raverschootstraat 210, 9900 Eeklo",
-    "street": "Raverschootstraat 210",
-    "postal_code": "9900",
-    "region": null,
-    "latitude": 51.188162999999996,
-    "longitude": 3.5447111,
-    "phone": "09 377 12 96",
-    "website": "http://www.elsenco.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Els%20En%20Co&query_place_id=ChIJUesr-Jdmw0cRVx4uEbnkm6k",
-    "open_hours_json": {
-      "Monday": [
-        "7:30 am–12:30 pm",
-        "1:30–6:45 pm"
-      ],
-      "Tuesday": [
-        "7:30 am–12:30 pm",
-        "1:30–6:45 pm"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "Closed"
-      ],
-      "Friday": [
-        "7:30 am–12:30 pm",
-        "1:30–6:45 pm"
-      ],
-      "Saturday": [
-        "7:30 am–12:30 pm",
-        "1:30–6 pm"
-      ],
-      "Sunday": [
-        "7:30 am–12:15 pm"
-      ]
-    },
-    "review_count": 38,
-    "rating": 4.8,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf1RU89a1Xaajcod1gK-BedHlh8KpuV8nutYxZuRhlqD9qmeVLmOURZEjuROhXZZKUldBD_1EhR0ljKJQLQWtrMd1uFutgmyZRkKVNPU2afR25uxit9Gv9SX9TAuLlwX7wSVfBIqw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf1RU89a1Xaajcod1gK-BedHlh8KpuV8nutYxZuRhlqD9qmeVLmOURZEjuROhXZZKUldBD_1EhR0ljKJQLQWtrMd1uFutgmyZRkKVNPU2afR25uxit9Gv9SX9TAuLlwX7wSVfBIqw=w1000-h750-no",
-    "source_query": "Halal restaurant in Eeklo, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJtSacYztkw0cRBktogSu11E0",
-    "name": "Flanders Fruit",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Eeklo",
-    "address": "Flanders Fruit, Stationsstraat 82E, 9900 Eeklo",
-    "street": "Stationsstraat 82E",
-    "postal_code": "9900",
-    "region": null,
-    "latitude": 51.1807556,
-    "longitude": 3.5708967,
-    "phone": "09 377 33 21",
-    "website": "http://www.flandersfruit.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Flanders%20Fruit&query_place_id=ChIJtSacYztkw0cRBktogSu11E0",
-    "open_hours_json": {
-      "Monday": [
-        "8:30 am–6 pm"
-      ],
-      "Tuesday": [
-        "8:30 am–12:30 pm"
-      ],
-      "Wednesday": [
-        "8:30 am–6 pm"
-      ],
-      "Thursday": [
-        "8:30 am–6 pm"
-      ],
-      "Friday": [
-        "8:30 am–6 pm"
-      ],
-      "Saturday": [
-        "8 am–5:30 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 79,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf2cWCij9oBIze8OkIoU2an34BH_stxWUMHVC1aGbDJUDBsJeIeRJ1idALK_ujnsoSttyoAtG1GDgMTI_sKX84VxU3BIKVc-kz3gAcLE27-s0OIfkC6QIlHQFqxLLN15ngNm1kRKQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf2cWCij9oBIze8OkIoU2an34BH_stxWUMHVC1aGbDJUDBsJeIeRJ1idALK_ujnsoSttyoAtG1GDgMTI_sKX84VxU3BIKVc-kz3gAcLE27-s0OIfkC6QIlHQFqxLLN15ngNm1kRKQ=w1000-h750-no",
-    "source_query": "Halal restaurant in Eeklo, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJkznvFfJlw0cRGh8mcEzkEoU",
-    "name": "Garam Masala Eeklo",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Eeklo",
-    "address": "Garam Masala Eeklo, Markt 26, 9900 Eeklo",
-    "street": "Markt 26",
-    "postal_code": "9900",
-    "region": null,
-    "latitude": 51.1844932,
-    "longitude": 3.5667586,
-    "phone": "0489 78 08 85",
-    "website": "https://garammasala-eeklo.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Garam%20Masala%20Eeklo&query_place_id=ChIJkznvFfJlw0cRGh8mcEzkEoU",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "12–9:30 pm"
-      ],
-      "Wednesday": [
-        "12–9:30 pm"
-      ],
-      "Thursday": [
-        "12–9:30 pm"
-      ],
-      "Friday": [
-        "12–9:30 pm"
-      ],
-      "Saturday": [
-        "12–9:30 pm"
-      ],
-      "Sunday": [
-        "12–9:30 pm"
-      ]
-    },
-    "review_count": 138,
-    "rating": 4.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfJSX9xA_m4tSMAs6nzrokvhDZS3XGZ2qNz5h5uYux_h1CZq4a7aBrY0_mtuMYreQRh08QYf_dnab2YiSVsHguK10glKUiBA65C4fv-mO7hs75tgw2RO2shFcFpgICtUcBuH-bkyQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfJSX9xA_m4tSMAs6nzrokvhDZS3XGZ2qNz5h5uYux_h1CZq4a7aBrY0_mtuMYreQRh08QYf_dnab2YiSVsHguK10glKUiBA65C4fv-mO7hs75tgw2RO2shFcFpgICtUcBuH-bkyQ=w1000-h750-no",
-    "source_query": "Halal restaurant in Eeklo, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJG8mdaxxlw0cR7xeXh3sqQVA",
-    "name": "Hinode Sushi Eeklo",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Eeklo",
-    "address": "Hinode Sushi Eeklo, Markt 63, 9900 Eeklo",
-    "street": "Markt 63",
-    "postal_code": "9900",
-    "region": null,
-    "latitude": 51.1845034,
-    "longitude": 3.5652814,
-    "phone": "09 430 53 14",
-    "website": "http://www.hinodesushieeklo.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Hinode%20Sushi%20Eeklo&query_place_id=ChIJG8mdaxxlw0cR7xeXh3sqQVA",
-    "open_hours_json": {
-      "Monday": [
-        "11:30 am–9:15 pm"
-      ],
-      "Tuesday": [
-        "11:30 am–9:15 pm"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "11:30 am–9:15 pm"
-      ],
-      "Friday": [
-        "11:30 am–9:15 pm"
-      ],
-      "Saturday": [
-        "11:30 am–9:15 pm"
-      ],
-      "Sunday": [
-        "11:30 am–9:15 pm"
-      ]
-    },
-    "review_count": 235,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfos1bwiUYqAjzdUqQqLFk5bvP_zQ9u1ny45lDtIGhaW5D82EH5FJaGRtZapVU7WIMNuDxcQ2udetby20cWkQf6P1lojAq7SKSjqJpQGnRa8yWduFHEfYyl6lswcDpuOEtFq68=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfos1bwiUYqAjzdUqQqLFk5bvP_zQ9u1ny45lDtIGhaW5D82EH5FJaGRtZapVU7WIMNuDxcQ2udetby20cWkQf6P1lojAq7SKSjqJpQGnRa8yWduFHEfYyl6lswcDpuOEtFq68=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Eeklo, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJV2yrfwBlw0cRSC7NM7GVbK4",
-    "name": "Islamitische Socio-culturel vzw De ToekomstMakers",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Eeklo",
-    "address": "Islamitische Socio-culturel vzw De ToekomstMakers, residente ledegancio, Molenstraat 28, 9900 Eeklo",
-    "street": "residente ledegancio, Molenstraat 28",
-    "postal_code": "9900",
-    "region": null,
-    "latitude": 51.1860143,
-    "longitude": 3.5633285999999997,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Islamitische%20Socio-culturel%20vzw%20De%20ToekomstMakers&query_place_id=ChIJV2yrfwBlw0cRSC7NM7GVbK4",
-    "open_hours_json": null,
-    "review_count": 0,
-    "rating": null,
-    "thumbnail_url": null,
-    "image_url": null,
-    "source_query": "Mosque in Tielt, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ7yjYQTtkw0cRBUc4KEqmmGY",
-    "name": "Krugershopping",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Eeklo",
-    "address": "Krugershopping, Stationsstraat 82f, 9900 Eeklo",
-    "street": "Stationsstraat 82f",
-    "postal_code": "9900",
-    "region": null,
-    "latitude": 51.1821633,
-    "longitude": 3.572043,
-    "phone": null,
-    "website": "http://www.krugershoppingeeklo.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Krugershopping&query_place_id=ChIJ7yjYQTtkw0cRBUc4KEqmmGY",
-    "open_hours_json": {
-      "Monday": [
-        "10 am–6 pm"
-      ],
-      "Tuesday": [
-        "10 am–6 pm"
-      ],
-      "Wednesday": [
-        "10 am–6 pm"
-      ],
-      "Thursday": [
-        "10 am–6 pm"
-      ],
-      "Friday": [
-        "10 am–6 pm"
-      ],
-      "Saturday": [
-        "10 am–6 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 931,
-    "rating": 4.0,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdT0WpEkLQvDdr4srE5QJSguUUntxSbvSEMvVmaMLaYRTdlS3XfxezP55b0AvCaCTWB_2PTazUsWuHn4Go3rogM4Cpcuw89BvclTXP4eKIsKhvAhabK6YHjV2NRDz24PQ2JcSYd=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdT0WpEkLQvDdr4srE5QJSguUUntxSbvSEMvVmaMLaYRTdlS3XfxezP55b0AvCaCTWB_2PTazUsWuHn4Go3rogM4Cpcuw89BvclTXP4eKIsKhvAhabK6YHjV2NRDz24PQ2JcSYd=w1000-h750-no",
-    "source_query": "Hypermarket in Eeklo, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJxYqzEsllw0cRGZ2DHjvD3Ns",
-    "name": "New York Burger",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Eeklo",
-    "address": "New York Burger, Markt 47, 9900 Eeklo",
-    "street": "Markt 47",
-    "postal_code": "9900",
-    "region": null,
-    "latitude": 51.1841922,
-    "longitude": 3.5657357999999997,
-    "phone": "0472 38 63 83",
-    "website": "http://www.newyorkburger.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=New%20York%20Burger&query_place_id=ChIJxYqzEsllw0cRGZ2DHjvD3Ns",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "Closed"
-      ],
-      "Friday": [
-        "5–9 pm"
-      ],
-      "Saturday": [
-        "Closed"
-      ],
-      "Sunday": [
-        "5–9 pm"
-      ]
-    },
-    "review_count": 199,
-    "rating": 4.9,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf4yC0_93VIoieJZAGZDWxUjZj9tzp_b3Tx9NUC8jrX5yEzpkFxPrZTA08u0mzPuSa-Ehuhg_v7r4EwHMK7dn9TLnP6WwoXnCM2qIVxM1biMc1RN2pnpKvPCSxJaqWbPZj9qsp6JQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf4yC0_93VIoieJZAGZDWxUjZj9tzp_b3Tx9NUC8jrX5yEzpkFxPrZTA08u0mzPuSa-Ehuhg_v7r4EwHMK7dn9TLnP6WwoXnCM2qIVxM1biMc1RN2pnpKvPCSxJaqWbPZj9qsp6JQ=w1000-h750-no",
-    "source_query": "Halal restaurant in Eeklo, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJCaQ9Euhlw0cRCRh59c0nULc",
-    "name": "Pizzeria Sardinia",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Eeklo",
-    "address": "Pizzeria Sardinia, Markt 89, 9900 Eeklo",
-    "street": "Markt 89",
-    "postal_code": "9900",
-    "region": null,
-    "latitude": 51.1848459,
-    "longitude": 3.5643919,
-    "phone": "09 378 07 13",
-    "website": "http://www.pizzeriasardinia.weebly.com/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Sardinia&query_place_id=ChIJCaQ9Euhlw0cRCRh59c0nULc",
-    "open_hours_json": {
-      "Monday": [
-        "5:30–9 pm"
-      ],
-      "Tuesday": [
-        "5:30–9 pm"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "5:30–9 pm"
-      ],
-      "Friday": [
-        "12–2 pm",
-        "5:30–9:30 pm"
-      ],
-      "Saturday": [
-        "5:30–9:30 pm"
-      ],
-      "Sunday": [
-        "5:30–9 pm"
-      ]
-    },
-    "review_count": 161,
-    "rating": 4.8,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeblx85v2yDwka9vngoL0UgTccVPvyTdJM2w8GKSYpk3imYdkZ7LsACqBviFOfpPeRZtvMcsC8R9CCHlBLWG7PvBpcVHENbPyE3ee3VBukaVqs1DwuZTARbLdxPWOCRcHEjHrB4=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeblx85v2yDwka9vngoL0UgTccVPvyTdJM2w8GKSYpk3imYdkZ7LsACqBviFOfpPeRZtvMcsC8R9CCHlBLWG7PvBpcVHENbPyE3ee3VBukaVqs1DwuZTARbLdxPWOCRcHEjHrB4=w1000-h750-no",
-    "source_query": "Halal restaurant in Eeklo, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJkY6nBIJnw0cRQsgkRjnZc68",
-    "name": "Restaurant Laan 7",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Eeklo",
-    "address": "Restaurant Laan 7, Leopoldlaan 7, 9900 Eeklo",
-    "street": "Leopoldlaan 7",
-    "postal_code": "9900",
-    "region": null,
-    "latitude": 51.1916702,
-    "longitude": 3.5508973,
-    "phone": "09 233 75 05",
-    "website": "https://laan7.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20Laan%207&query_place_id=ChIJkY6nBIJnw0cRQsgkRjnZc68",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "12–11 pm"
-      ],
-      "Wednesday": [
-        "12–11 pm"
-      ],
-      "Thursday": [
-        "12–11 pm"
-      ],
-      "Friday": [
-        "12–11 pm"
-      ],
-      "Saturday": [
-        "12–11 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 290,
-    "rating": 4.8,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLczqt4V0ucfJEsoJJ0nbQYn1zFeX8xR30KQXg_sU3AbNPTu_80OzehSIVoU15GAT-jLYN-KbqIvV--LAx850SJ50ytqRgH4R79Pgh8Iqd4QuBesWKcRJ2XIaAyc2YVsLJbtw5K9=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLczqt4V0ucfJEsoJJ0nbQYn1zFeX8xR30KQXg_sU3AbNPTu_80OzehSIVoU15GAT-jLYN-KbqIvV--LAx850SJ50ytqRgH4R79Pgh8Iqd4QuBesWKcRJ2XIaAyc2YVsLJbtw5K9=w1000-h750-no",
-    "source_query": "Halal restaurant in Eeklo, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJdWSt-uVlw0cRkPgeXltW0Fw",
-    "name": "Safian market",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Eeklo",
-    "address": "Safian market, Stationsstraat 27, 9900 Eeklo",
-    "street": "Stationsstraat 27",
-    "postal_code": "9900",
-    "region": null,
-    "latitude": 51.183549,
-    "longitude": 3.5687946999999998,
-    "phone": "0465 18 26 53",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Safian%20market&query_place_id=ChIJdWSt-uVlw0cRkPgeXltW0Fw",
-    "open_hours_json": {
-      "Monday": [
-        "9 am–9 pm"
-      ],
-      "Tuesday": [
-        "9 am–9 pm"
-      ],
-      "Wednesday": [
-        "9 am–9 pm"
-      ],
-      "Thursday": [
-        "9 am–9 pm"
-      ],
-      "Friday": [
-        "9 am–9 pm"
-      ],
-      "Saturday": [
-        "9 am–9 pm"
-      ],
-      "Sunday": [
-        "9 am–9 pm"
-      ]
-    },
-    "review_count": 8,
-    "rating": 5.0,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcBdDc4eZgYTQvdfcCVKFwmF12uFxDZG0vExWvqUOQVZyZDeqE5TwUvocmGkcrXIBP5dNosk_Ryd2D-OsRrg_lyCiYg_-zoLQMqesVZVGtO5PAgCDBW6ub9LSIfs-iKA62ow5NUacX8ibKs=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcBdDc4eZgYTQvdfcCVKFwmF12uFxDZG0vExWvqUOQVZyZDeqE5TwUvocmGkcrXIBP5dNosk_Ryd2D-OsRrg_lyCiYg_-zoLQMqesVZVGtO5PAgCDBW6ub9LSIfs-iKA62ow5NUacX8ibKs=w1000-h750-no",
-    "source_query": "Hypermarket in Eeklo, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJNyf5JuJlw0cRCkUbKp_ydxc",
-    "name": "Supermarket 2 Eeklo",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Eeklo",
-    "address": "Supermarket 2 Eeklo, Stationsstraat 12, 9900 Eeklo",
-    "street": "Stationsstraat 12",
-    "postal_code": "9900",
-    "region": null,
-    "latitude": 51.1832469,
-    "longitude": 3.5682302999999997,
-    "phone": "0484 40 54 59",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Supermarket%202%20Eeklo&query_place_id=ChIJNyf5JuJlw0cRCkUbKp_ydxc",
-    "open_hours_json": {
-      "Monday": [
-        "8 am–7 pm"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "8 am–7 pm"
-      ],
-      "Thursday": [
-        "8 am–7 pm"
-      ],
-      "Friday": [
-        "8 am–7 pm"
-      ],
-      "Saturday": [
-        "8 am–7 pm"
-      ],
-      "Sunday": [
-        "8 am–7 pm"
-      ]
-    },
-    "review_count": 56,
-    "rating": 4.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfVqWpn2EFiIRvESIXzlc4Hz-IdeV0VtoX9y_BXteBTdvHu0g9B-JfCcIp2AZNqsrJ-QcRtzBDRR9DJES1Vn71NyejcV2HVPe39iDrtq-Ld4F-rqWG7Em64GJOg3VEahWhkX9I-=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfVqWpn2EFiIRvESIXzlc4Hz-IdeV0VtoX9y_BXteBTdvHu0g9B-JfCcIp2AZNqsrJ-QcRtzBDRR9DJES1Vn71NyejcV2HVPe39iDrtq-Ld4F-rqWG7Em64GJOg3VEahWhkX9I-=w1000-h750-no",
-    "source_query": "Halal restaurant in Eeklo, Flanders, BE",
     "moderation_status": "approved",
     "is_active": true,
     "verification_status": "UNVERIFIED",

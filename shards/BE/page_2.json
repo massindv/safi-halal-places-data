@@ -1,5 +1,586 @@
 [
   {
+    "place_id": "ChIJ3wVnXt6HwUcRpJyD2KJHFmU",
+    "name": "Restaurant fleur de sel",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Aiseau-Presles",
+    "address": "Restaurant fleur de sel, Rue d'Oignies 202/0001, 6250 Aiseau-Presles",
+    "street": "Rue d'Oignies 202/0001",
+    "postal_code": "6250",
+    "region": null,
+    "latitude": 50.4290218,
+    "longitude": 4.6124155,
+    "phone": "0455 14 08 95",
+    "website": "https://fleurdeselrestaurant.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20fleur%20de%20sel&query_place_id=ChIJ3wVnXt6HwUcRpJyD2KJHFmU",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "12–3 pm",
+        "6–9 pm"
+      ],
+      "Wednesday": [
+        "12–3 pm",
+        "6–9 pm"
+      ],
+      "Thursday": [
+        "12–3 pm",
+        "6–9 pm"
+      ],
+      "Friday": [
+        "12–3 pm",
+        "6–10 pm"
+      ],
+      "Saturday": [
+        "12–3 pm",
+        "6–10 pm"
+      ],
+      "Sunday": [
+        "12–3 pm",
+        "6–9 pm"
+      ]
+    },
+    "review_count": 337,
+    "rating": 4.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdxhxFFK6V_lidKOhdqs3x1m-ifCgFsmURhLRrZe4yDT5ERPK0oQXGgjkyqVLXYaBru_9lGeLA-leknwjwxuiglvRPVc_WNPVregdXFK68YIb_Z-MpQ01XAx1R5Y5bVflITVhAB=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdxhxFFK6V_lidKOhdqs3x1m-ifCgFsmURhLRrZe4yDT5ERPK0oQXGgjkyqVLXYaBru_9lGeLA-leknwjwxuiglvRPVc_WNPVregdXFK68YIb_Z-MpQ01XAx1R5Y5bVflITVhAB=w1000-h750-no",
+    "source_query": "Halal restaurant in Fleurus, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJs0vgXYQZwUcRxAm_G0uI62k",
+    "name": "Bait-ur-Raheem Moskee (Ahmadiyya Moslim Gemeenschap)",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Alken",
+    "address": "Bait-ur-Raheem Moskee (Ahmadiyya Moslim Gemeenschap), Steenweg 300, 3570 Alken",
+    "street": "Steenweg 300",
+    "postal_code": "3570",
+    "region": null,
+    "latitude": 50.8753941,
+    "longitude": 5.264448799999999,
+    "phone": "011 35 29 20",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bait-ur-Raheem%20Moskee%20%28Ahmadiyya%20Moslim%20Gemeenschap%29&query_place_id=ChIJs0vgXYQZwUcRxAm_G0uI62k",
+    "open_hours_json": null,
+    "review_count": 47,
+    "rating": 4.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfYNjHss7CRxjk_hget9GMl39OKZYepXS6a9eBQVUsEMYyMgROrUJtA2NC2TDYmoEnrT2qDgmKyMh0Bt4GKNviGE0iO_r_zTD45tqJAp-C0b3Zvd8gbK4yQFXleMtnylTSAzS6z=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfYNjHss7CRxjk_hget9GMl39OKZYepXS6a9eBQVUsEMYyMgROrUJtA2NC2TDYmoEnrT2qDgmKyMh0Bt4GKNviGE0iO_r_zTD45tqJAp-C0b3Zvd8gbK4yQFXleMtnylTSAzS6z=w1000-h750-no",
+    "source_query": "Mosque in Zoutleeuw, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJjUeDyBH7wEcRKCTkxbVsHyo",
+    "name": "Au P'tit Bon Orme",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Alleur",
+    "address": "Au P'tit Bon Orme, Rue Al Trappe 56 •, Rue Al'Trappe 56, 4432 Alleur",
+    "street": "Rue Al Trappe 56 •, Rue Al'Trappe 56",
+    "postal_code": "4432",
+    "region": null,
+    "latitude": 50.684723,
+    "longitude": 5.5250084,
+    "phone": "04 263 78 63",
+    "website": "http://www.auptitbonorme.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Au%20P%27tit%20Bon%20Orme&query_place_id=ChIJjUeDyBH7wEcRKCTkxbVsHyo",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "12–2:30 pm"
+      ],
+      "Wednesday": [
+        "12–2:30 pm"
+      ],
+      "Thursday": [
+        "12–2:30 pm"
+      ],
+      "Friday": [
+        "12–2:30 pm"
+      ],
+      "Saturday": [
+        "12–2:30 pm",
+        "6:30–10 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 163,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdzYPFZJglxH9fIm3o4dezqJZpwZon_jRzWLMpK7bngVfjKG-L2wKe2UNnFbhdyYOA1Kf80mbL9XRETaNSWDoWfWKcdCZ_ymEe44ITr4apnC8H8M7n1FmL8P2i-R-KkZsola6WL=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdzYPFZJglxH9fIm3o4dezqJZpwZon_jRzWLMpK7bngVfjKG-L2wKe2UNnFbhdyYOA1Kf80mbL9XRETaNSWDoWfWKcdCZ_ymEe44ITr4apnC8H8M7n1FmL8P2i-R-KkZsola6WL=w1000-h750-no",
+    "source_query": "Fish restaurant in Liers, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJq6kjo6rB3EcRyfZvST7CIgA",
+    "name": "'t Jachthuis van Eversam",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Alveringem",
+    "address": "'t Jachthuis van Eversam, Eversamstraat 2, 8691 Alveringem",
+    "street": "Eversamstraat 2",
+    "postal_code": "8691",
+    "region": null,
+    "latitude": 50.938611099999996,
+    "longitude": 2.6930555999999997,
+    "phone": "057 40 12 74",
+    "website": "http://www.jachthuisvaneversam.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%27t%20Jachthuis%20van%20Eversam&query_place_id=ChIJq6kjo6rB3EcRyfZvST7CIgA",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "Closed"
+      ],
+      "Friday": [
+        "12–3 pm",
+        "6–10 pm"
+      ],
+      "Saturday": [
+        "6–10 pm"
+      ],
+      "Sunday": [
+        "12–4 pm",
+        "6–9:30 pm"
+      ]
+    },
+    "review_count": 179,
+    "rating": 4.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdFUkNfe-LBQINGEsiAza4LkmQMsBIA4je5yUSfN6ZkecII4NlQe90DL4D-GOHvPW-0urJx7cWaqwuaKxPwJ9NzWTWvnNl4CZ_fhzMX5vDO9R651j7x1v7pGDO-u9UiX0VcbRk=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdFUkNfe-LBQINGEsiAza4LkmQMsBIA4je5yUSfN6ZkecII4NlQe90DL4D-GOHvPW-0urJx7cWaqwuaKxPwJ9NzWTWvnNl4CZ_fhzMX5vDO9R651j7x1v7pGDO-u9UiX0VcbRk=w1000-h750-no",
+    "source_query": "Fish restaurant in Reningelst, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJbUC36W3A3EcRnSk94kvE3jY",
+    "name": "De Drie Ridders",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Alveringem",
+    "address": "De Drie Ridders, Weegschede 1, 8691 Alveringem",
+    "street": "Weegschede 1",
+    "postal_code": "8691",
+    "region": null,
+    "latitude": 50.9703952,
+    "longitude": 2.6776956999999997,
+    "phone": "0474 77 75 18",
+    "website": "https://www.dedrieridders.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=De%20Drie%20Ridders&query_place_id=ChIJbUC36W3A3EcRnSk94kvE3jY",
+    "open_hours_json": {
+      "Monday": [
+        "7–7:30 pm"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "7–7:30 pm"
+      ],
+      "Friday": [
+        "7–7:30 pm"
+      ],
+      "Saturday": [
+        "7–7:30 pm"
+      ],
+      "Sunday": [
+        "1–1:30 pm"
+      ]
+    },
+    "review_count": 120,
+    "rating": 4.9,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdECk0DzwGBSav57XW6OTXiRsN7HK_bGO3ulzis3masqbh2kC0cSCFzXFB_NBwtImE8T1-SmEPdJa-dkWIxHl2ZTpMDnBk2j1fFLXFh_FfUUwSkMk-8ucIsZ_Jy_ANR29ZcaS8c=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdECk0DzwGBSav57XW6OTXiRsN7HK_bGO3ulzis3masqbh2kC0cSCFzXFB_NBwtImE8T1-SmEPdJa-dkWIxHl2ZTpMDnBk2j1fFLXFh_FfUUwSkMk-8ucIsZ_Jy_ANR29ZcaS8c=w1000-h750-no",
+    "source_query": "Fish restaurant in Reninge, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ0ewxGwSV3EcRjAzn9D_59Rw",
+    "name": "Exquise Seafood",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Alveringem",
+    "address": "Exquise Seafood, Izenbergestraat 22c, 8691 Alveringem",
+    "street": "Izenbergestraat 22c",
+    "postal_code": "8691",
+    "region": null,
+    "latitude": 50.9857233,
+    "longitude": 2.6238761999999998,
+    "phone": "0494 67 65 97",
+    "website": "https://www.exquise-seafood.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Exquise%20Seafood&query_place_id=ChIJ0ewxGwSV3EcRjAzn9D_59Rw",
+    "open_hours_json": null,
+    "review_count": 14,
+    "rating": 5.0,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeBVeHvJIc9o-00CCiY0HPJuJN1PgNiZlxIFKcjwKfdBHkyQ7_I2Vt1TE7ByYpJqr73WEq7jCJP1SYfPjSp26B94QaIIbOFHLxzuw8j0J3A8-0IPOcqPKCy9hK8X3lUnd8g9zfy=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeBVeHvJIc9o-00CCiY0HPJuJN1PgNiZlxIFKcjwKfdBHkyQ7_I2Vt1TE7ByYpJqr73WEq7jCJP1SYfPjSp26B94QaIIbOFHLxzuw8j0J3A8-0IPOcqPKCy9hK8X3lUnd8g9zfy=w1000-h750-no",
+    "source_query": "Fish restaurant in Reninge, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJiant_gW_3EcR7YDY3baxmoU",
+    "name": "Horecaservice Nevejan",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Alveringem",
+    "address": "Horecaservice Nevejan, Hostede 2, 8690 Alveringem",
+    "street": "Hostede 2",
+    "postal_code": "8690",
+    "region": null,
+    "latitude": 50.976619299999996,
+    "longitude": 2.6969478,
+    "phone": "058 28 08 83",
+    "website": "http://www.nevejan.eu/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Horecaservice%20Nevejan&query_place_id=ChIJiant_gW_3EcR7YDY3baxmoU",
+    "open_hours_json": {
+      "Monday": [
+        "9 am–12 pm",
+        "1–5 pm"
+      ],
+      "Tuesday": [
+        "9 am–12 pm",
+        "1–5 pm"
+      ],
+      "Wednesday": [
+        "9 am–12 pm",
+        "1–5 pm"
+      ],
+      "Thursday": [
+        "9 am–12 pm",
+        "1–5 pm"
+      ],
+      "Friday": [
+        "9 am–12 pm",
+        "1–5 pm"
+      ],
+      "Saturday": [
+        "9 am–12 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 84,
+    "rating": 4.0,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfUUlpk7znxFX8MUx3EnwHtkK3emNnGmZG-78otLaQg9oQDRGpDxhr5J3K7o-8WmHHHacYpvGM-I5NtH3PchCNDSsKeGL3pgcsOX3tIZOn4BXQ533OZ3a0N3mlfcdWOrEJLz2v0DQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfUUlpk7znxFX8MUx3EnwHtkK3emNnGmZG-78otLaQg9oQDRGpDxhr5J3K7o-8WmHHHacYpvGM-I5NtH3PchCNDSsKeGL3pgcsOX3tIZOn4BXQ533OZ3a0N3mlfcdWOrEJLz2v0DQ=w1000-h750-no",
+    "source_query": "Fish restaurant in Reninge, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJZbLcoDWV3EcROZ3pzntQKic",
+    "name": "Restaurant De Schreve",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Alveringem",
+    "address": "Restaurant De Schreve, Izenbergestraat 27, 8691 Alveringem",
+    "street": "Izenbergestraat 27",
+    "postal_code": "8691",
+    "region": null,
+    "latitude": 50.9857325,
+    "longitude": 2.6235046,
+    "phone": "058 29 86 51",
+    "website": "http://www.deschreve.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20De%20Schreve&query_place_id=ChIJZbLcoDWV3EcROZ3pzntQKic",
+    "open_hours_json": {
+      "Monday": [
+        "11:30 am–5 pm"
+      ],
+      "Tuesday": [
+        "11:30 am–5 pm"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "Closed"
+      ],
+      "Friday": [
+        "11:30 am–9 pm"
+      ],
+      "Saturday": [
+        "11:30 am–9 pm"
+      ],
+      "Sunday": [
+        "11:30 am–9 pm"
+      ]
+    },
+    "review_count": 210,
+    "rating": 4.4,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe198rdLbe9TglNAdKku1W5WEwAa6IRBoLxRaltiFw1iRVh2YMmTX2qW6_AdvmJX_lHSOc-vBx_z4knBmeuBZIa80wHrr5x8OrDxeBFbhVP_EUxaJsINRKcXdgllJqN5OTPrjhmjA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe198rdLbe9TglNAdKku1W5WEwAa6IRBoLxRaltiFw1iRVh2YMmTX2qW6_AdvmJX_lHSOc-vBx_z4knBmeuBZIa80wHrr5x8OrDxeBFbhVP_EUxaJsINRKcXdgllJqN5OTPrjhmjA=w1000-h750-no",
+    "source_query": "Fish restaurant in Reninge, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJiVtGM0XB3EcR4qWVmvBBN8Y",
+    "name": "d'Oase",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Alveringem",
+    "address": "d'Oase, Hoogstadestraat 48, 8690 Alveringem",
+    "street": "Hoogstadestraat 48",
+    "postal_code": "8690",
+    "region": null,
+    "latitude": 50.9792634,
+    "longitude": 2.6917059,
+    "phone": "0496 11 09 50",
+    "website": "http://www.doase.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=d%27Oase&query_place_id=ChIJiVtGM0XB3EcR4qWVmvBBN8Y",
+    "open_hours_json": {
+      "Monday": [
+        "12–4 pm",
+        "7 pm–12 am"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "7 pm–12 am"
+      ],
+      "Friday": [
+        "12–4 pm",
+        "7 pm–12 am"
+      ],
+      "Saturday": [
+        "12–4 pm",
+        "7 pm–12 am"
+      ],
+      "Sunday": [
+        "12–4 pm",
+        "7 pm–12 am"
+      ]
+    },
+    "review_count": 91,
+    "rating": 4.9,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdemccmCfMJYwLM_SBagqHnLff3dpJR-r3p6vqNShVTYikPujonCZ-fdA16frCFqPqpLLZ4qd8QLJxXk6PFG5FrRQBU0vTgTtSWeH1syKtbxQ8bX_5ovRARHp929AuMdzBQXWo=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdemccmCfMJYwLM_SBagqHnLff3dpJR-r3p6vqNShVTYikPujonCZ-fdA16frCFqPqpLLZ4qd8QLJxXk6PFG5FrRQBU0vTgTtSWeH1syKtbxQ8bX_5ovRARHp929AuMdzBQXWo=w1000-h750-no",
+    "source_query": "Fish restaurant in Reninge, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJb9Jo1Z6V3EcRc45OLKVh-r0",
+    "name": "de Zwarte Leeuw Leisele",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Alveringem",
+    "address": "de Zwarte Leeuw Leisele, Beverenstraat 14, 8691 Alveringem",
+    "street": "Beverenstraat 14",
+    "postal_code": "8691",
+    "region": null,
+    "latitude": 50.983944,
+    "longitude": 2.6232734,
+    "phone": "058 59 90 57",
+    "website": "http://www.dezwarteleeuw.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=de%20Zwarte%20Leeuw%20Leisele&query_place_id=ChIJb9Jo1Z6V3EcRc45OLKVh-r0",
+    "open_hours_json": {
+      "Monday": [
+        "Open 24 hours"
+      ],
+      "Tuesday": [
+        "Open 24 hours"
+      ],
+      "Wednesday": [
+        "Open 24 hours"
+      ],
+      "Thursday": [
+        "Open 24 hours"
+      ],
+      "Friday": [
+        "Open 24 hours"
+      ],
+      "Saturday": [
+        "Open 24 hours"
+      ],
+      "Sunday": [
+        "Open 24 hours"
+      ]
+    },
+    "review_count": 20,
+    "rating": 5.0,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeolc4LIbNZv5rToTjECeSXm7K0dyQJO11Hk-YiWE3CnLoJ9qbYqZiFFavWbH0ObCtaMMsEKpsUiGhXHxJR_KkAsqc1HE6_XWjUHW4AiXnGMySx8TrzUxtyJeTXwxQth93xTYkt=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeolc4LIbNZv5rToTjECeSXm7K0dyQJO11Hk-YiWE3CnLoJ9qbYqZiFFavWbH0ObCtaMMsEKpsUiGhXHxJR_KkAsqc1HE6_XWjUHW4AiXnGMySx8TrzUxtyJeTXwxQth93xTYkt=w1000-h750-no",
+    "source_query": "Fish restaurant in Reninge, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ8f-dRVCrwUcRPmm8aO8l_HQ",
+    "name": "La Ri-Ga",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Amay",
+    "address": "La Ri-Ga, Chau. de Liège 194, 4540 Amay",
+    "street": "Chau. de Liège 194",
+    "postal_code": "4540",
+    "region": null,
+    "latitude": 50.5376347,
+    "longitude": 5.265315999999999,
+    "phone": "0496 30 46 99",
+    "website": "https://www.ri-ga.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Ri-Ga&query_place_id=ChIJ8f-dRVCrwUcRPmm8aO8l_HQ",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "6–10 pm"
+      ],
+      "Thursday": [
+        "6–10 pm"
+      ],
+      "Friday": [
+        "12–2:30 pm",
+        "6–10 pm"
+      ],
+      "Saturday": [
+        "6–10 pm"
+      ],
+      "Sunday": [
+        "12–2:30 pm",
+        "6–9 pm"
+      ]
+    },
+    "review_count": 138,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLexNhdnqjuWHbMTgjoc6ZpPBqlcuoJf2V3kQ2P8T5oTTGwYWp-A-Bbf1_lgVsBfDkVsY15svBsHex9pHjLv7VG-Bjxb5ZVQlYAsCLUvWmaR1wRgfdLFCqF8tBtuGy4S8_uepLV9=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLexNhdnqjuWHbMTgjoc6ZpPBqlcuoJf2V3kQ2P8T5oTTGwYWp-A-Bbf1_lgVsBfDkVsY15svBsHex9pHjLv7VG-Bjxb5ZVQlYAsCLUvWmaR1wRgfdLFCqF8tBtuGy4S8_uepLV9=w1000-h750-no",
+    "source_query": "Fish restaurant in Huy, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJT_V2iWAvVQ0RRA_GcSjyp18",
+    "name": "Tajinier Ambarès-et-lagrave",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "FR",
+    "country_code": "FR",
+    "city": "Ambarès-et-Lagrave",
+    "address": "Tajinier Ambarès-et-lagrave, 2 Av. de la Libération, 33440 Ambarès-et-Lagrave",
+    "street": "2 Av. de la Libération",
+    "postal_code": "33440",
+    "region": null,
+    "latitude": 44.917387999999995,
+    "longitude": -0.4821638,
+    "phone": "05 57 83 78 26",
+    "website": "https://tajinier.com/nos-restaurants/ambares-et-lagrave/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Tajinier%20Ambar%C3%A8s-et-lagrave&query_place_id=ChIJT_V2iWAvVQ0RRA_GcSjyp18",
+    "open_hours_json": {
+      "Monday": [
+        "12–2 pm"
+      ],
+      "Tuesday": [
+        "12–2 pm",
+        "7–10 pm"
+      ],
+      "Wednesday": [
+        "12–2 pm",
+        "7–10 pm"
+      ],
+      "Thursday": [
+        "12–2 pm",
+        "7–10 pm"
+      ],
+      "Friday": [
+        "12–2 pm",
+        "7–10:30 pm"
+      ],
+      "Saturday": [
+        "12–2 pm",
+        "7–10:30 pm"
+      ],
+      "Sunday": [
+        "12–2 pm"
+      ]
+    },
+    "review_count": 1718,
+    "rating": 4.4,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLenkUdxNRWf55ejggy4sdiXQ0r4pkmRqoCJIW4NvXlwj0LYBJFOhH7yisBsTqHQfo9YVM949M_R-wuYRs08fACP-1ayQ8wKAK7SETUCWXcToAZzo7uSrVhGKzLafDxDz6_eysvf=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLenkUdxNRWf55ejggy4sdiXQ0r4pkmRqoCJIW4NvXlwj0LYBJFOhH7yisBsTqHQfo9YVM949M_R-wuYRs08fACP-1ayQ8wKAK7SETUCWXcToAZzo7uSrVhGKzLafDxDz6_eysvf=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Bruges, New Aquitaine, FR",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJD27OrL-nwUcRHb_AizxDxNc",
     "name": "A'Torat Restaurant",
     "type": "restaurant",
@@ -2064,7 +2645,7 @@
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdbFcI4ej8NlBpB-TT16uyoZGJYMD_w3W9zeqXkNpP-9vdSoffn-keq3hodAxUM08XUGj9LG0R3yogXyCdHUbt7rJr2WV0FdDwbzM8NIFZDlz4IbTkwhVpR_EB6w6IUbT_85vPkQKlLwMBP=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdbFcI4ej8NlBpB-TT16uyoZGJYMD_w3W9zeqXkNpP-9vdSoffn-keq3hodAxUM08XUGj9LG0R3yogXyCdHUbt7rJr2WV0FdDwbzM8NIFZDlz4IbTkwhVpR_EB6w6IUbT_85vPkQKlLwMBP=w1000-h750-no",
     "rating": 4.4,
-    "review_count": 464,
+    "review_count": 467,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null,
     "is_active": true,
@@ -2123,6 +2704,32 @@
     "moderation_status": "approved"
   },
   {
+    "place_id": "ChIJU1fmbtXFw0cR2uvJROmpcss",
+    "name": "African shop anderlecht brussels",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Anderlecht",
+    "address": "African shop anderlecht brussels, Clemenceaulaan 42, 1070 Anderlecht",
+    "street": "Clemenceaulaan 42",
+    "postal_code": "1070",
+    "region": null,
+    "latitude": 50.840352499999995,
+    "longitude": 4.3339967999999995,
+    "phone": "0465 41 91 09",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=African%20shop%20anderlecht%20brussels&query_place_id=ChIJU1fmbtXFw0cR2uvJROmpcss",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfYX3YI77Nbmn-f1exCVZIpemA9i8h6l3xi3CjoP_KcVZR-gyluw6rNpKV8L97acBuPA_BiDERtCxNxVjXQ3JCawT37k3kcbqPxA4R5u5X-WavyZd9hla1Pr2p9t69DSkYpNexxbmimgGj-=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfYX3YI77Nbmn-f1exCVZIpemA9i8h6l3xi3CjoP_KcVZR-gyluw6rNpKV8L97acBuPA_BiDERtCxNxVjXQ3JCawT37k3kcbqPxA4R5u5X-WavyZd9hla1Pr2p9t69DSkYpNexxbmimgGj-=w1000-h750-no",
+    "rating": 5.0,
+    "review_count": 17,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
     "place_id": "ChIJvfTR0nTEw0cRzIGrX2wyi6U",
     "name": "Aim El Fath",
     "type": "mosque",
@@ -2139,8 +2746,8 @@
     "phone": "02 527 53 43",
     "website": "https://mawaqit.net/fr/w/el-fath-bruxelles",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Aim%20El%20Fath&query_place_id=ChIJvfTR0nTEw0cRzIGrX2wyi6U",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfWjAqboTzhK21ayB_Z1VCt2XkbXuzf6zVIrddP3id4DQeXMzwO8HH8RiVux9cL7C-78N9zSvnzJkf8OVx0oSaYLA5Z-zz_7e378zQVnyviW84ZWYgMVt5xoV8lEFxSnBNVnfOi02I4y2mQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfWjAqboTzhK21ayB_Z1VCt2XkbXuzf6zVIrddP3id4DQeXMzwO8HH8RiVux9cL7C-78N9zSvnzJkf8OVx0oSaYLA5Z-zz_7e378zQVnyviW84ZWYgMVt5xoV8lEFxSnBNVnfOi02I4y2mQ=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdWLRH3GIypRbBnLuXqGwO71DM4ftfnltVW0YVTnlHuyMbgysS04aBNCN80M6HswpfFW1s2zyW6Spaw2TltzZV2elMpcqaVCmJXu6Sstmudquc1wFZy2okSOPI7BWNYuDSOkSGW=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdWLRH3GIypRbBnLuXqGwO71DM4ftfnltVW0YVTnlHuyMbgysS04aBNCN80M6HswpfFW1s2zyW6Spaw2TltzZV2elMpcqaVCmJXu6Sstmudquc1wFZy2okSOPI7BWNYuDSOkSGW=w1000-h750-no",
     "rating": 4.6,
     "review_count": 130,
     "verification_status": "UNVERIFIED",
@@ -2191,8 +2798,8 @@
     "phone": "02 520 78 67",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Hoda&query_place_id=ChIJx7wboHTEw0cRPmR_HlFtBVw",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLetFMJxW_yd_5a9i8TKoYsdd20eYPmAa0ukpDhuH9lq2nomBeoOCEKxWF2OIBVzOBZv63J4Y31B9MZ5QOLQUOrfKWvxBZhpjDlhICZMVqrrQNn2WV2wE8pSSj8K_l3heSX3Ct2yag=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLetFMJxW_yd_5a9i8TKoYsdd20eYPmAa0ukpDhuH9lq2nomBeoOCEKxWF2OIBVzOBZv63J4Y31B9MZ5QOLQUOrfKWvxBZhpjDlhICZMVqrrQNn2WV2wE8pSSj8K_l3heSX3Ct2yag=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdxFV8_1mQmaqE2Oz0VJgXBkO-qAY5NPUzsfn01uGdnC5uwDS-znbv_hqCR_AnElRYmZzXfUqGHQeIge8Usqt4xmpRvvJSF-kNPhTd0bJfyh-nU4OmP-Qf-SCq2rnRDy2IsV0Kcxg=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdxFV8_1mQmaqE2Oz0VJgXBkO-qAY5NPUzsfn01uGdnC5uwDS-znbv_hqCR_AnElRYmZzXfUqGHQeIge8Usqt4xmpRvvJSF-kNPhTd0bJfyh-nU4OmP-Qf-SCq2rnRDy2IsV0Kcxg=w1000-h750-no",
     "rating": 4.4,
     "review_count": 25,
     "verification_status": "UNVERIFIED",
@@ -2297,8 +2904,8 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Alfalouss&query_place_id=ChIJ2XKRPADEw0cRQHWRupEVSpo",
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLerovQbDKURD5emiR5CR9M2e6GO7S7IEhhFgFw7OsOZ5zvruUP9-kqzXu6hzebu29gJgN7vcrBwEfAvN4y74mKMv3d_KcVZ8QFHoRVh792U1eD4lynrQCuMkIYGXM0R1Rol0srP6A=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLerovQbDKURD5emiR5CR9M2e6GO7S7IEhhFgFw7OsOZ5zvruUP9-kqzXu6hzebu29gJgN7vcrBwEfAvN4y74mKMv3d_KcVZ8QFHoRVh792U1eD4lynrQCuMkIYGXM0R1Rol0srP6A=w1000-h750-no",
-    "rating": null,
-    "review_count": 0,
+    "rating": 3.9,
+    "review_count": 203,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null,
     "is_active": true,
@@ -2399,8 +3006,8 @@
     "phone": "0487 17 20 00",
     "website": "http://bspice.shop/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=B-spice&query_place_id=ChIJiRIB9QvEw0cRiYKOfBr6-LM",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLexYwO-1FcLT9Ghj6xEBtmIDIv3HnYfKF2QYbpQ_tvpgpHotw7meyvkRVrF1OYq6Gi5PKRO9ufrC5h54qSwQSEGSrvfhI9gSu3umqdKXu4xbEt0cowo3TeLflE2EpV7T2H0dpmE=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLexYwO-1FcLT9Ghj6xEBtmIDIv3HnYfKF2QYbpQ_tvpgpHotw7meyvkRVrF1OYq6Gi5PKRO9ufrC5h54qSwQSEGSrvfhI9gSu3umqdKXu4xbEt0cowo3TeLflE2EpV7T2H0dpmE=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdYktiopTxIvuprqqhq3tNWfT1Ug_Rg8KBrcn0CCmXI9K5qzkr5lxGYXRaMJP_RWJtMPlUKjiKVLgAxbPA8n3yj1RxmjFiFj_rRpzf-3wJ3FYGWpo6mVI7U5ogWv4t3bGReRaXdWw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdYktiopTxIvuprqqhq3tNWfT1Ug_Rg8KBrcn0CCmXI9K5qzkr5lxGYXRaMJP_RWJtMPlUKjiKVLgAxbPA8n3yj1RxmjFiFj_rRpzf-3wJ3FYGWpo6mVI7U5ogWv4t3bGReRaXdWw=w1000-h750-no",
     "rating": 4.4,
     "review_count": 176,
     "verification_status": "UNVERIFIED",
@@ -2451,8 +3058,8 @@
     "phone": "0465 67 11 39",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=BOUCHERIE%20BISSO%20NA%20BISSO&query_place_id=ChIJDQfDYGXFw0cRBYntGdTebWU",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfSs6dIs73AQyX7zxvy5GLMFYHILaPO_4gTaf_3-vq0UB7tLU2QcCAbvFGU2Gqq2AQy4pJHqdCRDmFjqGQk3d2eZ9t16bVdXcS8KwYNJRMp7DOSLRm68sjvSMpo3p1lLaGtptzQUTYOlSjT=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfSs6dIs73AQyX7zxvy5GLMFYHILaPO_4gTaf_3-vq0UB7tLU2QcCAbvFGU2Gqq2AQy4pJHqdCRDmFjqGQk3d2eZ9t16bVdXcS8KwYNJRMp7DOSLRm68sjvSMpo3p1lLaGtptzQUTYOlSjT=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdHFTsOqfSEmJX6m-yyVzUKGvHzAOti6hA_SpAprLToiWPEfL7Whvfw32GE3O22uptKfzcZ9u3IfkXmR-Rdafjc_-H7As3v_Zr-7NrDb3N5jp6ju4ark_kcrfw4FeSDiuPYmAPr9Qo8VGIF=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdHFTsOqfSEmJX6m-yyVzUKGvHzAOti6hA_SpAprLToiWPEfL7Whvfw32GE3O22uptKfzcZ9u3IfkXmR-Rdafjc_-H7As3v_Zr-7NrDb3N5jp6ju4ark_kcrfw4FeSDiuPYmAPr9Qo8VGIF=w1000-h750-no",
     "rating": 4.9,
     "review_count": 204,
     "verification_status": "UNVERIFIED",
@@ -2797,6 +3404,32 @@
     "moderation_status": "approved"
   },
   {
+    "place_id": "ChIJ-3SeFtPFw0cR1VkuVmUhjkg",
+    "name": "Boucherie alshaam ملحمة الشام جزارة الشام",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Anderlecht",
+    "address": "Boucherie alshaam ملحمة الشام جزارة الشام, Bergensesteenweg 71، 1070 Anderlecht",
+    "street": "Bergensesteenweg 71",
+    "postal_code": "1070",
+    "region": null,
+    "latitude": 50.843835999999996,
+    "longitude": 4.3347356,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boucherie%20alshaam%20%D9%85%D9%84%D8%AD%D9%85%D8%A9%20%D8%A7%D9%84%D8%B4%D8%A7%D9%85%20%D8%AC%D8%B2%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B4%D8%A7%D9%85&query_place_id=ChIJ-3SeFtPFw0cR1VkuVmUhjkg",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcyndE4KP_rY-BzVZbV05Lz_9wz7Y0OG4AeWJN5Mn_B62k6pqOvV2f4Evo_SL6HI3UoFTn4E5UBnDSKfZItmVxSLbh1ktJmNH0LrqHl3UxIU37PtS_3jcMnHOOeo285c_RVq9Hg4Kd8u8A8=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcyndE4KP_rY-BzVZbV05Lz_9wz7Y0OG4AeWJN5Mn_B62k6pqOvV2f4Evo_SL6HI3UoFTn4E5UBnDSKfZItmVxSLbh1ktJmNH0LrqHl3UxIU37PtS_3jcMnHOOeo285c_RVq9Hg4Kd8u8A8=w1000-h750-no",
+    "rating": 5.0,
+    "review_count": 1,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
     "place_id": "ChIJp-TNFRjFw0cRxvWKDMzAMWk",
     "name": "Boucherie salam",
     "type": "butcher",
@@ -2845,6 +3478,32 @@
     "review_count": 4,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJl0kiFnTEw0cRDzgVb-U8fwk",
+    "name": "Chicken Ky",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Anderlecht",
+    "address": "Chicken Ky, Chaussée de Mons 4, 1070 Anderlecht",
+    "street": "Chaussée de Mons 4",
+    "postal_code": "1070",
+    "region": null,
+    "latitude": 50.844511,
+    "longitude": 4.3381083,
+    "phone": "0484 96 50 06",
+    "website": "https://www.takeaway.com/be-fr/menu/chicken-ky-1",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chicken%20Ky&query_place_id=ChIJl0kiFnTEw0cRDzgVb-U8fwk",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLel28dgcTrot8w_GRHoGhMr7XOCQX9wZZK1gxPe8Pq_awYX1NGLaEvxl9v5TZqoK73b8oW9gERUX0TBYSC-OcldcYa2dyI4RuSqAwHgpcncTt3UGZma368hhfi35zukn7pIbmKJ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLel28dgcTrot8w_GRHoGhMr7XOCQX9wZZK1gxPe8Pq_awYX1NGLaEvxl9v5TZqoK73b8oW9gERUX0TBYSC-OcldcYa2dyI4RuSqAwHgpcncTt3UGZma368hhfi35zukn7pIbmKJ=w1000-h750-no",
+    "rating": 4.1,
+    "review_count": 159,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
     "is_active": true,
     "moderation_status": "approved"
   },
@@ -2969,8 +3628,8 @@
     "phone": "02 520 06 90",
     "website": "http://www.lamaisondumouton.be/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Het%20Schapenhuis&query_place_id=ChIJORUPdwzEw0cRTA6f0seOmEM",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeY9w8me-NRI9TjTYD2ESt_lxOzWX2O1a7ipVehB6S1pP-D3MDFe2lIGQL7_G-XBV-hCXVt67RCaTEwKnrAjEftvrIrKg-ve5Y0OTCATvKsgihPlwUIIc6-lKNSn2YHUraWsAO0=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeY9w8me-NRI9TjTYD2ESt_lxOzWX2O1a7ipVehB6S1pP-D3MDFe2lIGQL7_G-XBV-hCXVt67RCaTEwKnrAjEftvrIrKg-ve5Y0OTCATvKsgihPlwUIIc6-lKNSn2YHUraWsAO0=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeeaoTake8k8pUuHK_XXE8b9wqok4ItLc5Ob_q8JW6sDdLnGHd7ffWs0hBOCv_bnxGJvtj7jawWMTW23uHH2UDzn7gGqe2qLEtsSDXzqsZjtMQnB5TmrNa5HN4oL17VAOUgb79Y=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeeaoTake8k8pUuHK_XXE8b9wqok4ItLc5Ob_q8JW6sDdLnGHd7ffWs0hBOCv_bnxGJvtj7jawWMTW23uHH2UDzn7gGqe2qLEtsSDXzqsZjtMQnB5TmrNa5HN4oL17VAOUgb79Y=w1000-h750-no",
     "rating": 4.0,
     "review_count": 50,
     "verification_status": "UNVERIFIED",
@@ -2995,8 +3654,8 @@
     "phone": "0492 44 55 65",
     "website": "https://www.kipeatnaturel.be/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kip%20Eat%27%20Naturel&query_place_id=ChIJyxVzkzjHw0cRPn1bB_65bvU",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLePGDn9GfTByxIYF9tJp250MzMK86UCXA2OYOHRMSfBJNoreTmC9GieoTkfnaymHUvf9k_vVOIJ6xEkDsPtrqGVGRk44mKv8sM3lfW_RY42be1mbOR8SLEU8o8WqXYP1WuvSU9Y=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLePGDn9GfTByxIYF9tJp250MzMK86UCXA2OYOHRMSfBJNoreTmC9GieoTkfnaymHUvf9k_vVOIJ6xEkDsPtrqGVGRk44mKv8sM3lfW_RY42be1mbOR8SLEU8o8WqXYP1WuvSU9Y=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc2tTTTYJpLNm0xx78UjR8Lbz2NZMtzKxGhGPeR8RnYGMg7O9MufC7ods30HpkT0NA3OpCnnvWLELDR-hu-epmwBU-7omJgcJQ9ZLUygcTbr1DJgMS8kBxO6uKc1XWRKbROGG86WWouXsKA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc2tTTTYJpLNm0xx78UjR8Lbz2NZMtzKxGhGPeR8RnYGMg7O9MufC7ods30HpkT0NA3OpCnnvWLELDR-hu-epmwBU-7omJgcJQ9ZLUygcTbr1DJgMS8kBxO6uKc1XWRKbROGG86WWouXsKA=w1000-h750-no",
     "rating": 4.9,
     "review_count": 193,
     "verification_status": "UNVERIFIED",
@@ -3047,8 +3706,8 @@
     "phone": "02 870 00 16",
     "website": "https://www.ku-be.eu/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kube&query_place_id=ChIJHWAnH3bHw0cRJQllsAsec-8",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeZzzOOPjLzakKmszLP9paMZ7xnOfXfm33if430n7SsctQLhr6QiY_uk6Qir6Bhny1hGxarpOrl9Yg_ataE6pvm4oQd6TonSMh8XgAJdNiOFHgQRFBjEKBGqPFG4YWuXdlbqQmvlRRTBzZk=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeZzzOOPjLzakKmszLP9paMZ7xnOfXfm33if430n7SsctQLhr6QiY_uk6Qir6Bhny1hGxarpOrl9Yg_ataE6pvm4oQd6TonSMh8XgAJdNiOFHgQRFBjEKBGqPFG4YWuXdlbqQmvlRRTBzZk=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLelCJm3LGpUZV_7bufP3SyMYYKEJimS56ISziRzHADInFt0BKWgOqFNCbQlLR5YaGigTwInN9n125kWWQyhheMFlzs3UVX3GjzhupuXPxmDI27O7kpn7mN9fBJL5p5lpqkZmWoEhYENujQc=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLelCJm3LGpUZV_7bufP3SyMYYKEJimS56ISziRzHADInFt0BKWgOqFNCbQlLR5YaGigTwInN9n125kWWQyhheMFlzs3UVX3GjzhupuXPxmDI27O7kpn7mN9fBJL5p5lpqkZmWoEhYENujQc=w1000-h750-no",
     "rating": 4.8,
     "review_count": 230,
     "verification_status": "UNVERIFIED",
@@ -3307,8 +3966,8 @@
     "phone": "0489 77 77 99",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les%20Deux%20Fr%C3%A8res&query_place_id=ChIJfbGQI6_Fw0cR8lEfuH-BE28",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdPXp8uy5Qe62zq6m47gqi8ql62mgrhbbqrwzfHSq0j84tS3Zww-ob1sEXGNrKIy2kgelDSjkUhWHPcEkmgpNSNikhUFooalkc66uAruWTdED0bgJ7x8ycA7Sl4HH-o166fXtPDPQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdPXp8uy5Qe62zq6m47gqi8ql62mgrhbbqrwzfHSq0j84tS3Zww-ob1sEXGNrKIy2kgelDSjkUhWHPcEkmgpNSNikhUFooalkc66uAruWTdED0bgJ7x8ycA7Sl4HH-o166fXtPDPQ=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfNEH4iher8DwV-zyDVtw8CEfb083wmCe28k6Ji2TdDukfuozbsMIGJLtOhTXK4rrnGC-znjiwitOTzg9rfB9mOeKA3ew6AnN7Y3QTG9L-l_-3XBqOeEUzzLDt2nnZdggGTawvU=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfNEH4iher8DwV-zyDVtw8CEfb083wmCe28k6Ji2TdDukfuozbsMIGJLtOhTXK4rrnGC-znjiwitOTzg9rfB9mOeKA3ew6AnN7Y3QTG9L-l_-3XBqOeEUzzLDt2nnZdggGTawvU=w1000-h750-no",
     "rating": 4.5,
     "review_count": 689,
     "verification_status": "UNVERIFIED",
@@ -3489,8 +4148,8 @@
     "phone": null,
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Al%20Ahiba%20%F0%9F%95%8C&query_place_id=ChIJ7ec9r-3Hw0cRbQ-wVQZL65A",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd4pvWfxrN7yR_RWIPn0mQRT600DUittJ4XVoTA0wjVypGSL-0efieWtv2inp2dd35J4BbUsnSFiXX8L_1oxPQ8jUA8jx-lXFeHE5LrH-ABujt42nIIzktQ-Muxj_Wa71Rh-SsQk8RwR9Y=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd4pvWfxrN7yR_RWIPn0mQRT600DUittJ4XVoTA0wjVypGSL-0efieWtv2inp2dd35J4BbUsnSFiXX8L_1oxPQ8jUA8jx-lXFeHE5LrH-ABujt42nIIzktQ-Muxj_Wa71Rh-SsQk8RwR9Y=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcH6aFKphkGEzAzb1tABDxOqzf3q0s8lZy7CpMN3UQksu0DkEb5RvWe-VdCeuQNPjlGMxGiEksx3kGsTeCP49O8nb5HhnmImNPcjuzsueY_znymaDUGpa7Hi4aLnSxZXGND02TWyLrLQI4=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcH6aFKphkGEzAzb1tABDxOqzf3q0s8lZy7CpMN3UQksu0DkEb5RvWe-VdCeuQNPjlGMxGiEksx3kGsTeCP49O8nb5HhnmImNPcjuzsueY_znymaDUGpa7Hi4aLnSxZXGND02TWyLrLQI4=w1000-h750-no",
     "rating": 4.6,
     "review_count": 60,
     "verification_status": "UNVERIFIED",
@@ -3831,6 +4490,32 @@
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdAhmzK9HP40d_I--LJtq6Bp4ZHT0gDXe4ZhPY7PS5lpotD0v1BbkepkGGhU-MxO2UUPy7uFwIyk9oMbHiGhUJGgDAyWTRAOISRwSucV_rFZoFlBtd70wmyxPjD3FCi0e78NoQw=w1000-h750-no",
     "rating": 4.5,
     "review_count": 1842,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJESP-aG_Fw0cRK7K4RPNCj9E",
+    "name": "Tanger Markt Anderlecht",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Anderlecht",
+    "address": "Tanger Markt Anderlecht, Wayezstraat 97, 1070 Anderlecht",
+    "street": "Wayezstraat 97",
+    "postal_code": "1070",
+    "region": null,
+    "latitude": 50.8359144,
+    "longitude": 4.3127835999999995,
+    "phone": null,
+    "website": "http://www.tangermarkt.nl/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Tanger%20Markt%20Anderlecht&query_place_id=ChIJESP-aG_Fw0cRK7K4RPNCj9E",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe_6nMj20mQlRXNGtCd45d9837Uq1G5LgsCzXecS1VQKEihzrP-RHOP6y3PzwkwpgrbQggqffQWzmArDQt6dEzsHYtJJq5rc0JpSp9yY8sFeFaH3kdewruMCuGc1HRoN8gYP39z=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe_6nMj20mQlRXNGtCd45d9837Uq1G5LgsCzXecS1VQKEihzrP-RHOP6y3PzwkwpgrbQggqffQWzmArDQt6dEzsHYtJJq5rc0JpSp9yY8sFeFaH3kdewruMCuGc1HRoN8gYP39z=w1000-h750-no",
+    "rating": 3.8,
+    "review_count": 281,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null,
     "is_active": true,
@@ -9537,727 +10222,6 @@
     "rating": 3.1,
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdqJ7kRnZHiJukoNw69qsP2FzLvW2xRoOSJShovHj6ZI410Alqi_YDXATtRfKEaeH51HNk69S2paqPYHJ4ZHQgj8r4_kzACeiKsNeECVQ5km1R8pPcVUwdr7bP0DFHGrpErIPB066lxcDA=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdqJ7kRnZHiJukoNw69qsP2FzLvW2xRoOSJShovHj6ZI410Alqi_YDXATtRfKEaeH51HNk69S2paqPYHJ4ZHQgj8r4_kzACeiKsNeECVQ5km1R8pPcVUwdr7bP0DFHGrpErIPB066lxcDA=w1000-h750-no",
-    "source_query": "Hypermarket in Antwerp, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ3YAfGAD3w0cRVBZzdexzbZ8",
-    "name": "Hermanos Burgers & Ribs",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Antwerp",
-    "address": "Hermanos Burgers & Ribs, Nationalestraat 120, 2000 Antwerpen",
-    "street": "Nationalestraat 120",
-    "postal_code": "2000",
-    "region": null,
-    "latitude": 51.213708999999994,
-    "longitude": 4.3978459999999995,
-    "phone": "0496 22 13 00",
-    "website": "http://hermanosburgers.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Hermanos%20Burgers%20%26%20Ribs&query_place_id=ChIJ3YAfGAD3w0cRVBZzdexzbZ8",
-    "open_hours_json": {
-      "Monday": [
-        "5 pm–12 am"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "5 pm–12 am"
-      ],
-      "Thursday": [
-        "5 pm–12 am"
-      ],
-      "Friday": [
-        "5 pm–3 am"
-      ],
-      "Saturday": [
-        "5 pm–3 am"
-      ],
-      "Sunday": [
-        "5 pm–1 am"
-      ]
-    },
-    "review_count": 265,
-    "rating": 4.1,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdYKs7n1T8qjebzytqjlcvxgiXTL84RoY2QaZVr24GLaELoaaP-iPQVjIeuycH027d7TCJGhSCbd5Xjcdf9SovCGMdfAuC-W1A76f0qPrzdBFiXSZEWGKaWN6xCU9Ix_qAajJs=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdYKs7n1T8qjebzytqjlcvxgiXTL84RoY2QaZVr24GLaELoaaP-iPQVjIeuycH027d7TCJGhSCbd5Xjcdf9SovCGMdfAuC-W1A76f0qPrzdBFiXSZEWGKaWN6xCU9Ix_qAajJs=w1000-h750-no",
-    "source_query": "Halal restaurant in Antwerp, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "VERIFIED",
-    "verification_evidence": "Explicit Halal keyword indicators in listing metadata"
-  },
-  {
-    "place_id": "ChIJgZLKeqX3w0cRD8o2Nh7punA",
-    "name": "Het Goudhaantje Antwerpen",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Antwerp",
-    "address": "Het Goudhaantje Antwerpen, Abdijstraat 138, 2020 Antwerpen",
-    "street": "Abdijstraat 138",
-    "postal_code": "2020",
-    "region": null,
-    "latitude": 51.187690599999996,
-    "longitude": 4.3840528,
-    "phone": "03 226 93 22",
-    "website": "https://www.instagram.com/hetgoudhaantje_antwerpen/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Het%20Goudhaantje%20Antwerpen&query_place_id=ChIJgZLKeqX3w0cRD8o2Nh7punA",
-    "open_hours_json": {
-      "Monday": [
-        "12–8 pm"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "12–8 pm"
-      ],
-      "Thursday": [
-        "12–8 pm"
-      ],
-      "Friday": [
-        "12–8 pm"
-      ],
-      "Saturday": [
-        "12–8 pm"
-      ],
-      "Sunday": [
-        "12–8 pm"
-      ]
-    },
-    "review_count": 94,
-    "rating": 3.8,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcchrHGk5VY9g5En3vBZQk9VKOGu5nVbgVsELtkDSec_ZzKWLFCYfRukPicQqpANd1l37wq52AY2OOUxM_K-M3lGRQkaknCfrq-4fXRYPgl5YEE1M11l38bJ66dzVfk39jQkuQAQzOo-6U=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcchrHGk5VY9g5En3vBZQk9VKOGu5nVbgVsELtkDSec_ZzKWLFCYfRukPicQqpANd1l37wq52AY2OOUxM_K-M3lGRQkaknCfrq-4fXRYPgl5YEE1M11l38bJ66dzVfk39jQkuQAQzOo-6U=w1000-h750-no",
-    "source_query": "Halal restaurant in Antwerp, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "VERIFIED",
-    "verification_evidence": "Explicit Halal keyword indicators in listing metadata"
-  },
-  {
-    "place_id": "ChIJh7zfEPT2w0cRh3jtF8g7wXM",
-    "name": "Het Nieuwe Palinghuis, Antwerpen",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Antwerp",
-    "address": "Het Nieuwe Palinghuis, Antwerpen, Sint-Jansvliet 14, 2000 Antwerpen",
-    "street": "Sint-Jansvliet 14",
-    "postal_code": "2000",
-    "region": null,
-    "latitude": 51.2183393,
-    "longitude": 4.3965146,
-    "phone": "03 231 74 45",
-    "website": "http://www.hetnieuwepalinghuis.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Het%20Nieuwe%20Palinghuis%2C%20Antwerpen&query_place_id=ChIJh7zfEPT2w0cRh3jtF8g7wXM",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "12–2 pm",
-        "6–9 pm"
-      ],
-      "Friday": [
-        "Closed"
-      ],
-      "Saturday": [
-        "12–2 pm",
-        "6–9 pm"
-      ],
-      "Sunday": [
-        "12–2 pm",
-        "6–8:30 pm"
-      ]
-    },
-    "review_count": 176,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLePTs1mYcr_IYVRGTXuqBXHuL7qAPEQcptW0Ri6d0kFJPI9cyfnItxtte8qHWtqjZPI_Roa9j7LhWZY0jizceR24qBqQppHKPQHK0gO0k-hYDk9hEDTONFFttUmZprD3XhBu5Q=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLePTs1mYcr_IYVRGTXuqBXHuL7qAPEQcptW0Ri6d0kFJPI9cyfnItxtte8qHWtqjZPI_Roa9j7LhWZY0jizceR24qBqQppHKPQHK0gO0k-hYDk9hEDTONFFttUmZprD3XhBu5Q=w1000-h750-no",
-    "source_query": "Fish restaurant in Antwerp, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJLdQHbAP3w0cR0mjyD8v6qwM",
-    "name": "Hoffy's Restaurant & Take Away",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Antwerp",
-    "address": "Hoffy's Restaurant & Take Away, Lange Kievitstraat 52, 2018 Antwerpen",
-    "street": "Lange Kievitstraat 52",
-    "postal_code": "2018",
-    "region": null,
-    "latitude": 51.2127838,
-    "longitude": 4.4200192,
-    "phone": "03 234 35 35",
-    "website": "https://hoffys.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Hoffy%27s%20Restaurant%20%26%20Take%20Away&query_place_id=ChIJLdQHbAP3w0cR0mjyD8v6qwM",
-    "open_hours_json": {
-      "Monday": [
-        "10 am–10 pm"
-      ],
-      "Tuesday": [
-        "10 am–10 pm"
-      ],
-      "Wednesday": [
-        "10 am–10 pm"
-      ],
-      "Thursday": [
-        "10 am–10 pm"
-      ],
-      "Friday": [
-        "10 am–2 pm"
-      ],
-      "Saturday": [
-        "Closed"
-      ],
-      "Sunday": [
-        "10 am–10 pm"
-      ]
-    },
-    "review_count": 2362,
-    "rating": 4.8,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLckpYB1txM24NS_bm0cdwVVYMBcYNTSc1qCDmeILSq6clTGZsqqVl_-nC3uG6cBKGbtm_HuUipcZyYiPLjYIj067jOF4M6uEEukTeD-35OYjrYXYFGq3vY26xPKUg0CLd2X2TdmMQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLckpYB1txM24NS_bm0cdwVVYMBcYNTSc1qCDmeILSq6clTGZsqqVl_-nC3uG6cBKGbtm_HuUipcZyYiPLjYIj067jOF4M6uEEukTeD-35OYjrYXYFGq3vY26xPKUg0CLd2X2TdmMQ=w1000-h750-no",
-    "source_query": "Halal restaurant in Antwerp, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJgzHHqWn3w0cRUGtt_wL9djI",
-    "name": "Hoi An Vietnamese Streetfood",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Antwerp",
-    "address": "Hoi An Vietnamese Streetfood, Ernest Van Dijckkaai 26/27, 2000 Antwerpen",
-    "street": "Ernest Van Dijckkaai 26/27",
-    "postal_code": "2000",
-    "region": null,
-    "latitude": 51.2199761,
-    "longitude": 4.3965003,
-    "phone": "0486 66 51 06",
-    "website": "https://www.instagram.com/hoianrestaurant.antwerp/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Hoi%20An%20Vietnamese%20Streetfood&query_place_id=ChIJgzHHqWn3w0cRUGtt_wL9djI",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "5–9:30 pm"
-      ],
-      "Thursday": [
-        "5–9:30 pm"
-      ],
-      "Friday": [
-        "5–9:30 pm"
-      ],
-      "Saturday": [
-        "12–10 pm"
-      ],
-      "Sunday": [
-        "12–9:30 pm"
-      ]
-    },
-    "review_count": 560,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdBxFBU7zq7MzXj3vPLqXQdGhBKJTQ1nw3VqLZMnKUt0V-EdRrKwnklztHyv5buGX2QDf9mD_r6wgjWrX-j8AVeQVgO-sIxBnuNmw0QB_Ue5B_xk7RgPMBNX1SwSaFpouvoksJw6sxJ6ZLs=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdBxFBU7zq7MzXj3vPLqXQdGhBKJTQ1nw3VqLZMnKUt0V-EdRrKwnklztHyv5buGX2QDf9mD_r6wgjWrX-j8AVeQVgO-sIxBnuNmw0QB_Ue5B_xk7RgPMBNX1SwSaFpouvoksJw6sxJ6ZLs=w1000-h750-no",
-    "source_query": "Halal restaurant in Antwerp, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ05SbkGn3w0cRrdxDs5sPuvc",
-    "name": "Holland & Barrett",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Antwerp",
-    "address": "Holland & Barrett, Meir 51, 2000 Antwerpen",
-    "street": "Meir 51",
-    "postal_code": "2000",
-    "region": null,
-    "latitude": 51.218260799999996,
-    "longitude": 4.408634,
-    "phone": "09 282 29 68",
-    "website": "https://www.hollandandbarrett.be/winkels/antwerpen-meir-9025/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Holland%20%26%20Barrett&query_place_id=ChIJ05SbkGn3w0cRrdxDs5sPuvc",
-    "open_hours_json": {
-      "Monday": [
-        "9:30 am–6:30 pm"
-      ],
-      "Tuesday": [
-        "9:30 am–6:30 pm"
-      ],
-      "Wednesday": [
-        "9:30 am–6:30 pm"
-      ],
-      "Thursday": [
-        "9:30 am–6:30 pm"
-      ],
-      "Friday": [
-        "9:30 am–7 pm"
-      ],
-      "Saturday": [
-        "9:30 am–7 pm"
-      ],
-      "Sunday": [
-        "12–6 pm"
-      ]
-    },
-    "review_count": 132,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeol4NpIorJsiaWj8swRL7IyNyTOFJTf96kd6v_G--b16xx-r7QG7s-pmbG15YNzzPO6x7Blmb0LEjIBMXKujHGXzvrj2D8pCMQ1d_67xjk-k-IRuNDhCSSBI4CplGi9ugWLeGUIw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeol4NpIorJsiaWj8swRL7IyNyTOFJTf96kd6v_G--b16xx-r7QG7s-pmbG15YNzzPO6x7Blmb0LEjIBMXKujHGXzvrj2D8pCMQ1d_67xjk-k-IRuNDhCSSBI4CplGi9ugWLeGUIw=w1000-h750-no",
-    "source_query": "Pharmacy in Antwerp, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ5_N1cIf3w0cRVETq5mdD7Dw",
-    "name": "Holland & Barrett",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Antwerp",
-    "address": "Holland & Barrett, Leysstraat 28, 2000 Antwerpen",
-    "street": "Leysstraat 28",
-    "postal_code": "2000",
-    "region": null,
-    "latitude": 51.218115,
-    "longitude": 4.413927999999999,
-    "phone": "09 282 29 68",
-    "website": "https://www.hollandandbarrett.be/winkels/antwerpen-leys-9046/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Holland%20%26%20Barrett&query_place_id=ChIJ5_N1cIf3w0cRVETq5mdD7Dw",
-    "open_hours_json": {
-      "Monday": [
-        "9:30 am–6:30 pm"
-      ],
-      "Tuesday": [
-        "9:30 am–6:30 pm"
-      ],
-      "Wednesday": [
-        "9:30 am–6:30 pm"
-      ],
-      "Thursday": [
-        "9:30 am–6:30 pm"
-      ],
-      "Friday": [
-        "9:30 am–7 pm"
-      ],
-      "Saturday": [
-        "9:30 am–7 pm"
-      ],
-      "Sunday": [
-        "12–6 pm"
-      ]
-    },
-    "review_count": 6,
-    "rating": 4.0,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfjl2T1ryAoRed0V2CJoEkg98ErKzbE3TCo5-beEuxR3AhflJ-Ih_Q1832SregWXNSoBQ5hELhf5v2BIgR-GLvwQCmSxyvOfTAec-JdT8tL55kHwpuEIbfQiKp_ODhUWcFmXQV36ZYp3s3C=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfjl2T1ryAoRed0V2CJoEkg98ErKzbE3TCo5-beEuxR3AhflJ-Ih_Q1832SregWXNSoBQ5hELhf5v2BIgR-GLvwQCmSxyvOfTAec-JdT8tL55kHwpuEIbfQiKp_ODhUWcFmXQV36ZYp3s3C=w1000-h750-no",
-    "source_query": "Pharmacy in Antwerp, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ-f8Rw0T3w0cRIIMCL857WTw",
-    "name": "Holy Guacamoly Wiegstraat Antwerpen 🇲🇽",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Antwerp",
-    "address": "Holy Guacamoly Wiegstraat Antwerpen 🇲🇽, Wiegstraat 7, 2000 Antwerpen",
-    "street": "Wiegstraat 7",
-    "postal_code": "2000",
-    "region": null,
-    "latitude": 51.217994499999996,
-    "longitude": 4.4046379,
-    "phone": "03 349 70 90",
-    "website": "https://www.holyguacamoly.be/nl/#",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Holy%20Guacamoly%20Wiegstraat%20Antwerpen%20%F0%9F%87%B2%F0%9F%87%BD&query_place_id=ChIJ-f8Rw0T3w0cRIIMCL857WTw",
-    "open_hours_json": {
-      "Monday": [
-        "11:30 am–9:30 pm"
-      ],
-      "Tuesday": [
-        "11:30 am–9:30 pm"
-      ],
-      "Wednesday": [
-        "11:30 am–9:30 pm"
-      ],
-      "Thursday": [
-        "11:30 am–9:30 pm"
-      ],
-      "Friday": [
-        "11:30 am–9:30 pm"
-      ],
-      "Saturday": [
-        "11:30 am–9:30 pm"
-      ],
-      "Sunday": [
-        "5–9:30 pm"
-      ]
-    },
-    "review_count": 437,
-    "rating": 3.8,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdQhmfUpeXAb870ymckxULjXwitb_KxIVPNNExl6wbIztobvkcwOKNwMsKYGQO610gs30DCX4gIxqKJHgWZqphIMdAjzbxxEBLn11ATRQ-hlWolBZbAF-4ZPIo459N2fTaB9aau_w=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdQhmfUpeXAb870ymckxULjXwitb_KxIVPNNExl6wbIztobvkcwOKNwMsKYGQO610gs30DCX4gIxqKJHgWZqphIMdAjzbxxEBLn11ATRQ-hlWolBZbAF-4ZPIo459N2fTaB9aau_w=w1000-h750-no",
-    "source_query": "Halal restaurant in Antwerp, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJt6UjEAL3w0cRMosPj36uovw",
-    "name": "I Ro Ha",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Antwerp",
-    "address": "I Ro Ha, Haarstraat 8, 2000 Antwerpen",
-    "street": "Haarstraat 8",
-    "postal_code": "2000",
-    "region": null,
-    "latitude": 51.2204121,
-    "longitude": 4.397784199999999,
-    "phone": "03 213 08 32",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=I%20Ro%20Ha&query_place_id=ChIJt6UjEAL3w0cRMosPj36uovw",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "Closed"
-      ],
-      "Friday": [
-        "6–9:30 pm"
-      ],
-      "Saturday": [
-        "6–9:30 pm"
-      ],
-      "Sunday": [
-        "6–9:30 pm"
-      ]
-    },
-    "review_count": 306,
-    "rating": 4.8,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdJJhzUviEQUYa2fLAT0itXgMOkQoOw9XBXm9-j28scFjHwzssbK17tKTZ67q1kPG_ZG8sPSBG8xdNa34IB8yaMHk5ALjZsHZ5-iAiUJT8NBRu1d9om7Knc7JuGN8e8INskbF2qpw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdJJhzUviEQUYa2fLAT0itXgMOkQoOw9XBXm9-j28scFjHwzssbK17tKTZ67q1kPG_ZG8sPSBG8xdNa34IB8yaMHk5ALjZsHZ5-iAiUJT8NBRu1d9om7Knc7JuGN8e8INskbF2qpw=w1000-h750-no",
-    "source_query": "Fish restaurant in Antwerp, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJd19DaP72w0cRl9VkqKqrN-Q",
-    "name": "IFB Seminars",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Antwerp",
-    "address": "IFB Seminars, Frankrijklei 26/38, 2000 Antwerpen",
-    "street": "Frankrijklei 26/38",
-    "postal_code": "2000",
-    "region": null,
-    "latitude": 51.2180584,
-    "longitude": 4.4150575,
-    "phone": "0498 11 01 14",
-    "website": "https://www.ifbseminars.be/index_aboutus.asp",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=IFB%20Seminars&query_place_id=ChIJd19DaP72w0cRl9VkqKqrN-Q",
-    "open_hours_json": null,
-    "review_count": 4,
-    "rating": 5.0,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfKULme8t2x7tpM6jck9pYvNP7iufAB2O8QPOoLoSxfQ8K4wVUrtb7gzy4_q-dL4dGVPWevLm6nnhgT_2QaWGwQl5mYHITb0y-uQyypiaTi_uvzFyYrKDyXOBzOJawp-Z7oEBGt=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfKULme8t2x7tpM6jck9pYvNP7iufAB2O8QPOoLoSxfQ8K4wVUrtb7gzy4_q-dL4dGVPWevLm6nnhgT_2QaWGwQl5mYHITb0y-uQyypiaTi_uvzFyYrKDyXOBzOJawp-Z7oEBGt=w1000-h750-no",
-    "source_query": "Pharmacy in Antwerp, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJO5gm1vX2w0cRU3howYQQksY",
-    "name": "Invincible",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Antwerp",
-    "address": "Invincible, Haarstraat 7/9, 2000 Antwerpen",
-    "street": "Haarstraat 7/9",
-    "postal_code": "2000",
-    "region": null,
-    "latitude": 51.2204583,
-    "longitude": 4.3980333,
-    "phone": "03 231 32 07",
-    "website": "http://www.invincible.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Invincible&query_place_id=ChIJO5gm1vX2w0cRU3howYQQksY",
-    "open_hours_json": {
-      "Monday": [
-        "12–1:30 pm",
-        "6:30–10 pm"
-      ],
-      "Tuesday": [
-        "12–1:30 pm",
-        "6:30–10 pm"
-      ],
-      "Wednesday": [
-        "12–1:30 pm",
-        "6:30–10 pm"
-      ],
-      "Thursday": [
-        "12–1:30 pm",
-        "6:30–10 pm"
-      ],
-      "Friday": [
-        "12–1:30 pm",
-        "6:30–10 pm"
-      ],
-      "Saturday": [
-        "Closed"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 455,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdG4D50l0JC2VwCbwxkTmmNMFlxd-whONcBFJS8qujAU4nCpI7Bw8QX9efD8D27e_9g3KLrq3Yrc2QUnf5ToMrswvmXTJ1oFBrMlzhOkjQpLVoFKDFXjQiMMVCRmkqKQiSNzmKpgA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdG4D50l0JC2VwCbwxkTmmNMFlxd-whONcBFJS8qujAU4nCpI7Bw8QX9efD8D27e_9g3KLrq3Yrc2QUnf5ToMrswvmXTJ1oFBrMlzhOkjQpLVoFKDFXjQiMMVCRmkqKQiSNzmKpgA=w1000-h750-no",
-    "source_query": "Fish restaurant in Antwerp, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ7SfA3xH3w0cR2vGZXTIBtjU",
-    "name": "Islamitische Vereniging Masijd Es Salam",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Antwerp",
-    "address": "Islamitische Vereniging Masijd Es Salam, Montensstraat 23, 2140 Antwerpen",
-    "street": "Montensstraat 23",
-    "postal_code": "2140",
-    "region": null,
-    "latitude": 51.210731499999994,
-    "longitude": 4.432933,
-    "phone": "03 235 98 11",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Islamitische%20Vereniging%20Masijd%20Es%20Salam&query_place_id=ChIJ7SfA3xH3w0cR2vGZXTIBtjU",
-    "open_hours_json": null,
-    "review_count": 1,
-    "rating": 5.0,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-XRTEf2g3yq-FvHVh50qjQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=88.84015&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-XRTEf2g3yq-FvHVh50qjQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=88.84015&pitch=0&thumbfov=w1000-h750-no",
-    "source_query": "Mosque in Mortsel, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJezCbtAX3w0cRbXcLTUsbpiQ",
-    "name": "Izmir bvba",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Antwerp",
-    "address": "Izmir bvba, Ketsstraat 2, 2018 Antwerpen",
-    "street": "Ketsstraat 2",
-    "postal_code": "2018",
-    "region": null,
-    "latitude": 51.214621799999996,
-    "longitude": 4.4259252,
-    "phone": "03 271 14 78",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Izmir%20bvba&query_place_id=ChIJezCbtAX3w0cRbXcLTUsbpiQ",
-    "open_hours_json": {
-      "Monday": [
-        "9 am–8 pm"
-      ],
-      "Tuesday": [
-        "8 am–7 pm"
-      ],
-      "Wednesday": [
-        "9 am–8 pm"
-      ],
-      "Thursday": [
-        "9 am–8 pm"
-      ],
-      "Friday": [
-        "9 am–8 pm"
-      ],
-      "Saturday": [
-        "9 am–8 pm"
-      ],
-      "Sunday": [
-        "9 am–4 pm",
-        "5–8 pm"
-      ]
-    },
-    "review_count": 13,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeqMlzSQyvHtY8C_l9iS0HuECe8PR0a88KarkiFvtijnsCyl7ci__hUuc3u4g9tLtMzKGJb8vjWkdG6RohIehHqrb1YSJdpld6JhM1-Q0YJxqTfFvah7Vu1DeaDQgDHpbeJ6rRm=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeqMlzSQyvHtY8C_l9iS0HuECe8PR0a88KarkiFvtijnsCyl7ci__hUuc3u4g9tLtMzKGJb8vjWkdG6RohIehHqrb1YSJdpld6JhM1-Q0YJxqTfFvah7Vu1DeaDQgDHpbeJ6rRm=w1000-h750-no",
-    "source_query": "Hypermarket in Antwerp, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ4dvDfvv2w0cRJPRkSsa6-PE",
-    "name": "Jean Sur Mer",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Antwerp",
-    "address": "Jean Sur Mer, Oudevaartplaats 35B, 2000 Antwerpen",
-    "street": "Oudevaartplaats 35B",
-    "postal_code": "2000",
-    "region": null,
-    "latitude": 51.2140992,
-    "longitude": 4.4094142,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Jean%20Sur%20Mer&query_place_id=ChIJ4dvDfvv2w0cRJPRkSsa6-PE",
-    "open_hours_json": null,
-    "review_count": 3,
-    "rating": 4.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcgpcEDctvZqh0GETIwOq96KqknN_2iRWnFzTrNmw1eHnmhk4a4Y6ppFiYgDWvvUiUwP0a7TtKcgzimRGtCvwRpIFhIcUk_JI1M2BCp03YXpGuKAcMNSJG2g2X9FW6hwymAeL4=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcgpcEDctvZqh0GETIwOq96KqknN_2iRWnFzTrNmw1eHnmhk4a4Y6ppFiYgDWvvUiUwP0a7TtKcgzimRGtCvwRpIFhIcUk_JI1M2BCp03YXpGuKAcMNSJG2g2X9FW6hwymAeL4=w1000-h750-no",
-    "source_query": "Fish restaurant in Antwerp, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJsZ8pUrL2w0cR_6vXG9_RTpU",
-    "name": "Jisr Al Amana Instituut",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Antwerp",
-    "address": "Jisr Al Amana Instituut, Polostraat, 2660 Antwerpen",
-    "street": "Polostraat",
-    "postal_code": "2660",
-    "region": null,
-    "latitude": 51.1841746,
-    "longitude": 4.3763057,
-    "phone": "03 689 36 15",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Jisr%20Al%20Amana%20Instituut&query_place_id=ChIJsZ8pUrL2w0cR_6vXG9_RTpU",
-    "open_hours_json": null,
-    "review_count": 5,
-    "rating": 4.2,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=v8xELfxV2zOkce9WGKflGQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=103.32141&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=v8xELfxV2zOkce9WGKflGQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=103.32141&pitch=0&thumbfov=w1000-h750-no",
-    "source_query": "Mosque in Sint-Katelijne-Waver, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJMdOMFur3w0cRxb9PQ1Uv_Ew",
-    "name": "Jumbo Antwerpen Lange Leemstraat",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Antwerp",
-    "address": "Jumbo Antwerpen Lange Leemstraat, Lange Leemstraat 145, 2018 Antwerpen",
-    "street": "Lange Leemstraat 145",
-    "postal_code": "2018",
-    "region": null,
-    "latitude": 51.207208699999995,
-    "longitude": 4.4145261,
-    "phone": "03 218 10 80",
-    "website": "http://jumbo.com/nl-be",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Jumbo%20Antwerpen%20Lange%20Leemstraat&query_place_id=ChIJMdOMFur3w0cRxb9PQ1Uv_Ew",
-    "open_hours_json": {
-      "Monday": [
-        "8 am–8 pm"
-      ],
-      "Tuesday": [
-        "8 am–8 pm"
-      ],
-      "Wednesday": [
-        "8 am–8 pm"
-      ],
-      "Thursday": [
-        "8 am–8 pm"
-      ],
-      "Friday": [
-        "8 am–8 pm"
-      ],
-      "Saturday": [
-        "8 am–8 pm"
-      ],
-      "Sunday": [
-        "8 am–8 pm"
-      ]
-    },
-    "review_count": 429,
-    "rating": 3.8,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcen5lVbbITwF61eZssikusFdlILtfUNNzm-UshGObEDadz7Md1Bp6Vl3qmg4V-G2Hws_0cnp5qF-YP0czO3_TrRTvv1u0Z1LICWMVguGxyhPRBIzVno9PWOTp52xHWNzST5_wuLK6Pw0HQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcen5lVbbITwF61eZssikusFdlILtfUNNzm-UshGObEDadz7Md1Bp6Vl3qmg4V-G2Hws_0cnp5qF-YP0czO3_TrRTvv1u0Z1LICWMVguGxyhPRBIzVno9PWOTp52xHWNzST5_wuLK6Pw0HQ=w1000-h750-no",
     "source_query": "Hypermarket in Antwerp, Flanders, BE",
     "moderation_status": "approved",
     "is_active": true,

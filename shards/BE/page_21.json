@@ -1,5 +1,589 @@
 [
   {
+    "place_id": "ChIJ2Zku6gX6wEcRHaE7Tp2ysYI",
+    "name": "O’Cheese Burger",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Liège",
+    "address": "O’Cheese Burger, Rue André Dumont, 4000 Liège",
+    "street": "Rue André Dumont",
+    "postal_code": "4000",
+    "region": null,
+    "latitude": 50.638619299999995,
+    "longitude": 5.5747573,
+    "phone": "04 237 01 37",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=O%E2%80%99Cheese%20Burger&query_place_id=ChIJ2Zku6gX6wEcRHaE7Tp2ysYI",
+    "open_hours_json": null,
+    "review_count": 396,
+    "rating": 3.4,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeEQVm22uzOiBdWQ4PESDzRic8rFxc2f1ft5oxdALv3awzt3jkUodZE0TB_buvINvI9yBgE74ySbPDRfRqeHs3pwdLSrztxvyPS4f8P1R9VCvD90wYbrraOXYwJv_PJwoe7zfOVvw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeEQVm22uzOiBdWQ4PESDzRic8rFxc2f1ft5oxdALv3awzt3jkUodZE0TB_buvINvI9yBgE74ySbPDRfRqeHs3pwdLSrztxvyPS4f8P1R9VCvD90wYbrraOXYwJv_PJwoe7zfOVvw=w1000-h750-no",
+    "source_query": "Halal restaurant in Liège, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJMdNuMwD7wEcRMNB4TxuvXCM",
+    "name": "O’Tacos République Française",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Liège",
+    "address": "O’Tacos République Française, Pl. de la République Française 21, 4000 Liège",
+    "street": "Pl. de la République Française 21",
+    "postal_code": "4000",
+    "region": null,
+    "latitude": 50.643254899999995,
+    "longitude": 5.5729087999999996,
+    "phone": null,
+    "website": "https://restaurants.o-tacos.com/belgium/region-wallonne/liege/liege/liege-republique-francaise?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=O%E2%80%99Tacos%20R%C3%A9publique%20Fran%C3%A7aise&query_place_id=ChIJMdNuMwD7wEcRMNB4TxuvXCM",
+    "open_hours_json": {
+      "Monday": [
+        "11 am–12 am"
+      ],
+      "Tuesday": [
+        "11 am–12 am"
+      ],
+      "Wednesday": [
+        "11 am–12 am"
+      ],
+      "Thursday": [
+        "11 am–12 am"
+      ],
+      "Friday": [
+        "11 am–12 am"
+      ],
+      "Saturday": [
+        "11 am–12 am"
+      ],
+      "Sunday": [
+        "11 am–12 am"
+      ]
+    },
+    "review_count": 219,
+    "rating": 3.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc8WSUpLrmAHVEXUtfZfcfcXNY6KbwCegPCICif055U2QV5zVciRtJn70oBb1FbWQowpmdJeNQDu2gQ__pQcwGT2CWxCJAq9piG1pmEwJ7f22-CbohgK7Kgteqz1i2Jla4wdsoZooi7Ceij=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc8WSUpLrmAHVEXUtfZfcfcXNY6KbwCegPCICif055U2QV5zVciRtJn70oBb1FbWQowpmdJeNQDu2gQ__pQcwGT2CWxCJAq9piG1pmEwJ7f22-CbohgK7Kgteqz1i2Jla4wdsoZooi7Ceij=w1000-h750-no",
+    "source_query": "Halal restaurant in Liège, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata"
+  },
+  {
+    "place_id": "ChIJLXjJnjX7wEcRwez_9ZDCiDY",
+    "name": "PAMIR EXPRESS",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Liège",
+    "address": "PAMIR EXPRESS, Bd de la Sauvenière 122, 4000 Liège",
+    "street": "Bd de la Sauvenière 122",
+    "postal_code": "4000",
+    "region": null,
+    "latitude": 50.6419103,
+    "longitude": 5.5661866,
+    "phone": "0455 14 60 60",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=PAMIR%20EXPRESS&query_place_id=ChIJLXjJnjX7wEcRwez_9ZDCiDY",
+    "open_hours_json": {
+      "Monday": [
+        "9 am–2 am"
+      ],
+      "Tuesday": [
+        "9 am–2 am"
+      ],
+      "Wednesday": [
+        "9 am–2 am"
+      ],
+      "Thursday": [
+        "9 am–2 am"
+      ],
+      "Friday": [
+        "9 am–2 am"
+      ],
+      "Saturday": [
+        "9 am–2 am"
+      ],
+      "Sunday": [
+        "9 am–2 am"
+      ]
+    },
+    "review_count": 16,
+    "rating": 3.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe_iV2K7wzbNZXcq992xtpME-9_jibgQO7AEHHEIVgVbaNL4y2mFfA1DGphdogy8qCVevbqizQ5712M98W4S59T3lCuCjU_8Q9CX_LqsydsL1WxUXDDn3nIE5t1P-WRPRW_Wa4Z=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe_iV2K7wzbNZXcq992xtpME-9_jibgQO7AEHHEIVgVbaNL4y2mFfA1DGphdogy8qCVevbqizQ5712M98W4S59T3lCuCjU_8Q9CX_LqsydsL1WxUXDDn3nIE5t1P-WRPRW_Wa4Z=w1000-h750-no",
+    "source_query": "Hypermarket in Liège, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJLfedBVn7wEcRzEoF7N6aqLA",
+    "name": "PREMIUMFOOD-BOUTIQUE",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Liège",
+    "address": "PREMIUMFOOD-BOUTIQUE, Rue Charles Magnette 19, 4000 Liège",
+    "street": "Rue Charles Magnette 19",
+    "postal_code": "4000",
+    "region": null,
+    "latitude": 50.6406499,
+    "longitude": 5.5727321,
+    "phone": "04 368 92 02",
+    "website": "https://premiumfood-boutique.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=PREMIUMFOOD-BOUTIQUE&query_place_id=ChIJLfedBVn7wEcRzEoF7N6aqLA",
+    "open_hours_json": {
+      "Monday": [
+        "10:30 am–6:30 pm"
+      ],
+      "Tuesday": [
+        "10:30 am–6:30 pm"
+      ],
+      "Wednesday": [
+        "10:30 am–6:30 pm"
+      ],
+      "Thursday": [
+        "10:30 am–6:30 pm"
+      ],
+      "Friday": [
+        "10:30 am–6:30 pm"
+      ],
+      "Saturday": [
+        "10:30 am–6:30 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 4,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeebFNUmPAr48KM_ljfJ4SBG56BnVswySeB29ehAvIFdePV63IfW6kQYhJEo8ka-Zz65JKESx4jCpvIeGtGHBGgjyg1heQMGS68-1znTHYEb9OPKTZNdbJJHZa1aqhqGWYpnCwz=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeebFNUmPAr48KM_ljfJ4SBG56BnVswySeB29ehAvIFdePV63IfW6kQYhJEo8ka-Zz65JKESx4jCpvIeGtGHBGgjyg1heQMGS68-1znTHYEb9OPKTZNdbJJHZa1aqhqGWYpnCwz=w1000-h750-no",
+    "source_query": "Halal restaurant in Liège, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJdTp5DUz7wEcRB0WUVW92BNw",
+    "name": "Panda Market",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Liège",
+    "address": "Panda Market, Chau. de Tongres 194, 4000 Liège",
+    "street": "Chau. de Tongres 194",
+    "postal_code": "4000",
+    "region": null,
+    "latitude": 50.668249499999995,
+    "longitude": 5.5544625,
+    "phone": "04 233 73 30",
+    "website": "https://panda-market.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Panda%20Market&query_place_id=ChIJdTp5DUz7wEcRB0WUVW92BNw",
+    "open_hours_json": {
+      "Monday": [
+        "9 am–7 pm"
+      ],
+      "Tuesday": [
+        "9 am–7 pm"
+      ],
+      "Wednesday": [
+        "9 am–7 pm"
+      ],
+      "Thursday": [
+        "9 am–7 pm"
+      ],
+      "Friday": [
+        "9 am–7 pm"
+      ],
+      "Saturday": [
+        "9 am–7 pm"
+      ],
+      "Sunday": [
+        "12–6 pm"
+      ]
+    },
+    "review_count": 71,
+    "rating": 4.9,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfUbe2ygx7wOOdeMOGrjXLJ1urDdqjW8ZVjPzzPI7v5c6_NALaPzT8BxoFFrIqmXnCsAfYpu4H2APwJdM3vJVjBkCk7TIzdiCercHn2JRvkc1X-VCBkm85CTK3OfK-j-ni4VZHq=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfUbe2ygx7wOOdeMOGrjXLJ1urDdqjW8ZVjPzzPI7v5c6_NALaPzT8BxoFFrIqmXnCsAfYpu4H2APwJdM3vJVjBkCk7TIzdiCercHn2JRvkc1X-VCBkm85CTK3OfK-j-ni4VZHq=w1000-h750-no",
+    "source_query": "Hypermarket in Liers, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJXWpT4w_7wEcRDLn9mqvpSDk",
+    "name": "Pepe Chicken by FastGood Cuisine",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Liège",
+    "address": "Pepe Chicken by FastGood Cuisine, Rue de la Cathédrale 76, 4000 Liège",
+    "street": "Rue de la Cathédrale 76",
+    "postal_code": "4000",
+    "region": null,
+    "latitude": 50.6421889,
+    "longitude": 5.5737225,
+    "phone": "04 268 07 68",
+    "website": "https://www.pepechicken.fr/?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pepe%20Chicken%20by%20FastGood%20Cuisine&query_place_id=ChIJXWpT4w_7wEcRDLn9mqvpSDk",
+    "open_hours_json": {
+      "Monday": [
+        "11:30 am–2:30 pm",
+        "4:45–9:30 pm"
+      ],
+      "Tuesday": [
+        "11:30 am–2:30 pm",
+        "4:45–9:30 pm"
+      ],
+      "Wednesday": [
+        "11:30 am–3:30 pm",
+        "4:45–9:30 pm"
+      ],
+      "Thursday": [
+        "11:30 am–2:30 pm",
+        "4:45–9:30 pm"
+      ],
+      "Friday": [
+        "11:30 am–2:30 pm",
+        "4:45–9:30 pm"
+      ],
+      "Saturday": [
+        "11:30 am–2:30 pm",
+        "4:45–9:30 pm"
+      ],
+      "Sunday": [
+        "11:30 am–9:30 pm"
+      ]
+    },
+    "review_count": 148,
+    "rating": 3.1,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcf85THDzv96xwuPaaMdMaujKKmtCa0i5mzk87ciY_alCPCEeqs54v5djNkC2r6Ge8mRs2d7QfoCNMXFCDlwn3FPP_gPdyTFcyjwIkAYExUdA4fDApcJxce8iDbiUT4A6uvmFABDMGAGU_I=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcf85THDzv96xwuPaaMdMaujKKmtCa0i5mzk87ciY_alCPCEeqs54v5djNkC2r6Ge8mRs2d7QfoCNMXFCDlwn3FPP_gPdyTFcyjwIkAYExUdA4fDApcJxce8iDbiUT4A6uvmFABDMGAGU_I=w1000-h750-no",
+    "source_query": "Halal restaurant in Liège, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata"
+  },
+  {
+    "place_id": "ChIJtY2nGar7wEcR60vs1yKU29k",
+    "name": "Pita Bodrum",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Liège",
+    "address": "Pita Bodrum, Rue Grétry 95, 4020 Liège",
+    "street": "Rue Grétry 95",
+    "postal_code": "4020",
+    "region": null,
+    "latitude": 50.6347236,
+    "longitude": 5.5817127,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pita%20Bodrum&query_place_id=ChIJtY2nGar7wEcR60vs1yKU29k",
+    "open_hours_json": {
+      "Monday": [
+        "11:30 am–12 am"
+      ],
+      "Tuesday": [
+        "11:30 am–12 am"
+      ],
+      "Wednesday": [
+        "11:30 am–12 am"
+      ],
+      "Thursday": [
+        "11:30 am–12 am"
+      ],
+      "Friday": [
+        "11:30 am–12 am"
+      ],
+      "Saturday": [
+        "11:30 am–12 am"
+      ],
+      "Sunday": [
+        "4 pm–12 am"
+      ]
+    },
+    "review_count": 40,
+    "rating": 3.4,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfMqUvLeQvi1Hnn7GTPEZV8mnRIxgfZ4kKNRdcVBzONILVjvey-hBUaQC86uRObyiTAgeR-kzPv86XtTw5sUaAUmI02h3zB6KdFmInN7xSmmY68VVnXEP5XgpP5gws6bdKbNQY6Bg=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfMqUvLeQvi1Hnn7GTPEZV8mnRIxgfZ4kKNRdcVBzONILVjvey-hBUaQC86uRObyiTAgeR-kzPv86XtTw5sUaAUmI02h3zB6KdFmInN7xSmmY68VVnXEP5XgpP5gws6bdKbNQY6Bg=w1000-h750-no",
+    "source_query": "Halal restaurant in Liège, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJAzj9Kcr5wEcRdOT5eoHCGpc",
+    "name": "Pita Guillemins",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Liège",
+    "address": "Pita Guillemins, Imp. Jonckeu 2, 4000 Liège",
+    "street": "Imp. Jonckeu 2",
+    "postal_code": "4000",
+    "region": null,
+    "latitude": 50.625678799999996,
+    "longitude": 5.5679254,
+    "phone": null,
+    "website": "https://m.facebook.com/Pita-guillemins-1344595428929845/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pita%20Guillemins&query_place_id=ChIJAzj9Kcr5wEcRdOT5eoHCGpc",
+    "open_hours_json": {
+      "Monday": [
+        "11 am–11 pm"
+      ],
+      "Tuesday": [
+        "11 am–11 pm"
+      ],
+      "Wednesday": [
+        "11 am–11 pm"
+      ],
+      "Thursday": [
+        "11 am–11 pm"
+      ],
+      "Friday": [
+        "11 am–11 pm"
+      ],
+      "Saturday": [
+        "11 am–11 pm"
+      ],
+      "Sunday": [
+        "11 am–11 pm"
+      ]
+    },
+    "review_count": 273,
+    "rating": 4.2,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcnk-vrhfvz18l3mtR0buT1rdPyT7eyHSlik6hwkCy_yDJNxM8HnG9ihFGSoESE5NVEiP0OGMnp_XpRUR4b4QTKhAa-5o0U4Qor9dB9MYG4dsdGXtzmgtl2aGqOnD0Qv9nqWEbF=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcnk-vrhfvz18l3mtR0buT1rdPyT7eyHSlik6hwkCy_yDJNxM8HnG9ihFGSoESE5NVEiP0OGMnp_XpRUR4b4QTKhAa-5o0U4Qor9dB9MYG4dsdGXtzmgtl2aGqOnD0Qv9nqWEbF=w1000-h750-no",
+    "source_query": "Halal restaurant in Liège, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJzxRzRFX3wEcRaJfHx7Belvw",
+    "name": "Pita Istanbul Natalis",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Liège",
+    "address": "Pita Istanbul Natalis, Rue des Vennes 50, 4020 Liège",
+    "street": "Rue des Vennes 50",
+    "postal_code": "4020",
+    "region": null,
+    "latitude": 50.628008799999996,
+    "longitude": 5.5816599,
+    "phone": "0468 08 07 62",
+    "website": "https://www.pitanatalis.be/contact",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pita%20Istanbul%20Natalis&query_place_id=ChIJzxRzRFX3wEcRaJfHx7Belvw",
+    "open_hours_json": {
+      "Monday": [
+        "11 am–11 pm"
+      ],
+      "Tuesday": [
+        "11 am–11 pm"
+      ],
+      "Wednesday": [
+        "11 am–11 pm"
+      ],
+      "Thursday": [
+        "11 am–11 pm"
+      ],
+      "Friday": [
+        "11 am–11 pm"
+      ],
+      "Saturday": [
+        "11 am–11 pm"
+      ],
+      "Sunday": [
+        "11 am–11 pm"
+      ]
+    },
+    "review_count": 242,
+    "rating": 4.1,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdDqeijtDIsMBjRiF0V-XrCzcrogijFiT8iXPa87d8V7DdsJ8W6L7SrKXmm0-_Eej5EdYxOBj7eL-BXsxU6d--o1GGo6v5_qE5YV2-0w7mfwN3gYCtBZnqkgC9e5oyUbwIUzKs=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdDqeijtDIsMBjRiF0V-XrCzcrogijFiT8iXPa87d8V7DdsJ8W6L7SrKXmm0-_Eej5EdYxOBj7eL-BXsxU6d--o1GGo6v5_qE5YV2-0w7mfwN3gYCtBZnqkgC9e5oyUbwIUzKs=w1000-h750-no",
+    "source_query": "Halal restaurant in Liège, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJdTperCP3wEcRATPC20QFOGg",
+    "name": "Pizz'Amore",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Liège",
+    "address": "Pizz'Amore, Bd de Douai 8, 4020 Liège",
+    "street": "Bd de Douai 8",
+    "postal_code": "4020",
+    "region": null,
+    "latitude": 50.6218745,
+    "longitude": 5.593292099999999,
+    "phone": "0466 29 72 70",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pizz%27Amore&query_place_id=ChIJdTperCP3wEcRATPC20QFOGg",
+    "open_hours_json": {
+      "Monday": [
+        "5:30–10:30 pm"
+      ],
+      "Tuesday": [
+        "5:30–10:30 pm"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "5:30–10:30 pm"
+      ],
+      "Friday": [
+        "5:30–11:30 pm"
+      ],
+      "Saturday": [
+        "5:30–11:30 pm"
+      ],
+      "Sunday": [
+        "5:30–10:30 pm"
+      ]
+    },
+    "review_count": 460,
+    "rating": 4.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcHNZt1VBGUMwrwWqYBj0ewm3GLRyU9DbRcGsGcQ2ASZmsfCU0A50x_roWOVCDU5IG6zIitldNgbnrk3uQqvuGCUcgyqgEbjtR0zGosjxTOS4wbY7kCwOneliqsgH0V3NgpKORIF0Ch2MU=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcHNZt1VBGUMwrwWqYBj0ewm3GLRyU9DbRcGsGcQ2ASZmsfCU0A50x_roWOVCDU5IG6zIitldNgbnrk3uQqvuGCUcgyqgEbjtR0zGosjxTOS4wbY7kCwOneliqsgH0V3NgpKORIF0Ch2MU=w1000-h750-no",
+    "source_query": "Halal restaurant in Liège, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata"
+  },
+  {
+    "place_id": "ChIJPZwvZnj7wEcRgArSuOae8hU",
+    "name": "Place aux Huîtres",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Liège",
+    "address": "Place aux Huîtres, Quai Sur - Meuse 14, 4000 Liège",
+    "street": "Quai Sur - Meuse 14",
+    "postal_code": "4000",
+    "region": null,
+    "latitude": 50.642542,
+    "longitude": 5.5771486999999995,
+    "phone": "0493 71 34 71",
+    "website": "https://placeauxhuitres.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20aux%20Hu%C3%AEtres&query_place_id=ChIJPZwvZnj7wEcRgArSuOae8hU",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "Closed"
+      ],
+      "Friday": [
+        "Closed"
+      ],
+      "Saturday": [
+        "Closed"
+      ],
+      "Sunday": [
+        "10:30 am–4 pm"
+      ]
+    },
+    "review_count": 27,
+    "rating": 4.4,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcZYqpcl95Wh65_qUO7lZvhmjcQHdipxpWOlLBZu5wQ2IiUAcd-pK5-C8DzE_1Edd0lLKDkxn2jx7vAnt23bGhZNB2YXHrG9ojvbLoKBmRPVKUOLfrwslkDM0hcwbbdsJioB5gvOulUUhnP=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcZYqpcl95Wh65_qUO7lZvhmjcQHdipxpWOlLBZu5wQ2IiUAcd-pK5-C8DzE_1Edd0lLKDkxn2jx7vAnt23bGhZNB2YXHrG9ojvbLoKBmRPVKUOLfrwslkDM0hcwbbdsJioB5gvOulUUhnP=w1000-h750-no",
+    "source_query": "Fish restaurant in Seraing, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJQ-OHTiD7wEcRC8b5AIMuQoo",
+    "name": "Poissonnerie du Pêcheur",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Liège",
+    "address": "Poissonnerie du Pêcheur, Rue St Paul 14, 4000 Liège",
+    "street": "Rue St Paul 14",
+    "postal_code": "4000",
+    "region": null,
+    "latitude": 50.639946599999995,
+    "longitude": 5.5727696,
+    "phone": "04 243 08 62",
+    "website": "https://lapoissonneriedupecheur.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Poissonnerie%20du%20P%C3%AAcheur&query_place_id=ChIJQ-OHTiD7wEcRC8b5AIMuQoo",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "9 am–6:30 pm"
+      ],
+      "Wednesday": [
+        "9 am–6:30 pm"
+      ],
+      "Thursday": [
+        "9 am–6:30 pm"
+      ],
+      "Friday": [
+        "9 am–6:30 pm"
+      ],
+      "Saturday": [
+        "9 am–6:30 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 128,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfn2BheTMnByfq3xES5WCKCHZ0QqQ7R3KVr5_4GBfQaN8ntcPnVk54v6WWDSpoprvigGaPsOOjqu0AELyXtM8Yi24HeFjZh_xKNLcyjexi0mxB5uVWrvT6JqGlCB87wcJm3Te_xVg=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfn2BheTMnByfq3xES5WCKCHZ0QqQ7R3KVr5_4GBfQaN8ntcPnVk54v6WWDSpoprvigGaPsOOjqu0AELyXtM8Yi24HeFjZh_xKNLcyjexi0mxB5uVWrvT6JqGlCB87wcJm3Te_xVg=w1000-h750-no",
+    "source_query": "Fish restaurant in Liège, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJ0xQIL2j5wEcRKBRsdgiR-DY",
     "name": "Pépin",
     "type": "restaurant",
@@ -10692,622 +11276,6 @@
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeny5Hba8qCDjZ9BmYF28lRHq7X0mR6-Jjary_UvMLWRm1TJrynZ6Xz9R28QpA7vLcSwQ1s1uOJiW5Y5piSEu-bkoQCCRhgJRqGZf3jqJbJhd6bgRKVtjWRAECbJmWE0OLVj8HMdA=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeny5Hba8qCDjZ9BmYF28lRHq7X0mR6-Jjary_UvMLWRm1TJrynZ6Xz9R28QpA7vLcSwQ1s1uOJiW5Y5piSEu-bkoQCCRhgJRqGZf3jqJbJhd6bgRKVtjWRAECbJmWE0OLVj8HMdA=w1000-h750-no",
     "source_query": "Moroccan restaurant in Maaseik, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJZ7PE1E7JwEcRI8YkmkPiC6o",
-    "name": "Moskee El-Hidaya",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Maaseik",
-    "address": "Moskee El-Hidaya, Sportlaan 31, 3680 Maaseik",
-    "street": "Sportlaan 31",
-    "postal_code": "3680",
-    "region": null,
-    "latitude": 51.1051846,
-    "longitude": 5.7922224,
-    "phone": "089 75 67 10",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20El-Hidaya&query_place_id=ChIJZ7PE1E7JwEcRI8YkmkPiC6o",
-    "open_hours_json": {
-      "Monday": [
-        "5 am–11:30 pm"
-      ],
-      "Tuesday": [
-        "5 am–11:30 pm"
-      ],
-      "Wednesday": [
-        "5 am–11:30 pm"
-      ],
-      "Thursday": [
-        "5 am–11:30 pm"
-      ],
-      "Friday": [
-        "5 am–11:30 pm"
-      ],
-      "Saturday": [
-        "5 am–11:30 pm"
-      ],
-      "Sunday": [
-        "5 am–11:30 pm"
-      ]
-    },
-    "review_count": 54,
-    "rating": 4.8,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf1e6nMRXSFFZn4-K2THlpp6MC5-WYmUkpj3Z4PVoo7QGCLIji-pnCjr5bEaAgPkAWQIKo53wqCDse6SMq0yIzlygd-wTDYwU488sjLIqpsfunbfjx92Xhqk6_TmR9l2_PiIHTC=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf1e6nMRXSFFZn4-K2THlpp6MC5-WYmUkpj3Z4PVoo7QGCLIji-pnCjr5bEaAgPkAWQIKo53wqCDse6SMq0yIzlygd-wTDYwU488sjLIqpsfunbfjx92Xhqk6_TmR9l2_PiIHTC=w1000-h750-no",
-    "source_query": "Mosque in Stokkem, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJv9Bt5zfOwEcRRHJVc3Et2eE",
-    "name": "Orient Kebap",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Maaseik",
-    "address": "Orient Kebap, Ophovenstraat 63, 3680 Maaseik",
-    "street": "Ophovenstraat 63",
-    "postal_code": "3680",
-    "region": null,
-    "latitude": 51.091836799999996,
-    "longitude": 5.6992083,
-    "phone": "089 50 27 60",
-    "website": "http://www.orientkebapneeroeteren.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Orient%20Kebap&query_place_id=ChIJv9Bt5zfOwEcRRHJVc3Et2eE",
-    "open_hours_json": {
-      "Monday": [
-        "4:30 pm–12 am"
-      ],
-      "Tuesday": [
-        "4:30 pm–12 am"
-      ],
-      "Wednesday": [
-        "4:30 pm–12 am"
-      ],
-      "Thursday": [
-        "4:30 pm–12 am"
-      ],
-      "Friday": [
-        "4:30 pm–1 am"
-      ],
-      "Saturday": [
-        "4:30 pm–1 am"
-      ],
-      "Sunday": [
-        "4:30 pm–12 am"
-      ]
-    },
-    "review_count": 265,
-    "rating": 4.1,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcrr-_X6W1icekfkzugQkEa1YI8TQpnHanVoHAGI53MyJpUYvLxruLisOCKXl0sFp6J4xlC0wuSQlq7pLpxYwLtnvt6lzQbvms0v4TcIjo3zxNodYjpKNj9Ur6MSIRQATlcSZzH=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcrr-_X6W1icekfkzugQkEa1YI8TQpnHanVoHAGI53MyJpUYvLxruLisOCKXl0sFp6J4xlC0wuSQlq7pLpxYwLtnvt6lzQbvms0v4TcIjo3zxNodYjpKNj9Ur6MSIRQATlcSZzH=w1000-h750-no",
-    "source_query": "Halal restaurant in Maaseik, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJpWFhysrOwEcRmlQfJzRNbnw",
-    "name": "Osteopathie Diepvints & van Bijlevelt",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Maaseik",
-    "address": "Osteopathie Diepvints & van Bijlevelt, Kon. Astridlaan 36, 3680 Maaseik",
-    "street": "Kon. Astridlaan 36",
-    "postal_code": "3680",
-    "region": null,
-    "latitude": 51.098349,
-    "longitude": 5.7785383999999995,
-    "phone": "089 56 88 38",
-    "website": "http://www.diepvintsenvanbijlevelt.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Osteopathie%20Diepvints%20%26%20van%20Bijlevelt&query_place_id=ChIJpWFhysrOwEcRmlQfJzRNbnw",
-    "open_hours_json": {
-      "Monday": [
-        "8 am–12 pm",
-        "1:30–7 pm"
-      ],
-      "Tuesday": [
-        "8 am–12 pm",
-        "1:30–7 pm"
-      ],
-      "Wednesday": [
-        "8 am–12 pm",
-        "1:30–7 pm"
-      ],
-      "Thursday": [
-        "8 am–12 pm",
-        "1:30–7 pm"
-      ],
-      "Friday": [
-        "8 am–12 pm"
-      ],
-      "Saturday": [
-        "8 am–12 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 23,
-    "rating": 4.9,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcZpJR3BK3wKkR1VgjZs_zEIn8dWdEJ_2OjuxXU4_IzCei8IyHJC3mxKD0-0ZUuNZWInjAmBfqmfnYxEkNJbrtBnVFfa59zYtYy0QbagriLgcE_AWUIFE-SsPMYnT4mjaVItj5gEg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcZpJR3BK3wKkR1VgjZs_zEIn8dWdEJ_2OjuxXU4_IzCei8IyHJC3mxKD0-0ZUuNZWInjAmBfqmfnYxEkNJbrtBnVFfa59zYtYy0QbagriLgcE_AWUIFE-SsPMYnT4mjaVItj5gEg=w1000-h750-no",
-    "source_query": "Pharmacy in Maaseik, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ1xEHhknOwEcRasan1brgsok",
-    "name": "Oud Oteren",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Maaseik",
-    "address": "Oud Oteren, Scholtisplein 28, 3680 Maaseik",
-    "street": "Scholtisplein 28",
-    "postal_code": "3680",
-    "region": null,
-    "latitude": 51.088038,
-    "longitude": 5.7017051,
-    "phone": "089 86 40 23",
-    "website": "https://www.oudoteren.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Oud%20Oteren&query_place_id=ChIJ1xEHhknOwEcRasan1brgsok",
-    "open_hours_json": {
-      "Monday": [
-        "11:15 am–11 pm"
-      ],
-      "Tuesday": [
-        "11:15 am–11 pm"
-      ],
-      "Wednesday": [
-        "11:15 am–11 pm"
-      ],
-      "Thursday": [
-        "11:15 am–11 pm"
-      ],
-      "Friday": [
-        "11:15 am–11:45 pm"
-      ],
-      "Saturday": [
-        "11:15 am–11:45 pm"
-      ],
-      "Sunday": [
-        "11:15 am–11 pm"
-      ]
-    },
-    "review_count": 2152,
-    "rating": 4.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc1MF4GGHR9F8HJAA1Jb8RBwfR3-CIjyTFJILZHIrrIUrjO3scCA-o6bfcjsxQow7egK00wZrJwlbVp3m4SPotongyydTrX44Gv9ZAUZUCpNG-pegYJmVhy549XX5zTUKGdDwQEBg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc1MF4GGHR9F8HJAA1Jb8RBwfR3-CIjyTFJILZHIrrIUrjO3scCA-o6bfcjsxQow7egK00wZrJwlbVp3m4SPotongyydTrX44Gv9ZAUZUCpNG-pegYJmVhy549XX5zTUKGdDwQEBg=w1000-h750-no",
-    "source_query": "Halal restaurant in Maaseik, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ-8FC5mXJwEcRjpRLP-M6TAk",
-    "name": "Petrel",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Maaseik",
-    "address": "Petrel, Markt 16/2, 3680 Maaseik",
-    "street": "Markt 16/2",
-    "postal_code": "3680",
-    "region": null,
-    "latitude": 51.094184399999996,
-    "longitude": 5.7922139,
-    "phone": "089 20 55 88",
-    "website": "http://www.petrel.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Petrel&query_place_id=ChIJ-8FC5mXJwEcRjpRLP-M6TAk",
-    "open_hours_json": {
-      "Monday": [
-        "12–2:30 pm",
-        "6–9 pm"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "12–2:30 pm",
-        "6–9 pm"
-      ],
-      "Friday": [
-        "12–2:30 pm",
-        "6–9 pm"
-      ],
-      "Saturday": [
-        "12–2:30 pm",
-        "6–9 pm"
-      ],
-      "Sunday": [
-        "12–2:30 pm",
-        "5–9 pm"
-      ]
-    },
-    "review_count": 206,
-    "rating": 4.8,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdzFy-PnFTrFJvNMsC8bgReqitBlefhsk0yrSersEYyy_w3Ix5piQU50R5KtZLtj_6dXQtKNxUsLNcLVMfa2FPf36naRgIwK7UmVNWWMPOfbtLlF6xLLSRK_Cg9pX1v1tHsC-yMGA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdzFy-PnFTrFJvNMsC8bgReqitBlefhsk0yrSersEYyy_w3Ix5piQU50R5KtZLtj_6dXQtKNxUsLNcLVMfa2FPf36naRgIwK7UmVNWWMPOfbtLlF6xLLSRK_Cg9pX1v1tHsC-yMGA=w1000-h750-no",
-    "source_query": "Halal restaurant in Maaseik, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJd8DrvNXPwEcRGqHSsHlfbTk",
-    "name": "Pizza & Friends Maaseik 🇮🇹",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Maaseik",
-    "address": "Pizza & Friends Maaseik 🇮🇹, Kon. Astridlaan 63, 3680 Maaseik",
-    "street": "Kon. Astridlaan 63",
-    "postal_code": "3680",
-    "region": null,
-    "latitude": 51.098548099999995,
-    "longitude": 5.7769097,
-    "phone": "089 23 88 94",
-    "website": "https://www.pizza-friendsmaaseik.com/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pizza%20%26%20Friends%20Maaseik%20%F0%9F%87%AE%F0%9F%87%B9&query_place_id=ChIJd8DrvNXPwEcRGqHSsHlfbTk",
-    "open_hours_json": {
-      "Monday": [
-        "5–8 pm"
-      ],
-      "Tuesday": [
-        "5–8 pm"
-      ],
-      "Wednesday": [
-        "5–8 pm"
-      ],
-      "Thursday": [
-        "Closed"
-      ],
-      "Friday": [
-        "11:45 am–1 pm",
-        "5–9 pm"
-      ],
-      "Saturday": [
-        "5–9 pm"
-      ],
-      "Sunday": [
-        "5–9 pm"
-      ]
-    },
-    "review_count": 138,
-    "rating": 4.8,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeu5sFaVA_yAZwFgN8hs3qZYfzGke07tp8qhbZtWlynSjdeCJC-QIVS5glfs6pSSsNeH5yugmjmoRFOgx5K--t2afDHprrZM1zjbehEGKZUWWOBbqv7hXE446QrLKpywybEOuMqFQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeu5sFaVA_yAZwFgN8hs3qZYfzGke07tp8qhbZtWlynSjdeCJC-QIVS5glfs6pSSsNeH5yugmjmoRFOgx5K--t2afDHprrZM1zjbehEGKZUWWOBbqv7hXE446QrLKpywybEOuMqFQ=w1000-h750-no",
-    "source_query": "Halal restaurant in Maaseik, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJCQ8Xh13JwEcRlF3aD_zHUPw",
-    "name": "Restaurant De Leeuwerik",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Maaseik",
-    "address": "Restaurant De Leeuwerik, Leeuwerikstraat 80, 3680 Maaseik",
-    "street": "Leeuwerikstraat 80",
-    "postal_code": "3680",
-    "region": null,
-    "latitude": 51.1118065,
-    "longitude": 5.8072517999999995,
-    "phone": "089 24 45 15",
-    "website": "https://www.restaurantdeleeuwerik.com/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20De%20Leeuwerik&query_place_id=ChIJCQ8Xh13JwEcRlF3aD_zHUPw",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "10 am–11 pm"
-      ],
-      "Wednesday": [
-        "10 am–11 pm"
-      ],
-      "Thursday": [
-        "10 am–11 pm"
-      ],
-      "Friday": [
-        "10 am–11 pm"
-      ],
-      "Saturday": [
-        "10 am–11 pm"
-      ],
-      "Sunday": [
-        "10 am–11 pm"
-      ]
-    },
-    "review_count": 806,
-    "rating": 4.4,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeI04bnC9kl9vbT2jUL9sm9RyUFv48U2gnXSz50WGwwQ-Nf45C4JC3M7BXXk2u2uLGwmUhFN2T1sBStFEsJxAsPmtwt_8kQtfXX58kmJyNYAlHOhPGaKYGyR5GR_6pAWeIAbY7P1Q=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeI04bnC9kl9vbT2jUL9sm9RyUFv48U2gnXSz50WGwwQ-Nf45C4JC3M7BXXk2u2uLGwmUhFN2T1sBStFEsJxAsPmtwt_8kQtfXX58kmJyNYAlHOhPGaKYGyR5GR_6pAWeIAbY7P1Q=w1000-h750-no",
-    "source_query": "Halal restaurant in Maaseik, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJhQK_f8fOwEcRFYrkkzdZ9Fo",
-    "name": "Restaurant Ratatouille Maaseik",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Maaseik",
-    "address": "Restaurant Ratatouille Maaseik, Diestersteenweg 393, 3680 Maaseik",
-    "street": "Diestersteenweg 393",
-    "postal_code": "3680",
-    "region": null,
-    "latitude": 51.1006578,
-    "longitude": 5.762204199999999,
-    "phone": "089 24 39 58",
-    "website": "http://www.ratatouillemaaseik.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20Ratatouille%20Maaseik&query_place_id=ChIJhQK_f8fOwEcRFYrkkzdZ9Fo",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "7–11 pm"
-      ],
-      "Friday": [
-        "7–11 pm"
-      ],
-      "Saturday": [
-        "7–11 pm"
-      ],
-      "Sunday": [
-        "6–11 pm"
-      ]
-    },
-    "review_count": 426,
-    "rating": 4.8,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfz3LwYcId9NxxPAPDlCkfkFqZqVFT-okFQZPXCy6IEdjIiIetDRAjfRCRlMZamtO66-e1WRpaOK0TSOx09u4TvVVN0zFiEyhjWGecIRtODNzAaYJLzC7vWhTFobPpGQ9TJBRU=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfz3LwYcId9NxxPAPDlCkfkFqZqVFT-okFQZPXCy6IEdjIiIetDRAjfRCRlMZamtO66-e1WRpaOK0TSOx09u4TvVVN0zFiEyhjWGecIRtODNzAaYJLzC7vWhTFobPpGQ9TJBRU=w1000-h750-no",
-    "source_query": "Halal restaurant in Maaseik, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ8xmrz0HJwEcRLyrFeUEw0V0",
-    "name": "Restaurant de Loteling",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Maaseik",
-    "address": "Restaurant de Loteling, Willibrordusweg 5, 3680 Maaseik",
-    "street": "Willibrordusweg 5",
-    "postal_code": "3680",
-    "region": null,
-    "latitude": 51.1014571,
-    "longitude": 5.8047816,
-    "phone": "089 56 35 89",
-    "website": "https://www.deloteling.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20de%20Loteling&query_place_id=ChIJ8xmrz0HJwEcRLyrFeUEw0V0",
-    "open_hours_json": {
-      "Monday": [
-        "12–3 pm",
-        "6–11 pm"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "12–3 pm",
-        "6–11 pm"
-      ],
-      "Friday": [
-        "12–3 pm",
-        "6–11 pm"
-      ],
-      "Saturday": [
-        "12–3 pm",
-        "6–11 pm"
-      ],
-      "Sunday": [
-        "12–3 pm",
-        "6–11 pm"
-      ]
-    },
-    "review_count": 63,
-    "rating": 4.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeffLFwe7iuavo5CuK3P4v-W_hBf3YcdG5-PwW1GQSkjYRghTS1uaTu-t2Cl6UP_-KcrOa22d1_Zmf8n0MSA3AGzKQz3jnzJh7cuAh8z7ml_9FTdt0xdoLCUdzr8OxXhwdv7cmi=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeffLFwe7iuavo5CuK3P4v-W_hBf3YcdG5-PwW1GQSkjYRghTS1uaTu-t2Cl6UP_-KcrOa22d1_Zmf8n0MSA3AGzKQz3jnzJh7cuAh8z7ml_9FTdt0xdoLCUdzr8OxXhwdv7cmi=w1000-h750-no",
-    "source_query": "Halal restaurant in Maaseik, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJZ7D1k8rOwEcRyBYRYGhtnGU",
-    "name": "Slagerij Houben",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Maaseik",
-    "address": "Slagerij Houben, Kon. Astridlaan 70, 3680 Maaseik",
-    "street": "Kon. Astridlaan 70",
-    "postal_code": "3680",
-    "region": null,
-    "latitude": 51.0989467,
-    "longitude": 5.7755412999999995,
-    "phone": "089 56 56 16",
-    "website": "http://www.slagerijhouben.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Slagerij%20Houben&query_place_id=ChIJZ7D1k8rOwEcRyBYRYGhtnGU",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "8:30 am–5:30 pm"
-      ],
-      "Wednesday": [
-        "8:30 am–1 pm"
-      ],
-      "Thursday": [
-        "8:30 am–5:30 pm"
-      ],
-      "Friday": [
-        "8:30 am–5:30 pm"
-      ],
-      "Saturday": [
-        "8 am–1 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 34,
-    "rating": 4.9,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe6WNHgtjuDqZ_PttsVRipDQW60ISXcJVtHx98UP5zKhydR0jphG65QvMosZD68-XFuMU187sBVMpVM05k4FlWJnpG-On1bXaAvX2ixZUGwKh0I1Q9U64vI94aGCMlC1lfMt5tSNA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe6WNHgtjuDqZ_PttsVRipDQW60ISXcJVtHx98UP5zKhydR0jphG65QvMosZD68-XFuMU187sBVMpVM05k4FlWJnpG-On1bXaAvX2ixZUGwKh0I1Q9U64vI94aGCMlC1lfMt5tSNA=w1000-h750-no",
-    "source_query": "Halal restaurant in Maaseik, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJGVUvwznJwEcRyMtNnNryDTc",
-    "name": "Smaakkamer Lavendel",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Maaseik",
-    "address": "Smaakkamer Lavendel, Markt 31, 3680 Maaseik",
-    "street": "Markt 31",
-    "postal_code": "3680",
-    "region": null,
-    "latitude": 51.0943201,
-    "longitude": 5.7908485,
-    "phone": "089 57 20 71",
-    "website": "http://www.smaakkamerlavendel.com/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Smaakkamer%20Lavendel&query_place_id=ChIJGVUvwznJwEcRyMtNnNryDTc",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "6–9:30 pm"
-      ],
-      "Thursday": [
-        "6–9:30 pm"
-      ],
-      "Friday": [
-        "6–9:30 pm"
-      ],
-      "Saturday": [
-        "6–9:30 pm"
-      ],
-      "Sunday": [
-        "12–2 pm",
-        "6–9:30 pm"
-      ]
-    },
-    "review_count": 171,
-    "rating": 4.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfYzTelIS5Jvwvn8XCZ6Z9Cra3ULBFI7Jxj47CZT4iZwZGe8pRKO4RWzNunQp7rSzAFzr9veBPAHjtrdawzJo74R_oNmbAJISVr2OnkWlbOukAoCiwWQj8jxm50cc9MsAeuA13x-g=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfYzTelIS5Jvwvn8XCZ6Z9Cra3ULBFI7Jxj47CZT4iZwZGe8pRKO4RWzNunQp7rSzAFzr9veBPAHjtrdawzJo74R_oNmbAJISVr2OnkWlbOukAoCiwWQj8jxm50cc9MsAeuA13x-g=w1000-h750-no",
-    "source_query": "Halal restaurant in Maaseik, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ3QM54TfOwEcRU4lw3o92pts",
-    "name": "Spar Neeroeteren",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Maaseik",
-    "address": "Spar Neeroeteren, Ophovenstraat 30, 3680 Maaseik",
-    "street": "Ophovenstraat 30",
-    "postal_code": "3680",
-    "region": null,
-    "latitude": 51.0922961,
-    "longitude": 5.699707399999999,
-    "phone": "089 86 49 35",
-    "website": "https://www.mijnspar.be/winkels/spar-neeroeteren",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Spar%20Neeroeteren&query_place_id=ChIJ3QM54TfOwEcRU4lw3o92pts",
-    "open_hours_json": {
-      "Monday": [
-        "8 am–7 pm"
-      ],
-      "Tuesday": [
-        "8 am–7 pm"
-      ],
-      "Wednesday": [
-        "8 am–7 pm"
-      ],
-      "Thursday": [
-        "8 am–7 pm"
-      ],
-      "Friday": [
-        "8 am–7 pm"
-      ],
-      "Saturday": [
-        "8 am–6 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 517,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfeNX8MwXcdl1VMIi_tn5vxZADR90GFqQSP8D9VDYaDq0sWmXR__5-sJtdhivp8zyNh98aPywdrSkotK82Upu_QqS0UjEdhrNk4bRI7XpQ8sma2TBRGm_rpwi3Au5A5O0WZp2SD=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfeNX8MwXcdl1VMIi_tn5vxZADR90GFqQSP8D9VDYaDq0sWmXR__5-sJtdhivp8zyNh98aPywdrSkotK82Upu_QqS0UjEdhrNk4bRI7XpQ8sma2TBRGm_rpwi3Au5A5O0WZp2SD=w1000-h750-no",
-    "source_query": "Hypermarket in Stokkem, Flanders, BE",
     "moderation_status": "approved",
     "is_active": true,
     "verification_status": "UNVERIFIED",

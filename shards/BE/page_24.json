@@ -1,5 +1,508 @@
 [
   {
+    "place_id": "ChIJL2U4xbjxw0cRD9-BBOtoyP4",
+    "name": "Carpe Diem",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Mortsel",
+    "address": "Carpe Diem, Statielei 76, 2640 Mortsel",
+    "street": "Statielei 76",
+    "postal_code": "2640",
+    "region": null,
+    "latitude": 51.1700801,
+    "longitude": 4.4552803999999995,
+    "phone": "03 501 32 13",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Carpe%20Diem&query_place_id=ChIJL2U4xbjxw0cRD9-BBOtoyP4",
+    "open_hours_json": {
+      "Monday": [
+        "9 am–9 pm"
+      ],
+      "Tuesday": [
+        "9 am–9 pm"
+      ],
+      "Wednesday": [
+        "8 am–9 pm"
+      ],
+      "Thursday": [
+        "9 am–9 pm"
+      ],
+      "Friday": [
+        "9 am–10 pm"
+      ],
+      "Saturday": [
+        "9 am–10 pm"
+      ],
+      "Sunday": [
+        "9 am–9 pm"
+      ]
+    },
+    "review_count": 424,
+    "rating": 4.1,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfnnYMYXa6IaMnaGCYwifN1xOtw2o6JXThwLLITti6n79jfHyYCyn-u-6PG1sFG1Mox1vqe8X55CLxSDOl7L79A9YP8WyUdKOaVXSpvv4V22_rpcdZXFFDytrGUJAg-TrR6BmUW=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfnnYMYXa6IaMnaGCYwifN1xOtw2o6JXThwLLITti6n79jfHyYCyn-u-6PG1sFG1Mox1vqe8X55CLxSDOl7L79A9YP8WyUdKOaVXSpvv4V22_rpcdZXFFDytrGUJAg-TrR6BmUW=w1000-h750-no",
+    "source_query": "Fish restaurant in Mortsel, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ__aVArDww0cRAmBMd0C_LFk",
+    "name": "Chef Khem",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Mortsel",
+    "address": "Chef Khem, Eggestraat 3, 2640 Mortsel",
+    "street": "Eggestraat 3",
+    "postal_code": "2640",
+    "region": null,
+    "latitude": 51.1714704,
+    "longitude": 4.4485372,
+    "phone": "03 440 98 47",
+    "website": "https://www.facebook.com/ChefKhemMortsel",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chef%20Khem&query_place_id=ChIJ__aVArDww0cRAmBMd0C_LFk",
+    "open_hours_json": {
+      "Monday": [
+        "6–9 pm"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "6–9 pm"
+      ],
+      "Friday": [
+        "6–9 pm"
+      ],
+      "Saturday": [
+        "6–9 pm"
+      ],
+      "Sunday": [
+        "6–9 pm"
+      ]
+    },
+    "review_count": 188,
+    "rating": 4.4,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeaYpUjalH0SzircqSYB6Az8Tg7VxDFXwXLYFoNv67vSY_VqvTv4TeAYis0f6gAdZiV6kXirynfBD5IkRfCc7jVKtUXuOFRo24mm2UoooOFVleQ3gpUChO60B4fNJ1h3Tgcea8K=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeaYpUjalH0SzircqSYB6Az8Tg7VxDFXwXLYFoNv67vSY_VqvTv4TeAYis0f6gAdZiV6kXirynfBD5IkRfCc7jVKtUXuOFRo24mm2UoooOFVleQ3gpUChO60B4fNJ1h3Tgcea8K=w1000-h750-no",
+    "source_query": "Halal restaurant in Mortsel, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJCSVlWajww0cRr7bXM7sKZww",
+    "name": "Cosy Kitchen",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Mortsel",
+    "address": "Cosy Kitchen, Liersesteenweg 91, 2640 Mortsel",
+    "street": "Liersesteenweg 91",
+    "postal_code": "2640",
+    "region": null,
+    "latitude": 51.169646,
+    "longitude": 4.4627721,
+    "phone": "03 336 00 85",
+    "website": "http://www.cosykitchen.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cosy%20Kitchen&query_place_id=ChIJCSVlWajww0cRr7bXM7sKZww",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "6–8:30 pm"
+      ],
+      "Friday": [
+        "6–9:30 pm"
+      ],
+      "Saturday": [
+        "6–9:30 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 167,
+    "rating": 4.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfQPGUabBMMRPaPOVnf-1TKq7C7xyDv4O96Hn94xyQRsKQxmcsZZiClwE3SpdXYntZGLvWipYx3cAT2v4LKtVSu_g1dbtwV1OCAXt53Yc9A2B2bLCGbzt0NyBDeArDL0e0vimyP=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfQPGUabBMMRPaPOVnf-1TKq7C7xyDv4O96Hn94xyQRsKQxmcsZZiClwE3SpdXYntZGLvWipYx3cAT2v4LKtVSu_g1dbtwV1OCAXt53Yc9A2B2bLCGbzt0NyBDeArDL0e0vimyP=w1000-h750-no",
+    "source_query": "Fish restaurant in Mortsel, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJPS2B0Ujxw0cRa4t_O4PzZZc",
+    "name": "Couscous to go",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Mortsel",
+    "address": "Couscous to go, Statielei 129, 2640 Mortsel",
+    "street": "Statielei 129",
+    "postal_code": "2640",
+    "region": null,
+    "latitude": 51.170426299999995,
+    "longitude": 4.4552622,
+    "phone": "0468 26 88 72",
+    "website": "https://www.couscoustogo.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Couscous%20to%20go&query_place_id=ChIJPS2B0Ujxw0cRa4t_O4PzZZc",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "4–9 pm"
+      ],
+      "Wednesday": [
+        "4–9 pm"
+      ],
+      "Thursday": [
+        "4–9 pm"
+      ],
+      "Friday": [
+        "4–9 pm"
+      ],
+      "Saturday": [
+        "4–9 pm"
+      ],
+      "Sunday": [
+        "4–9 pm"
+      ]
+    },
+    "review_count": 232,
+    "rating": 4.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc5VNsX25BwmBdDsAoj4ZUmzfarcthnF9AVXLcr40ydYMyYiIQ7ODP7_cxQZYOhNeEFMphqV1UvPT2o89x9uSQ7RtJnaB7gN6NGKv3KWA1zodguiQ4VZaq4LIOx9BYEMDrQ1EIud43_IjFb=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc5VNsX25BwmBdDsAoj4ZUmzfarcthnF9AVXLcr40ydYMyYiIQ7ODP7_cxQZYOhNeEFMphqV1UvPT2o89x9uSQ7RtJnaB7gN6NGKv3KWA1zodguiQ4VZaq4LIOx9BYEMDrQ1EIud43_IjFb=w1000-h750-no",
+    "source_query": "Halal restaurant in Mortsel, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJt4CYoC3xw0cRq4n_pR3nl6Q",
+    "name": "Den Bassin",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Mortsel",
+    "address": "Den Bassin, Floralaan 83, 2640 Mortsel",
+    "street": "Floralaan 83",
+    "postal_code": "2640",
+    "region": null,
+    "latitude": 51.1694715,
+    "longitude": 4.4559445,
+    "phone": "03 430 16 12",
+    "website": "https://www.denbassin.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Den%20Bassin&query_place_id=ChIJt4CYoC3xw0cRq4n_pR3nl6Q",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "6–10:30 pm"
+      ],
+      "Wednesday": [
+        "12–2 pm",
+        "6–10:30 pm"
+      ],
+      "Thursday": [
+        "12–2 pm",
+        "6–10 pm"
+      ],
+      "Friday": [
+        "12–2 pm",
+        "6–10:30 pm"
+      ],
+      "Saturday": [
+        "6–10:30 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 73,
+    "rating": 4.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeqtKG8I294LkyasNFDfcCjg_O8Gpffz7-YppJCFol8-SNVINkfK9uDYaVhlG1tMF6QhWHwGJmFwTcqSHlNwqBOpBNkOvt8Tz_E3q0v7tQKAnGYJ18z7BO09QoTLd-_6_y-mOoe=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeqtKG8I294LkyasNFDfcCjg_O8Gpffz7-YppJCFol8-SNVINkfK9uDYaVhlG1tMF6QhWHwGJmFwTcqSHlNwqBOpBNkOvt8Tz_E3q0v7tQKAnGYJ18z7BO09QoTLd-_6_y-mOoe=w1000-h750-no",
+    "source_query": "Fish restaurant in Mortsel, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJlwP5vqPxw0cRIrz8Y8Mzphk",
+    "name": "Diyar Grill",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Mortsel",
+    "address": "Diyar Grill, Mechelsesteenweg 6, 2640 Mortsel",
+    "street": "Mechelsesteenweg 6",
+    "postal_code": "2640",
+    "region": null,
+    "latitude": 51.170307699999995,
+    "longitude": 4.4492329999999995,
+    "phone": null,
+    "website": "https://facebook.com/DiyarSnack/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Diyar%20Grill&query_place_id=ChIJlwP5vqPxw0cRIrz8Y8Mzphk",
+    "open_hours_json": {
+      "Monday": [
+        "3–10:30 pm"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "3–10:30 pm"
+      ],
+      "Thursday": [
+        "3–10:30 pm"
+      ],
+      "Friday": [
+        "3–11:30 pm"
+      ],
+      "Saturday": [
+        "3–11:30 pm"
+      ],
+      "Sunday": [
+        "3–10:30 pm"
+      ]
+    },
+    "review_count": 207,
+    "rating": 4.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfpuG_4pd8s_fy0IaFP6eVjfiNdze3giIVQEsj8cXsvKQRN9YkM284e_A5efeS0YfVK4PLHhGGB2YL1cJpIaLNsgU_eNL9NUpYcLwN-Cj9uKmn4BFjx9gyFGPFsnjFj7f59cAOMBUTBils=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfpuG_4pd8s_fy0IaFP6eVjfiNdze3giIVQEsj8cXsvKQRN9YkM284e_A5efeS0YfVK4PLHhGGB2YL1cJpIaLNsgU_eNL9NUpYcLwN-Cj9uKmn4BFjx9gyFGPFsnjFj7f59cAOMBUTBils=w1000-h750-no",
+    "source_query": "Halal restaurant in Mortsel, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJfc1TDa_ww0cRQVGBijV_UZU",
+    "name": "Diyar Kebab",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Mortsel",
+    "address": "Diyar Kebab, Mechelsesteenweg 15, 2640 Mortsel",
+    "street": "Mechelsesteenweg 15",
+    "postal_code": "2640",
+    "region": null,
+    "latitude": 51.1696603,
+    "longitude": 4.4507921999999995,
+    "phone": "0477 97 02 40",
+    "website": "https://facebook.com/DiyarSnack/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Diyar%20Kebab&query_place_id=ChIJfc1TDa_ww0cRQVGBijV_UZU",
+    "open_hours_json": {
+      "Monday": [
+        "11:30 am–1 am"
+      ],
+      "Tuesday": [
+        "11:30 am–1 am"
+      ],
+      "Wednesday": [
+        "2:30 pm–1 am"
+      ],
+      "Thursday": [
+        "11:30 am–1 am"
+      ],
+      "Friday": [
+        "11:30 am–3 am"
+      ],
+      "Saturday": [
+        "2:30 pm–3 am"
+      ],
+      "Sunday": [
+        "2:30 pm–1 am"
+      ]
+    },
+    "review_count": 515,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdV2JwT2R2Lpd5wb6fAjLZy8ap9UfNDl4TTPQeFkImKRClXKvzozVYymhIB9NsWPeXC32dRJISi9fFIQwjkEAYrUKD6w_y7Du20ABJ91cJ5tqAr0me_QAqTsqlPn3txKVwNFQFMFRKRpVE=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdV2JwT2R2Lpd5wb6fAjLZy8ap9UfNDl4TTPQeFkImKRClXKvzozVYymhIB9NsWPeXC32dRJISi9fFIQwjkEAYrUKD6w_y7Du20ABJ91cJ5tqAr0me_QAqTsqlPn3txKVwNFQFMFRKRpVE=w1000-h750-no",
+    "source_query": "Halal restaurant in Mortsel, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJT8rts6_ww0cR_qCFDjsZHRA",
+    "name": "Elif Grill Huis",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Mortsel",
+    "address": "Elif Grill Huis, Mechelsesteenweg 2, 2640 Mortsel",
+    "street": "Mechelsesteenweg 2",
+    "postal_code": "2640",
+    "region": null,
+    "latitude": 51.170507,
+    "longitude": 4.4491055,
+    "phone": "03 345 69 78",
+    "website": "https://www.takeaway.com/be/elif-grill-huis",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Elif%20Grill%20Huis&query_place_id=ChIJT8rts6_ww0cR_qCFDjsZHRA",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "11:30 am–10 pm"
+      ],
+      "Wednesday": [
+        "11:30 am–10 pm"
+      ],
+      "Thursday": [
+        "11:30 am–10 pm"
+      ],
+      "Friday": [
+        "11:30 am–10:30 pm"
+      ],
+      "Saturday": [
+        "12–10:30 pm"
+      ],
+      "Sunday": [
+        "11:30 am–10 pm"
+      ]
+    },
+    "review_count": 180,
+    "rating": 4.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLemKerzwySMxYdbVfsrRQKLfMPcRWkAearE45uJWak9Pt8wvQq_0x_1VnK0hD50BDMkv9d3eX89029H0e0WZ50WTd6r5-MxfkvAwLT5qCL8bkW3IglMFjrW-WFYcBgWBBr24D-Cqw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLemKerzwySMxYdbVfsrRQKLfMPcRWkAearE45uJWak9Pt8wvQq_0x_1VnK0hD50BDMkv9d3eX89029H0e0WZ50WTd6r5-MxfkvAwLT5qCL8bkW3IglMFjrW-WFYcBgWBBr24D-Cqw=w1000-h750-no",
+    "source_query": "Halal restaurant in Mortsel, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJBw6i2Q36w0cR2C9zhwYDipk",
+    "name": "Groepspraktijk De Grens",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Mortsel",
+    "address": "Groepspraktijk De Grens, Antwerpsestraat 287, 2640 Mortsel",
+    "street": "Antwerpsestraat 287",
+    "postal_code": "2640",
+    "region": null,
+    "latitude": 51.177479,
+    "longitude": 4.4348471,
+    "phone": "0479 42 61 54",
+    "website": "https://www.groepspraktijkdegrens.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Groepspraktijk%20De%20Grens&query_place_id=ChIJBw6i2Q36w0cR2C9zhwYDipk",
+    "open_hours_json": {
+      "Monday": [
+        "9 am–6 pm"
+      ],
+      "Tuesday": [
+        "9 am–6 pm"
+      ],
+      "Wednesday": [
+        "9 am–6 pm"
+      ],
+      "Thursday": [
+        "9 am–6 pm"
+      ],
+      "Friday": [
+        "9 am–12 pm"
+      ],
+      "Saturday": [
+        "8 am–12 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 11,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfN_r6ZBdC7cholQfuzbd8ugzPPsH6TFnMNzEsY2VBsOdV0jKaiuXJAhwgb6_xNDDEFJxq5kIwcLD5ZhBuCV2Zjj5VUpZLgxK3lOiducjJTpLgPYnVUIrYrtKn9LnZPU6v2l3Md=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfN_r6ZBdC7cholQfuzbd8ugzPPsH6TFnMNzEsY2VBsOdV0jKaiuXJAhwgb6_xNDDEFJxq5kIwcLD5ZhBuCV2Zjj5VUpZLgxK3lOiducjJTpLgPYnVUIrYrtKn9LnZPU6v2l3Md=w1000-h750-no",
+    "source_query": "Pharmacy in Mortsel, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ049luK_ww0cRVB23MwdDUQM",
+    "name": "Helin Supermarket",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Mortsel",
+    "address": "Helin Supermarket, Antwerpsestraat 11, 2640 Mortsel",
+    "street": "Antwerpsestraat 11",
+    "postal_code": "2640",
+    "region": null,
+    "latitude": 51.1708869,
+    "longitude": 4.4483439,
+    "phone": "0487 38 33 02",
+    "website": "https://helinsupermarkt.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Helin%20Supermarket&query_place_id=ChIJ049luK_ww0cRVB23MwdDUQM",
+    "open_hours_json": {
+      "Monday": [
+        "8 am–8 pm"
+      ],
+      "Tuesday": [
+        "8 am–8 pm"
+      ],
+      "Wednesday": [
+        "8 am–8 pm"
+      ],
+      "Thursday": [
+        "8 am–8 pm"
+      ],
+      "Friday": [
+        "8 am–8 pm"
+      ],
+      "Saturday": [
+        "8 am–8 pm"
+      ],
+      "Sunday": [
+        "8 am–8 pm"
+      ]
+    },
+    "review_count": 86,
+    "rating": 4.1,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfzYQhbeU5DGiSe4Bl4LAemDw2O4M_t9YAComLYtC44RUfh-lrnw5WEiZFS-c3V_RyVX2QPvwQt5LrtzFdU-Kya8g2x5WMGGei3edfWBvTeouHh2kscGJ4xGAsbCVXcuwPGgonN_dzSUP9r=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfzYQhbeU5DGiSe4Bl4LAemDw2O4M_t9YAComLYtC44RUfh-lrnw5WEiZFS-c3V_RyVX2QPvwQt5LrtzFdU-Kya8g2x5WMGGei3edfWBvTeouHh2kscGJ4xGAsbCVXcuwPGgonN_dzSUP9r=w1000-h750-no",
+    "source_query": "Halal restaurant in Mortsel, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJyYLkhwf6w0cR4-6e3YsYJmc",
     "name": "Het Park",
     "type": "restaurant",
@@ -7144,8 +7647,8 @@
     "phone": "0475 21 85 30",
     "website": "https://www.facebook.com/Cats-College-1034070276721517/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cat%27s%20College&query_place_id=ChIJc75oIGyZwUcR5GkWA54vP1U",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdIhA_yQTUe2Q6IVawn2rOmy0XFs4JzW-ZrRJUhuYfaDgiRI_opWSn4iPO0V5BzVqwQ-k2fbwmI8eGNO_p9e4zRhSMC85ijKV6YHSSKQJ_BknPXfnvTv51fBYzAO3TXuG1AE84Y=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdIhA_yQTUe2Q6IVawn2rOmy0XFs4JzW-ZrRJUhuYfaDgiRI_opWSn4iPO0V5BzVqwQ-k2fbwmI8eGNO_p9e4zRhSMC85ijKV6YHSSKQJ_BknPXfnvTv51fBYzAO3TXuG1AE84Y=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf1OQJDdSWs-FVFcDXXCyQE9mrk69etLoek7zEXU0bwiAE_mV4wU597vOzGwCNd4YNX61UqegcZgiHIbAwx0Kx-7wpXSIDZZ43NADVHy-D0W6HwMzBMkajM8J3H8CSlJn15jTcA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf1OQJDdSWs-FVFcDXXCyQE9mrk69etLoek7zEXU0bwiAE_mV4wU597vOzGwCNd4YNX61UqegcZgiHIbAwx0Kx-7wpXSIDZZ43NADVHy-D0W6HwMzBMkajM8J3H8CSlJn15jTcA=w1000-h750-no",
     "rating": 4.6,
     "review_count": 293,
     "verification_status": "VERIFIED",
@@ -7846,8 +8349,8 @@
     "phone": "081 58 35 27",
     "website": "http://www.elmadina.be/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=El%20Madina&query_place_id=ChIJVaVw6mWZwUcRAeUBWFF0Olg",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLevObXetcai8qPUMhves0FU5YH6RrC3N3u0JCKbHPC2iHzMCbwRUhiVI1xZWi8GAc-_fz5IKQvB2z68z4sxJ0jm_fvvukhDbcVVQQlSzgismc7O18SSIjlgJwtanaLK50AJBcKMRA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLevObXetcai8qPUMhves0FU5YH6RrC3N3u0JCKbHPC2iHzMCbwRUhiVI1xZWi8GAc-_fz5IKQvB2z68z4sxJ0jm_fvvukhDbcVVQQlSzgismc7O18SSIjlgJwtanaLK50AJBcKMRA=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcMUx9PCH5E79T26fn5NIo7SvgqeZYYrjHduayfv2fvfhm1CGr0WaMqDGTE3jZzC5y8KkK-qkbZW4ctSC1lRSkIGoXkVigS3js_WVboX0rC_1XHYp0ABzM509ecIZrb0vXfok4DSw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcMUx9PCH5E79T26fn5NIo7SvgqeZYYrjHduayfv2fvfhm1CGr0WaMqDGTE3jZzC5y8KkK-qkbZW4ctSC1lRSkIGoXkVigS3js_WVboX0rC_1XHYp0ABzM509ecIZrb0vXfok4DSw=w1000-h750-no",
     "rating": 4.1,
     "review_count": 148,
     "verification_status": "UNVERIFIED",
@@ -10737,447 +11240,6 @@
     "rating": 3.9,
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdsWRZN5C0-uqVVSa2YCEmD-52yWfIj1lo6qtQOhlUdFQjLFmeoHAfda7SShKrwVSMv0ogwXTkk2JNy4Ib8Pz4QHAovKLEbvVZ5T3GOKsOAX1DOTwi59_ouCxH_AIXv_Q8CRTfeMw=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdsWRZN5C0-uqVVSa2YCEmD-52yWfIj1lo6qtQOhlUdFQjLFmeoHAfda7SShKrwVSMv0ogwXTkk2JNy4Ib8Pz4QHAovKLEbvVZ5T3GOKsOAX1DOTwi59_ouCxH_AIXv_Q8CRTfeMw=w1000-h750-no",
-    "source_query": "Halal restaurant in Namur, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJLX7pBguZwUcRIbAFijvPSBY",
-    "name": "Quanta",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Namur",
-    "address": "Quanta, Av du Bourg Jean Materne 105, 5100 Namur",
-    "street": "Av du Bourg Jean Materne 105",
-    "postal_code": "5100",
-    "region": null,
-    "latitude": 50.4567,
-    "longitude": 4.8711899999999995,
-    "phone": "081 30 16 88",
-    "website": "https://www.pagesdor.be/entreprise/Namur/L2530561/QUANTA/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Quanta&query_place_id=ChIJLX7pBguZwUcRIbAFijvPSBY",
-    "open_hours_json": {
-      "Monday": [
-        "9 am–7 pm"
-      ],
-      "Tuesday": [
-        "9 am–7 pm"
-      ],
-      "Wednesday": [
-        "9 am–7 pm"
-      ],
-      "Thursday": [
-        "9 am–7 pm"
-      ],
-      "Friday": [
-        "9 am–7 pm"
-      ],
-      "Saturday": [
-        "9 am–7 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 1,
-    "rating": 3.0,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3vt44Lj_DD7vUuP5HcShtA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=276.10706&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3vt44Lj_DD7vUuP5HcShtA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=276.10706&pitch=0&thumbfov=w1000-h750-no",
-    "source_query": "Hypermarket in Namur, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJLQzUoTGZwUcRNonK8htMxNM",
-    "name": "Rare Burger Namur",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Namur",
-    "address": "Rare Burger Namur, Rue de Bruxelles 70, 5000 Namur",
-    "street": "Rue de Bruxelles 70",
-    "postal_code": "5000",
-    "region": null,
-    "latitude": 50.4663937,
-    "longitude": 4.860576099999999,
-    "phone": "0479 10 84 93",
-    "website": "https://www.rareburger.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Rare%20Burger%20Namur&query_place_id=ChIJLQzUoTGZwUcRNonK8htMxNM",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcUvwOgUfh7Ql1A6u8bTb5tsYOdyFaiUlF71TomaClyvCa-Po9IPreeaVSib5waxTbjLu_oaVrBSnEts1ebTp-v1cnhiQgioOheiu8CaReC3cdU3K9cmSjdmGXaCgMdqKcbRAxKZn4qP7AZ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcUvwOgUfh7Ql1A6u8bTb5tsYOdyFaiUlF71TomaClyvCa-Po9IPreeaVSib5waxTbjLu_oaVrBSnEts1ebTp-v1cnhiQgioOheiu8CaReC3cdU3K9cmSjdmGXaCgMdqKcbRAxKZn4qP7AZ=w1000-h750-no",
-    "rating": 4.8,
-    "review_count": 218,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJ4apRz2WZwUcRDHFR9qJdqEQ",
-    "name": "Restaurant Algérien \"Le Mechoui\"",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Namur",
-    "address": "Restaurant Algérien \"Le Mechoui\", Av. des Combattants 17, 5000 Namur",
-    "street": "Av. des Combattants 17",
-    "postal_code": "5000",
-    "region": null,
-    "latitude": 50.468429699999994,
-    "longitude": 4.8557559999999995,
-    "phone": "081 73 96 06",
-    "website": "https://www.le-mechoui.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20Alg%C3%A9rien%20%22Le%20Mechoui%22&query_place_id=ChIJ4apRz2WZwUcRDHFR9qJdqEQ",
-    "open_hours_json": null,
-    "review_count": 162,
-    "rating": 4.0,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd-dfi1jQUz-4GumHeiBYuArMwjRkuTvfbZtADr89kHn2KV2Gb-ovKFusbhXTVXWV7PK31aBhm91eE2HRe0en5nmjxK2VrBEGspnh31RzGro1A5kZke2wtnnOaYTrhO4VpXYNVt=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd-dfi1jQUz-4GumHeiBYuArMwjRkuTvfbZtADr89kHn2KV2Gb-ovKFusbhXTVXWV7PK31aBhm91eE2HRe0en5nmjxK2VrBEGspnh31RzGro1A5kZke2wtnnOaYTrhO4VpXYNVt=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Wavreille, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJI8OmK3iZwUcRymWRfzYikT8",
-    "name": "Restaurant Equilibrio",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Namur",
-    "address": "Restaurant Equilibrio, Rue du Collège 3, 5000 Namur",
-    "street": "Rue du Collège 3",
-    "postal_code": "5000",
-    "region": null,
-    "latitude": 50.4636499,
-    "longitude": 4.8637092,
-    "phone": "0493 55 77 27",
-    "website": "https://equilibrioevents.com/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20Equilibrio&query_place_id=ChIJI8OmK3iZwUcRymWRfzYikT8",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "6:30–9 pm"
-      ],
-      "Wednesday": [
-        "11:30 am–2:30 pm",
-        "6:30–9 pm"
-      ],
-      "Thursday": [
-        "11:30 am–2:30 pm",
-        "6:30–9:30 pm"
-      ],
-      "Friday": [
-        "11:30 am–3 pm",
-        "6:30–9:30 pm"
-      ],
-      "Saturday": [
-        "11:30 am–3 pm",
-        "6:30–9:30 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 362,
-    "rating": 4.8,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcy4qD2pW0su_dBiGja2RQGvRuKqYhP3Hz6YeKgSL6VKz3qYslEVvCRti4zvdZyTzwov-02gCv1bDWPzliJWwv2vct_V30TpOFzcG7BxjfMGA_lcMnAvPXqYqeAY42cf3RHts3U=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcy4qD2pW0su_dBiGja2RQGvRuKqYhP3Hz6YeKgSL6VKz3qYslEVvCRti4zvdZyTzwov-02gCv1bDWPzliJWwv2vct_V30TpOFzcG7BxjfMGA_lcMnAvPXqYqeAY42cf3RHts3U=w1000-h750-no",
-    "source_query": "Fish restaurant in Namur, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJkdw88WyZwUcRUiTB3HKR-KI",
-    "name": "Royal Pharmaceutical Union of the Province Namur",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Namur",
-    "address": "Royal Pharmaceutical Union of the Province Namur, Rue des Dames Blanches 1, 5000 Namur",
-    "street": "Rue des Dames Blanches 1",
-    "postal_code": "5000",
-    "region": null,
-    "latitude": 50.4669733,
-    "longitude": 4.868557399999999,
-    "phone": "081 25 14 10",
-    "website": "https://www.apnl.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Royal%20Pharmaceutical%20Union%20of%20the%20Province%20Namur&query_place_id=ChIJkdw88WyZwUcRUiTB3HKR-KI",
-    "open_hours_json": null,
-    "review_count": 2,
-    "rating": 4.0,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=i-_O0BRA_rQ1srW84QtCLA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=189.63629&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=i-_O0BRA_rQ1srW84QtCLA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=189.63629&pitch=0&thumbfov=w1000-h750-no",
-    "source_query": "Pharmacy in Namur, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJMVbvX1uZwUcRbT1Tu7-cZYA",
-    "name": "SAMET 63",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Namur",
-    "address": "SAMET 63, Av. des Combattants 5, 5000 Namur",
-    "street": "Av. des Combattants 5",
-    "postal_code": "5000",
-    "region": null,
-    "latitude": 50.4681171,
-    "longitude": 4.856733,
-    "phone": "0470 81 07 56",
-    "website": "https://namur-night-light.lovable.app/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=SAMET%2063&query_place_id=ChIJMVbvX1uZwUcRbT1Tu7-cZYA",
-    "open_hours_json": {
-      "Monday": [
-        "Open 24 hours"
-      ],
-      "Tuesday": [
-        "12–5:30 am",
-        "10 am–5:30 am"
-      ],
-      "Wednesday": [
-        "10 am–5:30 am"
-      ],
-      "Thursday": [
-        "10 am–5:30 am"
-      ],
-      "Friday": [
-        "10 am–5:30 am"
-      ],
-      "Saturday": [
-        "10 am–7:30 am"
-      ],
-      "Sunday": [
-        "10 am–12 am"
-      ]
-    },
-    "review_count": 88,
-    "rating": 5.0,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd5sr6G9HkgpF2LtIRPsSwnsbwy74fj30JGKf-IhVPgdTAE_SV7I3Un2s4nFp2L7ErBXloPAQnPyosergxCjoVnkjiX0_ynYZGAYkEU1-Ybp0zdnYvkICHXaRYRW_h-NOCT8b07ocvscEOw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd5sr6G9HkgpF2LtIRPsSwnsbwy74fj30JGKf-IhVPgdTAE_SV7I3Un2s4nFp2L7ErBXloPAQnPyosergxCjoVnkjiX0_ynYZGAYkEU1-Ybp0zdnYvkICHXaRYRW_h-NOCT8b07ocvscEOw=w1000-h750-no",
-    "source_query": "Hypermarket in Namur, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJYwmjqT-ZwUcR73kUG4QOWCE",
-    "name": "SEVENDAY",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Namur",
-    "address": "SEVENDAY, Av. des Combattants 8, 5000 Namur",
-    "street": "Av. des Combattants 8",
-    "postal_code": "5000",
-    "region": null,
-    "latitude": 50.468151299999995,
-    "longitude": 4.8564869999999996,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=SEVENDAY&query_place_id=ChIJYwmjqT-ZwUcR73kUG4QOWCE",
-    "open_hours_json": {
-      "Monday": [
-        "Open 24 hours"
-      ],
-      "Tuesday": [
-        "Open 24 hours"
-      ],
-      "Wednesday": [
-        "Open 24 hours"
-      ],
-      "Thursday": [
-        "Open 24 hours"
-      ],
-      "Friday": [
-        "Open 24 hours"
-      ],
-      "Saturday": [
-        "Open 24 hours"
-      ],
-      "Sunday": [
-        "Open 24 hours"
-      ]
-    },
-    "review_count": 143,
-    "rating": 4.9,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe5MLXe6OKVd2OXuntxBwlsRt_ZxttNXhvKYusrXJKxnblo_7dGyTf3hMphjoPTHeObbMCmWrVVcpldgFhl3wFrHtoMO9TRJqouSASL90Hy8WO-lEPjtIw8r3SZcJIidtQxcNTY=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe5MLXe6OKVd2OXuntxBwlsRt_ZxttNXhvKYusrXJKxnblo_7dGyTf3hMphjoPTHeObbMCmWrVVcpldgFhl3wFrHtoMO9TRJqouSASL90Hy8WO-lEPjtIw8r3SZcJIidtQxcNTY=w1000-h750-no",
-    "source_query": "Hypermarket in Namur, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJhdSdYBKZwUcR_VL0OEMctkU",
-    "name": "SPAR Express Namur",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Namur",
-    "address": "SPAR Express Namur, Rue St Nicolas 64, 5000 Namur",
-    "street": "Rue St Nicolas 64",
-    "postal_code": "5000",
-    "region": null,
-    "latitude": 50.4647571,
-    "longitude": 4.873641699999999,
-    "phone": "081 22 61 79",
-    "website": "https://www.spar.be/winkels/spar-express-namen",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=SPAR%20Express%20Namur&query_place_id=ChIJhdSdYBKZwUcR_VL0OEMctkU",
-    "open_hours_json": {
-      "Monday": [
-        "7:30 am–7 pm"
-      ],
-      "Tuesday": [
-        "7:30 am–7 pm"
-      ],
-      "Wednesday": [
-        "7:30 am–7 pm"
-      ],
-      "Thursday": [
-        "7:30 am–7 pm"
-      ],
-      "Friday": [
-        "7:30 am–7 pm"
-      ],
-      "Saturday": [
-        "7:30 am–7 pm"
-      ],
-      "Sunday": [
-        "7:30 am–7 pm"
-      ]
-    },
-    "review_count": 85,
-    "rating": 3.8,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf7rXBNwkKr5BeOYHPfX9MDpK53zXt8YpEaeLkd50fK6HWJFqHvD2L8zKDqPwkrlUdrVvwS0hIt2Msh69SE7QLEVfDc00ZGshQo_SwmGhjNefC3_nYp43i7rWsIZMEg5xd_mJaAeF_3PrfC=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf7rXBNwkKr5BeOYHPfX9MDpK53zXt8YpEaeLkd50fK6HWJFqHvD2L8zKDqPwkrlUdrVvwS0hIt2Msh69SE7QLEVfDc00ZGshQo_SwmGhjNefC3_nYp43i7rWsIZMEg5xd_mJaAeF_3PrfC=w1000-h750-no",
-    "source_query": "Hypermarket in Namur, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJUebizTaZwUcR9em7od5I6Uc",
-    "name": "Salumeria Caci, L’épicerie fine italienne de Namur",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Namur",
-    "address": "Salumeria Caci, L’épicerie fine italienne de Namur, Rue des Brasseurs 57, 5000 Namur",
-    "street": "Rue des Brasseurs 57",
-    "postal_code": "5000",
-    "region": null,
-    "latitude": 50.4620507,
-    "longitude": 4.865677799999999,
-    "phone": "0497 33 38 98",
-    "website": "https://wallonie.events/shopping/salumeria-caci/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Salumeria%20Caci%2C%20L%E2%80%99%C3%A9picerie%20fine%20italienne%20de%20Namur&query_place_id=ChIJUebizTaZwUcR9em7od5I6Uc",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "10 am–6 pm"
-      ],
-      "Wednesday": [
-        "10 am–3 pm"
-      ],
-      "Thursday": [
-        "10 am–6 pm"
-      ],
-      "Friday": [
-        "10 am–6 pm"
-      ],
-      "Saturday": [
-        "10 am–6 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 53,
-    "rating": 5.0,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfX2vG-gwNiEbjq1D68aEk0RaNhcOivq-pyal7R_yvUwUEECGRw1C26Bg6ZJMWUxGCJ7Y6BJR37j9iucQpP5Bqooaef3-E8JMGu5RbtjO7XV-g-Y6WOyuLkGvip-9anh8sBdy24wDDdfUdN=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfX2vG-gwNiEbjq1D68aEk0RaNhcOivq-pyal7R_yvUwUEECGRw1C26Bg6ZJMWUxGCJ7Y6BJR37j9iucQpP5Bqooaef3-E8JMGu5RbtjO7XV-g-Y6WOyuLkGvip-9anh8sBdy24wDDdfUdN=w1000-h750-no",
-    "source_query": "Hypermarket in Namur, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ7YoSVQ2ZwUcR7qP46HGI0Eo",
-    "name": "Sapori d'Italia",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Namur",
-    "address": "Sapori d'Italia, Rue de Gravière 19, 5000 Namur",
-    "street": "Rue de Gravière 19",
-    "postal_code": "5000",
-    "region": null,
-    "latitude": 50.463541,
-    "longitude": 4.870044,
-    "phone": "081 22 06 87",
-    "website": "http://saporiditalianamur.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Sapori%20d%27Italia&query_place_id=ChIJ7YoSVQ2ZwUcR7qP46HGI0Eo",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "12–2 pm",
-        "6:30–10 pm"
-      ],
-      "Wednesday": [
-        "12–2 pm",
-        "6:30–10 pm"
-      ],
-      "Thursday": [
-        "12–2 pm",
-        "6:30–10 pm"
-      ],
-      "Friday": [
-        "12–2 pm",
-        "6:30–10 pm"
-      ],
-      "Saturday": [
-        "6–10 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 310,
-    "rating": 4.4,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeIroM8gHiLCaOMOt2pl7A9tMliDOYUVHGyi-4ioEvaMRdf9wlwIm-sBY6kMyNyL9plkkfj6XPSqFnTDGAkkaaTeDimZU0oAcNsqJqvAmxWMOVGctQYDBUKeb1qZP5AJReG8YI1kQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeIroM8gHiLCaOMOt2pl7A9tMliDOYUVHGyi-4ioEvaMRdf9wlwIm-sBY6kMyNyL9plkkfj6XPSqFnTDGAkkaaTeDimZU0oAcNsqJqvAmxWMOVGctQYDBUKeb1qZP5AJReG8YI1kQ=w1000-h750-no",
     "source_query": "Halal restaurant in Namur, Wallonia, BE",
     "moderation_status": "approved",
     "is_active": true,

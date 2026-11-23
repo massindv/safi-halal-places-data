@@ -1,5 +1,621 @@
 [
   {
+    "place_id": "ChIJZ7PE1E7JwEcRI8YkmkPiC6o",
+    "name": "Moskee El-Hidaya",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Maaseik",
+    "address": "Moskee El-Hidaya, Sportlaan 31, 3680 Maaseik",
+    "street": "Sportlaan 31",
+    "postal_code": "3680",
+    "region": null,
+    "latitude": 51.1051846,
+    "longitude": 5.7922224,
+    "phone": "089 75 67 10",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20El-Hidaya&query_place_id=ChIJZ7PE1E7JwEcRI8YkmkPiC6o",
+    "open_hours_json": {
+      "Monday": [
+        "5 am–11:30 pm"
+      ],
+      "Tuesday": [
+        "5 am–11:30 pm"
+      ],
+      "Wednesday": [
+        "5 am–11:30 pm"
+      ],
+      "Thursday": [
+        "5 am–11:30 pm"
+      ],
+      "Friday": [
+        "5 am–11:30 pm"
+      ],
+      "Saturday": [
+        "5 am–11:30 pm"
+      ],
+      "Sunday": [
+        "5 am–11:30 pm"
+      ]
+    },
+    "review_count": 54,
+    "rating": 4.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf1e6nMRXSFFZn4-K2THlpp6MC5-WYmUkpj3Z4PVoo7QGCLIji-pnCjr5bEaAgPkAWQIKo53wqCDse6SMq0yIzlygd-wTDYwU488sjLIqpsfunbfjx92Xhqk6_TmR9l2_PiIHTC=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf1e6nMRXSFFZn4-K2THlpp6MC5-WYmUkpj3Z4PVoo7QGCLIji-pnCjr5bEaAgPkAWQIKo53wqCDse6SMq0yIzlygd-wTDYwU488sjLIqpsfunbfjx92Xhqk6_TmR9l2_PiIHTC=w1000-h750-no",
+    "source_query": "Mosque in Stokkem, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJv9Bt5zfOwEcRRHJVc3Et2eE",
+    "name": "Orient Kebap",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Maaseik",
+    "address": "Orient Kebap, Ophovenstraat 63, 3680 Maaseik",
+    "street": "Ophovenstraat 63",
+    "postal_code": "3680",
+    "region": null,
+    "latitude": 51.091836799999996,
+    "longitude": 5.6992083,
+    "phone": "089 50 27 60",
+    "website": "http://www.orientkebapneeroeteren.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Orient%20Kebap&query_place_id=ChIJv9Bt5zfOwEcRRHJVc3Et2eE",
+    "open_hours_json": {
+      "Monday": [
+        "4:30 pm–12 am"
+      ],
+      "Tuesday": [
+        "4:30 pm–12 am"
+      ],
+      "Wednesday": [
+        "4:30 pm–12 am"
+      ],
+      "Thursday": [
+        "4:30 pm–12 am"
+      ],
+      "Friday": [
+        "4:30 pm–1 am"
+      ],
+      "Saturday": [
+        "4:30 pm–1 am"
+      ],
+      "Sunday": [
+        "4:30 pm–12 am"
+      ]
+    },
+    "review_count": 265,
+    "rating": 4.1,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcrr-_X6W1icekfkzugQkEa1YI8TQpnHanVoHAGI53MyJpUYvLxruLisOCKXl0sFp6J4xlC0wuSQlq7pLpxYwLtnvt6lzQbvms0v4TcIjo3zxNodYjpKNj9Ur6MSIRQATlcSZzH=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcrr-_X6W1icekfkzugQkEa1YI8TQpnHanVoHAGI53MyJpUYvLxruLisOCKXl0sFp6J4xlC0wuSQlq7pLpxYwLtnvt6lzQbvms0v4TcIjo3zxNodYjpKNj9Ur6MSIRQATlcSZzH=w1000-h750-no",
+    "source_query": "Halal restaurant in Maaseik, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJpWFhysrOwEcRmlQfJzRNbnw",
+    "name": "Osteopathie Diepvints & van Bijlevelt",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Maaseik",
+    "address": "Osteopathie Diepvints & van Bijlevelt, Kon. Astridlaan 36, 3680 Maaseik",
+    "street": "Kon. Astridlaan 36",
+    "postal_code": "3680",
+    "region": null,
+    "latitude": 51.098349,
+    "longitude": 5.7785383999999995,
+    "phone": "089 56 88 38",
+    "website": "http://www.diepvintsenvanbijlevelt.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Osteopathie%20Diepvints%20%26%20van%20Bijlevelt&query_place_id=ChIJpWFhysrOwEcRmlQfJzRNbnw",
+    "open_hours_json": {
+      "Monday": [
+        "8 am–12 pm",
+        "1:30–7 pm"
+      ],
+      "Tuesday": [
+        "8 am–12 pm",
+        "1:30–7 pm"
+      ],
+      "Wednesday": [
+        "8 am–12 pm",
+        "1:30–7 pm"
+      ],
+      "Thursday": [
+        "8 am–12 pm",
+        "1:30–7 pm"
+      ],
+      "Friday": [
+        "8 am–12 pm"
+      ],
+      "Saturday": [
+        "8 am–12 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 23,
+    "rating": 4.9,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcZpJR3BK3wKkR1VgjZs_zEIn8dWdEJ_2OjuxXU4_IzCei8IyHJC3mxKD0-0ZUuNZWInjAmBfqmfnYxEkNJbrtBnVFfa59zYtYy0QbagriLgcE_AWUIFE-SsPMYnT4mjaVItj5gEg=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcZpJR3BK3wKkR1VgjZs_zEIn8dWdEJ_2OjuxXU4_IzCei8IyHJC3mxKD0-0ZUuNZWInjAmBfqmfnYxEkNJbrtBnVFfa59zYtYy0QbagriLgcE_AWUIFE-SsPMYnT4mjaVItj5gEg=w1000-h750-no",
+    "source_query": "Pharmacy in Maaseik, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ1xEHhknOwEcRasan1brgsok",
+    "name": "Oud Oteren",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Maaseik",
+    "address": "Oud Oteren, Scholtisplein 28, 3680 Maaseik",
+    "street": "Scholtisplein 28",
+    "postal_code": "3680",
+    "region": null,
+    "latitude": 51.088038,
+    "longitude": 5.7017051,
+    "phone": "089 86 40 23",
+    "website": "https://www.oudoteren.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Oud%20Oteren&query_place_id=ChIJ1xEHhknOwEcRasan1brgsok",
+    "open_hours_json": {
+      "Monday": [
+        "11:15 am–11 pm"
+      ],
+      "Tuesday": [
+        "11:15 am–11 pm"
+      ],
+      "Wednesday": [
+        "11:15 am–11 pm"
+      ],
+      "Thursday": [
+        "11:15 am–11 pm"
+      ],
+      "Friday": [
+        "11:15 am–11:45 pm"
+      ],
+      "Saturday": [
+        "11:15 am–11:45 pm"
+      ],
+      "Sunday": [
+        "11:15 am–11 pm"
+      ]
+    },
+    "review_count": 2152,
+    "rating": 4.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc1MF4GGHR9F8HJAA1Jb8RBwfR3-CIjyTFJILZHIrrIUrjO3scCA-o6bfcjsxQow7egK00wZrJwlbVp3m4SPotongyydTrX44Gv9ZAUZUCpNG-pegYJmVhy549XX5zTUKGdDwQEBg=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc1MF4GGHR9F8HJAA1Jb8RBwfR3-CIjyTFJILZHIrrIUrjO3scCA-o6bfcjsxQow7egK00wZrJwlbVp3m4SPotongyydTrX44Gv9ZAUZUCpNG-pegYJmVhy549XX5zTUKGdDwQEBg=w1000-h750-no",
+    "source_query": "Halal restaurant in Maaseik, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ-8FC5mXJwEcRjpRLP-M6TAk",
+    "name": "Petrel",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Maaseik",
+    "address": "Petrel, Markt 16/2, 3680 Maaseik",
+    "street": "Markt 16/2",
+    "postal_code": "3680",
+    "region": null,
+    "latitude": 51.094184399999996,
+    "longitude": 5.7922139,
+    "phone": "089 20 55 88",
+    "website": "http://www.petrel.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Petrel&query_place_id=ChIJ-8FC5mXJwEcRjpRLP-M6TAk",
+    "open_hours_json": {
+      "Monday": [
+        "12–2:30 pm",
+        "6–9 pm"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "12–2:30 pm",
+        "6–9 pm"
+      ],
+      "Friday": [
+        "12–2:30 pm",
+        "6–9 pm"
+      ],
+      "Saturday": [
+        "12–2:30 pm",
+        "6–9 pm"
+      ],
+      "Sunday": [
+        "12–2:30 pm",
+        "5–9 pm"
+      ]
+    },
+    "review_count": 206,
+    "rating": 4.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdzFy-PnFTrFJvNMsC8bgReqitBlefhsk0yrSersEYyy_w3Ix5piQU50R5KtZLtj_6dXQtKNxUsLNcLVMfa2FPf36naRgIwK7UmVNWWMPOfbtLlF6xLLSRK_Cg9pX1v1tHsC-yMGA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdzFy-PnFTrFJvNMsC8bgReqitBlefhsk0yrSersEYyy_w3Ix5piQU50R5KtZLtj_6dXQtKNxUsLNcLVMfa2FPf36naRgIwK7UmVNWWMPOfbtLlF6xLLSRK_Cg9pX1v1tHsC-yMGA=w1000-h750-no",
+    "source_query": "Halal restaurant in Maaseik, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJd8DrvNXPwEcRGqHSsHlfbTk",
+    "name": "Pizza & Friends Maaseik 🇮🇹",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Maaseik",
+    "address": "Pizza & Friends Maaseik 🇮🇹, Kon. Astridlaan 63, 3680 Maaseik",
+    "street": "Kon. Astridlaan 63",
+    "postal_code": "3680",
+    "region": null,
+    "latitude": 51.098548099999995,
+    "longitude": 5.7769097,
+    "phone": "089 23 88 94",
+    "website": "https://www.pizza-friendsmaaseik.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pizza%20%26%20Friends%20Maaseik%20%F0%9F%87%AE%F0%9F%87%B9&query_place_id=ChIJd8DrvNXPwEcRGqHSsHlfbTk",
+    "open_hours_json": {
+      "Monday": [
+        "5–8 pm"
+      ],
+      "Tuesday": [
+        "5–8 pm"
+      ],
+      "Wednesday": [
+        "5–8 pm"
+      ],
+      "Thursday": [
+        "Closed"
+      ],
+      "Friday": [
+        "11:45 am–1 pm",
+        "5–9 pm"
+      ],
+      "Saturday": [
+        "5–9 pm"
+      ],
+      "Sunday": [
+        "5–9 pm"
+      ]
+    },
+    "review_count": 138,
+    "rating": 4.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeu5sFaVA_yAZwFgN8hs3qZYfzGke07tp8qhbZtWlynSjdeCJC-QIVS5glfs6pSSsNeH5yugmjmoRFOgx5K--t2afDHprrZM1zjbehEGKZUWWOBbqv7hXE446QrLKpywybEOuMqFQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeu5sFaVA_yAZwFgN8hs3qZYfzGke07tp8qhbZtWlynSjdeCJC-QIVS5glfs6pSSsNeH5yugmjmoRFOgx5K--t2afDHprrZM1zjbehEGKZUWWOBbqv7hXE446QrLKpywybEOuMqFQ=w1000-h750-no",
+    "source_query": "Halal restaurant in Maaseik, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJCQ8Xh13JwEcRlF3aD_zHUPw",
+    "name": "Restaurant De Leeuwerik",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Maaseik",
+    "address": "Restaurant De Leeuwerik, Leeuwerikstraat 80, 3680 Maaseik",
+    "street": "Leeuwerikstraat 80",
+    "postal_code": "3680",
+    "region": null,
+    "latitude": 51.1118065,
+    "longitude": 5.8072517999999995,
+    "phone": "089 24 45 15",
+    "website": "https://www.restaurantdeleeuwerik.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20De%20Leeuwerik&query_place_id=ChIJCQ8Xh13JwEcRlF3aD_zHUPw",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "10 am–11 pm"
+      ],
+      "Wednesday": [
+        "10 am–11 pm"
+      ],
+      "Thursday": [
+        "10 am–11 pm"
+      ],
+      "Friday": [
+        "10 am–11 pm"
+      ],
+      "Saturday": [
+        "10 am–11 pm"
+      ],
+      "Sunday": [
+        "10 am–11 pm"
+      ]
+    },
+    "review_count": 806,
+    "rating": 4.4,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeI04bnC9kl9vbT2jUL9sm9RyUFv48U2gnXSz50WGwwQ-Nf45C4JC3M7BXXk2u2uLGwmUhFN2T1sBStFEsJxAsPmtwt_8kQtfXX58kmJyNYAlHOhPGaKYGyR5GR_6pAWeIAbY7P1Q=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeI04bnC9kl9vbT2jUL9sm9RyUFv48U2gnXSz50WGwwQ-Nf45C4JC3M7BXXk2u2uLGwmUhFN2T1sBStFEsJxAsPmtwt_8kQtfXX58kmJyNYAlHOhPGaKYGyR5GR_6pAWeIAbY7P1Q=w1000-h750-no",
+    "source_query": "Halal restaurant in Maaseik, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJhQK_f8fOwEcRFYrkkzdZ9Fo",
+    "name": "Restaurant Ratatouille Maaseik",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Maaseik",
+    "address": "Restaurant Ratatouille Maaseik, Diestersteenweg 393, 3680 Maaseik",
+    "street": "Diestersteenweg 393",
+    "postal_code": "3680",
+    "region": null,
+    "latitude": 51.1006578,
+    "longitude": 5.762204199999999,
+    "phone": "089 24 39 58",
+    "website": "http://www.ratatouillemaaseik.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20Ratatouille%20Maaseik&query_place_id=ChIJhQK_f8fOwEcRFYrkkzdZ9Fo",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "7–11 pm"
+      ],
+      "Friday": [
+        "7–11 pm"
+      ],
+      "Saturday": [
+        "7–11 pm"
+      ],
+      "Sunday": [
+        "6–11 pm"
+      ]
+    },
+    "review_count": 426,
+    "rating": 4.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfz3LwYcId9NxxPAPDlCkfkFqZqVFT-okFQZPXCy6IEdjIiIetDRAjfRCRlMZamtO66-e1WRpaOK0TSOx09u4TvVVN0zFiEyhjWGecIRtODNzAaYJLzC7vWhTFobPpGQ9TJBRU=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfz3LwYcId9NxxPAPDlCkfkFqZqVFT-okFQZPXCy6IEdjIiIetDRAjfRCRlMZamtO66-e1WRpaOK0TSOx09u4TvVVN0zFiEyhjWGecIRtODNzAaYJLzC7vWhTFobPpGQ9TJBRU=w1000-h750-no",
+    "source_query": "Halal restaurant in Maaseik, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ8xmrz0HJwEcRLyrFeUEw0V0",
+    "name": "Restaurant de Loteling",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Maaseik",
+    "address": "Restaurant de Loteling, Willibrordusweg 5, 3680 Maaseik",
+    "street": "Willibrordusweg 5",
+    "postal_code": "3680",
+    "region": null,
+    "latitude": 51.1014571,
+    "longitude": 5.8047816,
+    "phone": "089 56 35 89",
+    "website": "https://www.deloteling.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20de%20Loteling&query_place_id=ChIJ8xmrz0HJwEcRLyrFeUEw0V0",
+    "open_hours_json": {
+      "Monday": [
+        "12–3 pm",
+        "6–11 pm"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "12–3 pm",
+        "6–11 pm"
+      ],
+      "Friday": [
+        "12–3 pm",
+        "6–11 pm"
+      ],
+      "Saturday": [
+        "12–3 pm",
+        "6–11 pm"
+      ],
+      "Sunday": [
+        "12–3 pm",
+        "6–11 pm"
+      ]
+    },
+    "review_count": 63,
+    "rating": 4.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeffLFwe7iuavo5CuK3P4v-W_hBf3YcdG5-PwW1GQSkjYRghTS1uaTu-t2Cl6UP_-KcrOa22d1_Zmf8n0MSA3AGzKQz3jnzJh7cuAh8z7ml_9FTdt0xdoLCUdzr8OxXhwdv7cmi=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeffLFwe7iuavo5CuK3P4v-W_hBf3YcdG5-PwW1GQSkjYRghTS1uaTu-t2Cl6UP_-KcrOa22d1_Zmf8n0MSA3AGzKQz3jnzJh7cuAh8z7ml_9FTdt0xdoLCUdzr8OxXhwdv7cmi=w1000-h750-no",
+    "source_query": "Halal restaurant in Maaseik, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJZ7D1k8rOwEcRyBYRYGhtnGU",
+    "name": "Slagerij Houben",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Maaseik",
+    "address": "Slagerij Houben, Kon. Astridlaan 70, 3680 Maaseik",
+    "street": "Kon. Astridlaan 70",
+    "postal_code": "3680",
+    "region": null,
+    "latitude": 51.0989467,
+    "longitude": 5.7755412999999995,
+    "phone": "089 56 56 16",
+    "website": "http://www.slagerijhouben.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Slagerij%20Houben&query_place_id=ChIJZ7D1k8rOwEcRyBYRYGhtnGU",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "8:30 am–5:30 pm"
+      ],
+      "Wednesday": [
+        "8:30 am–1 pm"
+      ],
+      "Thursday": [
+        "8:30 am–5:30 pm"
+      ],
+      "Friday": [
+        "8:30 am–5:30 pm"
+      ],
+      "Saturday": [
+        "8 am–1 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 34,
+    "rating": 4.9,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe6WNHgtjuDqZ_PttsVRipDQW60ISXcJVtHx98UP5zKhydR0jphG65QvMosZD68-XFuMU187sBVMpVM05k4FlWJnpG-On1bXaAvX2ixZUGwKh0I1Q9U64vI94aGCMlC1lfMt5tSNA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe6WNHgtjuDqZ_PttsVRipDQW60ISXcJVtHx98UP5zKhydR0jphG65QvMosZD68-XFuMU187sBVMpVM05k4FlWJnpG-On1bXaAvX2ixZUGwKh0I1Q9U64vI94aGCMlC1lfMt5tSNA=w1000-h750-no",
+    "source_query": "Halal restaurant in Maaseik, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJGVUvwznJwEcRyMtNnNryDTc",
+    "name": "Smaakkamer Lavendel",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Maaseik",
+    "address": "Smaakkamer Lavendel, Markt 31, 3680 Maaseik",
+    "street": "Markt 31",
+    "postal_code": "3680",
+    "region": null,
+    "latitude": 51.0943201,
+    "longitude": 5.7908485,
+    "phone": "089 57 20 71",
+    "website": "http://www.smaakkamerlavendel.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Smaakkamer%20Lavendel&query_place_id=ChIJGVUvwznJwEcRyMtNnNryDTc",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "6–9:30 pm"
+      ],
+      "Thursday": [
+        "6–9:30 pm"
+      ],
+      "Friday": [
+        "6–9:30 pm"
+      ],
+      "Saturday": [
+        "6–9:30 pm"
+      ],
+      "Sunday": [
+        "12–2 pm",
+        "6–9:30 pm"
+      ]
+    },
+    "review_count": 171,
+    "rating": 4.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfYzTelIS5Jvwvn8XCZ6Z9Cra3ULBFI7Jxj47CZT4iZwZGe8pRKO4RWzNunQp7rSzAFzr9veBPAHjtrdawzJo74R_oNmbAJISVr2OnkWlbOukAoCiwWQj8jxm50cc9MsAeuA13x-g=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfYzTelIS5Jvwvn8XCZ6Z9Cra3ULBFI7Jxj47CZT4iZwZGe8pRKO4RWzNunQp7rSzAFzr9veBPAHjtrdawzJo74R_oNmbAJISVr2OnkWlbOukAoCiwWQj8jxm50cc9MsAeuA13x-g=w1000-h750-no",
+    "source_query": "Halal restaurant in Maaseik, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ3QM54TfOwEcRU4lw3o92pts",
+    "name": "Spar Neeroeteren",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Maaseik",
+    "address": "Spar Neeroeteren, Ophovenstraat 30, 3680 Maaseik",
+    "street": "Ophovenstraat 30",
+    "postal_code": "3680",
+    "region": null,
+    "latitude": 51.0922961,
+    "longitude": 5.699707399999999,
+    "phone": "089 86 49 35",
+    "website": "https://www.mijnspar.be/winkels/spar-neeroeteren",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Spar%20Neeroeteren&query_place_id=ChIJ3QM54TfOwEcRU4lw3o92pts",
+    "open_hours_json": {
+      "Monday": [
+        "8 am–7 pm"
+      ],
+      "Tuesday": [
+        "8 am–7 pm"
+      ],
+      "Wednesday": [
+        "8 am–7 pm"
+      ],
+      "Thursday": [
+        "8 am–7 pm"
+      ],
+      "Friday": [
+        "8 am–7 pm"
+      ],
+      "Saturday": [
+        "8 am–6 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 517,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfeNX8MwXcdl1VMIi_tn5vxZADR90GFqQSP8D9VDYaDq0sWmXR__5-sJtdhivp8zyNh98aPywdrSkotK82Upu_QqS0UjEdhrNk4bRI7XpQ8sma2TBRGm_rpwi3Au5A5O0WZp2SD=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfeNX8MwXcdl1VMIi_tn5vxZADR90GFqQSP8D9VDYaDq0sWmXR__5-sJtdhivp8zyNh98aPywdrSkotK82Upu_QqS0UjEdhrNk4bRI7XpQ8sma2TBRGm_rpwi3Au5A5O0WZp2SD=w1000-h750-no",
+    "source_query": "Hypermarket in Stokkem, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJK9yrHHrJwEcRKWPciH0t5uk",
     "name": "TIFFANY'S BY PASCAL",
     "type": "restaurant",
@@ -7327,32 +7943,6 @@
     "verification_evidence": null
   },
   {
-    "place_id": "ChIJafbUQwDlw0cRed32A3awDgI",
-    "name": "Beenhouwerij Alami",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Mechelen",
-    "address": "Beenhouwerij Alami, Eikestraat 92, 2800 Mechelen",
-    "street": "Eikestraat 92",
-    "postal_code": "2800",
-    "region": null,
-    "latitude": 51.0438349,
-    "longitude": 4.4709708,
-    "phone": "0488 77 80 02",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Beenhouwerij%20Alami&query_place_id=ChIJafbUQwDlw0cRed32A3awDgI",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfwUmiXT5udswVoECQVkMvzwIVjiFkwuEfYbyyIVK1NwhYJ3jLu2v9S9-pcG_I0IBf_p4m6omnXBxz3hq2K_UQkuKqJ3Qf7a6oUXASd4PlgVRCr6YLCY1uZICvThXl3HdkA5SenBwAaE_-g=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfwUmiXT5udswVoECQVkMvzwIVjiFkwuEfYbyyIVK1NwhYJ3jLu2v9S9-pcG_I0IBf_p4m6omnXBxz3hq2K_UQkuKqJ3Qf7a6oUXASd4PlgVRCr6YLCY1uZICvThXl3HdkA5SenBwAaE_-g=w1000-h750-no",
-    "rating": 4.7,
-    "review_count": 24,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
     "place_id": "ChIJJ0iKkNrlw0cRVaJYoWiH3Xs",
     "name": "Beenhouwerij Ayoub",
     "type": "butcher",
@@ -8540,8 +9130,8 @@
     "phone": "015 67 72 11",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=DIMSUM%20MECHELEN&query_place_id=ChIJler1-DHlw0cR2omnunSdkn4",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfD4B6kepZnBaRCzQX4mLV2Bk10sorjjERu7SuOKEC4VZTIl5nRX1xjVQZSizSAn2CmR8N_-GgYXBfzdUdIcTR8Qk_z7ZkS8ySjBmrrU8IY8NDn32UpM6K8EqC4KcZYexs-nWoeqhzUDFZT=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfD4B6kepZnBaRCzQX4mLV2Bk10sorjjERu7SuOKEC4VZTIl5nRX1xjVQZSizSAn2CmR8N_-GgYXBfzdUdIcTR8Qk_z7ZkS8ySjBmrrU8IY8NDn32UpM6K8EqC4KcZYexs-nWoeqhzUDFZT=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf0CEE2YjFqI4g9MT3aIFTYsowXd7YRNOj4rh9Kd7OCy3nZ33etf0vXH7B35C_GcZTVdya5WXM5Hiv42QCYxHkSDrwW4jDgTWkd54M0-rXIffWn1O9ZPcX22cEwsnPFIM5zyitPKU3hMSua=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf0CEE2YjFqI4g9MT3aIFTYsowXd7YRNOj4rh9Kd7OCy3nZ33etf0vXH7B35C_GcZTVdya5WXM5Hiv42QCYxHkSDrwW4jDgTWkd54M0-rXIffWn1O9ZPcX22cEwsnPFIM5zyitPKU3hMSua=w1000-h750-no",
     "rating": 3.8,
     "review_count": 89,
     "verification_status": "UNVERIFIED",
@@ -10620,394 +11210,6 @@
     "rating": 4.9,
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdwmyE7rxEfxt0bxBbj40ixIb-6FJZiPKFkOO1elMpXFJDnFYK7cInG5WDxxidBkB1FB65YxCAlFE5YLidl0Qx8Ud-_8a6NHjCL11UH-cy1gvNhu8aSi6RIyOPIj14zYpsBOBo=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdwmyE7rxEfxt0bxBbj40ixIb-6FJZiPKFkOO1elMpXFJDnFYK7cInG5WDxxidBkB1FB65YxCAlFE5YLidl0Qx8Ud-_8a6NHjCL11UH-cy1gvNhu8aSi6RIyOPIj14zYpsBOBo=w1000-h750-no",
-    "source_query": "Hypermarket in Mechelen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJe5xFPsflw0cRK1ndH6T7sP0",
-    "name": "Mechelse Moskee",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Mechelen",
-    "address": "Mechelse Moskee, Olivetenvest 6, 2800 Mechelen",
-    "street": "Olivetenvest 6",
-    "postal_code": "2800",
-    "region": null,
-    "latitude": 51.0300152,
-    "longitude": 4.4702436,
-    "phone": "015 20 40 89",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mechelse%20Moskee&query_place_id=ChIJe5xFPsflw0cRK1ndH6T7sP0",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfAseFp9D1ZRVUAHIZxSrqdjnM2oYTooCUkVA_FhydGP2zhxnwMOql5_y8pkQh8xBRSvn0TAg0zrERRiFXWq1YUuZggSZI64ov_0_LsJkgheihpKoTZI9LIBxLjaPNvMImnUVJV=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfAseFp9D1ZRVUAHIZxSrqdjnM2oYTooCUkVA_FhydGP2zhxnwMOql5_y8pkQh8xBRSvn0TAg0zrERRiFXWq1YUuZggSZI64ov_0_LsJkgheihpKoTZI9LIBxLjaPNvMImnUVJV=w1000-h750-no",
-    "rating": 4.7,
-    "review_count": 169,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJSQf1nurlw0cRiV6umNFNMwI",
-    "name": "Mercator Gcv",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Mechelen",
-    "address": "Mercator Gcv, Battelsesteenweg 239, 2800 Mechelen",
-    "street": "Battelsesteenweg 239",
-    "postal_code": "2800",
-    "region": null,
-    "latitude": 51.0300771,
-    "longitude": 4.4622285999999995,
-    "phone": "015 42 08 40",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mercator%20Gcv&query_place_id=ChIJSQf1nurlw0cRiV6umNFNMwI",
-    "open_hours_json": null,
-    "review_count": 0,
-    "rating": null,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=WXYQL-c60CX5X0uEs_9i6A&cb_client=search.gws-prod.grass&w=80&h=92&yaw=207.331&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=WXYQL-c60CX5X0uEs_9i6A&cb_client=search.gws-prod.grass&w=80&h=92&yaw=207.331&pitch=0&thumbfov=w1000-h750-no",
-    "source_query": "Hypermarket in Mechelen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJc0wg0c3lw0cRkOru7GDvNpQ",
-    "name": "Mini Mix",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Mechelen",
-    "address": "Mini Mix, Botermarkt 11, 2800 Mechelen",
-    "street": "Botermarkt 11",
-    "postal_code": "2800",
-    "region": null,
-    "latitude": 51.026946599999995,
-    "longitude": 4.4818925,
-    "phone": "0487 36 82 66",
-    "website": "https://www.mixmarkt.eu/nl/belgie/markten/204/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mini%20Mix&query_place_id=ChIJc0wg0c3lw0cRkOru7GDvNpQ",
-    "open_hours_json": {
-      "Monday": [
-        "10 am–7 pm"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "10 am–7 pm"
-      ],
-      "Thursday": [
-        "10 am–7 pm"
-      ],
-      "Friday": [
-        "10 am–7 pm"
-      ],
-      "Saturday": [
-        "10 am–7 pm"
-      ],
-      "Sunday": [
-        "10 am–7 pm"
-      ]
-    },
-    "review_count": 314,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeo3h2WwVl5bKNdt0VZP4P8maGcilRTLkDdkgHLCvQttUTwqDJNtqedpt1si_GXgHnNLRX1dyDDLD6IKj5kSc0HOQDGVQv20q1QceKcc-8RWcDWVb__0OPC0wDzM4W4bEQdXdCqXFy9SXI_=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeo3h2WwVl5bKNdt0VZP4P8maGcilRTLkDdkgHLCvQttUTwqDJNtqedpt1si_GXgHnNLRX1dyDDLD6IKj5kSc0HOQDGVQv20q1QceKcc-8RWcDWVb__0OPC0wDzM4W4bEQdXdCqXFy9SXI_=w1000-h750-no",
-    "source_query": "Hypermarket in Mechelen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ87PgXwDlw0cRkS5TrtjP43w",
-    "name": "Miran restaurant",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Mechelen",
-    "address": "Miran restaurant, Hendrik Consciencestraat 24, 2800 Mechelen",
-    "street": "Hendrik Consciencestraat 24",
-    "postal_code": "2800",
-    "region": null,
-    "latitude": 51.0194736,
-    "longitude": 4.4822218,
-    "phone": "015 42 38 36",
-    "website": "https://miran-bzd6excueha9d9hr.westeurope-01.azurewebsites.net/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Miran%20restaurant&query_place_id=ChIJ87PgXwDlw0cRkS5TrtjP43w",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcjuGl555oARfWoFg8VYlP6dDphiL5E9YeyPnuV1u2km8A80ADDsH9ULzu340PMxKaVSUJBj0ti0uGohae4ZaTINv2g7AH-_sKYpxexfuXBF-NLaPRRCFDdSOanbDukzIwYaUp7UMhfVEeW=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcjuGl555oARfWoFg8VYlP6dDphiL5E9YeyPnuV1u2km8A80ADDsH9ULzu340PMxKaVSUJBj0ti0uGohae4ZaTINv2g7AH-_sKYpxexfuXBF-NLaPRRCFDdSOanbDukzIwYaUp7UMhfVEeW=w1000-h750-no",
-    "rating": 4.6,
-    "review_count": 513,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJe0K42HHlw0cRd5jRPXgjAmU",
-    "name": "Mojo’s Mechelen",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Mechelen",
-    "address": "Mojo’s Mechelen, Oude Baan 2, 2800 Mechelen",
-    "street": "Oude Baan 2",
-    "postal_code": "2800",
-    "region": null,
-    "latitude": 51.0509734,
-    "longitude": 4.459663,
-    "phone": "0496 49 92 80",
-    "website": "https://www.mojos.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mojo%E2%80%99s%20Mechelen&query_place_id=ChIJe0K42HHlw0cRd5jRPXgjAmU",
-    "open_hours_json": {
-      "Monday": [
-        "10:30 am–3 pm"
-      ],
-      "Tuesday": [
-        "10:30 am–3 pm"
-      ],
-      "Wednesday": [
-        "10:30 am–3 pm"
-      ],
-      "Thursday": [
-        "10:30 am–3 pm"
-      ],
-      "Friday": [
-        "10:30 am–3 pm"
-      ],
-      "Saturday": [
-        "Closed"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 37,
-    "rating": 5.0,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdHU0HKh0nOK6Y4GE8E40CXbT-f8g_b5l05hu7NNv2B68spEQuLA9VdwVvDZ_sgn-mAN-cRSWu0giv_lnQWl7_6k2Gscfx5WUeMIECSODPiHZcA0j6dBNz8dIlRjExx57IVDpqZX9toEIYV=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdHU0HKh0nOK6Y4GE8E40CXbT-f8g_b5l05hu7NNv2B68spEQuLA9VdwVvDZ_sgn-mAN-cRSWu0giv_lnQWl7_6k2Gscfx5WUeMIECSODPiHZcA0j6dBNz8dIlRjExx57IVDpqZX9toEIYV=w1000-h750-no",
-    "source_query": "Halal restaurant in Mechelen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJATOcvdLlw0cR_5mn90CqUR4",
-    "name": "Mondelez Belgium",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Mechelen",
-    "address": "Mondelez Belgium, Stationsstraat 100, 2800 Mechelen",
-    "street": "Stationsstraat 100",
-    "postal_code": "2800",
-    "region": null,
-    "latitude": 51.019323299999996,
-    "longitude": 4.4847526,
-    "phone": "015 74 35 00",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mondelez%20Belgium&query_place_id=ChIJATOcvdLlw0cR_5mn90CqUR4",
-    "open_hours_json": null,
-    "review_count": 60,
-    "rating": 3.0,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeaozV1DnPqlm7L1DLFABQCbZtdQ-Nwm-2tV7CFS6qNpilqIfrNsGLFHk9fg2njNXHKdS6JJBKQ5dDloOhne802QzWyDNVOKKw9vr7WCD3tBDXAdE1FAYlzK52JECK6XbVlV03S=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeaozV1DnPqlm7L1DLFABQCbZtdQ-Nwm-2tV7CFS6qNpilqIfrNsGLFHk9fg2njNXHKdS6JJBKQ5dDloOhne802QzWyDNVOKKw9vr7WCD3tBDXAdE1FAYlzK52JECK6XbVlV03S=w1000-h750-no",
-    "source_query": "Hypermarket in Mechelen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ805ZO8_lw0cRmoxVGkArFrs",
-    "name": "Morocco Nuts",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Mechelen",
-    "address": "Morocco Nuts, IJzerenleen 61, 2800 Mechelen",
-    "street": "IJzerenleen 61",
-    "postal_code": "2800",
-    "region": null,
-    "latitude": 51.0260642,
-    "longitude": 4.478211,
-    "phone": "0484 12 08 89",
-    "website": "https://aziznoten.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Morocco%20Nuts&query_place_id=ChIJ805ZO8_lw0cRmoxVGkArFrs",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "10 am–6 pm"
-      ],
-      "Wednesday": [
-        "10 am–6 pm"
-      ],
-      "Thursday": [
-        "10 am–6 pm"
-      ],
-      "Friday": [
-        "10 am–6 pm"
-      ],
-      "Saturday": [
-        "10 am–6 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 74,
-    "rating": 5.0,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeohBPA8XZQfHtd-jkvsQjSPTbVKws9fhuI5r7eCTL0k7ZnhJkYO3Qd2jwlsFq-ZJ8VWBJyV0h10si30A7RCzzMTNMvnD985j7YmxeIHBnp9C3teU8SqAB8G-_3E_oJboH4KTEW=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeohBPA8XZQfHtd-jkvsQjSPTbVKws9fhuI5r7eCTL0k7ZnhJkYO3Qd2jwlsFq-ZJ8VWBJyV0h10si30A7RCzzMTNMvnD985j7YmxeIHBnp9C3teU8SqAB8G-_3E_oJboH4KTEW=w1000-h750-no",
-    "source_query": "Hypermarket in Mechelen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJky5Hobblw0cRt6gFN-zyQ0Q",
-    "name": "Moskee Al Buraq",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Mechelen",
-    "address": "Moskee Al Buraq, Generaal de Ceuninckstraat 7, 2800 Mechelen",
-    "street": "Generaal de Ceuninckstraat 7",
-    "postal_code": "2800",
-    "region": null,
-    "latitude": 51.0350987,
-    "longitude": 4.4820193999999995,
-    "phone": "0465 04 03 70",
-    "website": "http://www.alburaq.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Al%20Buraq&query_place_id=ChIJky5Hobblw0cRt6gFN-zyQ0Q",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeZ7G6A6uojgFHtEFlVvpMWJQeLXfyy3SkgIdzid2wYmEHwIBgjAucGmgngbL8KLJ05zM4NW0WQXEui1ufzuljUZfLiq1A8AyMx_KRN_yR0rpnbscDXeslbS5cDFdrNXaRrndU5=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeZ7G6A6uojgFHtEFlVvpMWJQeLXfyy3SkgIdzid2wYmEHwIBgjAucGmgngbL8KLJ05zM4NW0WQXEui1ufzuljUZfLiq1A8AyMx_KRN_yR0rpnbscDXeslbS5cDFdrNXaRrndU5=w1000-h750-no",
-    "rating": 4.7,
-    "review_count": 135,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJb3l6IVHlw0cR8tp4aQAML_c",
-    "name": "NRNENI Restaurant Armenian",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Mechelen",
-    "address": "NRNENI Restaurant Armenian, Zandpoortvest 22, 2800 Mechelen",
-    "street": "Zandpoortvest 22",
-    "postal_code": "2800",
-    "region": null,
-    "latitude": 51.0246846,
-    "longitude": 4.488121,
-    "phone": "0468 07 60 20",
-    "website": "https://www.nrneni.com/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=NRNENI%20Restaurant%20Armenian&query_place_id=ChIJb3l6IVHlw0cR8tp4aQAML_c",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfWdzwLzCZj1AAmYQH7uUG2OJUgBBHXJK-X_hoxhD4nYJzRbCdS-qX8HBu_Y9bzE5RX_nGQmMa816UTLZy-eR338PbWOTsGAJ92DiOhan9zNe4ea2n2i3xW63PYbGeFOJxaggAK=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfWdzwLzCZj1AAmYQH7uUG2OJUgBBHXJK-X_hoxhD4nYJzRbCdS-qX8HBu_Y9bzE5RX_nGQmMa816UTLZy-eR338PbWOTsGAJ92DiOhan9zNe4ea2n2i3xW63PYbGeFOJxaggAK=w1000-h750-no",
-    "rating": 4.7,
-    "review_count": 60,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJV50gjr_lw0cRXBlPIlBeHMs",
-    "name": "NUHI Lunchbar Mechelen",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Mechelen",
-    "address": "NUHI Lunchbar Mechelen, Borzestraat 38, 2800 Mechelen",
-    "street": "Borzestraat 38",
-    "postal_code": "2800",
-    "region": null,
-    "latitude": 51.026309999999995,
-    "longitude": 4.480416,
-    "phone": "015 23 36 12",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=NUHI%20Lunchbar%20Mechelen&query_place_id=ChIJV50gjr_lw0cRXBlPIlBeHMs",
-    "open_hours_json": {
-      "Monday": [
-        "10 am–4 pm"
-      ],
-      "Tuesday": [
-        "10 am–4 pm"
-      ],
-      "Wednesday": [
-        "10 am–4 pm"
-      ],
-      "Thursday": [
-        "10 am–4 pm"
-      ],
-      "Friday": [
-        "10 am–6 pm"
-      ],
-      "Saturday": [
-        "10 am–6 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 148,
-    "rating": 4.9,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeQXv44OvH6KgFXIINzQMWwAKLOp8cCRRPBT-vExz7l7RrmhasLIfm6K9Od3cG_nJD7WBNKbgh7zFCUGKy4Tv-hWbiBR3z_1Naw8ycsQELGa2NuWxgpWcO-IShSbRps5Dly2FjEK9IBBGp-=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeQXv44OvH6KgFXIINzQMWwAKLOp8cCRRPBT-vExz7l7RrmhasLIfm6K9Od3cG_nJD7WBNKbgh7zFCUGKy4Tv-hWbiBR3z_1Naw8ycsQELGa2NuWxgpWcO-IShSbRps5Dly2FjEK9IBBGp-=w1000-h750-no",
-    "source_query": "Fish restaurant in Mechelen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJqYQ_xAHlw0cRiMzCBuwy63c",
-    "name": "Natuurlijke Nectar",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Mechelen",
-    "address": "Natuurlijke Nectar, Zandpoortvest, 2800 Mechelen",
-    "street": "Zandpoortvest",
-    "postal_code": "2800",
-    "region": null,
-    "latitude": 51.025670999999996,
-    "longitude": 4.488698299999999,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Natuurlijke%20Nectar&query_place_id=ChIJqYQ_xAHlw0cRiMzCBuwy63c",
-    "open_hours_json": null,
-    "review_count": 0,
-    "rating": null,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdSsfR5YFDHZp3HWrkLn41-qeZuShq-vAJZSrx8uAYeY1wAQQxm31gqU1tXBBYMm91e_JJkKBTpJqXljlvNzL5XkQ6vsmIiQr2Q4I_mv0QBAW8sniGBp2yrBEoxuXV--F_WejUj=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdSsfR5YFDHZp3HWrkLn41-qeZuShq-vAJZSrx8uAYeY1wAQQxm31gqU1tXBBYMm91e_JJkKBTpJqXljlvNzL5XkQ6vsmIiQr2Q4I_mv0QBAW8sniGBp2yrBEoxuXV--F_WejUj=w1000-h750-no",
     "source_query": "Hypermarket in Mechelen, Flanders, BE",
     "moderation_status": "approved",
     "is_active": true,
