@@ -126,11 +126,11 @@
     },
     "PL": {
       "name": "Poland",
-      "count": 1249,
-      "total_shards": 5,
+      "count": 1252,
+      "total_shards": 6,
       "shards_dir": "shards/PL",
       "cities_file": "shards/PL/cities.json",
-      "updated_at": "2026-11-23T09:17:01.816751+00:00"
+      "updated_at": "2026-11-23T12:05:03.066401+00:00"
     },
     "IE": {
       "name": "Ireland",
@@ -141,6 +141,6 @@
       "updated_at": "2026-11-23T09:26:08.667658+00:00"
     }
   },
-  "updated_at": "2026-11-23T11:56:14.884314+00:00",
-  "total_places": 37235
+  "updated_at": "2026-11-23T12:05:03.066401+00:00",
+  "total_places": 37238
 }
