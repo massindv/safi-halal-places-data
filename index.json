@@ -6,11 +6,11 @@
   "countries": {
     "BE": {
       "name": "Belgium",
-      "count": 9128,
+      "count": 9135,
       "total_shards": 37,
       "shards_dir": "shards/BE",
       "cities_file": "shards/BE/cities.json",
-      "updated_at": "2026-11-22T23:40:55.686265+00:00"
+      "updated_at": "2026-11-23T02:22:13.040604+00:00"
     },
     "LU": {
       "name": "Luxembourg",
@@ -141,6 +141,6 @@
       "updated_at": "2026-11-23T02:00:22.948105+00:00"
     }
   },
-  "updated_at": "2026-11-23T02:09:01.188809+00:00",
-  "total_places": 36766
+  "updated_at": "2026-11-23T02:22:13.040604+00:00",
+  "total_places": 36773
 }
