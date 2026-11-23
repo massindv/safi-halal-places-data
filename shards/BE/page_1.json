@@ -54,10 +54,10 @@
     "moderation_status": "approved"
   },
   {
-    "place_id": "ChIJ3yjj_CGXw0cRg-NMhWnnsBQ",
-    "name": "Aalst Kevser Moskee",
-    "type": "mosque",
-    "category": "mosque",
+    "place_id": "ChIJ1eB3H6LxwEcRHLALJfiIWAk",
+    "name": "ALI BABA HALAL",
+    "type": "restaurant",
+    "category": "restaurant",
     "country": "BE",
     "country_code": "BE",
     "city": "",
@@ -65,11 +65,37 @@
     "street": null,
     "postal_code": null,
     "region": null,
-    "latitude": 50.9426503,
-    "longitude": 4.0469871,
+    "latitude": 50.6658619,
+    "longitude": 5.6306017,
     "phone": null,
     "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Aalst%20Kevser%20Moskee&query_place_id=ChIJ3yjj_CGXw0cRg-NMhWnnsBQ",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=ALI%20BABA%20HALAL&query_place_id=ChIJ1eB3H6LxwEcRHLALJfiIWAk",
+    "thumbnail_url": null,
+    "image_url": null,
+    "rating": null,
+    "review_count": 0,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJl0zYFqXwwEcRQRJ84dE3n6M",
+    "name": "Al Itihad",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "",
+    "address": null,
+    "street": null,
+    "postal_code": null,
+    "region": null,
+    "latitude": 50.640526,
+    "longitude": 5.5937845,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Itihad&query_place_id=ChIJl0zYFqXwwEcRQRJ84dE3n6M",
     "thumbnail_url": null,
     "image_url": null,
     "rating": null,
@@ -108,8 +134,8 @@
     "verification_evidence": null
   },
   {
-    "place_id": "ChIJX7fvMFYhwUcRwqHAcnB3zRg",
-    "name": "Antwerp Fried Chicken - Hasselt",
+    "place_id": "ChIJZQzEYdBhwUcRexCYig8ffw0",
+    "name": "Al Taj",
     "type": "restaurant",
     "category": "restaurant",
     "country": "BE",
@@ -119,17 +145,43 @@
     "street": null,
     "postal_code": null,
     "region": null,
-    "latitude": 50.9312225,
-    "longitude": 5.3399821,
+    "latitude": 50.889218,
+    "longitude": 4.7059129,
     "phone": null,
     "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Antwerp%20Fried%20Chicken%20-%20Hasselt&query_place_id=ChIJX7fvMFYhwUcRwqHAcnB3zRg",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Taj&query_place_id=ChIJZQzEYdBhwUcRexCYig8ffw0",
     "thumbnail_url": null,
     "image_url": null,
     "rating": null,
     "review_count": 0,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJO2gXZN5gwUcRwmQH1ffFAGI",
+    "name": "Amin & Co Halal",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "",
+    "address": null,
+    "street": null,
+    "postal_code": null,
+    "region": null,
+    "latitude": 50.8807364,
+    "longitude": 4.6930017,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Amin%20%26%20Co%20Halal&query_place_id=ChIJO2gXZN5gwUcRwmQH1ffFAGI",
+    "thumbnail_url": null,
+    "image_url": null,
+    "rating": null,
+    "review_count": 0,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
     "is_active": true,
     "moderation_status": "approved"
   },
@@ -162,6 +214,32 @@
     "verification_evidence": null
   },
   {
+    "place_id": "ChIJRWZEm7blw0cRklvwWxQegwk",
+    "name": "Ashtar Supermarkt",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "",
+    "address": null,
+    "street": null,
+    "postal_code": null,
+    "region": null,
+    "latitude": 51.0342926,
+    "longitude": 4.4818147,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ashtar%20Supermarkt&query_place_id=ChIJRWZEm7blw0cRklvwWxQegwk",
+    "thumbnail_url": null,
+    "image_url": null,
+    "rating": null,
+    "review_count": 0,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
     "place_id": "0x47c3ca1e8205a685:0x99ab5fd75406a134",
     "name": "Attawba",
     "type": "restaurant",
@@ -190,8 +268,8 @@
     "verification_evidence": null
   },
   {
-    "place_id": "ChIJszuTHNDYwEcRC-Q2uCrJ3XI",
-    "name": "BIF GENK - Genk Millî Görüş🕌",
+    "place_id": "ChIJv1gNuC36wEcRXpiwWAe6c6Q",
+    "name": "Ayhan Market/Besir SRL",
     "type": "restaurant",
     "category": "restaurant",
     "country": "BE",
@@ -201,11 +279,11 @@
     "street": null,
     "postal_code": null,
     "region": null,
-    "latitude": 50.9772089,
-    "longitude": 5.4848039,
+    "latitude": 50.6396499,
+    "longitude": 5.5367392,
     "phone": null,
     "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=BIF%20GENK%20-%20Genk%20Mill%C3%AE%20G%C3%B6r%C3%BC%C5%9F%F0%9F%95%8C&query_place_id=ChIJszuTHNDYwEcRC-Q2uCrJ3XI",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ayhan%20Market%2FBesir%20SRL&query_place_id=ChIJv1gNuC36wEcRXpiwWAe6c6Q",
     "thumbnail_url": null,
     "image_url": null,
     "rating": null,
@@ -216,8 +294,8 @@
     "moderation_status": "approved"
   },
   {
-    "place_id": "ChIJG-x22gkjwUcRAgI2wWFzgso",
-    "name": "Baraka-Land / بركة لاند",
+    "place_id": "ChIJJ_Pfif7nw0cRAOoyotxS_mw",
+    "name": "Az Markt",
     "type": "restaurant",
     "category": "restaurant",
     "country": "BE",
@@ -227,17 +305,225 @@
     "street": null,
     "postal_code": null,
     "region": null,
-    "latitude": 50.933138,
-    "longitude": 5.3271163,
+    "latitude": 50.9329737,
+    "longitude": 4.4252215,
     "phone": null,
     "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Baraka-Land%20%2F%20%D8%A8%D8%B1%D9%83%D8%A9%20%D9%84%D8%A7%D9%86%D8%AF&query_place_id=ChIJG-x22gkjwUcRAgI2wWFzgso",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Az%20Markt&query_place_id=ChIJJ_Pfif7nw0cRAOoyotxS_mw",
     "thumbnail_url": null,
     "image_url": null,
     "rating": null,
     "review_count": 0,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJK4tgLx3xwEcRaHn4u7ERQAU",
+    "name": "BOUCHERIE ARGANA HALAL",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "",
+    "address": null,
+    "street": null,
+    "postal_code": null,
+    "region": null,
+    "latitude": 50.6505476,
+    "longitude": 5.594309,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=BOUCHERIE%20ARGANA%20HALAL&query_place_id=ChIJK4tgLx3xwEcRaHn4u7ERQAU",
+    "thumbnail_url": null,
+    "image_url": null,
+    "rating": null,
+    "review_count": 0,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJCTDpBQD7wEcRJU6wUeCJXnY",
+    "name": "BOUCHERIE MARHABA 3 Halal",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "",
+    "address": null,
+    "street": null,
+    "postal_code": null,
+    "region": null,
+    "latitude": 50.6446025,
+    "longitude": 5.5751164,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=BOUCHERIE%20MARHABA%203%20Halal&query_place_id=ChIJCTDpBQD7wEcRJU6wUeCJXnY",
+    "thumbnail_url": null,
+    "image_url": null,
+    "rating": null,
+    "review_count": 0,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJafbUQwDlw0cRed32A3awDgI",
+    "name": "Beenhouwerij Alami",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "",
+    "address": null,
+    "street": null,
+    "postal_code": null,
+    "region": null,
+    "latitude": 51.0438349,
+    "longitude": 4.4709708,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Beenhouwerij%20Alami&query_place_id=ChIJafbUQwDlw0cRed32A3awDgI",
+    "thumbnail_url": null,
+    "image_url": null,
+    "rating": null,
+    "review_count": 0,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJJ0iKkNrlw0cRVaJYoWiH3Xs",
+    "name": "Beenhouwerij Ayoub",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "",
+    "address": null,
+    "street": null,
+    "postal_code": null,
+    "region": null,
+    "latitude": 51.0190735,
+    "longitude": 4.4725229,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Beenhouwerij%20Ayoub&query_place_id=ChIJJ0iKkNrlw0cRVaJYoWiH3Xs",
+    "thumbnail_url": null,
+    "image_url": null,
+    "rating": null,
+    "review_count": 0,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJOwRlrNVgwUcR3W7-4AO-39M",
+    "name": "Beenhouwerij Mediterranee",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "",
+    "address": null,
+    "street": null,
+    "postal_code": null,
+    "region": null,
+    "latitude": 50.8781228,
+    "longitude": 4.7114883,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Beenhouwerij%20Mediterranee&query_place_id=ChIJOwRlrNVgwUcR3W7-4AO-39M",
+    "thumbnail_url": null,
+    "image_url": null,
+    "rating": null,
+    "review_count": 0,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJV91LKbjlw0cR8nPt5uhk6FY",
+    "name": "Beenhouwerij Rif",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "",
+    "address": null,
+    "street": null,
+    "postal_code": null,
+    "region": null,
+    "latitude": 51.0334258,
+    "longitude": 4.4754416,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Beenhouwerij%20Rif&query_place_id=ChIJV91LKbjlw0cR8nPt5uhk6FY",
+    "thumbnail_url": null,
+    "image_url": null,
+    "rating": null,
+    "review_count": 0,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJO5XDWYbmw0cRjHyOG5jRKY0",
+    "name": "Beenhouwerij Rif",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "",
+    "address": null,
+    "street": null,
+    "postal_code": null,
+    "region": null,
+    "latitude": 51.0015318,
+    "longitude": 4.4876764,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Beenhouwerij%20Rif&query_place_id=ChIJO5XDWYbmw0cRjHyOG5jRKY0",
+    "thumbnail_url": null,
+    "image_url": null,
+    "rating": null,
+    "review_count": 0,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJG34ziFJtwUcRv2thPkADLiw",
+    "name": "Bereket Slagerij / Boucherie Halal مجزرة حلال",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "",
+    "address": null,
+    "street": null,
+    "postal_code": null,
+    "region": null,
+    "latitude": 50.803763,
+    "longitude": 4.9401461,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bereket%20Slagerij%20%2F%20Boucherie%20Halal%20%D9%85%D8%AC%D8%B2%D8%B1%D8%A9%20%D8%AD%D9%84%D8%A7%D9%84&query_place_id=ChIJG34ziFJtwUcRv2thPkADLiw",
+    "thumbnail_url": null,
+    "image_url": null,
+    "rating": null,
+    "review_count": 0,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Boucherie Halal",
     "is_active": true,
     "moderation_status": "approved"
   },
@@ -268,8 +554,34 @@
     "moderation_status": "approved"
   },
   {
-    "place_id": "ChIJSdJ-G8CLwEcRf8IuTu54Lx8",
-    "name": "Boucherie Jamali Halal",
+    "place_id": "ChIJvzaPajM3wkcRedo1nTqhZ2s",
+    "name": "Black & White Burger La Louvière",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "",
+    "address": null,
+    "street": null,
+    "postal_code": null,
+    "region": null,
+    "latitude": 50.4752754,
+    "longitude": 4.1857952,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Black%20%26%20White%20Burger%20La%20Louvi%C3%A8re&query_place_id=ChIJvzaPajM3wkcRedo1nTqhZ2s",
+    "thumbnail_url": null,
+    "image_url": null,
+    "rating": null,
+    "review_count": 0,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJ6YKZ88kvwkcREnQ6J3-YkEc",
+    "name": "Boucherie 100% Hallal حلال",
     "type": "butcher",
     "category": "butcher",
     "country": "BE",
@@ -279,17 +591,433 @@
     "street": null,
     "postal_code": null,
     "region": null,
-    "latitude": 50.5944552,
-    "longitude": 5.85494,
+    "latitude": 50.434393,
+    "longitude": 4.4136027,
     "phone": null,
     "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boucherie%20Jamali%20Halal&query_place_id=ChIJSdJ-G8CLwEcRf8IuTu54Lx8",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boucherie%20100%25%20Hallal%20%D8%AD%D9%84%D8%A7%D9%84&query_place_id=ChIJ6YKZ88kvwkcREnQ6J3-YkEc",
     "thumbnail_url": null,
     "image_url": null,
     "rating": null,
     "review_count": 0,
     "verification_status": "VERIFIED",
     "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJD1WBfHb3wEcR8BOOhe68oHY",
+    "name": "Boucherie Afghane",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "",
+    "address": null,
+    "street": null,
+    "postal_code": null,
+    "region": null,
+    "latitude": 50.6190693,
+    "longitude": 5.6040022,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boucherie%20Afghane&query_place_id=ChIJD1WBfHb3wEcR8BOOhe68oHY",
+    "thumbnail_url": null,
+    "image_url": null,
+    "rating": null,
+    "review_count": 0,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJ_8HlMaXwwEcRbH7_YEfu5Wg",
+    "name": "Boucherie Amirai",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "",
+    "address": null,
+    "street": null,
+    "postal_code": null,
+    "region": null,
+    "latitude": 50.6405966,
+    "longitude": 5.5952656,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boucherie%20Amirai&query_place_id=ChIJ_8HlMaXwwEcRbH7_YEfu5Wg",
+    "thumbnail_url": null,
+    "image_url": null,
+    "rating": null,
+    "review_count": 0,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJM1tS52n7wEcRwyHFg86SO5M",
+    "name": "Boucherie Delimeat halal",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "",
+    "address": null,
+    "street": null,
+    "postal_code": null,
+    "region": null,
+    "latitude": 50.6619254,
+    "longitude": 5.5160099,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boucherie%20Delimeat%20halal&query_place_id=ChIJM1tS52n7wEcRwyHFg86SO5M",
+    "thumbnail_url": null,
+    "image_url": null,
+    "rating": null,
+    "review_count": 0,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJTQHgONjxwEcRxBmGuKz77AU",
+    "name": "Boucherie Deniz Halal",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "",
+    "address": null,
+    "street": null,
+    "postal_code": null,
+    "region": null,
+    "latitude": 50.6731886,
+    "longitude": 5.6399051,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boucherie%20Deniz%20Halal&query_place_id=ChIJTQHgONjxwEcRxBmGuKz77AU",
+    "thumbnail_url": null,
+    "image_url": null,
+    "rating": null,
+    "review_count": 0,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJYWTcUtknwkcRwV_p2xVNvZg",
+    "name": "Boucherie Halal le Jour حلال",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "",
+    "address": null,
+    "street": null,
+    "postal_code": null,
+    "region": null,
+    "latitude": 50.4140375,
+    "longitude": 4.4442715,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boucherie%20Halal%20le%20Jour%20%D8%AD%D9%84%D8%A7%D9%84&query_place_id=ChIJYWTcUtknwkcRwV_p2xVNvZg",
+    "thumbnail_url": null,
+    "image_url": null,
+    "rating": null,
+    "review_count": 0,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Boucherie Halal",
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJlQO1UQb6wEcR9UlbwQAJDzw",
+    "name": "Boucherie Marrakech",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "",
+    "address": null,
+    "street": null,
+    "postal_code": null,
+    "region": null,
+    "latitude": 50.6371994,
+    "longitude": 5.5786061,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boucherie%20Marrakech&query_place_id=ChIJlQO1UQb6wEcR9UlbwQAJDzw",
+    "thumbnail_url": null,
+    "image_url": null,
+    "rating": null,
+    "review_count": 0,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJPY8Q2TTxwEcRBSZ2y8CPigA",
+    "name": "Boucherie Queen Rose( Halal 💯 )",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "",
+    "address": null,
+    "street": null,
+    "postal_code": null,
+    "region": null,
+    "latitude": 50.6400855,
+    "longitude": 5.583963,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boucherie%20Queen%20Rose%28%20Halal%20%F0%9F%92%AF%20%29&query_place_id=ChIJPY8Q2TTxwEcRBSZ2y8CPigA",
+    "thumbnail_url": null,
+    "image_url": null,
+    "rating": null,
+    "review_count": 0,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJwY0--ar5wEcRRsk063x3LJw",
+    "name": "Boucherie boushaba",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "",
+    "address": null,
+    "street": null,
+    "postal_code": null,
+    "region": null,
+    "latitude": 50.6292159,
+    "longitude": 5.5677553,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boucherie%20boushaba&query_place_id=ChIJwY0--ar5wEcRRsk063x3LJw",
+    "thumbnail_url": null,
+    "image_url": null,
+    "rating": null,
+    "review_count": 0,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJgWfIlQ77wEcRtvat3dHf_7s",
+    "name": "Boucherie halal de la citadelle",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "",
+    "address": null,
+    "street": null,
+    "postal_code": null,
+    "region": null,
+    "latitude": 50.6559036,
+    "longitude": 5.571374,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boucherie%20halal%20de%20la%20citadelle&query_place_id=ChIJgWfIlQ77wEcRtvat3dHf_7s",
+    "thumbnail_url": null,
+    "image_url": null,
+    "rating": null,
+    "review_count": 0,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Boucherie halal",
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJEwqQppjwwEcRC1nztG73j8E",
+    "name": "Boucherie saint léonard chez samir, Boucherie halal liège",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "",
+    "address": null,
+    "street": null,
+    "postal_code": null,
+    "region": null,
+    "latitude": 50.6495582,
+    "longitude": 5.5922541,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boucherie%20saint%20l%C3%A9onard%20chez%20samir%2C%20Boucherie%20halal%20li%C3%A8ge&query_place_id=ChIJEwqQppjwwEcRC1nztG73j8E",
+    "thumbnail_url": null,
+    "image_url": null,
+    "rating": null,
+    "review_count": 0,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Boucherie halal",
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJt64eWTL7w0cRBV-KWDFMwPY",
+    "name": "Butcher Amine",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "",
+    "address": null,
+    "street": null,
+    "postal_code": null,
+    "region": null,
+    "latitude": 51.0952491,
+    "longitude": 4.4980458,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Butcher%20Amine&query_place_id=ChIJt64eWTL7w0cRBV-KWDFMwPY",
+    "thumbnail_url": null,
+    "image_url": null,
+    "rating": null,
+    "review_count": 0,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJs57l-emLwEcRDtRcgcpdJ_k",
+    "name": "CC VAYNAH Verviers",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "",
+    "address": null,
+    "street": null,
+    "postal_code": null,
+    "region": null,
+    "latitude": 50.5945073,
+    "longitude": 5.854671,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=CC%20VAYNAH%20Verviers&query_place_id=ChIJs57l-emLwEcRDtRcgcpdJ_k",
+    "thumbnail_url": null,
+    "image_url": null,
+    "rating": null,
+    "review_count": 0,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJNZOb6lI3wkcR6iJIt17ZwL8",
+    "name": "CHEFDAG Cora La Louviere | Fried Chicken & More",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "",
+    "address": null,
+    "street": null,
+    "postal_code": null,
+    "region": null,
+    "latitude": 50.4853425,
+    "longitude": 4.2032619,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=CHEFDAG%20Cora%20La%20Louviere%20%7C%20Fried%20Chicken%20%26%20More&query_place_id=ChIJNZOb6lI3wkcR6iJIt17ZwL8",
+    "thumbnail_url": null,
+    "image_url": null,
+    "rating": null,
+    "review_count": 0,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJM4rw1OqLwEcRd7OY7mZ1QGk",
+    "name": "Centre Islamique, Culturel et Social-Mosquée Kobaa",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "",
+    "address": null,
+    "street": null,
+    "postal_code": null,
+    "region": null,
+    "latitude": 50.5971084,
+    "longitude": 5.8546854,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Centre%20Islamique%2C%20Culturel%20et%20Social-Mosqu%C3%A9e%20Kobaa&query_place_id=ChIJM4rw1OqLwEcRd7OY7mZ1QGk",
+    "thumbnail_url": null,
+    "image_url": null,
+    "rating": null,
+    "review_count": 0,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJVwJSCcCLwEcR_yUsFe4CBIA",
+    "name": "Complexe Educatif et Culturel Islamique",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "",
+    "address": null,
+    "street": null,
+    "postal_code": null,
+    "region": null,
+    "latitude": 50.5955262,
+    "longitude": 5.8529945,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Complexe%20Educatif%20et%20Culturel%20Islamique&query_place_id=ChIJVwJSCcCLwEcR_yUsFe4CBIA",
+    "thumbnail_url": null,
+    "image_url": null,
+    "rating": null,
+    "review_count": 0,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJ1bBFrno3wkcR7VRprflu918",
+    "name": "Couscous le Touareg la louvière",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "",
+    "address": null,
+    "street": null,
+    "postal_code": null,
+    "region": null,
+    "latitude": 50.4770074,
+    "longitude": 4.1886483,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Couscous%20le%20Touareg%20la%20louvi%C3%A8re&query_place_id=ChIJ1bBFrno3wkcR7VRprflu918",
+    "thumbnail_url": null,
+    "image_url": null,
+    "rating": null,
+    "review_count": 0,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
     "is_active": true,
     "moderation_status": "approved"
   },
@@ -402,8 +1130,8 @@
     "verification_evidence": null
   },
   {
-    "place_id": "ChIJRaDx1lJhwUcRO3SOhHv1Hq4",
-    "name": "Doruk Şimşek Cami",
+    "place_id": "ChIJge-CAZnlw0cRlfk5jXmnntY",
+    "name": "EEG Slachthuis Mechelen NV",
     "type": "restaurant",
     "category": "restaurant",
     "country": "BE",
@@ -413,37 +1141,11 @@
     "street": null,
     "postal_code": null,
     "region": null,
-    "latitude": 50.881568,
-    "longitude": 4.703709,
+    "latitude": 51.0449662,
+    "longitude": 4.4608745,
     "phone": null,
     "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Doruk%20%C5%9Eim%C5%9Fek%20Cami&query_place_id=ChIJRaDx1lJhwUcRO3SOhHv1Hq4",
-    "thumbnail_url": null,
-    "image_url": null,
-    "rating": null,
-    "review_count": 0,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJqwd626vZwEcRKazjEDtSZpc",
-    "name": "El Hoeda Moskee",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "",
-    "address": null,
-    "street": null,
-    "postal_code": null,
-    "region": null,
-    "latitude": 51.0115338,
-    "longitude": 5.5089329,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=El%20Hoeda%20Moskee&query_place_id=ChIJqwd626vZwEcRKazjEDtSZpc",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=EEG%20Slachthuis%20Mechelen%20NV&query_place_id=ChIJge-CAZnlw0cRlfk5jXmnntY",
     "thumbnail_url": null,
     "image_url": null,
     "rating": null,
@@ -482,10 +1184,10 @@
     "verification_evidence": null
   },
   {
-    "place_id": "ChIJSTwUPtshwUcRV3P7BW-y6jw",
-    "name": "Erman Supermarkt XL HASSELT",
-    "type": "hypermarket",
-    "category": "hypermarket",
+    "place_id": "ChIJ3_uUBLyLwEcRpLJKVEdzTdc",
+    "name": "Errahma",
+    "type": "restaurant",
+    "category": "restaurant",
     "country": "BE",
     "country_code": "BE",
     "city": "",
@@ -493,11 +1195,11 @@
     "street": null,
     "postal_code": null,
     "region": null,
-    "latitude": 50.9438946,
-    "longitude": 5.3514159,
+    "latitude": 50.5905218,
+    "longitude": 5.8461543,
     "phone": null,
     "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Erman%20Supermarkt%20XL%20HASSELT&query_place_id=ChIJSTwUPtshwUcRV3P7BW-y6jw",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Errahma&query_place_id=ChIJ3_uUBLyLwEcRpLJKVEdzTdc",
     "thumbnail_url": null,
     "image_url": null,
     "rating": null,
@@ -508,10 +1210,10 @@
     "moderation_status": "approved"
   },
   {
-    "place_id": "ChIJxQ7f1CgiwUcREv2ex0NNlqM",
-    "name": "Eurofood Supermarkt",
-    "type": "hypermarket",
-    "category": "hypermarket",
+    "place_id": "ChIJ-5bzid5gwUcRztzJ803Rnak",
+    "name": "Fontein Slagerij",
+    "type": "butcher",
+    "category": "butcher",
     "country": "BE",
     "country_code": "BE",
     "city": "",
@@ -519,11 +1221,11 @@
     "street": null,
     "postal_code": null,
     "region": null,
-    "latitude": 50.9247525,
-    "longitude": 5.3260822,
+    "latitude": 50.8809896,
+    "longitude": 4.6933036,
     "phone": null,
     "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Eurofood%20Supermarkt&query_place_id=ChIJxQ7f1CgiwUcREv2ex0NNlqM",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Fontein%20Slagerij&query_place_id=ChIJ-5bzid5gwUcRztzJ803Rnak",
     "thumbnail_url": null,
     "image_url": null,
     "rating": null,
@@ -618,32 +1320,6 @@
     "verification_evidence": null
   },
   {
-    "place_id": "ChIJmQJdegDfwEcRyp0K9WmrYz0",
-    "name": "Genk",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "",
-    "address": null,
-    "street": null,
-    "postal_code": null,
-    "region": null,
-    "latitude": 50.9285965,
-    "longitude": 5.5313937,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Genk&query_place_id=ChIJmQJdegDfwEcRyp0K9WmrYz0",
-    "thumbnail_url": null,
-    "image_url": null,
-    "rating": null,
-    "review_count": 0,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
     "place_id": "ChIJ56uQ7zVtwUcRmn2KF3Gg_MY",
     "name": "Grand-Mere",
     "type": "restaurant",
@@ -672,32 +1348,6 @@
     "verification_evidence": null
   },
   {
-    "place_id": "ChIJuVBrP1tBwUcRywXyy_ipiLc",
-    "name": "Great Market",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "",
-    "address": null,
-    "street": null,
-    "postal_code": null,
-    "region": null,
-    "latitude": 50.8554609,
-    "longitude": 4.4013572,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Great%20Market&query_place_id=ChIJuVBrP1tBwUcRywXyy_ipiLc",
-    "thumbnail_url": null,
-    "image_url": null,
-    "rating": null,
-    "review_count": 0,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
     "place_id": "ChIJqail-O86w0cRSRMh_jyfg60",
     "name": "Grozny",
     "type": "restaurant",
@@ -724,10 +1374,10 @@
     "moderation_status": "approved"
   },
   {
-    "place_id": "ChIJp0vLsGohwUcRj4gLdYZYd4I",
-    "name": "Halalsupply",
-    "type": "restaurant",
-    "category": "restaurant",
+    "place_id": "ChIJH1B7sVDEwEcRyjvgPP2FojI",
+    "name": "Halal Slagerij Maasmechelen",
+    "type": "butcher",
+    "category": "butcher",
     "country": "BE",
     "country_code": "BE",
     "city": "",
@@ -735,23 +1385,23 @@
     "street": null,
     "postal_code": null,
     "region": null,
-    "latitude": 50.9510556,
-    "longitude": 5.3630862,
+    "latitude": 50.9861444,
+    "longitude": 5.6998635,
     "phone": null,
     "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Halalsupply&query_place_id=ChIJp0vLsGohwUcRj4gLdYZYd4I",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Halal%20Slagerij%20Maasmechelen&query_place_id=ChIJH1B7sVDEwEcRyjvgPP2FojI",
     "thumbnail_url": null,
     "image_url": null,
     "rating": null,
     "review_count": 0,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
     "is_active": true,
     "moderation_status": "approved"
   },
   {
-    "place_id": "ChIJSX2OVbHYwEcRvxFqCTsEPDA",
-    "name": "Hasan Ben Thabet Mosque",
+    "place_id": "ChIJaVfSpCWv3EcR4vOTSGvjZ9Y",
+    "name": "Hazrat Bilal Jami Masjid Mosque Cami",
     "type": "mosque",
     "category": "mosque",
     "country": "BE",
@@ -761,11 +1411,11 @@
     "street": null,
     "postal_code": null,
     "region": null,
-    "latitude": 50.9736113,
-    "longitude": 5.4633512,
+    "latitude": 51.2148782,
+    "longitude": 2.9086713,
     "phone": null,
     "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Hasan%20Ben%20Thabet%20Mosque&query_place_id=ChIJSX2OVbHYwEcRvxFqCTsEPDA",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Hazrat%20Bilal%20Jami%20Masjid%20Mosque%20Cami&query_place_id=ChIJaVfSpCWv3EcR4vOTSGvjZ9Y",
     "thumbnail_url": null,
     "image_url": null,
     "rating": null,
@@ -860,8 +1510,8 @@
     "verification_evidence": null
   },
   {
-    "place_id": "ChIJb2g_H9DYwEcRhS41Y9Jp948",
-    "name": "Islamitische Sport en Ontwikkelingsvereniging",
+    "place_id": "ChIJu2k8AZnlw0cRKX0cMpXRgFM",
+    "name": "Jida bvba",
     "type": "restaurant",
     "category": "restaurant",
     "country": "BE",
@@ -871,11 +1521,11 @@
     "street": null,
     "postal_code": null,
     "region": null,
-    "latitude": 50.977141,
-    "longitude": 5.4850502,
+    "latitude": 51.0448915,
+    "longitude": 4.4622009,
     "phone": null,
     "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Islamitische%20Sport%20en%20Ontwikkelingsvereniging&query_place_id=ChIJb2g_H9DYwEcRhS41Y9Jp948",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Jida%20bvba&query_place_id=ChIJu2k8AZnlw0cRKX0cMpXRgFM",
     "thumbnail_url": null,
     "image_url": null,
     "rating": null,
@@ -886,8 +1536,8 @@
     "moderation_status": "approved"
   },
   {
-    "place_id": "ChIJ63D0bMCLwEcRXycT7aR8jcw",
-    "name": "Istanbul Market - Chez Ozdemir",
+    "place_id": "ChIJYeC4MQAjwUcRyAeaylJLgK4",
+    "name": "Jumbo Sint Lambrechts Herk (Hasselt)",
     "type": "restaurant",
     "category": "restaurant",
     "country": "BE",
@@ -897,11 +1547,11 @@
     "street": null,
     "postal_code": null,
     "region": null,
-    "latitude": 50.5933738,
-    "longitude": 5.8545759,
+    "latitude": 50.9056778,
+    "longitude": 5.3154221,
     "phone": null,
     "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Istanbul%20Market%20-%20Chez%20Ozdemir&query_place_id=ChIJ63D0bMCLwEcRXycT7aR8jcw",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Jumbo%20Sint%20Lambrechts%20Herk%20%28Hasselt%29&query_place_id=ChIJYeC4MQAjwUcRyAeaylJLgK4",
     "thumbnail_url": null,
     "image_url": null,
     "rating": null,
@@ -912,10 +1562,10 @@
     "moderation_status": "approved"
   },
   {
-    "place_id": "ChIJt6bq3xBhwUcRRD-4fbEd-Dg",
-    "name": "KUL Multi-faith prayer room - Students' Mosque",
-    "type": "mosque",
-    "category": "mosque",
+    "place_id": "ChIJ6erS-EnxwEcR5_FTJcSAQC0",
+    "name": "Kahraman market",
+    "type": "restaurant",
+    "category": "restaurant",
     "country": "BE",
     "country_code": "BE",
     "city": "",
@@ -923,11 +1573,11 @@
     "street": null,
     "postal_code": null,
     "region": null,
-    "latitude": 50.8634465,
-    "longitude": 4.6794626,
+    "latitude": 50.6339864,
+    "longitude": 5.5823918,
     "phone": null,
     "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=KUL%20Multi-faith%20prayer%20room%20-%20Students%27%20Mosque&query_place_id=ChIJt6bq3xBhwUcRRD-4fbEd-Dg",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kahraman%20market&query_place_id=ChIJ6erS-EnxwEcR5_FTJcSAQC0",
     "thumbnail_url": null,
     "image_url": null,
     "rating": null,
@@ -938,10 +1588,10 @@
     "moderation_status": "approved"
   },
   {
-    "place_id": "ChIJB4strNBgwUcRvtbHsv1jc1I",
-    "name": "KULeuven Students Mosque (IMSAL)",
-    "type": "mosque",
-    "category": "mosque",
+    "place_id": "ChIJCX8j0P_nw0cR9OooaTdxDLc",
+    "name": "Kasap Mehmet",
+    "type": "butcher",
+    "category": "butcher",
     "country": "BE",
     "country_code": "BE",
     "city": "",
@@ -949,11 +1599,37 @@
     "street": null,
     "postal_code": null,
     "region": null,
-    "latitude": 50.8815819,
-    "longitude": 4.7037622,
+    "latitude": 50.9330653,
+    "longitude": 4.4322281,
     "phone": null,
     "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=KULeuven%20Students%20Mosque%20%28IMSAL%29&query_place_id=ChIJB4strNBgwUcRvtbHsv1jc1I",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kasap%20Mehmet&query_place_id=ChIJCX8j0P_nw0cR9OooaTdxDLc",
+    "thumbnail_url": null,
+    "image_url": null,
+    "rating": null,
+    "review_count": 0,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJo-4p-Enkw0cRE-9Z1u2rY3o",
+    "name": "Kaya's",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "",
+    "address": null,
+    "street": null,
+    "postal_code": null,
+    "region": null,
+    "latitude": 51.0310867,
+    "longitude": 4.4945343,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kaya%27s&query_place_id=ChIJo-4p-Enkw0cRE-9Z1u2rY3o",
     "thumbnail_url": null,
     "image_url": null,
     "rating": null,
@@ -1098,6 +1774,32 @@
     "verification_evidence": null
   },
   {
+    "place_id": "ChIJE6MazGqCPqARpMP9ZdMCLLU",
+    "name": "La Grande Mosquée De Bruxelles",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "",
+    "address": null,
+    "street": null,
+    "postal_code": null,
+    "region": null,
+    "latitude": 50.501038,
+    "longitude": 4.4661,
+    "phone": "0465 18 32 02",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Grande%20Mosqu%C3%A9e%20De%20Bruxelles&query_place_id=ChIJE6MazGqCPqARpMP9ZdMCLLU",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdS68RDkq-P03XV1OiVYJCUPypHYsj8rJ_8Z4KndfiYSrSBcBjOY9fXd5SaQ3Sv1kDW7CqjmuuMnEh9drrCUZEYPVEWlTdkGMR7SWgrJd1FokHd3tfHoqig0-RwbUjBpB2GwgcPmx3yIC4=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdS68RDkq-P03XV1OiVYJCUPypHYsj8rJ_8Z4KndfiYSrSBcBjOY9fXd5SaQ3Sv1kDW7CqjmuuMnEh9drrCUZEYPVEWlTdkGMR7SWgrJd1FokHd3tfHoqig0-RwbUjBpB2GwgcPmx3yIC4=w1000-h750-no",
+    "rating": null,
+    "review_count": 0,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
     "place_id": "ChIJX13NQ9htwUcRX57OP3h70DM",
     "name": "Lacasa ……Définitivement fermé",
     "type": "restaurant",
@@ -1152,6 +1854,32 @@
     "is_active": true,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJPbHJf8Q3wkcR9Q53hpfXeqU",
+    "name": "Le P’tit Chez soi",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "",
+    "address": null,
+    "street": null,
+    "postal_code": null,
+    "region": null,
+    "latitude": 50.4796113,
+    "longitude": 4.1857986,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20P%E2%80%99tit%20Chez%20soi&query_place_id=ChIJPbHJf8Q3wkcR9Q53hpfXeqU",
+    "thumbnail_url": null,
+    "image_url": null,
+    "rating": null,
+    "review_count": 0,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
   },
   {
     "place_id": "0x47c2fb143e5c627f:0xf1fc8ba2fc25af41",
@@ -1210,8 +1938,8 @@
     "verification_evidence": null
   },
   {
-    "place_id": "ChIJT_0WvfrZwEcR-XJE2t-fmeo",
-    "name": "MEVLANA Slagerij",
+    "place_id": "ChIJLSaW2odhwUcRH8WvNd11bzY",
+    "name": "Leuvense Slagerij 100% Halal",
     "type": "butcher",
     "category": "butcher",
     "country": "BE",
@@ -1221,43 +1949,17 @@
     "street": null,
     "postal_code": null,
     "region": null,
-    "latitude": 50.9808554,
-    "longitude": 5.4919371,
+    "latitude": 50.8805933,
+    "longitude": 4.6939718,
     "phone": null,
     "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=MEVLANA%20Slagerij&query_place_id=ChIJT_0WvfrZwEcR-XJE2t-fmeo",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Leuvense%20Slagerij%20100%25%20Halal&query_place_id=ChIJLSaW2odhwUcRH8WvNd11bzY",
     "thumbnail_url": null,
     "image_url": null,
     "rating": null,
     "review_count": 0,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJvTE-n6DZwEcRreg-V2oTpNQ",
-    "name": "MICV El Hoeda",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "",
-    "address": null,
-    "street": null,
-    "postal_code": null,
-    "region": null,
-    "latitude": 51.0116342,
-    "longitude": 5.5090599,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=MICV%20El%20Hoeda&query_place_id=ChIJvTE-n6DZwEcRreg-V2oTpNQ",
-    "thumbnail_url": null,
-    "image_url": null,
-    "rating": null,
-    "review_count": 0,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "100% Halal",
     "is_active": true,
     "moderation_status": "approved"
   },
@@ -1344,6 +2046,58 @@
     "moderation_status": "approved"
   },
   {
+    "place_id": "ChIJQ437rtVgwUcRW19EIWCsh2o",
+    "name": "Mediterranee Bada",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "",
+    "address": null,
+    "street": null,
+    "postal_code": null,
+    "region": null,
+    "latitude": 50.8778605,
+    "longitude": 4.7113732,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mediterranee%20Bada&query_place_id=ChIJQ437rtVgwUcRW19EIWCsh2o",
+    "thumbnail_url": null,
+    "image_url": null,
+    "rating": null,
+    "review_count": 0,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJmazv5D03wkcRw2EOvusO87U",
+    "name": "Meknes Food",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "",
+    "address": null,
+    "street": null,
+    "postal_code": null,
+    "region": null,
+    "latitude": 50.4779025,
+    "longitude": 4.1873054,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Meknes%20Food&query_place_id=ChIJmazv5D03wkcRw2EOvusO87U",
+    "thumbnail_url": null,
+    "image_url": null,
+    "rating": null,
+    "review_count": 0,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
     "place_id": "ChIJH0ceZtLlw0cRAyLOg5wwyLk",
     "name": "Merad Restaurant",
     "type": "restaurant",
@@ -1370,10 +2124,10 @@
     "moderation_status": "approved"
   },
   {
-    "place_id": "ChIJHfRbaQDZwEcRFL5u4l4Tayg",
-    "name": "Mevlana Moskee",
-    "type": "mosque",
-    "category": "mosque",
+    "place_id": "ChIJSyzdLgAXwUcRkjRC7ztFn2Y",
+    "name": "Milad Slagrij voeding",
+    "type": "restaurant",
+    "category": "restaurant",
     "country": "BE",
     "country_code": "BE",
     "city": "",
@@ -1381,11 +2135,11 @@
     "street": null,
     "postal_code": null,
     "region": null,
-    "latitude": 51.0053904,
-    "longitude": 5.5150842,
+    "latitude": 50.814601,
+    "longitude": 5.1879062,
     "phone": null,
     "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mevlana%20Moskee&query_place_id=ChIJHfRbaQDZwEcRFL5u4l4Tayg",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Milad%20Slagrij%20voeding&query_place_id=ChIJSyzdLgAXwUcRkjRC7ztFn2Y",
     "thumbnail_url": null,
     "image_url": null,
     "rating": null,
@@ -1424,8 +2178,8 @@
     "verification_evidence": null
   },
   {
-    "place_id": "ChIJL3-Ttoy9w0cRVESKHKgVsg0",
-    "name": "Moskee Aalst",
+    "place_id": "ChIJq8jeezCv3EcR_VzhA8FUIfU",
+    "name": "Moskee Aisja 🕌",
     "type": "mosque",
     "category": "mosque",
     "country": "BE",
@@ -1435,11 +2189,11 @@
     "street": null,
     "postal_code": null,
     "region": null,
-    "latitude": 50.9405138,
-    "longitude": 4.0440571,
+    "latitude": 51.217108,
+    "longitude": 2.9025503,
     "phone": null,
     "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Aalst&query_place_id=ChIJL3-Ttoy9w0cRVESKHKgVsg0",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Aisja%20%F0%9F%95%8C&query_place_id=ChIJq8jeezCv3EcR_VzhA8FUIfU",
     "thumbnail_url": null,
     "image_url": null,
     "rating": null,
@@ -1476,84 +2230,6 @@
     "is_active": true,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJldHB7dxgwUcRcE14Dw68MGk",
-    "name": "Moskee Al Fath🕌",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "",
-    "address": null,
-    "street": null,
-    "postal_code": null,
-    "region": null,
-    "latitude": 50.8846402,
-    "longitude": 4.6951628,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Al%20Fath%F0%9F%95%8C&query_place_id=ChIJldHB7dxgwUcRcE14Dw68MGk",
-    "thumbnail_url": null,
-    "image_url": null,
-    "rating": null,
-    "review_count": 0,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJ-dFyJsZgwUcRZjGXz3Svhm8",
-    "name": "Moskee Al Ihsaan",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "",
-    "address": null,
-    "street": null,
-    "postal_code": null,
-    "region": null,
-    "latitude": 50.8935211,
-    "longitude": 4.7046066,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Al%20Ihsaan&query_place_id=ChIJ-dFyJsZgwUcRZjGXz3Svhm8",
-    "thumbnail_url": null,
-    "image_url": null,
-    "rating": null,
-    "review_count": 0,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJS6oyQ0pnwUcRhubqPNFXGuM",
-    "name": "Moskee Al salam 🕌",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "",
-    "address": null,
-    "street": null,
-    "postal_code": null,
-    "region": null,
-    "latitude": 50.8836092,
-    "longitude": 4.7189927,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Al%20salam%20%F0%9F%95%8C&query_place_id=ChIJS6oyQ0pnwUcRhubqPNFXGuM",
-    "thumbnail_url": null,
-    "image_url": null,
-    "rating": null,
-    "review_count": 0,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
   },
   {
     "place_id": "0x47c3c66b4903544f:0x875cfdb072fb4a34",
@@ -1640,32 +2316,6 @@
     "verification_evidence": null
   },
   {
-    "place_id": "ChIJW22STQD3w0cRJ1CsY0jrTWY",
-    "name": "Moskee Assalaam",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "",
-    "address": null,
-    "street": null,
-    "postal_code": null,
-    "region": null,
-    "latitude": 51.2376526,
-    "longitude": 4.4444292,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Assalaam&query_place_id=ChIJW22STQD3w0cRJ1CsY0jrTWY",
-    "thumbnail_url": null,
-    "image_url": null,
-    "rating": null,
-    "review_count": 0,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
     "place_id": "0x47c0c94ed4c4b367:0xaa0be2439a24c623",
     "name": "Moskee El-Hidaya",
     "type": "mosque",
@@ -1722,8 +2372,8 @@
     "verification_evidence": null
   },
   {
-    "place_id": "ChIJhzARQ7HYwEcR5smo0mPr8lc",
-    "name": "Moskee Hassan Ibn Thabit",
+    "place_id": "ChIJ8VeQZyqv3EcRd9VW32HTTFo",
+    "name": "Moskee Jamia Islamia🕌",
     "type": "mosque",
     "category": "mosque",
     "country": "BE",
@@ -1733,11 +2383,11 @@
     "street": null,
     "postal_code": null,
     "region": null,
-    "latitude": 50.9733015,
-    "longitude": 5.4632712,
+    "latitude": 51.223759,
+    "longitude": 2.9165332,
     "phone": null,
     "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Hassan%20Ibn%20Thabit&query_place_id=ChIJhzARQ7HYwEcR5smo0mPr8lc",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Jamia%20Islamia%F0%9F%95%8C&query_place_id=ChIJ8VeQZyqv3EcRd9VW32HTTFo",
     "thumbnail_url": null,
     "image_url": null,
     "rating": null,
@@ -1776,8 +2426,8 @@
     "verification_evidence": null
   },
   {
-    "place_id": "ChIJlx0HFwDZwEcRKYngFRZ1nAQ",
-    "name": "Moskee Waterschei",
+    "place_id": "ChIJBbiNHWeLwEcRsGSx3Ks9fmE",
+    "name": "Mosque Assalam",
     "type": "mosque",
     "category": "mosque",
     "country": "BE",
@@ -1787,11 +2437,11 @@
     "street": null,
     "postal_code": null,
     "region": null,
-    "latitude": 51.0051381,
-    "longitude": 5.5150543,
+    "latitude": 50.5982842,
+    "longitude": 5.8756021,
     "phone": null,
     "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Waterschei&query_place_id=ChIJlx0HFwDZwEcRKYngFRZ1nAQ",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mosque%20Assalam&query_place_id=ChIJBbiNHWeLwEcRsGSx3Ks9fmE",
     "thumbnail_url": null,
     "image_url": null,
     "rating": null,
@@ -1802,8 +2452,8 @@
     "moderation_status": "approved"
   },
   {
-    "place_id": "ChIJQWyS_rPYwEcRjSKeg-fRlzQ",
-    "name": "Moskee Winterslag",
+    "place_id": "ChIJLfD1gb-LwEcRIO9Djlw59nw",
+    "name": "Mosque Sultan Ahmet",
     "type": "mosque",
     "category": "mosque",
     "country": "BE",
@@ -1813,11 +2463,11 @@
     "street": null,
     "postal_code": null,
     "region": null,
-    "latitude": 50.973307,
-    "longitude": 5.463243,
+    "latitude": 50.5922752,
+    "longitude": 5.8530657,
     "phone": null,
     "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Winterslag&query_place_id=ChIJQWyS_rPYwEcRjSKeg-fRlzQ",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mosque%20Sultan%20Ahmet&query_place_id=ChIJLfD1gb-LwEcRIO9Djlw59nw",
     "thumbnail_url": null,
     "image_url": null,
     "rating": null,
@@ -1940,6 +2590,32 @@
     "verification_evidence": null
   },
   {
+    "place_id": "ChIJE1KKDMCLwEcRSfV6mLZzZkE",
+    "name": "Mosquée Bilal",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "",
+    "address": null,
+    "street": null,
+    "postal_code": null,
+    "region": null,
+    "latitude": 50.5936453,
+    "longitude": 5.8542499,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mosqu%C3%A9e%20Bilal&query_place_id=ChIJE1KKDMCLwEcRSfV6mLZzZkE",
+    "thumbnail_url": null,
+    "image_url": null,
+    "rating": null,
+    "review_count": 0,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
     "place_id": "0x47c171eecaef8615:0x522495539cd50453",
     "name": "Mosquée ERAHMA",
     "type": "mosque",
@@ -1994,6 +2670,32 @@
     "is_active": true,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJy9RJtixawkcRd3mFJFlT1JM",
+    "name": "Mosquée Emir Abdelkader",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "",
+    "address": null,
+    "street": null,
+    "postal_code": null,
+    "region": null,
+    "latitude": 50.4088204,
+    "longitude": 3.8571573,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mosqu%C3%A9e%20Emir%20Abdelkader&query_place_id=ChIJy9RJtixawkcRd3mFJFlT1JM",
+    "thumbnail_url": null,
+    "image_url": null,
+    "rating": null,
+    "review_count": 0,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
   },
   {
     "place_id": "0x47ea9cd0c99e8e9d:0x1651145e38bb52f0",
@@ -2164,6 +2866,32 @@
     "verification_evidence": null
   },
   {
+    "place_id": "ChIJ_zTt8ow3wkcRqHUOHXIvlvk",
+    "name": "Nia snack pizza",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "",
+    "address": null,
+    "street": null,
+    "postal_code": null,
+    "region": null,
+    "latitude": 50.4779025,
+    "longitude": 4.1873054,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Nia%20snack%20pizza&query_place_id=ChIJ_zTt8ow3wkcRqHUOHXIvlvk",
+    "thumbnail_url": null,
+    "image_url": null,
+    "rating": null,
+    "review_count": 0,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
     "place_id": "ChIJ28EZvuW9w0cRTie60VgV3i8",
     "name": "Ono Bowl",
     "type": "restaurant",
@@ -2180,6 +2908,32 @@
     "phone": null,
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ono%20Bowl&query_place_id=ChIJ28EZvuW9w0cRTie60VgV3i8",
+    "thumbnail_url": null,
+    "image_url": null,
+    "rating": null,
+    "review_count": 0,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJWy0gK76LwEcRrsyDr95fauQ",
+    "name": "Orhan Gazii",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "",
+    "address": null,
+    "street": null,
+    "postal_code": null,
+    "region": null,
+    "latitude": 50.5948036,
+    "longitude": 5.850784,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Orhan%20Gazii&query_place_id=ChIJWy0gK76LwEcRrsyDr95fauQ",
     "thumbnail_url": null,
     "image_url": null,
     "rating": null,
@@ -2244,6 +2998,110 @@
     "moderation_status": "approved"
   },
   {
+    "place_id": "ChIJv7yLqLM3wkcRUlArwRX7dFw",
+    "name": "Pitta Keko - La Louvière",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "",
+    "address": null,
+    "street": null,
+    "postal_code": null,
+    "region": null,
+    "latitude": 50.4770743,
+    "longitude": 4.1866087,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pitta%20Keko%20-%20La%20Louvi%C3%A8re&query_place_id=ChIJv7yLqLM3wkcRUlArwRX7dFw",
+    "thumbnail_url": null,
+    "image_url": null,
+    "rating": null,
+    "review_count": 0,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJU7wUb9_lw0cRaA_Uv5tr3TU",
+    "name": "RASOOL Slagerij (Halal)",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "",
+    "address": null,
+    "street": null,
+    "postal_code": null,
+    "region": null,
+    "latitude": 51.0265116,
+    "longitude": 4.4796588,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=RASOOL%20Slagerij%20%28Halal%29&query_place_id=ChIJU7wUb9_lw0cRaA_Uv5tr3TU",
+    "thumbnail_url": null,
+    "image_url": null,
+    "rating": null,
+    "review_count": 0,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJHeqQl7M3wkcRyROj5tAAnc8",
+    "name": "Restaurant Aseel",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "",
+    "address": null,
+    "street": null,
+    "postal_code": null,
+    "region": null,
+    "latitude": 50.4765,
+    "longitude": 4.185763,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20Aseel&query_place_id=ChIJHeqQl7M3wkcRyROj5tAAnc8",
+    "thumbnail_url": null,
+    "image_url": null,
+    "rating": null,
+    "review_count": 0,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJqVFtXLI3wkcRap6EpSry4VQ",
+    "name": "Restaurant Egyptien Pyramide - La Louvière",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "",
+    "address": null,
+    "street": null,
+    "postal_code": null,
+    "region": null,
+    "latitude": 50.4767769,
+    "longitude": 4.1884508,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20Egyptien%20Pyramide%20-%20La%20Louvi%C3%A8re&query_place_id=ChIJqVFtXLI3wkcRap6EpSry4VQ",
+    "thumbnail_url": null,
+    "image_url": null,
+    "rating": null,
+    "review_count": 0,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
     "place_id": "ChIJ364Y4bI3wkcRsTNCD6IeDsM",
     "name": "Reyyan",
     "type": "restaurant",
@@ -2298,10 +3156,10 @@
     "verification_evidence": null
   },
   {
-    "place_id": "ChIJ4Wmr1S4iwUcR3UJ5YnsuiAQ",
-    "name": "SPAR Hasselt Runkst",
-    "type": "restaurant",
-    "category": "restaurant",
+    "place_id": "ChIJt1O8-Unkw0cRL-uIuz8vEeI",
+    "name": "Sima Supermarkt",
+    "type": "hypermarket",
+    "category": "hypermarket",
     "country": "BE",
     "country_code": "BE",
     "city": "",
@@ -2309,11 +3167,63 @@
     "street": null,
     "postal_code": null,
     "region": null,
-    "latitude": 50.9247752,
-    "longitude": 5.3260355,
+    "latitude": 51.0311163,
+    "longitude": 4.494569,
     "phone": null,
     "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=SPAR%20Hasselt%20Runkst&query_place_id=ChIJ4Wmr1S4iwUcR3UJ5YnsuiAQ",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Sima%20Supermarkt&query_place_id=ChIJt1O8-Unkw0cRL-uIuz8vEeI",
+    "thumbnail_url": null,
+    "image_url": null,
+    "rating": null,
+    "review_count": 0,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJl7W-Vn_nw0cR0nu2LRU4I58",
+    "name": "Slagerij Anatolia Vilvoorde",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "",
+    "address": null,
+    "street": null,
+    "postal_code": null,
+    "region": null,
+    "latitude": 50.9292529,
+    "longitude": 4.4215712,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Slagerij%20Anatolia%20Vilvoorde&query_place_id=ChIJl7W-Vn_nw0cR0nu2LRU4I58",
+    "thumbnail_url": null,
+    "image_url": null,
+    "rating": null,
+    "review_count": 0,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJcZZOCDlhwUcRvRqMSFmV-FE",
+    "name": "Slagerij Babylon",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "",
+    "address": null,
+    "street": null,
+    "postal_code": null,
+    "region": null,
+    "latitude": 50.8805854,
+    "longitude": 4.6940079,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Slagerij%20Babylon&query_place_id=ChIJcZZOCDlhwUcRvRqMSFmV-FE",
     "thumbnail_url": null,
     "image_url": null,
     "rating": null,
@@ -2350,8 +3260,8 @@
     "moderation_status": "approved"
   },
   {
-    "place_id": "ChIJA1-g8IAhwUcRlinIt9OouIc",
-    "name": "Slagerij Oosterbosch",
+    "place_id": "ChIJW1-tLsXdw0cR9dPgwn7sge4",
+    "name": "Slagerij Elif Zaventem ( The Halal Butcher & The Helal Kasap )",
     "type": "butcher",
     "category": "butcher",
     "country": "BE",
@@ -2361,11 +3271,141 @@
     "street": null,
     "postal_code": null,
     "region": null,
-    "latitude": 50.9294228,
-    "longitude": 5.3358272,
+    "latitude": 50.8848735,
+    "longitude": 4.4711077,
     "phone": null,
     "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Slagerij%20Oosterbosch&query_place_id=ChIJA1-g8IAhwUcRlinIt9OouIc",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Slagerij%20Elif%20Zaventem%20%28%20The%20Halal%20Butcher%20%26%20The%20Helal%20Kasap%20%29&query_place_id=ChIJW1-tLsXdw0cR9dPgwn7sge4",
+    "thumbnail_url": null,
+    "image_url": null,
+    "rating": null,
+    "review_count": 0,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJsUFzeQAXwUcR1b-AjhRAheU",
+    "name": "Slagerij Halal",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "",
+    "address": null,
+    "street": null,
+    "postal_code": null,
+    "region": null,
+    "latitude": 50.814601,
+    "longitude": 5.1879062,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Slagerij%20Halal&query_place_id=ChIJsUFzeQAXwUcR1b-AjhRAheU",
+    "thumbnail_url": null,
+    "image_url": null,
+    "rating": null,
+    "review_count": 0,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Slagerij Halal",
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJazlZj8_lw0cRsptodMLdNBo",
+    "name": "Slagerij Manal",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "",
+    "address": null,
+    "street": null,
+    "postal_code": null,
+    "region": null,
+    "latitude": 51.022694,
+    "longitude": 4.4746743,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Slagerij%20Manal&query_place_id=ChIJazlZj8_lw0cRsptodMLdNBo",
+    "thumbnail_url": null,
+    "image_url": null,
+    "rating": null,
+    "review_count": 0,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJa6KzHbTlw0cRNVF_z9LVsxU",
+    "name": "Slagerij Rachmo",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "",
+    "address": null,
+    "street": null,
+    "postal_code": null,
+    "region": null,
+    "latitude": 51.0357147,
+    "longitude": 4.4824463,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Slagerij%20Rachmo&query_place_id=ChIJa6KzHbTlw0cRNVF_z9LVsxU",
+    "thumbnail_url": null,
+    "image_url": null,
+    "rating": null,
+    "review_count": 0,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJYfYVodlgwUcRH-Ye_8HJl8Q",
+    "name": "Slagerij Rondou",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "",
+    "address": null,
+    "street": null,
+    "postal_code": null,
+    "region": null,
+    "latitude": 50.8797977,
+    "longitude": 4.6998015,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Slagerij%20Rondou&query_place_id=ChIJYfYVodlgwUcRH-Ye_8HJl8Q",
+    "thumbnail_url": null,
+    "image_url": null,
+    "rating": null,
+    "review_count": 0,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJqw6w98rlw0cRKchjjYWVOFU",
+    "name": "Slagerij Veemarkt",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "",
+    "address": null,
+    "street": null,
+    "postal_code": null,
+    "region": null,
+    "latitude": 51.0287263,
+    "longitude": 4.4845486,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Slagerij%20Veemarkt&query_place_id=ChIJqw6w98rlw0cRKchjjYWVOFU",
     "thumbnail_url": null,
     "image_url": null,
     "rating": null,
@@ -2392,6 +3432,58 @@
     "phone": null,
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Snack%20Aladdin&query_place_id=ChIJP4FrOZHEw0cRmTbdeoVvw5s",
+    "thumbnail_url": null,
+    "image_url": null,
+    "rating": null,
+    "review_count": 0,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJEyRlRrQ3wkcRf23pqTx67RE",
+    "name": "Snack Yasmine",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "",
+    "address": null,
+    "street": null,
+    "postal_code": null,
+    "region": null,
+    "latitude": 50.4762845,
+    "longitude": 4.1820814,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Snack%20Yasmine&query_place_id=ChIJEyRlRrQ3wkcRf23pqTx67RE",
+    "thumbnail_url": null,
+    "image_url": null,
+    "rating": null,
+    "review_count": 0,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJC4ZCwVA3wkcR4IFbw-5OZtk",
+    "name": "Snack la vague d’or",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "",
+    "address": null,
+    "street": null,
+    "postal_code": null,
+    "region": null,
+    "latitude": 50.4779025,
+    "longitude": 4.1873054,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Snack%20la%20vague%20d%E2%80%99or&query_place_id=ChIJC4ZCwVA3wkcR4IFbw-5OZtk",
     "thumbnail_url": null,
     "image_url": null,
     "rating": null,
@@ -2456,8 +3548,8 @@
     "verification_evidence": null
   },
   {
-    "place_id": "ChIJC9VGsJ0hwUcR0N3q3ugbirc",
-    "name": "TANS",
+    "place_id": "ChIJKzWFqQn6wEcRqmT29SHIppw",
+    "name": "Sprl Maison Boushaba 🥩",
     "type": "restaurant",
     "category": "restaurant",
     "country": "BE",
@@ -2467,11 +3559,37 @@
     "street": null,
     "postal_code": null,
     "region": null,
-    "latitude": 50.9296081,
-    "longitude": 5.3501436,
+    "latitude": 50.6421239,
+    "longitude": 5.5801731,
     "phone": null,
     "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=TANS&query_place_id=ChIJC9VGsJ0hwUcR0N3q3ugbirc",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Sprl%20Maison%20Boushaba%20%F0%9F%A5%A9&query_place_id=ChIJKzWFqQn6wEcRqmT29SHIppw",
+    "thumbnail_url": null,
+    "image_url": null,
+    "rating": null,
+    "review_count": 0,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJt1iWHs77wEcRdre2QwEkuq4",
+    "name": "Supermarket Yenipinar",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "",
+    "address": null,
+    "street": null,
+    "postal_code": null,
+    "region": null,
+    "latitude": 50.6425548,
+    "longitude": 5.5254622,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Supermarket%20Yenipinar&query_place_id=ChIJt1iWHs77wEcRdre2QwEkuq4",
     "thumbnail_url": null,
     "image_url": null,
     "rating": null,
@@ -2510,32 +3628,6 @@
     "verification_evidence": null
   },
   {
-    "place_id": "ChIJf8O-22UhwUcRrm5aMRyM7jU",
-    "name": "The Butchery",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "",
-    "address": null,
-    "street": null,
-    "postal_code": null,
-    "region": null,
-    "latitude": 50.9470742,
-    "longitude": 5.3475649,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=The%20Butchery&query_place_id=ChIJf8O-22UhwUcRrm5aMRyM7jU",
-    "thumbnail_url": null,
-    "image_url": null,
-    "rating": null,
-    "review_count": 0,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
     "place_id": "ChIJOYFF6YbbwEcRO5gxmlv6NoE",
     "name": "UMEL VLEES",
     "type": "restaurant",
@@ -2562,8 +3654,8 @@
     "moderation_status": "approved"
   },
   {
-    "place_id": "ChIJPdi2khTfwEcRqW7gZ0FjCjM",
-    "name": "Vzw alfarah",
+    "place_id": "ChIJnbFNbd1gwUcRLn-Kp-Us6to",
+    "name": "Vleesgroothandel",
     "type": "restaurant",
     "category": "restaurant",
     "country": "BE",
@@ -2573,11 +3665,11 @@
     "street": null,
     "postal_code": null,
     "region": null,
-    "latitude": 50.9286101,
-    "longitude": 5.5314197,
+    "latitude": 50.8939314,
+    "longitude": 4.7978916,
     "phone": null,
     "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Vzw%20alfarah&query_place_id=ChIJPdi2khTfwEcRqW7gZ0FjCjM",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Vleesgroothandel&query_place_id=ChIJnbFNbd1gwUcRLn-Kp-Us6to",
     "thumbnail_url": null,
     "image_url": null,
     "rating": null,
@@ -2588,10 +3680,10 @@
     "moderation_status": "approved"
   },
   {
-    "place_id": "ChIJ9Q6XUbjYwEcRfotXGB4hAMI",
-    "name": "Winterslag Fatih Moskee",
-    "type": "mosque",
-    "category": "mosque",
+    "place_id": "ChIJO5_C5ss3wkcRDgF0vmG9bHc",
+    "name": "WassimFood",
+    "type": "restaurant",
+    "category": "restaurant",
     "country": "BE",
     "country_code": "BE",
     "city": "",
@@ -2599,89 +3691,11 @@
     "street": null,
     "postal_code": null,
     "region": null,
-    "latitude": 50.9809024,
-    "longitude": 5.4685571,
+    "latitude": 50.4744211,
+    "longitude": 4.186261,
     "phone": null,
     "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Winterslag%20Fatih%20Moskee&query_place_id=ChIJ9Q6XUbjYwEcRfotXGB4hAMI",
-    "thumbnail_url": null,
-    "image_url": null,
-    "rating": null,
-    "review_count": 0,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJk3qwhITewEcR4RG1bka0FTc",
-    "name": "Yunus Emre Moskee",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "",
-    "address": null,
-    "street": null,
-    "postal_code": null,
-    "region": null,
-    "latitude": 50.9327778,
-    "longitude": 5.5280556,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Yunus%20Emre%20Moskee&query_place_id=ChIJk3qwhITewEcR4RG1bka0FTc",
-    "thumbnail_url": null,
-    "image_url": null,
-    "rating": null,
-    "review_count": 0,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJu5RJJ8XewEcRRTp1kZhP0I4",
-    "name": "Yıldırım Beyazıt Moskee",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "",
-    "address": null,
-    "street": null,
-    "postal_code": null,
-    "region": null,
-    "latitude": 50.9533131,
-    "longitude": 5.5058899,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Y%C4%B1ld%C4%B1r%C4%B1m%20Beyaz%C4%B1t%20Moskee&query_place_id=ChIJu5RJJ8XewEcRRTp1kZhP0I4",
-    "thumbnail_url": null,
-    "image_url": null,
-    "rating": null,
-    "review_count": 0,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJq_ymtLvgwEcR01zQxbz1LwI",
-    "name": "Zengin Slagerij & Supermarkt | Bilzen",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "",
-    "address": null,
-    "street": null,
-    "postal_code": null,
-    "region": null,
-    "latitude": 50.8684503,
-    "longitude": 5.5101645,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Zengin%20Slagerij%20%26%20Supermarkt%20%7C%20Bilzen&query_place_id=ChIJq_ymtLvgwEcR01zQxbz1LwI",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=WassimFood&query_place_id=ChIJO5_C5ss3wkcRDgF0vmG9bHc",
     "thumbnail_url": null,
     "image_url": null,
     "rating": null,
@@ -2718,32 +3732,6 @@
     "is_active": true,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJe2Gf1oXewEcRNITWlpR4uzI",
-    "name": "Марокански ислямски културен център в Генк",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "",
-    "address": null,
-    "street": null,
-    "postal_code": null,
-    "region": null,
-    "latitude": 50.9289786,
-    "longitude": 5.5281399,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%D0%9C%D0%B0%D1%80%D0%BE%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%20%D0%B8%D1%81%D0%BB%D1%8F%D0%BC%D1%81%D0%BA%D0%B8%20%D0%BA%D1%83%D0%BB%D1%82%D1%83%D1%80%D0%B5%D0%BD%20%D1%86%D0%B5%D0%BD%D1%82%D1%8A%D1%80%20%D0%B2%20%D0%93%D0%B5%D0%BD%D0%BA&query_place_id=ChIJe2Gf1oXewEcRNITWlpR4uzI",
-    "thumbnail_url": null,
-    "image_url": null,
-    "rating": null,
-    "review_count": 0,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
   },
   {
     "place_id": "ChIJQ2214oxIZTURSXhBc6uIPiY",
@@ -2952,6 +3940,32 @@
     "is_active": true,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ3yjj_CGXw0cRg-NMhWnnsBQ",
+    "name": "Aalst Kevser Moskee",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Aalst",
+    "address": "Aalst Kevser Moskee, Binnenstraat 7, 9300 Aalst",
+    "street": "Binnenstraat 7",
+    "postal_code": "9300",
+    "region": null,
+    "latitude": 50.9426503,
+    "longitude": 4.0469871,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Aalst%20Kevser%20Moskee&query_place_id=ChIJ3yjj_CGXw0cRg-NMhWnnsBQ",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc8kaU2h5MCyyiKwNrXwcHkgfdTHrDc_5WINLoQWTarCG_S1WCIYYkEeuFu6xhWzypGd6bJTUNMVtCcnJuTgtoeS1klA6dC5_U_141-ffB1o91Q9_3-hY3ET4LN3XRTF76yo2lw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc8kaU2h5MCyyiKwNrXwcHkgfdTHrDc_5WINLoQWTarCG_S1WCIYYkEeuFu6xhWzypGd6bJTUNMVtCcnJuTgtoeS1klA6dC5_U_141-ffB1o91Q9_3-hY3ET4LN3XRTF76yo2lw=w1000-h750-no",
+    "rating": 4.6,
+    "review_count": 13,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
   },
   {
     "place_id": "ChIJtTdH_LOiw0cRO0UPp6402dI",
@@ -5360,6 +6374,32 @@
     "verification_evidence": null
   },
   {
+    "place_id": "ChIJL3-Ttoy9w0cRVESKHKgVsg0",
+    "name": "Moskee Aalst",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Aalst",
+    "address": "Moskee Aalst, Frits de Wolfkaai 5, 9300 Aalst",
+    "street": "Frits de Wolfkaai 5",
+    "postal_code": "9300",
+    "region": null,
+    "latitude": 50.9405138,
+    "longitude": 4.0440571,
+    "phone": "0475 23 06 98",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Aalst&query_place_id=ChIJL3-Ttoy9w0cRVESKHKgVsg0",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfhE4OiQ2-AOHxRPT0Tt2FkWbqWuwl20YFmh63QbVOsodQQIml-OtSUkxqoX5Mk23WXw6NTSq9lmUKyP4i-7zMxTLGEdZnASnr9hzyyMI0_FV1FlFb0Dv70eiQ_zeXSP5I_Z1Y=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfhE4OiQ2-AOHxRPT0Tt2FkWbqWuwl20YFmh63QbVOsodQQIml-OtSUkxqoX5Mk23WXw6NTSq9lmUKyP4i-7zMxTLGEdZnASnr9hzyyMI0_FV1FlFb0Dv70eiQ_zeXSP5I_Z1Y=w1000-h750-no",
+    "rating": 4.7,
+    "review_count": 48,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
     "place_id": "ChIJCWslPFm9w0cR1WG7fwFgFAQ",
     "name": "Mozart Restaurant Aalst",
     "type": "restaurant",
@@ -6737,1943 +7777,6 @@
     "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oIOzPCEVUkLjKX8jBM02QQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=116.02809&pitch=0&thumbfov=w1000-h750-no",
     "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oIOzPCEVUkLjKX8jBM02QQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=116.02809&pitch=0&thumbfov=w1000-h750-no",
     "source_query": "Hypermarket in Aalst, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJvTivXE1DwUcRGzc2F54ULNA",
-    "name": "'t Eetkafee Aarschot",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Aarschot",
-    "address": "'t Eetkafee Aarschot, Jozef Tielemansstraat 30, 3200 Aarschot",
-    "street": "Jozef Tielemansstraat 30",
-    "postal_code": "3200",
-    "region": null,
-    "latitude": 50.984859199999995,
-    "longitude": 4.8358149,
-    "phone": "016 57 08 70",
-    "website": "http://www.eetkafee.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%27t%20Eetkafee%20Aarschot&query_place_id=ChIJvTivXE1DwUcRGzc2F54ULNA",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "5–10 pm"
-      ],
-      "Friday": [
-        "5–10 pm"
-      ],
-      "Saturday": [
-        "5–10 pm"
-      ],
-      "Sunday": [
-        "5–10 pm"
-      ]
-    },
-    "review_count": 265,
-    "rating": 4.4,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeSe48boCzjzBPEGZH9XZ0AOtthRm7lQ67CMqORHCtwdgv0MdiVdU-gFkr2uQbCRgcalA7YecZ0abXeNIeWHmSlhMaBctAN6K7_CM-Ta-7W2ePYMYRTupUikpxnXviCPju5XfzDjQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeSe48boCzjzBPEGZH9XZ0AOtthRm7lQ67CMqORHCtwdgv0MdiVdU-gFkr2uQbCRgcalA7YecZ0abXeNIeWHmSlhMaBctAN6K7_CM-Ta-7W2ePYMYRTupUikpxnXviCPju5XfzDjQ=w1000-h750-no",
-    "source_query": "Halal restaurant in Aarschot, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJPSAkjFJDwUcRxm98Jg8gEMA",
-    "name": "AARSCHOTSE KEBAP PIZZERIA",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Aarschot",
-    "address": "AARSCHOTSE KEBAP PIZZERIA, Bogaardenstraat 9, 3200 Aarschot",
-    "street": "Bogaardenstraat 9",
-    "postal_code": "3200",
-    "region": null,
-    "latitude": 50.9865742,
-    "longitude": 4.8377582,
-    "phone": "016 57 15 07",
-    "website": "https://www.aarschotsekebap.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=AARSCHOTSE%20KEBAP%20PIZZERIA&query_place_id=ChIJPSAkjFJDwUcRxm98Jg8gEMA",
-    "open_hours_json": {
-      "Monday": [
-        "11:30 am–1:30 pm",
-        "3:30–10 pm"
-      ],
-      "Tuesday": [
-        "11:30 am–1:30 pm",
-        "3:30–11 pm"
-      ],
-      "Wednesday": [
-        "3:30–11 pm"
-      ],
-      "Thursday": [
-        "11:30 am–1:30 pm",
-        "3:30–10 pm"
-      ],
-      "Friday": [
-        "3:30 pm–12 am"
-      ],
-      "Saturday": [
-        "3:30 pm–12 am"
-      ],
-      "Sunday": [
-        "3:30–10 pm"
-      ]
-    },
-    "review_count": 204,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcR3W7llNPMAu9WM6EgLDdU_MYQbkIJMDKEvVaULEfcHIKT1PwYltMletLP5zAdSQ42yW79cX643x0fSoZRasHns58ejlvyTMSepjpdixBzDAg9gNWamLz214FK3Pjr3nsQCJ5j=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcR3W7llNPMAu9WM6EgLDdU_MYQbkIJMDKEvVaULEfcHIKT1PwYltMletLP5zAdSQ42yW79cX643x0fSoZRasHns58ejlvyTMSepjpdixBzDAg9gNWamLz214FK3Pjr3nsQCJ5j=w1000-h750-no",
-    "source_query": "Halal restaurant in Aarschot, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ7UiN_VRbwUcR3RhwKs-RZ3I",
-    "name": "AH Herseltsesteenweg",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Aarschot",
-    "address": "AH Herseltsesteenweg, Herseltsesteenweg 152, 3200 Aarschot",
-    "street": "Herseltsesteenweg 152",
-    "postal_code": "3200",
-    "region": null,
-    "latitude": 51.0002097,
-    "longitude": 4.8342814,
-    "phone": "016 69 99 16",
-    "website": "https://www.ah.nl/winkel/3036",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=AH%20Herseltsesteenweg&query_place_id=ChIJ7UiN_VRbwUcR3RhwKs-RZ3I",
-    "open_hours_json": {
-      "Monday": [
-        "12–8 pm"
-      ],
-      "Tuesday": [
-        "8 am–8 pm"
-      ],
-      "Wednesday": [
-        "8 am–8 pm"
-      ],
-      "Thursday": [
-        "8 am–8 pm"
-      ],
-      "Friday": [
-        "8 am–8 pm"
-      ],
-      "Saturday": [
-        "8 am–8 pm"
-      ],
-      "Sunday": [
-        "9–11:45 am"
-      ]
-    },
-    "review_count": 2066,
-    "rating": 4.1,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfkvTF6HOuPLsenQgMZJLzJAJ-l0Sad3pF9rZNZ_vssDLRc8Q4GXxn9aggVbJgyJNcjTXC3TDIxTKpCq0vzuhMvBvDqp_GsLwEtcZcyh0upm47GM6souxTukjiRWbpnuAdlBn-qiw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfkvTF6HOuPLsenQgMZJLzJAJ-l0Sad3pF9rZNZ_vssDLRc8Q4GXxn9aggVbJgyJNcjTXC3TDIxTKpCq0vzuhMvBvDqp_GsLwEtcZcyh0upm47GM6souxTukjiRWbpnuAdlBn-qiw=w1000-h750-no",
-    "source_query": "Hypermarket in Aarschot, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJu19OTLBcwUcRtI2CFIvyU9c",
-    "name": "AND Voeding",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Aarschot",
-    "address": "AND Voeding, Statieplein 9, 3200 Aarschot",
-    "street": "Statieplein 9",
-    "postal_code": "3200",
-    "region": null,
-    "latitude": 50.9841864,
-    "longitude": 4.8245691,
-    "phone": "0473 57 05 72",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=AND%20Voeding&query_place_id=ChIJu19OTLBcwUcRtI2CFIvyU9c",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "7 am–8 pm"
-      ],
-      "Wednesday": [
-        "7 am–8 pm"
-      ],
-      "Thursday": [
-        "7 am–8 pm"
-      ],
-      "Friday": [
-        "7 am–9 pm"
-      ],
-      "Saturday": [
-        "7 am–8 pm"
-      ],
-      "Sunday": [
-        "7 am–8 pm"
-      ]
-    },
-    "review_count": 7,
-    "rating": 4.0,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=s6eOHf61ZMozwM45lTsKhw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=134.88536&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=s6eOHf61ZMozwM45lTsKhw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=134.88536&pitch=0&thumbfov=w1000-h750-no",
-    "source_query": "Hypermarket in Kortrijk-Dutsel, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJI9URIitDwUcRBevvbtSxPuA",
-    "name": "Almadina Markt",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Aarschot",
-    "address": "Almadina Markt, Theo De Beckerstraat 28, 3200 Aarschot",
-    "street": "Theo De Beckerstraat 28",
-    "postal_code": "3200",
-    "region": null,
-    "latitude": 50.9853686,
-    "longitude": 4.8372511,
-    "phone": "0493 86 39 28",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Almadina%20Markt&query_place_id=ChIJI9URIitDwUcRBevvbtSxPuA",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "10 am–8 pm"
-      ],
-      "Wednesday": [
-        "10 am–8 pm"
-      ],
-      "Thursday": [
-        "9 am–8 pm"
-      ],
-      "Friday": [
-        "10 am–8 pm"
-      ],
-      "Saturday": [
-        "10 am–8 pm"
-      ],
-      "Sunday": [
-        "10 am–8 pm"
-      ]
-    },
-    "review_count": 28,
-    "rating": 5.0,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeIl5UdD0SUnX0Y5dnbDweczR59FkDmIRBIYpGhgATRVqxTq2x0hrF4YRRZ9CxM7NEL9MUj9sqMV4kTdzglvwGiX39O7_pLndBEkmOvFC56n8W5nxYgBG-atsZggJO8pNH2CMDOg8VSzVKg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeIl5UdD0SUnX0Y5dnbDweczR59FkDmIRBIYpGhgATRVqxTq2x0hrF4YRRZ9CxM7NEL9MUj9sqMV4kTdzglvwGiX39O7_pLndBEkmOvFC56n8W5nxYgBG-atsZggJO8pNH2CMDOg8VSzVKg=w1000-h750-no",
-    "source_query": "Hypermarket in Kortrijk-Dutsel, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJsZp1a6RdwUcRCjfBmV072kE",
-    "name": "Amigo shop",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Aarschot",
-    "address": "Amigo shop, Leuvensesteenweg 1, 3200 Aarschot",
-    "street": "Leuvensesteenweg 1",
-    "postal_code": "3200",
-    "region": null,
-    "latitude": 50.982703699999995,
-    "longitude": 4.8286127,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Amigo%20shop&query_place_id=ChIJsZp1a6RdwUcRCjfBmV072kE",
-    "open_hours_json": {
-      "Monday": [
-        "10 am–1 am"
-      ],
-      "Tuesday": [
-        "10 am–1 am"
-      ],
-      "Wednesday": [
-        "10 am–1 am"
-      ],
-      "Thursday": [
-        "10 am–1 am"
-      ],
-      "Friday": [
-        "10 am–1 am"
-      ],
-      "Saturday": [
-        "10 am–1 am"
-      ],
-      "Sunday": [
-        "10 am–1 am"
-      ]
-    },
-    "review_count": 21,
-    "rating": 5.0,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeM0mznWYnO0_NoPSTXzlmrBP7kJP6UIT0WHWD-fhotxaP1tsj25zcu0gu3_MHWrB_xlVKy0DjWtY2ARABKlWkZpWqBmBQeBd9preRbtad5qtdtoVKjxHEom3qhrA-I6XS8j4dwVG4ghNxv=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeM0mznWYnO0_NoPSTXzlmrBP7kJP6UIT0WHWD-fhotxaP1tsj25zcu0gu3_MHWrB_xlVKy0DjWtY2ARABKlWkZpWqBmBQeBd9preRbtad5qtdtoVKjxHEom3qhrA-I6XS8j4dwVG4ghNxv=w1000-h750-no",
-    "source_query": "Hypermarket in Kortrijk-Dutsel, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJHeGpBppDwUcR0xPir3pGphI",
-    "name": "BBQ DAMAS",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Aarschot",
-    "address": "BBQ DAMAS, Schaluin 107, 3200 Aarschot",
-    "street": "Schaluin 107",
-    "postal_code": "3200",
-    "region": null,
-    "latitude": 50.990865899999996,
-    "longitude": 4.8409347,
-    "phone": "0484 30 92 80",
-    "website": "http://www.bbqdamas.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=BBQ%20DAMAS&query_place_id=ChIJHeGpBppDwUcR0xPir3pGphI",
-    "open_hours_json": {
-      "Monday": [
-        "2–11 pm"
-      ],
-      "Tuesday": [
-        "2–11 pm"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "2–11 pm"
-      ],
-      "Friday": [
-        "2 pm–12 am"
-      ],
-      "Saturday": [
-        "2 pm–12 am"
-      ],
-      "Sunday": [
-        "2–11 pm"
-      ]
-    },
-    "review_count": 98,
-    "rating": 4.8,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdRYdt08ZLtw9exJr889hYV-8OLbh-GnDXr8yhPNK9Q3CBe5RCy557uENECLWfviJLyysl6UMx6Hh-XVvOaDqnNl_eDkEJirNZhbfcajrt1KEC-nxqkn0kHIZ7uvIshXUwj4RYwO4vWL7s=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdRYdt08ZLtw9exJr889hYV-8OLbh-GnDXr8yhPNK9Q3CBe5RCy557uENECLWfviJLyysl6UMx6Hh-XVvOaDqnNl_eDkEJirNZhbfcajrt1KEC-nxqkn0kHIZ7uvIshXUwj4RYwO4vWL7s=w1000-h750-no",
-    "source_query": "Halal restaurant in Scherpenheuvel, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJYSpJDlRDwUcRXbhC89tYJyM",
-    "name": "Bello Cosi 🇮🇹",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Aarschot",
-    "address": "Bello Cosi 🇮🇹, Schaluin 117, 3200 Aarschot",
-    "street": "Schaluin 117",
-    "postal_code": "3200",
-    "region": null,
-    "latitude": 50.9910546,
-    "longitude": 4.8410813,
-    "phone": "016 56 28 19",
-    "website": "http://www.bellocosiaarschot.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bello%20Cosi%20%F0%9F%87%AE%F0%9F%87%B9&query_place_id=ChIJYSpJDlRDwUcRXbhC89tYJyM",
-    "open_hours_json": {
-      "Monday": [
-        "5–9 pm"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "Closed"
-      ],
-      "Friday": [
-        "5–9 pm"
-      ],
-      "Saturday": [
-        "5–9 pm"
-      ],
-      "Sunday": [
-        "12–3 pm",
-        "5–9 pm"
-      ]
-    },
-    "review_count": 444,
-    "rating": 4.4,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLecdFPYimlaO9HTyrUT-NRxICvjhe3Vumh_bqDAUHkvHUnldJ0lLH3uF2BzhmIKa8ZKlbQBPu3_lhYO-u5SH0ZjVS007Ihlya_iGYM4L510v2VvAxst-yBpNGHxNY1m6iWi5bpYDg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLecdFPYimlaO9HTyrUT-NRxICvjhe3Vumh_bqDAUHkvHUnldJ0lLH3uF2BzhmIKa8ZKlbQBPu3_lhYO-u5SH0ZjVS007Ihlya_iGYM4L510v2VvAxst-yBpNGHxNY1m6iWi5bpYDg=w1000-h750-no",
-    "source_query": "Halal restaurant in Aarschot, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJmQyjeOZDwUcRTgKcmFHWDEY",
-    "name": "Beste Wok",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Aarschot",
-    "address": "Beste Wok, Diestsesteenweg 627, 3202 Aarschot",
-    "street": "Diestsesteenweg 627",
-    "postal_code": "3202",
-    "region": null,
-    "latitude": 50.9762893,
-    "longitude": 4.9242015,
-    "phone": "016 22 82 27",
-    "website": "http://bestewok.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Beste%20Wok&query_place_id=ChIJmQyjeOZDwUcRTgKcmFHWDEY",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "5:30–9:30 pm"
-      ],
-      "Wednesday": [
-        "5:30–9:30 pm"
-      ],
-      "Thursday": [
-        "5:30–9:30 pm"
-      ],
-      "Friday": [
-        "5:30–10 pm"
-      ],
-      "Saturday": [
-        "5–10:30 pm"
-      ],
-      "Sunday": [
-        "12–3 pm",
-        "5–9 pm"
-      ]
-    },
-    "review_count": 420,
-    "rating": 3.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd1ltREw1VwFN7b2WqqkoaXH6OnW9tP7fib17oxfML6rFfa1WqQVgK9L3uO6gQZWxqRFBsj7HCxq9OykOLV_VOszUQYMfkegfKfANX82KcJ5BXSesgFIVHcOlxXcaMEtlB9mLddKA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd1ltREw1VwFN7b2WqqkoaXH6OnW9tP7fib17oxfML6rFfa1WqQVgK9L3uO6gQZWxqRFBsj7HCxq9OykOLV_VOszUQYMfkegfKfANX82KcJ5BXSesgFIVHcOlxXcaMEtlB9mLddKA=w1000-h750-no",
-    "source_query": "Fish restaurant in Scherpenheuvel, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJD0_i2ZlDwUcR9aXJlDNXkug",
-    "name": "Bistro Ter Bogaerde aan de molen",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Aarschot",
-    "address": "Bistro Ter Bogaerde aan de molen, Diestsesteenweg 12, 3200 Aarschot",
-    "street": "Diestsesteenweg 12",
-    "postal_code": "3200",
-    "region": null,
-    "latitude": 50.9801413,
-    "longitude": 4.8498603,
-    "phone": "016 60 67 87",
-    "website": "http://www.terbogaerde.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bistro%20Ter%20Bogaerde%20aan%20de%20molen&query_place_id=ChIJD0_i2ZlDwUcR9aXJlDNXkug",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "12–3:15 pm",
-        "6–10:30 pm"
-      ],
-      "Friday": [
-        "12–3:15 pm",
-        "6–10:45 pm"
-      ],
-      "Saturday": [
-        "5–10:45 pm"
-      ],
-      "Sunday": [
-        "12–4:15 pm",
-        "5–10 pm"
-      ]
-    },
-    "review_count": 291,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLflCNY6aGy7JEj-SAaoIn8uD2U6X10LURkMsm-8TOC9KcOAkXN8YwzpfIBd7w8AOYpE_V5FA13O51S5Fe5zz6X7MqsmjNMGJZX5yWZTsUvuJOy1sIPVCVFXZ6u6zcX5ArD1vJw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLflCNY6aGy7JEj-SAaoIn8uD2U6X10LURkMsm-8TOC9KcOAkXN8YwzpfIBd7w8AOYpE_V5FA13O51S5Fe5zz6X7MqsmjNMGJZX5yWZTsUvuJOy1sIPVCVFXZ6u6zcX5ArD1vJw=w1000-h750-no",
-    "source_query": "Halal restaurant in Aarschot, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJgXtnq3VDwUcRr5eh8tgRYcM",
-    "name": "Bollaerts Primeurs",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Aarschot",
-    "address": "Bollaerts Primeurs, Diestsesteenweg 246, 3202 Aarschot",
-    "street": "Diestsesteenweg 246",
-    "postal_code": "3202",
-    "region": null,
-    "latitude": 50.9760832,
-    "longitude": 4.882266899999999,
-    "phone": "016 50 25 01",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bollaerts%20Primeurs&query_place_id=ChIJgXtnq3VDwUcRr5eh8tgRYcM",
-    "open_hours_json": null,
-    "review_count": 0,
-    "rating": null,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=11D-xeHnfZFpjshiqY8WyA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=12.207619&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=11D-xeHnfZFpjshiqY8WyA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=12.207619&pitch=0&thumbfov=w1000-h750-no",
-    "source_query": "Hypermarket in Kortrijk-Dutsel, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJwU2dloBDwUcR5jjiabi_D2I",
-    "name": "Chifuri",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Aarschot",
-    "address": "Chifuri, Schaluin 111, 3200 Aarschot",
-    "street": "Schaluin 111",
-    "postal_code": "3200",
-    "region": null,
-    "latitude": 50.9909385,
-    "longitude": 4.8410899999999994,
-    "phone": "016 88 46 73",
-    "website": "https://chifuri.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chifuri&query_place_id=ChIJwU2dloBDwUcR5jjiabi_D2I",
-    "open_hours_json": {
-      "Monday": [
-        "3 pm–12 am"
-      ],
-      "Tuesday": [
-        "3 pm–12 am"
-      ],
-      "Wednesday": [
-        "3 pm–12 am"
-      ],
-      "Thursday": [
-        "3 pm–12 am"
-      ],
-      "Friday": [
-        "3 pm–2 am"
-      ],
-      "Saturday": [
-        "3 pm–2 am"
-      ],
-      "Sunday": [
-        "3 pm–12 am"
-      ]
-    },
-    "review_count": 43,
-    "rating": 2.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfkNrqONk8VVJATSpOvr4dSLc8MEj4-9o3QstJAjKFAHjMx_CjLZnbL549PCG1q9emBT0mluBU8PXnT3sbbKRI_cJR5n_HKgi5PkI4JMMrzdWSgqJOoyOcEikNStNJVtdJUDHc=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfkNrqONk8VVJATSpOvr4dSLc8MEj4-9o3QstJAjKFAHjMx_CjLZnbL549PCG1q9emBT0mluBU8PXnT3sbbKRI_cJR5n_HKgi5PkI4JMMrzdWSgqJOoyOcEikNStNJVtdJUDHc=w1000-h750-no",
-    "source_query": "Halal restaurant in Aarschot, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJQWoU4tlDwUcRXk9mX7H0Pjw",
-    "name": "Collect&Go Aarschot",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Aarschot",
-    "address": "Collect&Go Aarschot, Gasthuisstraat 65, 3200 Aarschot",
-    "street": "Gasthuisstraat 65",
-    "postal_code": "3200",
-    "region": null,
-    "latitude": 50.9874826,
-    "longitude": 4.8407624,
-    "phone": "02 363 50 05",
-    "website": "https://www.collectandgo.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Collect%26Go%20Aarschot&query_place_id=ChIJQWoU4tlDwUcRXk9mX7H0Pjw",
-    "open_hours_json": {
-      "Monday": [
-        "8 am–8 pm"
-      ],
-      "Tuesday": [
-        "8 am–8 pm"
-      ],
-      "Wednesday": [
-        "8 am–8 pm"
-      ],
-      "Thursday": [
-        "8 am–8 pm"
-      ],
-      "Friday": [
-        "8 am–9 pm"
-      ],
-      "Saturday": [
-        "8 am–8 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 0,
-    "rating": null,
-    "thumbnail_url": null,
-    "image_url": null,
-    "source_query": "Hypermarket in Aarschot, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJX7TkgcBcwUcRTsfzau0nCMA",
-    "name": "Collect&Go Aarschot",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Aarschot",
-    "address": "Collect&Go Aarschot, Leuvensesteenweg 241, 3200 Aarschot",
-    "street": "Leuvensesteenweg 241",
-    "postal_code": "3200",
-    "region": null,
-    "latitude": 50.9759679,
-    "longitude": 4.8104179,
-    "phone": "02 363 50 05",
-    "website": "https://www.collectandgo.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Collect%26Go%20Aarschot&query_place_id=ChIJX7TkgcBcwUcRTsfzau0nCMA",
-    "open_hours_json": {
-      "Monday": [
-        "8 am–8 pm"
-      ],
-      "Tuesday": [
-        "8 am–8 pm"
-      ],
-      "Wednesday": [
-        "8 am–8 pm"
-      ],
-      "Thursday": [
-        "8 am–8 pm"
-      ],
-      "Friday": [
-        "8 am–9 pm"
-      ],
-      "Saturday": [
-        "8 am–8 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 52,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLceT6kvVpx_OnNk2iHUu9L-YcGwSc4eVNfef5-N4CjFEYwY9uz9xcIJE7NI53g0N82AOwKXM7nWwRFjhbPQIbyoc0_5E0TES7fctChGA_UhRxrqELDClouLZDHOeMLWtF6O4QpY0A=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLceT6kvVpx_OnNk2iHUu9L-YcGwSc4eVNfef5-N4CjFEYwY9uz9xcIJE7NI53g0N82AOwKXM7nWwRFjhbPQIbyoc0_5E0TES7fctChGA_UhRxrqELDClouLZDHOeMLWtF6O4QpY0A=w1000-h750-no",
-    "source_query": "Hypermarket in Kortrijk-Dutsel, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJaxLySOJDwUcRmrrn005SwaU",
-    "name": "Combas",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Aarschot",
-    "address": "Combas, Schaluin 21, 3200 Aarschot",
-    "street": "Schaluin 21",
-    "postal_code": "3200",
-    "region": null,
-    "latitude": 50.988951,
-    "longitude": 4.840598,
-    "phone": null,
-    "website": "https://www.combas.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Combas&query_place_id=ChIJaxLySOJDwUcRmrrn005SwaU",
-    "open_hours_json": {
-      "Monday": [
-        "10 am–7 pm"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "10 am–7 pm"
-      ],
-      "Thursday": [
-        "10 am–7 pm"
-      ],
-      "Friday": [
-        "10 am–7 pm"
-      ],
-      "Saturday": [
-        "10 am–7 pm"
-      ],
-      "Sunday": [
-        "10 am–7 pm"
-      ]
-    },
-    "review_count": 13,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcF_Z9B2rs_GmUPe4p87sprwwx1V2VDRjU-ovQYKWR5iyEHSzDj_I6zrth8QVLyvIdJEfanI0Q1N4z5CP8nNDhJWmHCzLtoK3rsE4YZBzs3Q8RizWvdDTV3L-oKFT9j5Bu_3kSC=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcF_Z9B2rs_GmUPe4p87sprwwx1V2VDRjU-ovQYKWR5iyEHSzDj_I6zrth8QVLyvIdJEfanI0Q1N4z5CP8nNDhJWmHCzLtoK3rsE4YZBzs3Q8RizWvdDTV3L-oKFT9j5Bu_3kSC=w1000-h750-no",
-    "source_query": "Hypermarket in Aarschot, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJR-0Fw1NDwUcRMtWX6axaQhk",
-    "name": "Coskun - Efes Kebab - by Carlos",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Aarschot",
-    "address": "Coskun - Efes Kebab - by Carlos, Schaluin 14, 3200 Aarschot",
-    "street": "Schaluin 14",
-    "postal_code": "3200",
-    "region": null,
-    "latitude": 50.9890032,
-    "longitude": 4.8404815,
-    "phone": "016 56 07 83",
-    "website": "https://mymenuweb.com/bel/restaurants/2018475/?utm_source=google_profile&utm_medium=google_profile&utm_campaign=admin",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Coskun%20-%20Efes%20Kebab%20-%20by%20Carlos&query_place_id=ChIJR-0Fw1NDwUcRMtWX6axaQhk",
-    "open_hours_json": {
-      "Monday": [
-        "11:45 am–11 pm"
-      ],
-      "Tuesday": [
-        "11:45 am–11 pm"
-      ],
-      "Wednesday": [
-        "11:45 am–11 pm"
-      ],
-      "Thursday": [
-        "11:45 am–11 pm"
-      ],
-      "Friday": [
-        "11:45 am–1 am"
-      ],
-      "Saturday": [
-        "11:45 am–1 am"
-      ],
-      "Sunday": [
-        "11:45 am–11 pm"
-      ]
-    },
-    "review_count": 187,
-    "rating": 4.0,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfoxrLN3eKik8YC_yxFnx8xzkY14uPvgelXJ_qA2dmaTvD6q9ozc2xZdkMyhaKvRB9JxiBYL5wmcNTuxeSmZHIBjbKWEsx_reUp2JIo5VVMIiYyvjhLhykuq5yUluD4VU9P3zw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfoxrLN3eKik8YC_yxFnx8xzkY14uPvgelXJ_qA2dmaTvD6q9ozc2xZdkMyhaKvRB9JxiBYL5wmcNTuxeSmZHIBjbKWEsx_reUp2JIo5VVMIiYyvjhLhykuq5yUluD4VU9P3zw=w1000-h750-no",
-    "source_query": "Halal restaurant in Aarschot, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJkYXTRABDwUcR-XN466J_qHg",
-    "name": "Dagwinkel",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Aarschot",
-    "address": "Dagwinkel, Schaluin 34, 3200 Aarschot",
-    "street": "Schaluin 34",
-    "postal_code": "3200",
-    "region": null,
-    "latitude": 50.990006,
-    "longitude": 4.8405957,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Dagwinkel&query_place_id=ChIJkYXTRABDwUcR-XN466J_qHg",
-    "open_hours_json": {
-      "Monday": [
-        "7 am–9 pm"
-      ],
-      "Tuesday": [
-        "7 am–9 pm"
-      ],
-      "Wednesday": [
-        "7 am–9 pm"
-      ],
-      "Thursday": [
-        "7 am–9 pm"
-      ],
-      "Friday": [
-        "7 am–9 pm"
-      ],
-      "Saturday": [
-        "8 am–9 pm"
-      ],
-      "Sunday": [
-        "8 am–9 pm"
-      ]
-    },
-    "review_count": 1,
-    "rating": 4.0,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=uABZ1ADnxbdDvXqAcYJcIg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=247.11786&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=uABZ1ADnxbdDvXqAcYJcIg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=247.11786&pitch=0&thumbfov=w1000-h750-no",
-    "source_query": "Hypermarket in Kortrijk-Dutsel, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJDy_TQVNbwUcR84pyj41sOOs",
-    "name": "De echte Eethuis Carlos",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Aarschot",
-    "address": "De echte Eethuis Carlos, Herseltsesteenweg 207, 3200 Aarschot",
-    "street": "Herseltsesteenweg 207",
-    "postal_code": "3200",
-    "region": null,
-    "latitude": 51.0022697,
-    "longitude": 4.8359502,
-    "phone": "016 89 93 91",
-    "website": "https://www.eethuis-carlos.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=De%20echte%20Eethuis%20Carlos&query_place_id=ChIJDy_TQVNbwUcR84pyj41sOOs",
-    "open_hours_json": {
-      "Monday": [
-        "11:30 am–1:30 pm",
-        "3:30–11 pm"
-      ],
-      "Tuesday": [
-        "11:30 am–1:30 pm",
-        "3:30–11 pm"
-      ],
-      "Wednesday": [
-        "11:30 am–1:30 pm",
-        "3:30–11 pm"
-      ],
-      "Thursday": [
-        "11:30 am–1:30 pm",
-        "3:30–11 pm"
-      ],
-      "Friday": [
-        "11:30 am–1:30 pm",
-        "3:30–11 pm"
-      ],
-      "Saturday": [
-        "3:30–11 pm"
-      ],
-      "Sunday": [
-        "3:30–11 pm"
-      ]
-    },
-    "review_count": 304,
-    "rating": 4.1,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfraOdkE3GrW5gBem9Z-6A2kDpYHroGwlZy0orSrsg6rho6XUewIDPjWVUeWaBC9yp9DDnd6fq5JWS9SsMtogMxYhhHMJ5Aq-U_abDMl3gCPFld-tyb8mywlNM72_J_gDpzgeIN=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfraOdkE3GrW5gBem9Z-6A2kDpYHroGwlZy0orSrsg6rho6XUewIDPjWVUeWaBC9yp9DDnd6fq5JWS9SsMtogMxYhhHMJ5Aq-U_abDMl3gCPFld-tyb8mywlNM72_J_gDpzgeIN=w1000-h750-no",
-    "source_query": "Halal restaurant in Aarschot, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJY_KUGFVDwUcRrWrixoLyML8",
-    "name": "Día",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Aarschot",
-    "address": "Día, Herseltsesteenweg 20, 3200 Aarschot",
-    "street": "Herseltsesteenweg 20",
-    "postal_code": "3200",
-    "region": null,
-    "latitude": 50.993677999999996,
-    "longitude": 4.8376531,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=D%C3%ADa&query_place_id=ChIJY_KUGFVDwUcRrWrixoLyML8",
-    "open_hours_json": null,
-    "review_count": 3,
-    "rating": 4.7,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ocEuL-JD5LOxJ0LBZ7lJNw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=282.5741&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ocEuL-JD5LOxJ0LBZ7lJNw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=282.5741&pitch=0&thumbfov=w1000-h750-no",
-    "source_query": "Hypermarket in Kortrijk-Dutsel, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJn-_MVphDwUcRNTXbW-sv02o",
-    "name": "Eethuis Farao - Aarschot",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Aarschot",
-    "address": "Eethuis Farao - Aarschot, Diestsesteenweg 340, 3202 Aarschot",
-    "street": "Diestsesteenweg 340",
-    "postal_code": "3202",
-    "region": null,
-    "latitude": 50.9748227,
-    "longitude": 4.8933434,
-    "phone": "0495 50 19 46",
-    "website": "https://www.facebook.com/eethuisfarao/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Eethuis%20Farao%20-%20Aarschot&query_place_id=ChIJn-_MVphDwUcRNTXbW-sv02o",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "4:30–10 pm"
-      ],
-      "Wednesday": [
-        "4:30–10 pm"
-      ],
-      "Thursday": [
-        "4:30–10 pm"
-      ],
-      "Friday": [
-        "4:30–10 pm"
-      ],
-      "Saturday": [
-        "4:30–10 pm"
-      ],
-      "Sunday": [
-        "4:30–10 pm"
-      ]
-    },
-    "review_count": 161,
-    "rating": 4.5,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd8X6fhTLeK1r5z5YmuCxrOl3AYlP1f6ZrGBpWrCDXwVtAWS6cfpjeu7CPRGge-F8cLi5KN4D8oYiD5t8ANCITOBwck5Zq4STJI9ffN9PxePt30uDS-el6EbOuszwXIr_8JSA6k=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd8X6fhTLeK1r5z5YmuCxrOl3AYlP1f6ZrGBpWrCDXwVtAWS6cfpjeu7CPRGge-F8cLi5KN4D8oYiD5t8ANCITOBwck5Zq4STJI9ffN9PxePt30uDS-el6EbOuszwXIr_8JSA6k=w1000-h750-no",
-    "source_query": "Halal restaurant in Aarschot, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJR5orRgBdwUcRFiB4Fob_A64",
-    "name": "Groenten en Fruit Verlinden",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Aarschot",
-    "address": "Groenten en Fruit Verlinden, Everveld 17, 3200 Aarschot",
-    "street": "Everveld 17",
-    "postal_code": "3200",
-    "region": null,
-    "latitude": 50.9610242,
-    "longitude": 4.7801155,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Groenten%20en%20Fruit%20Verlinden&query_place_id=ChIJR5orRgBdwUcRFiB4Fob_A64",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "10 am–12 pm",
-        "1–6 pm"
-      ],
-      "Wednesday": [
-        "10 am–12 pm",
-        "1–6 pm"
-      ],
-      "Thursday": [
-        "10 am–12 pm",
-        "1–6 pm"
-      ],
-      "Friday": [
-        "10 am–12 pm",
-        "1–6 pm"
-      ],
-      "Saturday": [
-        "9:30 am–12 pm",
-        "1–5 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 9,
-    "rating": 4.9,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RyfU4BxG6iD-fJnK2EmA2A&cb_client=search.gws-prod.grass&w=80&h=92&yaw=161.05528&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RyfU4BxG6iD-fJnK2EmA2A&cb_client=search.gws-prod.grass&w=80&h=92&yaw=161.05528&pitch=0&thumbfov=w1000-h750-no",
-    "source_query": "Hypermarket in Kortrijk-Dutsel, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ6cDOgVJDwUcReRpaJa2MTH0",
-    "name": "Harte Troef",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Aarschot",
-    "address": "Harte Troef, Th. De Beckerstraat 33, 3200 Aarschot",
-    "street": "Th. De Beckerstraat 33",
-    "postal_code": "3200",
-    "region": null,
-    "latitude": 50.985370599999996,
-    "longitude": 4.8378505,
-    "phone": null,
-    "website": "http://www.hartetroef.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Harte%20Troef&query_place_id=ChIJ6cDOgVJDwUcReRpaJa2MTH0",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "11:30 am–11 pm"
-      ],
-      "Wednesday": [
-        "11:30 am–11 pm"
-      ],
-      "Thursday": [
-        "11:30 am–11 pm"
-      ],
-      "Friday": [
-        "11:30 am–11 pm"
-      ],
-      "Saturday": [
-        "11:30 am–11 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 1305,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLchLBArAG5ETF8ZBi0_OjptjO8bdFs5_v8vJictyBd8nGA-05Z02S7YY1kefct7jiQ1kKK8IPFn5sLyUF-D00-atBDDPX_M4Hpt7E8qCJhXAmgrjl38svxDj9-oGDtEkcnvEeRUvw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLchLBArAG5ETF8ZBi0_OjptjO8bdFs5_v8vJictyBd8nGA-05Z02S7YY1kefct7jiQ1kKK8IPFn5sLyUF-D00-atBDDPX_M4Hpt7E8qCJhXAmgrjl38svxDj9-oGDtEkcnvEeRUvw=w1000-h750-no",
-    "source_query": "Halal restaurant in Aarschot, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJU2aMS01DwUcRb9bJN_gGgh4",
-    "name": "Hema",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Aarschot",
-    "address": "Hema, Jozef Tielemansstraat 57/61, 3200 Aarschot",
-    "street": "Jozef Tielemansstraat 57/61",
-    "postal_code": "3200",
-    "region": null,
-    "latitude": 50.9847,
-    "longitude": 4.8347108,
-    "phone": "016 46 84 70",
-    "website": "https://be-winkels.hema.com/nl/aarschot/hema-aarschot?y_source=1_MTU0NTY4NDItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Hema&query_place_id=ChIJU2aMS01DwUcRb9bJN_gGgh4",
-    "open_hours_json": {
-      "Monday": [
-        "9:30 am–6 pm"
-      ],
-      "Tuesday": [
-        "9:30 am–6 pm"
-      ],
-      "Wednesday": [
-        "9:30 am–6 pm"
-      ],
-      "Thursday": [
-        "9 am–6 pm"
-      ],
-      "Friday": [
-        "9:30 am–6 pm"
-      ],
-      "Saturday": [
-        "9 am–6 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 165,
-    "rating": 4.0,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfBALGxBqOXGgrBcy2XPqGioPo8rk2GasvWDn-zMU56x-7mYbxoCQ6qqCV4pf6HuOgjDegulUTy4UkjuoHJ3Li1MwzaNbZi-fcILbS4YENt3xkIYfianrN_VVAmMvHinNTHLr_d=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfBALGxBqOXGgrBcy2XPqGioPo8rk2GasvWDn-zMU56x-7mYbxoCQ6qqCV4pf6HuOgjDegulUTy4UkjuoHJ3Li1MwzaNbZi-fcILbS4YENt3xkIYfianrN_VVAmMvHinNTHLr_d=w1000-h750-no",
-    "source_query": "Hypermarket in Aarschot, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJd1tAxFNDwUcRhY3OW0EATbY",
-    "name": "IndiMex",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Aarschot",
-    "address": "IndiMex, Schaluin 10/B, 3200 Aarschot",
-    "street": "Schaluin 10/B",
-    "postal_code": "3200",
-    "region": null,
-    "latitude": 50.988870999999996,
-    "longitude": 4.8403778,
-    "phone": "016 56 56 77",
-    "website": "http://www.indimex.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=IndiMex&query_place_id=ChIJd1tAxFNDwUcRhY3OW0EATbY",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "5–9:30 pm"
-      ],
-      "Wednesday": [
-        "5–9:30 pm"
-      ],
-      "Thursday": [
-        "5–9:30 pm"
-      ],
-      "Friday": [
-        "12–2 pm",
-        "5–9:30 pm"
-      ],
-      "Saturday": [
-        "12–2 pm",
-        "5–9:30 pm"
-      ],
-      "Sunday": [
-        "12–2 pm",
-        "5–9:30 pm"
-      ]
-    },
-    "review_count": 510,
-    "rating": 4.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfFVY1nYACwW61pwrot9d0lme4tCXAK1Qc0YWbsp2Qyqucw8zWGmvW_dwXyfyfwk9HsJRNLilPNKHuvmf_eMteHSbu1ArItB4a_PXCPABa9tfj8eVJ5VKJNYNXIUcPzgj5rZg24vA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfFVY1nYACwW61pwrot9d0lme4tCXAK1Qc0YWbsp2Qyqucw8zWGmvW_dwXyfyfwk9HsJRNLilPNKHuvmf_eMteHSbu1ArItB4a_PXCPABa9tfj8eVJ5VKJNYNXIUcPzgj5rZg24vA=w1000-h750-no",
-    "source_query": "Halal restaurant in Aarschot, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJU-OSDlRDwUcRcdZB4UiKOOY",
-    "name": "Istanbul gril huis",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Aarschot",
-    "address": "Istanbul gril huis, Schaluin 111, 3200 Aarschot",
-    "street": "Schaluin 111",
-    "postal_code": "3200",
-    "region": null,
-    "latitude": 50.99095,
-    "longitude": 4.8409759,
-    "phone": "016 88 46 73",
-    "website": "https://istanbulgrillhouse.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Istanbul%20gril%20huis&query_place_id=ChIJU-OSDlRDwUcRcdZB4UiKOOY",
-    "open_hours_json": {
-      "Monday": [
-        "12–10:30 am",
-        "11 am–12 am"
-      ],
-      "Tuesday": [
-        "12–10:30 am",
-        "11 am–12 am"
-      ],
-      "Wednesday": [
-        "12–10:30 am",
-        "2 pm–12 am"
-      ],
-      "Thursday": [
-        "12–10:30 am",
-        "2 pm–12 am"
-      ],
-      "Friday": [
-        "12–10:30 am",
-        "3 pm–2:30 am"
-      ],
-      "Saturday": [
-        "3 pm–2:30 am"
-      ],
-      "Sunday": [
-        "2 pm–12 am"
-      ]
-    },
-    "review_count": 85,
-    "rating": 3.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe0C7qQKvuPTMqPAqyQ_x88OBvDNJhEpRNV1mvlc0gKDMUFHJFOHJx5GTJ84D07FfvtrC4jnmQ3gTYgxbhHhwslUtz4gYSpdlwbzINaKtWmStB6kygzpZnZCJHPrnld-gIo5WM=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe0C7qQKvuPTMqPAqyQ_x88OBvDNJhEpRNV1mvlc0gKDMUFHJFOHJx5GTJ84D07FfvtrC4jnmQ3gTYgxbhHhwslUtz4gYSpdlwbzINaKtWmStB6kygzpZnZCJHPrnld-gIo5WM=w1000-h750-no",
-    "source_query": "Halal restaurant in Aarschot, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJY4jrIwBDwUcRBP03vD4f0DM",
-    "name": "Istanbul grill huis",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Aarschot",
-    "address": "Istanbul grill huis, Schaluin 111, 3200 Aarschot",
-    "street": "Schaluin 111",
-    "postal_code": "3200",
-    "region": null,
-    "latitude": 50.990985099999996,
-    "longitude": 4.8409574,
-    "phone": "0465 91 83 93",
-    "website": "https://istanbulgrillhouse.be/?ved=2ahUKEwi-jP6lnqKVAxWGVfEDHe_gM5EQgU96BAgbEAM",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Istanbul%20grill%20huis&query_place_id=ChIJY4jrIwBDwUcRBP03vD4f0DM",
-    "open_hours_json": {
-      "Monday": [
-        "2–11 pm"
-      ],
-      "Tuesday": [
-        "2–11 pm"
-      ],
-      "Wednesday": [
-        "2–11 pm"
-      ],
-      "Thursday": [
-        "2–11 pm"
-      ],
-      "Friday": [
-        "3 pm–2:30 am"
-      ],
-      "Saturday": [
-        "3 pm–2:30 am"
-      ],
-      "Sunday": [
-        "3 pm–2:30 am"
-      ]
-    },
-    "review_count": 2,
-    "rating": 5.0,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=IiQYxfWki7c2wUxtHpbnjA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=98.6435&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=IiQYxfWki7c2wUxtHpbnjA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=98.6435&pitch=0&thumbfov=w1000-h750-no",
-    "source_query": "Halal restaurant in Aarschot, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJfyA_4uxFwUcRQ8NChtWkELI",
-    "name": "La petite maison de Haute tajine",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Aarschot",
-    "address": "La petite maison de Haute tajine, Bosbergstraat 29, 3201 Aarschot",
-    "street": "Bosbergstraat 29",
-    "postal_code": "3201",
-    "region": null,
-    "latitude": 50.999710199999996,
-    "longitude": 4.8777225,
-    "phone": "0487 32 77 05",
-    "website": "https://www.lapetitemaisondehautetajine.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20petite%20maison%20de%20Haute%20tajine&query_place_id=ChIJfyA_4uxFwUcRQ8NChtWkELI",
-    "open_hours_json": null,
-    "review_count": 8,
-    "rating": 4.9,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeZXM9cP5cEymcHneTQ65ZhzS2Q06T360jHT81fu59IzWTncyvoYdMYlAEi_AIaTLvajgr5xTcAdHN30AJyhm-wntMar5o9Py-kyvGEguw6D3cBaNWFkleUfMzxBXZ3c4I3rqRm3jUno42v=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeZXM9cP5cEymcHneTQ65ZhzS2Q06T360jHT81fu59IzWTncyvoYdMYlAEi_AIaTLvajgr5xTcAdHN30AJyhm-wntMar5o9Py-kyvGEguw6D3cBaNWFkleUfMzxBXZ3c4I3rqRm3jUno42v=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Aarschot, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJkYwhpDtdwUcRdnRJmT-7ZcU",
-    "name": "Laermans",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Aarschot",
-    "address": "Laermans, Kerkvoetweg 7, 3200 Aarschot",
-    "street": "Kerkvoetweg 7",
-    "postal_code": "3200",
-    "region": null,
-    "latitude": 50.9637515,
-    "longitude": 4.800146,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Laermans&query_place_id=ChIJkYwhpDtdwUcRdnRJmT-7ZcU",
-    "open_hours_json": null,
-    "review_count": 0,
-    "rating": null,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=cPTX3pC9gfX4Q_kALu9OMg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=273.84894&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=cPTX3pC9gfX4Q_kALu9OMg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=273.84894&pitch=0&thumbfov=w1000-h750-no",
-    "source_query": "Hypermarket in Kortrijk-Dutsel, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJk97C5RtDwUcRqKWRc9qcjWQ",
-    "name": "MATTI DAGWINKEL",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Aarschot",
-    "address": "MATTI DAGWINKEL, Schaluin 109, 3200 Aarschot",
-    "street": "Schaluin 109",
-    "postal_code": "3200",
-    "region": null,
-    "latitude": 50.9908905,
-    "longitude": 4.841012399999999,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=MATTI%20DAGWINKEL&query_place_id=ChIJk97C5RtDwUcRqKWRc9qcjWQ",
-    "open_hours_json": {
-      "Monday": [
-        "7 am–9 pm"
-      ],
-      "Tuesday": [
-        "7 am–9 pm"
-      ],
-      "Wednesday": [
-        "7 am–9 pm"
-      ],
-      "Thursday": [
-        "7 am–9 pm"
-      ],
-      "Friday": [
-        "7 am–9 pm"
-      ],
-      "Saturday": [
-        "7 am–9 pm"
-      ],
-      "Sunday": [
-        "7 am–9 pm"
-      ]
-    },
-    "review_count": 9,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd9z-7nrCr_0VZzfMGEB1U10QvPwayp_oeO9nQvhQATDMKg9ddv4TQq_2-wYAt7tIRlUtwLWqk-a9WhUeOvKpnaqbzFR2a5gmkPHsQBH-Q_ffGD2xLZaaXs2ldP_vi-zU9p8_YSu4Cg02qT=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd9z-7nrCr_0VZzfMGEB1U10QvPwayp_oeO9nQvhQATDMKg9ddv4TQq_2-wYAt7tIRlUtwLWqk-a9WhUeOvKpnaqbzFR2a5gmkPHsQBH-Q_ffGD2xLZaaXs2ldP_vi-zU9p8_YSu4Cg02qT=w1000-h750-no",
-    "source_query": "Hypermarket in Kortrijk-Dutsel, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ2Y-IrNpdwUcRYL9F4Uve6To",
-    "name": "Merdin Aarschot",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Aarschot",
-    "address": "Merdin Aarschot, Leuvensestraat 44, 3200 Aarschot",
-    "street": "Leuvensestraat 44",
-    "postal_code": "3200",
-    "region": null,
-    "latitude": 50.9836598,
-    "longitude": 4.8322398,
-    "phone": "016 64 92 70",
-    "website": "http://merdinaarschot.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Merdin%20Aarschot&query_place_id=ChIJ2Y-IrNpdwUcRYL9F4Uve6To",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "12–2 pm",
-        "5–10 pm"
-      ],
-      "Wednesday": [
-        "12–2 pm",
-        "5–10 pm"
-      ],
-      "Thursday": [
-        "12–2 pm",
-        "5–10 pm"
-      ],
-      "Friday": [
-        "12–2 pm",
-        "5–10 pm"
-      ],
-      "Saturday": [
-        "12–2 pm",
-        "5–10 pm"
-      ],
-      "Sunday": [
-        "12–2 pm",
-        "5–10 pm"
-      ]
-    },
-    "review_count": 202,
-    "rating": 4.8,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcQC5fjjWF8QyX1tTnVyeSe2R5GjznD82AYba3UntQlPjSkKUBnQDnhPsOot2oN9ZrkEREluRgJlj7PG1BvrpYbBXmtWt0R8Cc-C6DDs6OJl6ubXbt765PWqkyDJvEyMvPHti8r3hvBLvM=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcQC5fjjWF8QyX1tTnVyeSe2R5GjznD82AYba3UntQlPjSkKUBnQDnhPsOot2oN9ZrkEREluRgJlj7PG1BvrpYbBXmtWt0R8Cc-C6DDs6OJl6ubXbt765PWqkyDJvEyMvPHti8r3hvBLvM=w1000-h750-no",
-    "source_query": "Halal restaurant in Aarschot, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ0VZJjbxdwUcRZoFzH7q8BQE",
-    "name": "Mini supermarket",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Aarschot",
-    "address": "Mini supermarket, Statieplein 7, 3200 Aarschot",
-    "street": "Statieplein 7",
-    "postal_code": "3200",
-    "region": null,
-    "latitude": 50.9843049,
-    "longitude": 4.8246435,
-    "phone": "016 42 41 11",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mini%20supermarket&query_place_id=ChIJ0VZJjbxdwUcRZoFzH7q8BQE",
-    "open_hours_json": {
-      "Monday": [
-        "7 am–8 pm"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "7 am–8 pm"
-      ],
-      "Thursday": [
-        "7 am–8 pm"
-      ],
-      "Friday": [
-        "7 am–9 pm"
-      ],
-      "Saturday": [
-        "7 am–8 pm"
-      ],
-      "Sunday": [
-        "7 am–8 pm"
-      ]
-    },
-    "review_count": 5,
-    "rating": 4.2,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdvb69qjsqRZkgArXIn3Mk9UCeJQ6pmvBcpBZK7mvF5KB69DOFUjfvoMLfszywwzvrC07-PwzqsYbTLiLS11X7YIUy1C234fR94sqprWqSBKXsXfo266KAjzVenlqlE7PeA_fwI=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdvb69qjsqRZkgArXIn3Mk9UCeJQ6pmvBcpBZK7mvF5KB69DOFUjfvoMLfszywwzvrC07-PwzqsYbTLiLS11X7YIUy1C234fR94sqprWqSBKXsXfo266KAjzVenlqlE7PeA_fwI=w1000-h750-no",
-    "source_query": "Hypermarket in Kortrijk-Dutsel, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ0aYASVJDwUcREGf9J-kdj50",
-    "name": "Mistinguett - Restaurant Aarschot",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Aarschot",
-    "address": "Mistinguett - Restaurant Aarschot, b 19, Gasthuisstraat, 3200 Aarschot",
-    "street": "b 19, Gasthuisstraat",
-    "postal_code": "3200",
-    "region": null,
-    "latitude": 50.987426799999994,
-    "longitude": 4.8394889,
-    "phone": "016 46 02 04",
-    "website": "http://www.mistinguett-aarschot.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mistinguett%20-%20Restaurant%20Aarschot&query_place_id=ChIJ0aYASVJDwUcREGf9J-kdj50",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "12–2 pm",
-        "6–9 pm"
-      ],
-      "Wednesday": [
-        "12–2 pm",
-        "6–9 pm"
-      ],
-      "Thursday": [
-        "Closed"
-      ],
-      "Friday": [
-        "12–2 pm",
-        "6–9 pm"
-      ],
-      "Saturday": [
-        "6–9 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 334,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcpyiJG3p51q1CXEmugT78juDJA4zhNwfLRIWOMW82fcyVX1tcqLpX86n6S7np7dkMQE-pJ8s1tTyOWHmZZ3Q8dsGU2s5MtJfuM-J4MPVyfPkevFz0Iwpn-VHNQ3p9jI0nc9fxd=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcpyiJG3p51q1CXEmugT78juDJA4zhNwfLRIWOMW82fcyVX1tcqLpX86n6S7np7dkMQE-pJ8s1tTyOWHmZZ3Q8dsGU2s5MtJfuM-J4MPVyfPkevFz0Iwpn-VHNQ3p9jI0nc9fxd=w1000-h750-no",
-    "source_query": "Halal restaurant in Aarschot, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJKctiJWpDwUcRnWPrtnfW04U",
-    "name": "Oh'Green Aarschot",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Aarschot",
-    "address": "Oh'Green Aarschot, Diestsesteenweg 80, 3200 Aarschot",
-    "street": "Diestsesteenweg 80",
-    "postal_code": "3200",
-    "region": null,
-    "latitude": 50.9795058,
-    "longitude": 4.8587982,
-    "phone": "016 50 91 30",
-    "website": "https://www.ohgreen.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Oh%27Green%20Aarschot&query_place_id=ChIJKctiJWpDwUcRnWPrtnfW04U",
-    "open_hours_json": {
-      "Monday": [
-        "9:30 am–6 pm"
-      ],
-      "Tuesday": [
-        "9:30 am–6 pm"
-      ],
-      "Wednesday": [
-        "9:30 am–6 pm"
-      ],
-      "Thursday": [
-        "9:30 am–6 pm"
-      ],
-      "Friday": [
-        "9:30 am–6 pm"
-      ],
-      "Saturday": [
-        "9:30 am–6 pm"
-      ],
-      "Sunday": [
-        "9:30 am–6 pm"
-      ]
-    },
-    "review_count": 2090,
-    "rating": 3.9,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcDrdXYN93DZ4pHpSgVT-OMw43x0kevXAif-Z0FDni-CpKHeVdRkke7BfxA5T9WicRL2O9f65uRykNjR1PTLHLfDVLvekxwnFu6Zun69HcL6sWkU9OdmLuGWcn0qvhCh_gdgynCzA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcDrdXYN93DZ4pHpSgVT-OMw43x0kevXAif-Z0FDni-CpKHeVdRkke7BfxA5T9WicRL2O9f65uRykNjR1PTLHLfDVLvekxwnFu6Zun69HcL6sWkU9OdmLuGWcn0qvhCh_gdgynCzA=w1000-h750-no",
-    "source_query": "Hypermarket in Kortrijk-Dutsel, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJnR5y5E1DwUcRdX0hcKbJJkU",
-    "name": "Parking Demervallei",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Aarschot",
-    "address": "Parking Demervallei, Demervallei 8, 3200 Aarschot",
-    "street": "Demervallei 8",
-    "postal_code": "3200",
-    "region": null,
-    "latitude": 50.9837893,
-    "longitude": 4.839332,
-    "phone": "016 66 00 79",
-    "website": "https://www.aarschot.be/parkeerzones%20en%20parkeertijden",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Parking%20Demervallei&query_place_id=ChIJnR5y5E1DwUcRdX0hcKbJJkU",
-    "open_hours_json": {
-      "Monday": [
-        "Open 24 hours"
-      ],
-      "Tuesday": [
-        "Open 24 hours"
-      ],
-      "Wednesday": [
-        "Open 24 hours"
-      ],
-      "Thursday": [
-        "Open 24 hours"
-      ],
-      "Friday": [
-        "Open 24 hours"
-      ],
-      "Saturday": [
-        "Open 24 hours"
-      ],
-      "Sunday": [
-        "Open 24 hours"
-      ]
-    },
-    "review_count": 114,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf9bstWMJtbwwattSO1lAw8sdXrRKOYLokKcXJew_L7iu3-G9UWxxQO6QJZl6_aoc-aLWSmIXtwoi9abZmrTSL0qD4I3zrIsQmOIz0PPbYfY5mI2rm3ZLspoSeR73rOPobYRlE=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf9bstWMJtbwwattSO1lAw8sdXrRKOYLokKcXJew_L7iu3-G9UWxxQO6QJZl6_aoc-aLWSmIXtwoi9abZmrTSL0qD4I3zrIsQmOIz0PPbYfY5mI2rm3ZLspoSeR73rOPobYRlE=w1000-h750-no",
-    "source_query": "Hypermarket in Aarschot, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJRxHxDlRDwUcRDsJyuTKVzvA",
-    "name": "Pot Au Feu Aarschot",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Aarschot",
-    "address": "Pot Au Feu Aarschot, Schaluin 68, 3200 Aarschot",
-    "street": "Schaluin 68",
-    "postal_code": "3200",
-    "region": null,
-    "latitude": 50.990898099999995,
-    "longitude": 4.8406161999999995,
-    "phone": "016 43 39 47",
-    "website": "https://www.potaufeu-aarschot.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pot%20Au%20Feu%20Aarschot&query_place_id=ChIJRxHxDlRDwUcRDsJyuTKVzvA",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "11:30 am–2:30 pm",
-        "5–10:30 pm"
-      ],
-      "Wednesday": [
-        "11:30 am–2:30 pm",
-        "5–10:30 pm"
-      ],
-      "Thursday": [
-        "11:30 am–2:30 pm",
-        "5–10:30 pm"
-      ],
-      "Friday": [
-        "11:30 am–2:30 pm",
-        "5–10:30 pm"
-      ],
-      "Saturday": [
-        "11:30 am–2:30 pm",
-        "5–10:30 pm"
-      ],
-      "Sunday": [
-        "11:30 am–2:30 pm",
-        "5–10:30 pm"
-      ]
-    },
-    "review_count": 249,
-    "rating": 4.4,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfXSbFQNYt65_IdQcojv60FlOpr5IY3iAsN4MLgjf8WJQnMX0DSiNh0DBmC1rxbKzOXEjj2CcfRSN1UQ5LJ3jhMBYkWesgnStRJirUNm39F9J_kgPIBPTDqapbBPA_RdUG8zIAIog=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfXSbFQNYt65_IdQcojv60FlOpr5IY3iAsN4MLgjf8WJQnMX0DSiNh0DBmC1rxbKzOXEjj2CcfRSN1UQ5LJ3jhMBYkWesgnStRJirUNm39F9J_kgPIBPTDqapbBPA_RdUG8zIAIog=w1000-h750-no",
-    "source_query": "Halal restaurant in Aarschot, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJxY_LWlJDwUcRd5V3Y9NIIas",
-    "name": "Sam Kebab",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Aarschot",
-    "address": "Sam Kebab, Gasthuisstraat 2, 3200 Aarschot",
-    "street": "Gasthuisstraat 2",
-    "postal_code": "3200",
-    "region": null,
-    "latitude": 50.987241399999995,
-    "longitude": 4.8388081,
-    "phone": "0485 77 55 25",
-    "website": "http://www.samkebab.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Sam%20Kebab&query_place_id=ChIJxY_LWlJDwUcRd5V3Y9NIIas",
-    "open_hours_json": {
-      "Monday": [
-        "4–11 pm"
-      ],
-      "Tuesday": [
-        "4–11 pm"
-      ],
-      "Wednesday": [
-        "4–11 pm"
-      ],
-      "Thursday": [
-        "4–11 pm"
-      ],
-      "Friday": [
-        "4 pm–2 am"
-      ],
-      "Saturday": [
-        "4 pm–2 am"
-      ],
-      "Sunday": [
-        "4–11 pm"
-      ]
-    },
-    "review_count": 53,
-    "rating": 3.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdyg_Cdu8NePd6Dn81gKVz8Cclu40CK4HIzdPcgRW5No0jxT1OD51uWqv7z582-HyL11I2W7fbbo5E161sEhJZOcSNb8xmgny0lvcvIpoqqEOLFFxEjcBTswLqWRhb2Rl75A5_86W6iM-I=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdyg_Cdu8NePd6Dn81gKVz8Cclu40CK4HIzdPcgRW5No0jxT1OD51uWqv7z582-HyL11I2W7fbbo5E161sEhJZOcSNb8xmgny0lvcvIpoqqEOLFFxEjcBTswLqWRhb2Rl75A5_86W6iM-I=w1000-h750-no",
-    "source_query": "Halal restaurant in Aarschot, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJaxFpxFNDwUcRbi29KTgdv_8",
-    "name": "Shokudo",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Aarschot",
-    "address": "Shokudo, Schaluin 33, 3200 Aarschot",
-    "street": "Schaluin 33",
-    "postal_code": "3200",
-    "region": null,
-    "latitude": 50.9892529,
-    "longitude": 4.8408983999999995,
-    "phone": "016 35 52 00",
-    "website": "http://www.shokudo.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Shokudo&query_place_id=ChIJaxFpxFNDwUcRbi29KTgdv_8",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "12–2 pm",
-        "5:30–10 pm"
-      ],
-      "Wednesday": [
-        "12–2 pm",
-        "5:30–10 pm"
-      ],
-      "Thursday": [
-        "12–2 pm",
-        "5:30–10 pm"
-      ],
-      "Friday": [
-        "12–2 pm",
-        "5:30–10 pm"
-      ],
-      "Saturday": [
-        "12–2 pm",
-        "5:30–10 pm"
-      ],
-      "Sunday": [
-        "12–2 pm",
-        "5:30–10 pm"
-      ]
-    },
-    "review_count": 1398,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLct9s6IDe0x0bTPwAgd6xdfnp8qopMGzCX1zuLNhOjpXKoK9P-bdBUhpop3XYPhvcDI51vcNtl5SphVxcCJ41DiuEU3vZW39P_fVXc9T18NuebRnkgmF8Z38qNv146Ji5sj67sX=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLct9s6IDe0x0bTPwAgd6xdfnp8qopMGzCX1zuLNhOjpXKoK9P-bdBUhpop3XYPhvcDI51vcNtl5SphVxcCJ41DiuEU3vZW39P_fVXc9T18NuebRnkgmF8Z38qNv146Ji5sj67sX=w1000-h750-no",
-    "source_query": "Halal restaurant in Aarschot, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJB3GEYwBbwUcROUVvq_XS-_g",
-    "name": "Siffatje buurtwinkel",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Aarschot",
-    "address": "Siffatje buurtwinkel, Liersesteenweg 79, 3200 Aarschot",
-    "street": "Liersesteenweg 79",
-    "postal_code": "3200",
-    "region": null,
-    "latitude": 51.0022587,
-    "longitude": 4.828050999999999,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Siffatje%20buurtwinkel&query_place_id=ChIJB3GEYwBbwUcROUVvq_XS-_g",
-    "open_hours_json": {
-      "Monday": [
-        "9 am–10 pm"
-      ],
-      "Tuesday": [
-        "9 am–10 pm"
-      ],
-      "Wednesday": [
-        "9 am–10 pm"
-      ],
-      "Thursday": [
-        "9 am–10 pm"
-      ],
-      "Friday": [
-        "9 am–10 pm"
-      ],
-      "Saturday": [
-        "9 am–10 pm"
-      ],
-      "Sunday": [
-        "10 am–10 pm"
-      ]
-    },
-    "review_count": 3,
-    "rating": 4.7,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gMI-p_P4mQLWpHqJb7jv_g&cb_client=search.gws-prod.grass&w=80&h=92&yaw=29.008116&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gMI-p_P4mQLWpHqJb7jv_g&cb_client=search.gws-prod.grass&w=80&h=92&yaw=29.008116&pitch=0&thumbfov=w1000-h750-no",
-    "source_query": "Hypermarket in Aarschot, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ1Rrtkv5DwUcRvFqlokhOy2o",
-    "name": "Somwang",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Aarschot",
-    "address": "Somwang, Schaluin 16, 3200 Aarschot",
-    "street": "Schaluin 16",
-    "postal_code": "3200",
-    "region": null,
-    "latitude": 50.989025,
-    "longitude": 4.8404847,
-    "phone": "016 79 79 30",
-    "website": "http://www.somwang.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Somwang&query_place_id=ChIJ1Rrtkv5DwUcRvFqlokhOy2o",
-    "open_hours_json": null,
-    "review_count": 138,
-    "rating": 4.5,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdWr2xiTGAcO1blptaJG3mFST6J7fpGyDC71C0vVWX8JlaPXOkDbUwwcLcTyoftOA9lfRIJJXZqUIW5rfpnaK7EHCq3D2eFOjDEAAwo0ErpJLOJS0Hk46-sy1iJwvWRgi7ad9jLhg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdWr2xiTGAcO1blptaJG3mFST6J7fpGyDC71C0vVWX8JlaPXOkDbUwwcLcTyoftOA9lfRIJJXZqUIW5rfpnaK7EHCq3D2eFOjDEAAwo0ErpJLOJS0Hk46-sy1iJwvWRgi7ad9jLhg=w1000-h750-no",
-    "source_query": "Halal restaurant in Aarschot, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJD0_i2ZlDwUcR5I-iEwZtbzU",
-    "name": "Unikamp",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Aarschot",
-    "address": "Unikamp, Diestsesteenweg 35, 3200 Aarschot",
-    "street": "Diestsesteenweg 35",
-    "postal_code": "3200",
-    "region": null,
-    "latitude": 50.9794372,
-    "longitude": 4.8517551999999995,
-    "phone": "016 63 98 60",
-    "website": "https://www.free-time.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Unikamp&query_place_id=ChIJD0_i2ZlDwUcR5I-iEwZtbzU",
-    "open_hours_json": {
-      "Monday": [
-        "9:30 am–6 pm"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "9:30 am–6 pm"
-      ],
-      "Thursday": [
-        "9:30 am–6 pm"
-      ],
-      "Friday": [
-        "9:30 am–6 pm"
-      ],
-      "Saturday": [
-        "10 am–6 pm"
-      ],
-      "Sunday": [
-        "10 am–6 pm"
-      ]
-    },
-    "review_count": 1744,
-    "rating": 4.1,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf72S6Iqa4HwGscuN_SE8R8kSXWPP3QMvLfsmL1BAmSe7cXEvM4bhxc3zgJ9BOmWeiGSB1MWV8aikkw8XOn3LncrgxAoHr45M-e8jn69UC-FTgO7Qsz-BBFL-P_-nTM-WjmUUUR=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf72S6Iqa4HwGscuN_SE8R8kSXWPP3QMvLfsmL1BAmSe7cXEvM4bhxc3zgJ9BOmWeiGSB1MWV8aikkw8XOn3LncrgxAoHr45M-e8jn69UC-FTgO7Qsz-BBFL-P_-nTM-WjmUUUR=w1000-h750-no",
-    "source_query": "Hypermarket in Aarschot, Flanders, BE",
     "moderation_status": "approved",
     "is_active": true,
     "verification_status": "UNVERIFIED",

@@ -1,5 +1,577 @@
 [
   {
+    "place_id": "ChIJnb9-h-jhwkcRUN-Qgg52Blo",
+    "name": "Superette V.M.",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tournai",
+    "address": "Superette V.M., Vieux Chemin d'Ath 686, 7531 Tournai",
+    "street": "Vieux Chemin d'Ath 686",
+    "postal_code": "7531",
+    "region": null,
+    "latitude": 50.6167722,
+    "longitude": 3.4672387,
+    "phone": "069 54 70 27",
+    "website": "https://www.heures.be/superette-vm/tournai/1",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Superette%20V.M.&query_place_id=ChIJnb9-h-jhwkcRUN-Qgg52Blo",
+    "open_hours_json": {
+      "Monday": [
+        "3–6:30 pm"
+      ],
+      "Tuesday": [
+        "8:45 am–12:15 pm",
+        "2:30–6:30 pm"
+      ],
+      "Wednesday": [
+        "8:45 am–12:15 pm",
+        "2:30–6:30 pm"
+      ],
+      "Thursday": [
+        "8:45 am–12:15 pm",
+        "2:30–6:30 pm"
+      ],
+      "Friday": [
+        "8:45 am–12:15 pm",
+        "2:30–6:30 pm"
+      ],
+      "Saturday": [
+        "8:45 am–12:15 pm",
+        "2:30–5 pm"
+      ],
+      "Sunday": [
+        "8 am–12 pm"
+      ]
+    },
+    "review_count": 17,
+    "rating": 4.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLepmFOOQP1YU3QXhcIsr6BNWCY0A_vgxrmS7MDkfMelJhiv6EY_gLbYcFIMupx-J9YjpbSdhePVd78J12BvL7R3Lu_x87NYuE40WpWwfkFBzH-YLxzZgBTkqCF1SHqAiEoOICmr=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLepmFOOQP1YU3QXhcIsr6BNWCY0A_vgxrmS7MDkfMelJhiv6EY_gLbYcFIMupx-J9YjpbSdhePVd78J12BvL7R3Lu_x87NYuE40WpWwfkFBzH-YLxzZgBTkqCF1SHqAiEoOICmr=w1000-h750-no",
+    "source_query": "Hypermarket in Tournai, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJEb-FLwDhwkcRA1rAtQ7LGZg",
+    "name": "Tabac shop",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tournai",
+    "address": "Tabac shop, Bd des Combattants 2, 7500 Tournai",
+    "street": "Bd des Combattants 2",
+    "postal_code": "7500",
+    "region": null,
+    "latitude": 50.6112057,
+    "longitude": 3.4011153999999997,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Tabac%20shop&query_place_id=ChIJEb-FLwDhwkcRA1rAtQ7LGZg",
+    "open_hours_json": {
+      "Monday": [
+        "8 am–8:30 pm"
+      ],
+      "Tuesday": [
+        "8 am–8:30 pm"
+      ],
+      "Wednesday": [
+        "8 am–8:30 pm"
+      ],
+      "Thursday": [
+        "8 am–8:30 pm"
+      ],
+      "Friday": [
+        "8 am–8:30 pm"
+      ],
+      "Saturday": [
+        "8 am–8:30 pm"
+      ],
+      "Sunday": [
+        "8 am–8:30 pm"
+      ]
+    },
+    "review_count": 1,
+    "rating": 1.0,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-XHiZ47fnLl0WktYj9RjXQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=159.681&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-XHiZ47fnLl0WktYj9RjXQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=159.681&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Hypermarket in Tournai, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ6eQTNADfwkcRdZOc9rS0SVc",
+    "name": "Tbac shop",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tournai",
+    "address": "Tbac shop, Rue Saint-Martin 119, 7500 Tournai",
+    "street": "Rue Saint-Martin 119",
+    "postal_code": "7500",
+    "region": null,
+    "latitude": 50.6028516,
+    "longitude": 3.3845986999999997,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Tbac%20shop&query_place_id=ChIJ6eQTNADfwkcRdZOc9rS0SVc",
+    "open_hours_json": {
+      "Monday": [
+        "8 am–8 pm"
+      ],
+      "Tuesday": [
+        "8 am–8 pm"
+      ],
+      "Wednesday": [
+        "8 am–8 pm"
+      ],
+      "Thursday": [
+        "8 am–8 pm"
+      ],
+      "Friday": [
+        "8 am–9 pm"
+      ],
+      "Saturday": [
+        "8 am–8 pm"
+      ],
+      "Sunday": [
+        "8 am–8 pm"
+      ]
+    },
+    "review_count": 0,
+    "rating": null,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7_77-McTDGIyNrnEUilLLA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=324.98404&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7_77-McTDGIyNrnEUilLLA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=324.98404&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Hypermarket in Tournai, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJQUqYBHxXwkcR-yQGsKzhDbM",
+    "name": "Tom & Co",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tournai",
+    "address": "Tom & Co, Bd Walter de Marvis 18, 7500 Tournai",
+    "street": "Bd Walter de Marvis 18",
+    "postal_code": "7500",
+    "region": null,
+    "latitude": 50.6048506,
+    "longitude": 3.4046271999999997,
+    "phone": "069 23 21 44",
+    "website": "https://www.tomandco.com/fr-be/nos-magasins/#!/l/tournai/boulevard-walter-de-marvis-18/2898327",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Tom%20%26%20Co&query_place_id=ChIJQUqYBHxXwkcR-yQGsKzhDbM",
+    "open_hours_json": {
+      "Monday": [
+        "8:30 am–7 pm"
+      ],
+      "Tuesday": [
+        "8:30 am–7 pm"
+      ],
+      "Wednesday": [
+        "8:30 am–7 pm"
+      ],
+      "Thursday": [
+        "8:30 am–7 pm"
+      ],
+      "Friday": [
+        "8:30 am–7 pm"
+      ],
+      "Saturday": [
+        "8:30 am–7 pm"
+      ],
+      "Sunday": [
+        "9 am–1 pm"
+      ]
+    },
+    "review_count": 784,
+    "rating": 4.2,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfnjwtyBc3vCeciGwqNOufEejPnOyOgx-pXoiUe28a2xEDDHNpdidS1Za_4Gg4xCGYBKsdmRvaGYYwdfk0WzYhBlZpizM-G380Cta-ZtkgIto3zSpOuuy5Wv6pVfo6rfJ8QYS4Y3_vt1_Wk=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfnjwtyBc3vCeciGwqNOufEejPnOyOgx-pXoiUe28a2xEDDHNpdidS1Za_4Gg4xCGYBKsdmRvaGYYwdfk0WzYhBlZpizM-G380Cta-ZtkgIto3zSpOuuy5Wv6pVfo6rfJ8QYS4Y3_vt1_Wk=w1000-h750-no",
+    "source_query": "Fish restaurant in Tournai, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJnxe9V_TfwkcR41U9nhYD--Y",
+    "name": "Tom&Co Froyennes",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tournai",
+    "address": "Tom&Co Froyennes, Rue de Maire 13a, 7503 Tournai",
+    "street": "Rue de Maire 13a",
+    "postal_code": "7503",
+    "region": null,
+    "latitude": 50.6243991,
+    "longitude": 3.3711333,
+    "phone": "069 35 41 43",
+    "website": "https://www.tomandco.com/fr-be/nos-magasins/#!/l/tournai/rue-de-maire-13a/2898401",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Tom%26Co%20Froyennes&query_place_id=ChIJnxe9V_TfwkcR41U9nhYD--Y",
+    "open_hours_json": {
+      "Monday": [
+        "9 am–7 pm"
+      ],
+      "Tuesday": [
+        "9 am–7 pm"
+      ],
+      "Wednesday": [
+        "9 am–7 pm"
+      ],
+      "Thursday": [
+        "9 am–7 pm"
+      ],
+      "Friday": [
+        "9 am–7 pm"
+      ],
+      "Saturday": [
+        "9 am–7 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 652,
+    "rating": 4.0,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLda7aCmPfTiw0EOX_TFPAEXbW6CrvauXVaOAN9rTduCfFv9HZy6g4Mi4yGF_mF8f-csWLjddcBYhv8TtPg86AjaxMMLA-aiYrfU7HZlXsT3ejRwcXdWNCWpC4F8XoXpMdJCf-o=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLda7aCmPfTiw0EOX_TFPAEXbW6CrvauXVaOAN9rTduCfFv9HZy6g4Mi4yGF_mF8f-csWLjddcBYhv8TtPg86AjaxMMLA-aiYrfU7HZlXsT3ejRwcXdWNCWpC4F8XoXpMdJCf-o=w1000-h750-no",
+    "source_query": "Fish restaurant in Tournai, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJt0reaXTgwkcRDXxo9eXjCF8",
+    "name": "Tournai Grill",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tournai",
+    "address": "Tournai Grill, Rue des Puits l'Eau 42, 7500 Tournai",
+    "street": "Rue des Puits l'Eau 42",
+    "postal_code": "7500",
+    "region": null,
+    "latitude": 50.6058417,
+    "longitude": 3.3919813,
+    "phone": "0489 66 82 26",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Tournai%20Grill&query_place_id=ChIJt0reaXTgwkcRDXxo9eXjCF8",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcEsOH44fGKq41wOyXLLdrbT7oV66GPGL8Z9fXuVG0WbOIOvv5KxycNrYKWrd4XqoKUjDhIFkAHsBNNBBlnp78Qndjf9otcHr0tDG8eShUgAcWzU0yy2SVK4N52-Fo5ait7sAI=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcEsOH44fGKq41wOyXLLdrbT7oV66GPGL8Z9fXuVG0WbOIOvv5KxycNrYKWrd4XqoKUjDhIFkAHsBNNBBlnp78Qndjf9otcHr0tDG8eShUgAcWzU0yy2SVK4N52-Fo5ait7sAI=w1000-h750-no",
+    "rating": 4.1,
+    "review_count": 1025,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJ7-VTSnXgwkcROIOBICX9tZ8",
+    "name": "Um Beaumonde",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tournai",
+    "address": "Um Beaumonde, Quai Notre Dame 12, 7500 Tournai",
+    "street": "Quai Notre Dame 12",
+    "postal_code": "7500",
+    "region": null,
+    "latitude": 50.6092455,
+    "longitude": 3.3890458999999997,
+    "phone": "069 56 09 35",
+    "website": "https://un-beaumonde.cover.page/fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Um%20Beaumonde&query_place_id=ChIJ7-VTSnXgwkcROIOBICX9tZ8",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeuK6kJHHog6oE9t4DBXfJfoAF76619n8xv5qtfIwFX_DAvr_YyL4UmighhTpPfjCGZvC_YRw9B_RfVCqjlMhwGuJef148MdfMYd5OpjMGncFAreyAegsnf_JDBhhJXF6clV8Bt=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeuK6kJHHog6oE9t4DBXfJfoAF76619n8xv5qtfIwFX_DAvr_YyL4UmighhTpPfjCGZvC_YRw9B_RfVCqjlMhwGuJef148MdfMYd5OpjMGncFAreyAegsnf_JDBhhJXF6clV8Bt=w1000-h750-no",
+    "rating": 4.4,
+    "review_count": 327,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJJTOmeznfwkcRqWsphJvqWTc",
+    "name": "Wapifarm",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tournai",
+    "address": "Wapifarm, Rue des Couvreurs 9, 7522 Tournai",
+    "street": "Rue des Couvreurs 9",
+    "postal_code": "7522",
+    "region": null,
+    "latitude": 50.6053893,
+    "longitude": 3.3237612999999997,
+    "phone": "0479 81 12 83",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Wapifarm&query_place_id=ChIJJTOmeznfwkcRqWsphJvqWTc",
+    "open_hours_json": {
+      "Monday": [
+        "Open 24 hours"
+      ],
+      "Tuesday": [
+        "Open 24 hours"
+      ],
+      "Wednesday": [
+        "Open 24 hours"
+      ],
+      "Thursday": [
+        "Open 24 hours"
+      ],
+      "Friday": [
+        "Open 24 hours"
+      ],
+      "Saturday": [
+        "Open 24 hours"
+      ],
+      "Sunday": [
+        "Open 24 hours"
+      ]
+    },
+    "review_count": 4,
+    "rating": 4.0,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QPFJFj-8US1lRVnT4jtvHg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=128.53625&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QPFJFj-8US1lRVnT4jtvHg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=128.53625&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Hypermarket in Tournai, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ2XvbukjgwkcR0hQ_yuIST58",
+    "name": "Wok d'Asie",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tournai",
+    "address": "Wok d'Asie, Chau. de Bruxelles 376, 7500 Tournai",
+    "street": "Chau. de Bruxelles 376",
+    "postal_code": "7500",
+    "region": null,
+    "latitude": 50.6040035,
+    "longitude": 3.424444,
+    "phone": "069 77 79 13",
+    "website": "http://www.wokdasietournai.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Wok%20d%27Asie&query_place_id=ChIJ2XvbukjgwkcR0hQ_yuIST58",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "12–2:45 pm",
+        "6–11 pm"
+      ],
+      "Wednesday": [
+        "12–2:45 pm",
+        "6–11 pm"
+      ],
+      "Thursday": [
+        "12–2:45 pm",
+        "6–11 pm"
+      ],
+      "Friday": [
+        "12–2:45 pm",
+        "6–11:30 pm"
+      ],
+      "Saturday": [
+        "12–2:45 pm",
+        "6–11:30 pm"
+      ],
+      "Sunday": [
+        "12–3 pm",
+        "6–10:30 pm"
+      ]
+    },
+    "review_count": 1068,
+    "rating": 4.0,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcjZH0ZsP8KO7rb59EyNH2wwisXYoqMDXHkCS0Rq7f5AM5HMRMvNDs7e-qcNkJZIX-zfPwJiTCmQ_8frxpmmndJc0Z34HYlDofxmZq9KIqh2lI_sUBfK3n4vsY54vItR2xaQz-c=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcjZH0ZsP8KO7rb59EyNH2wwisXYoqMDXHkCS0Rq7f5AM5HMRMvNDs7e-qcNkJZIX-zfPwJiTCmQ_8frxpmmndJc0Z34HYlDofxmZq9KIqh2lI_sUBfK3n4vsY54vItR2xaQz-c=w1000-h750-no",
+    "source_query": "Fish restaurant in Tournai, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJfSFyWIThwkcRbgcgRJBdPuw",
+    "name": "YouWok Tournai",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tournai",
+    "address": "YouWok Tournai, Bd Walter de Marvis 22, 7500 Tournai",
+    "street": "Bd Walter de Marvis 22",
+    "postal_code": "7500",
+    "region": null,
+    "latitude": 50.6016349,
+    "longitude": 3.4044756,
+    "phone": "02 790 68 70",
+    "website": "https://youwok.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=YouWok%20Tournai&query_place_id=ChIJfSFyWIThwkcRbgcgRJBdPuw",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdGlM16fPakmjzcSlvse6_y-0UPSejuG8ppSJyghnntRs1H5txAfzFblFZt6iTadtL_dM7Y9g4j73a9TpUUhNyvHhbITB2ByD_uFVk6PuxHHn-hfFBv0l8cR-pa4arR2-M1-xAQyQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdGlM16fPakmjzcSlvse6_y-0UPSejuG8ppSJyghnntRs1H5txAfzFblFZt6iTadtL_dM7Y9g4j73a9TpUUhNyvHhbITB2ByD_uFVk6PuxHHn-hfFBv0l8cR-pa4arR2-M1-xAQyQ=w1000-h750-no",
+    "rating": 4.2,
+    "review_count": 687,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJp40lGWHfwkcRAiTNm5u7XRA",
+    "name": "massa sham",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tournai",
+    "address": "massa sham, Rue de Pont 17، 7500 Tournai",
+    "street": "Rue de Pont 17",
+    "postal_code": "7500",
+    "region": null,
+    "latitude": 50.607267199999995,
+    "longitude": 3.3942166,
+    "phone": "0483 71 14 94",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=massa%20sham&query_place_id=ChIJp40lGWHfwkcRAiTNm5u7XRA",
+    "open_hours_json": {
+      "Monday": [
+        "9 am–8 pm"
+      ],
+      "Tuesday": [
+        "9 am–8 pm"
+      ],
+      "Wednesday": [
+        "9 am–8 pm"
+      ],
+      "Thursday": [
+        "9 am–8 pm"
+      ],
+      "Friday": [
+        "9 am–8 pm"
+      ],
+      "Saturday": [
+        "9 am–8 pm"
+      ],
+      "Sunday": [
+        "9 am–8 pm"
+      ]
+    },
+    "review_count": 74,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcrrgcin1tOYhG22WNX4QzTX4FqkW5Y8bsreeT-Zj28r3cD65JbibbgeSJ-r1-brp1y4XgpODhIxK7C2TT_IAmhsausQrMTA-mmA5koB1Bsp3p3fSTARMdBeOFw4K75LZq3sxc=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcrrgcin1tOYhG22WNX4QzTX4FqkW5Y8bsreeT-Zj28r3cD65JbibbgeSJ-r1-brp1y4XgpODhIxK7C2TT_IAmhsausQrMTA-mmA5koB1Bsp3p3fSTARMdBeOFw4K75LZq3sxc=w1000-h750-no",
+    "source_query": "Hypermarket in Tournai, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ1y9MZ_rfwkcRYfWPit3CcY4",
+    "name": "wantsy",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tournai",
+    "address": "wantsy, rue du docteur jean vlaeminck 12, 7500 Tournai",
+    "street": "rue du docteur jean vlaeminck 12",
+    "postal_code": "7500",
+    "region": null,
+    "latitude": 50.5946534,
+    "longitude": 3.3858261,
+    "phone": "0491 76 17 08",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=wantsy&query_place_id=ChIJ1y9MZ_rfwkcRYfWPit3CcY4",
+    "open_hours_json": null,
+    "review_count": 0,
+    "rating": null,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW3HR4V60u8BWRbzIEN_ELVWTh00txAUrO9YGYcPDrJhjx4e7yAQI031jlcz3inpmfz8yjJidRuCTG1CTV3y0cmTTMN7Ej7vAFSJd3OsIRgilOXZJ3kkjR-xHbpS4Ds5et1VMN9Ds5pxuqhIwIZO-daSHmEaMkj-v14HWAqZ9cQdOlXZfyx49x_w9g=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW3HR4V60u8BWRbzIEN_ELVWTh00txAUrO9YGYcPDrJhjx4e7yAQI031jlcz3inpmfz8yjJidRuCTG1CTV3y0cmTTMN7Ej7vAFSJd3OsIRgilOXZJ3kkjR-xHbpS4Ds5et1VMN9Ds5pxuqhIwIZO-daSHmEaMkj-v14HWAqZ9cQdOlXZfyx49x_w9g=w1000-h750-no",
+    "source_query": "Hypermarket in Tournai, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJT0u8hHHfwkcRqrubC2dC7wQ",
+    "name": "À Fleur de Riz",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tournai",
+    "address": "À Fleur de Riz, Bld Bara 5, 7500 Tournai",
+    "street": "Bld Bara 5",
+    "postal_code": "7500",
+    "region": null,
+    "latitude": 50.606116199999995,
+    "longitude": 3.3810843,
+    "phone": "0486 30 31 08",
+    "website": "https://www.afleurderiz.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%C3%80%20Fleur%20de%20Riz&query_place_id=ChIJT0u8hHHfwkcRqrubC2dC7wQ",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "11 am–2 pm",
+        "5–9 pm"
+      ],
+      "Wednesday": [
+        "11 am–2 pm",
+        "5–9 pm"
+      ],
+      "Thursday": [
+        "11 am–2 pm",
+        "5–9 pm"
+      ],
+      "Friday": [
+        "11 am–2 pm",
+        "5–9 pm"
+      ],
+      "Saturday": [
+        "11 am–2 pm",
+        "5–9 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 59,
+    "rating": 4.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe7Iy8rRyPptha8sEebSPSIeVWVv_mHpPsw0C834psTOqwzqr0vH8LVgBtnzaGoD8jGzfA7HJcMoRVvx_Npx7Ti8E-m-G1AJyY6hJjA9Zf15JS0q5fNrkksPhKT8RfnX9A2YA_7Olgj3BQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe7Iy8rRyPptha8sEebSPSIeVWVv_mHpPsw0C834psTOqwzqr0vH8LVgBtnzaGoD8jGzfA7HJcMoRVvx_Npx7Ti8E-m-G1AJyY6hJjA9Zf15JS0q5fNrkksPhKT8RfnX9A2YA_7Olgj3BQ=w1000-h750-no",
+    "source_query": "Halal restaurant in Tournai, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJnUBMCwAnw0cRnymhCYz77KQ",
     "name": "عبدالله كلاسك",
     "type": "hypermarket",
@@ -5114,8 +5686,8 @@
     "phone": "02 376 93 90",
     "website": "https://belchickenn.com/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Belchicken%20Uccle%20Bascule%20%7C%20Taste%20Matters&query_place_id=ChIJBaua8pjFw0cRuU09P5h5K1c",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLec5GwLaKPc6bboyXaSiQ6e1isMFb8-dZPCkchbSTglphjxWGtp23hNYKGDCr1zenbvbp0UKiPFPg_RNIKyYhawUs40WOn1Et5r8CHDNNff6cCsq__h3spHPL6aHTbiJKB9YuF-=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLec5GwLaKPc6bboyXaSiQ6e1isMFb8-dZPCkchbSTglphjxWGtp23hNYKGDCr1zenbvbp0UKiPFPg_RNIKyYhawUs40WOn1Et5r8CHDNNff6cCsq__h3spHPL6aHTbiJKB9YuF-=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdHxTxDy7Q8Sxw3ik9oQQGW1z7MpLhcVwtP7OFdRfFYSOKZniB59LsNMDSOI1LP0wK54V-NNdIZ9PEO70ZjZf90N-gWPH0eqc9JgHV_A2FgAQ9iUA7FKWUrmnnWhVS-ywph9esc=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdHxTxDy7Q8Sxw3ik9oQQGW1z7MpLhcVwtP7OFdRfFYSOKZniB59LsNMDSOI1LP0wK54V-NNdIZ9PEO70ZjZf90N-gWPH0eqc9JgHV_A2FgAQ9iUA7FKWUrmnnWhVS-ywph9esc=w1000-h750-no",
     "rating": 4.1,
     "review_count": 216,
     "verification_status": "UNVERIFIED",
@@ -5218,8 +5790,8 @@
     "phone": "02 374 28 20",
     "website": "https://www.enjoybreakpoint.be/fr/stores/ukkel",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Breakpoint%20Uccle&query_place_id=ChIJx9hKITfFw0cRozqM6HlSVHQ",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfa7VLrHSpCbU_b4T3X5vJ-LJq6pWPrHxD9Aw1tc_RMcgb8BPC7nmb0K3K0j5-k2JKorShISnAJaHTFffgy62OFUlEuUscCMJNmPrDFOqyg14TnxoWEcXbkCMUXVF_8dK8EqnXB=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfa7VLrHSpCbU_b4T3X5vJ-LJq6pWPrHxD9Aw1tc_RMcgb8BPC7nmb0K3K0j5-k2JKorShISnAJaHTFffgy62OFUlEuUscCMJNmPrDFOqyg14TnxoWEcXbkCMUXVF_8dK8EqnXB=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf_Mw_SgeymbJBHZ4odmy7L82CXcQr7cefBGd7SvW5G_NKHE5AhfjNnsNx7IXWTTFrfBwM1OYi-cgyhKzrRu0TGJXkLNMMbokvYk6Cn6kr0CMZ58Qy2gYZF3Plvbkmn5c4VAxlS=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf_Mw_SgeymbJBHZ4odmy7L82CXcQr7cefBGd7SvW5G_NKHE5AhfjNnsNx7IXWTTFrfBwM1OYi-cgyhKzrRu0TGJXkLNMMbokvYk6Cn6kr0CMZ58Qy2gYZF3Plvbkmn5c4VAxlS=w1000-h750-no",
     "rating": 4.5,
     "review_count": 77,
     "verification_status": "UNVERIFIED",
@@ -5636,8 +6208,8 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Sawa%20resto&query_place_id=ChIJyxiN6KTFw0cR3D1Un5yBeOE",
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfCTdyOaF9TUNXUTe7okBveJXWs-_ihparHEUJJaJa03Wv-PPtM8VzSq28q2mP4CQWe_3rDiVkg2lWHLiCvj88xFQZ2-mL_xKC-bYOHoI7DRtQyXEKYIyzy4mrjFQLCTRzu6e1R=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfCTdyOaF9TUNXUTe7okBveJXWs-_ihparHEUJJaJa03Wv-PPtM8VzSq28q2mP4CQWe_3rDiVkg2lWHLiCvj88xFQZ2-mL_xKC-bYOHoI7DRtQyXEKYIyzy4mrjFQLCTRzu6e1R=w1000-h750-no",
-    "rating": null,
-    "review_count": 0,
+    "rating": 4.8,
+    "review_count": 190,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null,
     "is_active": true,
@@ -5740,8 +6312,8 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Touareg&query_place_id=ChIJ2fyYgYrEw0cRBzUWwERGxZs",
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe99Ds6_bXAEQV_C_jYGIjxNe4-7iH49IOzGyx0bq1n_Vk4VTBT9DYgZKvOIVKQHpeGH06tZ5xeuvWc0uFr2QDA8thT2bVXApSQQ9j6IE5hqDJnZ-FQ2cTZT9UIVrMZb6Sxd6r4=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe99Ds6_bXAEQV_C_jYGIjxNe4-7iH49IOzGyx0bq1n_Vk4VTBT9DYgZKvOIVKQHpeGH06tZ5xeuvWc0uFr2QDA8thT2bVXApSQQ9j6IE5hqDJnZ-FQ2cTZT9UIVrMZb6Sxd6r4=w1000-h750-no",
-    "rating": null,
-    "review_count": 0,
+    "rating": 4.4,
+    "review_count": 271,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null,
     "is_active": true,
@@ -6995,6 +7567,32 @@
     "moderation_status": "approved"
   },
   {
+    "place_id": "ChIJSdJ-G8CLwEcRf8IuTu54Lx8",
+    "name": "Boucherie Jamali Halal",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Verviers",
+    "address": "Boucherie Jamali Halal, 4800 Verviers",
+    "street": null,
+    "postal_code": null,
+    "region": null,
+    "latitude": 50.5944552,
+    "longitude": 5.85494,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boucherie%20Jamali%20Halal&query_place_id=ChIJSdJ-G8CLwEcRf8IuTu54Lx8",
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=HmH9UWQrud5DIDIIe8rRPQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=79.82873&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=HmH9UWQrud5DIDIIe8rRPQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=79.82873&pitch=0&thumbfov=w1000-h750-no",
+    "rating": null,
+    "review_count": 0,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
     "place_id": "ChIJCyJfXkqLwEcRWXLWtPVeUPs",
     "name": "Boucherie Verviers - Renmans",
     "type": "butcher",
@@ -7087,8 +7685,8 @@
     "phone": "0492 42 63 20",
     "website": "https://www.facebook.com/Boucherie-de-la-Grappe-102626238290953/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boucherie%20de%20la%20Grappe&query_place_id=ChIJrdm7gO-LwEcR5L0pe7ImwZ0",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfXrRYLOzikiHHNVCTnZutFBhHCeXEUH-1LC9U08z1-hn87CNcHiPvk8p9M3rKXywXHfIC8JzRBR6fBfBBQj3Ttu3SgDGZ20zB12ZzV43eKn5mtSpEQyR_1pMGQMVytbaFhInRj=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfXrRYLOzikiHHNVCTnZutFBhHCeXEUH-1LC9U08z1-hn87CNcHiPvk8p9M3rKXywXHfIC8JzRBR6fBfBBQj3Ttu3SgDGZ20zB12ZzV43eKn5mtSpEQyR_1pMGQMVytbaFhInRj=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfjuUWJ3Bb4qirmxAbY1JgFWQg_V-yb32sI9-c23ElPVHsQccJ3i2LDeQTQ7HMagNbFSMDABPnOFEMxkGe19V-z1dwkCEoaBXUhyNK3qCKoUvJcifJ0_t1mKMNUgUuLRJuwuImo=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfjuUWJ3Bb4qirmxAbY1JgFWQg_V-yb32sI9-c23ElPVHsQccJ3i2LDeQTQ7HMagNbFSMDABPnOFEMxkGe19V-z1dwkCEoaBXUhyNK3qCKoUvJcifJ0_t1mKMNUgUuLRJuwuImo=w1000-h750-no",
     "rating": 4.8,
     "review_count": 65,
     "verification_status": "UNVERIFIED",
@@ -7145,32 +7743,6 @@
     "is_active": true,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJs57l-emLwEcRDtRcgcpdJ_k",
-    "name": "CC VAYNAH Verviers",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Verviers",
-    "address": "CC VAYNAH Verviers, Rue de Dison 53, 4800 Verviers",
-    "street": "Rue de Dison 53",
-    "postal_code": "4800",
-    "region": null,
-    "latitude": 50.5945073,
-    "longitude": 5.854671,
-    "phone": "0466 08 54 45",
-    "website": "https://www.instagram.com/cc.vaynah.verviers",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=CC%20VAYNAH%20Verviers&query_place_id=ChIJs57l-emLwEcRDtRcgcpdJ_k",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfHam_YsonXNmT2Mpl2ogEBI9eWtZftOsacJPkHh0FrB4PDDfGV1PVfuO-OHi_S3xdom81PR5ymvmYbKkCVLF5w8CkCHsJtX4_krPv2ue169pPd2MvAVcGbnu2A4DQIr6dhJID2tLucMnc=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfHam_YsonXNmT2Mpl2ogEBI9eWtZftOsacJPkHh0FrB4PDDfGV1PVfuO-OHi_S3xdom81PR5ymvmYbKkCVLF5w8CkCHsJtX4_krPv2ue169pPd2MvAVcGbnu2A4DQIr6dhJID2tLucMnc=w1000-h750-no",
-    "rating": 5.0,
-    "review_count": 6,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
   },
   {
     "place_id": "ChIJEd0UEcGLwEcRv5U2g_daXTQ",
@@ -7371,32 +7943,6 @@
     "is_active": true,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJM4rw1OqLwEcRd7OY7mZ1QGk",
-    "name": "Centre Islamique, Culturel et Social-Mosquée Kobaa",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Verviers",
-    "address": "Centre Islamique, Culturel et Social-Mosquée Kobaa, Rue des Fabriques 28, 4800 Verviers",
-    "street": "Rue des Fabriques 28",
-    "postal_code": "4800",
-    "region": null,
-    "latitude": 50.597108399999996,
-    "longitude": 5.8546854,
-    "phone": "087 31 57 44",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Centre%20Islamique%2C%20Culturel%20et%20Social-Mosqu%C3%A9e%20Kobaa&query_place_id=ChIJM4rw1OqLwEcRd7OY7mZ1QGk",
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CsUnltGA-rK8cZkyQqpqZQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=180.21063&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CsUnltGA-rK8cZkyQqpqZQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=180.21063&pitch=0&thumbfov=w1000-h750-no",
-    "rating": 4.9,
-    "review_count": 19,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
   },
   {
     "place_id": "ChIJF8XGnQSLwEcRKdT3cS8FdZk",
@@ -7813,32 +8359,6 @@
     "verification_evidence": null
   },
   {
-    "place_id": "ChIJVwJSCcCLwEcR_yUsFe4CBIA",
-    "name": "Complexe Educatif et Culturel Islamique",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Verviers",
-    "address": "Complexe Educatif et Culturel Islamique, Rue de Hodimont 244, 4800 Verviers",
-    "street": "Rue de Hodimont 244",
-    "postal_code": "4800",
-    "region": null,
-    "latitude": 50.595526199999995,
-    "longitude": 5.852994499999999,
-    "phone": "087 44 89 49",
-    "website": "http://www.ceciv.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Complexe%20Educatif%20et%20Culturel%20Islamique&query_place_id=ChIJVwJSCcCLwEcR_yUsFe4CBIA",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLevWasJhXVkIlB6PgvTsKa3SB-HoCpopZxfJONAwmKj4quSJHgWuoME4axzAZ8y0l1NdPMTZy4TlBqGTprP4cH6FM8hNN9yT8CXXAWQihGFej643dYblTo5dLvNoiGNIVUjolEDoQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLevWasJhXVkIlB6PgvTsKa3SB-HoCpopZxfJONAwmKj4quSJHgWuoME4axzAZ8y0l1NdPMTZy4TlBqGTprP4cH6FM8hNN9yT8CXXAWQihGFej643dYblTo5dLvNoiGNIVUjolEDoQ=w1000-h750-no",
-    "rating": 4.8,
-    "review_count": 138,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
     "place_id": "ChIJZSmODLW5sQAR_cZMEElyE_M",
     "name": "Couscous Salem",
     "type": "restaurant",
@@ -8197,32 +8717,6 @@
     "verification_evidence": null
   },
   {
-    "place_id": "ChIJ3_uUBLyLwEcRpLJKVEdzTdc",
-    "name": "Errahma",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Verviers",
-    "address": "Errahma, Rue du Peignage 30, 4800 Verviers",
-    "street": "Rue du Peignage 30",
-    "postal_code": "4800",
-    "region": null,
-    "latitude": 50.5905218,
-    "longitude": 5.846154299999999,
-    "phone": "087 54 12 44",
-    "website": "https://fr.masjidway.com/masjid/1991-mosquee-arrahma",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Errahma&query_place_id=ChIJ3_uUBLyLwEcRpLJKVEdzTdc",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcC63t_qP4BTGKgYE_YjUFRod_DybGpEPg4DPgH_eY9S848ZfuYhT4JbO646TZ5izEnK0EibC3V4Gf0DPIT8kKY078HINTQBDDlj5Dd6tqkzpfHWz7WMszA9GA7cUAO6EXBgMCFDBAvmdZB=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcC63t_qP4BTGKgYE_YjUFRod_DybGpEPg4DPgH_eY9S848ZfuYhT4JbO646TZ5izEnK0EibC3V4Gf0DPIT8kKY078HINTQBDDlj5Dd6tqkzpfHWz7WMszA9GA7cUAO6EXBgMCFDBAvmdZB=w1000-h750-no",
-    "rating": 4.7,
-    "review_count": 31,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
     "place_id": "ChIJx7nYPseLwEcR9o30ztVk1x4",
     "name": "Euroasia",
     "type": "restaurant",
@@ -8393,8 +8887,8 @@
     "phone": "087 22 23 84",
     "website": "http://www.boucheriegoeders.be/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Goeders&query_place_id=ChIJebuwncaLwEcRAQGa8JtdWAs",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcS8U4-YY8sMzVfwG8AWQrnTIRm1uh7SxQQYd2K3-PGFDPETPrkxxetgw_3m8sg4C8pYjGv_I6eLDT8XtNtc-2SmE1ae7SRRw48NUvrTzgwiRgDTN7iZKdx4m6dcI0c6KbyBcGJqg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcS8U4-YY8sMzVfwG8AWQrnTIRm1uh7SxQQYd2K3-PGFDPETPrkxxetgw_3m8sg4C8pYjGv_I6eLDT8XtNtc-2SmE1ae7SRRw48NUvrTzgwiRgDTN7iZKdx4m6dcI0c6KbyBcGJqg=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLclfvB2q44i1dd5hp7MuIlpsnsGF40gk_6sjGCoc8ivuGhjXocrqobjM58eSdeao7IwKtDUUYjtUAHhjH-iHCzEwr_Hq4A3c9IAgvUy8bPYAr0juqVdRI8HFp-7ohj0VjjgRdg4Kg=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLclfvB2q44i1dd5hp7MuIlpsnsGF40gk_6sjGCoc8ivuGhjXocrqobjM58eSdeao7IwKtDUUYjtUAHhjH-iHCzEwr_Hq4A3c9IAgvUy8bPYAr0juqVdRI8HFp-7ohj0VjjgRdg4Kg=w1000-h750-no",
     "rating": 4.6,
     "review_count": 89,
     "verification_status": "UNVERIFIED",
@@ -8702,6 +9196,32 @@
     "is_active": true,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ63D0bMCLwEcRXycT7aR8jcw",
+    "name": "Istanbul Market - Chez Ozdemir",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Verviers",
+    "address": "Istanbul Market - Chez Ozdemir, Rue de Hodimont 19, 4800 Verviers",
+    "street": "Rue de Hodimont 19",
+    "postal_code": "4800",
+    "region": null,
+    "latitude": 50.593373799999995,
+    "longitude": 5.8545758999999995,
+    "phone": "0497 07 71 58",
+    "website": "https://www.facebook.com/ISTANBUL-MARKET-644830408902823/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Istanbul%20Market%20-%20Chez%20Ozdemir&query_place_id=ChIJ63D0bMCLwEcRXycT7aR8jcw",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdaq3heAj1Lp2oq2eEXjF56-VPK_LbvweqXgt5oDbhH97x89qiwL7ACKERLImMIkoxZTIdu8pmo675Ut_GWCWcFd5j7Dce3zeFqeTYqF7NBRQWeG9XogtZ_nl9FX6TuNkYAsqbkOg=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdaq3heAj1Lp2oq2eEXjF56-VPK_LbvweqXgt5oDbhH97x89qiwL7ACKERLImMIkoxZTIdu8pmo675Ut_GWCWcFd5j7Dce3zeFqeTYqF7NBRQWeG9XogtZ_nl9FX6TuNkYAsqbkOg=w1000-h750-no",
+    "rating": 4.2,
+    "review_count": 82,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
   },
   {
     "place_id": "ChIJa6_07viLwEcRxUEwusZPBKg",
@@ -9183,8 +9703,8 @@
     "phone": "087 33 45 99",
     "website": "https://www.facebook.com/Boucherie-de-la-place-742348869127367/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20boucherie%20de%20la%20place&query_place_id=ChIJuVLyTueLwEcRVpjs2-0jRhA",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLctSIjUw5S3RsZNtd_pWUNvKa60tIQrCpV2AHKjkis_oItAEAnijx0OTRJN0B-D4PBG6XCy-xPQ_5RhZWXqW5nXnYRWD_Ko4CzEG05eGei4_079MJiWGAQiaWJEQuqG4jhBMq5G=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLctSIjUw5S3RsZNtd_pWUNvKa60tIQrCpV2AHKjkis_oItAEAnijx0OTRJN0B-D4PBG6XCy-xPQ_5RhZWXqW5nXnYRWD_Ko4CzEG05eGei4_079MJiWGAQiaWJEQuqG4jhBMq5G=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeMrPcJ7Yasws8etTQK-X7hiWCc5CIVsxGdsuDJndDAGtoESKKp8uAwM4msLb6wDfjbi6XRXgdxzwhSVUUc9hppzjijeyTs15HQG7Q2FFub15AhP64j0BmOXxGCJnO-Wg6ZyGMX=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeMrPcJ7Yasws8etTQK-X7hiWCc5CIVsxGdsuDJndDAGtoESKKp8uAwM4msLb6wDfjbi6XRXgdxzwhSVUUc9hppzjijeyTs15HQG7Q2FFub15AhP64j0BmOXxGCJnO-Wg6ZyGMX=w1000-h750-no",
     "rating": 4.6,
     "review_count": 28,
     "verification_status": "UNVERIFIED",
@@ -9917,396 +10437,6 @@
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcGpDYPqmfgAsjhHOwngMAmNZf9sdZk4iKg8q_VuYHzFg6jRx4w6xaSNEbVahCQrN1qbAj3yCAEPB5LzYcE_YSBHXHo4Fc_bdIwMy0xsHZyTp5jGM2v5ik9ozCe_qTMBAHo4aNxAtDEmAI=w1000-h750-no",
     "rating": 4.9,
     "review_count": 1005,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJt7ExmlyLwEcRtDPLAAMFoRw",
-    "name": "Mokawa",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Verviers",
-    "address": "Mokawa, Rue du Brou 4, 4800 Verviers",
-    "street": "Rue du Brou 4",
-    "postal_code": "4800",
-    "region": null,
-    "latitude": 50.592599199999995,
-    "longitude": 5.8595847,
-    "phone": "087 31 28 79",
-    "website": "https://www.mokawa.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mokawa&query_place_id=ChIJt7ExmlyLwEcRtDPLAAMFoRw",
-    "open_hours_json": {
-      "Monday": [
-        "8 am–6:30 pm"
-      ],
-      "Tuesday": [
-        "8 am–6:30 pm"
-      ],
-      "Wednesday": [
-        "8 am–6:30 pm"
-      ],
-      "Thursday": [
-        "8 am–6:30 pm"
-      ],
-      "Friday": [
-        "8 am–7 pm"
-      ],
-      "Saturday": [
-        "9 am–7 pm"
-      ],
-      "Sunday": [
-        "9 am–5 pm"
-      ]
-    },
-    "review_count": 161,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcEAVUXwPkvihUqO6MWaY1ZuNuyyh5tWUgNzrPeWDV212-Z0cT4taxRXtE6vkQnYDb0zSX9b-9pTSRXJ7W2eMqL_dnnJH1K4H0PX0ww1IhbnUm_KBrHvgTh84pRy6ml0JDVbJd5glcyB21n=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcEAVUXwPkvihUqO6MWaY1ZuNuyyh5tWUgNzrPeWDV212-Z0cT4taxRXtE6vkQnYDb0zSX9b-9pTSRXJ7W2eMqL_dnnJH1K4H0PX0ww1IhbnUm_KBrHvgTh84pRy6ml0JDVbJd5glcyB21n=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Verviers, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJzUorNwCLwEcRgQGzyOckoIo",
-    "name": "Moody's Shawarma House",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Verviers",
-    "address": "Moody's Shawarma House, Rue Chapuis 43, 4800 Verviers",
-    "street": "Rue Chapuis 43",
-    "postal_code": "4800",
-    "region": null,
-    "latitude": 50.5914815,
-    "longitude": 5.8574774,
-    "phone": "0470 69 26 31",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moody%27s%20Shawarma%20House&query_place_id=ChIJzUorNwCLwEcRgQGzyOckoIo",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfRnshySFDHUl3u8cuPicqankSWPVt-Khg1Pc83pIKe24jvlqM1WHTZsu5sCRgtkedb4h5E4MZlZk_9tWweLHhL3Gv9J1qR36D82AAKJM8pCzDU0QadlPI0-bCX1T8ollCMUkyEhVb3css=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfRnshySFDHUl3u8cuPicqankSWPVt-Khg1Pc83pIKe24jvlqM1WHTZsu5sCRgtkedb4h5E4MZlZk_9tWweLHhL3Gv9J1qR36D82AAKJM8pCzDU0QadlPI0-bCX1T8ollCMUkyEhVb3css=w1000-h750-no",
-    "rating": 4.9,
-    "review_count": 469,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJBbiNHWeLwEcRsGSx3Ks9fmE",
-    "name": "Mosque Assalam",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Verviers",
-    "address": "Mosque Assalam, Rue du Prince 26, 4800 Verviers",
-    "street": "Rue du Prince 26",
-    "postal_code": "4800",
-    "region": null,
-    "latitude": 50.598284199999995,
-    "longitude": 5.8756021,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mosque%20Assalam&query_place_id=ChIJBbiNHWeLwEcRsGSx3Ks9fmE",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcYMzl1AoDaHKrRX4-i7cZW1LQ3K7EeTOvGmCxmOQTfMCgyFNpwwqNNaMseO01HJAVdjcLlJVMMH0GCcVuVOdAINq9Ip-TSL6m6rXzcUOZsmqJa8GEtSFxr5qJpyQDda5oewRY-=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcYMzl1AoDaHKrRX4-i7cZW1LQ3K7EeTOvGmCxmOQTfMCgyFNpwwqNNaMseO01HJAVdjcLlJVMMH0GCcVuVOdAINq9Ip-TSL6m6rXzcUOZsmqJa8GEtSFxr5qJpyQDda5oewRY-=w1000-h750-no",
-    "rating": 4.4,
-    "review_count": 9,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJLfD1gb-LwEcRIO9Djlw59nw",
-    "name": "Mosque Sultan Ahmet",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Verviers",
-    "address": "Mosque Sultan Ahmet, Rue Lucien Defays 39, 4800 Verviers",
-    "street": "Rue Lucien Defays 39",
-    "postal_code": "4800",
-    "region": null,
-    "latitude": 50.592275199999996,
-    "longitude": 5.8530657,
-    "phone": "087 34 04 77",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mosque%20Sultan%20Ahmet&query_place_id=ChIJLfD1gb-LwEcRIO9Djlw59nw",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcoCgY0U-K455y--I3UMKs-hNrQx93wh4SuIfxlQYKMdCSaKwgImZNwNzrj091X1-iqCJDJhudTZBDP_DQxyiYgx6YwyHKlLWYlGCi1eha0sFL4_CldtLs_O-WiyF1vmJIzXE2d=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcoCgY0U-K455y--I3UMKs-hNrQx93wh4SuIfxlQYKMdCSaKwgImZNwNzrj091X1-iqCJDJhudTZBDP_DQxyiYgx6YwyHKlLWYlGCi1eha0sFL4_CldtLs_O-WiyF1vmJIzXE2d=w1000-h750-no",
-    "rating": 4.8,
-    "review_count": 20,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJE1KKDMCLwEcRSfV6mLZzZkE",
-    "name": "Mosquée Bilal",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Verviers",
-    "address": "Mosquée Bilal, Rue de Hodimont 47, 4800 Verviers",
-    "street": "Rue de Hodimont 47",
-    "postal_code": "4800",
-    "region": null,
-    "latitude": 50.5936453,
-    "longitude": 5.8542499,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mosqu%C3%A9e%20Bilal&query_place_id=ChIJE1KKDMCLwEcRSfV6mLZzZkE",
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rq15oT7GY5kFlgsbg_f-cQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=234.63132&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rq15oT7GY5kFlgsbg_f-cQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=234.63132&pitch=0&thumbfov=w1000-h750-no",
-    "rating": 4.7,
-    "review_count": 34,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJDZLrP3mLwEcRhqaMTB4witU",
-    "name": "Murmure",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Verviers",
-    "address": "Murmure, Av. Peltzer 41, 4800 Verviers",
-    "street": "Av. Peltzer 41",
-    "postal_code": "4800",
-    "region": null,
-    "latitude": 50.580739799999996,
-    "longitude": 5.8526421,
-    "phone": "087 33 43 33",
-    "website": "https://murmure.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Murmure&query_place_id=ChIJDZLrP3mLwEcRhqaMTB4witU",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "12–3 pm"
-      ],
-      "Thursday": [
-        "12–3 pm",
-        "7–11 pm"
-      ],
-      "Friday": [
-        "12–3 pm",
-        "7–11 pm"
-      ],
-      "Saturday": [
-        "7–11 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 66,
-    "rating": 4.8,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcivdBwt5470w1GHmzwSUVEzLlN0aYe46VnxQaYNLpRzSh67m6kOlyeJDklHS53x2Onfuy0pfZJVue-g-uIlknocMdXVERNFNiNyW07j4t3tfnfsW2fIjMA6hRCb495nMhQgsrNV9c02Dz_=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcivdBwt5470w1GHmzwSUVEzLlN0aYe46VnxQaYNLpRzSh67m6kOlyeJDklHS53x2Onfuy0pfZJVue-g-uIlknocMdXVERNFNiNyW07j4t3tfnfsW2fIjMA6hRCb495nMhQgsrNV9c02Dz_=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Verviers, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJL8GqvO6LwEcR3lfR-Qj_Bnk",
-    "name": "Newlocationsara",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Verviers",
-    "address": "Newlocationsara, Rue du Douzième de Ligne 12, 4800 Verviers",
-    "street": "Rue du Douzième de Ligne 12",
-    "postal_code": "4800",
-    "region": null,
-    "latitude": 50.590966699999996,
-    "longitude": 5.8768031999999994,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Newlocationsara&query_place_id=ChIJL8GqvO6LwEcR3lfR-Qj_Bnk",
-    "open_hours_json": null,
-    "review_count": 0,
-    "rating": null,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdH1x_Rh2B97vVKOwnRDHxOArHUQCBXVAOUTYY_oS46go6vKB_iXSEvLVjNi1KtQgIQaezdtoyltYXVYNeaH05w5MyBrjh7R1CWy1VEz0UiP1n2UP-d9QwLDAmDCEuVqI_C6WuG1LgFvzJq=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdH1x_Rh2B97vVKOwnRDHxOArHUQCBXVAOUTYY_oS46go6vKB_iXSEvLVjNi1KtQgIQaezdtoyltYXVYNeaH05w5MyBrjh7R1CWy1VEz0UiP1n2UP-d9QwLDAmDCEuVqI_C6WuG1LgFvzJq=w1000-h750-no",
-    "source_query": "Hypermarket in Verviers, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJb2iPt1uLwEcR4eLNsDfd1FI",
-    "name": "Nostra Pizzeria",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Verviers",
-    "address": "Nostra Pizzeria, Rue Jules Cerexhe 28, 4800 Verviers",
-    "street": "Rue Jules Cerexhe 28",
-    "postal_code": "4800",
-    "region": null,
-    "latitude": 50.5939055,
-    "longitude": 5.8505201,
-    "phone": "087 66 13 80",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Nostra%20Pizzeria&query_place_id=ChIJb2iPt1uLwEcR4eLNsDfd1FI",
-    "open_hours_json": {
-      "Monday": [
-        "12–2 pm",
-        "5:30–10:30 pm"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "12–2 pm",
-        "5:30–10:30 pm"
-      ],
-      "Thursday": [
-        "12–2 pm",
-        "5:30–10:30 pm"
-      ],
-      "Friday": [
-        "5:30–10:30 pm"
-      ],
-      "Saturday": [
-        "12–2 pm",
-        "5:30–10:30 pm"
-      ],
-      "Sunday": [
-        "5:30–10:30 pm"
-      ]
-    },
-    "review_count": 126,
-    "rating": 4.8,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLckt5dPdSe1oitnQDzLN0nJudsS3Gcp-bfPd-9ZzgPKqCe9N7NiuUPdL3iBbMuPI1s5zP8K8PYRz-1slvM8UDJUGm5r7iU6k0znr2YrE2AJVqdXRo3-DW9QURJ_Wzdww2DB6n11dLR0SUzj=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLckt5dPdSe1oitnQDzLN0nJudsS3Gcp-bfPd-9ZzgPKqCe9N7NiuUPdL3iBbMuPI1s5zP8K8PYRz-1slvM8UDJUGm5r7iU6k0znr2YrE2AJVqdXRo3-DW9QURJ_Wzdww2DB6n11dLR0SUzj=w1000-h750-no",
-    "source_query": "Fish restaurant in Verviers, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJP-Yc6_yLwEcRA9RrhzShHuo",
-    "name": "O'Quatre 8",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Verviers",
-    "address": "O'Quatre 8, Rue des Carmes 20, 4800 Verviers",
-    "street": "Rue des Carmes 20",
-    "postal_code": "4800",
-    "region": null,
-    "latitude": 50.5921253,
-    "longitude": 5.8663906,
-    "phone": "0465 83 38 22",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=O%27Quatre%208&query_place_id=ChIJP-Yc6_yLwEcRA9RrhzShHuo",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe5sTQW5sTE5QPoVctEXsCTUVeOJozEu_SP610S5t5ArOieGQLJL6w1WIBiwcvCHHGvbHM6TsEqjVNJfVqkzeOUTmsF-kCxHfchjrFHYfJ09i-ekMHFPpwD6ZV9wzaa2ICOmiWrQIuxtiI=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe5sTQW5sTE5QPoVctEXsCTUVeOJozEu_SP610S5t5ArOieGQLJL6w1WIBiwcvCHHGvbHM6TsEqjVNJfVqkzeOUTmsF-kCxHfchjrFHYfJ09i-ekMHFPpwD6ZV9wzaa2ICOmiWrQIuxtiI=w1000-h750-no",
-    "rating": 5.0,
-    "review_count": 2,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJ87OQNA6LwEcR_CaAc3XLDTs",
-    "name": "O'Tacos",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Verviers",
-    "address": "O'Tacos, Pl. Verte 2, 4800 Verviers",
-    "street": "Pl. Verte 2",
-    "postal_code": "4800",
-    "region": null,
-    "latitude": 50.592838099999994,
-    "longitude": 5.8620642,
-    "phone": "087 55 75 51",
-    "website": "http://www.otacos.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=O%27Tacos&query_place_id=ChIJ87OQNA6LwEcR_CaAc3XLDTs",
-    "open_hours_json": {
-      "Monday": [
-        "11:30 am–10 pm"
-      ],
-      "Tuesday": [
-        "11:30 am–10 pm"
-      ],
-      "Wednesday": [
-        "11:30 am–10 pm"
-      ],
-      "Thursday": [
-        "11:30 am–10 pm"
-      ],
-      "Friday": [
-        "11:30 am–10 pm"
-      ],
-      "Saturday": [
-        "11:30 am–10 pm"
-      ],
-      "Sunday": [
-        "11:30 am–10 pm"
-      ]
-    },
-    "review_count": 871,
-    "rating": 3.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeBAMvQ32S4LbUpx03NFmDYDkxUSJ3__ZN9V7TSAWbv1g8odyqoZyNWj4XL0_xqzHJU6D2E9KzdWFPksGLrlZ4-3OqHS0PmcZD_A6FXFMQwrjZupXvSIV_FOiFRaS9UnP1yhGI1=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeBAMvQ32S4LbUpx03NFmDYDkxUSJ3__ZN9V7TSAWbv1g8odyqoZyNWj4XL0_xqzHJU6D2E9KzdWFPksGLrlZ4-3OqHS0PmcZD_A6FXFMQwrjZupXvSIV_FOiFRaS9UnP1yhGI1=w1000-h750-no",
-    "source_query": "Halal restaurant in Verviers, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJuUWB_Q2LwEcRfZP4DMTJF4M",
-    "name": "O'Taksim",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Verviers",
-    "address": "O'Taksim, Rue de Heusy, 4800 Verviers",
-    "street": "Rue de Heusy",
-    "postal_code": "4800",
-    "region": null,
-    "latitude": 50.5910485,
-    "longitude": 5.8674405,
-    "phone": "0470 82 18 72",
-    "website": "https://www.facebook.com/OTaksim-105601835370968/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=O%27Taksim&query_place_id=ChIJuUWB_Q2LwEcRfZP4DMTJF4M",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfmlNetz28ZlDkOt3hbhkVl71RfNdiG5xE4jxk39f5IcsTX7Jxhjen7cAV384BU7zom2sFM37xeSMI2cfsYEwm7OmQPo3dwbfChpK8TxjuQsXrvuPn5Tq_DKnymQa8mnPFed27RNw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfmlNetz28ZlDkOt3hbhkVl71RfNdiG5xE4jxk39f5IcsTX7Jxhjen7cAV384BU7zom2sFM37xeSMI2cfsYEwm7OmQPo3dwbfChpK8TxjuQsXrvuPn5Tq_DKnymQa8mnPFed27RNw=w1000-h750-no",
-    "rating": 4.4,
-    "review_count": 77,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null,
     "is_active": true,

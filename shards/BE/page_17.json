@@ -1,5 +1,2382 @@
 [
   {
+    "place_id": "ChIJB9x9s883w0cRdU9jgseHdWo",
+    "name": "SB personal training",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Izegem",
+    "address": "SB personal training, Baronielaan 69, 8870 Izegem",
+    "street": "Baronielaan 69",
+    "postal_code": "8870",
+    "region": null,
+    "latitude": 50.908877999999994,
+    "longitude": 3.2204672999999997,
+    "phone": "0470 39 31 16",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=SB%20personal%20training&query_place_id=ChIJB9x9s883w0cRdU9jgseHdWo",
+    "open_hours_json": {
+      "Monday": [
+        "8:30 am–9 pm"
+      ],
+      "Tuesday": [
+        "6 am–9 pm"
+      ],
+      "Wednesday": [
+        "6 am–9 pm"
+      ],
+      "Thursday": [
+        "6 am–9:30 pm"
+      ],
+      "Friday": [
+        "6 am–7 pm"
+      ],
+      "Saturday": [
+        "Closed"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 0,
+    "rating": null,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdlqAHKY1kDpbfKMZ2i73fRlq7YPNc0e0_QIh4Z_1blr-SO1PtsYomkrIHpwSQkwGPaAIXjZOdCE4yG8EHFd8RijhmJrHlQovNirMzERMafBgIQotrVRVgCgZtU7WaMCrKwJUPh47D9GTCm=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdlqAHKY1kDpbfKMZ2i73fRlq7YPNc0e0_QIh4Z_1blr-SO1PtsYomkrIHpwSQkwGPaAIXjZOdCE4yG8EHFd8RijhmJrHlQovNirMzERMafBgIQotrVRVgCgZtU7WaMCrKwJUPh47D9GTCm=w1000-h750-no",
+    "source_query": "Pharmacy in Izegem, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJR3fxixw3w0cR0d4LVIk9j5w",
+    "name": "SIDHU DAGWINKEL IZEGEM",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Izegem",
+    "address": "SIDHU DAGWINKEL IZEGEM, Baron de Pélichystraat 13, 8870 Izegem",
+    "street": "Baron de Pélichystraat 13",
+    "postal_code": "8870",
+    "region": null,
+    "latitude": 50.9172217,
+    "longitude": 3.2128981999999997,
+    "phone": "0465 34 05 25",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=SIDHU%20DAGWINKEL%20IZEGEM&query_place_id=ChIJR3fxixw3w0cR0d4LVIk9j5w",
+    "open_hours_json": {
+      "Monday": [
+        "7 am–7 pm"
+      ],
+      "Tuesday": [
+        "7 am–7 pm"
+      ],
+      "Wednesday": [
+        "7 am–7 pm"
+      ],
+      "Thursday": [
+        "7 am–7 pm"
+      ],
+      "Friday": [
+        "7 am–7 pm"
+      ],
+      "Saturday": [
+        "7 am–7 pm"
+      ],
+      "Sunday": [
+        "7 am–7 pm"
+      ]
+    },
+    "review_count": 0,
+    "rating": null,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd9MqYopuVeOdVYHeG7m94NUtmRl65nh9yByVjpuDG0UURwifaGLFKNoj7Gqq3nJe5CeSsNgwKIcUwH5re2MIC3OIUeV4Hi1717T3B6SGaHsukPTkKQPuJTwJNBRyLh8VVfuRQTpY0mDnk=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd9MqYopuVeOdVYHeG7m94NUtmRl65nh9yByVjpuDG0UURwifaGLFKNoj7Gqq3nJe5CeSsNgwKIcUwH5re2MIC3OIUeV4Hi1717T3B6SGaHsukPTkKQPuJTwJNBRyLh8VVfuRQTpY0mDnk=w1000-h750-no",
+    "source_query": "Hypermarket in Izegem, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ1fp-XD43w0cRIERg0qbXg8Y",
+    "name": "SPAR Bosmolens",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Izegem",
+    "address": "SPAR Bosmolens, Karel de Goedelaan 11, 8870 Izegem",
+    "street": "Karel de Goedelaan 11",
+    "postal_code": "8870",
+    "region": null,
+    "latitude": 50.9040069,
+    "longitude": 3.1984444,
+    "phone": "051 32 16 03",
+    "website": "https://www.mijnspar.be/winkels/spar-izegem",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=SPAR%20Bosmolens&query_place_id=ChIJ1fp-XD43w0cRIERg0qbXg8Y",
+    "open_hours_json": {
+      "Monday": [
+        "1–7 pm"
+      ],
+      "Tuesday": [
+        "7 am–7 pm"
+      ],
+      "Wednesday": [
+        "7 am–7 pm"
+      ],
+      "Thursday": [
+        "7 am–7 pm"
+      ],
+      "Friday": [
+        "7 am–7 pm"
+      ],
+      "Saturday": [
+        "7 am–6:30 pm"
+      ],
+      "Sunday": [
+        "7 am–12:30 pm"
+      ]
+    },
+    "review_count": 188,
+    "rating": 4.4,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcwyj1jJ-WGo78UmNxNimIwrxgc1iseom-Y-mBt7hOKg1ShjQv4s-r-yM9yGTQJ7q8AtopB_eVMF7f_ecEpfjN6uDv5YdeLQrM_yzw9l51uESo1IHWhIG36JNhewDbaN-w6OYcg=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcwyj1jJ-WGo78UmNxNimIwrxgc1iseom-Y-mBt7hOKg1ShjQv4s-r-yM9yGTQJ7q8AtopB_eVMF7f_ecEpfjN6uDv5YdeLQrM_yzw9l51uESo1IHWhIG36JNhewDbaN-w6OYcg=w1000-h750-no",
+    "source_query": "Hypermarket in Izegem, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJUXkVhII3w0cRIPBhh5p6HqY",
+    "name": "SPAR Emelgem",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Izegem",
+    "address": "SPAR Emelgem, Baronstraat 116, 8870 Izegem",
+    "street": "Baronstraat 116",
+    "postal_code": "8870",
+    "region": null,
+    "latitude": 50.927595399999994,
+    "longitude": 3.2197185,
+    "phone": "051 31 68 01",
+    "website": "https://www.mijnspar.be/winkels/spar-emelgem",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=SPAR%20Emelgem&query_place_id=ChIJUXkVhII3w0cRIPBhh5p6HqY",
+    "open_hours_json": {
+      "Monday": [
+        "7 am–7 pm"
+      ],
+      "Tuesday": [
+        "7 am–7 pm"
+      ],
+      "Wednesday": [
+        "7 am–7 pm"
+      ],
+      "Thursday": [
+        "7 am–7 pm"
+      ],
+      "Friday": [
+        "7 am–7 pm"
+      ],
+      "Saturday": [
+        "7 am–7 pm"
+      ],
+      "Sunday": [
+        "7 am–12:15 pm"
+      ]
+    },
+    "review_count": 344,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcI_kEjK5UOxFcg7xCunnkJz3DplvxkTn0LgEsQg7qjw-RKSDb4RG4aRk4z_lNZuk7UADdWm_7PFEoPXEMkpTx0Cr4NKKaltm_p1C54-p_a7DTrRFqI4vRZdES7qluGme_lkYAT=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcI_kEjK5UOxFcg7xCunnkJz3DplvxkTn0LgEsQg7qjw-RKSDb4RG4aRk4z_lNZuk7UADdWm_7PFEoPXEMkpTx0Cr4NKKaltm_p1C54-p_a7DTrRFqI4vRZdES7qluGme_lkYAT=w1000-h750-no",
+    "source_query": "Hypermarket in Izegem, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJO4Hypi44w0cRFTeCzWdFk6Q",
+    "name": "Salons Gistelhove",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Izegem",
+    "address": "Salons Gistelhove, Wielewaalstraat 18, 8870 Izegem",
+    "street": "Wielewaalstraat 18",
+    "postal_code": "8870",
+    "region": null,
+    "latitude": 50.9302681,
+    "longitude": 3.2363904,
+    "phone": "051 30 18 77",
+    "website": "http://www.gistelhove.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Salons%20Gistelhove&query_place_id=ChIJO4Hypi44w0cRFTeCzWdFk6Q",
+    "open_hours_json": null,
+    "review_count": 157,
+    "rating": 4.1,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdxJ4wk0iCFYxZisGybr8dbFTdWeKP3wde1tFOn5jOZRdDDeOXgYt2yLf2burUupd4WKTp-ITMyo4xlVCTTtEojpcuI-f8KKCE1jBHbYUZqGnkfuIrmO-ePf5wMq1G-pB_YAT0h=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdxJ4wk0iCFYxZisGybr8dbFTdWeKP3wde1tFOn5jOZRdDDeOXgYt2yLf2burUupd4WKTp-ITMyo4xlVCTTtEojpcuI-f8KKCE1jBHbYUZqGnkfuIrmO-ePf5wMq1G-pB_YAT0h=w1000-h750-no",
+    "source_query": "Fish restaurant in Izegem, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ5-CkDXM3w0cRxJTxJnVp_OU",
+    "name": "Show Asia",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Izegem",
+    "address": "Show Asia, Roeselaarsestraat 146, 8870 Izegem",
+    "street": "Roeselaarsestraat 146",
+    "postal_code": "8870",
+    "region": null,
+    "latitude": 50.9200133,
+    "longitude": 3.2068121,
+    "phone": "051 62 38 89",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Show%20Asia&query_place_id=ChIJ5-CkDXM3w0cRxJTxJnVp_OU",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "4–10 pm"
+      ],
+      "Wednesday": [
+        "4–10 pm"
+      ],
+      "Thursday": [
+        "4–10 pm"
+      ],
+      "Friday": [
+        "4–10 pm"
+      ],
+      "Saturday": [
+        "10 am–10 pm"
+      ],
+      "Sunday": [
+        "4–10 pm"
+      ]
+    },
+    "review_count": 26,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdThS_AgAUVMYpJt8E8aobTJMKnmbn6CchkUzr645mnJhd7adcVpo7v7K5bTTUcVdRs9h_Eou1sPejdcEqvn9PC0EEFofWIg5cn9xFrbkQikoMB3-8zRidtt02-AKzEfUKXwH1a_S4PeIQr=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdThS_AgAUVMYpJt8E8aobTJMKnmbn6CchkUzr645mnJhd7adcVpo7v7K5bTTUcVdRs9h_Eou1sPejdcEqvn9PC0EEFofWIg5cn9xFrbkQikoMB3-8zRidtt02-AKzEfUKXwH1a_S4PeIQr=w1000-h750-no",
+    "source_query": "Hypermarket in Izegem, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJb6w61U43w0cR9DYYTg1zAMo",
+    "name": "Snack Istanbul",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Izegem",
+    "address": "Snack Istanbul, Wolvestraat 6, 8870 Izegem",
+    "street": "Wolvestraat 6",
+    "postal_code": "8870",
+    "region": null,
+    "latitude": 50.9207538,
+    "longitude": 3.2157315,
+    "phone": "0483 27 12 03",
+    "website": "https://snack-istanbul.metro.biz/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Snack%20Istanbul&query_place_id=ChIJb6w61U43w0cR9DYYTg1zAMo",
+    "open_hours_json": null,
+    "review_count": 3,
+    "rating": 4.0,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2-eAN4y64JS6D35A2bh-uA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=161.36629&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2-eAN4y64JS6D35A2bh-uA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=161.36629&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Halal restaurant in Izegem, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata"
+  },
+  {
+    "place_id": "ChIJF-WfEXU3w0cR2cFo6h1et04",
+    "name": "Sodiap BV",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Izegem",
+    "address": "Sodiap BV, Noordkaai 9, 8870 Izegem",
+    "street": "Noordkaai 9",
+    "postal_code": "8870",
+    "region": null,
+    "latitude": 50.9249686,
+    "longitude": 3.2069991,
+    "phone": "051 33 84 00",
+    "website": "http://www.sodiap.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Sodiap%20BV&query_place_id=ChIJF-WfEXU3w0cR2cFo6h1et04",
+    "open_hours_json": null,
+    "review_count": 0,
+    "rating": null,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oVVT5DsmAAmiL0X-JuTCKQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=248.59761&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oVVT5DsmAAmiL0X-JuTCKQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=248.59761&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Pharmacy in Izegem, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJg0TrxKU3w0cRqIJw9WaNcgM",
+    "name": "Spar Kachtem",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Izegem",
+    "address": "Spar Kachtem, Sint-Jansstraat 29, 8870 Izegem",
+    "street": "Sint-Jansstraat 29",
+    "postal_code": "8870",
+    "region": null,
+    "latitude": 50.933344899999994,
+    "longitude": 3.1956176,
+    "phone": "051 30 37 80",
+    "website": "https://www.mijnspar.be/winkels/spar-kachtem",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Spar%20Kachtem&query_place_id=ChIJg0TrxKU3w0cRqIJw9WaNcgM",
+    "open_hours_json": {
+      "Monday": [
+        "7 am–7 pm"
+      ],
+      "Tuesday": [
+        "7 am–7 pm"
+      ],
+      "Wednesday": [
+        "7 am–7 pm"
+      ],
+      "Thursday": [
+        "7 am–7 pm"
+      ],
+      "Friday": [
+        "7 am–7 pm"
+      ],
+      "Saturday": [
+        "7 am–7 pm"
+      ],
+      "Sunday": [
+        "7 am–12:15 pm"
+      ]
+    },
+    "review_count": 314,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdFx15bocLKZR9SRPabA7Oau0Z48DagkWqobTG3SLWcncVvDIMPw8UfNisC2tRhvVYvR1xydRC4zEVs2TEZ0u-NM8xnsESSDNRX0qFwsez_XepOYdKU5Shf36b_LV7XcZQYcLCD=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdFx15bocLKZR9SRPabA7Oau0Z48DagkWqobTG3SLWcncVvDIMPw8UfNisC2tRhvVYvR1xydRC4zEVs2TEZ0u-NM8xnsESSDNRX0qFwsez_XepOYdKU5Shf36b_LV7XcZQYcLCD=w1000-h750-no",
+    "source_query": "Hypermarket in Izegem, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJhTNKn3E3w0cRJiU9Cd1JFSg",
+    "name": "St. Joseph Clinic Izegem",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Izegem",
+    "address": "St. Joseph Clinic Izegem, Ommegangstraat 7, 8870 Izegem",
+    "street": "Ommegangstraat 7",
+    "postal_code": "8870",
+    "region": null,
+    "latitude": 50.9180686,
+    "longitude": 3.2104812999999996,
+    "phone": "051 33 41 11",
+    "website": "http://www.sint-jozefskliniek-izegem.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=St.%20Joseph%20Clinic%20Izegem&query_place_id=ChIJhTNKn3E3w0cRJiU9Cd1JFSg",
+    "open_hours_json": {
+      "Monday": [
+        "Open 24 hours"
+      ],
+      "Tuesday": [
+        "Open 24 hours"
+      ],
+      "Wednesday": [
+        "Open 24 hours"
+      ],
+      "Thursday": [
+        "Open 24 hours"
+      ],
+      "Friday": [
+        "Open 24 hours"
+      ],
+      "Saturday": [
+        "Open 24 hours"
+      ],
+      "Sunday": [
+        "Open 24 hours"
+      ]
+    },
+    "review_count": 106,
+    "rating": 3.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLep7qBx7HJNFVcMlF9TXtUSdFWcIAqxD8xAmuglwP-sro4wReeL8URnE8Y7kkDzw9QH9rJyFA8WBpZS_w8KVFA3rdTwq-E33dtSIjS9M-aSvrDN-rlZtLDmkFymLqVBSkpZCls=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLep7qBx7HJNFVcMlF9TXtUSdFWcIAqxD8xAmuglwP-sro4wReeL8URnE8Y7kkDzw9QH9rJyFA8WBpZS_w8KVFA3rdTwq-E33dtSIjS9M-aSvrDN-rlZtLDmkFymLqVBSkpZCls=w1000-h750-no",
+    "source_query": "Pharmacy in Izegem, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJL4tsmHA3w0cR0Jdqmzu0FSE",
+    "name": "T kopje koffie",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Izegem",
+    "address": "T kopje koffie, Grote Markt 12, 8870 Izegem",
+    "street": "Grote Markt 12",
+    "postal_code": "8870",
+    "region": null,
+    "latitude": 50.919858399999995,
+    "longitude": 3.2159057,
+    "phone": "051 69 79 95",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=T%20kopje%20koffie&query_place_id=ChIJL4tsmHA3w0cR0Jdqmzu0FSE",
+    "open_hours_json": {
+      "Monday": [
+        "11:30 am–6 pm"
+      ],
+      "Tuesday": [
+        "11:30 am–6 pm"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "11:30 am–6 pm"
+      ],
+      "Friday": [
+        "11:30 am–6 pm"
+      ],
+      "Saturday": [
+        "9 am–6 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 59,
+    "rating": 4.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdollkznmOee5iBGmrkrqTcfItbKUkIevJcZruMezF_oEkxqmYA8Ezl_NSZIPuZNtOKDSBnPaTf_-9YmLnFwB1QbTwKYn39c-Kk9pXM85-Lz6zRdHMZwFub4traD_axdmR7O9UI3ZEpqvOG=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdollkznmOee5iBGmrkrqTcfItbKUkIevJcZruMezF_oEkxqmYA8Ezl_NSZIPuZNtOKDSBnPaTf_-9YmLnFwB1QbTwKYn39c-Kk9pXM85-Lz6zRdHMZwFub4traD_axdmR7O9UI3ZEpqvOG=w1000-h750-no",
+    "source_query": "Halal restaurant in Izegem, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJl7jixKU3w0cRvUEbHIZM-XY",
+    "name": "Taillieu P.",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Izegem",
+    "address": "Taillieu P., Sint-Jansstraat 29, 8870 Izegem",
+    "street": "Sint-Jansstraat 29",
+    "postal_code": "8870",
+    "region": null,
+    "latitude": 50.9329745,
+    "longitude": 3.1953068,
+    "phone": "051 30 37 80",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Taillieu%20P.&query_place_id=ChIJl7jixKU3w0cRvUEbHIZM-XY",
+    "open_hours_json": {
+      "Monday": [
+        "8:30 am–7 pm"
+      ],
+      "Tuesday": [
+        "8:30 am–7 pm"
+      ],
+      "Wednesday": [
+        "8:30 am–7 pm"
+      ],
+      "Thursday": [
+        "8:30 am–7 pm"
+      ],
+      "Friday": [
+        "8:30 am–7 pm"
+      ],
+      "Saturday": [
+        "8:30 am–7 pm"
+      ],
+      "Sunday": [
+        "9 am–12 pm"
+      ]
+    },
+    "review_count": 3,
+    "rating": 4.3,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=P0sVIbiBnvSKQhko42TenQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=319.69507&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=P0sVIbiBnvSKQhko42TenQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=319.69507&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Hypermarket in Izegem, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJjSG7JpU3w0cRmMn9ErqOfbI",
+    "name": "Taste Garden Izegem",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Izegem",
+    "address": "Taste Garden Izegem, Kortrijksestraat 276, 8870 Izegem",
+    "street": "Kortrijksestraat 276",
+    "postal_code": "8870",
+    "region": null,
+    "latitude": 50.9047889,
+    "longitude": 3.2196887999999997,
+    "phone": "0460 97 30 88",
+    "website": "http://www.tastegarden.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Taste%20Garden%20Izegem&query_place_id=ChIJjSG7JpU3w0cRmMn9ErqOfbI",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "11:30 am–2:30 pm",
+        "6–10 pm"
+      ],
+      "Wednesday": [
+        "11:30 am–2:30 pm",
+        "6–10 pm"
+      ],
+      "Thursday": [
+        "11:30 am–2:30 pm",
+        "6–10 pm"
+      ],
+      "Friday": [
+        "11:30 am–2:30 pm",
+        "6–11 pm"
+      ],
+      "Saturday": [
+        "11:30 am–2:30 pm",
+        "6–11 pm"
+      ],
+      "Sunday": [
+        "11:30 am–4 pm",
+        "6–10 pm"
+      ]
+    },
+    "review_count": 704,
+    "rating": 4.1,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLev9hrw3e2f8-UOizKGh8muH8uFArJgZ00ZaUiQGyNADgAkopcJx8Voj06u7gHsW96Fd_Jxm5MFPrvWf91A3Z-DjKXGJgeMDJLy8wYlrHmUWSDCscWo6roIcAKngasDA5zqf1UOCQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLev9hrw3e2f8-UOizKGh8muH8uFArJgZ00ZaUiQGyNADgAkopcJx8Voj06u7gHsW96Fd_Jxm5MFPrvWf91A3Z-DjKXGJgeMDJLy8wYlrHmUWSDCscWo6roIcAKngasDA5zqf1UOCQ=w1000-h750-no",
+    "source_query": "Halal restaurant in Izegem, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJnUxbjkA3w0cRCvrw8PLtIJQ",
+    "name": "Te lande",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Izegem",
+    "address": "Te lande, Gapaardstraat 30, 8870 Izegem",
+    "street": "Gapaardstraat 30",
+    "postal_code": "8870",
+    "region": null,
+    "latitude": 50.9030728,
+    "longitude": 3.2019723,
+    "phone": "0474 58 38 56",
+    "website": "http://roood.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Te%20lande&query_place_id=ChIJnUxbjkA3w0cRCvrw8PLtIJQ",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "6–9 pm"
+      ],
+      "Thursday": [
+        "6–9 pm"
+      ],
+      "Friday": [
+        "6–9 pm"
+      ],
+      "Saturday": [
+        "6–9 pm"
+      ],
+      "Sunday": [
+        "12–2 pm",
+        "6–9 pm"
+      ]
+    },
+    "review_count": 188,
+    "rating": 4.1,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe6aRxQT3tVad1DdNT-UcdTTZ6o5_VeNX-rkAOH1-KNCVRxKatSLlquS4APKtvBX6pusjb9oNVC2cB91C8g9-g3duLiElyZhzl1ZBn3elillh_241xjno05XmH2r9xUo7_wKXunPA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe6aRxQT3tVad1DdNT-UcdTTZ6o5_VeNX-rkAOH1-KNCVRxKatSLlquS4APKtvBX6pusjb9oNVC2cB91C8g9-g3duLiElyZhzl1ZBn3elillh_241xjno05XmH2r9xUo7_wKXunPA=w1000-h750-no",
+    "source_query": "Halal restaurant in Izegem, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ7y6Bgv83w0cRAw1faRR4-90",
+    "name": "The GreenHouse",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Izegem",
+    "address": "The GreenHouse, Reperstraat 2, 8870 Izegem",
+    "street": "Reperstraat 2",
+    "postal_code": "8870",
+    "region": null,
+    "latitude": 50.925011399999995,
+    "longitude": 3.2172329,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=The%20GreenHouse&query_place_id=ChIJ7y6Bgv83w0cRAw1faRR4-90",
+    "open_hours_json": null,
+    "review_count": 0,
+    "rating": null,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yIXAgnGI3gSoPzW737FY7w&cb_client=search.gws-prod.grass&w=80&h=92&yaw=72.57391&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yIXAgnGI3gSoPzW737FY7w&cb_client=search.gws-prod.grass&w=80&h=92&yaw=72.57391&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Hypermarket in Izegem, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJRbXUB5A3w0cRYiRD-LHhftQ",
+    "name": "izegem sushi 🍣 🇧🇪",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Izegem",
+    "address": "izegem sushi 🍣 🇧🇪, Burgemeester Vandenbogaerdelaan 2, 8870 Izegem",
+    "street": "Burgemeester Vandenbogaerdelaan 2",
+    "postal_code": "8870",
+    "region": null,
+    "latitude": 50.9159261,
+    "longitude": 3.2116306999999997,
+    "phone": "051 69 66 99",
+    "website": "https://www.izegemsushi.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=izegem%20sushi%20%F0%9F%8D%A3%20%F0%9F%87%A7%F0%9F%87%AA&query_place_id=ChIJRbXUB5A3w0cRYiRD-LHhftQ",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "Closed"
+      ],
+      "Friday": [
+        "Closed"
+      ],
+      "Saturday": [
+        "Closed"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 91,
+    "rating": 4.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc5jCnvVGOSVJJUmiIcloP5FUQxYidTvoCCfQQwdGY7-oG-gct-MWGxgqEQwN0XanlRGw67y3peLO-TPwyhdLOFheJMf1tFfK0ZfTvDnk2JzN4PZ4l2ilOgE99OaJ9_EQRDvUoO=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc5jCnvVGOSVJJUmiIcloP5FUQxYidTvoCCfQQwdGY7-oG-gct-MWGxgqEQwN0XanlRGw67y3peLO-TPwyhdLOFheJMf1tFfK0ZfTvDnk2JzN4PZ4l2ilOgE99OaJ9_EQRDvUoO=w1000-h750-no",
+    "source_query": "Fish restaurant in Izegem, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJJbBm8SxiwEcR9xMcALXmUJA",
+    "name": "L'O de source",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Jalhay",
+    "address": "L'O de source, Station 32, 4845 Jalhay",
+    "street": "Station 32",
+    "postal_code": "4845",
+    "region": null,
+    "latitude": 50.5006937,
+    "longitude": 5.9565341,
+    "phone": "087 22 11 39",
+    "website": "http://lodesource.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=L%27O%20de%20source&query_place_id=ChIJJbBm8SxiwEcR9xMcALXmUJA",
+    "open_hours_json": null,
+    "review_count": 242,
+    "rating": 4.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdANuejRbPRYIUpGpabwA4ZGmlV4sJfZaZXHrMidrBSFIbYCXOXK16g1bxbq1zoF4fO24zAbrwg_MK8x7qM90vKsOH-BxZNdZ2B7mUzNWbOsdm6zCwSxBWFYpdE1rGWwBNa9kiX=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdANuejRbPRYIUpGpabwA4ZGmlV4sJfZaZXHrMidrBSFIbYCXOXK16g1bxbq1zoF4fO24zAbrwg_MK8x7qM90vKsOH-BxZNdZ2B7mUzNWbOsdm6zCwSxBWFYpdE1rGWwBNa9kiX=w1000-h750-no",
+    "source_query": "Fish restaurant in Spa, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJy4vJhsxhwEcRhhJB6uGyylw",
+    "name": "La Pêcherie de Foyeuru",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Jalhay",
+    "address": "La Pêcherie de Foyeuru, Foyeuru 15, 4845 Jalhay",
+    "street": "Foyeuru 15",
+    "postal_code": "4845",
+    "region": null,
+    "latitude": 50.570271,
+    "longitude": 5.9584443,
+    "phone": "087 64 75 20",
+    "website": "https://foyeuru.wixsite.com/pecheriedefoyeuru",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20P%C3%AAcherie%20de%20Foyeuru&query_place_id=ChIJy4vJhsxhwEcRhhJB6uGyylw",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "Closed"
+      ],
+      "Friday": [
+        "Closed"
+      ],
+      "Saturday": [
+        "7 am–7 pm"
+      ],
+      "Sunday": [
+        "7 am–7 pm"
+      ]
+    },
+    "review_count": 168,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc-VjdlL1Vjw0y5QxqjIaC9-XMqaCvRhCWngUzVln7QeXrAlQRWm9ez43mfVv0V4mfexrgsVv8S5jK6-EByADPAaPGt25jHky6acPXGXufu1-cU1qR9UYAiWq6LVey6oejZ2OH_=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc-VjdlL1Vjw0y5QxqjIaC9-XMqaCvRhCWngUzVln7QeXrAlQRWm9ez43mfVv0V4mfexrgsVv8S5jK6-EByADPAaPGt25jHky6acPXGXufu1-cU1qR9UYAiWq6LVey6oejZ2OH_=w1000-h750-no",
+    "source_query": "Fish restaurant in Limbourg, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ_SPeFSNzwUcRdFWPuzFq9HM",
+    "name": "Les Merveilles du Maghreb Orient",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Jauche",
+    "address": "Les Merveilles du Maghreb Orient, N240 10, 1350 Jauche",
+    "street": "N240 10",
+    "postal_code": "1350",
+    "region": null,
+    "latitude": 50.6821102,
+    "longitude": 4.955776999999999,
+    "phone": "0474 86 52 05",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les%20Merveilles%20du%20Maghreb%20Orient&query_place_id=ChIJ_SPeFSNzwUcRdFWPuzFq9HM",
+    "open_hours_json": null,
+    "review_count": 19,
+    "rating": 4.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLer8TeetAbyzZrz921Vb3wWMYJKyH3qgodgWUl_VNoqWgW6eX_5q52E5HGHr9jC5Sn22aULHDqKGnyALlhWnScYhUSyG2rLhgxI5tpPuIh76Fx8Tzw_p_IjoqeqV1UbvYOcq7k=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLer8TeetAbyzZrz921Vb3wWMYJKyH3qgodgWUl_VNoqWgW6eX_5q52E5HGHr9jC5Sn22aULHDqKGnyALlhWnScYhUSyG2rLhgxI5tpPuIh76Fx8Tzw_p_IjoqeqV1UbvYOcq7k=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Jodoigne, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ-c1oRQ35wEcRIPss1gYpnck",
+    "name": "Quick shop jemeppe",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Jemeppe-sur-Meuse",
+    "address": "Quick shop jemeppe, Rue Bois de Mont 361, 4101 Jemeppe",
+    "street": "Rue Bois de Mont 361",
+    "postal_code": "4101",
+    "region": null,
+    "latitude": 50.6176068,
+    "longitude": 5.4815954,
+    "phone": "0485 20 46 66",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Quick%20shop%20jemeppe&query_place_id=ChIJ-c1oRQ35wEcRIPss1gYpnck",
+    "open_hours_json": {
+      "Monday": [
+        "11 am–12 am"
+      ],
+      "Tuesday": [
+        "11 am–12 am"
+      ],
+      "Wednesday": [
+        "11 am–12 am"
+      ],
+      "Thursday": [
+        "11 am–12 am"
+      ],
+      "Friday": [
+        "11 am–12 am"
+      ],
+      "Saturday": [
+        "11 am–12 am"
+      ],
+      "Sunday": [
+        "11 am–12 am"
+      ]
+    },
+    "review_count": 0,
+    "rating": null,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vXb_U9FIxTHhcQWf2kD-xA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=192.54419&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vXb_U9FIxTHhcQWf2kD-xA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=192.54419&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Hypermarket in Mons-lez-Liège, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJr86z-G-FwUcRjYjF31keiM0",
+    "name": "Intermarché Spy",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Jemeppe-sur-Sambre",
+    "address": "Intermarché Spy, Rte de Saussin 45, 5190 Jemeppe-sur-Sambre",
+    "street": "Rte de Saussin 45",
+    "postal_code": "5190",
+    "region": null,
+    "latitude": 50.4921009,
+    "longitude": 4.718060599999999,
+    "phone": "071 78 74 39",
+    "website": "https://www.intermarche.be/magasins/intermarche-spy-2/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Intermarch%C3%A9%20Spy&query_place_id=ChIJr86z-G-FwUcRjYjF31keiM0",
+    "open_hours_json": {
+      "Monday": [
+        "8:30 am–8 pm"
+      ],
+      "Tuesday": [
+        "8:30 am–8 pm"
+      ],
+      "Wednesday": [
+        "8:30 am–8 pm"
+      ],
+      "Thursday": [
+        "8:30 am–8 pm"
+      ],
+      "Friday": [
+        "8:30 am–8 pm"
+      ],
+      "Saturday": [
+        "8:30 am–8 pm"
+      ],
+      "Sunday": [
+        "8:30 am–8 pm"
+      ]
+    },
+    "review_count": 272,
+    "rating": 4.4,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfs-U_dIsItmQL102cmAyC4VWinjSnru8jSgA8xRf_IFLEJ33dErvvy5_Dubi3evgrPhOxIFgyvPZjRE7EQe5zCsXayvi2-XkSxCzF8pUyuiqLrW4nQiN93ZCB3UePI88Cnw9bPMQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfs-U_dIsItmQL102cmAyC4VWinjSnru8jSgA8xRf_IFLEJ33dErvvy5_Dubi3evgrPhOxIFgyvPZjRE7EQe5zCsXayvi2-XkSxCzF8pUyuiqLrW4nQiN93ZCB3UePI88Cnw9bPMQ=w1000-h750-no",
+    "source_query": "Hypermarket in Gembloux, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJD02u6dzDw0cRSP9AD7MGocY",
+    "name": "Almas al Sham 🇸🇾",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Jette",
+    "address": "Almas al Sham 🇸🇾, Jetselaan 314, 1090 Jette",
+    "street": "Jetselaan 314",
+    "postal_code": "1090",
+    "region": null,
+    "latitude": 50.8733333,
+    "longitude": 4.323353099999999,
+    "phone": "0466 58 13 00",
+    "website": "https://www.facebook.com/Almas-Alsham-694661897406894/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Almas%20al%20Sham%20%F0%9F%87%B8%F0%9F%87%BE&query_place_id=ChIJD02u6dzDw0cRSP9AD7MGocY",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLes3e6e5UMhUeCrba7fdogejpEy9FYOTtC15ux_ic_1LeAZK7APKKT73fdMUSQc2AS8lVm4a5VdBjvwMTqc0H6YFuD4d1sHH1K2mAzWqkJevCGFbozZcXowYhPgPe5JsfXEoWtW=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLes3e6e5UMhUeCrba7fdogejpEy9FYOTtC15ux_ic_1LeAZK7APKKT73fdMUSQc2AS8lVm4a5VdBjvwMTqc0H6YFuD4d1sHH1K2mAzWqkJevCGFbozZcXowYhPgPe5JsfXEoWtW=w1000-h750-no",
+    "rating": 4.1,
+    "review_count": 688,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJMxmI7cTDw0cR1nFTJ08QWVc",
+    "name": "Aux Délices De Fès",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Jette",
+    "address": "Aux Délices De Fès, Rue Léon Theodor 122, 1090 Jette",
+    "street": "Léon Theodorstraat 122",
+    "postal_code": "1090",
+    "region": null,
+    "latitude": 50.8764362,
+    "longitude": 4.3278281,
+    "phone": "0467 72 91 90",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Aux%20D%C3%A9lices%20De%20F%C3%A8s&query_place_id=ChIJMxmI7cTDw0cR1nFTJ08QWVc",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe0Rqq0gSARz8oZ59qoWFDKqNX-fE7yq7TiPIUIoKcRW009N07_DBYk--nvLBLFpqb_KIvMlIrcwSr4VvPdHvdsCjidSs0hfUQpiuaAV7mEoipHWG792M3XkPSODxAnDyt_3Ix2eA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe0Rqq0gSARz8oZ59qoWFDKqNX-fE7yq7TiPIUIoKcRW009N07_DBYk--nvLBLFpqb_KIvMlIrcwSr4VvPdHvdsCjidSs0hfUQpiuaAV7mEoipHWG792M3XkPSODxAnDyt_3Ix2eA=w1000-h750-no",
+    "rating": 4.4,
+    "review_count": 278,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJlercNGPDw0cRPW1DdhIasHw",
+    "name": "BXL STEAK HOUSE - RESTAURANT À BRUXELLES - RESTAURANT HALAL",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Jette",
+    "address": "BXL STEAK HOUSE - RESTAURANT À BRUXELLES - RESTAURANT HALAL, Chau. de Jette 596, 1090 Jette",
+    "street": "Jetsesteenweg 596",
+    "postal_code": "1090",
+    "region": null,
+    "latitude": 50.872282899999995,
+    "longitude": 4.3256165,
+    "phone": "0469 16 85 33",
+    "website": "http://www.bruxellessteakhouse.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=BXL%20STEAK%20HOUSE%20-%20RESTAURANT%20%C3%80%20BRUXELLES%20-%20RESTAURANT%20HALAL&query_place_id=ChIJlercNGPDw0cRPW1DdhIasHw",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfLCtnz7u1nyiCaoUNJA1MRKVZ785TQn_Sg7UBg-b7obOts8hecf38DK9pdCuK3RUW6x9qk7gBRyPjI2HjGgK3II7WmC8HKwJTb6xCqZ8rER_r_0VyZYuYAe9SAJUik-UlRUXi88w=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfLCtnz7u1nyiCaoUNJA1MRKVZ785TQn_Sg7UBg-b7obOts8hecf38DK9pdCuK3RUW6x9qk7gBRyPjI2HjGgK3II7WmC8HKwJTb6xCqZ8rER_r_0VyZYuYAe9SAJUik-UlRUXi88w=w1000-h750-no",
+    "rating": 4.4,
+    "review_count": 747,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJ0fJlkerDw0cRqWy8wCmYZvI",
+    "name": "Beenhouwerij Hamza",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Jette",
+    "address": "Beenhouwerij Hamza, Firmin Lecharlierlaan 177, 1090 Jette",
+    "street": "Firmin Lecharlierlaan 177",
+    "postal_code": "1090",
+    "region": null,
+    "latitude": 50.8685021,
+    "longitude": 4.3347014999999995,
+    "phone": "0467 88 30 00",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Beenhouwerij%20Hamza&query_place_id=ChIJ0fJlkerDw0cRqWy8wCmYZvI",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcKWdHgisu9Ew-CHD_6eFksie0A8_uHEum9jSKmubLast9b05pt0_EqYHSZzqdtpJPVxwA8LID9INZmUisvdwFCw5HtkjuhkiFot1WxJ1xlmjPao31bZq5Wq5_UgcHpWLkJ92cTPg=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcKWdHgisu9Ew-CHD_6eFksie0A8_uHEum9jSKmubLast9b05pt0_EqYHSZzqdtpJPVxwA8LID9INZmUisvdwFCw5HtkjuhkiFot1WxJ1xlmjPao31bZq5Wq5_UgcHpWLkJ92cTPg=w1000-h750-no",
+    "rating": 3.8,
+    "review_count": 65,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJ8TZ3VADDw0cRuu1WIMrYd_4",
+    "name": "Belchicken Jette",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Jette",
+    "address": "Belchicken Jette, Rue Léopold I 486, 1090 Jette",
+    "street": "Leopold I-straat 486",
+    "postal_code": "1090",
+    "region": null,
+    "latitude": 50.872726099999994,
+    "longitude": 4.3260248,
+    "phone": null,
+    "website": "http://www.belchicken.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Belchicken%20Jette&query_place_id=ChIJ8TZ3VADDw0cRuu1WIMrYd_4",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd6f-UBohr1cxzcBPs94c2eVy9yz0gxbmxuQgUHr5vi8CjoATWK4-2k4LOGmVduTFG1TJZhzeBoB8zgyYQASysn49OL0LgMkmb5D_IYwiey-4b-JiOY-8K2WH4d81JyVNolQxgCC4PLm-Ca=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd6f-UBohr1cxzcBPs94c2eVy9yz0gxbmxuQgUHr5vi8CjoATWK4-2k4LOGmVduTFG1TJZhzeBoB8zgyYQASysn49OL0LgMkmb5D_IYwiey-4b-JiOY-8K2WH4d81JyVNolQxgCC4PLm-Ca=w1000-h750-no",
+    "rating": 4.5,
+    "review_count": 174,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJ9UMsk8TDw0cRXbTpGVd2ugo",
+    "name": "Bk sprl",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Jette",
+    "address": "Bk sprl, Léon Theodorstraat 116/1, 1090 Jette",
+    "street": "Léon Theodorstraat 116/1",
+    "postal_code": "1090",
+    "region": null,
+    "latitude": 50.876208899999995,
+    "longitude": 4.327584,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bk%20sprl&query_place_id=ChIJ9UMsk8TDw0cRXbTpGVd2ugo",
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rTBPxK1kzlSWmHD_ARKbZQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=288.7112&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rTBPxK1kzlSWmHD_ARKbZQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=288.7112&pitch=0&thumbfov=w1000-h750-no",
+    "rating": 3.7,
+    "review_count": 11,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJEyEC8XvDw0cRVEF0qITy9Zs",
+    "name": "Boucherie Jette",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Jette",
+    "address": "Boucherie Jette, Rue Jules Lahaye 237, 1090 Jette",
+    "street": "Jules Lahayestraat 237",
+    "postal_code": "1090",
+    "region": null,
+    "latitude": 50.8788735,
+    "longitude": 4.339171299999999,
+    "phone": "0467 61 24 41",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boucherie%20Jette&query_place_id=ChIJEyEC8XvDw0cRVEF0qITy9Zs",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfbIfe_m5W5M-YbczOqep0McdXDMArOhvVP7rcUm2sbwgXbvPqzS5uvjBW342sWmIhMYLr78u8Ef2AVtgO1vZBrUpauzVR5JMLAQUDAt2kFnYHAkEG9LZcwIh_D11bTddHxrLeC=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfbIfe_m5W5M-YbczOqep0McdXDMArOhvVP7rcUm2sbwgXbvPqzS5uvjBW342sWmIhMYLr78u8Ef2AVtgO1vZBrUpauzVR5JMLAQUDAt2kFnYHAkEG9LZcwIh_D11bTddHxrLeC=w1000-h750-no",
+    "rating": 4.0,
+    "review_count": 25,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJiboGy8bDw0cRMBN9S4KcoUg",
+    "name": "Boucherie Leopold I",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Jette",
+    "address": "Boucherie Leopold I, Leopold I-straat 403, 1090 Jette",
+    "street": "Leopold I-straat 403",
+    "postal_code": "1090",
+    "region": null,
+    "latitude": 50.8748529,
+    "longitude": 4.3332992,
+    "phone": "02 307 04 38",
+    "website": "https://boucherieleopold.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boucherie%20Leopold%20I&query_place_id=ChIJiboGy8bDw0cRMBN9S4KcoUg",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLemAIcpsT3r2TYQYhiJOiJOGXYOQv7rGMPZPHU_afx6eMz_ch1mR9k3GxFog5hQLKhQpITKrcSuR9t5QDs57y2zYUESQX1jS2W3dA7oL1qtEorckHOxri5izs451t2ASjswaRKY8Q=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLemAIcpsT3r2TYQYhiJOiJOGXYOQv7rGMPZPHU_afx6eMz_ch1mR9k3GxFog5hQLKhQpITKrcSuR9t5QDs57y2zYUESQX1jS2W3dA7oL1qtEorckHOxri5izs451t2ASjswaRKY8Q=w1000-h750-no",
+    "rating": 4.6,
+    "review_count": 101,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJ_VhjZc_Dw0cRoQcHOukTriE",
+    "name": "Centre Culturel d'Averroès Jettois Cultureel Centrum",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Jette",
+    "address": "Centre Culturel d'Averroès Jettois Cultureel Centrum, Léon Theodorstraat 251, 1090 Jette",
+    "street": "Léon Theodorstraat 251",
+    "postal_code": "1090",
+    "region": null,
+    "latitude": 50.8807282,
+    "longitude": 4.3301492999999995,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Centre%20Culturel%20d%27Averro%C3%A8s%20Jettois%20Cultureel%20Centrum&query_place_id=ChIJ_VhjZc_Dw0cRoQcHOukTriE",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcfZ2bX78_WvzGePjRVPLuF4B-zV7ribE58ayVDF0Tr_D0N_5GMafLtA6MkfyLbgZaPTJ_66KgxW1msHrurbq2JRbii9777nJIhP719HSUAMPU8_6prxjC0LztNNunP2ypnaEcJJ7CKmprp=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcfZ2bX78_WvzGePjRVPLuF4B-zV7ribE58ayVDF0Tr_D0N_5GMafLtA6MkfyLbgZaPTJ_66KgxW1msHrurbq2JRbii9777nJIhP719HSUAMPU8_6prxjC0LztNNunP2ypnaEcJJ7CKmprp=w1000-h750-no",
+    "rating": 4.8,
+    "review_count": 59,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJ8cVch8XDw0cRn11MnjXEE10",
+    "name": "Délice Pizza & Pasta (Halal)",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Jette",
+    "address": "Délice Pizza & Pasta (Halal), Rue Léon Theodor 245, 1090 Jette",
+    "street": "Léon Theodorstraat 245",
+    "postal_code": "1090",
+    "region": null,
+    "latitude": 50.880037699999995,
+    "longitude": 4.3296561,
+    "phone": "02 420 28 46",
+    "website": "http://delicepizzaetpasta.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=D%C3%A9lice%20Pizza%20%26%20Pasta%20%28Halal%29&query_place_id=ChIJ8cVch8XDw0cRn11MnjXEE10",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc3CahW2BitfYL1yB6yg34oe31gWdoZSSPCH5gV9Ezc7bxyMcaNp6ZTxaLC09_ufcLI55Mc5QFRe8c4hJ3BaidUBZ_aK_9GqAK4AD5zNnku9t4wCsrb7PjWL91y2eHlXybQNYLK=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc3CahW2BitfYL1yB6yg34oe31gWdoZSSPCH5gV9Ezc7bxyMcaNp6ZTxaLC09_ufcLI55Mc5QFRe8c4hJ3BaidUBZ_aK_9GqAK4AD5zNnku9t4wCsrb7PjWL91y2eHlXybQNYLK=w1000-h750-no",
+    "rating": 3.7,
+    "review_count": 176,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJ00uchEHDw0cRCPVGtOWkflc",
+    "name": "FAMILY GROSS",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Jette",
+    "address": "FAMILY GROSS, ´Rue Uyttenhove 45, 1090 Jette",
+    "street": "´Rue Uyttenhove 45",
+    "postal_code": "1090",
+    "region": null,
+    "latitude": 50.870819,
+    "longitude": 4.3372263,
+    "phone": "0484 67 84 92",
+    "website": "https://instagram.com/familygrossmarket",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=FAMILY%20GROSS&query_place_id=ChIJ00uchEHDw0cRCPVGtOWkflc",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeGpGXCaXB9tLEkWMVDZC8Gjn_seO5qnOtTyRcTDxybE5HSiQlgbHVQwEkYHTMp6zsAnLjCqqQG_XlyClRQ8bwDXS9euVJJVuJJzhNphvocuOrexBMf2tRQIxLeWyILgNCY-bnb8w=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeGpGXCaXB9tLEkWMVDZC8Gjn_seO5qnOtTyRcTDxybE5HSiQlgbHVQwEkYHTMp6zsAnLjCqqQG_XlyClRQ8bwDXS9euVJJVuJJzhNphvocuOrexBMf2tRQIxLeWyILgNCY-bnb8w=w1000-h750-no",
+    "rating": 4.0,
+    "review_count": 452,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJq6rVksTDw0cRqjJqdE5rhJc",
+    "name": "Hicham Boucherie Halal",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Jette",
+    "address": "Hicham Boucherie Halal, Rue Léon Theodor 116, 1090 Jette",
+    "street": "Léon Theodorstraat 116",
+    "postal_code": "1090",
+    "region": null,
+    "latitude": 50.8762124,
+    "longitude": 4.3276862,
+    "phone": "0484 87 86 47",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Hicham%20Boucherie%20Halal&query_place_id=ChIJq6rVksTDw0cRqjJqdE5rhJc",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeLWFq0vLAGhdQDJ_7pYO8xgKHn1qoMD7J2k6sAPFmqGqPl2WpJfE9nzVUrBVipxzfgvMc_PheyCS15gazGjQ6reSG5ZGC1i9lBPGnJn9TzdpwlFszrBf_69c4G1I6_57Cvnxk=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeLWFq0vLAGhdQDJ_7pYO8xgKHn1qoMD7J2k6sAPFmqGqPl2WpJfE9nzVUrBVipxzfgvMc_PheyCS15gazGjQ6reSG5ZGC1i9lBPGnJn9TzdpwlFszrBf_69c4G1I6_57Cvnxk=w1000-h750-no",
+    "rating": 4.3,
+    "review_count": 102,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Boucherie Halal",
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJ4xo37UDDw0cRHUieoYImzMM",
+    "name": "Jalebi - Restaurant indien",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Jette",
+    "address": "Jalebi - Restaurant indien, Av. de Laeken 33, 1090 Jette",
+    "street": "Lakenselaan 33",
+    "postal_code": "1090",
+    "region": null,
+    "latitude": 50.8718959,
+    "longitude": 4.324489799999999,
+    "phone": "0486 54 30 91",
+    "website": "https://www.jalebiindianrestaurantjette.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Jalebi%20-%20Restaurant%20indien&query_place_id=ChIJ4xo37UDDw0cRHUieoYImzMM",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcg4xJ28sBLj0EVQsJMmVe5RjjGOzwEWVyq3xl55MB97qr0h-QeTwgIYc2sWPks6JgYgjwM0tdH_9ZcK8ej4IVr7UdWbPpTShmTWWNsz1o7KsA75aJ5hHSMoEF7fEJdyldSPUDwk0yA1Yw1=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcg4xJ28sBLj0EVQsJMmVe5RjjGOzwEWVyq3xl55MB97qr0h-QeTwgIYc2sWPks6JgYgjwM0tdH_9ZcK8ej4IVr7UdWbPpTShmTWWNsz1o7KsA75aJ5hHSMoEF7fEJdyldSPUDwk0yA1Yw1=w1000-h750-no",
+    "rating": 4.7,
+    "review_count": 872,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJX0CT2MvDw0cR3aWI9rDJtHA",
+    "name": "L'Os à Moi'L",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Jette",
+    "address": "L'Os à Moi'L, Leopold Peretstraat 7, 1090 Jette",
+    "street": "Leopold Peretstraat 7",
+    "postal_code": "1090",
+    "region": null,
+    "latitude": 50.885146999999996,
+    "longitude": 4.3351985,
+    "phone": "02 478 23 74",
+    "website": "http://www.losamoil.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=L%27Os%20%C3%A0%20Moi%27L&query_place_id=ChIJX0CT2MvDw0cR3aWI9rDJtHA",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfGREelLHLYhtX5jBgUJea6hcGEE1x6Qv6xcAE2gMQutUHKN1_JTULfPw_fYj2cyKSDoRJ2JxAsVYQTxna-2VEc_ZJJmg524Yn4wzwUJovYBhKkJaGD47zPzDnnrzBcFkG1hzo=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfGREelLHLYhtX5jBgUJea6hcGEE1x6Qv6xcAE2gMQutUHKN1_JTULfPw_fYj2cyKSDoRJ2JxAsVYQTxna-2VEc_ZJJmg524Yn4wzwUJovYBhKkJaGD47zPzDnnrzBcFkG1hzo=w1000-h750-no",
+    "rating": 4.8,
+    "review_count": 91,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJ0fJlkerDw0cRVBfvQlCABs0",
+    "name": "Le Mouton Du Maghreb",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Jette",
+    "address": "Le Mouton Du Maghreb, Firmin Lecharlierlaan 177, 1090 Jette",
+    "street": "Firmin Lecharlierlaan 177",
+    "postal_code": "1090",
+    "region": null,
+    "latitude": 50.8685021,
+    "longitude": 4.3347014999999995,
+    "phone": "0476 28 65 58",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Mouton%20Du%20Maghreb&query_place_id=ChIJ0fJlkerDw0cRVBfvQlCABs0",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfg_J4c_OY40Ln_g9zfcgR3oGndXNmvwrWp_gPdlIab7-QoYq7yLsZIJMyxOyjINfC3PP7-IkHRR1Cg6AyYSywne-YP9wVna7zrB4MS6qB-FK8J_iGuLFt5rlEpyv8xfYzK_kHC=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfg_J4c_OY40Ln_g9zfcgR3oGndXNmvwrWp_gPdlIab7-QoYq7yLsZIJMyxOyjINfC3PP7-IkHRR1Cg6AyYSywne-YP9wVna7zrB4MS6qB-FK8J_iGuLFt5rlEpyv8xfYzK_kHC=w1000-h750-no",
+    "rating": 2.9,
+    "review_count": 8,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJd9m4XinDw0cRrYuKpfJilFM",
+    "name": "Meat-In Smash Burger & More | Smash Burger Bruxelles",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Jette",
+    "address": "Meat-In Smash Burger & More | Smash Burger Bruxelles, Chau. de Wemmel 1, 1090 Jette",
+    "street": "Wemmelse Steenweg 1",
+    "postal_code": "1090",
+    "region": null,
+    "latitude": 50.8733481,
+    "longitude": 4.325627,
+    "phone": "0490 15 58 27",
+    "website": "https://www.smashburgerbruxelles.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Meat-In%20Smash%20Burger%20%26%20More%20%7C%20Smash%20Burger%20Bruxelles&query_place_id=ChIJd9m4XinDw0cRrYuKpfJilFM",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfsHI-pmDWwkudHKqQ81pPILdwJ_-C0xFBdYIS1YvfQFra-BkiKFpHZ3tL0eBw5Yshvv7kz8qFla8QJR6irAYUX-LYVUJAX6Qa8jz1euC-Cf051nRUlgbNR_dUNI7vM3YEubRc8NgsY23gN=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfsHI-pmDWwkudHKqQ81pPILdwJ_-C0xFBdYIS1YvfQFra-BkiKFpHZ3tL0eBw5Yshvv7kz8qFla8QJR6irAYUX-LYVUJAX6Qa8jz1euC-Cf051nRUlgbNR_dUNI7vM3YEubRc8NgsY23gN=w1000-h750-no",
+    "rating": 4.6,
+    "review_count": 300,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJ44sxzUXDw0cRJxeHAwt1dZo",
+    "name": "Pizza Jette (halal)",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Jette",
+    "address": "Pizza Jette (halal), Chau. de Wemmel 22, 1090 Jette",
+    "street": "Wemmelse Steenweg 22",
+    "postal_code": "1090",
+    "region": null,
+    "latitude": 50.873709,
+    "longitude": 4.3252526,
+    "phone": "0471 58 90 66",
+    "website": "https://www.pizzajette.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pizza%20Jette%20%28halal%29&query_place_id=ChIJ44sxzUXDw0cRJxeHAwt1dZo",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeGCmDsMRoxcCMg482SFU81NXA50vpX7PUdQ-3zqGa6rEMRtnzF4I3PIBPoKJ6KOp-pSYTxWGuzJoaMLDEr7LMdR-sauYvmkpvszqKUyhSkfXdKSnLsWpw39LZH4bt2jzqZRCyn9yiwOva7=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeGCmDsMRoxcCMg482SFU81NXA50vpX7PUdQ-3zqGa6rEMRtnzF4I3PIBPoKJ6KOp-pSYTxWGuzJoaMLDEr7LMdR-sauYvmkpvszqKUyhSkfXdKSnLsWpw39LZH4bt2jzqZRCyn9yiwOva7=w1000-h750-no",
+    "rating": 4.9,
+    "review_count": 253,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJy2K8twTDw0cRSvQRj8InToQ",
+    "name": "Pât'zza",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Jette",
+    "address": "Pât'zza, Pl. Philippe Werrie 6, 1090 Jette",
+    "street": "Philippe Werrieplein 6",
+    "postal_code": "1090",
+    "region": null,
+    "latitude": 50.868105799999995,
+    "longitude": 4.335831199999999,
+    "phone": "0485 19 06 88",
+    "website": "https://pat-zza.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=P%C3%A2t%27zza&query_place_id=ChIJy2K8twTDw0cRSvQRj8InToQ",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcDmWwEHlNnipeVBJP_pf5fkh9A75Sn4NilQpxzX3ZIEBsJcrZDfiJLJjupJ9rR8I8Fqeh264osXDhh3LfnUpf2E0MkEl0qyHAXFtZ_GopiE7xbeVOeB8S0vc0zA77pw0kD47Kb=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcDmWwEHlNnipeVBJP_pf5fkh9A75Sn4NilQpxzX3ZIEBsJcrZDfiJLJjupJ9rR8I8Fqeh264osXDhh3LfnUpf2E0MkEl0qyHAXFtZ_GopiE7xbeVOeB8S0vc0zA77pw0kD47Kb=w1000-h750-no",
+    "rating": 4.5,
+    "review_count": 424,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJV1JdhKnDw0cRRG9fb8m3PWM",
+    "name": "Rawabi AlYemen Restaurant",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Jette",
+    "address": "Rawabi AlYemen Restaurant, Leopold I-straat 511A, 1090 Jette",
+    "street": "Leopold I-straat 511A",
+    "postal_code": "1090",
+    "region": null,
+    "latitude": 50.873230299999996,
+    "longitude": 4.3280467,
+    "phone": "0472 60 67 39",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Rawabi%20AlYemen%20Restaurant&query_place_id=ChIJV1JdhKnDw0cRRG9fb8m3PWM",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeumwRmchoPe1wYLOA_M7YIoO6g9kCitkAAHq97IAfur8nZJHFn2nC1Fgss_AcTKotfCbHoWncN7ZLs1BG_tY8BTNmjloJuTiHQ3LYM_lBM2bjpV8i_QQdp0ImuY4y_4mJLFF63XcfCwV__=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeumwRmchoPe1wYLOA_M7YIoO6g9kCitkAAHq97IAfur8nZJHFn2nC1Fgss_AcTKotfCbHoWncN7ZLs1BG_tY8BTNmjloJuTiHQ3LYM_lBM2bjpV8i_QQdp0ImuY4y_4mJLFF63XcfCwV__=w1000-h750-no",
+    "rating": 4.5,
+    "review_count": 337,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJkbd2NU7Dw0cRZBSB_95xMr0",
+    "name": "Snack Alfa 🇹🇷",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Jette",
+    "address": "Snack Alfa 🇹🇷, Rue Léopold I 440, 1090 Jette",
+    "street": "Leopold I-straat 440",
+    "postal_code": "1090",
+    "region": null,
+    "latitude": 50.8730434,
+    "longitude": 4.3281849,
+    "phone": "0470 83 34 30",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Snack%20Alfa%20%F0%9F%87%B9%F0%9F%87%B7&query_place_id=ChIJkbd2NU7Dw0cRZBSB_95xMr0",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcyPr2BBYyZNnZjvQ_RBemXJaH9HshkFtux-90o7OsD3YxNUyZ0C2ME1eVac3Z82ugeTYKCpygAB0rR-8IUydA-3EbetwqWR6Sh7ZQ6cHClLU5saigxVDW9ZsNecJXEB2hkrX5nOA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcyPr2BBYyZNnZjvQ_RBemXJaH9HshkFtux-90o7OsD3YxNUyZ0C2ME1eVac3Z82ugeTYKCpygAB0rR-8IUydA-3EbetwqWR6Sh7ZQ6cHClLU5saigxVDW9ZsNecJXEB2hkrX5nOA=w1000-h750-no",
+    "rating": 4.0,
+    "review_count": 73,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJ6bCB-sPDw0cRpA-gz2jfgSo",
+    "name": "Tatlim Supermarket",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Jette",
+    "address": "Tatlim Supermarket, Rue Léopold I 459, 1090 Jette",
+    "street": "Leopold I-straat 459",
+    "postal_code": "1090",
+    "region": null,
+    "latitude": 50.8743634,
+    "longitude": 4.330587599999999,
+    "phone": "0486 66 33 72",
+    "website": "http://www.tatlim.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Tatlim%20Supermarket&query_place_id=ChIJ6bCB-sPDw0cRpA-gz2jfgSo",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLebb_IZuGlCQzUeSuu0dhtv_Cqz47mZ-hTitHmeiUDvkIZEddjwANPxaa9CVGq2ggr3jGTvL7uaVzOLJ9QuFM2Q3WhGASdjILXHndGwgV_ohF4QjDXoO-ja_msbEqXjJSsE-s0u=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLebb_IZuGlCQzUeSuu0dhtv_Cqz47mZ-hTitHmeiUDvkIZEddjwANPxaa9CVGq2ggr3jGTvL7uaVzOLJ9QuFM2Q3WhGASdjILXHndGwgV_ohF4QjDXoO-ja_msbEqXjJSsE-s0u=w1000-h750-no",
+    "rating": 4.0,
+    "review_count": 534,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJe6d049rDw0cRpq-m9pUPtSE",
+    "name": "Wilg",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Jette",
+    "address": "Wilg, Chau. de Wemmel 164, 1090 Jette",
+    "street": "Chau. de Wemmel 164",
+    "postal_code": "1090",
+    "region": null,
+    "latitude": 50.8778839,
+    "longitude": 4.3234273,
+    "phone": "02 420 56 10",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Wilg&query_place_id=ChIJe6d049rDw0cRpq-m9pUPtSE",
+    "open_hours_json": {
+      "Monday": [
+        "12–3:30 pm",
+        "6–11 pm"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "12–3:30 pm",
+        "6–11 pm"
+      ],
+      "Thursday": [
+        "12–3:30 pm",
+        "6–11 pm"
+      ],
+      "Friday": [
+        "12–3:30 pm",
+        "6 pm–12 am"
+      ],
+      "Saturday": [
+        "12–3:30 pm",
+        "6 pm–12 am"
+      ],
+      "Sunday": [
+        "12–3:30 pm",
+        "6–11 pm"
+      ]
+    },
+    "review_count": 179,
+    "rating": 3.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeCjubtLBPNQfqoRc9t5dmaQ83SB7imrWPM5ZYhpBDN2ffTKjmwh2qrn8OvfF79-32Tw5sRSBoN23AYY60WEpkPXURQMF5R5IbPVU34t2Ep_D1ujU3ozgd5rXCfXCIxB_4qGWQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeCjubtLBPNQfqoRc9t5dmaQ83SB7imrWPM5ZYhpBDN2ffTKjmwh2qrn8OvfF79-32Tw5sRSBoN23AYY60WEpkPXURQMF5R5IbPVU34t2Ep_D1ujU3ozgd5rXCfXCIxB_4qGWQ=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Vilvoorde, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJmRUMlPjDw0cRUF_xGP-NwhY",
+    "name": "tacostest",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Jette",
+    "address": "tacostest, Rue Pierre Timmermans 78, 1090 Jette",
+    "street": "Pierre Timmermansstraat 78",
+    "postal_code": "1090",
+    "region": null,
+    "latitude": 50.873924099999996,
+    "longitude": 4.3230693,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=tacostest&query_place_id=ChIJmRUMlPjDw0cRUF_xGP-NwhY",
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=a9Cfs_yW42lS1v8mPI3x2g&cb_client=search.gws-prod.grass&w=80&h=92&yaw=254.73254&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=a9Cfs_yW42lS1v8mPI3x2g&cb_client=search.gws-prod.grass&w=80&h=92&yaw=254.73254&pitch=0&thumbfov=w1000-h750-no",
+    "rating": null,
+    "review_count": 0,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJ4UwqRhVBwkcRlxL4KLp2ACY",
+    "name": "Le Trésor Oriental",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "FR",
+    "country_code": "FR",
+    "city": "Jeumont",
+    "address": "Le Trésor Oriental, 420 Rue Léon Blum, 59460 Jeumont, France",
+    "street": "420 Rue Léon Blum",
+    "postal_code": "59460",
+    "region": null,
+    "latitude": 50.2954951,
+    "longitude": 4.0880971,
+    "phone": "+33 7 43 58 16 48",
+    "website": "https://le-tresor-oriental.webnode.fr/contact/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Tr%C3%A9sor%20Oriental&query_place_id=ChIJ4UwqRhVBwkcRlxL4KLp2ACY",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "11 am–2 pm",
+        "6–11 pm"
+      ],
+      "Wednesday": [
+        "11 am–2 pm",
+        "6–11 pm"
+      ],
+      "Thursday": [
+        "11 am–2 pm",
+        "6–11 pm"
+      ],
+      "Friday": [
+        "11 am–2 pm",
+        "6–11 pm"
+      ],
+      "Saturday": [
+        "11 am–2 pm",
+        "6–11 pm"
+      ],
+      "Sunday": [
+        "11 am–2 pm",
+        "6–11 pm"
+      ]
+    },
+    "review_count": 44,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeQDoU29lcKa3xMEXm1qJwBImw0-LB7kXYxXnRo7y_bMznYCtIjsvwZxxGKJNjUFoXNQ_AdbPz6yWyKuNhnn5dMay-V7VniagGx7DuAuTCulFzA_f93Ccj7OjfCMumMdo2skGDL6FBChL4=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeQDoU29lcKa3xMEXm1qJwBImw0-LB7kXYxXnRo7y_bMznYCtIjsvwZxxGKJNjUFoXNQ_AdbPz6yWyKuNhnn5dMay-V7VniagGx7DuAuTCulFzA_f93Ccj7OjfCMumMdo2skGDL6FBChL4=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Binche, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJBQdjAQBBwkcRqiHtK-Pfy50",
+    "name": "Mosquée wahda",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "FR",
+    "country_code": "FR",
+    "city": "Jeumont",
+    "address": "Mosquée wahda, 147 Rue Pasteur, 59460 Jeumont, France",
+    "street": "147 Rue Pasteur",
+    "postal_code": "59460",
+    "region": null,
+    "latitude": 50.2955103,
+    "longitude": 4.1067325,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mosqu%C3%A9e%20wahda&query_place_id=ChIJBQdjAQBBwkcRqiHtK-Pfy50",
+    "open_hours_json": null,
+    "review_count": 0,
+    "rating": null,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=imXN-10XmI3wNchjL37E9A&cb_client=search.gws-prod.grass&w=80&h=92&yaw=282.92523&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=imXN-10XmI3wNchjL37E9A&cb_client=search.gws-prod.grass&w=80&h=92&yaw=282.92523&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Mosque in Beaumont, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJl1zh0epxwUcRwQhwbe3DFSk",
+    "name": "Antalya",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Jodoigne",
+    "address": "Antalya, Av. des Déportés 6, 1370 Jodoigne",
+    "street": "Av. des Déportés 6",
+    "postal_code": "1370",
+    "region": null,
+    "latitude": 50.723791999999996,
+    "longitude": 4.8672889999999995,
+    "phone": "010 68 87 65",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Antalya&query_place_id=ChIJl1zh0epxwUcRwQhwbe3DFSk",
+    "open_hours_json": {
+      "Monday": [
+        "11:30 am–11:30 pm"
+      ],
+      "Tuesday": [
+        "11:30 am–11:30 pm"
+      ],
+      "Wednesday": [
+        "11:30 am–11:30 pm"
+      ],
+      "Thursday": [
+        "11:30 am–11:30 pm"
+      ],
+      "Friday": [
+        "11:30 am–12 am"
+      ],
+      "Saturday": [
+        "11 am–11:30 pm"
+      ],
+      "Sunday": [
+        "11:30 am–11:30 pm"
+      ]
+    },
+    "review_count": 341,
+    "rating": 3.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe1lFh4GdZQTtqI9XieY2M1RLUZHYmxPhb6Aqz1Lio0gUW7eJ81JfGqYTFyqk_zpqKDoxcohY1qmjAjvkOvxu0Uv6U3z2Rt6TNrIzyFBq06QhXwsnXisYSyPH_VLSOWtqPHkLA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe1lFh4GdZQTtqI9XieY2M1RLUZHYmxPhb6Aqz1Lio0gUW7eJ81JfGqYTFyqk_zpqKDoxcohY1qmjAjvkOvxu0Uv6U3z2Rt6TNrIzyFBq06QhXwsnXisYSyPH_VLSOWtqPHkLA=w1000-h750-no",
+    "source_query": "Halal restaurant in Jodoigne, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ41zE7s1xwUcRX2W1l7xVnDE",
+    "name": "Arth en Vrac",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Jodoigne",
+    "address": "Arth en Vrac, Av. des Déportés 12, 1370 Jodoigne",
+    "street": "Av. des Déportés 12",
+    "postal_code": "1370",
+    "region": null,
+    "latitude": 50.723579799999996,
+    "longitude": 4.866892399999999,
+    "phone": "010 41 99 30",
+    "website": "https://www.facebook.com/arthenvrac/?ref=page_internal",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Arth%20en%20Vrac&query_place_id=ChIJ41zE7s1xwUcRX2W1l7xVnDE",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "9 am–6:30 pm"
+      ],
+      "Wednesday": [
+        "9 am–6:30 pm"
+      ],
+      "Thursday": [
+        "9 am–2 pm"
+      ],
+      "Friday": [
+        "9 am–6:30 pm"
+      ],
+      "Saturday": [
+        "9 am–6:30 pm"
+      ],
+      "Sunday": [
+        "9 am–1 pm"
+      ]
+    },
+    "review_count": 36,
+    "rating": 4.9,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfdAklsRQJ9bNDMDv4LbqUIQdmJzOKat70jugn5BMxHvu1LgDhQt6asMPu_gpHX7p0igHVMvXwZrHVrpBd_3nv0HkEwFCr1_JTQNZ2naIu5enETzuoMHFoCPpIB1_fOw49WuK0Q6Q=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfdAklsRQJ9bNDMDv4LbqUIQdmJzOKat70jugn5BMxHvu1LgDhQt6asMPu_gpHX7p0igHVMvXwZrHVrpBd_3nv0HkEwFCr1_JTQNZ2naIu5enETzuoMHFoCPpIB1_fOw49WuK0Q6Q=w1000-h750-no",
+    "source_query": "Hypermarket in Jodoigne, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ8SBAMuNxwUcRq_cazJGMljI",
+    "name": "Aux Petits Oignons",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Jodoigne",
+    "address": "Aux Petits Oignons, Chau. de Tirlemont 260, 1370 Jodoigne",
+    "street": "Chau. de Tirlemont 260",
+    "postal_code": "1370",
+    "region": null,
+    "latitude": 50.741833199999995,
+    "longitude": 4.8801955999999995,
+    "phone": "010 76 00 78",
+    "website": "http://www.auxpetitsoignons.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Aux%20Petits%20Oignons&query_place_id=ChIJ8SBAMuNxwUcRq_cazJGMljI",
+    "open_hours_json": {
+      "Monday": [
+        "12–2 pm",
+        "7–9:30 pm"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "12–2 pm",
+        "7–9:30 pm"
+      ],
+      "Friday": [
+        "12–2 pm",
+        "7–9:30 pm"
+      ],
+      "Saturday": [
+        "7–9:30 pm"
+      ],
+      "Sunday": [
+        "12–2 pm",
+        "7–9:30 pm"
+      ]
+    },
+    "review_count": 780,
+    "rating": 4.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdL2C4ZzI9PTp0WljKrOFcHFHUGE0g4C-IakK0wg5YUYVuZEFX9sVLEvffm9C0bgHonNJWjU8_XOjNz-7blNNlKsLQp9vP3UQ7zY2u3V5Efw4CIQKjnJNupNCaf8-ZC9y6tIJ6GPA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdL2C4ZzI9PTp0WljKrOFcHFHUGE0g4C-IakK0wg5YUYVuZEFX9sVLEvffm9C0bgHonNJWjU8_XOjNz-7blNNlKsLQp9vP3UQ7zY2u3V5Efw4CIQKjnJNupNCaf8-ZC9y6tIJ6GPA=w1000-h750-no",
+    "source_query": "Fish restaurant in Jodoigne, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJKZ1y4gZxwUcRABG1ZFwKojk",
+    "name": "Basic-Fit 24/7",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Jodoigne",
+    "address": "Basic-Fit 24/7, Rue de Piétrain 36C, 1370 Jodoigne",
+    "street": "Rue de Piétrain 36C",
+    "postal_code": "1370",
+    "region": null,
+    "latitude": 50.7245839,
+    "longitude": 4.8768391,
+    "phone": "02 588 77 10",
+    "website": "https://www.basic-fit.com/fr-be/clubs/basic-fit-jodoigne-rue-pi%C3%A9train-24/7-bd4b8bf90b054ed599b53f9b6ee5fc6a.html?utm_medium=yext&utm_source=gmb",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Basic-Fit%2024%2F7&query_place_id=ChIJKZ1y4gZxwUcRABG1ZFwKojk",
+    "open_hours_json": {
+      "Monday": [
+        "Open 24 hours"
+      ],
+      "Tuesday": [
+        "Open 24 hours"
+      ],
+      "Wednesday": [
+        "Open 24 hours"
+      ],
+      "Thursday": [
+        "Open 24 hours"
+      ],
+      "Friday": [
+        "Open 24 hours"
+      ],
+      "Saturday": [
+        "Open 24 hours"
+      ],
+      "Sunday": [
+        "Open 24 hours"
+      ]
+    },
+    "review_count": 281,
+    "rating": 4.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcrlciJnqx51ylDkSVbQlnLiL5df2NKNrQ-oxKswpYBk9qFsVrNhs0ISYCH7du9hMmnyBnyvWrFenLKLlMnauj4B2kWdHO_X8WBF29YZiY9UCgy0yUjmvvoEZyjQFEQZOzhZabb4Q=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcrlciJnqx51ylDkSVbQlnLiL5df2NKNrQ-oxKswpYBk9qFsVrNhs0ISYCH7du9hMmnyBnyvWrFenLKLlMnauj4B2kWdHO_X8WBF29YZiY9UCgy0yUjmvvoEZyjQFEQZOzhZabb4Q=w1000-h750-no",
+    "source_query": "Hypermarket in Jodoigne, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJS1EyX-1xwUcRNMlaHpimg1k",
+    "name": "Bel&Bo Jodoigne",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Jodoigne",
+    "address": "Bel&Bo Jodoigne, Rue de Septembre 7, 1370 Jodoigne",
+    "street": "Rue de Septembre 7",
+    "postal_code": "1370",
+    "region": null,
+    "latitude": 50.722336,
+    "longitude": 4.8777655,
+    "phone": "010 81 12 05",
+    "website": "https://www.bel-bo.be/fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bel%26Bo%20Jodoigne&query_place_id=ChIJS1EyX-1xwUcRNMlaHpimg1k",
+    "open_hours_json": {
+      "Monday": [
+        "9:30 am–6 pm"
+      ],
+      "Tuesday": [
+        "9:30 am–6 pm"
+      ],
+      "Wednesday": [
+        "9:30 am–6 pm"
+      ],
+      "Thursday": [
+        "9:30 am–6 pm"
+      ],
+      "Friday": [
+        "9:30 am–6 pm"
+      ],
+      "Saturday": [
+        "9:30 am–6 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 153,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc5SYBFNk69UxqjpkIJRjG5uFuYqFz5Ro6bQDDgxgaqgfRt2f6lt27ihcdfMvBmP4bpl9RJQheuHLaUb9abRps_-zCzikJ8CpHxCZmvio1aywStdbHwqXKQhX26jwmgB1f_pBWLxA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc5SYBFNk69UxqjpkIJRjG5uFuYqFz5Ro6bQDDgxgaqgfRt2f6lt27ihcdfMvBmP4bpl9RJQheuHLaUb9abRps_-zCzikJ8CpHxCZmvio1aywStdbHwqXKQhX26jwmgB1f_pBWLxA=w1000-h750-no",
+    "source_query": "Hypermarket in Jodoigne, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJacMnYOtxwUcRtBkZFgFUDyc",
+    "name": "Belziq-beer",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Jodoigne",
+    "address": "Belziq-beer, Rue Saint-Jean 35, 1370 Jodoigne",
+    "street": "Rue Saint-Jean 35",
+    "postal_code": "1370",
+    "region": null,
+    "latitude": 50.724675399999995,
+    "longitude": 4.8714182,
+    "phone": "0474 28 31 93",
+    "website": "https://www.facebook.com/Belziq-Beer-1329481597142518/?ref=aymt_homepage_panel",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Belziq-beer&query_place_id=ChIJacMnYOtxwUcRtBkZFgFUDyc",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "3 pm–12 am"
+      ],
+      "Thursday": [
+        "3 pm–12 am"
+      ],
+      "Friday": [
+        "3 pm–1 am"
+      ],
+      "Saturday": [
+        "3 pm–1 am"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 170,
+    "rating": 4.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfFEteeoM_UWA21uiVwsCzpxT4F5C1eO9wd9qOTZlBMzmJO-hfYeKnK2E2vxLFRUmZmaorqCr41QTdxJGPDXplZwRtsZ6drVOE-AE05tOh6T4WlE2Xp57DMnsAR5EhYx9IIIXv3=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfFEteeoM_UWA21uiVwsCzpxT4F5C1eO9wd9qOTZlBMzmJO-hfYeKnK2E2vxLFRUmZmaorqCr41QTdxJGPDXplZwRtsZ6drVOE-AE05tOh6T4WlE2Xp57DMnsAR5EhYx9IIIXv3=w1000-h750-no",
+    "source_query": "Fish restaurant in Jodoigne, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ9_mlhZRxwUcRvFocxvBawvU",
+    "name": "Boucherie Berwart",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Jodoigne",
+    "address": "Boucherie Berwart, Av. Fernand Charlot 42, 1370 Jodoigne",
+    "street": "Av. Fernand Charlot 42",
+    "postal_code": "1370",
+    "region": null,
+    "latitude": 50.7210962,
+    "longitude": 4.8703141,
+    "phone": "010 81 03 17",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boucherie%20Berwart&query_place_id=ChIJ9_mlhZRxwUcRvFocxvBawvU",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "8 am–6:30 pm"
+      ],
+      "Wednesday": [
+        "8 am–6:30 pm"
+      ],
+      "Thursday": [
+        "8 am–6:30 pm"
+      ],
+      "Friday": [
+        "8 am–6:30 pm"
+      ],
+      "Saturday": [
+        "8 am–6 pm"
+      ],
+      "Sunday": [
+        "8:30 am–12:30 pm"
+      ]
+    },
+    "review_count": 25,
+    "rating": 4.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeN3H_o45JNbYpDzrw9Eg2CPsAy9ren4ecpK1UKlHrwwRHPRPUbl83HWDbOmoOU5KCsNKrUeTYvIhdVG59oFO1jBXvUzSpH4QGmc9GFARdrksoBEgUiOZ8QbF5PA2uoEYefo-w4ZPSHLwvU=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeN3H_o45JNbYpDzrw9Eg2CPsAy9ren4ecpK1UKlHrwwRHPRPUbl83HWDbOmoOU5KCsNKrUeTYvIhdVG59oFO1jBXvUzSpH4QGmc9GFARdrksoBEgUiOZ8QbF5PA2uoEYefo-w4ZPSHLwvU=w1000-h750-no",
+    "source_query": "Fish restaurant in Jodoigne, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ5Z3m0epxwUcR-hvUcjhKPtc",
+    "name": "Boucherie Medina",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Jodoigne",
+    "address": "Boucherie Medina, Av. des Déportés 2, 1370 Jodoigne",
+    "street": "Av. des Déportés 2",
+    "postal_code": "1370",
+    "region": null,
+    "latitude": 50.7238104,
+    "longitude": 4.8673763999999995,
+    "phone": "010 86 66 80",
+    "website": "https://boucherie-medina.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boucherie%20Medina&query_place_id=ChIJ5Z3m0epxwUcR-hvUcjhKPtc",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcIvLh3EF4sopWY7cHDs_SK2eytnQBTEXORbXJf4HDc6Wuo1K61DM6Fxoj41uFmTqCg60Mju5XQTtsU5wJVhVgTjPdRZff5QabI-2FCDTO6y9wXaUgducPSxvtrNonI2JA5MbF_FA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcIvLh3EF4sopWY7cHDs_SK2eytnQBTEXORbXJf4HDc6Wuo1K61DM6Fxoj41uFmTqCg60Mju5XQTtsU5wJVhVgTjPdRZff5QabI-2FCDTO6y9wXaUgducPSxvtrNonI2JA5MbF_FA=w1000-h750-no",
+    "rating": 4.8,
+    "review_count": 170,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJVVWJJutxwUcRa2cBn091b8I",
+    "name": "Butcher shop Pierre",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Jodoigne",
+    "address": "Butcher shop Pierre, Pl. de la Victoire 1, 1370 Jodoigne",
+    "street": "Pl. de la Victoire 1",
+    "postal_code": "1370",
+    "region": null,
+    "latitude": 50.7240012,
+    "longitude": 4.8680547999999995,
+    "phone": "010 81 13 44",
+    "website": "http://boucheriepierre.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Butcher%20shop%20Pierre&query_place_id=ChIJVVWJJutxwUcRa2cBn091b8I",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "8:30 am–6 pm"
+      ],
+      "Wednesday": [
+        "8:30 am–6 pm"
+      ],
+      "Thursday": [
+        "8:30 am–6 pm"
+      ],
+      "Friday": [
+        "8:30 am–6 pm"
+      ],
+      "Saturday": [
+        "8:30 am–5 pm"
+      ],
+      "Sunday": [
+        "8:30 am–12:30 pm"
+      ]
+    },
+    "review_count": 39,
+    "rating": 4.9,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLed80JQhN9Gl1k-BMUbBw-z4hEaUMR4TOcG6HxWrwZyW1rlvTcA_4ONR7F06gne3ZOJZqEx_wICFKpLKe71w82rTBLajCQzBYm-AwlXJRcUBTsInQXh5pdyex5cUvQdiIcRAy-K=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLed80JQhN9Gl1k-BMUbBw-z4hEaUMR4TOcG6HxWrwZyW1rlvTcA_4ONR7F06gne3ZOJZqEx_wICFKpLKe71w82rTBLajCQzBYm-AwlXJRcUBTsInQXh5pdyex5cUvQdiIcRAy-K=w1000-h750-no",
+    "source_query": "Fish restaurant in Jodoigne, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJUTsuQO1xwUcR5jm3YeX913U",
+    "name": "Collect&Go Jodoigne",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Jodoigne",
+    "address": "Collect&Go Jodoigne, Rue de Piétrain 36, 1370 Jodoigne",
+    "street": "Rue de Piétrain 36",
+    "postal_code": "1370",
+    "region": null,
+    "latitude": 50.7254109,
+    "longitude": 4.8768386999999995,
+    "phone": "02 363 50 05",
+    "website": "https://www.collectandgo.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Collect%26Go%20Jodoigne&query_place_id=ChIJUTsuQO1xwUcR5jm3YeX913U",
+    "open_hours_json": {
+      "Monday": [
+        "8 am–8 pm"
+      ],
+      "Tuesday": [
+        "8 am–8 pm"
+      ],
+      "Wednesday": [
+        "8 am–8 pm"
+      ],
+      "Thursday": [
+        "8 am–8 pm"
+      ],
+      "Friday": [
+        "8 am–9 pm"
+      ],
+      "Saturday": [
+        "8 am–8 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 8,
+    "rating": 3.8,
+    "thumbnail_url": null,
+    "image_url": null,
+    "source_query": "Hypermarket in Jodoigne, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ_1VTpK96wUcR0EfCCn3DsjU",
+    "name": "Eldi",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Jodoigne",
+    "address": "Eldi, Chau. de Wavre 92, 1370 Jodoigne",
+    "street": "Chau. de Wavre 92",
+    "postal_code": "1370",
+    "region": null,
+    "latitude": 50.724676599999995,
+    "longitude": 4.8554656,
+    "phone": "010 24 86 46",
+    "website": "https://www.eldi.be/fr/magasins/eldi-jodoigne/?utm_source=googlemybusiness&utm_campaign=GMB%20-%20Eldi_Jodoigne&utm_medium=organic",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Eldi&query_place_id=ChIJ_1VTpK96wUcR0EfCCn3DsjU",
+    "open_hours_json": {
+      "Monday": [
+        "10 am–12:30 pm",
+        "1:30–6 pm"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "10 am–12:30 pm",
+        "1:30–6 pm"
+      ],
+      "Thursday": [
+        "10 am–12:30 pm",
+        "1:30–6 pm"
+      ],
+      "Friday": [
+        "10 am–12:30 pm",
+        "1:30–6 pm"
+      ],
+      "Saturday": [
+        "10 am–12:30 pm",
+        "1:30–6 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 67,
+    "rating": 4.1,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdcUw1TS7y4M03nMIvdTTmcGn5KIZVMYoQYfOIZENMbXEonLSy0x1nxRyQt3u85DqdkqGvTv0RCMseQqfngptAGSJQZ_SnWXIz-OM4YzEDqhZUQwe3Xavug1SIsTlstcLiZp67k=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdcUw1TS7y4M03nMIvdTTmcGn5KIZVMYoQYfOIZENMbXEonLSy0x1nxRyQt3u85DqdkqGvTv0RCMseQqfngptAGSJQZ_SnWXIz-OM4YzEDqhZUQwe3Xavug1SIsTlstcLiZp67k=w1000-h750-no",
+    "source_query": "Hypermarket in Jodoigne, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJz8wPk6dxwUcRb3yWlTJQO2k",
+    "name": "Electro Papier",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Jodoigne",
+    "address": "Electro Papier, Chau. de Charleroi 103, 1370 Jodoigne",
+    "street": "Chau. de Charleroi 103",
+    "postal_code": "1370",
+    "region": null,
+    "latitude": 50.71582,
+    "longitude": 4.864099899999999,
+    "phone": "010 81 34 67",
+    "website": "http://www.electropapier.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Electro%20Papier&query_place_id=ChIJz8wPk6dxwUcRb3yWlTJQO2k",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "9 am–12:30 pm",
+        "1:30–6 pm"
+      ],
+      "Wednesday": [
+        "9:30 am–12:30 pm",
+        "1:30–6 pm"
+      ],
+      "Thursday": [
+        "9:30 am–12:30 pm",
+        "1:30–6 pm"
+      ],
+      "Friday": [
+        "9:30 am–12:30 pm",
+        "1:30–6 pm"
+      ],
+      "Saturday": [
+        "9:30 am–12:30 pm",
+        "1:30–6 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 208,
+    "rating": 4.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeRkDoT2u4ZGQoLPfQxsHLVXHV_srEDJlyxsPgMhdYbcKAKXIWDIZuOaJoOG5E_mWxi-x9rXwfOsYj8tZyqFh-GU91-66q1h4qnuIlEJXdL69-6yAICR_fSHpiud4UMWisa_HFf=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeRkDoT2u4ZGQoLPfQxsHLVXHV_srEDJlyxsPgMhdYbcKAKXIWDIZuOaJoOG5E_mWxi-x9rXwfOsYj8tZyqFh-GU91-66q1h4qnuIlEJXdL69-6yAICR_fSHpiud4UMWisa_HFf=w1000-h750-no",
+    "source_query": "Hypermarket in Jodoigne, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJL-ZEq-xxwUcRyyaZ6dVGU0A",
+    "name": "Färm Jodoigne",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Jodoigne",
+    "address": "Färm Jodoigne, Av. des Commandants Borlée 2, 1370 Jodoigne",
+    "street": "Av. des Commandants Borlée 2",
+    "postal_code": "1370",
+    "region": null,
+    "latitude": 50.723471599999996,
+    "longitude": 4.8717666,
+    "phone": "010 24 16 34",
+    "website": "https://stores.farm.coop/fr/farm-jodoigne",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=F%C3%A4rm%20Jodoigne&query_place_id=ChIJL-ZEq-xxwUcRyyaZ6dVGU0A",
+    "open_hours_json": {
+      "Monday": [
+        "9 am–7 pm"
+      ],
+      "Tuesday": [
+        "9 am–7 pm"
+      ],
+      "Wednesday": [
+        "9 am–7 pm"
+      ],
+      "Thursday": [
+        "9 am–7 pm"
+      ],
+      "Friday": [
+        "9 am–7 pm"
+      ],
+      "Saturday": [
+        "9 am–7 pm"
+      ],
+      "Sunday": [
+        "10 am–5 pm"
+      ]
+    },
+    "review_count": 52,
+    "rating": 4.0,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdG4k4XGdKotzb2MX4xSG-XcQy0CPV45DpY4A0hnLfVInGq20dFHQuYYONTsWAMDrTrqJpJnOck9RzH0DF3xly97fhEoxc__eT4BbwPgDz8yJtkDcPivQvHEfb5N2VfJ2xrGUMotw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdG4k4XGdKotzb2MX4xSG-XcQy0CPV45DpY4A0hnLfVInGq20dFHQuYYONTsWAMDrTrqJpJnOck9RzH0DF3xly97fhEoxc__eT4BbwPgDz8yJtkDcPivQvHEfb5N2VfJ2xrGUMotw=w1000-h750-no",
+    "source_query": "Hypermarket in Jodoigne, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJZwLyYOtxwUcRoQdDNVMm_XI",
+    "name": "Intermarché Jodoigne",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Jodoigne",
+    "address": "Intermarché Jodoigne, Av. des Commandants Borlée 16, 1370 Jodoigne",
+    "street": "Av. des Commandants Borlée 16",
+    "postal_code": "1370",
+    "region": null,
+    "latitude": 50.723185,
+    "longitude": 4.874293,
+    "phone": "010 24 47 22",
+    "website": "https://www.intermarche.be/magasins/intermarche-jodoigne/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Intermarch%C3%A9%20Jodoigne&query_place_id=ChIJZwLyYOtxwUcRoQdDNVMm_XI",
+    "open_hours_json": {
+      "Monday": [
+        "8 am–8 pm"
+      ],
+      "Tuesday": [
+        "8 am–8 pm"
+      ],
+      "Wednesday": [
+        "8 am–8 pm"
+      ],
+      "Thursday": [
+        "8 am–8 pm"
+      ],
+      "Friday": [
+        "8 am–8 pm"
+      ],
+      "Saturday": [
+        "8 am–8 pm"
+      ],
+      "Sunday": [
+        "8 am–8 pm"
+      ]
+    },
+    "review_count": 594,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcZ_zYzO2017dAWvsI8xU6aSDSOo5Mh6RKjTbCUj1fmO2WbsK2HeuTmNpx8WFiXf_IMDaUV_UKNS7FXL7tNsPIYlMDD-Ljczz9BZPLSvPLd2RhCjeAVt2T0_YCKUAmEiba6f5yARtdwwFke=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcZ_zYzO2017dAWvsI8xU6aSDSOo5Mh6RKjTbCUj1fmO2WbsK2HeuTmNpx8WFiXf_IMDaUV_UKNS7FXL7tNsPIYlMDD-Ljczz9BZPLSvPLd2RhCjeAVt2T0_YCKUAmEiba6f5yARtdwwFke=w1000-h750-no",
+    "source_query": "Hypermarket in Jodoigne, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJU8Pp1iZxwUcR8Tb2X77oPEU",
+    "name": "Kimya market",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Jodoigne",
+    "address": "Kimya market, Rue Saint-Jean 24, 1370 Jodoigne",
+    "street": "Rue Saint-Jean 24",
+    "postal_code": "1370",
+    "region": null,
+    "latitude": 50.7247693,
+    "longitude": 4.871160199999999,
+    "phone": "0465 87 56 15",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kimya%20market&query_place_id=ChIJU8Pp1iZxwUcR8Tb2X77oPEU",
+    "open_hours_json": {
+      "Monday": [
+        "9:30 am–6:30 pm"
+      ],
+      "Tuesday": [
+        "9:30 am–6:30 pm"
+      ],
+      "Wednesday": [
+        "9:30 am–5:30 pm"
+      ],
+      "Thursday": [
+        "9:30 am–6:30 pm"
+      ],
+      "Friday": [
+        "9:30 am–6:30 pm"
+      ],
+      "Saturday": [
+        "10 am–7 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 0,
+    "rating": null,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5wyc08yukDLLEpU8FCvGXw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=323.46667&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5wyc08yukDLLEpU8FCvGXw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=323.46667&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Hypermarket in Jodoigne, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJp72wEOtxwUcRxTqovODfyU0",
     "name": "King Of Kebab Jodoigne",
     "type": "restaurant",
@@ -1723,8 +4100,8 @@
     "phone": null,
     "website": "https://www.geodruid.com/intl/fr/place/5860809-mosquee-an-nasr-lieu-de-culte-koekelberg-belgie",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Masjid%20Annasr&query_place_id=ChIJf-FafOzDw0cRr79oGL5l5Ts",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe8cuA-ouj3511O2z6ZydSA4oMysTNk5mxtH10_Q91KrdL9s4zEBCYSDDEcyelbuw4EV0SY0JDaJcfQJmimKFJV9zd3vL7kHKjn6Kyu1Tjx3UdIVBrgWKrc8dahTu68xLlTzdUg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe8cuA-ouj3511O2z6ZydSA4oMysTNk5mxtH10_Q91KrdL9s4zEBCYSDDEcyelbuw4EV0SY0JDaJcfQJmimKFJV9zd3vL7kHKjn6Kyu1Tjx3UdIVBrgWKrc8dahTu68xLlTzdUg=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf0qMlmwvgQ2wfdBX90lrCLq7ieohwXFgS5gz9QapFRLjcDoKMoO8VQZEh8Ks1oBWz6udf40Ma2O4NmVexfIwkCwpONxEAGumvXTMjjcvrJ6TYU-z86_z-z6lSOXVn-DJDNywD0WA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf0qMlmwvgQ2wfdBX90lrCLq7ieohwXFgS5gz9QapFRLjcDoKMoO8VQZEh8Ks1oBWz6udf40Ma2O4NmVexfIwkCwpONxEAGumvXTMjjcvrJ6TYU-z86_z-z6lSOXVn-DJDNywD0WA=w1000-h750-no",
     "rating": 4.6,
     "review_count": 78,
     "verification_status": "UNVERIFIED",
@@ -2385,8 +4762,8 @@
     "phone": "056 22 56 91",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Rahman%20%26%20Sons%20BV&query_place_id=ChIJMccPUhg7w0cRcFogdV33XmI",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdkuaPDCBWdg9ICmiMAlxTl4A0yQxlf4rvm3p9PXaeAHjZ95-SoBzxKtsf_2jvvfzeKfrCUNIfFS_zHnuoMY_lMIvhO4IIMCTh-8cmo7RRm3ARo-PZw8iIRionzryjpuYiZRfDbFCBg8js=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdkuaPDCBWdg9ICmiMAlxTl4A0yQxlf4rvm3p9PXaeAHjZ95-SoBzxKtsf_2jvvfzeKfrCUNIfFS_zHnuoMY_lMIvhO4IIMCTh-8cmo7RRm3ARo-PZw8iIRionzryjpuYiZRfDbFCBg8js=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc1ihShWtrmnZSgmJjVRh-hmrNQw_8RFlny_w8IlmrydNrrXsP3BcYye1QxNUR84G4KOkhLwp3UCQkzqPZ_sPB1ktjpvYNA2ORx978GTud0CZl8yj_4zxVn28IJAMCPhZChNRbM9CLI1h0=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc1ihShWtrmnZSgmJjVRh-hmrNQw_8RFlny_w8IlmrydNrrXsP3BcYye1QxNUR84G4KOkhLwp3UCQkzqPZ_sPB1ktjpvYNA2ORx978GTud0CZl8yj_4zxVn28IJAMCPhZChNRbM9CLI1h0=w1000-h750-no",
     "rating": 4.5,
     "review_count": 230,
     "verification_status": "UNVERIFIED",
@@ -2611,8 +4988,8 @@
     "phone": "056 36 06 12",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Asalam%20Supermarkt%20Kortrijk&query_place_id=ChIJY5qSPhw7w0cRp05gnQXz7U0",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf4MwY9oeo96qSbP1cOaArn3Lc2EncjZCfvicj1xKXY1UQtFWkYFhLgY2mzP9l0TZRlgW1Cvb6eOu45rn5x6K7Zv7hqVqk9JJEyd3rTm29a4WQ4L2Impsots0_3xp0F6XsH_svgYQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf4MwY9oeo96qSbP1cOaArn3Lc2EncjZCfvicj1xKXY1UQtFWkYFhLgY2mzP9l0TZRlgW1Cvb6eOu45rn5x6K7Zv7hqVqk9JJEyd3rTm29a4WQ4L2Impsots0_3xp0F6XsH_svgYQ=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcQpyiUUnwVwUO-B-lP1bxAeXR8xjN_emI3Fd34H1tEvy-6_frk73kfr66vCwXXJSd-bjKY_4fcCjU_aP9vekdDtBPjAacD_6-Bpp0ckrzNrOjkDjXE-LAttaKak-PDYmEokv58=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcQpyiUUnwVwUO-B-lP1bxAeXR8xjN_emI3Fd34H1tEvy-6_frk73kfr66vCwXXJSd-bjKY_4fcCjU_aP9vekdDtBPjAacD_6-Bpp0ckrzNrOjkDjXE-LAttaKak-PDYmEokv58=w1000-h750-no",
     "rating": 4.1,
     "review_count": 426,
     "verification_status": "UNVERIFIED",
@@ -8176,2617 +10553,6 @@
     "rating": 4.5,
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfp_H1x09WoW4oG6-XhnVKIG410zBIuO5XDhSthF0dYbw8IWV3J1ZbeXxd3hHRYusD22wH5_0ah6If9K1bSC_jpR53l2a8rjR00fRaYIeLbt8JEeZ_t0d_ovXTEu8B3fV6qZ4yC=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfp_H1x09WoW4oG6-XhnVKIG410zBIuO5XDhSthF0dYbw8IWV3J1ZbeXxd3hHRYusD22wH5_0ah6If9K1bSC_jpR53l2a8rjR00fRaYIeLbt8JEeZ_t0d_ovXTEu8B3fV6qZ4yC=w1000-h750-no",
-    "source_query": "Halal restaurant in Kortrijk, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJD-xEMiA7w0cRG_2z8l_3EKA",
-    "name": "Pitta & Grill Anisse",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kortrijk",
-    "address": "Pitta & Grill Anisse, Doorniksewijk 114, 8500 Kortrijk",
-    "street": "Doorniksewijk 114",
-    "postal_code": "8500",
-    "region": null,
-    "latitude": 50.8200084,
-    "longitude": 3.2690612999999997,
-    "phone": "0467 66 87 76",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pitta%20%26%20Grill%20Anisse&query_place_id=ChIJD-xEMiA7w0cRG_2z8l_3EKA",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe36qFhtQwm1_-uBfrEfONAevm5rqHGxA0GjOsCjnWkNTHVQuqkvIfKNBUNkolXbddrWSs6ozp8yJPuzz4H5iCOVgbU_tEPEbqRTLQptE_C0YXPNM7CUe8yfl1R52FfjsYcKvD4Ng=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe36qFhtQwm1_-uBfrEfONAevm5rqHGxA0GjOsCjnWkNTHVQuqkvIfKNBUNkolXbddrWSs6ozp8yJPuzz4H5iCOVgbU_tEPEbqRTLQptE_C0YXPNM7CUe8yfl1R52FfjsYcKvD4Ng=w1000-h750-no",
-    "rating": 4.5,
-    "review_count": 315,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJFRKKV-U6w0cRFy2FG0XLR0w",
-    "name": "Pitta Bodrum",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kortrijk",
-    "address": "Pitta Bodrum, Noordstraat 40, 8500 Kortrijk",
-    "street": "Noordstraat 40",
-    "postal_code": "8500",
-    "region": null,
-    "latitude": 50.8309766,
-    "longitude": 3.2555159999999996,
-    "phone": "0498 67 12 28",
-    "website": "https://www.pitta-bodrum.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pitta%20Bodrum&query_place_id=ChIJFRKKV-U6w0cRFy2FG0XLR0w",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcPyqT9o6UfrfzO7_XIm0K0-4d4A5mlvVGYsyBdujcS4kddwHWilIPKgn14xjn57cS54iFgaVEvfdR0btRLOBCyDWRPxAuiQd21x3obZfmRQ6vAKBtP25Ok4UzJh12CcWQDJcI6=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcPyqT9o6UfrfzO7_XIm0K0-4d4A5mlvVGYsyBdujcS4kddwHWilIPKgn14xjn57cS54iFgaVEvfdR0btRLOBCyDWRPxAuiQd21x3obZfmRQ6vAKBtP25Ok4UzJh12CcWQDJcI6=w1000-h750-no",
-    "rating": 4.7,
-    "review_count": 397,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJ_4RLkeE6w0cRLLkOMB3TsoE",
-    "name": "Pitta House",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kortrijk",
-    "address": "Pitta House, Burgemeester Reynaertstraat 10, 8500 Kortrijk",
-    "street": "Burgemeester Reynaertstraat 10",
-    "postal_code": "8500",
-    "region": null,
-    "latitude": 50.825262099999996,
-    "longitude": 3.264901,
-    "phone": "0487 37 29 92",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pitta%20House&query_place_id=ChIJ_4RLkeE6w0cRLLkOMB3TsoE",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdzPGf0f3jUA-m9MPDEb2y3jyY2TWdkMt0Bf9V1XPtQK2F3bei9E-2W4GybbkGCDL6-YCkRNVAE0BNTipRoSnm_8vxQmQ-vYgGFG8DU_7IjXjq6oDBgP-U8Ncc3xqB5By0HfOFP=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdzPGf0f3jUA-m9MPDEb2y3jyY2TWdkMt0Bf9V1XPtQK2F3bei9E-2W4GybbkGCDL6-YCkRNVAE0BNTipRoSnm_8vxQmQ-vYgGFG8DU_7IjXjq6oDBgP-U8Ncc3xqB5By0HfOFP=w1000-h750-no",
-    "rating": 4.1,
-    "review_count": 307,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJd-QBr8Q7w0cRAtG4RYfiI-o",
-    "name": "Pitta Snack Land",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kortrijk",
-    "address": "Pitta Snack Land, Zwevegemsestraat 52, 8500 Kortrijk",
-    "street": "Zwevegemsestraat 52",
-    "postal_code": "8500",
-    "region": null,
-    "latitude": 50.8249929,
-    "longitude": 3.2721747,
-    "phone": "056 25 28 82",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pitta%20Snack%20Land&query_place_id=ChIJd-QBr8Q7w0cRAtG4RYfiI-o",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdAl4uYibOlskv3y94wq4RBgQB5f_65X_B1SQXjFgpHMOO4AYIkEFZhid2Qnaib6GY0rb_0KLKJminWaJx6rfIIq4Yay5hP2Pi8nq9VnUoUxatFkz7y6MyXxNwiS91g76ory6qavhcjeE4=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdAl4uYibOlskv3y94wq4RBgQB5f_65X_B1SQXjFgpHMOO4AYIkEFZhid2Qnaib6GY0rb_0KLKJminWaJx6rfIIq4Yay5hP2Pi8nq9VnUoUxatFkz7y6MyXxNwiS91g76ory6qavhcjeE4=w1000-h750-no",
-    "rating": 4.4,
-    "review_count": 141,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJY6YIMQA7w0cRnxiFK0LJOiI",
-    "name": "Pizza Pita King 🍕",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kortrijk",
-    "address": "Pizza Pita King 🍕, Stationsplein 4, 8500 Kortrijk",
-    "street": "Stationsplein 4",
-    "postal_code": "8500",
-    "region": null,
-    "latitude": 50.8252673,
-    "longitude": 3.2644542,
-    "phone": "0470 35 25 37",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pizza%20Pita%20King%20%F0%9F%8D%95&query_place_id=ChIJY6YIMQA7w0cRnxiFK0LJOiI",
-    "open_hours_json": {
-      "Monday": [
-        "11:30 am–2 am"
-      ],
-      "Tuesday": [
-        "11:30 am–2 am"
-      ],
-      "Wednesday": [
-        "11:30 am–2 am"
-      ],
-      "Thursday": [
-        "11:30 am–2 am"
-      ],
-      "Friday": [
-        "11:30 am–5 am"
-      ],
-      "Saturday": [
-        "11:30 am–5 am"
-      ],
-      "Sunday": [
-        "11:30 am–2 am"
-      ]
-    },
-    "review_count": 70,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdd1UXzCjNgq_HK51UPgFnc-OVpkhxHyc_IC36JHTadzJvZUpegXu51d6Xjzxr-HT3joPvYUfYYWqBbavjdrKB-0WXj5RLs_l5tqLHrE5-frjCc38JKbYrpwCvQZGfe7aJ_G6GH0-qXEwIK=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdd1UXzCjNgq_HK51UPgFnc-OVpkhxHyc_IC36JHTadzJvZUpegXu51d6Xjzxr-HT3joPvYUfYYWqBbavjdrKB-0WXj5RLs_l5tqLHrE5-frjCc38JKbYrpwCvQZGfe7aJ_G6GH0-qXEwIK=w1000-h750-no",
-    "source_query": "Fish restaurant in Kortrijk, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJMzmOwxw7w0cRRnlzSpvrIR8",
-    "name": "Plein Twaalf",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kortrijk",
-    "address": "Plein Twaalf, Plein 12, 8500 Kortrijk",
-    "street": "Plein 12",
-    "postal_code": "8500",
-    "region": null,
-    "latitude": 50.830088599999996,
-    "longitude": 3.2715069999999997,
-    "phone": "0485 46 59 38",
-    "website": "http://www.pleintwaalf.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Plein%20Twaalf&query_place_id=ChIJMzmOwxw7w0cRRnlzSpvrIR8",
-    "open_hours_json": {
-      "Monday": [
-        "11:30 am–3 pm"
-      ],
-      "Tuesday": [
-        "11:30 am–3 pm"
-      ],
-      "Wednesday": [
-        "11:30 am–3 pm"
-      ],
-      "Thursday": [
-        "11:30 am–3 pm"
-      ],
-      "Friday": [
-        "11:30 am–3 pm"
-      ],
-      "Saturday": [
-        "Closed"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 79,
-    "rating": 4.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdMWa7JzICbGJknbhSCTVhDnWn22gIyjlHynEJldK2N30WDV5j8tiGu6O2ylNHBmmic2eMOcXqZJxMPAtAaiBnPRvNqYpvVpTv49g8SmOahMRifNlk6N2HwZ5XBwHXgMGdnf-pc=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdMWa7JzICbGJknbhSCTVhDnWn22gIyjlHynEJldK2N30WDV5j8tiGu6O2ylNHBmmic2eMOcXqZJxMPAtAaiBnPRvNqYpvVpTv49g8SmOahMRifNlk6N2HwZ5XBwHXgMGdnf-pc=w1000-h750-no",
-    "source_query": "Halal restaurant in Kortrijk, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJX1FTk0E7w0cRE9nmJuKQ2v0",
-    "name": "Poky sandwich place",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kortrijk",
-    "address": "Poky sandwich place, Oudenaardsesteenweg 132, 8500 Kortrijk",
-    "street": "Oudenaardsesteenweg 132",
-    "postal_code": "8500",
-    "region": null,
-    "latitude": 50.8205059,
-    "longitude": 3.2841323,
-    "phone": "0484 82 79 94",
-    "website": "https://mymenuweb.com/bel/restaurants/2056294/?utm_source=google_profile&utm_medium=google_profile&utm_campaign=admin",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Poky%20sandwich%20place&query_place_id=ChIJX1FTk0E7w0cRE9nmJuKQ2v0",
-    "open_hours_json": {
-      "Monday": [
-        "7:45 am–5:30 pm"
-      ],
-      "Tuesday": [
-        "7:45 am–5:30 pm"
-      ],
-      "Wednesday": [
-        "7:45 am–5:30 pm"
-      ],
-      "Thursday": [
-        "7:45 am–5:30 pm"
-      ],
-      "Friday": [
-        "7:45 am–5:30 pm"
-      ],
-      "Saturday": [
-        "10:30 am–5:30 pm"
-      ],
-      "Sunday": [
-        "10:30 am–5:30 pm"
-      ]
-    },
-    "review_count": 59,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdQLnnwsFM6aBh0Vf0RxVRlIBOonewIbTP4QB4TcxujVG8hMdYrSUL5avR3xXh0lCLk62YV2YELtvP1vxWHb_sjgMmzTwMbPEHhXtsMf_hvHJeMcvCWOadHWudFizmCUSnChL5N8OMGCDOJ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdQLnnwsFM6aBh0Vf0RxVRlIBOonewIbTP4QB4TcxujVG8hMdYrSUL5avR3xXh0lCLk62YV2YELtvP1vxWHb_sjgMmzTwMbPEHhXtsMf_hvHJeMcvCWOadHWudFizmCUSnChL5N8OMGCDOJ=w1000-h750-no",
-    "source_query": "Halal restaurant in Kortrijk, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJz_9ZFfM7w0cR0U8ZYItaM60",
-    "name": "Praktijk GROW",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kortrijk",
-    "address": "Praktijk GROW, Roggelaan 63, 8500 Kortrijk",
-    "street": "Roggelaan 63",
-    "postal_code": "8500",
-    "region": null,
-    "latitude": 50.8133063,
-    "longitude": 3.2942329999999997,
-    "phone": "0484 94 39 00",
-    "website": "http://www.praktijkgrow.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Praktijk%20GROW&query_place_id=ChIJz_9ZFfM7w0cR0U8ZYItaM60",
-    "open_hours_json": null,
-    "review_count": 2,
-    "rating": 5.0,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=VXxdUwkOvd4M4f70tp61Hg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=104.96494&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=VXxdUwkOvd4M4f70tp61Hg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=104.96494&pitch=0&thumbfov=w1000-h750-no",
-    "source_query": "Pharmacy in Kortrijk, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJRRVxEBs7w0cRzkoGVSNbiNI",
-    "name": "Psychiatric Hospital Holy Family",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kortrijk",
-    "address": "Psychiatric Hospital Holy Family, Groeningepoort 4, 8500 Kortrijk",
-    "street": "Groeningepoort 4",
-    "postal_code": "8500",
-    "region": null,
-    "latitude": 50.827598699999996,
-    "longitude": 3.2747740999999997,
-    "phone": "056 24 52 11",
-    "website": "https://pzhfamilie.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Psychiatric%20Hospital%20Holy%20Family&query_place_id=ChIJRRVxEBs7w0cRzkoGVSNbiNI",
-    "open_hours_json": null,
-    "review_count": 12,
-    "rating": 2.5,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcG9oh7tynck26IL92XJCME4PEniuY-1EM4shTvYdqqFSZTs-46WE95j170999tMkSwEymstR2ts9SQr-061xocw8cuxGOPvbkdWAmcqRULEDKQaUUIv6VK6P1Pa21csvaECIdj4w=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcG9oh7tynck26IL92XJCME4PEniuY-1EM4shTvYdqqFSZTs-46WE95j170999tMkSwEymstR2ts9SQr-061xocw8cuxGOPvbkdWAmcqRULEDKQaUUIv6VK6P1Pa21csvaECIdj4w=w1000-h750-no",
-    "source_query": "Pharmacy in Kortrijk, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJQYI5xh07w0cR87pYE_6fH38",
-    "name": "Q-Park",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kortrijk",
-    "address": "Q-Park, Steenpoort 2, 8500 Kortrijk",
-    "street": "Steenpoort 2",
-    "postal_code": "8500",
-    "region": null,
-    "latitude": 50.8266667,
-    "longitude": 3.2702777999999997,
-    "phone": "02 711 17 00",
-    "website": "http://www.q-park.be/nl/parkeren-bij-q-park/parkings-per-stad",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Q-Park&query_place_id=ChIJQYI5xh07w0cR87pYE_6fH38",
-    "open_hours_json": null,
-    "review_count": 441,
-    "rating": 3.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdQDwhIEMu9q8Ift0N_o5EHG5J60HvdwEB_-tfDhDZ5dPJXv1LN_RylV7qlPoXwYVYjLYxE6QyD9vPd5NbeR5jz9CxmtXDMr0KyV9mkPLxeTydL8FuAdQWkxZmizCZFK7C9cDG46A=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdQDwhIEMu9q8Ift0N_o5EHG5J60HvdwEB_-tfDhDZ5dPJXv1LN_RylV7qlPoXwYVYjLYxE6QyD9vPd5NbeR5jz9CxmtXDMr0KyV9mkPLxeTydL8FuAdQWkxZmizCZFK7C9cDG46A=w1000-h750-no",
-    "source_query": "Hypermarket in Kortrijk, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJP60UelU6w0cRDn4HFSXb72U",
-    "name": "Q8",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kortrijk",
-    "address": "Q8, Brugsesteenweg 184, 8500 Kortrijk",
-    "street": "Brugsesteenweg 184",
-    "postal_code": "8500",
-    "region": null,
-    "latitude": 50.8422227,
-    "longitude": 3.2662598,
-    "phone": "03 241 35 35",
-    "website": "https://www.q8.be/stations/q8-kortrijk-brugsesteenweg",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Q8&query_place_id=ChIJP60UelU6w0cRDn4HFSXb72U",
-    "open_hours_json": {
-      "Monday": [
-        "Open 24 hours"
-      ],
-      "Tuesday": [
-        "Open 24 hours"
-      ],
-      "Wednesday": [
-        "Open 24 hours"
-      ],
-      "Thursday": [
-        "Open 24 hours"
-      ],
-      "Friday": [
-        "Open 24 hours"
-      ],
-      "Saturday": [
-        "Open 24 hours"
-      ],
-      "Sunday": [
-        "Open 24 hours"
-      ]
-    },
-    "review_count": 72,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLepMH5NZZs4j63ayRakZK7LaF8dNUPreaFuayrYKk9suz_knIr6GkW9ZNRK9kFVB4qpi4CkTcQbEd_PK0r0OkEAnxHDRRuGigJ9FdVyuRNrxodu_weNRLyspHvv14bwtm4aHfxg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLepMH5NZZs4j63ayRakZK7LaF8dNUPreaFuayrYKk9suz_knIr6GkW9ZNRK9kFVB4qpi4CkTcQbEd_PK0r0OkEAnxHDRRuGigJ9FdVyuRNrxodu_weNRLyspHvv14bwtm4aHfxg=w1000-h750-no",
-    "source_query": "Hypermarket in Kortrijk, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJNdc9p2o7w0cR0L1SegMVkWQ",
-    "name": "Q8",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kortrijk",
-    "address": "Q8, Oudenaardsesteenweg 268Bis, 8500 Kortrijk",
-    "street": "Oudenaardsesteenweg 268Bis",
-    "postal_code": "8500",
-    "region": null,
-    "latitude": 50.820282999999996,
-    "longitude": 3.2918556999999997,
-    "phone": "056 21 88 18",
-    "website": "https://www.q8.be/stations/q8-kortrijk",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Q8&query_place_id=ChIJNdc9p2o7w0cR0L1SegMVkWQ",
-    "open_hours_json": {
-      "Monday": [
-        "Open 24 hours"
-      ],
-      "Tuesday": [
-        "Open 24 hours"
-      ],
-      "Wednesday": [
-        "Open 24 hours"
-      ],
-      "Thursday": [
-        "Open 24 hours"
-      ],
-      "Friday": [
-        "Open 24 hours"
-      ],
-      "Saturday": [
-        "Open 24 hours"
-      ],
-      "Sunday": [
-        "Open 24 hours"
-      ]
-    },
-    "review_count": 25,
-    "rating": 4.1,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfxOT2uo5qBghCx9DYLZEg5gd67sVl2M7LI47UJ4QZaQQ6B-teOGNQKdCVvjU19bGxu_lvwZ_Lxzi9Ojg77JamjivBPRns6cKdJzpu6Z3KQo4arEpZsNhthjrZq2jSDj42YnSbUn7mn2l8=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfxOT2uo5qBghCx9DYLZEg5gd67sVl2M7LI47UJ4QZaQQ6B-teOGNQKdCVvjU19bGxu_lvwZ_Lxzi9Ojg77JamjivBPRns6cKdJzpu6Z3KQo4arEpZsNhthjrZq2jSDj42YnSbUn7mn2l8=w1000-h750-no",
-    "source_query": "Hypermarket in Kortrijk, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJAyoEe886w0cRjNQl8NUB7A8",
-    "name": "Q8",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kortrijk",
-    "address": "Q8, Pottelberg 130, 8510 Kortrijk",
-    "street": "Pottelberg 130",
-    "postal_code": "8510",
-    "region": null,
-    "latitude": 50.811035999999994,
-    "longitude": 3.2492763,
-    "phone": "03 241 35 35",
-    "website": "https://www.q8.be/stations/q8-kortrijk-marke",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Q8&query_place_id=ChIJAyoEe886w0cRjNQl8NUB7A8",
-    "open_hours_json": {
-      "Monday": [
-        "Open 24 hours"
-      ],
-      "Tuesday": [
-        "Open 24 hours"
-      ],
-      "Wednesday": [
-        "Open 24 hours"
-      ],
-      "Thursday": [
-        "Open 24 hours"
-      ],
-      "Friday": [
-        "Open 24 hours"
-      ],
-      "Saturday": [
-        "Open 24 hours"
-      ],
-      "Sunday": [
-        "Open 24 hours"
-      ]
-    },
-    "review_count": 155,
-    "rating": 4.2,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfSWkfUQPDDAQUPDF-AjFXnSNWtVQBx64AOgw-eO-48XeAxURl0pWmU0Ez49ceIJJ7cCWLL16WH_PnX0_1expubUFyKvqGhKJVhguq3pmTgUuCI-gRq_2ie1f9Ph6VK0d0ciPn2=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfSWkfUQPDDAQUPDF-AjFXnSNWtVQBx64AOgw-eO-48XeAxURl0pWmU0Ez49ceIJJ7cCWLL16WH_PnX0_1expubUFyKvqGhKJVhguq3pmTgUuCI-gRq_2ie1f9Ph6VK0d0ciPn2=w1000-h750-no",
-    "source_query": "Hypermarket in Kortrijk, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJj1V4Zw87w0cRvwxjQF4ITxA",
-    "name": "Rachidi",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kortrijk",
-    "address": "Rachidi, Deerlijksestraat 28, 8500 Kortrijk",
-    "street": "Deerlijksestraat 28",
-    "postal_code": "8500",
-    "region": null,
-    "latitude": 50.8347519,
-    "longitude": 3.2808281,
-    "phone": "056 25 72 31",
-    "website": "https://rachidi.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Rachidi&query_place_id=ChIJj1V4Zw87w0cRvwxjQF4ITxA",
-    "open_hours_json": {
-      "Monday": [
-        "9 am–7 pm"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "9 am–7 pm"
-      ],
-      "Thursday": [
-        "9 am–7 pm"
-      ],
-      "Friday": [
-        "9 am–12:30 pm",
-        "3–7 pm"
-      ],
-      "Saturday": [
-        "9 am–7 pm"
-      ],
-      "Sunday": [
-        "9 am–7 pm"
-      ]
-    },
-    "review_count": 435,
-    "rating": 4.2,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdBWlzmlMWuuIa_c7cM9bZ-pOFJHUVNChbVAJrG9GKqAJaU5PWVXGSE5fZpAPmLS_TAY1Ybjk051r5LrbiS_pwUJSnp968LVsblnW_aVIE0dc5eKkheAxr_5yqxHYcXMnzvomG9=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdBWlzmlMWuuIa_c7cM9bZ-pOFJHUVNChbVAJrG9GKqAJaU5PWVXGSE5fZpAPmLS_TAY1Ybjk051r5LrbiS_pwUJSnp968LVsblnW_aVIE0dc5eKkheAxr_5yqxHYcXMnzvomG9=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Kortrijk, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJa5_6Ihk7w0cRGlakrKhgn8g",
-    "name": "Rahman Supermarket",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kortrijk",
-    "address": "Rahman Supermarket, Zwevegemsestraat 35, 8500 Kortrijk",
-    "street": "Zwevegemsestraat 35",
-    "postal_code": "8500",
-    "region": null,
-    "latitude": 50.8252472,
-    "longitude": 3.2724458,
-    "phone": "056 20 03 49",
-    "website": "http://www.rahman.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Rahman%20Supermarket&query_place_id=ChIJa5_6Ihk7w0cRGlakrKhgn8g",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfLnkGG1iWumUTgU70Zz6rABkxIW-ARDtCamP0MnEF-ROLxD2iYzHtsp6iBxaNPUzfzdDCfpgNkcKRhQbaiZ3F-At8AmF1hWlg_HHrzg0Nk7J5d6VGgWpHUFaTU8GKTE_lXaPs=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfLnkGG1iWumUTgU70Zz6rABkxIW-ARDtCamP0MnEF-ROLxD2iYzHtsp6iBxaNPUzfzdDCfpgNkcKRhQbaiZ3F-At8AmF1hWlg_HHrzg0Nk7J5d6VGgWpHUFaTU8GKTE_lXaPs=w1000-h750-no",
-    "rating": 4.3,
-    "review_count": 803,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJvfs2fKw6w0cR6AicNgt47EM",
-    "name": "Rebelle",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kortrijk",
-    "address": "Rebelle, Rekkemsestraat 226, 8510 Kortrijk",
-    "street": "Rekkemsestraat 226",
-    "postal_code": "8510",
-    "region": null,
-    "latitude": 50.8040186,
-    "longitude": 3.2219142,
-    "phone": "0488 25 74 84",
-    "website": "https://www.restaurantrebelle.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Rebelle&query_place_id=ChIJvfs2fKw6w0cR6AicNgt47EM",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "12–1 pm",
-        "7–8 pm"
-      ],
-      "Wednesday": [
-        "12–1 pm",
-        "7–8 pm"
-      ],
-      "Thursday": [
-        "12–1 pm",
-        "7–8 pm"
-      ],
-      "Friday": [
-        "12–1 pm",
-        "7–8 pm"
-      ],
-      "Saturday": [
-        "12–12:30 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 525,
-    "rating": 4.8,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfcaNxkoQgVI-sJSy8QhEZnL4TYjdJYHYS9s1QWlcqsG-h936V0D67QXypxv5nLyo9l59fG0I-UV5S_gTBlBMI2ucR4NkFQefVQ9F9gMcneedbJmtmPVb2sJshjS5am9DY0aLR5iw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfcaNxkoQgVI-sJSy8QhEZnL4TYjdJYHYS9s1QWlcqsG-h936V0D67QXypxv5nLyo9l59fG0I-UV5S_gTBlBMI2ucR4NkFQefVQ9F9gMcneedbJmtmPVb2sJshjS5am9DY0aLR5iw=w1000-h750-no",
-    "source_query": "Fish restaurant in Kortrijk, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJx5skgUQ7w0cRMp2XWRcNSQI",
-    "name": "Restaurant Cousinas",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kortrijk",
-    "address": "Restaurant Cousinas, Graanmarkt 12, 8500 Kortrijk",
-    "street": "Graanmarkt 12",
-    "postal_code": "8500",
-    "region": null,
-    "latitude": 50.8269276,
-    "longitude": 3.2647804999999996,
-    "phone": "056 22 15 47",
-    "website": "https://www.hoteldamier.be/nl/p/food-and-drinks/cousinas",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20Cousinas&query_place_id=ChIJx5skgUQ7w0cRMp2XWRcNSQI",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "12–2 pm",
-        "6:30–9 pm"
-      ],
-      "Thursday": [
-        "12–2 pm",
-        "6:30–9 pm"
-      ],
-      "Friday": [
-        "12–2 pm",
-        "6:30–9 pm"
-      ],
-      "Saturday": [
-        "12–2 pm",
-        "6:30–9 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 11,
-    "rating": 5.0,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdnsfzuUfcE_1ve4cll92wbSA4lnlvm7328EmZyRRUEPiC9c-53Mi8Tuh1fzOX4UiVdVug6100xwRynKeeEGAudkAMWqonj_YSYLgZSS_QiRA4Tfuu9G0NCs1IlbgZ_ntF-7ogv85WHU2pT=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdnsfzuUfcE_1ve4cll92wbSA4lnlvm7328EmZyRRUEPiC9c-53Mi8Tuh1fzOX4UiVdVug6100xwRynKeeEGAudkAMWqonj_YSYLgZSS_QiRA4Tfuu9G0NCs1IlbgZ_ntF-7ogv85WHU2pT=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Kortrijk, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJB8f7sxs7w0cRd21W__EJalI",
-    "name": "Restaurant Dirkjan Decock",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kortrijk",
-    "address": "Restaurant Dirkjan Decock, Groeningelaan 22, 8500 Kortrijk",
-    "street": "Groeningelaan 22",
-    "postal_code": "8500",
-    "region": null,
-    "latitude": 50.827064299999996,
-    "longitude": 3.275975,
-    "phone": "056 40 40 40",
-    "website": "https://www.dirkjandecock.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20Dirkjan%20Decock&query_place_id=ChIJB8f7sxs7w0cRd21W__EJalI",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "7 pm–12 am"
-      ],
-      "Wednesday": [
-        "7 pm–12 am"
-      ],
-      "Thursday": [
-        "7 pm–12 am"
-      ],
-      "Friday": [
-        "7:30 pm–12 am"
-      ],
-      "Saturday": [
-        "7:30 pm–12 am"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 170,
-    "rating": 4.8,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf5KcjvF2FHrxvqUiY2kBtuMSbcPnNYaV1dmWK3Zvw76ZT8zu3VERYtDte6x2nRxfvRzoNystP7Sky3PmAPAt_CaZSf_Ulyf5wDqbPDIGP2WR6ZDHGAoQwN7kOUF2e9JU6nNSs=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf5KcjvF2FHrxvqUiY2kBtuMSbcPnNYaV1dmWK3Zvw76ZT8zu3VERYtDte6x2nRxfvRzoNystP7Sky3PmAPAt_CaZSf_Ulyf5wDqbPDIGP2WR6ZDHGAoQwN7kOUF2e9JU6nNSs=w1000-h750-no",
-    "source_query": "Halal restaurant in Kortrijk, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ26_YOBw7w0cRS3VjtMUpHfQ",
-    "name": "Restaurant HELLAS",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kortrijk",
-    "address": "Restaurant HELLAS, Sint-Jansstraat 29, 8500 Kortrijk",
-    "street": "Sint-Jansstraat 29",
-    "postal_code": "8500",
-    "region": null,
-    "latitude": 50.8270589,
-    "longitude": 3.271489,
-    "phone": "056 21 20 40",
-    "website": "http://www.hellasrestaurant.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20HELLAS&query_place_id=ChIJ26_YOBw7w0cRS3VjtMUpHfQ",
-    "open_hours_json": {
-      "Monday": [
-        "6:30 pm–12 am"
-      ],
-      "Tuesday": [
-        "6:30 pm–12 am"
-      ],
-      "Wednesday": [
-        "6:30 pm–12 am"
-      ],
-      "Thursday": [
-        "Closed"
-      ],
-      "Friday": [
-        "6:30 pm–12 am"
-      ],
-      "Saturday": [
-        "6:30 pm–12 am"
-      ],
-      "Sunday": [
-        "12–2:30 pm",
-        "6:30 pm–12 am"
-      ]
-    },
-    "review_count": 467,
-    "rating": 4.5,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcxlaH5StCeLajYUYlOFL8JSGvFOCRCjK3tjpS6VvQR3yn6iwCIPk_bbSjO-BKESUrCPtpn5WLmD7Bf1sw_yttw5upHnaZyw-ZENTsZz7wPngJXL24l3-86Py2IvKNLHk9zFgI1=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcxlaH5StCeLajYUYlOFL8JSGvFOCRCjK3tjpS6VvQR3yn6iwCIPk_bbSjO-BKESUrCPtpn5WLmD7Bf1sw_yttw5upHnaZyw-ZENTsZz7wPngJXL24l3-86Py2IvKNLHk9zFgI1=w1000-h750-no",
-    "source_query": "Halal restaurant in Kortrijk, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJZeNjsDw7w0cR4YbJ7ea3XiU",
-    "name": "Restaurant La Rive",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kortrijk",
-    "address": "Restaurant La Rive, Loodwitstraat 75, 8500 Kortrijk",
-    "street": "Loodwitstraat 75",
-    "postal_code": "8500",
-    "region": null,
-    "latitude": 50.8354236,
-    "longitude": 3.2762059999999997,
-    "phone": "056 89 62 62",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20La%20Rive&query_place_id=ChIJZeNjsDw7w0cR4YbJ7ea3XiU",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "12–2:30 pm",
-        "6:30–9:30 pm"
-      ],
-      "Thursday": [
-        "12–2:30 pm",
-        "6:30–9:30 pm"
-      ],
-      "Friday": [
-        "12–2:30 pm",
-        "6:30–9:30 pm"
-      ],
-      "Saturday": [
-        "12–2:30 pm",
-        "6:30–9:30 pm"
-      ],
-      "Sunday": [
-        "12–2:30 pm",
-        "6:30–9:30 pm"
-      ]
-    },
-    "review_count": 14,
-    "rating": 4.4,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfUwMI4H9fX1R1kzyKthFeySuPJ_wL1VZTlO-GLCK3rP5aKvoZOBgGDE36pd0lTU1sDvcok087IKriNdRRo7xP93jlR0vsiHLo1pQgQHXatk8ENRc6E_NvlOl8bdZwMxK1nkWYjLHxA95Y=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfUwMI4H9fX1R1kzyKthFeySuPJ_wL1VZTlO-GLCK3rP5aKvoZOBgGDE36pd0lTU1sDvcok087IKriNdRRo7xP93jlR0vsiHLo1pQgQHXatk8ENRc6E_NvlOl8bdZwMxK1nkWYjLHxA95Y=w1000-h750-no",
-    "source_query": "Fish restaurant in Kortrijk, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJTXGWRBw7w0cRnERmYPP5NaA",
-    "name": "Restaurant Parazaar",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kortrijk",
-    "address": "Restaurant Parazaar, Voorstraat 22a, 8500 Kortrijk",
-    "street": "Voorstraat 22a",
-    "postal_code": "8500",
-    "region": null,
-    "latitude": 50.8277244,
-    "longitude": 3.2713693,
-    "phone": "0468 59 85 52",
-    "website": "http://parazaarkortrijk.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20Parazaar&query_place_id=ChIJTXGWRBw7w0cRnERmYPP5NaA",
-    "open_hours_json": {
-      "Monday": [
-        "12–2:30 pm"
-      ],
-      "Tuesday": [
-        "12–2:30 pm"
-      ],
-      "Wednesday": [
-        "12–2:30 pm"
-      ],
-      "Thursday": [
-        "12–2 pm",
-        "6–9 pm"
-      ],
-      "Friday": [
-        "12–2 pm",
-        "6–9 pm"
-      ],
-      "Saturday": [
-        "12–2 pm",
-        "6–9 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 503,
-    "rating": 4.5,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLffC2VeWQ6YiFWihVKJr6Qo97PaW5AgFLNRGKG7YMzUxKvN9L8L7P5ZtNup30ZvnhjxZeTapSrS4FlkPIl271XXQQya_2pQpN5RiYGHPUSuY25rvFMpCKsEAMtsInNoomcxOcHt=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLffC2VeWQ6YiFWihVKJr6Qo97PaW5AgFLNRGKG7YMzUxKvN9L8L7P5ZtNup30ZvnhjxZeTapSrS4FlkPIl271XXQQya_2pQpN5RiYGHPUSuY25rvFMpCKsEAMtsInNoomcxOcHt=w1000-h750-no",
-    "source_query": "Halal restaurant in Kortrijk, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJqTmai-I6w0cRubujEaSmSVw",
-    "name": "Restaurant Pyramide",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kortrijk",
-    "address": "Restaurant Pyramide, Grote Markt 45, 8500 Kortrijk",
-    "street": "Grote Markt 45",
-    "postal_code": "8500",
-    "region": null,
-    "latitude": 50.827481299999995,
-    "longitude": 3.2651505999999997,
-    "phone": "056 49 55 95",
-    "website": "https://restaurantpyramidekortrijk.com/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20Pyramide&query_place_id=ChIJqTmai-I6w0cRubujEaSmSVw",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdx03R8aXWN6edbNTo-Z_zhjLTykq9Tis3KfkoaGcPw_pwFYq1uoiVQVsNkOIHNHKzMquvplaKvbupskvI3nRe4h83-BPuIAThlg8i0BzAEd-LkzPrZXTcPIdJdt9KkZuEI9a0=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdx03R8aXWN6edbNTo-Z_zhjLTykq9Tis3KfkoaGcPw_pwFYq1uoiVQVsNkOIHNHKzMquvplaKvbupskvI3nRe4h83-BPuIAThlg8i0BzAEd-LkzPrZXTcPIdJdt9KkZuEI9a0=w1000-h750-no",
-    "rating": 4.4,
-    "review_count": 321,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJ68hj1G07w0cREcyQFqMCkB8",
-    "name": "Restaurant Riverso 🇮🇹",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kortrijk",
-    "address": "Restaurant Riverso 🇮🇹, Grote Markt 33, 8500 Kortrijk",
-    "street": "Grote Markt 33",
-    "postal_code": "8500",
-    "region": null,
-    "latitude": 50.827197,
-    "longitude": 3.266397,
-    "phone": "056 75 99 18",
-    "website": "http://www.riversokortrijk.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20Riverso%20%F0%9F%87%AE%F0%9F%87%B9&query_place_id=ChIJ68hj1G07w0cREcyQFqMCkB8",
-    "open_hours_json": {
-      "Monday": [
-        "11:30 am–2 pm",
-        "6–10 pm"
-      ],
-      "Tuesday": [
-        "11:30 am–2 pm",
-        "6–10 pm"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "11:30 am–2 pm",
-        "6–10 pm"
-      ],
-      "Friday": [
-        "11:30 am–2 pm",
-        "6–10 pm"
-      ],
-      "Saturday": [
-        "11:30 am–2 pm",
-        "6–10 pm"
-      ],
-      "Sunday": [
-        "11:30 am–2 pm",
-        "6–10 pm"
-      ]
-    },
-    "review_count": 637,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcVgrEUGXJwcfN8aZLvuBYZmle_5fvFSZoMnZ_pJY5RQr4PfZF3eX2Hf6GJQd7sC_K4RPadZ9mV6GwaHuZflQt52c34tT5ifMCnNKyW6-KJeATtKtY7pT4lKTdhhULpNJaL1_Q1=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcVgrEUGXJwcfN8aZLvuBYZmle_5fvFSZoMnZ_pJY5RQr4PfZF3eX2Hf6GJQd7sC_K4RPadZ9mV6GwaHuZflQt52c34tT5ifMCnNKyW6-KJeATtKtY7pT4lKTdhhULpNJaL1_Q1=w1000-h750-no",
-    "source_query": "Fish restaurant in Kortrijk, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJyx27kmklw0cRHOD3__paHzg",
-    "name": "Restaurant St-Georges",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kortrijk",
-    "address": "Restaurant St-Georges, Aalbekeplaats 5, 8511 Kortrijk",
-    "street": "Aalbekeplaats 5",
-    "postal_code": "8511",
-    "region": null,
-    "latitude": 50.778856,
-    "longitude": 3.2301134,
-    "phone": "056 41 87 00",
-    "website": "https://www.restaurantstgeorges.com/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20St-Georges&query_place_id=ChIJyx27kmklw0cRHOD3__paHzg",
-    "open_hours_json": {
-      "Monday": [
-        "9:30 am–3 pm"
-      ],
-      "Tuesday": [
-        "9:30 am–3 pm"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "9:30 am–3 pm"
-      ],
-      "Friday": [
-        "9:30 am–9 pm"
-      ],
-      "Saturday": [
-        "9:30 am–9 pm"
-      ],
-      "Sunday": [
-        "9:30 am–6 pm"
-      ]
-    },
-    "review_count": 139,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdu19LbBaff3dfAEClSAWkwXlvLWGik3TZPd9--d-T_-Zq-mc9fbF_WznW4VDWuJKHxyY3Jj0z45xsobIEWuIxsGWrHOVtylPyf9jJRZyQD9_XkzXZJTpPqgVVjy7zJgGEywF0XEQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdu19LbBaff3dfAEClSAWkwXlvLWGik3TZPd9--d-T_-Zq-mc9fbF_WznW4VDWuJKHxyY3Jj0z45xsobIEWuIxsGWrHOVtylPyf9jJRZyQD9_XkzXZJTpPqgVVjy7zJgGEywF0XEQ=w1000-h750-no",
-    "source_query": "Fish restaurant in Kortrijk, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ_2C_ih07w0cR85FcLX2mG6A",
-    "name": "Restaurant Vincent",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kortrijk",
-    "address": "Restaurant Vincent, Grote Markt 20, 8500 Kortrijk",
-    "street": "Grote Markt 20",
-    "postal_code": "8500",
-    "region": null,
-    "latitude": 50.8275727,
-    "longitude": 3.2669550999999997,
-    "phone": "056 19 79 59",
-    "website": "https://www.vincentkortrijk.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20Vincent&query_place_id=ChIJ_2C_ih07w0cR85FcLX2mG6A",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "12–1 pm",
-        "7–8:30 pm"
-      ],
-      "Thursday": [
-        "12–1 pm",
-        "7–8 pm"
-      ],
-      "Friday": [
-        "12–1 pm",
-        "7–8 pm"
-      ],
-      "Saturday": [
-        "12–1 pm",
-        "7–8 pm"
-      ],
-      "Sunday": [
-        "12–1 pm"
-      ]
-    },
-    "review_count": 164,
-    "rating": 4.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe9uihDAOVCv1TodOMCh1Jwo5tAodxvZWk-uRvimFQCusBvtls1ofZZ-vIEDyrVqNT-rtg2fb228YqMPadLjui3iFG7f_Mpz5koR4POLMlSH-NeDCKQ62YcYB2n1S48Q54XsMNniQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe9uihDAOVCv1TodOMCh1Jwo5tAodxvZWk-uRvimFQCusBvtls1ofZZ-vIEDyrVqNT-rtg2fb228YqMPadLjui3iFG7f_Mpz5koR4POLMlSH-NeDCKQ62YcYB2n1S48Q54XsMNniQ=w1000-h750-no",
-    "source_query": "Halal restaurant in Kortrijk, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJC04-m-I6w0cRG6CKs7izinc",
-    "name": "Restaurant d' Oude Burcht",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kortrijk",
-    "address": "Restaurant d' Oude Burcht, O.-L.-Vrouwestraat 46, 8500 Kortrijk",
-    "street": "O.-L.-Vrouwestraat 46",
-    "postal_code": "8500",
-    "region": null,
-    "latitude": 50.8293089,
-    "longitude": 3.266803,
-    "phone": "0497 44 10 17",
-    "website": "https://www.oudeburcht.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20d%27%20Oude%20Burcht&query_place_id=ChIJC04-m-I6w0cRG6CKs7izinc",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLckuYmKtFIr-kQenWxw4OZFchPJH2zgv2giGszJgUlkewXaW5vCLOBhvrC7vrK38GJNgQ-qInOI40RFER5qwG_UuiGS6ThNPyuNSfe9SRu884gVSb9Cu387-UarA3Hl6xIN37_svA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLckuYmKtFIr-kQenWxw4OZFchPJH2zgv2giGszJgUlkewXaW5vCLOBhvrC7vrK38GJNgQ-qInOI40RFER5qwG_UuiGS6ThNPyuNSfe9SRu884gVSb9Cu387-UarA3Hl6xIN37_svA=w1000-h750-no",
-    "rating": 4.6,
-    "review_count": 223,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJs2L_-eE6w0cRi5AxuO3kZpA",
-    "name": "Ribs 'n Beer Kortrijk",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kortrijk",
-    "address": "Ribs 'n Beer Kortrijk, Grote Markt 32, 8500 Kortrijk",
-    "street": "Grote Markt 32",
-    "postal_code": "8500",
-    "region": null,
-    "latitude": 50.8272714,
-    "longitude": 3.2666446,
-    "phone": "056 90 65 75",
-    "website": "https://www.ribsnbeer.com/home-kortrijk/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ribs%20%27n%20Beer%20Kortrijk&query_place_id=ChIJs2L_-eE6w0cRi5AxuO3kZpA",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "6–11 pm"
-      ],
-      "Wednesday": [
-        "6–11 pm"
-      ],
-      "Thursday": [
-        "6–11 pm"
-      ],
-      "Friday": [
-        "5:45 pm–12 am"
-      ],
-      "Saturday": [
-        "5:30 pm–12 am"
-      ],
-      "Sunday": [
-        "5:30–10:30 pm"
-      ]
-    },
-    "review_count": 1250,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfw6zHQspchFVo5rO223G3wzO4BUyCfXP3XkcqYzIgejvrNWXNHd32F0p3wQfYUwYjZindpdyPjBotB7tvWiu93IBPvpl6I00JX2bsxkzgzCjcRozxLBRXNF72wi1LPvZtwf4M=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfw6zHQspchFVo5rO223G3wzO4BUyCfXP3XkcqYzIgejvrNWXNHd32F0p3wQfYUwYjZindpdyPjBotB7tvWiu93IBPvpl6I00JX2bsxkzgzCjcRozxLBRXNF72wi1LPvZtwf4M=w1000-h750-no",
-    "source_query": "Halal restaurant in Kortrijk, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJYQOHplY6w0cRN4vGyJZNI7Y",
-    "name": "Ring Kortrijk",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kortrijk",
-    "address": "Ring Kortrijk, Ringlaan 34, 8500 Kortrijk",
-    "street": "Ringlaan 34",
-    "postal_code": "8500",
-    "region": null,
-    "latitude": 50.845827,
-    "longitude": 3.261615,
-    "phone": "056 35 30 62",
-    "website": "https://ringkortrijk.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ring%20Kortrijk&query_place_id=ChIJYQOHplY6w0cRN4vGyJZNI7Y",
-    "open_hours_json": {
-      "Monday": [
-        "10 am–7 pm"
-      ],
-      "Tuesday": [
-        "10 am–7 pm"
-      ],
-      "Wednesday": [
-        "10 am–7 pm"
-      ],
-      "Thursday": [
-        "10 am–7 pm"
-      ],
-      "Friday": [
-        "10 am–7 pm"
-      ],
-      "Saturday": [
-        "9:30 am–7 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 7724,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcWO1dzEerE-vq2ehptrk59B9A_Sp6lTKmJ0FzJG9tUwumooVSq6C5BrYVwK3tJSsFVTWM6svkMOkvsd29_0Scgtf2dsold-p49KHzfSsYJqUKVv_MhMS5DBNugtwbjU_KiWHBFAQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcWO1dzEerE-vq2ehptrk59B9A_Sp6lTKmJ0FzJG9tUwumooVSq6C5BrYVwK3tJSsFVTWM6svkMOkvsd29_0Scgtf2dsold-p49KHzfSsYJqUKVv_MhMS5DBNugtwbjU_KiWHBFAQ=w1000-h750-no",
-    "source_query": "Hypermarket in Kortrijk, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJl9UNUGs7w0cR73v_hM9JNwU",
-    "name": "Roscam / Mark",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kortrijk",
-    "address": "Roscam / Mark, Cipreslaan 6, 8500 Kortrijk",
-    "street": "Cipreslaan 6",
-    "postal_code": "8500",
-    "region": null,
-    "latitude": 50.8245946,
-    "longitude": 3.2923334,
-    "phone": "056 25 65 91",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Roscam%20%2F%20Mark&query_place_id=ChIJl9UNUGs7w0cR73v_hM9JNwU",
-    "open_hours_json": {
-      "Monday": [
-        "8 am–6:30 pm"
-      ],
-      "Tuesday": [
-        "8 am–6:30 pm"
-      ],
-      "Wednesday": [
-        "8 am–6:30 pm"
-      ],
-      "Thursday": [
-        "8 am–6:30 pm"
-      ],
-      "Friday": [
-        "8 am–6:30 pm"
-      ],
-      "Saturday": [
-        "8 am–6:30 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 2,
-    "rating": 4.5,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EeRozKGmw6euDCnRsRob4w&cb_client=search.gws-prod.grass&w=80&h=92&yaw=83.15966&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EeRozKGmw6euDCnRsRob4w&cb_client=search.gws-prod.grass&w=80&h=92&yaw=83.15966&pitch=0&thumbfov=w1000-h750-no",
-    "source_query": "Hypermarket in Kortrijk, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJFfBGr_k7w0cRDoJvOXAG4bY",
-    "name": "SB Food Palace",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kortrijk",
-    "address": "SB Food Palace, Minister de Taeyelaan 52, 8500 Kortrijk",
-    "street": "Minister de Taeyelaan 52",
-    "postal_code": "8500",
-    "region": null,
-    "latitude": 50.8239099,
-    "longitude": 3.2889711999999998,
-    "phone": "0472 08 59 36",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=SB%20Food%20Palace&query_place_id=ChIJFfBGr_k7w0cRDoJvOXAG4bY",
-    "open_hours_json": {
-      "Monday": [
-        "8 am–7:30 pm"
-      ],
-      "Tuesday": [
-        "8 am–7:30 pm"
-      ],
-      "Wednesday": [
-        "8 am–7:30 pm"
-      ],
-      "Thursday": [
-        "8 am–7:30 pm"
-      ],
-      "Friday": [
-        "8 am–7:30 pm"
-      ],
-      "Saturday": [
-        "9 am–7 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 19,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdHUA4vWSx9XagctrB_V5gzaPxULUKAGzi1pjx7_bpfTauQEPCo9G-b3tcGslve0f5FNTbhJg0II7NXdwiM0aY5EUdUBaTdr6Ccs_kzUKaQhk9WNiQd-Tsle-psHWdMUkKfDpbOPA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdHUA4vWSx9XagctrB_V5gzaPxULUKAGzi1pjx7_bpfTauQEPCo9G-b3tcGslve0f5FNTbhJg0II7NXdwiM0aY5EUdUBaTdr6Ccs_kzUKaQhk9WNiQd-Tsle-psHWdMUkKfDpbOPA=w1000-h750-no",
-    "source_query": "Hypermarket in Kortrijk, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJUa4pdcU6w0cRBDki2cVvY8I",
-    "name": "SPAR Kortrijk Pottelberg",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kortrijk",
-    "address": "SPAR Kortrijk Pottelberg, Kampstraat 43, 8500 Kortrijk",
-    "street": "Kampstraat 43",
-    "postal_code": "8500",
-    "region": null,
-    "latitude": 50.8131086,
-    "longitude": 3.2494747999999998,
-    "phone": "056 25 98 50",
-    "website": "https://www.mijnspar.be/winkels/spar-kortrijk",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=SPAR%20Kortrijk%20Pottelberg&query_place_id=ChIJUa4pdcU6w0cRBDki2cVvY8I",
-    "open_hours_json": {
-      "Monday": [
-        "8 am–7 pm"
-      ],
-      "Tuesday": [
-        "8 am–7 pm"
-      ],
-      "Wednesday": [
-        "8 am–7 pm"
-      ],
-      "Thursday": [
-        "8 am–7 pm"
-      ],
-      "Friday": [
-        "8 am–7 pm"
-      ],
-      "Saturday": [
-        "8 am–7 pm"
-      ],
-      "Sunday": [
-        "8 am–12 pm"
-      ]
-    },
-    "review_count": 487,
-    "rating": 4.1,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfSlGcUusdjPlZGxrbQD5Ywi0WxsfRr0OHVt-pMsVKdCvIh_tAOpRLDahYd6m3Gr5ZuGPBJ3vvZpsoZLq9Ht_K700VrQOTWL4DGdav6scjoxjlqfyduPVVKMvDXnGfUBaztVvh8Ng=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfSlGcUusdjPlZGxrbQD5Ywi0WxsfRr0OHVt-pMsVKdCvIh_tAOpRLDahYd6m3Gr5ZuGPBJ3vvZpsoZLq9Ht_K700VrQOTWL4DGdav6scjoxjlqfyduPVVKMvDXnGfUBaztVvh8Ng=w1000-h750-no",
-    "source_query": "Hypermarket in Kortrijk, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJc7gxbDk7w0cR9GbuL0dSWEQ",
-    "name": "SPRS KINE I Kortrijk",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kortrijk",
-    "address": "SPRS KINE I Kortrijk, Walle 6, 8500 Kortrijk",
-    "street": "Walle 6",
-    "postal_code": "8500",
-    "region": null,
-    "latitude": 50.815946,
-    "longitude": 3.2695057,
-    "phone": "0498 39 35 13",
-    "website": "https://www.sprskine.be/kortrijk/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=SPRS%20KINE%20I%20Kortrijk&query_place_id=ChIJc7gxbDk7w0cR9GbuL0dSWEQ",
-    "open_hours_json": {
-      "Monday": [
-        "7 am–10 pm"
-      ],
-      "Tuesday": [
-        "7 am–10 pm"
-      ],
-      "Wednesday": [
-        "7 am–10 pm"
-      ],
-      "Thursday": [
-        "7 am–10 pm"
-      ],
-      "Friday": [
-        "7 am–10 pm"
-      ],
-      "Saturday": [
-        "7 am–1 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 101,
-    "rating": 5.0,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc0RXJjjtrDYbyT45J5tOmGMwW5-oUC3lWGA9Zf-SZ2ERB4UxZTx9zHcIsV0fz8bsDSsB3zXFzh6yQVShFl3OlncpLtLb8yrnbTG7L2wSErEp5CsTb9p-Yu1EhWxd2YU7i1E8UYMlrOPmos=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc0RXJjjtrDYbyT45J5tOmGMwW5-oUC3lWGA9Zf-SZ2ERB4UxZTx9zHcIsV0fz8bsDSsB3zXFzh6yQVShFl3OlncpLtLb8yrnbTG7L2wSErEp5CsTb9p-Yu1EhWxd2YU7i1E8UYMlrOPmos=w1000-h750-no",
-    "source_query": "Pharmacy in Kortrijk, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ0QcKzzw7w0cRvFWWfc5Wi9k",
-    "name": "Sailor Seafood",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kortrijk",
-    "address": "Sailor Seafood, Kapel ter Bede 113, 8500 Kortrijk",
-    "street": "Kapel ter Bede 113",
-    "postal_code": "8500",
-    "region": null,
-    "latitude": 50.8237308,
-    "longitude": 3.2961660999999998,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Sailor%20Seafood&query_place_id=ChIJ0QcKzzw7w0cRvFWWfc5Wi9k",
-    "open_hours_json": null,
-    "review_count": 21,
-    "rating": 4.9,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdO0KEDQej_Z1W6Fvl1M8jSy0wpyY-FZmphwCB7h1r24rHSIe_6c7437SqRFchGI_QKHKXP7f8TJVqamO3a3F3ZHVtVPhLZC06cupJUa4UKThHenYN1d0oeZignFUzgHdloIu8Pmg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdO0KEDQej_Z1W6Fvl1M8jSy0wpyY-FZmphwCB7h1r24rHSIe_6c7437SqRFchGI_QKHKXP7f8TJVqamO3a3F3ZHVtVPhLZC06cupJUa4UKThHenYN1d0oeZignFUzgHdloIu8Pmg=w1000-h750-no",
-    "source_query": "Fish restaurant in Kortrijk, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJbbY2RFU7w0cR0NeQTnB-Z0c",
-    "name": "Salie",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kortrijk",
-    "address": "Salie, Nelson Mandelaplein 2, 8500 Kortrijk",
-    "street": "Nelson Mandelaplein 2",
-    "postal_code": "8500",
-    "region": null,
-    "latitude": 50.8254856,
-    "longitude": 3.2545588999999997,
-    "phone": "0468 32 61 01",
-    "website": "http://www.saliekortrijk.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Salie&query_place_id=ChIJbbY2RFU7w0cR0NeQTnB-Z0c",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdiAvuSwoMepWGnNuwg9xxqWNDuPNxRNN7UpqjlFdb7NFGpolza46yaqNg2lSuZ93ovSZ_45twRCVbPxDAITn3Azighl_chxLwoEm2nzxTmpUm5RMS6ukZ7nYuYuMul=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdiAvuSwoMepWGnNuwg9xxqWNDuPNxRNN7UpqjlFdb7NFGpolza46yaqNg2lSuZ93ovSZ_45twRCVbPxDAITn3Azighl_chxLwoEm2nzxTmpUm5RMS6ukZ7nYuYuMul=w1000-h750-no",
-    "rating": 4.6,
-    "review_count": 44,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJ7YuQCps7w0cRjIE4zkotJQ4",
-    "name": "Sandwicherie",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kortrijk",
-    "address": "Sandwicherie, Steenpoort 30, 8500 Kortrijk",
-    "street": "Steenpoort 30",
-    "postal_code": "8500",
-    "region": null,
-    "latitude": 50.827325599999995,
-    "longitude": 3.2705227,
-    "phone": "0468 13 25 97",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Sandwicherie&query_place_id=ChIJ7YuQCps7w0cRjIE4zkotJQ4",
-    "open_hours_json": {
-      "Monday": [
-        "10 am–2 pm"
-      ],
-      "Tuesday": [
-        "10 am–3 pm"
-      ],
-      "Wednesday": [
-        "10 am–3 pm"
-      ],
-      "Thursday": [
-        "10 am–3 pm"
-      ],
-      "Friday": [
-        "10 am–3 pm"
-      ],
-      "Saturday": [
-        "10 am–3 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 89,
-    "rating": 4.9,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcqD8KiCf6hrbWfx1qYbvISTTSaOixcwMEGj0FXjEAnav90-t_roZYTwAwHAS7IHal-sP4SACarHS8E4PM_eD8TLsKpe-NlfmdUvXgHVjlDjzJo6UgZB5_2x6ZLVJvzKZKzY6c9jfO5eCg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcqD8KiCf6hrbWfx1qYbvISTTSaOixcwMEGj0FXjEAnav90-t_roZYTwAwHAS7IHal-sP4SACarHS8E4PM_eD8TLsKpe-NlfmdUvXgHVjlDjzJo6UgZB5_2x6ZLVJvzKZKzY6c9jfO5eCg=w1000-h750-no",
-    "source_query": "Halal restaurant in Kortrijk, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJQSshbOI6w0cRJWhtV5ZuqDQ",
-    "name": "Savoyard",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kortrijk",
-    "address": "Savoyard, Grote Markt 51, 8500 Kortrijk",
-    "street": "Grote Markt 51",
-    "postal_code": "8500",
-    "region": null,
-    "latitude": 50.8277479,
-    "longitude": 3.2647892,
-    "phone": "056 25 84 74",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Savoyard&query_place_id=ChIJQSshbOI6w0cRJWhtV5ZuqDQ",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdXC7dzdfkrNKLx0Zu-OWz_HDfO0WfW8dE-c1TUkI39mZpaUapF3uZihpDLTU9xqlZ4xaAY7ySYrOyzjSl2Bp324frJ_o0Om5_4P1nCXeEQp8ZVNfqrtOr1KlATqA4cRO-auxBj=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdXC7dzdfkrNKLx0Zu-OWz_HDfO0WfW8dE-c1TUkI39mZpaUapF3uZihpDLTU9xqlZ4xaAY7ySYrOyzjSl2Bp324frJ_o0Om5_4P1nCXeEQp8ZVNfqrtOr1KlATqA4cRO-auxBj=w1000-h750-no",
-    "rating": 4.7,
-    "review_count": 119,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJjyGUDVU6w0cRhhpvA1mLEVU",
-    "name": "Shanghai Restaurant 🇨🇳",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kortrijk",
-    "address": "Shanghai Restaurant 🇨🇳, Brugsesteenweg 243, 8500 Kortrijk",
-    "street": "Brugsesteenweg 243",
-    "postal_code": "8500",
-    "region": null,
-    "latitude": 50.8431176,
-    "longitude": 3.2663737999999998,
-    "phone": "056 35 93 82",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Shanghai%20Restaurant%20%F0%9F%87%A8%F0%9F%87%B3&query_place_id=ChIJjyGUDVU6w0cRhhpvA1mLEVU",
-    "open_hours_json": {
-      "Monday": [
-        "12–2:30 pm",
-        "6–10:30 pm"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "12–2:30 pm",
-        "6–10:30 pm"
-      ],
-      "Thursday": [
-        "12–2:30 pm",
-        "6–10:30 pm"
-      ],
-      "Friday": [
-        "12–2:30 pm",
-        "6–10:30 pm"
-      ],
-      "Saturday": [
-        "11:30 am–2:30 pm",
-        "5:45–11 pm"
-      ],
-      "Sunday": [
-        "11:30 am–2:30 pm",
-        "5:45–11 pm"
-      ]
-    },
-    "review_count": 476,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLde2yLJxBJhHIobteXDkhWGgmAYc5PcLs_2vBjWoLneQg-ZizIgeji9qQYW03a74pxTPje7xTQ9hDWhi8HkPeQC5PJeG9e04E6FRTgTRYl3hBIYlmSeImNIAB3rmPyAdLM6BoB3tw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLde2yLJxBJhHIobteXDkhWGgmAYc5PcLs_2vBjWoLneQg-ZizIgeji9qQYW03a74pxTPje7xTQ9hDWhi8HkPeQC5PJeG9e04E6FRTgTRYl3hBIYlmSeImNIAB3rmPyAdLM6BoB3tw=w1000-h750-no",
-    "source_query": "Halal restaurant in Kortrijk, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJx1ZgZyM7w0cRULJyxN4dL3w",
-    "name": "Slagerij 't Halenplein",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kortrijk",
-    "address": "Slagerij 't Halenplein, Halenplein 5, 8500 Kortrijk",
-    "street": "Halenplein 5",
-    "postal_code": "8500",
-    "region": null,
-    "latitude": 50.8158555,
-    "longitude": 3.2762438,
-    "phone": "056 21 92 81",
-    "website": "https://www.slagerijhalenplein.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Slagerij%20%27t%20Halenplein&query_place_id=ChIJx1ZgZyM7w0cRULJyxN4dL3w",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeDZgLOTIeMCz2gJekHYxBzMPElmQfHu1BEwLXJkydFf4p2KZrKqAHBOnRWFqcEjrSoJER3ZeKbl8DUShuCMdPCThvxBxl3DDb6Uhc7QaYt_Bwy-j_Ge98c8_XJdbYi0wDPxWsvRA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeDZgLOTIeMCz2gJekHYxBzMPElmQfHu1BEwLXJkydFf4p2KZrKqAHBOnRWFqcEjrSoJER3ZeKbl8DUShuCMdPCThvxBxl3DDb6Uhc7QaYt_Bwy-j_Ge98c8_XJdbYi0wDPxWsvRA=w1000-h750-no",
-    "rating": 4.8,
-    "review_count": 30,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJP0MMzR47w0cRNXuUqA6gkzw",
-    "name": "Slagerij Delice Aziz",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kortrijk",
-    "address": "Slagerij Delice Aziz, Sint-Denijsestraat 11, 8500 Kortrijk",
-    "street": "Sint-Denijsestraat 11",
-    "postal_code": "8500",
-    "region": null,
-    "latitude": 50.8240042,
-    "longitude": 3.2726755,
-    "phone": "0486 72 24 19",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Slagerij%20Delice%20Aziz&query_place_id=ChIJP0MMzR47w0cRNXuUqA6gkzw",
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=W4XTcQ8SgZvU0djmuN4dyQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=66.319916&pitch=-1.6843426&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=W4XTcQ8SgZvU0djmuN4dyQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=66.319916&pitch=-1.6843426&thumbfov=w1000-h750-no",
-    "rating": 5.0,
-    "review_count": 2,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJPTgC0AQ7w0cRkQMurxB8_Yw",
-    "name": "Slagerij F & A",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kortrijk",
-    "address": "Slagerij F & A, Veldstraat 14, 8500 Kortrijk",
-    "street": "Veldstraat 14",
-    "postal_code": "8500",
-    "region": null,
-    "latitude": 50.8315731,
-    "longitude": 3.2759989,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Slagerij%20F%20%26%20A&query_place_id=ChIJPTgC0AQ7w0cRkQMurxB8_Yw",
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Gs7TYFu5nNCf1_TnA08szw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=222.71909&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Gs7TYFu5nNCf1_TnA08szw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=222.71909&pitch=0&thumbfov=w1000-h750-no",
-    "rating": 5.0,
-    "review_count": 1,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJEzQHUBs7w0cRN8Iuf5kVUkw",
-    "name": "Slagerij Gaby",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kortrijk",
-    "address": "Slagerij Gaby, Gentsestraat 12, 8500 Kortrijk",
-    "street": "Gentsestraat 12",
-    "postal_code": "8500",
-    "region": null,
-    "latitude": 50.8302705,
-    "longitude": 3.2743849,
-    "phone": "056 22 10 11",
-    "website": "http://www.slagerij-mylle.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Slagerij%20Gaby&query_place_id=ChIJEzQHUBs7w0cRN8Iuf5kVUkw",
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=VRlQebCIGgjydtblJogF5A&cb_client=search.gws-prod.grass&w=80&h=92&yaw=105.356094&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=VRlQebCIGgjydtblJogF5A&cb_client=search.gws-prod.grass&w=80&h=92&yaw=105.356094&pitch=0&thumbfov=w1000-h750-no",
-    "rating": 4.0,
-    "review_count": 1,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJWYgYpx47w0cRJLABLWbW08g",
-    "name": "Slageru Aklim Halal",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kortrijk",
-    "address": "Slageru Aklim Halal, Zwevegemsestraat 26, 8500 Kortrijk",
-    "street": "Zwevegemsestraat 26",
-    "postal_code": "8500",
-    "region": null,
-    "latitude": 50.8256857,
-    "longitude": 3.2719028999999997,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Slageru%20Aklim%20Halal&query_place_id=ChIJWYgYpx47w0cRJLABLWbW08g",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcFrxxcxj4LiedWHaqeNHdnnnC7n7hhQN9RhjuK9D1rCPaNoPxhWQ5J3rAvTflSP3V_EIGHbGQbkFioGaD_fDYRj2TN3E9mvj4aAUBfN5h_hJ2yE4vG0-BVtbCSg-t9hhhAqa7j=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcFrxxcxj4LiedWHaqeNHdnnnC7n7hhQN9RhjuK9D1rCPaNoPxhWQ5J3rAvTflSP3V_EIGHbGQbkFioGaD_fDYRj2TN3E9mvj4aAUBfN5h_hJ2yE4vG0-BVtbCSg-t9hhhAqa7j=w1000-h750-no",
-    "rating": null,
-    "review_count": 0,
-    "verification_status": "VERIFIED",
-    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJJ07dbcw7w0cRtCCMeclAJ1o",
-    "name": "Spicy Lemon",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kortrijk",
-    "address": "Spicy Lemon, Waterpoort 3, 8500 Kortrijk",
-    "street": "Waterpoort 3",
-    "postal_code": "8500",
-    "region": null,
-    "latitude": 50.826538199999995,
-    "longitude": 3.2641335999999996,
-    "phone": "056 90 00 05",
-    "website": "https://www.kkmm.be/spicy-lemon",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Spicy%20Lemon&query_place_id=ChIJJ07dbcw7w0cRtCCMeclAJ1o",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdzNgx8XS9s5AT39JIzhUr9M8sn6D3PgYgmxKebj0mxbqWBZWGPS015yAn1EKe_mzU3LT_wF7ncuS4tlCz5pPg17lk1qYhgnhT4o00U6groEW8s7EcL-G2Q3vH0XVCLx-2f-G8j=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdzNgx8XS9s5AT39JIzhUr9M8sn6D3PgYgmxKebj0mxbqWBZWGPS015yAn1EKe_mzU3LT_wF7ncuS4tlCz5pPg17lk1qYhgnhT4o00U6groEW8s7EcL-G2Q3vH0XVCLx-2f-G8j=w1000-h750-no",
-    "rating": 4.9,
-    "review_count": 678,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJb96jLx47w0cRih_CwFX2Uak",
-    "name": "St Christophe",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kortrijk",
-    "address": "St Christophe, Minister Tacklaan 5, 8500 Kortrijk",
-    "street": "Minister Tacklaan 5",
-    "postal_code": "8500",
-    "region": null,
-    "latitude": 50.823819699999994,
-    "longitude": 3.2671243,
-    "phone": "056 20 03 37",
-    "website": "http://www.stchristophe.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=St%20Christophe&query_place_id=ChIJb96jLx47w0cRih_CwFX2Uak",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "12–1:30 pm",
-        "7–9 pm"
-      ],
-      "Wednesday": [
-        "12–1:30 pm",
-        "7–9 pm"
-      ],
-      "Thursday": [
-        "12–1:30 pm",
-        "7–9 pm"
-      ],
-      "Friday": [
-        "12–1:30 pm",
-        "7–9 pm"
-      ],
-      "Saturday": [
-        "12–1:30 pm",
-        "7–9 pm"
-      ],
-      "Sunday": [
-        "12–1:30 pm"
-      ]
-    },
-    "review_count": 171,
-    "rating": 4.4,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfjDBj-eC3XItQDgt4eHT8ouq-nSjEQXlU9b-wJpue2vpDDfJWxIH5C0XNe415AsE3UUSTnJNL5LzcZYWH0gpxh2Kf698J_ENQLTopZQO_MqoFuI7GEirZ4p1bU6-em_UjNeZ4=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfjDBj-eC3XItQDgt4eHT8ouq-nSjEQXlU9b-wJpue2vpDDfJWxIH5C0XNe415AsE3UUSTnJNL5LzcZYWH0gpxh2Kf698J_ENQLTopZQO_MqoFuI7GEirZ4p1bU6-em_UjNeZ4=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Kortrijk, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJeTNzE-E6w0cRf6GZcE9EzmI",
-    "name": "Stationshop",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kortrijk",
-    "address": "Stationshop, Tolstraat 9, 8500 Kortrijk",
-    "street": "Tolstraat 9",
-    "postal_code": "8500",
-    "region": null,
-    "latitude": 50.8248022,
-    "longitude": 3.2627395999999997,
-    "phone": "0495 23 33 22",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Stationshop&query_place_id=ChIJeTNzE-E6w0cRf6GZcE9EzmI",
-    "open_hours_json": {
-      "Monday": [
-        "11 am–9 pm"
-      ],
-      "Tuesday": [
-        "11 am–9 pm"
-      ],
-      "Wednesday": [
-        "11 am–9 pm"
-      ],
-      "Thursday": [
-        "11 am–9 pm"
-      ],
-      "Friday": [
-        "11 am–9 pm"
-      ],
-      "Saturday": [
-        "12–9 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 22,
-    "rating": 2.0,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf_ajSjW72GA3YhvJ7hv6G_7dDvqNIywT5NG7zBpTPbd8GLKMVLMq00XlNaAhaMFeTKcAJFcuuK_p7BVX0KpWKgcCGxk7NWfeRaXmb3dWWLEcPwSPWZK7gJ4Usd0t21nshlcoU0=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf_ajSjW72GA3YhvJ7hv6G_7dDvqNIywT5NG7zBpTPbd8GLKMVLMq00XlNaAhaMFeTKcAJFcuuK_p7BVX0KpWKgcCGxk7NWfeRaXmb3dWWLEcPwSPWZK7gJ4Usd0t21nshlcoU0=w1000-h750-no",
-    "source_query": "Hypermarket in Kortrijk, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJR_-pVsc7w0cRFbrL0Kfaads",
-    "name": "Sushi kortrijk",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kortrijk",
-    "address": "Sushi kortrijk, Leiestraat 34, 8500 Kortrijk",
-    "street": "Leiestraat 34",
-    "postal_code": "8500",
-    "region": null,
-    "latitude": 50.829070699999995,
-    "longitude": 3.2648466999999997,
-    "phone": "056 19 49 41",
-    "website": "https://www.sushikortrijk.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Sushi%20kortrijk&query_place_id=ChIJR_-pVsc7w0cRFbrL0Kfaads",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "11 am–3 pm",
-        "5–10 pm"
-      ],
-      "Wednesday": [
-        "11 am–3 pm",
-        "5–10 pm"
-      ],
-      "Thursday": [
-        "11 am–3 pm",
-        "5–10 pm"
-      ],
-      "Friday": [
-        "11 am–3 pm",
-        "5–10 pm"
-      ],
-      "Saturday": [
-        "11 am–3 pm",
-        "5–10 pm"
-      ],
-      "Sunday": [
-        "11 am–3 pm",
-        "5–10 pm"
-      ]
-    },
-    "review_count": 147,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf1K3IJlbVxdTGa1prcjc6wFRIKAVZZAr6GkBKobokX73AvWqzQrHP2mknVgV7ipfHVs0MyDDFCUtaWh7jM6fE8ess5BTqYwtEL90X579c9RfGFm6_jSbFITOP4XRlhcJnk_WI=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf1K3IJlbVxdTGa1prcjc6wFRIKAVZZAr6GkBKobokX73AvWqzQrHP2mknVgV7ipfHVs0MyDDFCUtaWh7jM6fE8ess5BTqYwtEL90X579c9RfGFm6_jSbFITOP4XRlhcJnk_WI=w1000-h750-no",
-    "source_query": "Halal restaurant in Kortrijk, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJrS6M2ok7w0cRrkOwEQTyKCI",
-    "name": "THE NUTTY FARMER POP-UP",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kortrijk",
-    "address": "THE NUTTY FARMER POP-UP, Sionstraat 8, 8500 Kortrijk",
-    "street": "Sionstraat 8",
-    "postal_code": "8500",
-    "region": null,
-    "latitude": 50.826667099999995,
-    "longitude": 3.2693464999999997,
-    "phone": "0492 52 13 12",
-    "website": "https://www.thenuttyfarmer.com/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=THE%20NUTTY%20FARMER%20POP-UP&query_place_id=ChIJrS6M2ok7w0cRrkOwEQTyKCI",
-    "open_hours_json": {
-      "Monday": [
-        "10 am–6 pm"
-      ],
-      "Tuesday": [
-        "10 am–7 pm"
-      ],
-      "Wednesday": [
-        "10 am–7 pm"
-      ],
-      "Thursday": [
-        "10 am–7 pm"
-      ],
-      "Friday": [
-        "10 am–7 pm"
-      ],
-      "Saturday": [
-        "10 am–7 pm"
-      ],
-      "Sunday": [
-        "1–6 pm"
-      ]
-    },
-    "review_count": 0,
-    "rating": null,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdKCLMDGhbt6UnD9KiT7mBsG7wY-uvCoBFlkH5GQvrYBew9NXWgN2NEUsxZ-o5AdfkTMxQw5uu7CIxMLHpsY7oBoP_yt2TDQrZ2zmHNYfa_GAbrgp0Rh8447Zc0kG421FhzZlN1OvBJTIQm=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdKCLMDGhbt6UnD9KiT7mBsG7wY-uvCoBFlkH5GQvrYBew9NXWgN2NEUsxZ-o5AdfkTMxQw5uu7CIxMLHpsY7oBoP_yt2TDQrZ2zmHNYfa_GAbrgp0Rh8447Zc0kG421FhzZlN1OvBJTIQm=w1000-h750-no",
-    "source_query": "Hypermarket in Kortrijk, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJLzoNs7U7w0cRdYLWYHtXtpM",
-    "name": "TROPICAL GARDEN",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kortrijk",
-    "address": "TROPICAL GARDEN, Sint-Sebastiaanslaan 1, 8500 Kortrijk",
-    "street": "Sint-Sebastiaanslaan 1",
-    "postal_code": "8500",
-    "region": null,
-    "latitude": 50.8228632,
-    "longitude": 3.261221,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=TROPICAL%20GARDEN&query_place_id=ChIJLzoNs7U7w0cRdYLWYHtXtpM",
-    "open_hours_json": {
-      "Monday": [
-        "8 am–8 pm"
-      ],
-      "Tuesday": [
-        "8 am–8 pm"
-      ],
-      "Wednesday": [
-        "8 am–8 pm"
-      ],
-      "Thursday": [
-        "8 am–8 pm"
-      ],
-      "Friday": [
-        "8 am–12 pm",
-        "3–9 pm"
-      ],
-      "Saturday": [
-        "8 am–8 pm"
-      ],
-      "Sunday": [
-        "10 am–6 pm"
-      ]
-    },
-    "review_count": 98,
-    "rating": 4.9,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfXRFkw2iBywpw3Y3T-DYpvoCTB_Bd8uB8F9BTIEhoNQyduFSZf0dTkQ1zLYIhOw20xxfYAY8tMLNNMCC4tjXpG-D9dmMnoHvEGUJcIaZcTTNiwnAtWT_oboSntRPZMUmDEogxdEu4vkfUZ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfXRFkw2iBywpw3Y3T-DYpvoCTB_Bd8uB8F9BTIEhoNQyduFSZf0dTkQ1zLYIhOw20xxfYAY8tMLNNMCC4tjXpG-D9dmMnoHvEGUJcIaZcTTNiwnAtWT_oboSntRPZMUmDEogxdEu4vkfUZ=w1000-h750-no",
-    "source_query": "Hypermarket in Kortrijk, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJTSDYBhA7w0cRsSdTcOko66c",
-    "name": "Tai Chi Kortrijk",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kortrijk",
-    "address": "Tai Chi Kortrijk, Passionistenlaan 1b, 8500 Kortrijk",
-    "street": "Passionistenlaan 1b",
-    "postal_code": "8500",
-    "region": null,
-    "latitude": 50.8264547,
-    "longitude": 3.2797155,
-    "phone": "0490 66 56 42",
-    "website": "http://www.taichikortrijk.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Tai%20Chi%20Kortrijk&query_place_id=ChIJTSDYBhA7w0cRsSdTcOko66c",
-    "open_hours_json": {
-      "Monday": [
-        "6:15–9:30 pm"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "7–9:30 pm"
-      ],
-      "Thursday": [
-        "Closed"
-      ],
-      "Friday": [
-        "Closed"
-      ],
-      "Saturday": [
-        "Closed"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 54,
-    "rating": 4.8,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeo1fdboePidxSir0FF9Xrupy0W25_yDKl376bjuTiLz7PVa6gTQTZwti1Xr_h747JFTsH9ISaTwh2-1FtslUD6VmT6VUFqa_2w3mqWU1fm_ECQgBpb5B2KNUPs_ILuz6e_r3IL=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeo1fdboePidxSir0FF9Xrupy0W25_yDKl376bjuTiLz7PVa6gTQTZwti1Xr_h747JFTsH9ISaTwh2-1FtslUD6VmT6VUFqa_2w3mqWU1fm_ECQgBpb5B2KNUPs_ILuz6e_r3IL=w1000-h750-no",
-    "source_query": "Pharmacy in Kortrijk, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJK7lsb8E7w0cRsx2ioqUG1bw",
-    "name": "Thai Lin 🇹🇭 - Thais restaurant Kortrijk",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kortrijk",
-    "address": "Thai Lin 🇹🇭 - Thais restaurant Kortrijk, Dolfijnkaai 3, 8500 Kortrijk",
-    "street": "Dolfijnkaai 3",
-    "postal_code": "8500",
-    "region": null,
-    "latitude": 50.8293049,
-    "longitude": 3.2639999,
-    "phone": "056 51 20 48",
-    "website": "http://www.thailin.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Thai%20Lin%20%F0%9F%87%B9%F0%9F%87%AD%20-%20Thais%20restaurant%20Kortrijk&query_place_id=ChIJK7lsb8E7w0cRsx2ioqUG1bw",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "6:30–9:30 pm"
-      ],
-      "Thursday": [
-        "6:30–9:30 pm"
-      ],
-      "Friday": [
-        "6:30–10 pm"
-      ],
-      "Saturday": [
-        "6–10 pm"
-      ],
-      "Sunday": [
-        "12–2 pm",
-        "6–9 pm"
-      ]
-    },
-    "review_count": 136,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLedhULivQ41dyOwpAIWi1xjmpREuAu5WmWdQ2tsoSNEFxcJj65bjgL7yNzkDTgsMqDe71urEMuYx7r8hYIP3RI99tYdRcOrSesdhF37-ghjWBlaRWTqIg2JKLtnN3qB_Qv31GEr=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLedhULivQ41dyOwpAIWi1xjmpREuAu5WmWdQ2tsoSNEFxcJj65bjgL7yNzkDTgsMqDe71urEMuYx7r8hYIP3RI99tYdRcOrSesdhF37-ghjWBlaRWTqIg2JKLtnN3qB_Qv31GEr=w1000-h750-no",
-    "source_query": "Halal restaurant in Kortrijk, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJr_zem5ojw0cRSxW9QgGCM3w",
-    "name": "The Difference",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kortrijk",
-    "address": "The Difference, Doornikserijksweg 379, 8510 Kortrijk",
-    "street": "Doornikserijksweg 379",
-    "postal_code": "8510",
-    "region": null,
-    "latitude": 50.7468803,
-    "longitude": 3.3207088999999996,
-    "phone": "056 49 80 90",
-    "website": "http://www.ladifference-culinair.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=The%20Difference&query_place_id=ChIJr_zem5ojw0cRSxW9QgGCM3w",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "12–9:30 pm"
-      ],
-      "Thursday": [
-        "12–9:30 pm"
-      ],
-      "Friday": [
-        "12–9:30 pm"
-      ],
-      "Saturday": [
-        "12–9:30 pm"
-      ],
-      "Sunday": [
-        "12–9:30 pm"
-      ]
-    },
-    "review_count": 285,
-    "rating": 4.5,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcl2D0kNJCkttNZsgzyNUT8uKcvhVU5oQtS5Poj87YRSCjNryMGB0t0jv9XeYVU1f9crNR6xIfLjHdbf1PEC59sFeFKsd87bBAMuNTxS8Ff5P3SBZwxHXeUmNZYWl5BkndEnE93=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcl2D0kNJCkttNZsgzyNUT8uKcvhVU5oQtS5Poj87YRSCjNryMGB0t0jv9XeYVU1f9crNR6xIfLjHdbf1PEC59sFeFKsd87bBAMuNTxS8Ff5P3SBZwxHXeUmNZYWl5BkndEnE93=w1000-h750-no",
-    "source_query": "Fish restaurant in Kortrijk, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJKecKZRU7w0cRhOB1vy5kots",
-    "name": "The Indian FoodStore",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kortrijk",
-    "address": "The Indian FoodStore, Oudenaardsesteenweg 265, 8500 Kortrijk",
-    "street": "Oudenaardsesteenweg 265",
-    "postal_code": "8500",
-    "region": null,
-    "latitude": 50.820968,
-    "longitude": 3.2891323,
-    "phone": "0483 59 96 06",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=The%20Indian%20FoodStore&query_place_id=ChIJKecKZRU7w0cRhOB1vy5kots",
-    "open_hours_json": {
-      "Monday": [
-        "8 am–8 pm"
-      ],
-      "Tuesday": [
-        "8 am–8 pm"
-      ],
-      "Wednesday": [
-        "8 am–8 pm"
-      ],
-      "Thursday": [
-        "8 am–8 pm"
-      ],
-      "Friday": [
-        "8 am–9 pm"
-      ],
-      "Saturday": [
-        "8 am–8 pm"
-      ],
-      "Sunday": [
-        "8 am–8 pm"
-      ]
-    },
-    "review_count": 21,
-    "rating": 3.2,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=bk5ucucK1iGIu0PJndRjnw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=12.4835825&pitch=-2.3494842&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=bk5ucucK1iGIu0PJndRjnw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=12.4835825&pitch=-2.3494842&thumbfov=w1000-h750-no",
-    "source_query": "Hypermarket in Kortrijk, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJtVJqtow7w0cRJSN6V6qzv8I",
-    "name": "The Indian Kitchen Kortrijk",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kortrijk",
-    "address": "The Indian Kitchen Kortrijk, Grote Markt 40, 8500 Kortrijk",
-    "street": "Grote Markt 40",
-    "postal_code": "8500",
-    "region": null,
-    "latitude": 50.8273016,
-    "longitude": 3.2653781,
-    "phone": "056 20 02 11",
-    "website": "https://www.theindiankitchen.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=The%20Indian%20Kitchen%20Kortrijk&query_place_id=ChIJtVJqtow7w0cRJSN6V6qzv8I",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfQiK1-vdf9xczoV7jrpFxg2nIgfgTerqEM6lTRg3a5b_Hrm5bQ2Bb3X-ApfyDEMzn3uoOP5YJI_TMunG_6gvK12D1CQFFPZ4PjCGkyLWroxyOFGL8FZt2-Vabp0HT8e6wVBfu5wXv3QaQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfQiK1-vdf9xczoV7jrpFxg2nIgfgTerqEM6lTRg3a5b_Hrm5bQ2Bb3X-ApfyDEMzn3uoOP5YJI_TMunG_6gvK12D1CQFFPZ4PjCGkyLWroxyOFGL8FZt2-Vabp0HT8e6wVBfu5wXv3QaQ=w1000-h750-no",
-    "rating": 4.7,
-    "review_count": 145,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJ0xhyUgM7w0cRn_1TEFzN4s0",
-    "name": "The Toast Club",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kortrijk",
-    "address": "The Toast Club, Lange-Steenstraat 21, 8500 Kortrijk",
-    "street": "Lange-Steenstraat 21",
-    "postal_code": "8500",
-    "region": null,
-    "latitude": 50.826583,
-    "longitude": 3.2678285999999996,
-    "phone": "0471 86 46 51",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=The%20Toast%20Club&query_place_id=ChIJ0xhyUgM7w0cRn_1TEFzN4s0",
-    "open_hours_json": {
-      "Monday": [
-        "11 am–5:30 pm"
-      ],
-      "Tuesday": [
-        "11 am–5:30 pm"
-      ],
-      "Wednesday": [
-        "10:30 am–6 pm"
-      ],
-      "Thursday": [
-        "10:30 am–6 pm"
-      ],
-      "Friday": [
-        "10:30 am–7 pm"
-      ],
-      "Saturday": [
-        "10:30 am–7 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 57,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd2FpQgLQI_N9sB69S213nLO8bsuBTa2Cn3zeGiwzKdWLRysuDsaDx0EP6bjSXijsg1KL55HpuzpZiaS4h4wh430CQSaQZvHDwIO7ToStSzJuFh7saWEw2QIFqkmWUbVQoFlSqGBg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd2FpQgLQI_N9sB69S213nLO8bsuBTa2Cn3zeGiwzKdWLRysuDsaDx0EP6bjSXijsg1KL55HpuzpZiaS4h4wh430CQSaQZvHDwIO7ToStSzJuFh7saWEw2QIFqkmWUbVQoFlSqGBg=w1000-h750-no",
-    "source_query": "Halal restaurant in Kortrijk, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJvcxMvmY7w0cRrv-VtRbt7RY",
-    "name": "Thi Thu Lan",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kortrijk",
-    "address": "Thi Thu Lan, Wijngaardstraat 44, 8500 Kortrijk",
-    "street": "Wijngaardstraat 44",
-    "postal_code": "8500",
-    "region": null,
-    "latitude": 50.8260648,
-    "longitude": 3.2705189999999997,
-    "phone": "0498 67 01 34",
-    "website": "http://www.thithulan.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Thi%20Thu%20Lan&query_place_id=ChIJvcxMvmY7w0cRrv-VtRbt7RY",
-    "open_hours_json": {
-      "Monday": [
-        "5:30–9:30 pm"
-      ],
-      "Tuesday": [
-        "11:30 am–2:30 pm",
-        "5:30–9:30 pm"
-      ],
-      "Wednesday": [
-        "11:30 am–2:30 pm",
-        "5:30–9:30 pm"
-      ],
-      "Thursday": [
-        "11:30 am–2:30 pm",
-        "5:30–9:30 pm"
-      ],
-      "Friday": [
-        "11:30 am–2:30 pm",
-        "5:30–9:30 pm"
-      ],
-      "Saturday": [
-        "11:30 am–2:30 pm",
-        "6–9:30 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 66,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcynHHO_t0Sn67mxvks_Qhy30Bdw4zmd6372JSH8DTwPEH2Bdz7OKtgnztosnsDyyCu_iY6oZMJspqCb6QeCinal_AJn1Jy1YUI0qlYTJarfKfyZH_Wgrv-58qd8cm21f2KsZAf=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcynHHO_t0Sn67mxvks_Qhy30Bdw4zmd6372JSH8DTwPEH2Bdz7OKtgnztosnsDyyCu_iY6oZMJspqCb6QeCinal_AJn1Jy1YUI0qlYTJarfKfyZH_Wgrv-58qd8cm21f2KsZAf=w1000-h750-no",
-    "source_query": "Fish restaurant in Kortrijk, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJtXMF9Qo7w0cR79XtLs_yWkE",
-    "name": "Tiệm Thoa",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kortrijk",
-    "address": "Tiệm Thoa, Doorniksewijk 130, 8500 Kortrijk",
-    "street": "Doorniksewijk 130",
-    "postal_code": "8500",
-    "region": null,
-    "latitude": 50.819565399999995,
-    "longitude": 3.2690981,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ti%E1%BB%87m%20Thoa&query_place_id=ChIJtXMF9Qo7w0cR79XtLs_yWkE",
-    "open_hours_json": {
-      "Monday": [
-        "Open 24 hours"
-      ],
-      "Tuesday": [
-        "Open 24 hours"
-      ],
-      "Wednesday": [
-        "Open 24 hours"
-      ],
-      "Thursday": [
-        "Open 24 hours"
-      ],
-      "Friday": [
-        "Open 24 hours"
-      ],
-      "Saturday": [
-        "Open 24 hours"
-      ],
-      "Sunday": [
-        "Open 24 hours"
-      ]
-    },
-    "review_count": 0,
-    "rating": null,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wfAIT1ihGMzecvXGtxNc8A&cb_client=search.gws-prod.grass&w=80&h=92&yaw=272.09918&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wfAIT1ihGMzecvXGtxNc8A&cb_client=search.gws-prod.grass&w=80&h=92&yaw=272.09918&pitch=0&thumbfov=w1000-h750-no",
-    "source_query": "Hypermarket in Kortrijk, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJbQzxJB07w0cRbWBP4H-cbUc",
-    "name": "Top chicken",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kortrijk",
-    "address": "Top chicken, Spoorweglaan 31, 8500 Kortrijk",
-    "street": "Spoorweglaan 31",
-    "postal_code": "8500",
-    "region": null,
-    "latitude": 50.8248707,
-    "longitude": 3.2720035999999997,
-    "phone": "0494 81 11 11",
-    "website": "https://www.topchicken.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Top%20chicken&query_place_id=ChIJbQzxJB07w0cRbWBP4H-cbUc",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW3WJHBOtFcvO4UVA7hvfGfl9PXWLB0BAwCB4CljDzRThPUhhmWr5PSyUaDc5g1ye_m2v35R9N4-_b2uei_WevzicfFaTYWK0WTkyK5Tl6EIax0lgs-qZAjzsZheQR_24xrNlnZuMuE3wqGcMLMozlVp6-ONJXqLoAKBukKhfs2LxIyIqfOEhQDXMg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW3WJHBOtFcvO4UVA7hvfGfl9PXWLB0BAwCB4CljDzRThPUhhmWr5PSyUaDc5g1ye_m2v35R9N4-_b2uei_WevzicfFaTYWK0WTkyK5Tl6EIax0lgs-qZAjzsZheQR_24xrNlnZuMuE3wqGcMLMozlVp6-ONJXqLoAKBukKhfs2LxIyIqfOEhQDXMg=w1000-h750-no",
-    "rating": 4.3,
-    "review_count": 94,
-    "verification_status": "VERIFIED",
-    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJq6qqqvE6w0cR8BQLWrG40Bs",
-    "name": "Truong Son - Asian supermarket",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kortrijk",
-    "address": "Truong Son - Asian supermarket, Kortrijksestraat 258, 8501 Kortrijk",
-    "street": "Kortrijksestraat 258",
-    "postal_code": "8501",
-    "region": null,
-    "latitude": 50.8362912,
-    "longitude": 3.2460899,
-    "phone": "056 37 33 36",
-    "website": "https://www.facebook.com/TRUONGSONSUPERMARKT",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Truong%20Son%20-%20Asian%20supermarket&query_place_id=ChIJq6qqqvE6w0cR8BQLWrG40Bs",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "9:30 am–7 pm"
-      ],
-      "Wednesday": [
-        "9:30 am–7 pm"
-      ],
-      "Thursday": [
-        "9:30 am–7 pm"
-      ],
-      "Friday": [
-        "9:30 am–7 pm"
-      ],
-      "Saturday": [
-        "9:30 am–7 pm"
-      ],
-      "Sunday": [
-        "9:30 am–7 pm"
-      ]
-    },
-    "review_count": 600,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeT-v-O9jFXiD4A1PtzBP8qXbPQyrKXxGSg2l4jKPmAUx5i6JsQvoTlD-v1P1O1EWC0qi4qD0_kuRX1UZURxorJe9AGKZue3SXSx-9TiQkyW6NxQ5V-v3ygr_id6Ss3fyKo6uYr=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeT-v-O9jFXiD4A1PtzBP8qXbPQyrKXxGSg2l4jKPmAUx5i6JsQvoTlD-v1P1O1EWC0qi4qD0_kuRX1UZURxorJe9AGKZue3SXSx-9TiQkyW6NxQ5V-v3ygr_id6Ss3fyKo6uYr=w1000-h750-no",
-    "source_query": "Hypermarket in Kortrijk, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJTWGxHBk7w0cRlThxv7OhYfw",
-    "name": "Turks Bakkerij",
-    "type": "bakery",
-    "category": "bakery",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kortrijk",
-    "address": "Turks Bakkerij, Zwevegemsestraat 140, 8500 Kortrijk",
-    "street": "Zwevegemsestraat 140",
-    "postal_code": "8500",
-    "region": null,
-    "latitude": 50.82346,
-    "longitude": 3.2750391999999997,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Turks%20Bakkerij&query_place_id=ChIJTWGxHBk7w0cRlThxv7OhYfw",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "6:30 am–8 pm"
-      ],
-      "Wednesday": [
-        "6:30 am–8 pm"
-      ],
-      "Thursday": [
-        "6:30 am–8 pm"
-      ],
-      "Friday": [
-        "6:30 am–8 pm"
-      ],
-      "Saturday": [
-        "6:30 am–8 pm"
-      ],
-      "Sunday": [
-        "6:30 am–8 pm"
-      ]
-    },
-    "review_count": 21,
-    "rating": 4.8,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=uxksK9fJXTBmhPunkCmokQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=165.70482&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=uxksK9fJXTBmhPunkCmokQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=165.70482&pitch=0&thumbfov=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Kortrijk, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ21WPPR47w0cRTVX39RdMGVQ",
-    "name": "VORK",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kortrijk",
-    "address": "VORK, Doorniksestraat 60, 8500 Kortrijk",
-    "street": "Doorniksestraat 60",
-    "postal_code": "8500",
-    "region": null,
-    "latitude": 50.8247473,
-    "longitude": 3.2676672,
-    "phone": "0473 86 26 47",
-    "website": "https://www.kortrijk.be/vork",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=VORK&query_place_id=ChIJ21WPPR47w0cRTVX39RdMGVQ",
-    "open_hours_json": {
-      "Monday": [
-        "9 am–3 pm"
-      ],
-      "Tuesday": [
-        "9 am–3 pm"
-      ],
-      "Wednesday": [
-        "9 am–3 pm"
-      ],
-      "Thursday": [
-        "9 am–3 pm",
-        "6–8 pm"
-      ],
-      "Friday": [
-        "9 am–3 pm"
-      ],
-      "Saturday": [
-        "Closed"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 291,
-    "rating": 4.5,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeN8VI6CrHwWrbq9dFCIvrztvTzA0pbEQRbBSVJ-eLrbucr5_xGUWaTp72ufzQNPxpet2Tcgh2daX3_aAFsr2lLYw6I5088puLF9kkdHVIu-k7KX4wBGwYAUlodHIQmDI7dqzk6=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeN8VI6CrHwWrbq9dFCIvrztvTzA0pbEQRbBSVJ-eLrbucr5_xGUWaTp72ufzQNPxpet2Tcgh2daX3_aAFsr2lLYw6I5088puLF9kkdHVIu-k7KX4wBGwYAUlodHIQmDI7dqzk6=w1000-h750-no",
-    "source_query": "Fish restaurant in Kortrijk, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJAZFoluI6w0cRDZ8hJ_mlrsA",
-    "name": "Va et Vient",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kortrijk",
-    "address": "Va et Vient, Handboogstraat 20, 8500 Kortrijk",
-    "street": "Handboogstraat 20",
-    "postal_code": "8500",
-    "region": null,
-    "latitude": 50.8297181,
-    "longitude": 3.2661344999999997,
-    "phone": "056 20 45 17",
-    "website": "http://www.vaetvient.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Va%20et%20Vient&query_place_id=ChIJAZFoluI6w0cRDZ8hJ_mlrsA",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "12–1:30 pm",
-        "7–9 pm"
-      ],
-      "Wednesday": [
-        "12–1:30 pm",
-        "7–9 pm"
-      ],
-      "Thursday": [
-        "12–1:30 pm",
-        "7–9 pm"
-      ],
-      "Friday": [
-        "12–1:30 pm",
-        "7–9 pm"
-      ],
-      "Saturday": [
-        "7–9 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 355,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdnTr65c7N6iY_GdBESMhniUwMc-ve6DI3McwvVpo_aqqDINCIAY3kRScdCNTD0-MsMV10V674ints9RWkyON2hAZkBSlxuQr9i6LDXfjFUXaKP5qMV9UHQge-2CwvAwykC2Is=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdnTr65c7N6iY_GdBESMhniUwMc-ve6DI3McwvVpo_aqqDINCIAY3kRScdCNTD0-MsMV10V674ints9RWkyON2hAZkBSlxuQr9i6LDXfjFUXaKP5qMV9UHQge-2CwvAwykC2Is=w1000-h750-no",
     "source_query": "Halal restaurant in Kortrijk, Flanders, BE",
     "moderation_status": "approved",
     "is_active": true,

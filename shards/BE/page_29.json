@@ -1,5 +1,900 @@
 [
   {
+    "place_id": "ChIJv_NfFoBZwkcROXMRZG9KqWU",
+    "name": "Hard Ribs",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Saint-Ghislain",
+    "address": "Hard Ribs, Av. de l'Enseignement 1, 7330 Saint-Ghislain",
+    "street": "Av. de l'Enseignement 1",
+    "postal_code": "7330",
+    "region": null,
+    "latitude": 50.447584799999994,
+    "longitude": 3.8196706999999996,
+    "phone": "065 60 07 50",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Hard%20Ribs&query_place_id=ChIJv_NfFoBZwkcROXMRZG9KqWU",
+    "open_hours_json": {
+      "Monday": [
+        "11 am–5 pm"
+      ],
+      "Tuesday": [
+        "11 am–5 pm"
+      ],
+      "Wednesday": [
+        "11 am–2 pm"
+      ],
+      "Thursday": [
+        "11 am–5 pm"
+      ],
+      "Friday": [
+        "11 am–9:30 pm"
+      ],
+      "Saturday": [
+        "5–9:30 pm"
+      ],
+      "Sunday": [
+        "5–9:30 pm"
+      ]
+    },
+    "review_count": 73,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdweJLP1hkxzrwFOXXg6axPiqgs6Tm8Kt5yzyoKb1wUsFaolpDrB1BLTitTgWtVLAivTuhdjWiJlYuF2B2FfJjJQQlRJwpDUNm7q0wmaaTKKgQE5nJsgDmEGVyUOouxm0M-1AfGtw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdweJLP1hkxzrwFOXXg6axPiqgs6Tm8Kt5yzyoKb1wUsFaolpDrB1BLTitTgWtVLAivTuhdjWiJlYuF2B2FfJjJQQlRJwpDUNm7q0wmaaTKKgQE5nJsgDmEGVyUOouxm0M-1AfGtw=w1000-h750-no",
+    "source_query": "Halal restaurant in Saint-Ghislain, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJBzvCsttZwkcRAwAGgwSizCQ",
+    "name": "Hôtel-restaurant l’Escargot d’Or",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Saint-Ghislain",
+    "address": "Hôtel-restaurant l’Escargot d’Or, Rue Grande 105, 7330 Saint-Ghislain",
+    "street": "Rue Grande 105",
+    "postal_code": "7330",
+    "region": null,
+    "latitude": 50.443955599999995,
+    "longitude": 3.821172,
+    "phone": "065 62 18 90",
+    "website": "http://lescargot-dor.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=H%C3%B4tel-restaurant%20l%E2%80%99Escargot%20d%E2%80%99Or&query_place_id=ChIJBzvCsttZwkcRAwAGgwSizCQ",
+    "open_hours_json": {
+      "Monday": [
+        "12–2:30 pm",
+        "6–10 pm"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "12–2:30 pm",
+        "6–10 pm"
+      ],
+      "Friday": [
+        "12–2:30 pm",
+        "6–10:30 pm"
+      ],
+      "Saturday": [
+        "12–2:30 pm",
+        "6–10:30 pm"
+      ],
+      "Sunday": [
+        "12–10 pm"
+      ]
+    },
+    "review_count": 430,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcurUiskzOPIyQJdOpYuEpOTMDgJ3djKqGz3rYDavsntVgzOL1l8sxPXIm2lHGMjeZswNBNQc_M3i1JX5cVeocloa44APB-DcjFNwYM5xCDC1JwF7afHu6c13l3ApNJM1JN6ALr=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcurUiskzOPIyQJdOpYuEpOTMDgJ3djKqGz3rYDavsntVgzOL1l8sxPXIm2lHGMjeZswNBNQc_M3i1JX5cVeocloa44APB-DcjFNwYM5xCDC1JwF7afHu6c13l3ApNJM1JN6ALr=w1000-h750-no",
+    "source_query": "Fish restaurant in Saint-Ghislain, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJh2tITdhZwkcRIM8z8fqn7Rk",
+    "name": "La Table Du Mandarin",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Saint-Ghislain",
+    "address": "La Table Du Mandarin, Grand'Place 40, 7330 Saint-Ghislain",
+    "street": "Grand'Place 40",
+    "postal_code": "7330",
+    "region": null,
+    "latitude": 50.448405199999996,
+    "longitude": 3.8205999999999998,
+    "phone": "065 77 82 52",
+    "website": "https://m.facebook.com/La-Table-Du-Mandarin-142742029170210",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Table%20Du%20Mandarin&query_place_id=ChIJh2tITdhZwkcRIM8z8fqn7Rk",
+    "open_hours_json": {
+      "Monday": [
+        "12–2:30 pm",
+        "6–11 pm"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "12–2:30 pm",
+        "6–11 pm"
+      ],
+      "Friday": [
+        "12–2:30 pm",
+        "6–11 pm"
+      ],
+      "Saturday": [
+        "12–2:30 pm",
+        "6–11 pm"
+      ],
+      "Sunday": [
+        "12–2:30 pm",
+        "6–11 pm"
+      ]
+    },
+    "review_count": 564,
+    "rating": 4.4,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfs2I31lAI3YVqovqHXd4eDk4lhPDgCxt-S-y3ugFHh-zElhtpuMwkofQJghT2Pwka7uid4U-gGDGkUVJf_PWpzSkMEjcnowni5fK1QkU6dNA_bEbjVGpVouQfydmZ3ZJwbh-A=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfs2I31lAI3YVqovqHXd4eDk4lhPDgCxt-S-y3ugFHh-zElhtpuMwkofQJghT2Pwka7uid4U-gGDGkUVJf_PWpzSkMEjcnowni5fK1QkU6dNA_bEbjVGpVouQfydmZ3ZJwbh-A=w1000-h750-no",
+    "source_query": "Halal restaurant in Saint-Ghislain, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJg3f3s-hZwkcRaKcm4AtRmls",
+    "name": "La sole gourmande",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Saint-Ghislain",
+    "address": "La sole gourmande, Rue Grande 84, 7330 Saint-Ghislain",
+    "street": "Rue Grande 84",
+    "postal_code": "7330",
+    "region": null,
+    "latitude": 50.4446764,
+    "longitude": 3.8204474999999998,
+    "phone": "065 23 50 55",
+    "website": "https://m.facebook.com/lasolegourmande/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20sole%20gourmande&query_place_id=ChIJg3f3s-hZwkcRaKcm4AtRmls",
+    "open_hours_json": null,
+    "review_count": 45,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfOG_D828YPz_-3bJOSpkywlUczjzl-yo9T_eiOeZJklE0EN6myzP_4SeB_ts0EAec8lOTbYSw_d9Ad47PIdRxoywIsNlI74T_mvfb9XC_sPNxGVKajQbRFLHzW9QguZrov671-=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfOG_D828YPz_-3bJOSpkywlUczjzl-yo9T_eiOeZJklE0EN6myzP_4SeB_ts0EAec8lOTbYSw_d9Ad47PIdRxoywIsNlI74T_mvfb9XC_sPNxGVKajQbRFLHzW9QguZrov671-=w1000-h750-no",
+    "source_query": "Fish restaurant in Saint-Ghislain, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJY8O0Q9hXwkcR-pnB3URyEUc",
+    "name": "Le concordia",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Saint-Ghislain",
+    "address": "Le concordia, Grand'Place 46, 7330 Saint-Ghislain",
+    "street": "Grand'Place 46",
+    "postal_code": "7330",
+    "region": null,
+    "latitude": 50.4480776,
+    "longitude": 3.8204835999999998,
+    "phone": "065 69 18 69",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20concordia&query_place_id=ChIJY8O0Q9hXwkcR-pnB3URyEUc",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "11 am–10 pm"
+      ],
+      "Wednesday": [
+        "11 am–10 pm"
+      ],
+      "Thursday": [
+        "11 am–10 pm"
+      ],
+      "Friday": [
+        "11 am–10 pm"
+      ],
+      "Saturday": [
+        "11 am–10 pm"
+      ],
+      "Sunday": [
+        "11 am–10 pm"
+      ]
+    },
+    "review_count": 661,
+    "rating": 4.4,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeGbBdl0uCdUh2wKTRC1PD6HPaY1BKwsbGYZx-ELeAGnqoKO1BJjhMxXXBzZyGU2ZQUfXePd1fWEtAHWLwO9IOHpuBITF8IX4eaP1mLx1DZeLxPCsPyjaXgCjbid1O-QUCx1KhVKA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeGbBdl0uCdUh2wKTRC1PD6HPaY1BKwsbGYZx-ELeAGnqoKO1BJjhMxXXBzZyGU2ZQUfXePd1fWEtAHWLwO9IOHpuBITF8IX4eaP1mLx1DZeLxPCsPyjaXgCjbid1O-QUCx1KhVKA=w1000-h750-no",
+    "source_query": "Halal restaurant in Saint-Ghislain, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ0RVv6VRXwkcRWFHHIPtKzTc",
+    "name": "MAH.sense - Restaurant",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Saint-Ghislain",
+    "address": "MAH.sense - Restaurant, Rue de la Verrerie 5, 7330 Saint-Ghislain",
+    "street": "Rue de la Verrerie 5",
+    "postal_code": "7330",
+    "region": null,
+    "latitude": 50.4538845,
+    "longitude": 3.81403,
+    "phone": "065 70 70 50",
+    "website": "https://mah-hotel.com/restaurant-mah-sense/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=MAH.sense%20-%20Restaurant&query_place_id=ChIJ0RVv6VRXwkcRWFHHIPtKzTc",
+    "open_hours_json": {
+      "Monday": [
+        "12–2 pm",
+        "6:30–9:30 pm"
+      ],
+      "Tuesday": [
+        "12–2 pm",
+        "6:30–9:30 pm"
+      ],
+      "Wednesday": [
+        "6:30–9:30 pm"
+      ],
+      "Thursday": [
+        "12–2 pm",
+        "6:30–9:30 pm"
+      ],
+      "Friday": [
+        "12–2 pm",
+        "6:30–9:30 pm"
+      ],
+      "Saturday": [
+        "6:30–9:30 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 118,
+    "rating": 4.4,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLffThsVOFZ7ngMivnbUECJU6yyCxz7FF0aiQwQ-K4KOFfpFfVY6RbIouBv53zA-tssvDimTxAJiKILyB5t52YSQa1ZtijLufDCZmnSo613cFc-diTFgZUOzpr8B0ZBfz6NdHvZv=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLffThsVOFZ7ngMivnbUECJU6yyCxz7FF0aiQwQ-K4KOFfpFfVY6RbIouBv53zA-tssvDimTxAJiKILyB5t52YSQa1ZtijLufDCZmnSo613cFc-diTFgZUOzpr8B0ZBfz6NdHvZv=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Saint-Ghislain, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJJ2dvs0FZwkcRo9Vk2NOoDoQ",
+    "name": "MAKI MAKI - Saint-Ghislain",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Saint-Ghislain",
+    "address": "MAKI MAKI - Saint-Ghislain, Rue Grande 103, 7330 Saint-Ghislain",
+    "street": "Rue Grande 103",
+    "postal_code": "7330",
+    "region": null,
+    "latitude": 50.444086,
+    "longitude": 3.8210729999999997,
+    "phone": "065 35 14 34",
+    "website": "http://www.makimaki.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=MAKI%20MAKI%20-%20Saint-Ghislain&query_place_id=ChIJJ2dvs0FZwkcRo9Vk2NOoDoQ",
+    "open_hours_json": {
+      "Monday": [
+        "11:30 am–2:30 pm",
+        "5–10 pm"
+      ],
+      "Tuesday": [
+        "11:30 am–2:30 pm",
+        "5–10 pm"
+      ],
+      "Wednesday": [
+        "11:30 am–2:30 pm",
+        "5–10 pm"
+      ],
+      "Thursday": [
+        "11:30 am–2:30 pm",
+        "5–10 pm"
+      ],
+      "Friday": [
+        "11:30 am–2:30 pm",
+        "5–10 pm"
+      ],
+      "Saturday": [
+        "11:30 am–2:30 pm",
+        "5–10 pm"
+      ],
+      "Sunday": [
+        "11:30 am–2:30 pm",
+        "5–10 pm"
+      ]
+    },
+    "review_count": 465,
+    "rating": 4.0,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfa74uB3tL5JetgxzgitIxzSOuk3nZU5ROVmYyjIiJyQ54E4fdAoZ5bgBSNAouiWPhOSS1rj7qSH7HtMKbV-uChE49Cw9XJiOhg7I3uiAdfhCfN3sk30_LyBMYOzpUaaQsEMfIX7TOuyFq-=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfa74uB3tL5JetgxzgitIxzSOuk3nZU5ROVmYyjIiJyQ54E4fdAoZ5bgBSNAouiWPhOSS1rj7qSH7HtMKbV-uChE49Cw9XJiOhg7I3uiAdfhCfN3sk30_LyBMYOzpUaaQsEMfIX7TOuyFq-=w1000-h750-no",
+    "source_query": "Halal restaurant in Saint-Ghislain, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ26kjRh9ZwkcRgVIWBpNvpKM",
+    "name": "Mendoza pizzeria🍕",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Saint-Ghislain",
+    "address": "Mendoza pizzeria🍕, Rue Grande 51, 7330 Saint-Ghislain",
+    "street": "Rue Grande 51",
+    "postal_code": "7330",
+    "region": null,
+    "latitude": 50.4455716,
+    "longitude": 3.8206862,
+    "phone": "0472 84 91 14",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mendoza%20pizzeria%F0%9F%8D%95&query_place_id=ChIJ26kjRh9ZwkcRgVIWBpNvpKM",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "6–10 pm"
+      ],
+      "Thursday": [
+        "6–10 pm"
+      ],
+      "Friday": [
+        "6–10 pm"
+      ],
+      "Saturday": [
+        "6–10 pm"
+      ],
+      "Sunday": [
+        "6–10 pm"
+      ]
+    },
+    "review_count": 480,
+    "rating": 4.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdxl6LueuMPTnD4rE195gDfmRZUZYBbehiZYIy8-CDTJsa03HvJXL5xhYXsEL5aIe3DShs5cwf3RGQBdQXd3BSQHK1QWmGBZPyoAJV3MT6-7ewZZEAqaYqshhZ4KWTnaTrG9eNr3g=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdxl6LueuMPTnD4rE195gDfmRZUZYBbehiZYIy8-CDTJsa03HvJXL5xhYXsEL5aIe3DShs5cwf3RGQBdQXd3BSQHK1QWmGBZPyoAJV3MT6-7ewZZEAqaYqshhZ4KWTnaTrG9eNr3g=w1000-h750-no",
+    "source_query": "Halal restaurant in Saint-Ghislain, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ82yzp0dXwkcRXckfZx78_U0",
+    "name": "O Bistrot",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Saint-Ghislain",
+    "address": "O Bistrot, Rue Louis Caty 137, 7331 Saint-Ghislain",
+    "street": "Rue Louis Caty 137",
+    "postal_code": "7331",
+    "region": null,
+    "latitude": 50.4691578,
+    "longitude": 3.8429219,
+    "phone": "0489 36 55 37",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=O%20Bistrot&query_place_id=ChIJ82yzp0dXwkcRXckfZx78_U0",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "11 am–3 pm",
+        "5:30–9 pm"
+      ],
+      "Friday": [
+        "11 am–3 pm",
+        "5:30–10 pm"
+      ],
+      "Saturday": [
+        "5:30–10 pm"
+      ],
+      "Sunday": [
+        "11 am–5 pm"
+      ]
+    },
+    "review_count": 373,
+    "rating": 4.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf0FcY3PJ-KR1HI6EJ8SyyR9dWCPtQXinNwHfGseND4kEDKwwR1YpeUwvXvoxklXpVdbm1qcvbSeaD2Bnw88eUbTX2lb1G7ENKKuG3N9NfpqmLmXTHejYVpqM-fmsyIBcUiLg6KNg=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf0FcY3PJ-KR1HI6EJ8SyyR9dWCPtQXinNwHfGseND4kEDKwwR1YpeUwvXvoxklXpVdbm1qcvbSeaD2Bnw88eUbTX2lb1G7ENKKuG3N9NfpqmLmXTHejYVpqM-fmsyIBcUiLg6KNg=w1000-h750-no",
+    "source_query": "Fish restaurant in Saint-Ghislain, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJr2KSM9pZwkcRfEO3swnUxlE",
+    "name": "Olive Noire Italian Food Traiteur",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Saint-Ghislain",
+    "address": "Olive Noire Italian Food Traiteur, Rue Grande 75, 7330 Saint-Ghislain",
+    "street": "Rue Grande 75",
+    "postal_code": "7330",
+    "region": null,
+    "latitude": 50.4449097,
+    "longitude": 3.8206791,
+    "phone": "065 60 02 50",
+    "website": "https://shop.olivenoire.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Olive%20Noire%20Italian%20Food%20Traiteur&query_place_id=ChIJr2KSM9pZwkcRfEO3swnUxlE",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "10 am–6 pm"
+      ],
+      "Wednesday": [
+        "10 am–6 pm"
+      ],
+      "Thursday": [
+        "10 am–6 pm"
+      ],
+      "Friday": [
+        "10 am–6:30 pm"
+      ],
+      "Saturday": [
+        "10 am–5 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 225,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfCCVQxf8yZ8dH8zi0MENqz-VWcR79uliAFrHRqtTLZC_GpBBKkGqCWg-TCpG9EpGgw5-SKvZCWreKctf3Z-HKz7tg8fY6SRzAZol0CTs-L5e1BZAWEaly6NXceDde0WM9lNt04=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfCCVQxf8yZ8dH8zi0MENqz-VWcR79uliAFrHRqtTLZC_GpBBKkGqCWg-TCpG9EpGgw5-SKvZCWreKctf3Z-HKz7tg8fY6SRzAZol0CTs-L5e1BZAWEaly6NXceDde0WM9lNt04=w1000-h750-no",
+    "source_query": "Halal restaurant in Saint-Ghislain, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJX6i1ytlZwkcR12O0DuCnaPs",
+    "name": "PIZZERIA DE L'ABBAYE SAINT GHISLAIN 🇮🇹",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Saint-Ghislain",
+    "address": "PIZZERIA DE L'ABBAYE SAINT GHISLAIN 🇮🇹, Grand'Place 32, 7330 Saint-Ghislain",
+    "street": "Grand'Place 32",
+    "postal_code": "7330",
+    "region": null,
+    "latitude": 50.4484024,
+    "longitude": 3.8196895,
+    "phone": "065 79 18 57",
+    "website": "https://gourmetgroup.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=PIZZERIA%20DE%20L%27ABBAYE%20SAINT%20GHISLAIN%20%F0%9F%87%AE%F0%9F%87%B9&query_place_id=ChIJX6i1ytlZwkcR12O0DuCnaPs",
+    "open_hours_json": {
+      "Monday": [
+        "12–2:30 pm",
+        "6–10:30 pm"
+      ],
+      "Tuesday": [
+        "12–2:30 pm",
+        "6–10:30 pm"
+      ],
+      "Wednesday": [
+        "12–2:30 pm",
+        "6–10:30 pm"
+      ],
+      "Thursday": [
+        "12–2:30 pm",
+        "6–10:30 pm"
+      ],
+      "Friday": [
+        "12–2:30 pm",
+        "6–10:30 pm"
+      ],
+      "Saturday": [
+        "12–2:30 pm",
+        "6–10:30 pm"
+      ],
+      "Sunday": [
+        "12–2:30 pm",
+        "6–10:30 pm"
+      ]
+    },
+    "review_count": 1046,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe1qrDscSF8_YU_E8L382zatRUFpHwUB1mqxTbRH4mTWMquw97p262ERcyqreL8J18iZcx70ddSvMGVsaf8wrgGcu3mxFq73zruc57v6EKFjW86ChC0FHQ8YsekQOVRUCVhs7Rm=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe1qrDscSF8_YU_E8L382zatRUFpHwUB1mqxTbRH4mTWMquw97p262ERcyqreL8J18iZcx70ddSvMGVsaf8wrgGcu3mxFq73zruc57v6EKFjW86ChC0FHQ8YsekQOVRUCVhs7Rm=w1000-h750-no",
+    "source_query": "Halal restaurant in Saint-Ghislain, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJeannh9lZwkcRJ9J9EbkSduk",
+    "name": "Pitta Antalya",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Saint-Ghislain",
+    "address": "Pitta Antalya, Rue Grande 48, 7330 Saint-Ghislain",
+    "street": "Rue Grande 48",
+    "postal_code": "7330",
+    "region": null,
+    "latitude": 50.4459137,
+    "longitude": 3.8200434,
+    "phone": "065 84 58 38",
+    "website": "https://qrco.de/bdYtuI",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pitta%20Antalya&query_place_id=ChIJeannh9lZwkcRJ9J9EbkSduk",
+    "open_hours_json": {
+      "Monday": [
+        "11:30 am–2 pm"
+      ],
+      "Tuesday": [
+        "11:30 am–2 pm",
+        "5–11 pm"
+      ],
+      "Wednesday": [
+        "11:30 am–2 pm",
+        "5–11 pm"
+      ],
+      "Thursday": [
+        "11:30 am–2 pm",
+        "5–11 pm"
+      ],
+      "Friday": [
+        "11:30 am–2 pm",
+        "4:30–11:30 pm"
+      ],
+      "Saturday": [
+        "12–2 pm",
+        "5–11 pm"
+      ],
+      "Sunday": [
+        "5–11 pm"
+      ]
+    },
+    "review_count": 240,
+    "rating": 4.2,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfpkDk7RGo1fArphBnA4E9TN6BxkCpj7Hfvi1snickFPUsECHR-5LJl1PYCVYGLyQpdKpjulvpcKMrvlyGEuG0D-Q_iQtQtKf9CX9pm8pDlPP-9HayUyP04tsNOGhiIGEkdQ4zg=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfpkDk7RGo1fArphBnA4E9TN6BxkCpj7Hfvi1snickFPUsECHR-5LJl1PYCVYGLyQpdKpjulvpcKMrvlyGEuG0D-Q_iQtQtKf9CX9pm8pDlPP-9HayUyP04tsNOGhiIGEkdQ4zg=w1000-h750-no",
+    "source_query": "Halal restaurant in Saint-Ghislain, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJcSPdx99XwkcR8EVEjiRE4x0",
+    "name": "PizzaFamily",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Saint-Ghislain",
+    "address": "PizzaFamily, Rue Defuisseaux 111, 7333 Saint-Ghislain",
+    "street": "Rue Defuisseaux 111",
+    "postal_code": "7333",
+    "region": null,
+    "latitude": 50.4670608,
+    "longitude": 3.8122274999999997,
+    "phone": "065 64 40 04",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=PizzaFamily&query_place_id=ChIJcSPdx99XwkcR8EVEjiRE4x0",
+    "open_hours_json": {
+      "Monday": [
+        "4 pm–3 am"
+      ],
+      "Tuesday": [
+        "4 pm–3 am"
+      ],
+      "Wednesday": [
+        "4 pm–3 am"
+      ],
+      "Thursday": [
+        "4 pm–3 am"
+      ],
+      "Friday": [
+        "4 pm–3 am"
+      ],
+      "Saturday": [
+        "12 pm–3 am"
+      ],
+      "Sunday": [
+        "12 pm–3 am"
+      ]
+    },
+    "review_count": 58,
+    "rating": 3.2,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdcjNE3et6566j4QlF7RQHX_XOPlm2kpYRBwFawdprFaQI4YWYpInO6Qb9Jc1Q1GLJye3X8UgX9Mxi1K4AUE5mP3yBiQsW8Q2QjkZwgQxTBhX5O1uE7X2UkW7EdWU4G82ZyaqJUw3GaIF8=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdcjNE3et6566j4QlF7RQHX_XOPlm2kpYRBwFawdprFaQI4YWYpInO6Qb9Jc1Q1GLJye3X8UgX9Mxi1K4AUE5mP3yBiQsW8Q2QjkZwgQxTBhX5O1uE7X2UkW7EdWU4G82ZyaqJUw3GaIF8=w1000-h750-no",
+    "source_query": "Halal restaurant in Saint-Ghislain, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata"
+  },
+  {
+    "place_id": "ChIJ0WiTD3xXwkcRPLOGrRleqwk",
+    "name": "Pochet Père et Fils",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Saint-Ghislain",
+    "address": "Pochet Père et Fils, Rue de la Rivierette 114, 7330 Saint-Ghislain",
+    "street": "Rue de la Rivierette 114",
+    "postal_code": "7330",
+    "region": null,
+    "latitude": 50.4552224,
+    "longitude": 3.8137068,
+    "phone": "065 61 16 00",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pochet%20P%C3%A8re%20et%20Fils&query_place_id=ChIJ0WiTD3xXwkcRPLOGrRleqwk",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe0GLB7R7VgU2COHzit8s2ZSlVuqrG9s7nzxzaBT9v7KfCfCVWE6LyAoHWzjoYVqCQyACDZT6zZS8pVsakJfaO5H14l19Haso6sNcS_7n76wVXVBwJ37jTxlRMqiPMp6aXJrl-8yWMvq1k=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe0GLB7R7VgU2COHzit8s2ZSlVuqrG9s7nzxzaBT9v7KfCfCVWE6LyAoHWzjoYVqCQyACDZT6zZS8pVsakJfaO5H14l19Haso6sNcS_7n76wVXVBwJ37jTxlRMqiPMp6aXJrl-8yWMvq1k=w1000-h750-no",
+    "rating": 4.5,
+    "review_count": 162,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJoZv2kjhZwkcRGXmy0oPWv8I",
+    "name": "SNACK iZMIR",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Saint-Ghislain",
+    "address": "SNACK iZMIR, Pl. Albert-Elisabeth 36, 7330 Saint-Ghislain",
+    "street": "Pl. Albert-Elisabeth 36",
+    "postal_code": "7330",
+    "region": null,
+    "latitude": 50.4434847,
+    "longitude": 3.8189311999999997,
+    "phone": "065 95 88 54",
+    "website": "https://app.getappetito.be/page/1951-SnackIzmir%20%20Friterie%20-%20Snack%20-%20Sp%C3%A9cialit%C3%A9s%20grillades",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=SNACK%20iZMIR&query_place_id=ChIJoZv2kjhZwkcRGXmy0oPWv8I",
+    "open_hours_json": {
+      "Monday": [
+        "11 am–12 am"
+      ],
+      "Tuesday": [
+        "11 am–12 am"
+      ],
+      "Wednesday": [
+        "11 am–12 am"
+      ],
+      "Thursday": [
+        "11 am–12 am"
+      ],
+      "Friday": [
+        "11 am–1 am"
+      ],
+      "Saturday": [
+        "11 am–1 am"
+      ],
+      "Sunday": [
+        "11 am–12 am"
+      ]
+    },
+    "review_count": 183,
+    "rating": 3.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeSi3NxpK_E_ZXe2Dy2Skg0p9cTynfqSQEmFvlMVpaFjjSsavK6_6TL6WOeKowSCr_b8TXShFAM56ymG4W2bbWX4O9wVOg2bCbceB-l4fjiW6xbv5ZOkyfLuKHgAfZaSMbm0uc4=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeSi3NxpK_E_ZXe2Dy2Skg0p9cTynfqSQEmFvlMVpaFjjSsavK6_6TL6WOeKowSCr_b8TXShFAM56ymG4W2bbWX4O9wVOg2bCbceB-l4fjiW6xbv5ZOkyfLuKHgAfZaSMbm0uc4=w1000-h750-no",
+    "source_query": "Halal restaurant in Saint-Ghislain, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJtW5UBHxXwkcRTb-lklFyLgA",
+    "name": "TRAFIC SAINT-GHISLAIN",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Saint-Ghislain",
+    "address": "TRAFIC SAINT-GHISLAIN, Rue de la Rivièrette 60, 7330 Saint-Ghislain",
+    "street": "Rue de la Rivièrette 60",
+    "postal_code": "7330",
+    "region": null,
+    "latitude": 50.4579698,
+    "longitude": 3.8122722999999996,
+    "phone": "065 60 06 66",
+    "website": "https://www.trafic.com/fr_BE/magasins/trafic-saint-ghislain",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=TRAFIC%20SAINT-GHISLAIN&query_place_id=ChIJtW5UBHxXwkcRTb-lklFyLgA",
+    "open_hours_json": {
+      "Monday": [
+        "9:30 am–6:30 pm"
+      ],
+      "Tuesday": [
+        "9:30 am–6:30 pm"
+      ],
+      "Wednesday": [
+        "9:30 am–6:30 pm"
+      ],
+      "Thursday": [
+        "9:30 am–6:30 pm"
+      ],
+      "Friday": [
+        "9:30 am–6:30 pm"
+      ],
+      "Saturday": [
+        "9:30 am–6:30 pm"
+      ],
+      "Sunday": [
+        "10 am–1 pm"
+      ]
+    },
+    "review_count": 975,
+    "rating": 4.1,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdcnCXAw6PAA-C1_iPPLAu_hpTnDmrRqzFBcDOizbV8n_KvpAZJRkEwcoN1QY8GqC4Vt7G8hv1-wczcY_VuKBCP95kQ7B75O0VXBw-6jtSYIq2JGeJ9-zGEz1wDVIg8q_jUG-0=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdcnCXAw6PAA-C1_iPPLAu_hpTnDmrRqzFBcDOizbV8n_KvpAZJRkEwcoN1QY8GqC4Vt7G8hv1-wczcY_VuKBCP95kQ7B75O0VXBw-6jtSYIq2JGeJ9-zGEz1wDVIg8q_jUG-0=w1000-h750-no",
+    "source_query": "Hypermarket in Saint-Ghislain, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJTaZZ69dZwkcR87Tphq_tlpY",
+    "name": "Une Histoire de Goûts",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Saint-Ghislain",
+    "address": "Une Histoire de Goûts, Rue du Port 40, 7330 Saint-Ghislain",
+    "street": "Rue du Port 40",
+    "postal_code": "7330",
+    "region": null,
+    "latitude": 50.4498575,
+    "longitude": 3.8175331999999997,
+    "phone": "065 64 12 81",
+    "website": "http://unehistoiredegouts.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Une%20Histoire%20de%20Go%C3%BBts&query_place_id=ChIJTaZZ69dZwkcR87Tphq_tlpY",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "6:30–10:30 pm"
+      ],
+      "Wednesday": [
+        "12–3 pm",
+        "6:30–11 pm"
+      ],
+      "Thursday": [
+        "12–3 pm",
+        "6:30–11 pm"
+      ],
+      "Friday": [
+        "12–3 pm",
+        "6:30–11 pm"
+      ],
+      "Saturday": [
+        "12–3 pm",
+        "6:30–11:30 pm"
+      ],
+      "Sunday": [
+        "12–3 pm",
+        "6:30–11 pm"
+      ]
+    },
+    "review_count": 432,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdjHh4gD3WAlHfDiF5q5Yv5EsU20SIktjd_MJj7S6PRQyM946E4z4_uodrNrdEhU6v21V7tb1LF_Rn61HckHIhS1s8-t3rNMQkb8oe9KlgHYg7MJ4yszlE31UfE1ZVGjBzS61zXIQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdjHh4gD3WAlHfDiF5q5Yv5EsU20SIktjd_MJj7S6PRQyM946E4z4_uodrNrdEhU6v21V7tb1LF_Rn61HckHIhS1s8-t3rNMQkb8oe9KlgHYg7MJ4yszlE31UfE1ZVGjBzS61zXIQ=w1000-h750-no",
+    "source_query": "Halal restaurant in Saint-Ghislain, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJsRhY4iJXwkcR8LEucY5oV4M",
+    "name": "d'Eugénie à Emilie",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Saint-Ghislain",
+    "address": "d'Eugénie à Emilie, Pl. de la Résistance 1, 7331 Saint-Ghislain",
+    "street": "Pl. de la Résistance 1",
+    "postal_code": "7331",
+    "region": null,
+    "latitude": 50.4831687,
+    "longitude": 3.8380802999999997,
+    "phone": "065 61 31 70",
+    "website": "https://fernez.com/deugenie-a-emilie/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=d%27Eug%C3%A9nie%20%C3%A0%20Emilie&query_place_id=ChIJsRhY4iJXwkcR8LEucY5oV4M",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "12–3 pm",
+        "7 pm–12 am"
+      ],
+      "Friday": [
+        "12–3 pm",
+        "7 pm–12 am"
+      ],
+      "Saturday": [
+        "7 pm–12 am"
+      ],
+      "Sunday": [
+        "12–3 pm"
+      ]
+    },
+    "review_count": 365,
+    "rating": 4.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdijy1q-VAn9VpbDY38ihghaX95T3sinX_nbH3Nkax3MC_-9G_1X6cOkUQ2632nQKoNvSxXXDNX5QMmsUJoJHDIRUjAkpnIbsX0K1lOBgQgaZTVA7nbj30PtK3jL9VpSk5covpy=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdijy1q-VAn9VpbDY38ihghaX95T3sinX_nbH3Nkax3MC_-9G_1X6cOkUQ2632nQKoNvSxXXDNX5QMmsUJoJHDIRUjAkpnIbsX0K1lOBgQgaZTVA7nbj30PtK3jL9VpSk5covpy=w1000-h750-no",
+    "source_query": "Halal restaurant in Saint-Ghislain, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJsRBEnnZXwkcR6Yh1LZHhRZA",
     "name": "ratattouille tertre",
     "type": "restaurant",
@@ -1053,32 +1948,6 @@
     "verification_evidence": null
   },
   {
-    "place_id": "ChIJt1iWHs77wEcRdre2QwEkuq4",
-    "name": "Supermarket Yenipinar",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Saint-Nicolas",
-    "address": "Supermarket Yenipinar, Rue Jean Jaurès 6a, 4420 Saint-Nicolas",
-    "street": "Rue Jean Jaurès 6a",
-    "postal_code": "4420",
-    "region": null,
-    "latitude": 50.6425548,
-    "longitude": 5.5254622,
-    "phone": "04 375 02 53",
-    "website": "http://yenipinarmarket.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Supermarket%20Yenipinar&query_place_id=ChIJt1iWHs77wEcRdre2QwEkuq4",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfJdy3iNvyhAprNjwbfi1tXAek45wxa7gOTLJ7412NZFbrCLczMoS-BwfYTEaqnsDncOB0JK0T0nQOgGhQ3t_mFVucEy-iVeOvTfYHC7Ucunr-CS-G9zAlHcWruE2hsw6mKv0Y9=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfJdy3iNvyhAprNjwbfi1tXAek45wxa7gOTLJ7412NZFbrCLczMoS-BwfYTEaqnsDncOB0JK0T0nQOgGhQ3t_mFVucEy-iVeOvTfYHC7Ucunr-CS-G9zAlHcWruE2hsw6mKv0Y9=w1000-h750-no",
-    "rating": 4.5,
-    "review_count": 260,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
     "place_id": "ChIJC95_OgD7wEcRWF6B8xoJfAU",
     "name": "النور AL- NOUR",
     "type": "mosque",
@@ -1927,8 +2796,8 @@
     "phone": "02 241 49 73",
     "website": "https://www.localservices.be/boutique/cloetens-delicatesses-boucheries-schaerbeek/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cloetens%20Delicatessen%20bvba&query_place_id=ChIJzzkD0BXDw0cRYk56Hf3WA30",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf59lVV81cwLV5A1fxxs426ARyas4hvW8d7doMA3l6TVt7f2mh2wP5EYDqr4KmAOpk4C3RL77at9aNZqsLvOEUoaSTNpWJjAgOJjuKd6UhkytXwgvPr1PEAgwVcc-dOsz_0OXg-xg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf59lVV81cwLV5A1fxxs426ARyas4hvW8d7doMA3l6TVt7f2mh2wP5EYDqr4KmAOpk4C3RL77at9aNZqsLvOEUoaSTNpWJjAgOJjuKd6UhkytXwgvPr1PEAgwVcc-dOsz_0OXg-xg=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc3d9V2ijA0MmmO3RRdvxDr1ErjXl6PdGRBFevWmKcVUmFL91v34ahbJaCHghbHuqMuEKZ7qo7L087KjLKadJmO5uUHX5tU1QlG2jPqYSsQKoWDyMg5wtwPcRDFUWViXZxZ8i4v2A=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc3d9V2ijA0MmmO3RRdvxDr1ErjXl6PdGRBFevWmKcVUmFL91v34ahbJaCHghbHuqMuEKZ7qo7L087KjLKadJmO5uUHX5tU1QlG2jPqYSsQKoWDyMg5wtwPcRDFUWViXZxZ8i4v2A=w1000-h750-no",
     "rating": 4.4,
     "review_count": 113,
     "verification_status": "UNVERIFIED",
@@ -2476,7 +3345,7 @@
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfHsx5W5UmBo7ZEcJe2Ag7Nv4RjBx1GQxjoY8XVQpsZU6E5WIBmDMqLFDRQ3ge26H__xAHQxlveG2stvtz1NkFQ_SQPHmu1A60-CFZsyy5rO016amX8VcMUfybpc0q_Zgq9DYhi=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfHsx5W5UmBo7ZEcJe2Ag7Nv4RjBx1GQxjoY8XVQpsZU6E5WIBmDMqLFDRQ3ge26H__xAHQxlveG2stvtz1NkFQ_SQPHmu1A60-CFZsyy5rO016amX8VcMUfybpc0q_Zgq9DYhi=w1000-h750-no",
     "rating": 4.5,
-    "review_count": 564,
+    "review_count": 565,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null,
     "is_active": true,
@@ -3175,8 +4044,8 @@
     "phone": "0471 71 52 21",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=The%20Food%20Spot%20Brussels&query_place_id=ChIJ3bffEzjDw0cRXTkO3DTOKtc",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLclqZYDuHcLC1wvTLHD4DN7cdZI7B7gQ1bTuSGY1U7IUVi6T5Hc8YDEYyrtLQMzyVWC5yGL-qBNefsta8V4xeVDbRokh0IiBCwie1UXf3rAQU8uS6Noh9RxcST2xGmLz7il1lf0=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLclqZYDuHcLC1wvTLHD4DN7cdZI7B7gQ1bTuSGY1U7IUVi6T5Hc8YDEYyrtLQMzyVWC5yGL-qBNefsta8V4xeVDbRokh0IiBCwie1UXf3rAQU8uS6Noh9RxcST2xGmLz7il1lf0=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdC38En3VINoAh8JblAloDpXnL7rirsOM7vPp-GuuJlzLACOCggaN7h_GONkD7qZeBvEQqVzrDjGOlzwgwApYuvDF1rZkqHrgG3J4kBRjHktVl3SBjWwpWbFENKUEw_jXBQVZkG=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdC38En3VINoAh8JblAloDpXnL7rirsOM7vPp-GuuJlzLACOCggaN7h_GONkD7qZeBvEQqVzrDjGOlzwgwApYuvDF1rZkqHrgG3J4kBRjHktVl3SBjWwpWbFENKUEw_jXBQVZkG=w1000-h750-no",
     "rating": 4.0,
     "review_count": 156,
     "verification_status": "VERIFIED",
@@ -8296,8 +9165,8 @@
     "phone": null,
     "website": "https://www.facebook.com/share/1AecfxJgZV/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mosqu%C3%A9e%20Daara%20Al%20Ilm&query_place_id=ChIJH33FYQD5wEcR_HvUXq0AxsI",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdd3FKEiKHsMg0-8LvdshMKBAOqHKe1xrQm3bERdbeUQHokEX6s68rpZuXf2LHVl1e1SJ60s-sZqMujf18COfmFLiDlplqXIeRMgz3fSzYKa-uUqzz5xWP7omI0i4ysQKqYKxLcRjKgJtRA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdd3FKEiKHsMg0-8LvdshMKBAOqHKe1xrQm3bERdbeUQHokEX6s68rpZuXf2LHVl1e1SJ60s-sZqMujf18COfmFLiDlplqXIeRMgz3fSzYKa-uUqzz5xWP7omI0i4ysQKqYKxLcRjKgJtRA=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcH8KfKCv9FUXBKKWzuben4LAox8UDuCS_FTwiAS4X6VZP1SvbCbcngTRUd4yONLUQCh_6lOg8IwFVoaYR-hp5gAIgRYjye0MOyQqzeLVcdGHmLNo33_ScVbEm-p8leO3FUWoy-jYN7axqO=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcH8KfKCv9FUXBKKWzuben4LAox8UDuCS_FTwiAS4X6VZP1SvbCbcngTRUd4yONLUQCh_6lOg8IwFVoaYR-hp5gAIgRYjye0MOyQqzeLVcdGHmLNo33_ScVbEm-p8leO3FUWoy-jYN7axqO=w1000-h750-no",
     "rating": 5.0,
     "review_count": 1,
     "verification_status": "UNVERIFIED",
@@ -8322,8 +9191,8 @@
     "phone": null,
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mosqu%C3%A9e%20El-Hijra%20numero%2093&query_place_id=ChIJ7YfdWbv5wEcRkTQ6_AmMLo8",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdWMEWXxk60oEeg2usRgqS9MQFRz2F5KJ60RQ_7P-Xvqe_wYeYlFF3o9o_pewfWxEdJnFQzpztEdXdULuPg2ZqTU2BmE9s9-nbzBXNx_UbLKNaKVL1_PMBZOLeLrKCz_BICOwjxWQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdWMEWXxk60oEeg2usRgqS9MQFRz2F5KJ60RQ_7P-Xvqe_wYeYlFF3o9o_pewfWxEdJnFQzpztEdXdULuPg2ZqTU2BmE9s9-nbzBXNx_UbLKNaKVL1_PMBZOLeLrKCz_BICOwjxWQ=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc76xJqsjRbgJnTxYTHTuciQdxn38HCNRXjPwxHQ4J1DTqunDDX4BA7AXm_h-R5vGSk9kpGTlZ5GJhF51y_oHqHh-YrXp5hvx2lOJ0SXDScNQ2Z9cezcQTd4rAH6RX9eFkY6T2-Nw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc76xJqsjRbgJnTxYTHTuciQdxn38HCNRXjPwxHQ4J1DTqunDDX4BA7AXm_h-R5vGSk9kpGTlZ5GJhF51y_oHqHh-YrXp5hvx2lOJ0SXDScNQ2Z9cezcQTd4rAH6RX9eFkY6T2-Nw=w1000-h750-no",
     "rating": 4.6,
     "review_count": 38,
     "verification_status": "UNVERIFIED",
@@ -8592,751 +9461,5 @@
     "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
     "is_active": true,
     "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJgwpl84b5wEcR9wVEEtbvFBM",
-    "name": "Odépanneur",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Seraing",
-    "address": "Odépanneur, Rue Chapuis 25, 4100 Seraing",
-    "street": "Rue Chapuis 25",
-    "postal_code": "4100",
-    "region": null,
-    "latitude": 50.5985693,
-    "longitude": 5.5103535,
-    "phone": "0497 99 37 86",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Od%C3%A9panneur&query_place_id=ChIJgwpl84b5wEcR9wVEEtbvFBM",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "8 am–11 pm"
-      ],
-      "Wednesday": [
-        "8 am–11 pm"
-      ],
-      "Thursday": [
-        "8 am–11 pm"
-      ],
-      "Friday": [
-        "8 am–11 pm"
-      ],
-      "Saturday": [
-        "8 am–11 pm"
-      ],
-      "Sunday": [
-        "8 am–11 pm"
-      ]
-    },
-    "review_count": 8,
-    "rating": 4.5,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XmuL-5FqND-nftQWEgGnFg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=179.14178&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XmuL-5FqND-nftQWEgGnFg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=179.14178&pitch=0&thumbfov=w1000-h750-no",
-    "source_query": "Hypermarket in Seraing, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJR7wQ6pf5wEcRm7CGX3gL0cI",
-    "name": "Oishi Yume",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Seraing",
-    "address": "Oishi Yume, R.J.Wettinck 57, 4101 Seraing",
-    "street": "R.J.Wettinck 57",
-    "postal_code": "4101",
-    "region": null,
-    "latitude": 50.615015799999995,
-    "longitude": 5.501680599999999,
-    "phone": "04 234 58 88",
-    "website": "https://mijn.restomanager.net/clients/reservation?businessId=67436d10a41abca734c3e7c6",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Oishi%20Yume&query_place_id=ChIJR7wQ6pf5wEcRm7CGX3gL0cI",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcylnc4yjdlh8xORlAUeSw1Zt_CrDdP5gXkBAbB6OUTRpE8N3ViVJphT1J70FsNtubxD4P3am89J6v58BgguNnm31Uvr3E3644sQvTj6W-LwY6aKUC-yrnZJINLiLBR_JZ9qxZrwVn9EVo=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcylnc4yjdlh8xORlAUeSw1Zt_CrDdP5gXkBAbB6OUTRpE8N3ViVJphT1J70FsNtubxD4P3am89J6v58BgguNnm31Uvr3E3644sQvTj6W-LwY6aKUC-yrnZJINLiLBR_JZ9qxZrwVn9EVo=w1000-h750-no",
-    "rating": 4.8,
-    "review_count": 1880,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJ-1TjZg35wEcRjTwD1GtGC64",
-    "name": "Paradis",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Seraing",
-    "address": "Paradis, Rue Paul Janson 20, 4100 Seraing",
-    "street": "Rue Paul Janson 20",
-    "postal_code": "4100",
-    "region": null,
-    "latitude": 50.609919999999995,
-    "longitude": 5.5140099,
-    "phone": "04 338 12 94",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Paradis&query_place_id=ChIJ-1TjZg35wEcRjTwD1GtGC64",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcagYNKLMuD_KKRn9pIVraqoAZIdRjKUpLeucBOCtRe1Q9drDJoeu239FPA2obyXhSdEJvLNd3SE4iW7Om6S428656yR5bl2IqvoiAb4qIVxRJqL6-7G020H9ALgSLC-FQacAk=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcagYNKLMuD_KKRn9pIVraqoAZIdRjKUpLeucBOCtRe1Q9drDJoeu239FPA2obyXhSdEJvLNd3SE4iW7Om6S428656yR5bl2IqvoiAb4qIVxRJqL6-7G020H9ALgSLC-FQacAk=w1000-h750-no",
-    "rating": 4.0,
-    "review_count": 54,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJnbzyxBX4wEcRVc8BJtIQ-fI",
-    "name": "Petros Le Pelican",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Seraing",
-    "address": "Petros Le Pelican, Rue de Tilff 106, 4100 Seraing",
-    "street": "Rue de Tilff 106",
-    "postal_code": "4100",
-    "region": null,
-    "latitude": 50.566290599999995,
-    "longitude": 5.5479291,
-    "phone": "04 336 06 36",
-    "website": "http://petroslepelican.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Petros%20Le%20Pelican&query_place_id=ChIJnbzyxBX4wEcRVc8BJtIQ-fI",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "6–9:30 pm"
-      ],
-      "Wednesday": [
-        "12–2 pm",
-        "6–9:30 pm"
-      ],
-      "Thursday": [
-        "12–2 pm",
-        "6–9:30 pm"
-      ],
-      "Friday": [
-        "12–2 pm",
-        "6–9:30 pm"
-      ],
-      "Saturday": [
-        "6–9:30 pm"
-      ],
-      "Sunday": [
-        "12–2 pm",
-        "6–9:30 pm"
-      ]
-    },
-    "review_count": 1177,
-    "rating": 4.5,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfObmQdsOTyYntYHplfKRVl-66JvYpMiOZjUvagTvYzFZnQL5YXsF3iWZB-CYH4SR12tm-Lze2ltC8o7IoxRPdcLw8zLXzXo1k_R2lMxMoF6dEzyhF1sjLb71osBG03B5ofqFtTZw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfObmQdsOTyYntYHplfKRVl-66JvYpMiOZjUvagTvYzFZnQL5YXsF3iWZB-CYH4SR12tm-Lze2ltC8o7IoxRPdcLw8zLXzXo1k_R2lMxMoF6dEzyhF1sjLb71osBG03B5ofqFtTZw=w1000-h750-no",
-    "source_query": "Fish restaurant in Seraing, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJV-DDxRX4wEcRfVF-0Y45cRg",
-    "name": "Pita Istanbul",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Seraing",
-    "address": "Pita Istanbul, Rue de Tilff 110a, 4100 Seraing",
-    "street": "Rue de Tilff 110a",
-    "postal_code": "4100",
-    "region": null,
-    "latitude": 50.566373999999996,
-    "longitude": 5.5482075,
-    "phone": "0492 45 50 29",
-    "website": "https://snackpitaboncelles.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pita%20Istanbul&query_place_id=ChIJV-DDxRX4wEcRfVF-0Y45cRg",
-    "open_hours_json": {
-      "Monday": [
-        "11:30 am–2 pm",
-        "5–10 pm"
-      ],
-      "Tuesday": [
-        "11:30 am–2 pm",
-        "5–10 pm"
-      ],
-      "Wednesday": [
-        "11:30 am–2 pm",
-        "5–10 pm"
-      ],
-      "Thursday": [
-        "11:30 am–2 pm",
-        "5–10 pm"
-      ],
-      "Friday": [
-        "11:30 am–2 pm",
-        "5–10 pm"
-      ],
-      "Saturday": [
-        "11:30 am–2 pm",
-        "5–10 pm"
-      ],
-      "Sunday": [
-        "5–10 pm"
-      ]
-    },
-    "review_count": 258,
-    "rating": 3.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcYcfAgwiCOow96o2v6W3iEJtCP9mvagiHlYBB82Pgk71s5vxyrOpz2KgW0APT7SB6mzvpwOiwFPrLc33kQa_IBoabDEzAE1j0x9mfD-Z4tYvgWfo08hsRXGVqxjTsOozS7JIYU=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcYcfAgwiCOow96o2v6W3iEJtCP9mvagiHlYBB82Pgk71s5vxyrOpz2KgW0APT7SB6mzvpwOiwFPrLc33kQa_IBoabDEzAE1j0x9mfD-Z4tYvgWfo08hsRXGVqxjTsOozS7JIYU=w1000-h750-no",
-    "source_query": "Halal restaurant in Seraing, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJF04IDD35wEcR3C8TW7XY96w",
-    "name": "PizzaSpeed Seraing",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Seraing",
-    "address": "PizzaSpeed Seraing, Rue de Rotheux 64, 4100 Seraing",
-    "street": "Rue de Rotheux 64",
-    "postal_code": "4100",
-    "region": null,
-    "latitude": 50.5861254,
-    "longitude": 5.5049432,
-    "phone": "04 338 36 16",
-    "website": "https://pizzaspeedseraing.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=PizzaSpeed%20Seraing&query_place_id=ChIJF04IDD35wEcR3C8TW7XY96w",
-    "open_hours_json": {
-      "Monday": [
-        "5:30–10 pm"
-      ],
-      "Tuesday": [
-        "5:30–10 pm"
-      ],
-      "Wednesday": [
-        "5:30–10 pm"
-      ],
-      "Thursday": [
-        "5:30–10 pm"
-      ],
-      "Friday": [
-        "5:30–10 pm"
-      ],
-      "Saturday": [
-        "5:30–10 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 120,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd_CKD26FRzil-Vc5dj6ba-XrjKcY4GZhRPePcg6aZdrtLY8zhlA71bpS4sqTMOQ4cLeTS4rRAFhcy2Qm7OmJr_zszT-RqO6k4w47DJQgpLgTzi2ALREdoIpX9KQ35BI9jOGag=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd_CKD26FRzil-Vc5dj6ba-XrjKcY4GZhRPePcg6aZdrtLY8zhlA71bpS4sqTMOQ4cLeTS4rRAFhcy2Qm7OmJr_zszT-RqO6k4w47DJQgpLgTzi2ALREdoIpX9KQ35BI9jOGag=w1000-h750-no",
-    "source_query": "Halal restaurant in Seraing, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJVbhs6yD5wEcRMt4gmzXlHzc",
-    "name": "Pizzeria Amarena - Pizza au Feu de Bois",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Seraing",
-    "address": "Pizzeria Amarena - Pizza au Feu de Bois, Rue de la Bergerie 23, 4100 Seraing",
-    "street": "Rue de la Bergerie 23",
-    "postal_code": "4100",
-    "region": null,
-    "latitude": 50.5929802,
-    "longitude": 5.4930445,
-    "phone": "04 385 11 11",
-    "website": "https://amarena.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Amarena%20-%20Pizza%20au%20Feu%20de%20Bois&query_place_id=ChIJVbhs6yD5wEcRMt4gmzXlHzc",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "5:30–9 pm"
-      ],
-      "Thursday": [
-        "5:30–9 pm"
-      ],
-      "Friday": [
-        "5:30–9 pm"
-      ],
-      "Saturday": [
-        "5:30–9 pm"
-      ],
-      "Sunday": [
-        "5:30–9 pm"
-      ]
-    },
-    "review_count": 487,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcIIbZ2lb3rljMDGrSmR8mLijFsEc4QUwJOlxQ7Y6ptBzAo8_oelAuw9R5T-Oj_I0HOdMpb4oXk-A85OQ8q5QnkVUR9XXYj28pgqcFem2LkBFZRoOWO6RZ7gSky9bhQ20wdeNI=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcIIbZ2lb3rljMDGrSmR8mLijFsEc4QUwJOlxQ7Y6ptBzAo8_oelAuw9R5T-Oj_I0HOdMpb4oXk-A85OQ8q5QnkVUR9XXYj28pgqcFem2LkBFZRoOWO6RZ7gSky9bhQ20wdeNI=w1000-h750-no",
-    "source_query": "Halal restaurant in Seraing, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ47aUraT5wEcRc7mpm3u7nIE",
-    "name": "Pizzeria Gaspare",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Seraing",
-    "address": "Pizzeria Gaspare, Rue de la Fontaine 21, 4100 Seraing",
-    "street": "Rue de la Fontaine 21",
-    "postal_code": "4100",
-    "region": null,
-    "latitude": 50.6012573,
-    "longitude": 5.5281367,
-    "phone": "04 338 18 26",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Gaspare&query_place_id=ChIJ47aUraT5wEcRc7mpm3u7nIE",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "5–9:30 pm"
-      ],
-      "Thursday": [
-        "11:30 am–2 pm",
-        "5–9:30 pm"
-      ],
-      "Friday": [
-        "11:30 am–2 pm",
-        "5–9:30 pm"
-      ],
-      "Saturday": [
-        "5–9:30 pm"
-      ],
-      "Sunday": [
-        "5–9:30 pm"
-      ]
-    },
-    "review_count": 61,
-    "rating": 4.2,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcAW9oK-1BuPC9ndfdCSZn0pl8J3403XsNhrRNPrc-G0bgdYs2w2_5CcVcdfzKQO4Htu_q9ZJacfouAZ4IKcLvnu3xId9pLZXthA-XwX9tCEK8LytLFFwbab0A_M9OAPCDJa0hz7NeTR5eN=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcAW9oK-1BuPC9ndfdCSZn0pl8J3403XsNhrRNPrc-G0bgdYs2w2_5CcVcdfzKQO4Htu_q9ZJacfouAZ4IKcLvnu3xId9pLZXthA-XwX9tCEK8LytLFFwbab0A_M9OAPCDJa0hz7NeTR5eN=w1000-h750-no",
-    "source_query": "Fish restaurant in Seraing, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJtZg1kEP5wEcROyue52v-6RA",
-    "name": "Q8 Charging Station",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Seraing",
-    "address": "Q8 Charging Station, Rue Sualem R. 38, 4101 Seraing",
-    "street": "Rue Sualem R. 38",
-    "postal_code": "4101",
-    "region": null,
-    "latitude": 50.6191983,
-    "longitude": 5.497145199999999,
-    "phone": "03 241 35 35",
-    "website": "https://www.q8.be//stations/q8-jemeppe-s-meuse",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Q8%20Charging%20Station&query_place_id=ChIJtZg1kEP5wEcROyue52v-6RA",
-    "open_hours_json": {
-      "Monday": [
-        "Open 24 hours"
-      ],
-      "Tuesday": [
-        "Open 24 hours"
-      ],
-      "Wednesday": [
-        "Open 24 hours"
-      ],
-      "Thursday": [
-        "Open 24 hours"
-      ],
-      "Friday": [
-        "Open 24 hours"
-      ],
-      "Saturday": [
-        "Open 24 hours"
-      ],
-      "Sunday": [
-        "Open 24 hours"
-      ]
-    },
-    "review_count": 0,
-    "rating": null,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLddgymw4g68jgJAYizfi_87qITO0BsSCxYjPYJDRE7DD9povcwrvRRh65YBl05eLYCJm1R5EL9RrzwWeGmyn6jbINdPVtGsibilFcTaIobGnHx8SSydP9WZJ2iCYldsgLDip8kawQNJhQUw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLddgymw4g68jgJAYizfi_87qITO0BsSCxYjPYJDRE7DD9povcwrvRRh65YBl05eLYCJm1R5EL9RrzwWeGmyn6jbINdPVtGsibilFcTaIobGnHx8SSydP9WZJ2iCYldsgLDip8kawQNJhQUw=w1000-h750-no",
-    "source_query": "Hypermarket in Seraing, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJoVEbrW35wEcRCL3oB3LW_A8",
-    "name": "Q8 SERAING",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Seraing",
-    "address": "Q8 SERAING, Rue Cockerill 18, 4100 Seraing",
-    "street": "Rue Cockerill 18",
-    "postal_code": "4100",
-    "region": null,
-    "latitude": 50.6144338,
-    "longitude": 5.5111358,
-    "phone": "04 385 06 06",
-    "website": "https://www.q8.be/fr/stations/q8-seraing-rue-cockerill",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Q8%20SERAING&query_place_id=ChIJoVEbrW35wEcRCL3oB3LW_A8",
-    "open_hours_json": {
-      "Monday": [
-        "5 am–10 pm"
-      ],
-      "Tuesday": [
-        "5 am–10 pm"
-      ],
-      "Wednesday": [
-        "5 am–10 pm"
-      ],
-      "Thursday": [
-        "5 am–10 pm"
-      ],
-      "Friday": [
-        "5 am–10 pm"
-      ],
-      "Saturday": [
-        "5 am–10 pm"
-      ],
-      "Sunday": [
-        "7 am–10 pm"
-      ]
-    },
-    "review_count": 378,
-    "rating": 4.4,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfZvhQUWyL5tWexKS6hJSM_uvZ-gRb8Xh77g4zwbke1iTsEI2E_p290p9XgIpVGa8dHIY2lv3FvSpeseNIE4cY0UBje4vJSSotEEJjP_a3cmHXq17xK2O8AiBI7RV27a2KtHddA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfZvhQUWyL5tWexKS6hJSM_uvZ-gRb8Xh77g4zwbke1iTsEI2E_p290p9XgIpVGa8dHIY2lv3FvSpeseNIE4cY0UBje4vJSSotEEJjP_a3cmHXq17xK2O8AiBI7RV27a2KtHddA=w1000-h750-no",
-    "source_query": "Hypermarket in Seraing, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJd3bhkEP5wEcRE0O_1jId-6M",
-    "name": "Q8 electric",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Seraing",
-    "address": "Q8 electric, Rue Sualem R. 38, 4101 Seraing",
-    "street": "Rue Sualem R. 38",
-    "postal_code": "4101",
-    "region": null,
-    "latitude": 50.6191452,
-    "longitude": 5.497361499999999,
-    "phone": "03 241 35 35",
-    "website": "https://www.q8.be/stations/q8-jemeppe-s-meuse",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Q8%20electric&query_place_id=ChIJd3bhkEP5wEcRE0O_1jId-6M",
-    "open_hours_json": {
-      "Monday": [
-        "Open 24 hours"
-      ],
-      "Tuesday": [
-        "Open 24 hours"
-      ],
-      "Wednesday": [
-        "Open 24 hours"
-      ],
-      "Thursday": [
-        "Open 24 hours"
-      ],
-      "Friday": [
-        "Open 24 hours"
-      ],
-      "Saturday": [
-        "Open 24 hours"
-      ],
-      "Sunday": [
-        "Open 24 hours"
-      ]
-    },
-    "review_count": 25,
-    "rating": 4.0,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLckrqfKO4GekPish8dGTPZhJtohci5VAjhGDcZx5nDuqyfMVsPUxpYN-3z4gOD1So69jRtxtlkP_kh6Nb_Qu7sJS8Jw_aOuRCGxqdYL08js8cyIJxc3x-8IOYKK9ImRnvuEMqUzyEnvxOFC=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLckrqfKO4GekPish8dGTPZhJtohci5VAjhGDcZx5nDuqyfMVsPUxpYN-3z4gOD1So69jRtxtlkP_kh6Nb_Qu7sJS8Jw_aOuRCGxqdYL08js8cyIJxc3x-8IOYKK9ImRnvuEMqUzyEnvxOFC=w1000-h750-no",
-    "source_query": "Hypermarket in Mons-lez-Liège, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJaeQKEEv5wEcR_AQ4MEbfYEY",
-    "name": "Ribomaterijal",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Seraing",
-    "address": "Ribomaterijal, Sq. de Zenica, 4100 Seraing",
-    "street": "Sq. de Zenica",
-    "postal_code": "4100",
-    "region": null,
-    "latitude": 50.5951009,
-    "longitude": 5.494431,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ribomaterijal&query_place_id=ChIJaeQKEEv5wEcR_AQ4MEbfYEY",
-    "open_hours_json": null,
-    "review_count": 3,
-    "rating": 3.0,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EOCQwqegHPN-VubZQ0pWbQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=6.427872&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EOCQwqegHPN-VubZQ0pWbQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=6.427872&pitch=0&thumbfov=w1000-h750-no",
-    "source_query": "Hypermarket in Seraing, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJLcYQrW35wEcRXI94d9eZR-I",
-    "name": "SHOP COCKERILL (Seraing) III",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Seraing",
-    "address": "SHOP COCKERILL (Seraing) III, Rue Cockerill 14/18, 4100 Seraing",
-    "street": "Rue Cockerill 14/18",
-    "postal_code": "4100",
-    "region": null,
-    "latitude": 50.614199,
-    "longitude": 5.5113528,
-    "phone": "04 385 06 06",
-    "website": "https://stores.delhaize.be/fr/shop-cockerill-seraing-iii",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=SHOP%20COCKERILL%20%28Seraing%29%20III&query_place_id=ChIJLcYQrW35wEcRXI94d9eZR-I",
-    "open_hours_json": {
-      "Monday": [
-        "5 am–12 am"
-      ],
-      "Tuesday": [
-        "5 am–12 am"
-      ],
-      "Wednesday": [
-        "5 am–12 am"
-      ],
-      "Thursday": [
-        "5 am–12 am"
-      ],
-      "Friday": [
-        "5 am–12 am"
-      ],
-      "Saturday": [
-        "5 am–12 am"
-      ],
-      "Sunday": [
-        "5 am–12 am"
-      ]
-    },
-    "review_count": 87,
-    "rating": 4.2,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeqyru_Kn50exaGxR3TiyCSLLlYPYs04cxVAiSiVjnGwxa0mVF2dWtO3Rro-KS4nibbpr95yHkNPyCzNrpzV-7UTVHlkAL0PCSCs2ZBRhlS8wjjJeIU7giwfxHzoLBD26g8pKfHxw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeqyru_Kn50exaGxR3TiyCSLLlYPYs04cxVAiSiVjnGwxa0mVF2dWtO3Rro-KS4nibbpr95yHkNPyCzNrpzV-7UTVHlkAL0PCSCs2ZBRhlS8wjjJeIU7giwfxHzoLBD26g8pKfHxw=w1000-h750-no",
-    "source_query": "Hypermarket in Seraing, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJHeWJdET3wEcR6pHMV_-7Jfs",
-    "name": "Skyway",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Seraing",
-    "address": "Skyway, Rue Lemonnier 1, 4100 Seraing",
-    "street": "Rue Lemonnier 1",
-    "postal_code": "4100",
-    "region": null,
-    "latitude": 50.5852807,
-    "longitude": 5.5056306,
-    "phone": "04 337 70 14",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Skyway&query_place_id=ChIJHeWJdET3wEcR6pHMV_-7Jfs",
-    "open_hours_json": {
-      "Monday": [
-        "10 am–7 pm"
-      ],
-      "Tuesday": [
-        "10 am–7 pm"
-      ],
-      "Wednesday": [
-        "10 am–7 pm"
-      ],
-      "Thursday": [
-        "10 am–7 pm"
-      ],
-      "Friday": [
-        "10 am–7 pm"
-      ],
-      "Saturday": [
-        "10 am–7 pm"
-      ],
-      "Sunday": [
-        "9:30 am–12:30 pm"
-      ]
-    },
-    "review_count": 1,
-    "rating": 3.0,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZAY-6ZXW0S530RyxgEyTeg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=193.6855&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZAY-6ZXW0S530RyxgEyTeg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=193.6855&pitch=0&thumbfov=w1000-h750-no",
-    "source_query": "Hypermarket in Seraing, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJESrOW3L5wEcR1qrt8wtlKAE",
-    "name": "Snack Pita Smile - Seraing",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Seraing",
-    "address": "Snack Pita Smile - Seraing, Rue du Pont 30, 4101 Seraing",
-    "street": "Rue du Pont 30",
-    "postal_code": "4101",
-    "region": null,
-    "latitude": 50.6175213,
-    "longitude": 5.508678,
-    "phone": "0491 98 17 48",
-    "website": "https://yellow.pages.wwwcafe.de/snack-pita-smile/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Snack%20Pita%20Smile%20-%20Seraing&query_place_id=ChIJESrOW3L5wEcR1qrt8wtlKAE",
-    "open_hours_json": {
-      "Monday": [
-        "11:30 am–12 am"
-      ],
-      "Tuesday": [
-        "11:30 am–12 am"
-      ],
-      "Wednesday": [
-        "11:30 am–12 am"
-      ],
-      "Thursday": [
-        "11:30 am–12 am"
-      ],
-      "Friday": [
-        "11:30 am–12 am"
-      ],
-      "Saturday": [
-        "11:30 am–12 am"
-      ],
-      "Sunday": [
-        "3 pm–12 am"
-      ]
-    },
-    "review_count": 307,
-    "rating": 4.1,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeS3uDzOx8SaKQO1EeRZ-SQS9PiWRfhHG5wCmoNrhzXJBJcbuH0zBsJh4yklu3Y74_zqH3RblZpavRQuBoVTLvmOjVfoBkETTWI4MEyRqW0F2-X82smT66EsyOyEjiElYipuqTq=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeS3uDzOx8SaKQO1EeRZ-SQS9PiWRfhHG5wCmoNrhzXJBJcbuH0zBsJh4yklu3Y74_zqH3RblZpavRQuBoVTLvmOjVfoBkETTWI4MEyRqW0F2-X82smT66EsyOyEjiElYipuqTq=w1000-h750-no",
-    "source_query": "Halal restaurant in Seraing, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJVXs1MWz5wEcRTCdArnZhPug",
-    "name": "Sultan (Le)",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Seraing",
-    "address": "Sultan (Le), Pl. Kuborn 8, 4100 Seraing",
-    "street": "Pl. Kuborn 8",
-    "postal_code": "4100",
-    "region": null,
-    "latitude": 50.6156471,
-    "longitude": 5.5106212,
-    "phone": "04 336 61 51",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Sultan%20%28Le%29&query_place_id=ChIJVXs1MWz5wEcRTCdArnZhPug",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc9NRLOKruoZjI1mEo3RLFdM9mg1yYyYamsOBVVO9bKcfNXTbxlpIXI2zkB8dTbKhdtSyLZd2Xi6heey7eB58Na2sQtYvV-A3GXCT4UmH-AWzDggx-fzEbLUHYoUsqhM1_jn-ZSng=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc9NRLOKruoZjI1mEo3RLFdM9mg1yYyYamsOBVVO9bKcfNXTbxlpIXI2zkB8dTbKhdtSyLZd2Xi6heey7eB58Na2sQtYvV-A3GXCT4UmH-AWzDggx-fzEbLUHYoUsqhM1_jn-ZSng=w1000-h750-no",
-    "rating": 4.1,
-    "review_count": 974,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJIaa9zRr5wEcR1rDZzYwV0sk",
-    "name": "Superette Cosmat Chez Yilmaz",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Seraing",
-    "address": "Superette Cosmat Chez Yilmaz, Rue de la Baume 304, 4100 Seraing",
-    "street": "Rue de la Baume 304",
-    "postal_code": "4100",
-    "region": null,
-    "latitude": 50.5992349,
-    "longitude": 5.5110411,
-    "phone": "04 337 28 00",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Superette%20Cosmat%20Chez%20Yilmaz&query_place_id=ChIJIaa9zRr5wEcR1rDZzYwV0sk",
-    "open_hours_json": null,
-    "review_count": 31,
-    "rating": 4.1,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeBYofZ06ZTG8tg0GZEV4X20oSZ_kgl6DMibd0xV1fhWQrXIxomuP6H0iTZ_o1APgBwixTpXTZNHOOzaVCPYi7-Typwuifsdu441oHc5QuNM40YBrCX7rIOtUw_UsyON9hUQy6sfw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeBYofZ06ZTG8tg0GZEV4X20oSZ_kgl6DMibd0xV1fhWQrXIxomuP6H0iTZ_o1APgBwixTpXTZNHOOzaVCPYi7-Typwuifsdu441oHc5QuNM40YBrCX7rIOtUw_UsyON9hUQy6sfw=w1000-h750-no",
-    "source_query": "Hypermarket in Seraing, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
   }
 ]

@@ -1,5 +1,621 @@
 [
   {
+    "place_id": "ChIJewjNTWhswUcRKOUYMQ5kRAo",
+    "name": "Melchior",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tienen",
+    "address": "Melchior, Veemarkt 47, 3300 Tienen",
+    "street": "Veemarkt 47",
+    "postal_code": "3300",
+    "region": null,
+    "latitude": 50.8058316,
+    "longitude": 4.9407971,
+    "phone": "016 35 54 74",
+    "website": "http://www.melchi-or.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Melchior&query_place_id=ChIJewjNTWhswUcRKOUYMQ5kRAo",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "12–1:15 pm",
+        "7–8:30 pm"
+      ],
+      "Wednesday": [
+        "12–1:15 pm",
+        "7–8:30 pm"
+      ],
+      "Thursday": [
+        "12–1:15 pm",
+        "7–8:30 pm"
+      ],
+      "Friday": [
+        "12–1:15 pm",
+        "7–8:30 pm"
+      ],
+      "Saturday": [
+        "Closed"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 368,
+    "rating": 4.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfVYS3zAGMSQB7uthOFAPGdDRqMFhX0BR1LnttuyOtCKdMlFt_ia_BGrisMFFcoJFl9nLcMqdUggt97PisUwZFh-OGcjQhTHwlG643bOZbyXkozmRZNUk7651trJEPy3t0OXPyh=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfVYS3zAGMSQB7uthOFAPGdDRqMFhX0BR1LnttuyOtCKdMlFt_ia_BGrisMFFcoJFl9nLcMqdUggt97PisUwZFh-OGcjQhTHwlG643bOZbyXkozmRZNUk7651trJEPy3t0OXPyh=w1000-h750-no",
+    "source_query": "Halal restaurant in Tienen, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJnT447mtswUcRZ8Mfiho2gdk",
+    "name": "Moskee Arrahma Tienen",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tienen",
+    "address": "Moskee Arrahma Tienen, Leuvensestraat 17, 3300 Tienen",
+    "street": "Leuvensestraat 17",
+    "postal_code": "3300",
+    "region": null,
+    "latitude": 50.8088744,
+    "longitude": 4.9362429,
+    "phone": "0469 68 29 66",
+    "website": "http://www.tiensemoslimgemeenschap.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Arrahma%20Tienen&query_place_id=ChIJnT447mtswUcRZ8Mfiho2gdk",
+    "open_hours_json": {
+      "Monday": [
+        "5:30 am–10 pm"
+      ],
+      "Tuesday": [
+        "5:30 am–10 pm"
+      ],
+      "Wednesday": [
+        "5:30 am–10 pm"
+      ],
+      "Thursday": [
+        "5:30 am–10 pm"
+      ],
+      "Friday": [
+        "5:30 am–10 pm"
+      ],
+      "Saturday": [
+        "5:30 am–10 pm"
+      ],
+      "Sunday": [
+        "5:30 am–10 pm"
+      ]
+    },
+    "review_count": 15,
+    "rating": 4.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcSwTQKY4b5P22jjID3L32XGnsNE_PUYfxlTE0XQT-tZrO2KQ3m_XWU7eyZYPmQfjxF5U-7JZPBQq0uIPpRPof_qX3eUnWOTr49kP46Z0NVryc3fZaby9FpCOZQTVUsnfdGeHQ9tILVjd0=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcSwTQKY4b5P22jjID3L32XGnsNE_PUYfxlTE0XQT-tZrO2KQ3m_XWU7eyZYPmQfjxF5U-7JZPBQq0uIPpRPof_qX3eUnWOTr49kP46Z0NVryc3fZaby9FpCOZQTVUsnfdGeHQ9tILVjd0=w1000-h750-no",
+    "source_query": "Mosque in Zoutleeuw, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJMW3YVXttwUcRRicfLgDS4WM",
+    "name": "Moskee Asalam Al madina",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tienen",
+    "address": "Moskee Asalam Al madina, Beauduinstraat 138, 3300 Tienen",
+    "street": "Beauduinstraat 138",
+    "postal_code": "3300",
+    "region": null,
+    "latitude": 50.8032081,
+    "longitude": 4.9462769,
+    "phone": "0475 84 30 39",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Asalam%20Al%20madina&query_place_id=ChIJMW3YVXttwUcRRicfLgDS4WM",
+    "open_hours_json": {
+      "Monday": [
+        "8 am–10 pm"
+      ],
+      "Tuesday": [
+        "Open 24 hours"
+      ],
+      "Wednesday": [
+        "Open 24 hours"
+      ],
+      "Thursday": [
+        "Open 24 hours"
+      ],
+      "Friday": [
+        "Open 24 hours"
+      ],
+      "Saturday": [
+        "Open 24 hours"
+      ],
+      "Sunday": [
+        "Open 24 hours"
+      ]
+    },
+    "review_count": 11,
+    "rating": 4.9,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf1BXp3jxCjX1QFZUn50TIzoqywe72Z8VBANE8TgyeWf3JKElYVneV0N7RwghNiQXVGGw-ittPB4t9uTB6WwZpNSpGtEYwLcjvRSo4QuDCti0xXT89IJtWyHOP0nNqZ5HWtnUl_WQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf1BXp3jxCjX1QFZUn50TIzoqywe72Z8VBANE8TgyeWf3JKElYVneV0N7RwghNiQXVGGw-ittPB4t9uTB6WwZpNSpGtEYwLcjvRSo4QuDCti0xXT89IJtWyHOP0nNqZ5HWtnUl_WQ=w1000-h750-no",
+    "source_query": "Mosque in Zoutleeuw, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJeVNamsJtwUcRhg9ext4D4DM",
+    "name": "My sushi",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tienen",
+    "address": "My sushi, Leuvensestraat 26, 3300 Tienen",
+    "street": "Leuvensestraat 26",
+    "postal_code": "3300",
+    "region": null,
+    "latitude": 50.8084966,
+    "longitude": 4.9350854,
+    "phone": "016 20 37 00",
+    "website": "https://mysushi.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=My%20sushi&query_place_id=ChIJeVNamsJtwUcRhg9ext4D4DM",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "11:30 am–2 pm",
+        "5–9:30 pm"
+      ],
+      "Wednesday": [
+        "11:30 am–2 pm",
+        "5–9:30 pm"
+      ],
+      "Thursday": [
+        "11:30 am–2 pm",
+        "5–9:30 pm"
+      ],
+      "Friday": [
+        "11:30 am–2 pm",
+        "5–9:30 pm"
+      ],
+      "Saturday": [
+        "11:30 am–2 pm",
+        "5–9:30 pm"
+      ],
+      "Sunday": [
+        "5–9:30 pm"
+      ]
+    },
+    "review_count": 37,
+    "rating": 4.4,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd9sw3JXy-hbrYF7raVS4uNhdo4MpQjjeWe4FOWNc6Y4DaZgwfeIcEb2Ja7EfzFdAxv5eiFeRGHIZQtQqNOEdZ93SHPvssFDU-q2bSzzz59WB2oJsjJ7yo__Ip5ivchI0o0UwGo511-aoE=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd9sw3JXy-hbrYF7raVS4uNhdo4MpQjjeWe4FOWNc6Y4DaZgwfeIcEb2Ja7EfzFdAxv5eiFeRGHIZQtQqNOEdZ93SHPvssFDU-q2bSzzz59WB2oJsjJ7yo__Ip5ivchI0o0UwGo511-aoE=w1000-h750-no",
+    "source_query": "Fish restaurant in Tienen, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ5d8EEWlswUcRBEfNOhrFcGI",
+    "name": "Nazar Grill-Kebap & pizza",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tienen",
+    "address": "Nazar Grill-Kebap & pizza, Nieuwstraat 5, 3300 Tienen",
+    "street": "Nieuwstraat 5",
+    "postal_code": "3300",
+    "region": null,
+    "latitude": 50.807182399999995,
+    "longitude": 4.9383019,
+    "phone": "016 82 09 87",
+    "website": "https://www.nazarkebab.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Nazar%20Grill-Kebap%20%26%20pizza&query_place_id=ChIJ5d8EEWlswUcRBEfNOhrFcGI",
+    "open_hours_json": {
+      "Monday": [
+        "4 pm–1 am"
+      ],
+      "Tuesday": [
+        "4 pm–1 am"
+      ],
+      "Wednesday": [
+        "4 pm–1 am"
+      ],
+      "Thursday": [
+        "4 pm–1 am"
+      ],
+      "Friday": [
+        "4 pm–1 am"
+      ],
+      "Saturday": [
+        "4 pm–1 am"
+      ],
+      "Sunday": [
+        "4 pm–1 am"
+      ]
+    },
+    "review_count": 389,
+    "rating": 4.0,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfs5E4aP74E6QVmO_tMtTHWyBAxgivhNA1wA1sLhHkh3ilwak1MKkxdRzkhAGk6ECutxDUvKTsrwEJu0H7I0J0M3fCA2fN31w7MZagSiQ82q22F11LijLcNsUfAnVceTsR70qbT=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfs5E4aP74E6QVmO_tMtTHWyBAxgivhNA1wA1sLhHkh3ilwak1MKkxdRzkhAGk6ECutxDUvKTsrwEJu0H7I0J0M3fCA2fN31w7MZagSiQ82q22F11LijLcNsUfAnVceTsR70qbT=w1000-h750-no",
+    "source_query": "Halal restaurant in Tienen, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJpSOX-hdtwUcRvLWdhO_STuk",
+    "name": "Osteopaat Nona Roosen",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tienen",
+    "address": "Osteopaat Nona Roosen, Meendijkstraat 42, 3300 Tienen",
+    "street": "Meendijkstraat 42",
+    "postal_code": "3300",
+    "region": null,
+    "latitude": 50.803672999999996,
+    "longitude": 4.936132,
+    "phone": "0456 12 51 39",
+    "website": "https://nonaroosen.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Osteopaat%20Nona%20Roosen&query_place_id=ChIJpSOX-hdtwUcRvLWdhO_STuk",
+    "open_hours_json": {
+      "Monday": [
+        "8 am–7 pm"
+      ],
+      "Tuesday": [
+        "8 am–7 pm"
+      ],
+      "Wednesday": [
+        "8 am–7 pm"
+      ],
+      "Thursday": [
+        "8 am–7 pm"
+      ],
+      "Friday": [
+        "8 am–7 pm"
+      ],
+      "Saturday": [
+        "Closed"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 2,
+    "rating": 5.0,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wgK-s23nRPU7dUUwukErmQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=173.86447&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wgK-s23nRPU7dUUwukErmQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=173.86447&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Pharmacy in Tienen, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ4Sw1829swUcRzlqcC_cd7dQ",
+    "name": "Pizza Angelo",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tienen",
+    "address": "Pizza Angelo, Oplintersesteenweg 5, 3300 Tienen",
+    "street": "Oplintersesteenweg 5",
+    "postal_code": "3300",
+    "region": null,
+    "latitude": 50.8126902,
+    "longitude": 4.9432255,
+    "phone": "016 82 62 52",
+    "website": "http://www.pizzaangelo.eu/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pizza%20Angelo&query_place_id=ChIJ4Sw1829swUcRzlqcC_cd7dQ",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "4:30–10 pm"
+      ],
+      "Wednesday": [
+        "4:30–10 pm"
+      ],
+      "Thursday": [
+        "4:30–10 pm"
+      ],
+      "Friday": [
+        "4:30–10 pm"
+      ],
+      "Saturday": [
+        "4:30–10 pm"
+      ],
+      "Sunday": [
+        "11:30 am–2 pm",
+        "4:30–10 pm"
+      ]
+    },
+    "review_count": 200,
+    "rating": 4.0,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLenenoIG6A0GssKd3v-fc-ZgHT7DaqUsdbdykHg7MEZNnctcBTmZmkBHJCmCs_N4mQ3FgtSm85noMpt8pwwtsQP7iDAjNNe4bsLL-13XeYbAswS_fxlXri53ghpkIt8JwBrqUxX=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLenenoIG6A0GssKd3v-fc-ZgHT7DaqUsdbdykHg7MEZNnctcBTmZmkBHJCmCs_N4mQ3FgtSm85noMpt8pwwtsQP7iDAjNNe4bsLL-13XeYbAswS_fxlXri53ghpkIt8JwBrqUxX=w1000-h750-no",
+    "source_query": "Fish restaurant in Tienen, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJY1DDkG1swUcRPgaIn2P0lsM",
+    "name": "Pizza Hut Delivery Tienen",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tienen",
+    "address": "Pizza Hut Delivery Tienen, Diestsesteenweg 1, 3300 Tienen",
+    "street": "Diestsesteenweg 1",
+    "postal_code": "3300",
+    "region": null,
+    "latitude": 50.813468,
+    "longitude": 4.935428,
+    "phone": "016 82 16 66",
+    "website": "https://www.pizzahut.be/store/delivery-tienen?utm_campaign=gmb&utm_medium=gmb&utm_source=referral",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pizza%20Hut%20Delivery%20Tienen&query_place_id=ChIJY1DDkG1swUcRPgaIn2P0lsM",
+    "open_hours_json": {
+      "Monday": [
+        "11:30 am–10 pm"
+      ],
+      "Tuesday": [
+        "11:30 am–10 pm"
+      ],
+      "Wednesday": [
+        "11:30 am–10 pm"
+      ],
+      "Thursday": [
+        "11:30 am–10 pm"
+      ],
+      "Friday": [
+        "11:30 am–10 pm"
+      ],
+      "Saturday": [
+        "11:30 am–10 pm"
+      ],
+      "Sunday": [
+        "11:30 am–10 pm"
+      ]
+    },
+    "review_count": 662,
+    "rating": 4.0,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdczDFJRIeF8bpmgpbTm4uKasrFdsz81W3jZ68BdJaOxZRckQ501AUqxAD5Y-wpkYWiYRcFCmJjlssKopVB84qxPKZSaccOEiMGHWI73XsK6eQTdpUlg9XLWXJ5WnyLx4Q21mE=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdczDFJRIeF8bpmgpbTm4uKasrFdsz81W3jZ68BdJaOxZRckQ501AUqxAD5Y-wpkYWiYRcFCmJjlssKopVB84qxPKZSaccOEiMGHWI73XsK6eQTdpUlg9XLWXJ5WnyLx4Q21mE=w1000-h750-no",
+    "source_query": "Halal restaurant in Tienen, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJVT8aSWttwUcRV3DBOYQ6i-s",
+    "name": "Restaurant Vigiliae",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tienen",
+    "address": "Restaurant Vigiliae, Grote Markt 10, 3300 Tienen",
+    "street": "Grote Markt 10",
+    "postal_code": "3300",
+    "region": null,
+    "latitude": 50.808327999999996,
+    "longitude": 4.9373299,
+    "phone": "016 81 77 03",
+    "website": "https://www.restaurantvigiliae.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20Vigiliae&query_place_id=ChIJVT8aSWttwUcRV3DBOYQ6i-s",
+    "open_hours_json": null,
+    "review_count": 37,
+    "rating": 4.0,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfKJFrtlZRBAwWxN-9DrXsdYMknV7gFpI0JIJxqMlzfimcYljTttvL57z1jDkC70pZGm_JQzlCK6wnsYrpfTy8SNe8Zp5481hy3GfJfL-3Ddg-ZtlKajCAPsUJ8_ZjnQyZnBZSQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfKJFrtlZRBAwWxN-9DrXsdYMknV7gFpI0JIJxqMlzfimcYljTttvL57z1jDkC70pZGm_JQzlCK6wnsYrpfTy8SNe8Zp5481hy3GfJfL-3Ddg-ZtlKajCAPsUJ8_ZjnQyZnBZSQ=w1000-h750-no",
+    "source_query": "Fish restaurant in Tienen, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJy6fhDQBtwUcR9Fnrjf2VUJI",
+    "name": "Royal Grill Housse",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tienen",
+    "address": "Royal Grill Housse, Grote Markt, 3300 Tienen",
+    "street": "Grote Markt",
+    "postal_code": "3300",
+    "region": null,
+    "latitude": 50.807126499999995,
+    "longitude": 4.9366885,
+    "phone": "0465 60 47 03",
+    "website": "http://anatoliantienen.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Royal%20Grill%20Housse&query_place_id=ChIJy6fhDQBtwUcR9Fnrjf2VUJI",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "9 am–11 pm"
+      ],
+      "Wednesday": [
+        "11 am–11 pm"
+      ],
+      "Thursday": [
+        "11 am–11 pm"
+      ],
+      "Friday": [
+        "11 am–12 am"
+      ],
+      "Saturday": [
+        "11 am–11 pm"
+      ],
+      "Sunday": [
+        "2–10 pm"
+      ]
+    },
+    "review_count": 93,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdrgn0YQm6HBGkliMAHIVIIc9_ycyr3LdDF2INKXG6C38XyFqp02ZGV88L8GrP5t2Cf3NfRRWLlolOLr1ILPCAI5Hsden7QDKDi1TKjvuyNzV88oVNKKkgoupCK_-UqlXP77kiA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdrgn0YQm6HBGkliMAHIVIIc9_ycyr3LdDF2INKXG6C38XyFqp02ZGV88L8GrP5t2Cf3NfRRWLlolOLr1ILPCAI5Hsden7QDKDi1TKjvuyNzV88oVNKKkgoupCK_-UqlXP77kiA=w1000-h750-no",
+    "source_query": "Halal restaurant in Tienen, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJeWkHlWlswUcROgkRYeHanVM",
+    "name": "SPAR Tienen",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tienen",
+    "address": "SPAR Tienen, Menegaard 20, 3300 Tienen",
+    "street": "Menegaard 20",
+    "postal_code": "3300",
+    "region": null,
+    "latitude": 50.8055303,
+    "longitude": 4.937696799999999,
+    "phone": "016 82 49 24",
+    "website": "https://www.mijnspar.be/winkels/spar-tienen",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=SPAR%20Tienen&query_place_id=ChIJeWkHlWlswUcROgkRYeHanVM",
+    "open_hours_json": {
+      "Monday": [
+        "8 am–6:30 pm"
+      ],
+      "Tuesday": [
+        "8 am–6:30 pm"
+      ],
+      "Wednesday": [
+        "8 am–6:30 pm"
+      ],
+      "Thursday": [
+        "8 am–6:30 pm"
+      ],
+      "Friday": [
+        "8 am–6:30 pm"
+      ],
+      "Saturday": [
+        "8 am–6 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 322,
+    "rating": 4.0,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcuXJrtjOuddhFI6FHhkEM8kN1X3Plqb9V_AdglEA5KaCvHwI77saT3rS_l9XFDORFrSkbCgv98GMmn4F1BcNogfaBKF1g8p1ypmrMJpISDtrKR-TeHiZkQhkQxM5mZeLD99Gwq=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcuXJrtjOuddhFI6FHhkEM8kN1X3Plqb9V_AdglEA5KaCvHwI77saT3rS_l9XFDORFrSkbCgv98GMmn4F1BcNogfaBKF1g8p1ypmrMJpISDtrKR-TeHiZkQhkQxM5mZeLD99Gwq=w1000-h750-no",
+    "source_query": "Fish restaurant in Tienen, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJFf40D_VswUcR7-q1jKi5uWw",
+    "name": "Saray TIENEN",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tienen",
+    "address": "Saray TIENEN, Sint-Truidensesteenweg 63, 3300 Tienen",
+    "street": "Sint-Truidensesteenweg 63",
+    "postal_code": "3300",
+    "region": null,
+    "latitude": 50.800648699999996,
+    "longitude": 4.956388,
+    "phone": "016 43 47 78",
+    "website": "https://www.saraytienen.be/contact",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Saray%20TIENEN&query_place_id=ChIJFf40D_VswUcR7-q1jKi5uWw",
+    "open_hours_json": {
+      "Monday": [
+        "4–11 pm"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "4–11 pm"
+      ],
+      "Thursday": [
+        "Closed"
+      ],
+      "Friday": [
+        "4–11 pm"
+      ],
+      "Saturday": [
+        "4–11 pm"
+      ],
+      "Sunday": [
+        "4–11 pm"
+      ]
+    },
+    "review_count": 284,
+    "rating": 3.2,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfcFNdD7qYOLW-lOBbN5tv_bZNlKeEAtuQa1CRMf7vs4ogqc2U4NpOOBqrakcdzDjdOsdRdzYgfQ4N8jtCwsvJqeFZ9dIRRjWpv445jn98SNKHlj_w6RXlCV2FZGFX8b9XK5PsT=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfcFNdD7qYOLW-lOBbN5tv_bZNlKeEAtuQa1CRMf7vs4ogqc2U4NpOOBqrakcdzDjdOsdRdzYgfQ4N8jtCwsvJqeFZ9dIRRjWpv445jn98SNKHlj_w6RXlCV2FZGFX8b9XK5PsT=w1000-h750-no",
+    "source_query": "Halal restaurant in Tienen, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJz0qZXGdswUcRzkbWf3BcvJI",
+    "name": "Smoked By Smolders",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tienen",
+    "address": "Smoked By Smolders, Bietenweg 25D, 3300 Tienen",
+    "street": "Bietenweg 25D",
+    "postal_code": "3300",
+    "region": null,
+    "latitude": 50.798720499999995,
+    "longitude": 4.9513823,
+    "phone": "0477 25 81 63",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Smoked%20By%20Smolders&query_place_id=ChIJz0qZXGdswUcRzkbWf3BcvJI",
+    "open_hours_json": null,
+    "review_count": 3,
+    "rating": 5.0,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLed68Svf_tjMW2nPn-Q554czPcHyl11C4vfzUKI8q8GczNqrcoYDI6CHITPPKMjYoTmAsja1aqa-GKb6zvhtElut56qjOvxyXZM-HTde17hRZuYCNcJ_pEMACnp-ni6MdcFLUSd=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLed68Svf_tjMW2nPn-Q554czPcHyl11C4vfzUKI8q8GczNqrcoYDI6CHITPPKMjYoTmAsja1aqa-GKb6zvhtElut56qjOvxyXZM-HTde17hRZuYCNcJ_pEMACnp-ni6MdcFLUSd=w1000-h750-no",
+    "source_query": "Fish restaurant in Tienen, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJYxIZuuBtwUcRJjBPm_dYtSk",
     "name": "Sombrero",
     "type": "restaurant",
@@ -4228,7 +4844,7 @@
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf9yKKuzUiWQmkbjUwTbOmxzxvoVtWIQesIqhJIEyK2YR0dXkVVo5bDqr2JG3wy6E2vd8l9FkayL8wgBihVUgp7vfrh3F1JEa5ixa1sNK0rqG3oWpEXwIj6kYg5stqllMZnLGzL=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf9yKKuzUiWQmkbjUwTbOmxzxvoVtWIQesIqhJIEyK2YR0dXkVVo5bDqr2JG3wy6E2vd8l9FkayL8wgBihVUgp7vfrh3F1JEa5ixa1sNK0rqG3oWpEXwIj6kYg5stqllMZnLGzL=w1000-h750-no",
     "rating": 4.9,
-    "review_count": 507,
+    "review_count": 506,
     "verification_status": "VERIFIED",
     "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
     "is_active": true,
@@ -5234,8 +5850,8 @@
     "phone": "069 54 62 93",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Delhaye%20%2F%20Christophe&query_place_id=ChIJnwQLwZriwkcR640WSGS8g5s",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfQm50TQ3-LKypahFAmaQ2r65vpA59IMAqGH1l8LHgdumTEixg2x8kHZF5BoNdHXcXJQrk6YZnYoNjeT5eweTxFLXoRFUefxS86lp66p8tTNYJWeA07_GW5guYUlVOGsrlD47Tzzg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfQm50TQ3-LKypahFAmaQ2r65vpA59IMAqGH1l8LHgdumTEixg2x8kHZF5BoNdHXcXJQrk6YZnYoNjeT5eweTxFLXoRFUefxS86lp66p8tTNYJWeA07_GW5guYUlVOGsrlD47Tzzg=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdsFA79YrUfaN4MicWhdA3Dkud6GBERpIYNt2VMB69KZIlUHoDrjRcZGP0IdWcq0bYixyNf2cUUO2abena3LfSBpnI6T5gY8r2SkdqEL3r50iVJNPz5kC3DKgT6I4kfzui34PCZnw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdsFA79YrUfaN4MicWhdA3Dkud6GBERpIYNt2VMB69KZIlUHoDrjRcZGP0IdWcq0bYixyNf2cUUO2abena3LfSBpnI6T5gY8r2SkdqEL3r50iVJNPz5kC3DKgT6I4kfzui34PCZnw=w1000-h750-no",
     "rating": 5.0,
     "review_count": 25,
     "verification_status": "UNVERIFIED",
@@ -8192,8 +8808,8 @@
     "phone": "0474 47 67 18",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20van%20Doornik&query_place_id=ChIJe7uwvXHgwkcRx6ebTd4Lbt8",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcYHDcfOWF7WrR-K-h-sf51ydSyUiuXQjE8aXJh0C8cqVt9R2t0YP1_ycq4z7p25PVHe0gEK_As7uz2wBpCYg9J2vSUN9aH8DM1LhRXesuQGv-WkpkfIT0X0Wmgup_0RnCNUoILceTBdNY=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcYHDcfOWF7WrR-K-h-sf51ydSyUiuXQjE8aXJh0C8cqVt9R2t0YP1_ycq4z7p25PVHe0gEK_As7uz2wBpCYg9J2vSUN9aH8DM1LhRXesuQGv-WkpkfIT0X0Wmgup_0RnCNUoILceTBdNY=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd4m7Sxe_UT0JBmSP2QwAo_jMJRcirrE6t52aPGyq2QflmBI7tUd5J-9dHXLGdCYDoa_bVKZAM4XE6p4Em9HmLMt0THrnbMu9xcpZDCXkG1biwAC1b3LR_-o7fhoG3mt1S0pygf1ymNnRs=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd4m7Sxe_UT0JBmSP2QwAo_jMJRcirrE6t52aPGyq2QflmBI7tUd5J-9dHXLGdCYDoa_bVKZAM4XE6p4Em9HmLMt0THrnbMu9xcpZDCXkG1biwAC1b3LR_-o7fhoG3mt1S0pygf1ymNnRs=w1000-h750-no",
     "rating": 4.6,
     "review_count": 45,
     "verification_status": "UNVERIFIED",
@@ -8244,8 +8860,8 @@
     "phone": "0498 43 42 10",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mosqu%C3%A9e%20de%20Tournai%20El%20Mouwahidines&query_place_id=ChIJkSBp_4XhwkcR_PeECYRaKkE",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfPIHzaoPds_l4YRrRfzMq5LCGwZUQ-9ok7yWdIHbzS0qnHLr0oTg69DwGV_P_zfmk_1DfyrOagIOsMlcUDVHI2jCNdSyhSgqi1vdmYmr1hvRQUzbjbXO-SRCz-d16Lha6GDjXH=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfPIHzaoPds_l4YRrRfzMq5LCGwZUQ-9ok7yWdIHbzS0qnHLr0oTg69DwGV_P_zfmk_1DfyrOagIOsMlcUDVHI2jCNdSyhSgqi1vdmYmr1hvRQUzbjbXO-SRCz-d16Lha6GDjXH=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfETnmQXISI2_T6fL6s6YudxlH532Uda5-KGP0haNPZq7Ako0QHZ0bD17x6-MaY-EbILLDl2DXjU8ionFS1JFcPYzIp1oj0hGgMkL2i2eYdYiiYd9nwTqpvRxrRaSvsdYF9_Dku=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfETnmQXISI2_T6fL6s6YudxlH532Uda5-KGP0haNPZq7Ako0QHZ0bD17x6-MaY-EbILLDl2DXjU8ionFS1JFcPYzIp1oj0hGgMkL2i2eYdYiiYd9nwTqpvRxrRaSvsdYF9_Dku=w1000-h750-no",
     "rating": 5.0,
     "review_count": 11,
     "verification_status": "UNVERIFIED",
@@ -10112,578 +10728,6 @@
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLepoa6DqYbIRfqtjHNcStn4010itP2gpUTbL2oy6UUTXWCI2c5vpTseLAOD4hnr2XT_XYGstVQ9R9jq91SH2rYqt8FLKTJVCvJC28Nc4y08dksKTH75eM4qSVqt9qXUbEAJbZiB9A=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLepoa6DqYbIRfqtjHNcStn4010itP2gpUTbL2oy6UUTXWCI2c5vpTseLAOD4hnr2XT_XYGstVQ9R9jq91SH2rYqt8FLKTJVCvJC28Nc4y08dksKTH75eM4qSVqt9qXUbEAJbZiB9A=w1000-h750-no",
     "source_query": "Hypermarket in Tournai, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJnb9-h-jhwkcRUN-Qgg52Blo",
-    "name": "Superette V.M.",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tournai",
-    "address": "Superette V.M., Vieux Chemin d'Ath 686, 7531 Tournai",
-    "street": "Vieux Chemin d'Ath 686",
-    "postal_code": "7531",
-    "region": null,
-    "latitude": 50.6167722,
-    "longitude": 3.4672387,
-    "phone": "069 54 70 27",
-    "website": "https://www.heures.be/superette-vm/tournai/1",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Superette%20V.M.&query_place_id=ChIJnb9-h-jhwkcRUN-Qgg52Blo",
-    "open_hours_json": {
-      "Monday": [
-        "3–6:30 pm"
-      ],
-      "Tuesday": [
-        "8:45 am–12:15 pm",
-        "2:30–6:30 pm"
-      ],
-      "Wednesday": [
-        "8:45 am–12:15 pm",
-        "2:30–6:30 pm"
-      ],
-      "Thursday": [
-        "8:45 am–12:15 pm",
-        "2:30–6:30 pm"
-      ],
-      "Friday": [
-        "8:45 am–12:15 pm",
-        "2:30–6:30 pm"
-      ],
-      "Saturday": [
-        "8:45 am–12:15 pm",
-        "2:30–5 pm"
-      ],
-      "Sunday": [
-        "8 am–12 pm"
-      ]
-    },
-    "review_count": 17,
-    "rating": 4.8,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLepmFOOQP1YU3QXhcIsr6BNWCY0A_vgxrmS7MDkfMelJhiv6EY_gLbYcFIMupx-J9YjpbSdhePVd78J12BvL7R3Lu_x87NYuE40WpWwfkFBzH-YLxzZgBTkqCF1SHqAiEoOICmr=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLepmFOOQP1YU3QXhcIsr6BNWCY0A_vgxrmS7MDkfMelJhiv6EY_gLbYcFIMupx-J9YjpbSdhePVd78J12BvL7R3Lu_x87NYuE40WpWwfkFBzH-YLxzZgBTkqCF1SHqAiEoOICmr=w1000-h750-no",
-    "source_query": "Hypermarket in Tournai, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJEb-FLwDhwkcRA1rAtQ7LGZg",
-    "name": "Tabac shop",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tournai",
-    "address": "Tabac shop, Bd des Combattants 2, 7500 Tournai",
-    "street": "Bd des Combattants 2",
-    "postal_code": "7500",
-    "region": null,
-    "latitude": 50.6112057,
-    "longitude": 3.4011153999999997,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Tabac%20shop&query_place_id=ChIJEb-FLwDhwkcRA1rAtQ7LGZg",
-    "open_hours_json": {
-      "Monday": [
-        "8 am–8:30 pm"
-      ],
-      "Tuesday": [
-        "8 am–8:30 pm"
-      ],
-      "Wednesday": [
-        "8 am–8:30 pm"
-      ],
-      "Thursday": [
-        "8 am–8:30 pm"
-      ],
-      "Friday": [
-        "8 am–8:30 pm"
-      ],
-      "Saturday": [
-        "8 am–8:30 pm"
-      ],
-      "Sunday": [
-        "8 am–8:30 pm"
-      ]
-    },
-    "review_count": 1,
-    "rating": 1.0,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-XHiZ47fnLl0WktYj9RjXQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=159.681&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-XHiZ47fnLl0WktYj9RjXQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=159.681&pitch=0&thumbfov=w1000-h750-no",
-    "source_query": "Hypermarket in Tournai, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ6eQTNADfwkcRdZOc9rS0SVc",
-    "name": "Tbac shop",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tournai",
-    "address": "Tbac shop, Rue Saint-Martin 119, 7500 Tournai",
-    "street": "Rue Saint-Martin 119",
-    "postal_code": "7500",
-    "region": null,
-    "latitude": 50.6028516,
-    "longitude": 3.3845986999999997,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Tbac%20shop&query_place_id=ChIJ6eQTNADfwkcRdZOc9rS0SVc",
-    "open_hours_json": {
-      "Monday": [
-        "8 am–8 pm"
-      ],
-      "Tuesday": [
-        "8 am–8 pm"
-      ],
-      "Wednesday": [
-        "8 am–8 pm"
-      ],
-      "Thursday": [
-        "8 am–8 pm"
-      ],
-      "Friday": [
-        "8 am–9 pm"
-      ],
-      "Saturday": [
-        "8 am–8 pm"
-      ],
-      "Sunday": [
-        "8 am–8 pm"
-      ]
-    },
-    "review_count": 0,
-    "rating": null,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7_77-McTDGIyNrnEUilLLA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=324.98404&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7_77-McTDGIyNrnEUilLLA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=324.98404&pitch=0&thumbfov=w1000-h750-no",
-    "source_query": "Hypermarket in Tournai, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJQUqYBHxXwkcR-yQGsKzhDbM",
-    "name": "Tom & Co",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tournai",
-    "address": "Tom & Co, Bd Walter de Marvis 18, 7500 Tournai",
-    "street": "Bd Walter de Marvis 18",
-    "postal_code": "7500",
-    "region": null,
-    "latitude": 50.6048506,
-    "longitude": 3.4046271999999997,
-    "phone": "069 23 21 44",
-    "website": "https://www.tomandco.com/fr-be/nos-magasins/#!/l/tournai/boulevard-walter-de-marvis-18/2898327",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Tom%20%26%20Co&query_place_id=ChIJQUqYBHxXwkcR-yQGsKzhDbM",
-    "open_hours_json": {
-      "Monday": [
-        "8:30 am–7 pm"
-      ],
-      "Tuesday": [
-        "8:30 am–7 pm"
-      ],
-      "Wednesday": [
-        "8:30 am–7 pm"
-      ],
-      "Thursday": [
-        "8:30 am–7 pm"
-      ],
-      "Friday": [
-        "8:30 am–7 pm"
-      ],
-      "Saturday": [
-        "8:30 am–7 pm"
-      ],
-      "Sunday": [
-        "9 am–1 pm"
-      ]
-    },
-    "review_count": 784,
-    "rating": 4.2,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfnjwtyBc3vCeciGwqNOufEejPnOyOgx-pXoiUe28a2xEDDHNpdidS1Za_4Gg4xCGYBKsdmRvaGYYwdfk0WzYhBlZpizM-G380Cta-ZtkgIto3zSpOuuy5Wv6pVfo6rfJ8QYS4Y3_vt1_Wk=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfnjwtyBc3vCeciGwqNOufEejPnOyOgx-pXoiUe28a2xEDDHNpdidS1Za_4Gg4xCGYBKsdmRvaGYYwdfk0WzYhBlZpizM-G380Cta-ZtkgIto3zSpOuuy5Wv6pVfo6rfJ8QYS4Y3_vt1_Wk=w1000-h750-no",
-    "source_query": "Fish restaurant in Tournai, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJnxe9V_TfwkcR41U9nhYD--Y",
-    "name": "Tom&Co Froyennes",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tournai",
-    "address": "Tom&Co Froyennes, Rue de Maire 13a, 7503 Tournai",
-    "street": "Rue de Maire 13a",
-    "postal_code": "7503",
-    "region": null,
-    "latitude": 50.6243991,
-    "longitude": 3.3711333,
-    "phone": "069 35 41 43",
-    "website": "https://www.tomandco.com/fr-be/nos-magasins/#!/l/tournai/rue-de-maire-13a/2898401",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Tom%26Co%20Froyennes&query_place_id=ChIJnxe9V_TfwkcR41U9nhYD--Y",
-    "open_hours_json": {
-      "Monday": [
-        "9 am–7 pm"
-      ],
-      "Tuesday": [
-        "9 am–7 pm"
-      ],
-      "Wednesday": [
-        "9 am–7 pm"
-      ],
-      "Thursday": [
-        "9 am–7 pm"
-      ],
-      "Friday": [
-        "9 am–7 pm"
-      ],
-      "Saturday": [
-        "9 am–7 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 652,
-    "rating": 4.0,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLda7aCmPfTiw0EOX_TFPAEXbW6CrvauXVaOAN9rTduCfFv9HZy6g4Mi4yGF_mF8f-csWLjddcBYhv8TtPg86AjaxMMLA-aiYrfU7HZlXsT3ejRwcXdWNCWpC4F8XoXpMdJCf-o=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLda7aCmPfTiw0EOX_TFPAEXbW6CrvauXVaOAN9rTduCfFv9HZy6g4Mi4yGF_mF8f-csWLjddcBYhv8TtPg86AjaxMMLA-aiYrfU7HZlXsT3ejRwcXdWNCWpC4F8XoXpMdJCf-o=w1000-h750-no",
-    "source_query": "Fish restaurant in Tournai, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJt0reaXTgwkcRDXxo9eXjCF8",
-    "name": "Tournai Grill",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tournai",
-    "address": "Tournai Grill, Rue des Puits l'Eau 42, 7500 Tournai",
-    "street": "Rue des Puits l'Eau 42",
-    "postal_code": "7500",
-    "region": null,
-    "latitude": 50.6058417,
-    "longitude": 3.3919813,
-    "phone": "0489 66 82 26",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Tournai%20Grill&query_place_id=ChIJt0reaXTgwkcRDXxo9eXjCF8",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcEsOH44fGKq41wOyXLLdrbT7oV66GPGL8Z9fXuVG0WbOIOvv5KxycNrYKWrd4XqoKUjDhIFkAHsBNNBBlnp78Qndjf9otcHr0tDG8eShUgAcWzU0yy2SVK4N52-Fo5ait7sAI=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcEsOH44fGKq41wOyXLLdrbT7oV66GPGL8Z9fXuVG0WbOIOvv5KxycNrYKWrd4XqoKUjDhIFkAHsBNNBBlnp78Qndjf9otcHr0tDG8eShUgAcWzU0yy2SVK4N52-Fo5ait7sAI=w1000-h750-no",
-    "rating": 4.1,
-    "review_count": 1025,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJ7-VTSnXgwkcROIOBICX9tZ8",
-    "name": "Um Beaumonde",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tournai",
-    "address": "Um Beaumonde, Quai Notre Dame 12, 7500 Tournai",
-    "street": "Quai Notre Dame 12",
-    "postal_code": "7500",
-    "region": null,
-    "latitude": 50.6092455,
-    "longitude": 3.3890458999999997,
-    "phone": "069 56 09 35",
-    "website": "https://un-beaumonde.cover.page/fr",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Um%20Beaumonde&query_place_id=ChIJ7-VTSnXgwkcROIOBICX9tZ8",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeuK6kJHHog6oE9t4DBXfJfoAF76619n8xv5qtfIwFX_DAvr_YyL4UmighhTpPfjCGZvC_YRw9B_RfVCqjlMhwGuJef148MdfMYd5OpjMGncFAreyAegsnf_JDBhhJXF6clV8Bt=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeuK6kJHHog6oE9t4DBXfJfoAF76619n8xv5qtfIwFX_DAvr_YyL4UmighhTpPfjCGZvC_YRw9B_RfVCqjlMhwGuJef148MdfMYd5OpjMGncFAreyAegsnf_JDBhhJXF6clV8Bt=w1000-h750-no",
-    "rating": 4.4,
-    "review_count": 327,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJJTOmeznfwkcRqWsphJvqWTc",
-    "name": "Wapifarm",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tournai",
-    "address": "Wapifarm, Rue des Couvreurs 9, 7522 Tournai",
-    "street": "Rue des Couvreurs 9",
-    "postal_code": "7522",
-    "region": null,
-    "latitude": 50.6053893,
-    "longitude": 3.3237612999999997,
-    "phone": "0479 81 12 83",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Wapifarm&query_place_id=ChIJJTOmeznfwkcRqWsphJvqWTc",
-    "open_hours_json": {
-      "Monday": [
-        "Open 24 hours"
-      ],
-      "Tuesday": [
-        "Open 24 hours"
-      ],
-      "Wednesday": [
-        "Open 24 hours"
-      ],
-      "Thursday": [
-        "Open 24 hours"
-      ],
-      "Friday": [
-        "Open 24 hours"
-      ],
-      "Saturday": [
-        "Open 24 hours"
-      ],
-      "Sunday": [
-        "Open 24 hours"
-      ]
-    },
-    "review_count": 4,
-    "rating": 4.0,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QPFJFj-8US1lRVnT4jtvHg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=128.53625&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QPFJFj-8US1lRVnT4jtvHg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=128.53625&pitch=0&thumbfov=w1000-h750-no",
-    "source_query": "Hypermarket in Tournai, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ2XvbukjgwkcR0hQ_yuIST58",
-    "name": "Wok d'Asie",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tournai",
-    "address": "Wok d'Asie, Chau. de Bruxelles 376, 7500 Tournai",
-    "street": "Chau. de Bruxelles 376",
-    "postal_code": "7500",
-    "region": null,
-    "latitude": 50.6040035,
-    "longitude": 3.424444,
-    "phone": "069 77 79 13",
-    "website": "http://www.wokdasietournai.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Wok%20d%27Asie&query_place_id=ChIJ2XvbukjgwkcR0hQ_yuIST58",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "12–2:45 pm",
-        "6–11 pm"
-      ],
-      "Wednesday": [
-        "12–2:45 pm",
-        "6–11 pm"
-      ],
-      "Thursday": [
-        "12–2:45 pm",
-        "6–11 pm"
-      ],
-      "Friday": [
-        "12–2:45 pm",
-        "6–11:30 pm"
-      ],
-      "Saturday": [
-        "12–2:45 pm",
-        "6–11:30 pm"
-      ],
-      "Sunday": [
-        "12–3 pm",
-        "6–10:30 pm"
-      ]
-    },
-    "review_count": 1068,
-    "rating": 4.0,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcjZH0ZsP8KO7rb59EyNH2wwisXYoqMDXHkCS0Rq7f5AM5HMRMvNDs7e-qcNkJZIX-zfPwJiTCmQ_8frxpmmndJc0Z34HYlDofxmZq9KIqh2lI_sUBfK3n4vsY54vItR2xaQz-c=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcjZH0ZsP8KO7rb59EyNH2wwisXYoqMDXHkCS0Rq7f5AM5HMRMvNDs7e-qcNkJZIX-zfPwJiTCmQ_8frxpmmndJc0Z34HYlDofxmZq9KIqh2lI_sUBfK3n4vsY54vItR2xaQz-c=w1000-h750-no",
-    "source_query": "Fish restaurant in Tournai, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJfSFyWIThwkcRbgcgRJBdPuw",
-    "name": "YouWok Tournai",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tournai",
-    "address": "YouWok Tournai, Bd Walter de Marvis 22, 7500 Tournai",
-    "street": "Bd Walter de Marvis 22",
-    "postal_code": "7500",
-    "region": null,
-    "latitude": 50.6016349,
-    "longitude": 3.4044756,
-    "phone": "02 790 68 70",
-    "website": "https://youwok.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=YouWok%20Tournai&query_place_id=ChIJfSFyWIThwkcRbgcgRJBdPuw",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdGlM16fPakmjzcSlvse6_y-0UPSejuG8ppSJyghnntRs1H5txAfzFblFZt6iTadtL_dM7Y9g4j73a9TpUUhNyvHhbITB2ByD_uFVk6PuxHHn-hfFBv0l8cR-pa4arR2-M1-xAQyQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdGlM16fPakmjzcSlvse6_y-0UPSejuG8ppSJyghnntRs1H5txAfzFblFZt6iTadtL_dM7Y9g4j73a9TpUUhNyvHhbITB2ByD_uFVk6PuxHHn-hfFBv0l8cR-pa4arR2-M1-xAQyQ=w1000-h750-no",
-    "rating": 4.2,
-    "review_count": 687,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJp40lGWHfwkcRAiTNm5u7XRA",
-    "name": "massa sham",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tournai",
-    "address": "massa sham, Rue de Pont 17، 7500 Tournai",
-    "street": "Rue de Pont 17",
-    "postal_code": "7500",
-    "region": null,
-    "latitude": 50.607267199999995,
-    "longitude": 3.3942166,
-    "phone": "0483 71 14 94",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=massa%20sham&query_place_id=ChIJp40lGWHfwkcRAiTNm5u7XRA",
-    "open_hours_json": {
-      "Monday": [
-        "9 am–8 pm"
-      ],
-      "Tuesday": [
-        "9 am–8 pm"
-      ],
-      "Wednesday": [
-        "9 am–8 pm"
-      ],
-      "Thursday": [
-        "9 am–8 pm"
-      ],
-      "Friday": [
-        "9 am–8 pm"
-      ],
-      "Saturday": [
-        "9 am–8 pm"
-      ],
-      "Sunday": [
-        "9 am–8 pm"
-      ]
-    },
-    "review_count": 74,
-    "rating": 4.5,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcrrgcin1tOYhG22WNX4QzTX4FqkW5Y8bsreeT-Zj28r3cD65JbibbgeSJ-r1-brp1y4XgpODhIxK7C2TT_IAmhsausQrMTA-mmA5koB1Bsp3p3fSTARMdBeOFw4K75LZq3sxc=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcrrgcin1tOYhG22WNX4QzTX4FqkW5Y8bsreeT-Zj28r3cD65JbibbgeSJ-r1-brp1y4XgpODhIxK7C2TT_IAmhsausQrMTA-mmA5koB1Bsp3p3fSTARMdBeOFw4K75LZq3sxc=w1000-h750-no",
-    "source_query": "Hypermarket in Tournai, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ1y9MZ_rfwkcRYfWPit3CcY4",
-    "name": "wantsy",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tournai",
-    "address": "wantsy, rue du docteur jean vlaeminck 12, 7500 Tournai",
-    "street": "rue du docteur jean vlaeminck 12",
-    "postal_code": "7500",
-    "region": null,
-    "latitude": 50.5946534,
-    "longitude": 3.3858261,
-    "phone": "0491 76 17 08",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=wantsy&query_place_id=ChIJ1y9MZ_rfwkcRYfWPit3CcY4",
-    "open_hours_json": null,
-    "review_count": 0,
-    "rating": null,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW3HR4V60u8BWRbzIEN_ELVWTh00txAUrO9YGYcPDrJhjx4e7yAQI031jlcz3inpmfz8yjJidRuCTG1CTV3y0cmTTMN7Ej7vAFSJd3OsIRgilOXZJ3kkjR-xHbpS4Ds5et1VMN9Ds5pxuqhIwIZO-daSHmEaMkj-v14HWAqZ9cQdOlXZfyx49x_w9g=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW3HR4V60u8BWRbzIEN_ELVWTh00txAUrO9YGYcPDrJhjx4e7yAQI031jlcz3inpmfz8yjJidRuCTG1CTV3y0cmTTMN7Ej7vAFSJd3OsIRgilOXZJ3kkjR-xHbpS4Ds5et1VMN9Ds5pxuqhIwIZO-daSHmEaMkj-v14HWAqZ9cQdOlXZfyx49x_w9g=w1000-h750-no",
-    "source_query": "Hypermarket in Tournai, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJT0u8hHHfwkcRqrubC2dC7wQ",
-    "name": "À Fleur de Riz",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tournai",
-    "address": "À Fleur de Riz, Bld Bara 5, 7500 Tournai",
-    "street": "Bld Bara 5",
-    "postal_code": "7500",
-    "region": null,
-    "latitude": 50.606116199999995,
-    "longitude": 3.3810843,
-    "phone": "0486 30 31 08",
-    "website": "https://www.afleurderiz.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%C3%80%20Fleur%20de%20Riz&query_place_id=ChIJT0u8hHHfwkcRqrubC2dC7wQ",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "11 am–2 pm",
-        "5–9 pm"
-      ],
-      "Wednesday": [
-        "11 am–2 pm",
-        "5–9 pm"
-      ],
-      "Thursday": [
-        "11 am–2 pm",
-        "5–9 pm"
-      ],
-      "Friday": [
-        "11 am–2 pm",
-        "5–9 pm"
-      ],
-      "Saturday": [
-        "11 am–2 pm",
-        "5–9 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 59,
-    "rating": 4.8,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe7Iy8rRyPptha8sEebSPSIeVWVv_mHpPsw0C834psTOqwzqr0vH8LVgBtnzaGoD8jGzfA7HJcMoRVvx_Npx7Ti8E-m-G1AJyY6hJjA9Zf15JS0q5fNrkksPhKT8RfnX9A2YA_7Olgj3BQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe7Iy8rRyPptha8sEebSPSIeVWVv_mHpPsw0C834psTOqwzqr0vH8LVgBtnzaGoD8jGzfA7HJcMoRVvx_Npx7Ti8E-m-G1AJyY6hJjA9Zf15JS0q5fNrkksPhKT8RfnX9A2YA_7Olgj3BQ=w1000-h750-no",
-    "source_query": "Halal restaurant in Tournai, Wallonia, BE",
     "moderation_status": "approved",
     "is_active": true,
     "verification_status": "UNVERIFIED",

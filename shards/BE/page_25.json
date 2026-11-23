@@ -1,5 +1,990 @@
 [
   {
+    "place_id": "ChIJJ2lb-VOYwUcRsi1KGOVvr7s",
+    "name": "Medi-Market Erpent",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Namur",
+    "address": "Medi-Market Erpent, Chau. de Marche 464, 5101 Namur",
+    "street": "Chau. de Marche 464",
+    "postal_code": "5101",
+    "region": null,
+    "latitude": 50.446526299999995,
+    "longitude": 4.8973892999999995,
+    "phone": "081 20 86 00",
+    "website": "https://stores.medi-market.be/fr/parapharmacie-medi-market-erpent",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Medi-Market%20Erpent&query_place_id=ChIJJ2lb-VOYwUcRsi1KGOVvr7s",
+    "open_hours_json": {
+      "Monday": [
+        "8:30 am–6:30 pm"
+      ],
+      "Tuesday": [
+        "8:30 am–6:30 pm"
+      ],
+      "Wednesday": [
+        "8:30 am–6:30 pm"
+      ],
+      "Thursday": [
+        "8:30 am–6:30 pm"
+      ],
+      "Friday": [
+        "8:30 am–6:30 pm"
+      ],
+      "Saturday": [
+        "8:30 am–6:30 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 370,
+    "rating": 4.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf_Ig-ANmgyJgSKuKUNWSMB-OWyaICdupPOVOWYQA3VKceeglOvAXyFcrD3EEgC-U0-69oe7M6Pv-R41_e8tk0IiwJBOjr80esbuQL_elBldoI51SXM5OjPWs0zM6PnUM_e5W5TXN3mFAk=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf_Ig-ANmgyJgSKuKUNWSMB-OWyaICdupPOVOWYQA3VKceeglOvAXyFcrD3EEgC-U0-69oe7M6Pv-R41_e8tk0IiwJBOjr80esbuQL_elBldoI51SXM5OjPWs0zM6PnUM_e5W5TXN3mFAk=w1000-h750-no",
+    "source_query": "Pharmacy in Namur, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJo6zsRSmZwUcRZSAUCccTTiM",
+    "name": "Mini Mix Namur",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Namur",
+    "address": "Mini Mix Namur, Rue de Fernelmont 1, 5020 Namur",
+    "street": "Rue de Fernelmont 1",
+    "postal_code": "5020",
+    "region": null,
+    "latitude": 50.4877021,
+    "longitude": 4.893305499999999,
+    "phone": "081 21 14 06",
+    "website": "https://www.facebook.com/minimix.namur/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mini%20Mix%20Namur&query_place_id=ChIJo6zsRSmZwUcRZSAUCccTTiM",
+    "open_hours_json": {
+      "Monday": [
+        "9 am–7 pm"
+      ],
+      "Tuesday": [
+        "9 am–7 pm"
+      ],
+      "Wednesday": [
+        "9 am–7 pm"
+      ],
+      "Thursday": [
+        "9 am–7 pm"
+      ],
+      "Friday": [
+        "9 am–7 pm"
+      ],
+      "Saturday": [
+        "9 am–7 pm"
+      ],
+      "Sunday": [
+        "10 am–6 pm"
+      ]
+    },
+    "review_count": 229,
+    "rating": 4.4,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf1Zb3Aywmtrc2y8DkpLidtty-c3R797FncX5z1CT2MDZO2kLDsXkboaKet6lWJA9DBMcAKSImiGgfHT9a-Yd1rTVSJ121dV1JwADqfEZ02oZyZT8DBXnrHO1Y8K9y0OpwqzMRf=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf1Zb3Aywmtrc2y8DkpLidtty-c3R797FncX5z1CT2MDZO2kLDsXkboaKet6lWJA9DBMcAKSImiGgfHT9a-Yd1rTVSJ121dV1JwADqfEZ02oZyZT8DBXnrHO1Y8K9y0OpwqzMRf=w1000-h750-no",
+    "source_query": "Hypermarket in Namur, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJHQS2bXKZwUcRUV6Kr2yOqEc",
+    "name": "Mykonos Restaurant",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Namur",
+    "address": "Mykonos Restaurant, Rue de la Halle 8, 5000 Namur",
+    "street": "Rue de la Halle 8",
+    "postal_code": "5000",
+    "region": null,
+    "latitude": 50.4628696,
+    "longitude": 4.865463,
+    "phone": "081 23 19 18",
+    "website": "http://www.lemyconos.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mykonos%20Restaurant&query_place_id=ChIJHQS2bXKZwUcRUV6Kr2yOqEc",
+    "open_hours_json": {
+      "Monday": [
+        "12–2:30 pm",
+        "6–10 pm"
+      ],
+      "Tuesday": [
+        "12–2:30 pm",
+        "6–10 pm"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "6–10 pm"
+      ],
+      "Friday": [
+        "12–2:30 pm",
+        "6–10:30 pm"
+      ],
+      "Saturday": [
+        "12–2:30 pm",
+        "6–10:30 pm"
+      ],
+      "Sunday": [
+        "12–2:30 pm",
+        "6–10 pm"
+      ]
+    },
+    "review_count": 1531,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcQ8niYxe0G2v85WOy_R3G4eb5abeSiCgY-5XURy8kI5GclZhEIu_29J1hBFpg2QQersSWqSsLdGoEmlZt3kUIlZY7_L7T_GvsewGf1lyVf0muyujvEEDkXTaW5yrk6mD_vPTIS=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcQ8niYxe0G2v85WOy_R3G4eb5abeSiCgY-5XURy8kI5GclZhEIu_29J1hBFpg2QQersSWqSsLdGoEmlZt3kUIlZY7_L7T_GvsewGf1lyVf0muyujvEEDkXTaW5yrk6mD_vPTIS=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Namur, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJi11UCwCZwUcRfxwOB804DxM",
+    "name": "NIGHT OWL NIGHT SHOP",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Namur",
+    "address": "NIGHT OWL NIGHT SHOP, Rue de Fer 61, 5000 Namur",
+    "street": "Rue de Fer 61",
+    "postal_code": "5000",
+    "region": null,
+    "latitude": 50.466110799999996,
+    "longitude": 4.8652666,
+    "phone": "0466 41 31 60",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=NIGHT%20OWL%20NIGHT%20SHOP&query_place_id=ChIJi11UCwCZwUcRfxwOB804DxM",
+    "open_hours_json": {
+      "Monday": [
+        "10 am–2 am"
+      ],
+      "Tuesday": [
+        "10 am–2 am"
+      ],
+      "Wednesday": [
+        "10 am–2 am"
+      ],
+      "Thursday": [
+        "10 am–2 am"
+      ],
+      "Friday": [
+        "10 am–3 am"
+      ],
+      "Saturday": [
+        "10 am–3 am"
+      ],
+      "Sunday": [
+        "12 pm–3 am"
+      ]
+    },
+    "review_count": 6,
+    "rating": 5.0,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdWfd-y_eM2bP-J0aUs0fZr-N3n7MWR2pxQ6NKJbmEt2zigfxRTmHMylI6rLQc7voB2Z3onJFC2h9v9aFBuGxMMEwkgwutfrDTOo1gaNaBrm4uGxpG9rSkfQXzjn9ssSykiL8iabnswOpo6=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdWfd-y_eM2bP-J0aUs0fZr-N3n7MWR2pxQ6NKJbmEt2zigfxRTmHMylI6rLQc7voB2Z3onJFC2h9v9aFBuGxMMEwkgwutfrDTOo1gaNaBrm4uGxpG9rSkfQXzjn9ssSykiL8iabnswOpo6=w1000-h750-no",
+    "source_query": "Hypermarket in Namur, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJqZZdieyZwUcRENWoIGbnKzE",
+    "name": "Nord du Liban",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Namur",
+    "address": "Nord du Liban, Place d'Armes 16, 5000 Namur",
+    "street": "Place d'Armes 16",
+    "postal_code": "5000",
+    "region": null,
+    "latitude": 50.463393599999996,
+    "longitude": 4.8677604,
+    "phone": "081 30 64 44",
+    "website": "https://www.facebook.com/people/Nord-du-Liban/61555987261578/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Nord%20du%20Liban&query_place_id=ChIJqZZdieyZwUcRENWoIGbnKzE",
+    "open_hours_json": {
+      "Monday": [
+        "12–3 pm",
+        "6–10 pm"
+      ],
+      "Tuesday": [
+        "12–3 pm",
+        "6–10 pm"
+      ],
+      "Wednesday": [
+        "12–3 pm",
+        "6–10 pm"
+      ],
+      "Thursday": [
+        "12–3 pm",
+        "6–10 pm"
+      ],
+      "Friday": [
+        "12–3 pm",
+        "6–10 pm"
+      ],
+      "Saturday": [
+        "12–3 pm",
+        "6–10 pm"
+      ],
+      "Sunday": [
+        "12–3 pm",
+        "6–10 pm"
+      ]
+    },
+    "review_count": 330,
+    "rating": 4.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeiXHuxLjchfuO_BxQZ92KG5tkjTgkdE1EEMwuD7dY3CvqlHZB7zdj6sDCA3r5f9tYZf0hJhAw_Txdrivqu_9_YnnhYNWvgpKwjHAQP_rL6lVZph2oCXgS_nS6zNmo-jcKKow_QUofR9zKc=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeiXHuxLjchfuO_BxQZ92KG5tkjTgkdE1EEMwuD7dY3CvqlHZB7zdj6sDCA3r5f9tYZf0hJhAw_Txdrivqu_9_YnnhYNWvgpKwjHAQP_rL6lVZph2oCXgS_nS6zNmo-jcKKow_QUofR9zKc=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Namur, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJp08l2W6ZwUcRae5vNrniTOk",
+    "name": "O'Tacos Namur",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Namur",
+    "address": "O'Tacos Namur, Pl. de la Station 24, 5000 Namur",
+    "street": "Pl. de la Station 24",
+    "postal_code": "5000",
+    "region": null,
+    "latitude": 50.468250999999995,
+    "longitude": 4.861603,
+    "phone": null,
+    "website": "https://restaurants.o-tacos.com/belgium/region-wallonne/namur/namur/namur-gare?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=O%27Tacos%20Namur&query_place_id=ChIJp08l2W6ZwUcRae5vNrniTOk",
+    "open_hours_json": {
+      "Monday": [
+        "11 am–10 pm"
+      ],
+      "Tuesday": [
+        "11 am–10 pm"
+      ],
+      "Wednesday": [
+        "11 am–10 pm"
+      ],
+      "Thursday": [
+        "11 am–10 pm"
+      ],
+      "Friday": [
+        "11 am–11 pm"
+      ],
+      "Saturday": [
+        "11 am–11 pm"
+      ],
+      "Sunday": [
+        "12–10 pm"
+      ]
+    },
+    "review_count": 1560,
+    "rating": 3.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdB6yZpZE6MHULrPwj0Ol9Im5U3LOBrQPgfLFHJ3LrasaG_rObsVE30oBeR4yoVc-raeXctmTSgN7LXkTXgrhln-rXK9qpYgzA-h3BjfvtsG5M6jCHvER0o7tSB9rs0i50gAL2C=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdB6yZpZE6MHULrPwj0Ol9Im5U3LOBrQPgfLFHJ3LrasaG_rObsVE30oBeR4yoVc-raeXctmTSgN7LXkTXgrhln-rXK9qpYgzA-h3BjfvtsG5M6jCHvER0o7tSB9rs0i50gAL2C=w1000-h750-no",
+    "source_query": "Halal restaurant in Namur, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata"
+  },
+  {
+    "place_id": "ChIJBRsK6QyZwUcRdTMhHmFS32M",
+    "name": "O'Tacos Namur 2",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Namur",
+    "address": "O'Tacos Namur 2, Rue de Fer 90, 5000 Namur",
+    "street": "Rue de Fer 90",
+    "postal_code": "5000",
+    "region": null,
+    "latitude": 50.467738999999995,
+    "longitude": 4.8655333,
+    "phone": null,
+    "website": "https://o-tacos.com/be",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=O%27Tacos%20Namur%202&query_place_id=ChIJBRsK6QyZwUcRdTMhHmFS32M",
+    "open_hours_json": {
+      "Monday": [
+        "11 am–10 pm"
+      ],
+      "Tuesday": [
+        "11 am–10 pm"
+      ],
+      "Wednesday": [
+        "11 am–10 pm"
+      ],
+      "Thursday": [
+        "11 am–10 pm"
+      ],
+      "Friday": [
+        "11 am–10 pm"
+      ],
+      "Saturday": [
+        "11 am–10 pm"
+      ],
+      "Sunday": [
+        "11 am–10 pm"
+      ]
+    },
+    "review_count": 316,
+    "rating": 3.2,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcjRE4gOQznuC9R48MHHGzw6L0tWyXdxmDO-pkk9agMFTTtYXeTUUzlXiux6iQ1WDmaOrjZdntkW1qQ8irjk2SirHsGqPcl2aA2sunKH3SPcGL774OyeNkZLlj-_s6QHStHOS2eZA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcjRE4gOQznuC9R48MHHGzw6L0tWyXdxmDO-pkk9agMFTTtYXeTUUzlXiux6iQ1WDmaOrjZdntkW1qQ8irjk2SirHsGqPcl2aA2sunKH3SPcGL774OyeNkZLlj-_s6QHStHOS2eZA=w1000-h750-no",
+    "source_query": "Halal restaurant in Namur, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJa8Wlb3KZwUcRg5g9ZjEZv7M",
+    "name": "Ogawa",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Namur",
+    "address": "Ogawa, Rue des Fripiers 5, 5000 Namur",
+    "street": "Rue des Fripiers 5",
+    "postal_code": "5000",
+    "region": null,
+    "latitude": 50.4630236,
+    "longitude": 4.865778499999999,
+    "phone": "081 26 03 88",
+    "website": "https://www.ogawaonline.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ogawa&query_place_id=ChIJa8Wlb3KZwUcRg5g9ZjEZv7M",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "12–2 pm",
+        "6–10 pm"
+      ],
+      "Wednesday": [
+        "12–2 pm",
+        "6–10 pm"
+      ],
+      "Thursday": [
+        "12–2 pm",
+        "6–10 pm"
+      ],
+      "Friday": [
+        "12–2 pm",
+        "6–10 pm"
+      ],
+      "Saturday": [
+        "12–2 pm",
+        "6–10 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 504,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd3n-rfdsajcWFc2Wm0TRPCeIRiHM7UoHYTa01TxdLaPpJOU-OKh6g_l5TTY8ucWWLUuRmShAaqqPJvly9OS7jbyj7tHy9ilFiEFbh2H_MBnJ4Ju5e4Az-ww3vv2uDp6V3hFKPowA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd3n-rfdsajcWFc2Wm0TRPCeIRiHM7UoHYTa01TxdLaPpJOU-OKh6g_l5TTY8ucWWLUuRmShAaqqPJvly9OS7jbyj7tHy9ilFiEFbh2H_MBnJ4Ju5e4Az-ww3vv2uDp6V3hFKPowA=w1000-h750-no",
+    "source_query": "Fish restaurant in Namur, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJo3gttt-bwUcR6r8ljj49_RE",
+    "name": "On S'en Fish",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Namur",
+    "address": "On S'en Fish, Av. Joseph Abras 113, 5001 Namur",
+    "street": "Av. Joseph Abras 113",
+    "postal_code": "5001",
+    "region": null,
+    "latitude": 50.472461599999995,
+    "longitude": 4.822805799999999,
+    "phone": "081 60 11 14",
+    "website": "https://www.facebook.com/On-sen-fish-100890865832871/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=On%20S%27en%20Fish&query_place_id=ChIJo3gttt-bwUcR6r8ljj49_RE",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "10 am–6 pm"
+      ],
+      "Thursday": [
+        "10 am–6 pm"
+      ],
+      "Friday": [
+        "10 am–7 pm"
+      ],
+      "Saturday": [
+        "10 am–5 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 109,
+    "rating": 4.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfwh-gazly3CZIukrQe_68ggx8SlX0w11b3lKtsxeL-gBLnu5czUNcFdJ2QN4jRF9NLKEQA7bOiF5aMVICGoblroGLsCHUaD-oALTF2jjBaxdfyWJhz5I608osznb_mheMgnGY=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfwh-gazly3CZIukrQe_68ggx8SlX0w11b3lKtsxeL-gBLnu5czUNcFdJ2QN4jRF9NLKEQA7bOiF5aMVICGoblroGLsCHUaD-oALTF2jjBaxdfyWJhz5I608osznb_mheMgnGY=w1000-h750-no",
+    "source_query": "Fish restaurant in Namur, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJNfkQrVeZwUcRa1ZbBgAWxN4",
+    "name": "PALM BEACH Namur",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Namur",
+    "address": "PALM BEACH Namur, Av. du Bourgmestre Jean Materne 41, 5100 Namur",
+    "street": "Av. du Bourgmestre Jean Materne 41",
+    "postal_code": "5100",
+    "region": null,
+    "latitude": 50.4579793,
+    "longitude": 4.868513699999999,
+    "phone": "081 58 08 70",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=PALM%20BEACH%20Namur&query_place_id=ChIJNfkQrVeZwUcRa1ZbBgAWxN4",
+    "open_hours_json": {
+      "Monday": [
+        "11:30 am–2 pm",
+        "6 pm–12 am"
+      ],
+      "Tuesday": [
+        "11:30 am–2 pm",
+        "6 pm–12 am"
+      ],
+      "Wednesday": [
+        "11:30 am–2 pm",
+        "6 pm–12 am"
+      ],
+      "Thursday": [
+        "11:30 am–2 pm",
+        "6 pm–12 am"
+      ],
+      "Friday": [
+        "11:30 am–2 pm",
+        "6 pm–2 am"
+      ],
+      "Saturday": [
+        "6 pm–2 am"
+      ],
+      "Sunday": [
+        "6 pm–12 am"
+      ]
+    },
+    "review_count": 96,
+    "rating": 4.9,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcWTMIgm924HwaSQfA6R2TnzbAVs75v764e9c4k_IbjA0wlJWVIJiMKGr-iIQMFZagRDM7_v38F-KLPAz0dqQxIGUih_4XVbGjbmv8wUYh-PfcQ5RkIrcNIgtrzDUKPXa9haG3vkWaiKAOV=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcWTMIgm924HwaSQfA6R2TnzbAVs75v764e9c4k_IbjA0wlJWVIJiMKGr-iIQMFZagRDM7_v38F-KLPAz0dqQxIGUih_4XVbGjbmv8wUYh-PfcQ5RkIrcNIgtrzDUKPXa9haG3vkWaiKAOV=w1000-h750-no",
+    "source_query": "Fish restaurant in Namur, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ8wyuAgCZwUcRo_zhx33q5Rs",
+    "name": "Parc Express. Chez Alam",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Namur",
+    "address": "Parc Express. Chez Alam, Rue Borgnet 7, 5000 Namur",
+    "street": "Rue Borgnet 7",
+    "postal_code": "5000",
+    "region": null,
+    "latitude": 50.468078999999996,
+    "longitude": 4.8662358999999995,
+    "phone": "0493 98 06 23",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Parc%20Express.%20Chez%20Alam&query_place_id=ChIJ8wyuAgCZwUcRo_zhx33q5Rs",
+    "open_hours_json": {
+      "Monday": [
+        "10 am–10 pm"
+      ],
+      "Tuesday": [
+        "10 am–10 pm"
+      ],
+      "Wednesday": [
+        "10 am–10 pm"
+      ],
+      "Thursday": [
+        "10 am–10 pm"
+      ],
+      "Friday": [
+        "10 am–10 pm"
+      ],
+      "Saturday": [
+        "10 am–10 pm"
+      ],
+      "Sunday": [
+        "10 am–10 pm"
+      ]
+    },
+    "review_count": 2,
+    "rating": 3.0,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeXAVT_WpWdpioKrl15byc56_KiGknMYjjJcJHIEwtK64HMV3L4zJQAYwic2bAqIByKudc584ZTLyiLaWKDoLX_1LLqkHxEZS_YIHCGjrDYDLR3wGcTov2A2uyMJAUqS-Vz8Mpp_2UCohw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeXAVT_WpWdpioKrl15byc56_KiGknMYjjJcJHIEwtK64HMV3L4zJQAYwic2bAqIByKudc584ZTLyiLaWKDoLX_1LLqkHxEZS_YIHCGjrDYDLR3wGcTov2A2uyMJAUqS-Vz8Mpp_2UCohw=w1000-h750-no",
+    "source_query": "Hypermarket in Namur, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJY3gCBYeZwUcRUu48CjsRyto",
+    "name": "Pita Maison Namur",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Namur",
+    "address": "Pita Maison Namur, Bd du N 28, 5000 Namur",
+    "street": "Bd du N 28",
+    "postal_code": "5000",
+    "region": null,
+    "latitude": 50.470251999999995,
+    "longitude": 4.864526199999999,
+    "phone": "0488 46 68 47",
+    "website": "https://qr.wwwcafe.de/2025/08/12/emirdag-kofte-namur/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pita%20Maison%20Namur&query_place_id=ChIJY3gCBYeZwUcRUu48CjsRyto",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdhbgSS8nOsOOjwQOlxg5pxEDi7KXtehf-P8x9SSKilSylmVvhGecZbNeo0A5wXgaHSDhCyxYP6nurWrZelxukYYeIwu6s4L6azIv8aDjS_BKN1Rx1nEXuwTQG2rC6AycE4S2Uo-L3LemM=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdhbgSS8nOsOOjwQOlxg5pxEDi7KXtehf-P8x9SSKilSylmVvhGecZbNeo0A5wXgaHSDhCyxYP6nurWrZelxukYYeIwu6s4L6azIv8aDjS_BKN1Rx1nEXuwTQG2rC6AycE4S2Uo-L3LemM=w1000-h750-no",
+    "rating": 4.4,
+    "review_count": 113,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJp5m_PSCZwUcR97zOexS4ln0",
+    "name": "Point de R'Aliment Paysans-Artisans La Plante",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Namur",
+    "address": "Point de R'Aliment Paysans-Artisans La Plante, Chau. de Dinant 314, 5000 Namur",
+    "street": "Chau. de Dinant 314",
+    "postal_code": "5000",
+    "region": null,
+    "latitude": 50.4420764,
+    "longitude": 4.8571414,
+    "phone": "081 34 61 26",
+    "website": "https://paysans-artisans.be/la-vente-en-ligne/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Point%20de%20R%27Aliment%20Paysans-Artisans%20La%20Plante&query_place_id=ChIJp5m_PSCZwUcR97zOexS4ln0",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "5:30–6:30 pm"
+      ],
+      "Friday": [
+        "Closed"
+      ],
+      "Saturday": [
+        "Closed"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 0,
+    "rating": null,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe5gaSdGHUtKx33m7ddZMP0xx8tDZS_zR9I5BST7c4zwFSKFw9E2TuKwZ1LujPC3BMNRVDHDIXJakXK2D7amYizhsviax4Jj1u9CPdWT2tkNzGnpmeLHLQWCvZuOw_2GR13g-pjOerYk-w=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe5gaSdGHUtKx33m7ddZMP0xx8tDZS_zR9I5BST7c4zwFSKFw9E2TuKwZ1LujPC3BMNRVDHDIXJakXK2D7amYizhsviax4Jj1u9CPdWT2tkNzGnpmeLHLQWCvZuOw_2GR13g-pjOerYk-w=w1000-h750-no",
+    "source_query": "Hypermarket in Namur, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJOUaKTHmZwUcR2JUzzIHnIyA",
+    "name": "Poké House Namur",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Namur",
+    "address": "Poké House Namur, Rue de Fer 74, 5000 Namur",
+    "street": "Rue de Fer 74",
+    "postal_code": "5000",
+    "region": null,
+    "latitude": 50.4673674,
+    "longitude": 4.8656825,
+    "phone": "081 85 98 69",
+    "website": "https://pokehouse.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pok%C3%A9%20House%20Namur&query_place_id=ChIJOUaKTHmZwUcR2JUzzIHnIyA",
+    "open_hours_json": {
+      "Monday": [
+        "11:30 am–8 pm"
+      ],
+      "Tuesday": [
+        "11:30 am–8 pm"
+      ],
+      "Wednesday": [
+        "11:30 am–8 pm"
+      ],
+      "Thursday": [
+        "11:30 am–8 pm"
+      ],
+      "Friday": [
+        "11:30 am–8 pm"
+      ],
+      "Saturday": [
+        "12–8 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 199,
+    "rating": 3.9,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdsWRZN5C0-uqVVSa2YCEmD-52yWfIj1lo6qtQOhlUdFQjLFmeoHAfda7SShKrwVSMv0ogwXTkk2JNy4Ib8Pz4QHAovKLEbvVZ5T3GOKsOAX1DOTwi59_ouCxH_AIXv_Q8CRTfeMw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdsWRZN5C0-uqVVSa2YCEmD-52yWfIj1lo6qtQOhlUdFQjLFmeoHAfda7SShKrwVSMv0ogwXTkk2JNy4Ib8Pz4QHAovKLEbvVZ5T3GOKsOAX1DOTwi59_ouCxH_AIXv_Q8CRTfeMw=w1000-h750-no",
+    "source_query": "Halal restaurant in Namur, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJLX7pBguZwUcRIbAFijvPSBY",
+    "name": "Quanta",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Namur",
+    "address": "Quanta, Av du Bourg Jean Materne 105, 5100 Namur",
+    "street": "Av du Bourg Jean Materne 105",
+    "postal_code": "5100",
+    "region": null,
+    "latitude": 50.4567,
+    "longitude": 4.8711899999999995,
+    "phone": "081 30 16 88",
+    "website": "https://www.pagesdor.be/entreprise/Namur/L2530561/QUANTA/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Quanta&query_place_id=ChIJLX7pBguZwUcRIbAFijvPSBY",
+    "open_hours_json": {
+      "Monday": [
+        "9 am–7 pm"
+      ],
+      "Tuesday": [
+        "9 am–7 pm"
+      ],
+      "Wednesday": [
+        "9 am–7 pm"
+      ],
+      "Thursday": [
+        "9 am–7 pm"
+      ],
+      "Friday": [
+        "9 am–7 pm"
+      ],
+      "Saturday": [
+        "9 am–7 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 1,
+    "rating": 3.0,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3vt44Lj_DD7vUuP5HcShtA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=276.10706&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3vt44Lj_DD7vUuP5HcShtA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=276.10706&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Hypermarket in Namur, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJLQzUoTGZwUcRNonK8htMxNM",
+    "name": "Rare Burger Namur",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Namur",
+    "address": "Rare Burger Namur, Rue de Bruxelles 70, 5000 Namur",
+    "street": "Rue de Bruxelles 70",
+    "postal_code": "5000",
+    "region": null,
+    "latitude": 50.4663937,
+    "longitude": 4.860576099999999,
+    "phone": "0479 10 84 93",
+    "website": "https://www.rareburger.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Rare%20Burger%20Namur&query_place_id=ChIJLQzUoTGZwUcRNonK8htMxNM",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcUvwOgUfh7Ql1A6u8bTb5tsYOdyFaiUlF71TomaClyvCa-Po9IPreeaVSib5waxTbjLu_oaVrBSnEts1ebTp-v1cnhiQgioOheiu8CaReC3cdU3K9cmSjdmGXaCgMdqKcbRAxKZn4qP7AZ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcUvwOgUfh7Ql1A6u8bTb5tsYOdyFaiUlF71TomaClyvCa-Po9IPreeaVSib5waxTbjLu_oaVrBSnEts1ebTp-v1cnhiQgioOheiu8CaReC3cdU3K9cmSjdmGXaCgMdqKcbRAxKZn4qP7AZ=w1000-h750-no",
+    "rating": 4.8,
+    "review_count": 218,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJ4apRz2WZwUcRDHFR9qJdqEQ",
+    "name": "Restaurant Algérien \"Le Mechoui\"",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Namur",
+    "address": "Restaurant Algérien \"Le Mechoui\", Av. des Combattants 17, 5000 Namur",
+    "street": "Av. des Combattants 17",
+    "postal_code": "5000",
+    "region": null,
+    "latitude": 50.468429699999994,
+    "longitude": 4.8557559999999995,
+    "phone": "081 73 96 06",
+    "website": "https://www.le-mechoui.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20Alg%C3%A9rien%20%22Le%20Mechoui%22&query_place_id=ChIJ4apRz2WZwUcRDHFR9qJdqEQ",
+    "open_hours_json": null,
+    "review_count": 162,
+    "rating": 4.0,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd-dfi1jQUz-4GumHeiBYuArMwjRkuTvfbZtADr89kHn2KV2Gb-ovKFusbhXTVXWV7PK31aBhm91eE2HRe0en5nmjxK2VrBEGspnh31RzGro1A5kZke2wtnnOaYTrhO4VpXYNVt=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd-dfi1jQUz-4GumHeiBYuArMwjRkuTvfbZtADr89kHn2KV2Gb-ovKFusbhXTVXWV7PK31aBhm91eE2HRe0en5nmjxK2VrBEGspnh31RzGro1A5kZke2wtnnOaYTrhO4VpXYNVt=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Wavreille, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJI8OmK3iZwUcRymWRfzYikT8",
+    "name": "Restaurant Equilibrio",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Namur",
+    "address": "Restaurant Equilibrio, Rue du Collège 3, 5000 Namur",
+    "street": "Rue du Collège 3",
+    "postal_code": "5000",
+    "region": null,
+    "latitude": 50.4636499,
+    "longitude": 4.8637092,
+    "phone": "0493 55 77 27",
+    "website": "https://equilibrioevents.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20Equilibrio&query_place_id=ChIJI8OmK3iZwUcRymWRfzYikT8",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "6:30–9 pm"
+      ],
+      "Wednesday": [
+        "11:30 am–2:30 pm",
+        "6:30–9 pm"
+      ],
+      "Thursday": [
+        "11:30 am–2:30 pm",
+        "6:30–9:30 pm"
+      ],
+      "Friday": [
+        "11:30 am–3 pm",
+        "6:30–9:30 pm"
+      ],
+      "Saturday": [
+        "11:30 am–3 pm",
+        "6:30–9:30 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 362,
+    "rating": 4.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcy4qD2pW0su_dBiGja2RQGvRuKqYhP3Hz6YeKgSL6VKz3qYslEVvCRti4zvdZyTzwov-02gCv1bDWPzliJWwv2vct_V30TpOFzcG7BxjfMGA_lcMnAvPXqYqeAY42cf3RHts3U=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcy4qD2pW0su_dBiGja2RQGvRuKqYhP3Hz6YeKgSL6VKz3qYslEVvCRti4zvdZyTzwov-02gCv1bDWPzliJWwv2vct_V30TpOFzcG7BxjfMGA_lcMnAvPXqYqeAY42cf3RHts3U=w1000-h750-no",
+    "source_query": "Fish restaurant in Namur, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJkdw88WyZwUcRUiTB3HKR-KI",
+    "name": "Royal Pharmaceutical Union of the Province Namur",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Namur",
+    "address": "Royal Pharmaceutical Union of the Province Namur, Rue des Dames Blanches 1, 5000 Namur",
+    "street": "Rue des Dames Blanches 1",
+    "postal_code": "5000",
+    "region": null,
+    "latitude": 50.4669733,
+    "longitude": 4.868557399999999,
+    "phone": "081 25 14 10",
+    "website": "https://www.apnl.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Royal%20Pharmaceutical%20Union%20of%20the%20Province%20Namur&query_place_id=ChIJkdw88WyZwUcRUiTB3HKR-KI",
+    "open_hours_json": null,
+    "review_count": 2,
+    "rating": 4.0,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=i-_O0BRA_rQ1srW84QtCLA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=189.63629&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=i-_O0BRA_rQ1srW84QtCLA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=189.63629&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Pharmacy in Namur, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJMVbvX1uZwUcRbT1Tu7-cZYA",
+    "name": "SAMET 63",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Namur",
+    "address": "SAMET 63, Av. des Combattants 5, 5000 Namur",
+    "street": "Av. des Combattants 5",
+    "postal_code": "5000",
+    "region": null,
+    "latitude": 50.4681171,
+    "longitude": 4.856733,
+    "phone": "0470 81 07 56",
+    "website": "https://namur-night-light.lovable.app/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=SAMET%2063&query_place_id=ChIJMVbvX1uZwUcRbT1Tu7-cZYA",
+    "open_hours_json": {
+      "Monday": [
+        "Open 24 hours"
+      ],
+      "Tuesday": [
+        "12–5:30 am",
+        "10 am–5:30 am"
+      ],
+      "Wednesday": [
+        "10 am–5:30 am"
+      ],
+      "Thursday": [
+        "10 am–5:30 am"
+      ],
+      "Friday": [
+        "10 am–5:30 am"
+      ],
+      "Saturday": [
+        "10 am–7:30 am"
+      ],
+      "Sunday": [
+        "10 am–12 am"
+      ]
+    },
+    "review_count": 88,
+    "rating": 5.0,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd5sr6G9HkgpF2LtIRPsSwnsbwy74fj30JGKf-IhVPgdTAE_SV7I3Un2s4nFp2L7ErBXloPAQnPyosergxCjoVnkjiX0_ynYZGAYkEU1-Ybp0zdnYvkICHXaRYRW_h-NOCT8b07ocvscEOw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd5sr6G9HkgpF2LtIRPsSwnsbwy74fj30JGKf-IhVPgdTAE_SV7I3Un2s4nFp2L7ErBXloPAQnPyosergxCjoVnkjiX0_ynYZGAYkEU1-Ybp0zdnYvkICHXaRYRW_h-NOCT8b07ocvscEOw=w1000-h750-no",
+    "source_query": "Hypermarket in Namur, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJYwmjqT-ZwUcR73kUG4QOWCE",
+    "name": "SEVENDAY",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Namur",
+    "address": "SEVENDAY, Av. des Combattants 8, 5000 Namur",
+    "street": "Av. des Combattants 8",
+    "postal_code": "5000",
+    "region": null,
+    "latitude": 50.468151299999995,
+    "longitude": 4.8564869999999996,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=SEVENDAY&query_place_id=ChIJYwmjqT-ZwUcR73kUG4QOWCE",
+    "open_hours_json": {
+      "Monday": [
+        "Open 24 hours"
+      ],
+      "Tuesday": [
+        "Open 24 hours"
+      ],
+      "Wednesday": [
+        "Open 24 hours"
+      ],
+      "Thursday": [
+        "Open 24 hours"
+      ],
+      "Friday": [
+        "Open 24 hours"
+      ],
+      "Saturday": [
+        "Open 24 hours"
+      ],
+      "Sunday": [
+        "Open 24 hours"
+      ]
+    },
+    "review_count": 143,
+    "rating": 4.9,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe5MLXe6OKVd2OXuntxBwlsRt_ZxttNXhvKYusrXJKxnblo_7dGyTf3hMphjoPTHeObbMCmWrVVcpldgFhl3wFrHtoMO9TRJqouSASL90Hy8WO-lEPjtIw8r3SZcJIidtQxcNTY=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe5MLXe6OKVd2OXuntxBwlsRt_ZxttNXhvKYusrXJKxnblo_7dGyTf3hMphjoPTHeObbMCmWrVVcpldgFhl3wFrHtoMO9TRJqouSASL90Hy8WO-lEPjtIw8r3SZcJIidtQxcNTY=w1000-h750-no",
+    "source_query": "Hypermarket in Namur, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJhdSdYBKZwUcR_VL0OEMctkU",
     "name": "SPAR Express Namur",
     "type": "hypermarket",
@@ -10247,8 +11232,8 @@
     "phone": "059 33 20 59",
     "website": "https://www.facebook.com/grillcenteroostende",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Grill%20Center%20%F0%9F%87%AE%F0%9F%87%B9&query_place_id=ChIJXW6Cfdao3EcRRVAHawkjs2U",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcFgFmX4CSK4LC3HWYoLaznG5xeSX1YeiJY27ruUEC130rpbx76XYmiM7GXOnq8Nd0BPTVB3U3PYqD5xWNoVN3jIK6lOHYB3N2AKjAOTe1_Dqd1jr3UG-z52yZTGuXSgNfJtqUe=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcFgFmX4CSK4LC3HWYoLaznG5xeSX1YeiJY27ruUEC130rpbx76XYmiM7GXOnq8Nd0BPTVB3U3PYqD5xWNoVN3jIK6lOHYB3N2AKjAOTe1_Dqd1jr3UG-z52yZTGuXSgNfJtqUe=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcILz0ebs72sBlIMBU2uRS1i3lt4P5TE5ooCvFOmTFJPeSb4QZVMGAxmodRMMpxlV7-Lk3Kp63UQyBuvGsPCbJ8PZz_yV-J_36nPoSsW9s-X1C8cZqI2aTFOlPTsmfMGHeqPn38=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcILz0ebs72sBlIMBU2uRS1i3lt4P5TE5ooCvFOmTFJPeSb4QZVMGAxmodRMMpxlV7-Lk3Kp63UQyBuvGsPCbJ8PZz_yV-J_36nPoSsW9s-X1C8cZqI2aTFOlPTsmfMGHeqPn38=w1000-h750-no",
     "rating": 3.0,
     "review_count": 34,
     "verification_status": "UNVERIFIED",
@@ -10381,552 +11366,6 @@
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfuArxwodg21wWUg6T3BnoSvGY-RodhG1AIVOR2wPumnQ4_KG-ich3CFBoKHsk1TSfbCiEX7VL2CHjJPvCoH_hqGzXw9fY0sTmFgbTU66oKpHjKQQkUeSNTuN6NgfmfSftd4vBS=w1000-h750-no",
     "rating": 4.8,
     "review_count": 4345,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJaVfSpCWv3EcR4vOTSGvjZ9Y",
-    "name": "Hazrat Bilal Jami Masjid Mosque Cami",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Oostende",
-    "address": "Hazrat Bilal Jami Masjid Mosque Cami, Stuiverstraat 210, 8400 Oostende",
-    "street": "Stuiverstraat 210",
-    "postal_code": "8400",
-    "region": null,
-    "latitude": 51.2148782,
-    "longitude": 2.9086713,
-    "phone": "0466 48 75 85",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Hazrat%20Bilal%20Jami%20Masjid%20Mosque%20Cami&query_place_id=ChIJaVfSpCWv3EcR4vOTSGvjZ9Y",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcUYeCnYwsmU2OBu-FNF8vL6CvrNEz1mBecqAmU9HzZJeNi9xJZoUBZ_IZwSHioXVb3LNxwp8zSyLi6nsGdZDUKPOvUaWvAYr6tF5NbR27kIPJiwuC6qHs7Z3n4P-eVI3tDlsYz=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcUYeCnYwsmU2OBu-FNF8vL6CvrNEz1mBecqAmU9HzZJeNi9xJZoUBZ_IZwSHioXVb3LNxwp8zSyLi6nsGdZDUKPOvUaWvAYr6tF5NbR27kIPJiwuC6qHs7Z3n4P-eVI3tDlsYz=w1000-h750-no",
-    "rating": 4.6,
-    "review_count": 16,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJk5QAXyOv3EcR3r3E0PR6Y-0",
-    "name": "Himalayan restaurant",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Oostende",
-    "address": "Himalayan restaurant, Torhoutsesteenweg 469, 8400 Oostende",
-    "street": "Torhoutsesteenweg 469",
-    "postal_code": "8400",
-    "region": null,
-    "latitude": 51.2103062,
-    "longitude": 2.9052376,
-    "phone": "0465 67 49 46",
-    "website": "http://himalayanmenu.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Himalayan%20restaurant&query_place_id=ChIJk5QAXyOv3EcR3r3E0PR6Y-0",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdR_sDbW_WzrOX_tPgXOcJFAYrwe72ug3r0yAlyZMicyQxcYoZPNBX2zihg-HNwrGkdRTqBax45ZyUkNFrxbq9lNIjR6fp1valC75ViAFFp4yoh-Z6BTfkJgaUnZrQTLSgTjB6m1A=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdR_sDbW_WzrOX_tPgXOcJFAYrwe72ug3r0yAlyZMicyQxcYoZPNBX2zihg-HNwrGkdRTqBax45ZyUkNFrxbq9lNIjR6fp1valC75ViAFFp4yoh-Z6BTfkJgaUnZrQTLSgTjB6m1A=w1000-h750-no",
-    "rating": 4.6,
-    "review_count": 298,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJGTIjtiup3EcRVUsmMnPPHKM",
-    "name": "Indian Tandoori Take Away 🇮🇳",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Oostende",
-    "address": "Indian Tandoori Take Away 🇮🇳, Sint-Paulusstraat 76, 8400 Oostende",
-    "street": "Sint-Paulusstraat 76",
-    "postal_code": "8400",
-    "region": null,
-    "latitude": 51.230700899999995,
-    "longitude": 2.922336,
-    "phone": "059 44 71 17",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Indian%20Tandoori%20Take%20Away%20%F0%9F%87%AE%F0%9F%87%B3&query_place_id=ChIJGTIjtiup3EcRVUsmMnPPHKM",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLen3mky_bsmGBdo02Il5dEnjwo7KqgcHrqH4DxK-qNXZM85anrRb-SQE068imvRtdKZeGdnHFA11p6F0NW0jrwNgpqR3-z72uWg53iWWffPcWPx80rin5OlgFsndbah1y3-lq4=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLen3mky_bsmGBdo02Il5dEnjwo7KqgcHrqH4DxK-qNXZM85anrRb-SQE068imvRtdKZeGdnHFA11p6F0NW0jrwNgpqR3-z72uWg53iWWffPcWPx80rin5OlgFsndbah1y3-lq4=w1000-h750-no",
-    "rating": 4.5,
-    "review_count": 222,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJu-nzcmGp3EcRuVKtmBfurEI",
-    "name": "Kebab House",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Oostende",
-    "address": "Kebab House, Vlaanderenstraat, 8400 Oostende",
-    "street": "Vlaanderenstraat",
-    "postal_code": "8400",
-    "region": null,
-    "latitude": 51.2325264,
-    "longitude": 2.9166867,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kebab%20House&query_place_id=ChIJu-nzcmGp3EcRuVKtmBfurEI",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe1dhx3XFwrx4rXVwgbEJHhP57DykPKKd7Qtt6ToVndJH6k0bTisL3KlcDm2vi_4RaGOYSk_QfJwEG8-x5Q0F6gLoxfxctAGJpUCPr0aEWSZNwb6d7khfPFQrDKiw9dEWigmWWWVPKI4JRW=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe1dhx3XFwrx4rXVwgbEJHhP57DykPKKd7Qtt6ToVndJH6k0bTisL3KlcDm2vi_4RaGOYSk_QfJwEG8-x5Q0F6gLoxfxctAGJpUCPr0aEWSZNwb6d7khfPFQrDKiw9dEWigmWWWVPKI4JRW=w1000-h750-no",
-    "rating": 4.4,
-    "review_count": 471,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJX2sLPNOo3EcRsJDIURmwtAY",
-    "name": "Klasseslager Burggraeve 🥩",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Oostende",
-    "address": "Klasseslager Burggraeve 🥩, Leopold I-plein 3, 8400 Oostende",
-    "street": "Leopold I-plein 3",
-    "postal_code": "8400",
-    "region": null,
-    "latitude": 51.2279189,
-    "longitude": 2.9108772,
-    "phone": "059 70 53 35",
-    "website": "https://www.klasseslagerburggraeve.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Klasseslager%20Burggraeve%20%F0%9F%A5%A9&query_place_id=ChIJX2sLPNOo3EcRsJDIURmwtAY",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe9_bMjwAEiVS6CAazwPz5KXgPg4m0lONKbw8zO7KyTuJKVp6hY8-OcqymdmZMTueepPKup24FHYPxeTB1y1RolNRCaGQot87aUurBvgZMJkS3LXXzn4AJIs2x7Vj8YMlM5AHB9=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe9_bMjwAEiVS6CAazwPz5KXgPg4m0lONKbw8zO7KyTuJKVp6hY8-OcqymdmZMTueepPKup24FHYPxeTB1y1RolNRCaGQot87aUurBvgZMJkS3LXXzn4AJIs2x7Vj8YMlM5AHB9=w1000-h750-no",
-    "rating": 4.8,
-    "review_count": 180,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJZ49ce9ao3EcRxVdw21CME0w",
-    "name": "La Mama",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Oostende",
-    "address": "La Mama, Langestraat 4, 8400 Oostende",
-    "street": "Langestraat 4",
-    "postal_code": "8400",
-    "region": null,
-    "latitude": 51.2316121,
-    "longitude": 2.9135538,
-    "phone": "059 80 28 75",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Mama&query_place_id=ChIJZ49ce9ao3EcRxVdw21CME0w",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcF7UPH3o_Dr5CMUjEnLeU3zS17bD4vCJEIRyYxBXAS6VMPbBsnI17V8aqRDnZRJSstv7hN2ARbVDn78TiuulJODLoZAc5UESin53ZHdfxPE3ktTo36EHeUeyJKG0vjxRtRdVo-Bg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcF7UPH3o_Dr5CMUjEnLeU3zS17bD4vCJEIRyYxBXAS6VMPbBsnI17V8aqRDnZRJSstv7hN2ARbVDn78TiuulJODLoZAc5UESin53ZHdfxPE3ktTo36EHeUeyJKG0vjxRtRdVo-Bg=w1000-h750-no",
-    "rating": 4.1,
-    "review_count": 263,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJWY5369Wo3EcRl-ccdShe19c",
-    "name": "La Siesta Oostende",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Oostende",
-    "address": "La Siesta Oostende, Wittenonnenstraat 23, 8400 Oostende",
-    "street": "Wittenonnenstraat 23",
-    "postal_code": "8400",
-    "region": null,
-    "latitude": 51.231094999999996,
-    "longitude": 2.91771,
-    "phone": "059 50 71 15",
-    "website": "http://www.la-siesta.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Siesta%20Oostende&query_place_id=ChIJWY5369Wo3EcRl-ccdShe19c",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfadS4ogFnUAcTpqyIe2vZiEak5I5e8C6Uk0IhF-k8WmQd2nw8ye-xTfmzvn3zIEYts3xwjWzHQNlXitn9TbJzeZQbtAnFUfkACyVZrbgSvlZytauuVEHlN8dP1QOWWnr15Z0IkZg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfadS4ogFnUAcTpqyIe2vZiEak5I5e8C6Uk0IhF-k8WmQd2nw8ye-xTfmzvn3zIEYts3xwjWzHQNlXitn9TbJzeZQbtAnFUfkACyVZrbgSvlZytauuVEHlN8dP1QOWWnr15Z0IkZg=w1000-h750-no",
-    "rating": 4.6,
-    "review_count": 3221,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJkyYQ2yav3EcRg-_shKXRLss",
-    "name": "Mazar Palace",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Oostende",
-    "address": "Mazar Palace, Torhoutsesteenweg 313, 8400 Oostende",
-    "street": "Torhoutsesteenweg 313",
-    "postal_code": "8400",
-    "region": null,
-    "latitude": 51.2159419,
-    "longitude": 2.9066003,
-    "phone": "059 70 62 38",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mazar%20Palace&query_place_id=ChIJkyYQ2yav3EcRg-_shKXRLss",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeQUJQH8zhOg4fPeBDBnrCm8Wu4i5XaOY529KstSkbbVA3mlSoSwj5R9IfN__OAHSb0oZYsY8cn7ZhN-4S4jXLg9Cp22sR0LftfTXlaLyq2htpgi6YofsFwQGl4wotMGshvT-O2aUot5bvC=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeQUJQH8zhOg4fPeBDBnrCm8Wu4i5XaOY529KstSkbbVA3mlSoSwj5R9IfN__OAHSb0oZYsY8cn7ZhN-4S4jXLg9Cp22sR0LftfTXlaLyq2htpgi6YofsFwQGl4wotMGshvT-O2aUot5bvC=w1000-h750-no",
-    "rating": 4.3,
-    "review_count": 74,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJq8jeezCv3EcR_VzhA8FUIfU",
-    "name": "Moskee Aisja 🕌",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Oostende",
-    "address": "Moskee Aisja 🕌, Hendrik Conscienceplein 5, 8400 Oostende",
-    "street": "Hendrik Conscienceplein 5",
-    "postal_code": "8400",
-    "region": null,
-    "latitude": 51.217107999999996,
-    "longitude": 2.9025502999999997,
-    "phone": "0477 22 09 36",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Aisja%20%F0%9F%95%8C&query_place_id=ChIJq8jeezCv3EcR_VzhA8FUIfU",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeNGuxLLXdSANiW7SHgIFPJ-oVOxC7AoueO1GAyTvUVmvo8rdLENLH7sDNAYqkk8YUavzIzLZe8TFClL8VUG2IaGFgs0h1Boo9qaAdRiSVToCgnSiVj4m9nxyiTb71t15wcDYSf=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeNGuxLLXdSANiW7SHgIFPJ-oVOxC7AoueO1GAyTvUVmvo8rdLENLH7sDNAYqkk8YUavzIzLZe8TFClL8VUG2IaGFgs0h1Boo9qaAdRiSVToCgnSiVj4m9nxyiTb71t15wcDYSf=w1000-h750-no",
-    "rating": 4.7,
-    "review_count": 197,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJ8VeQZyqv3EcRd9VW32HTTFo",
-    "name": "Moskee Jamia Islamia🕌",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Oostende",
-    "address": "Moskee Jamia Islamia🕌, Romestraat 85, 8400 Oostende",
-    "street": "Romestraat 85",
-    "postal_code": "8400",
-    "region": null,
-    "latitude": 51.223759,
-    "longitude": 2.9165332,
-    "phone": "0465 80 25 13",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Jamia%20Islamia%F0%9F%95%8C&query_place_id=ChIJ8VeQZyqv3EcRd9VW32HTTFo",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdCN_vnh810W7Z-vk9NO3UXBIvhveWrptuGL37K-daL2-U0OkvdMbOqBknf0LuCRtPDyywZ_HLf36qDUexN9iEw9T9pm3voKCF4PpGM1o3mgK5Y46JnwQw3n4qDS8DcuGtxDiNjbw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdCN_vnh810W7Z-vk9NO3UXBIvhveWrptuGL37K-daL2-U0OkvdMbOqBknf0LuCRtPDyywZ_HLf36qDUexN9iEw9T9pm3voKCF4PpGM1o3mgK5Y46JnwQw3n4qDS8DcuGtxDiNjbw=w1000-h750-no",
-    "rating": 4.4,
-    "review_count": 43,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJv_6cfOap3EcRsRMmseKV2DI",
-    "name": "O'Tacos Oostende",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Oostende",
-    "address": "O'Tacos Oostende, Vlaanderenstraat 48, 8400 Ostend",
-    "street": "Vlaanderenstraat 48",
-    "postal_code": "8400",
-    "region": null,
-    "latitude": 51.232601499999994,
-    "longitude": 2.916333,
-    "phone": null,
-    "website": "https://restaurants.o-tacos.com/belgium/vlaanderen/west-vlaanderen/oostende/otacos-oostende?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=O%27Tacos%20Oostende&query_place_id=ChIJv_6cfOap3EcRsRMmseKV2DI",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcwVaY9gDIhsaKGtjgh5ouNLm59t7heGQAWlZjIsWbi33PgPTbqvgrycMmP-yw82VlJkVO79yZEmTz68epG-tSrQgIxgL5vq_3cxTApzXO9_MGHQLTa2tDNT_AnxF74TP97Gxty6Y-D-88=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcwVaY9gDIhsaKGtjgh5ouNLm59t7heGQAWlZjIsWbi33PgPTbqvgrycMmP-yw82VlJkVO79yZEmTz68epG-tSrQgIxgL5vq_3cxTApzXO9_MGHQLTa2tDNT_AnxF74TP97Gxty6Y-D-88=w1000-h750-no",
-    "rating": 4.2,
-    "review_count": 134,
-    "verification_status": "VERIFIED",
-    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJuS1bff2v3EcRrKtugjwXxds",
-    "name": "Pitta Anas - Oostende",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Oostende",
-    "address": "Pitta Anas - Oostende, Torhoutsesteenweg 92، 8400 Oostende",
-    "street": "Torhoutsesteenweg 92",
-    "postal_code": "8400",
-    "region": null,
-    "latitude": 51.2229174,
-    "longitude": 2.9088635999999997,
-    "phone": "0465 86 33 95",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pitta%20Anas%20-%20Oostende&query_place_id=ChIJuS1bff2v3EcRrKtugjwXxds",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLewepqA6lmuf1f3Lca1jN1X2C71haipeejL0SZ2EHHrF10w3oQvkALI1qk7OdhoUWbhXzG6MwWv-VqfnJYV-GHDDVD7qXaZw4CE-hBCpkgheojCSNBEDy3z9JATBw0vgVCtHChgUg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLewepqA6lmuf1f3Lca1jN1X2C71haipeejL0SZ2EHHrF10w3oQvkALI1qk7OdhoUWbhXzG6MwWv-VqfnJYV-GHDDVD7qXaZw4CE-hBCpkgheojCSNBEDy3z9JATBw0vgVCtHChgUg=w1000-h750-no",
-    "rating": 4.8,
-    "review_count": 270,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJqwJEMyyv3EcRWUkYgKmflQw",
-    "name": "Pitta Grill Alibaba",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Oostende",
-    "address": "Pitta Grill Alibaba, Torhoutsesteenweg 96, 8400 Oostende",
-    "street": "Torhoutsesteenweg 96",
-    "postal_code": "8400",
-    "region": null,
-    "latitude": 51.2227913,
-    "longitude": 2.9088591999999998,
-    "phone": "059 44 11 90",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pitta%20Grill%20Alibaba&query_place_id=ChIJqwJEMyyv3EcRWUkYgKmflQw",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcA-Lu_NKsui2ROm-zWGzxlhFzQ4UZYG79VIe4v0cT07BJLUV89taJwQXiUxyH_1FVHAyyFkvUJNnprpva2_vtgIJzgZgoeLk_WlZjAZUnEtUVWpqFUG_boHBjdPqTKT6jlIOeukaHp8izA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcA-Lu_NKsui2ROm-zWGzxlhFzQ4UZYG79VIe4v0cT07BJLUV89taJwQXiUxyH_1FVHAyyFkvUJNnprpva2_vtgIJzgZgoeLk_WlZjAZUnEtUVWpqFUG_boHBjdPqTKT6jlIOeukaHp8izA=w1000-h750-no",
-    "rating": 4.3,
-    "review_count": 62,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJR6gJtt6p3EcR-C5-1xVYw2c",
-    "name": "Pitta Pizza Anatolia",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Oostende",
-    "address": "Pitta Pizza Anatolia, Van Iseghemlaan 38 H, 8400 Oostende",
-    "street": "Van Iseghemlaan 38 H",
-    "postal_code": "8400",
-    "region": null,
-    "latitude": 51.232966399999995,
-    "longitude": 2.9152253,
-    "phone": "0466 09 07 78",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pitta%20Pizza%20Anatolia&query_place_id=ChIJR6gJtt6p3EcR-C5-1xVYw2c",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc2DBctKlnW26GCXK4ki1aRZplP7DxXKT58enrIaw1wmf77fQzmSwP1YryytqvMJ_j-zGleeQ6-nrmTlRLtDjscRrEhFZ4my4wD3ITOVnppHSPm5z-LjiOgcBv-P8FbllCTuUkMR3oiIDzB=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc2DBctKlnW26GCXK4ki1aRZplP7DxXKT58enrIaw1wmf77fQzmSwP1YryytqvMJ_j-zGleeQ6-nrmTlRLtDjscRrEhFZ4my4wD3ITOVnppHSPm5z-LjiOgcBv-P8FbllCTuUkMR3oiIDzB=w1000-h750-no",
-    "rating": 4.6,
-    "review_count": 208,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJfUqSFsqv3EcRsJHBQlTm_B4",
-    "name": "Pizza Aan Zee Oostende",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Oostende",
-    "address": "Pizza Aan Zee Oostende, Torhoutsesteenweg 86, 8400 Oostende",
-    "street": "Torhoutsesteenweg 86",
-    "postal_code": "8400",
-    "region": null,
-    "latitude": 51.2243347,
-    "longitude": 2.909235,
-    "phone": "0469 44 22 40",
-    "website": "https://aanzeepizza.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pizza%20Aan%20Zee%20Oostende&query_place_id=ChIJfUqSFsqv3EcRsJHBQlTm_B4",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfYWqPoTORwH33OLCPG_iNQTDxOY2MeicZs1tH7LaB6Dnqk-vMHlUm3bj59ZujO9jPc8WZ6P2NAzZQaRGAnRKdvvY_WqvIBeVbGcBVtnK-K7BOmTAwAx3U9vmrut4IiIX5OVQ6vuCm302A=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfYWqPoTORwH33OLCPG_iNQTDxOY2MeicZs1tH7LaB6Dnqk-vMHlUm3bj59ZujO9jPc8WZ6P2NAzZQaRGAnRKdvvY_WqvIBeVbGcBVtnK-K7BOmTAwAx3U9vmrut4IiIX5OVQ6vuCm302A=w1000-h750-no",
-    "rating": 4.2,
-    "review_count": 200,
-    "verification_status": "VERIFIED",
-    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJn2KQ4Jyv3EcRYWgF4Dj1WV0",
-    "name": "Pizza Di Trevi Oostende (Halal)🍕😊",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Oostende",
-    "address": "Pizza Di Trevi Oostende (Halal)🍕😊, Alfons Pieterslaan 33, 8400 Oostende",
-    "street": "Alfons Pieterslaan 33",
-    "postal_code": "8400",
-    "region": null,
-    "latitude": 51.2261859,
-    "longitude": 2.9139,
-    "phone": "059 44 64 44",
-    "website": "https://www.pizzaditrevioostende.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pizza%20Di%20Trevi%20Oostende%20%28Halal%29%F0%9F%8D%95%F0%9F%98%8A&query_place_id=ChIJn2KQ4Jyv3EcRYWgF4Dj1WV0",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcitYy8MAXaKDcFVBMjw_36C1oHanJPAn-EPvsaxSc1RRuijgElR9TPwgyiyg1o1zVOq3oXC5rgZ7RRgHlscatLqylJ72-pNATq5AQ6YX1yvA7iauICTvUEJrlPHl749NeJMupgg58WqGk=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcitYy8MAXaKDcFVBMjw_36C1oHanJPAn-EPvsaxSc1RRuijgElR9TPwgyiyg1o1zVOq3oXC5rgZ7RRgHlscatLqylJ72-pNATq5AQ6YX1yvA7iauICTvUEJrlPHl749NeJMupgg58WqGk=w1000-h750-no",
-    "rating": 4.9,
-    "review_count": 113,
-    "verification_status": "VERIFIED",
-    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJnVj_bxup3EcRGBbHM1LFm-8",
-    "name": "Poule & Poulette",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Oostende",
-    "address": "Poule & Poulette, Leopold II-laan 34, 8400 Oostende",
-    "street": "Leopold II-laan 34",
-    "postal_code": "8400",
-    "region": null,
-    "latitude": 51.2308938,
-    "longitude": 2.9127462,
-    "phone": "059 79 02 55",
-    "website": "http://www.poulepoulette.com/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Poule%20%26%20Poulette&query_place_id=ChIJnVj_bxup3EcRGBbHM1LFm-8",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfgcSXWcxfEAn6V5GQoSf1T3EapphTUj5ZPwWtmGqsUt5earUjMaKfjQLiFcFHIhmkGYIUEOd-PXliiSnzgBhTFIVnvtCr2tcR3q5r24-ErvHC9tRQd-fT26T96CIPAJnNwT2D0uA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfgcSXWcxfEAn6V5GQoSf1T3EapphTUj5ZPwWtmGqsUt5earUjMaKfjQLiFcFHIhmkGYIUEOd-PXliiSnzgBhTFIVnvtCr2tcR3q5r24-ErvHC9tRQd-fT26T96CIPAJnNwT2D0uA=w1000-h750-no",
-    "rating": 4.3,
-    "review_count": 1167,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJf8JADm-v3EcRfgx4xPpusZU",
-    "name": "Presto restaurant Oostende",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Oostende",
-    "address": "Presto restaurant Oostende, Torhoutsesteenweg 184, 8400 Oostende",
-    "street": "Torhoutsesteenweg 184",
-    "postal_code": "8400",
-    "region": null,
-    "latitude": 51.2194302,
-    "longitude": 2.9079528999999997,
-    "phone": "0492 46 86 87",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Presto%20restaurant%20Oostende&query_place_id=ChIJf8JADm-v3EcRfgx4xPpusZU",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdeE_ECbsur8BMND5bcmZqxl3Cc5Or1NwrW-6EVHk_sJp1nGm1nveFgB9hp751H1UMsSyLhovVBNy6dt2PBYTnjMOGzGD9BHEsyrrq2YukzEuzU0RDNkcmmiCPJZwg1VYsFv2oheQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdeE_ECbsur8BMND5bcmZqxl3Cc5Or1NwrW-6EVHk_sJp1nGm1nveFgB9hp751H1UMsSyLhovVBNy6dt2PBYTnjMOGzGD9BHEsyrrq2YukzEuzU0RDNkcmmiCPJZwg1VYsFv2oheQ=w1000-h750-no",
-    "rating": 4.2,
-    "review_count": 23,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJYxCNEXOv3EcREpT3x-hrEJA",
-    "name": "Royal House",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Oostende",
-    "address": "Royal House, Torhoutsesteenweg 72, 8400 Oostende",
-    "street": "Torhoutsesteenweg 72",
-    "postal_code": "8400",
-    "region": null,
-    "latitude": 51.2251051,
-    "longitude": 2.9094520999999998,
-    "phone": "0492 61 51 27",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Royal%20House&query_place_id=ChIJYxCNEXOv3EcREpT3x-hrEJA",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfBLOlG0_6rijRUCE4rOgFYAsQOsaCPLedIj3zt1TPuRTLRD-F_ybxceNIugCwAr79ASFU-ce0Iraf9xkVen_q9GepLMe8Tg_ZAr3Fky2CNrgyRmWMzmGyj0VKqFZyQMuCcddAebVJIuRQD=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfBLOlG0_6rijRUCE4rOgFYAsQOsaCPLedIj3zt1TPuRTLRD-F_ybxceNIugCwAr79ASFU-ce0Iraf9xkVen_q9GepLMe8Tg_ZAr3Fky2CNrgyRmWMzmGyj0VKqFZyQMuCcddAebVJIuRQD=w1000-h750-no",
-    "rating": 4.5,
-    "review_count": 311,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJYbUTjJ-p3EcRQDj7YMVXoeg",
-    "name": "Royal Taste Of India",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Oostende",
-    "address": "Royal Taste Of India, Vlaanderenstraat 64, 8400 Oostende",
-    "street": "Vlaanderenstraat 64",
-    "postal_code": "8400",
-    "region": null,
-    "latitude": 51.233193299999996,
-    "longitude": 2.9157561999999997,
-    "phone": "0472 41 05 86",
-    "website": "https://www.royaltasteofindia.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Royal%20Taste%20Of%20India&query_place_id=ChIJYbUTjJ-p3EcRQDj7YMVXoeg",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdQAOVWsIzi9x7WlbEf1I8NZKmNUMqxyXadk5AqRyITYG3Y3ZWrfilGEu0_Ht2dCEE0KYuJ8JshIOY9lrJMe2U3mBoyEtHkxCrDEfk9EnhRSPG_CJhqf0kWr6Yx4L5fGL8RmJgPdKrm6NBs=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdQAOVWsIzi9x7WlbEf1I8NZKmNUMqxyXadk5AqRyITYG3Y3ZWrfilGEu0_Ht2dCEE0KYuJ8JshIOY9lrJMe2U3mBoyEtHkxCrDEfk9EnhRSPG_CJhqf0kWr6Yx4L5fGL8RmJgPdKrm6NBs=w1000-h750-no",
-    "rating": 4.5,
-    "review_count": 103,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJJakFcGyp3EcRu0MXu7HXxQA",
-    "name": "Scopa Focacceria Oostende",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Oostende",
-    "address": "Scopa Focacceria Oostende, Kapellestraat 19, 8400 Ostend",
-    "street": "Kapellestraat 19",
-    "postal_code": "8400",
-    "region": null,
-    "latitude": 51.230991499999995,
-    "longitude": 2.9180292,
-    "phone": null,
-    "website": "https://www.scopafoca.it/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Scopa%20Focacceria%20Oostende&query_place_id=ChIJJakFcGyp3EcRu0MXu7HXxQA",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeDmK_QvO5nEx3_8Ky14BjzBp-neL2JOIL3GoBM6cgLL7Pe_SkZtYb76Dq_udhmutTWfmq8IGR1bCjr_jp4GiE87AYqZhXmDJz8fp6Ld3sBh8U9NEFi_teWZyshJMHjnc4Vy2ZGGVPF9Br9=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeDmK_QvO5nEx3_8Ky14BjzBp-neL2JOIL3GoBM6cgLL7Pe_SkZtYb76Dq_udhmutTWfmq8IGR1bCjr_jp4GiE87AYqZhXmDJz8fp6Ld3sBh8U9NEFi_teWZyshJMHjnc4Vy2ZGGVPF9Br9=w1000-h750-no",
-    "rating": 4.6,
-    "review_count": 266,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null,
     "is_active": true,
