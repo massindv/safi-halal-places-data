@@ -38,11 +38,11 @@
     },
     "DE": {
       "name": "Germany",
-      "count": 3690,
+      "count": 3708,
       "total_shards": 15,
       "shards_dir": "shards/DE",
       "cities_file": "shards/DE/cities.json",
-      "updated_at": "2026-11-23T00:14:46.134198+00:00"
+      "updated_at": "2026-11-23T05:11:00.348633+00:00"
     },
     "ES": {
       "name": "Spain",
@@ -141,6 +141,6 @@
       "updated_at": "2026-11-23T04:28:03.005340+00:00"
     }
   },
-  "updated_at": "2026-11-23T05:03:05.385277+00:00",
-  "total_places": 36869
+  "updated_at": "2026-11-23T05:11:00.348633+00:00",
+  "total_places": 36887
 }
