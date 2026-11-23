@@ -1,5 +1,109 @@
 [
   {
+    "place_id": "ChIJYxIZuuBtwUcRJjBPm_dYtSk",
+    "name": "Sombrero",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tienen",
+    "address": "Sombrero, Leuvensestraat 73, 3300 Tienen",
+    "street": "Leuvensestraat 73",
+    "postal_code": "3300",
+    "region": null,
+    "latitude": 50.8094864,
+    "longitude": 4.9331013,
+    "phone": "016 41 77 11",
+    "website": "http://www.sombrerotienen.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Sombrero&query_place_id=ChIJYxIZuuBtwUcRJjBPm_dYtSk",
+    "open_hours_json": {
+      "Monday": [
+        "5–10 pm"
+      ],
+      "Tuesday": [
+        "5–10 pm"
+      ],
+      "Wednesday": [
+        "5–10 pm"
+      ],
+      "Thursday": [
+        "5–10 pm"
+      ],
+      "Friday": [
+        "5–10 pm"
+      ],
+      "Saturday": [
+        "5–10 pm"
+      ],
+      "Sunday": [
+        "5–10 pm"
+      ]
+    },
+    "review_count": 208,
+    "rating": 4.1,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdF5AGxh6wY1QuyOAt4iucj7YtwiYg95P1pBBNm-3X0UTqTv45AVjzMtXn_iqh7dxTWpotDbgksKgUTGyXth-xS5XkkR6ys93xZlR0G7ZcxdQubYJ3bgHsMD3JSJdsn17VqJiWG=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdF5AGxh6wY1QuyOAt4iucj7YtwiYg95P1pBBNm-3X0UTqTv45AVjzMtXn_iqh7dxTWpotDbgksKgUTGyXth-xS5XkkR6ys93xZlR0G7ZcxdQubYJ3bgHsMD3JSJdsn17VqJiWG=w1000-h750-no",
+    "source_query": "Halal restaurant in Tienen, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJx09Fu2lswUcRriAPo04q6UQ",
+    "name": "Spijshuis Dieu",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tienen",
+    "address": "Spijshuis Dieu, Minderbroedersstraat 10, 3300 Tienen",
+    "street": "Minderbroedersstraat 10",
+    "postal_code": "3300",
+    "region": null,
+    "latitude": 50.805808,
+    "longitude": 4.9380850999999994,
+    "phone": "016 76 03 85",
+    "website": "https://www.spijshuisdieu.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Spijshuis%20Dieu&query_place_id=ChIJx09Fu2lswUcRriAPo04q6UQ",
+    "open_hours_json": {
+      "Monday": [
+        "11:30 am–2 pm",
+        "5:30–9 pm"
+      ],
+      "Tuesday": [
+        "11:30 am–2 pm",
+        "5:30–9 pm"
+      ],
+      "Wednesday": [
+        "11:30 am–2 pm",
+        "5:30–9 pm"
+      ],
+      "Thursday": [
+        "5:30–9 pm"
+      ],
+      "Friday": [
+        "11:30 am–2 pm",
+        "5:30–9 pm"
+      ],
+      "Saturday": [
+        "Closed"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 247,
+    "rating": 4.4,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcqq0u0L5M0EOrJccRDOyoTvSYFNu07rCEHK8KFw-iu5gMD1y-Mlc_B4yaLwyB6t3ykVas8GWnKbSK_7Xvc0-fpFANFjfwe8OEPlh5Tm47Goz5ApKkj9mYspOSIGB4ZL_Kcs55v=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcqq0u0L5M0EOrJccRDOyoTvSYFNu07rCEHK8KFw-iu5gMD1y-Mlc_B4yaLwyB6t3ykVas8GWnKbSK_7Xvc0-fpFANFjfwe8OEPlh5Tm47Goz5ApKkj9mYspOSIGB4ZL_Kcs55v=w1000-h750-no",
+    "source_query": "Halal restaurant in Tienen, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJQ-G5eFdtwUcR33kq5LEBkN4",
     "name": "Street Food",
     "type": "restaurant",
@@ -3870,6 +3974,32 @@
     "verification_evidence": null
   },
   {
+    "place_id": "ChIJo8pVDfvfwkcRJGNOVrlRG6U",
+    "name": "Atelier de la Gourmandise",
+    "type": "bakery",
+    "category": "bakery",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tournai",
+    "address": "Atelier de la Gourmandise, Quai des Vicinaux 24/01, 7500 Tournai",
+    "street": "Quai des Vicinaux 24/01",
+    "postal_code": "7500",
+    "region": null,
+    "latitude": 50.6176372,
+    "longitude": 3.3803297,
+    "phone": "069 84 43 23",
+    "website": "https://mesbonbons.net/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Atelier%20de%20la%20Gourmandise&query_place_id=ChIJo8pVDfvfwkcRJGNOVrlRG6U",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdSTgFQ1OihE2Nl5qB0WCzvUxRVnOQOfjaHBU4BcJm0R2qqVKEV7oysM3wIGcBBgujOad4ogvbzf9ii2wZdqXDgatobpArw7G_bxgsvsOUVisE7vW1qnK82xMfVSqm5pNUsKj8Y=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdSTgFQ1OihE2Nl5qB0WCzvUxRVnOQOfjaHBU4BcJm0R2qqVKEV7oysM3wIGcBBgujOad4ogvbzf9ii2wZdqXDgatobpArw7G_bxgsvsOUVisE7vW1qnK82xMfVSqm5pNUsKj8Y=w1000-h750-no",
+    "rating": 4.6,
+    "review_count": 1386,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
     "place_id": "ChIJr3dDwaTfwkcRm_-qTCsEGB4",
     "name": "Au Coeur Joyeux",
     "type": "restaurant",
@@ -4227,6 +4357,32 @@
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdPpli5joOJRCpowRBUcJF7i9sNrYGgYMp7gi_KYg9eC_FScgwsSMoyPlNkNDMCbKEE-K9jG0MR8WkfIxAQxLO5rST5dA459ZIa33zgnsPiYKJ7uevoIPKXQtFlWNluCOXKNYMF=w1000-h750-no",
     "rating": 4.5,
     "review_count": 39,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJUb7UFAfgwkcRiKI5RGmWrVE",
+    "name": "Boucherie Francois",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tournai",
+    "address": "Boucherie Francois, Rue Albert 48, 7540 Tournai",
+    "street": "Rue Albert 48",
+    "postal_code": "7540",
+    "region": null,
+    "latitude": 50.6234835,
+    "longitude": 3.3909569,
+    "phone": "069 22 52 52",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boucherie%20Francois&query_place_id=ChIJUb7UFAfgwkcRiKI5RGmWrVE",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLewmRCmwY6fo43aSuqonhfmsFa_pDDYmwvHExzunUCK7UwSakfgNMhr7Ydu7o449r34SAVSClIY2A1Zh_s3bSpi5UcnD-c7lUkik1Vo9l5t2LpqBW-z1mXXGkgJBK9vVSM6efMn=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLewmRCmwY6fo43aSuqonhfmsFa_pDDYmwvHExzunUCK7UwSakfgNMhr7Ydu7o449r34SAVSClIY2A1Zh_s3bSpi5UcnD-c7lUkik1Vo9l5t2LpqBW-z1mXXGkgJBK9vVSM6efMn=w1000-h750-no",
+    "rating": 4.7,
+    "review_count": 42,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null,
     "is_active": true,
@@ -5602,6 +5758,32 @@
     "is_active": true,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ5VaGt3TfwkcRFKXgdSPeVVg",
+    "name": "Europa Cuisson",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tournai",
+    "address": "Europa Cuisson, Rue de la Terre A Briques 14, 7522 Tournai",
+    "street": "Rue de la Terre A Briques 14",
+    "postal_code": "7522",
+    "region": null,
+    "latitude": 50.610324899999995,
+    "longitude": 3.3340541,
+    "phone": "069 76 50 50",
+    "website": "http://www.europacuisson.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Europa%20Cuisson&query_place_id=ChIJ5VaGt3TfwkcRFKXgdSPeVVg",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe0DThj_CzPb1jyOSOOaLOd3Fz7-jmfJA4jna0aRgl786GXYtPp_K9HnnjITBqbnsJP63DSBhyoz4dVfjgMeJdscSPDyLKXugNd5NQxmfcqlKin72rC-di3Zsh119phSMBhr9CZ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe0DThj_CzPb1jyOSOOaLOd3Fz7-jmfJA4jna0aRgl786GXYtPp_K9HnnjITBqbnsJP63DSBhyoz4dVfjgMeJdscSPDyLKXugNd5NQxmfcqlKin72rC-di3Zsh119phSMBhr9CZ=w1000-h750-no",
+    "rating": 4.0,
+    "review_count": 145,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
   },
   {
     "place_id": "ChIJY9IRThLgwkcRRS3Md-vsIk0",
@@ -8268,8 +8450,8 @@
     "phone": "069 84 27 39",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Oufella%20%2F%20Rabah&query_place_id=ChIJqeDBR7vfwkcRvvQ2sNpPOzs",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfcvz32gNcntb9i_LPf2lA6Zmd6JasSgdtLnyh1DicK8YFF_JrUZPFNVyl_EDHe-sDsUvpEv1J6vLqqUmHWJhrD5g06SlifARFsenjt6MyojCM6bPpYnOAe4SF2UZ1Rx3GDLP_f=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfcvz32gNcntb9i_LPf2lA6Zmd6JasSgdtLnyh1DicK8YFF_JrUZPFNVyl_EDHe-sDsUvpEv1J6vLqqUmHWJhrD5g06SlifARFsenjt6MyojCM6bPpYnOAe4SF2UZ1Rx3GDLP_f=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc3PvcodHeFXOvrH04mbiAP-MOqTOO_T6vCZgcabcqzHAtRZkGAx1i1zyqX-F1f3H03b-B_a6wwauCcNYDNLPCPwjrNk8WuBV74cQL6m8fWIerZuVGodhHnk00woyYcNaq-B4Y-=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc3PvcodHeFXOvrH04mbiAP-MOqTOO_T6vCZgcabcqzHAtRZkGAx1i1zyqX-F1f3H03b-B_a6wwauCcNYDNLPCPwjrNk8WuBV74cQL6m8fWIerZuVGodhHnk00woyYcNaq-B4Y-=w1000-h750-no",
     "rating": 4.5,
     "review_count": 6,
     "verification_status": "UNVERIFIED",
@@ -10502,195 +10684,6 @@
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe7Iy8rRyPptha8sEebSPSIeVWVv_mHpPsw0C834psTOqwzqr0vH8LVgBtnzaGoD8jGzfA7HJcMoRVvx_Npx7Ti8E-m-G1AJyY6hJjA9Zf15JS0q5fNrkksPhKT8RfnX9A2YA_7Olgj3BQ=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe7Iy8rRyPptha8sEebSPSIeVWVv_mHpPsw0C834psTOqwzqr0vH8LVgBtnzaGoD8jGzfA7HJcMoRVvx_Npx7Ti8E-m-G1AJyY6hJjA9Zf15JS0q5fNrkksPhKT8RfnX9A2YA_7Olgj3BQ=w1000-h750-no",
     "source_query": "Halal restaurant in Tournai, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJnUBMCwAnw0cRnymhCYz77KQ",
-    "name": "عبدالله كلاسك",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tournai",
-    "address": "عبدالله كلاسك, Rue Jules Schelstraete, 7520 Tournai",
-    "street": "Rue Jules Schelstraete",
-    "postal_code": "7520",
-    "region": null,
-    "latitude": 50.641673399999995,
-    "longitude": 3.2934696,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87%20%D9%83%D9%84%D8%A7%D8%B3%D9%83&query_place_id=ChIJnUBMCwAnw0cRnymhCYz77KQ",
-    "open_hours_json": null,
-    "review_count": 5,
-    "rating": 5.0,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8F1eaeLVchx9s34f4VQBsA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=316.77435&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8F1eaeLVchx9s34f4VQBsA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=316.77435&pitch=0&thumbfov=w1000-h750-no",
-    "source_query": "Hypermarket in Tournai, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJxwfzGrDhwkcR3UopffCtQYo",
-    "name": "ショッピングモール",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tournai",
-    "address": "〒7500 Tournai, Bd Walter de Marvis, ショッピングモール",
-    "street": "Bd Walter de Marvis 22",
-    "postal_code": "7500",
-    "region": null,
-    "latitude": 50.6021402,
-    "longitude": 3.4048873,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%83%A2%E3%83%BC%E3%83%AB&query_place_id=ChIJxwfzGrDhwkcR3UopffCtQYo",
-    "open_hours_json": null,
-    "review_count": 0,
-    "rating": null,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ymNUeEuD2VDsPd49PSvxDg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=34.828594&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ymNUeEuD2VDsPd49PSvxDg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=34.828594&pitch=0&thumbfov=w1000-h750-no",
-    "source_query": "Hypermarket in Tournai, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJH74knXZlwEcReE-vKg25MEs",
-    "name": "Chez Tahsim",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Trois-Ponts",
-    "address": "Chez Tahsim, Av. Joseph Lejeune 2, 4980 Trois-Ponts",
-    "street": "Av. Joseph Lejeune 2",
-    "postal_code": "4980",
-    "region": null,
-    "latitude": 50.3719451,
-    "longitude": 5.8702157999999995,
-    "phone": "0484 16 86 92",
-    "website": "https://www.facebook.com/Pita-Trois-Ponts-243541922323143/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chez%20Tahsim&query_place_id=ChIJH74knXZlwEcReE-vKg25MEs",
-    "open_hours_json": {
-      "Monday": [
-        "11:30 am–2 pm",
-        "5–10 pm"
-      ],
-      "Tuesday": [
-        "11:30 am–2 pm",
-        "5–10 pm"
-      ],
-      "Wednesday": [
-        "11:30 am–2 pm",
-        "5–10 pm"
-      ],
-      "Thursday": [
-        "11:30 am–2 pm",
-        "5–10 pm"
-      ],
-      "Friday": [
-        "11:30 am–10 pm"
-      ],
-      "Saturday": [
-        "11:30 am–10 pm"
-      ],
-      "Sunday": [
-        "11:30 am–10 pm"
-      ]
-    },
-    "review_count": 1206,
-    "rating": 4.9,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc9P6BITu3IpzaNwSyqhVXyWqxYh7HWx3UPVh2lqshfRk-aRfhtJcJ2k6KOec1FHX-B4Yp31Wgo5sAvQp2VrmuppXSQ7mMDb5YNNfZMJDtaNhpbEs1oimvzdKZ5_S0WVGP9zzTc=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc9P6BITu3IpzaNwSyqhVXyWqxYh7HWx3UPVh2lqshfRk-aRfhtJcJ2k6KOec1FHX-B4Yp31Wgo5sAvQp2VrmuppXSQ7mMDb5YNNfZMJDtaNhpbEs1oimvzdKZ5_S0WVGP9zzTc=w1000-h750-no",
-    "source_query": "Halal restaurant in Lierneux, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJJxF1W49lwEcRX4aEeRCrmvc",
-    "name": "Restaurant de la place/Dina",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Trois-Ponts",
-    "address": "Restaurant de la place/Dina, Pl. Communale 21, 4980 Trois-Ponts",
-    "street": "Pl. Communale 21",
-    "postal_code": "4980",
-    "region": null,
-    "latitude": 50.371959,
-    "longitude": 5.8708903,
-    "phone": "080 68 44 30",
-    "website": "https://nl-nl.facebook.com/RestaurantDeLaPlace/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20de%20la%20place%2FDina&query_place_id=ChIJJxF1W49lwEcRX4aEeRCrmvc",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "6–8:30 pm"
-      ],
-      "Thursday": [
-        "6–8:30 pm"
-      ],
-      "Friday": [
-        "6–8:30 pm"
-      ],
-      "Saturday": [
-        "6–8:30 pm"
-      ],
-      "Sunday": [
-        "12–2 pm",
-        "6–8:30 pm"
-      ]
-    },
-    "review_count": 192,
-    "rating": 4.5,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf41S7h-GAwYcF_QcHtzWO3tH233R2HFVk-cU0ldRKnVCu57y5E90rLkhR19xnckU9GIe3yk_4MktiyUehmfQjpaxB2zatPScHgccdzzNvT6zWdDhBqXoOJWX-ul7VJTJZ1fd1GtQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf41S7h-GAwYcF_QcHtzWO3tH233R2HFVk-cU0ldRKnVCu57y5E90rLkhR19xnckU9GIe3yk_4MktiyUehmfQjpaxB2zatPScHgccdzzNvT6zWdDhBqXoOJWX-ul7VJTJZ1fd1GtQ=w1000-h750-no",
-    "source_query": "Fish restaurant in Lierneux, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJhU1gBgALwEcRJdjPILZ8_4U",
-    "name": "Mosquée AL-SIDDIQ Asbl",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "LU",
-    "country_code": "LU",
-    "city": "Troisvierges",
-    "address": "Mosquée AL-SIDDIQ Asbl, 9908 Troisvierges, Luxembourg",
-    "street": null,
-    "postal_code": "9908",
-    "region": null,
-    "latitude": 50.1213049,
-    "longitude": 6.0008678,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mosqu%C3%A9e%20AL-SIDDIQ%20Asbl&query_place_id=ChIJhU1gBgALwEcRJdjPILZ8_4U",
-    "open_hours_json": null,
-    "review_count": 3,
-    "rating": 5.0,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfryCKqpTyv-kCCEduq8c1_I40OlzNndi-evZB0ncH18YhtSo0MuQv5heSni7MoCeU84Mi_7w-jtc3Otwn7ZouvfuPyRdMMFVTnA_ONMDXMTQA6AUsvleJ7OWPn889WE81IBcPJgbmDnV4=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfryCKqpTyv-kCCEduq8c1_I40OlzNndi-evZB0ncH18YhtSo0MuQv5heSni7MoCeU84Mi_7w-jtc3Otwn7ZouvfuPyRdMMFVTnA_ONMDXMTQA6AUsvleJ7OWPn889WE81IBcPJgbmDnV4=w1000-h750-no",
-    "source_query": "Mosque in Lierneux, Wallonia, BE",
     "moderation_status": "approved",
     "is_active": true,
     "verification_status": "UNVERIFIED",

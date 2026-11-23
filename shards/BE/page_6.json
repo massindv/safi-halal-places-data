@@ -1,5 +1,155 @@
 [
   {
+    "place_id": "ChIJsbWQ_lLLw0cRlSPcHZ1OKKk",
+    "name": "Intermarché BRAINE LE CHATEAU",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Braine-le-Château",
+    "address": "Intermarché BRAINE LE CHATEAU, Rue de Nivelles 186, 1440 Braine-le-Château",
+    "street": "Rue de Nivelles 186",
+    "postal_code": "1440",
+    "region": null,
+    "latitude": 50.669238799999995,
+    "longitude": 4.2766811,
+    "phone": "02 366 21 69",
+    "website": "https://www.intermarche.be/magasins/intermarche-braine-le-chateau/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Intermarch%C3%A9%20BRAINE%20LE%20CHATEAU&query_place_id=ChIJsbWQ_lLLw0cRlSPcHZ1OKKk",
+    "open_hours_json": {
+      "Monday": [
+        "8 am–7:30 pm"
+      ],
+      "Tuesday": [
+        "8 am–7:30 pm"
+      ],
+      "Wednesday": [
+        "8 am–7:30 pm"
+      ],
+      "Thursday": [
+        "8 am–7:30 pm"
+      ],
+      "Friday": [
+        "8 am–7:30 pm"
+      ],
+      "Saturday": [
+        "8 am–7:30 pm"
+      ],
+      "Sunday": [
+        "8 am–7:30 pm"
+      ]
+    },
+    "review_count": 3,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe06mXiAdMjWQh2QQHmlryL9WYj-7qrKGkfto6UCqZnPPgBKGcnm2ZLQogo3G9_5mQof_iJNdrXujyxUpnXAk-4LuenR8Ip6K8QiKYRJTC4v9oqrhrpQl2sQ3My7rdA81eJH6LZ8Q=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe06mXiAdMjWQh2QQHmlryL9WYj-7qrKGkfto6UCqZnPPgBKGcnm2ZLQogo3G9_5mQof_iJNdrXujyxUpnXAk-4LuenR8Ip6K8QiKYRJTC4v9oqrhrpQl2sQ3My7rdA81eJH6LZ8Q=w1000-h750-no",
+    "source_query": "Hypermarket in Braine-le-Comte, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJzRC8owvLw0cRcJkrwVnKY6I",
+    "name": "Le Coin Libanais",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Braine-le-Château",
+    "address": "Le Coin Libanais, Rue Courte de la Station 2, 1440 Braine-le-Château",
+    "street": "Rue Courte de la Station 2",
+    "postal_code": "1440",
+    "region": null,
+    "latitude": 50.6822126,
+    "longitude": 4.2729911,
+    "phone": "0491 07 77 79",
+    "website": "http://lecoinlibanais.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Coin%20Libanais&query_place_id=ChIJzRC8owvLw0cRcJkrwVnKY6I",
+    "open_hours_json": {
+      "Monday": [
+        "5:30–9:30 pm"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "5:30–9:30 pm"
+      ],
+      "Thursday": [
+        "5:30–9:30 pm"
+      ],
+      "Friday": [
+        "5:30–10:30 pm"
+      ],
+      "Saturday": [
+        "11:30 am–10:30 pm"
+      ],
+      "Sunday": [
+        "11:30 am–9 pm"
+      ]
+    },
+    "review_count": 211,
+    "rating": 4.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLffBdzI-ucs4PhKEq3B73keFNtDo0MeXvpQZBEMmwT0kIT7U0_sWKaBLn8zINwa45KStzGIcD730C_KgSkWuE4bcJ0tPyDnzepp42qGW4_zhvrbnIt8dAtRiRhGKTro9O5ZcNZrcx8FElU=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLffBdzI-ucs4PhKEq3B73keFNtDo0MeXvpQZBEMmwT0kIT7U0_sWKaBLn8zINwa45KStzGIcD730C_KgSkWuE4bcJ0tPyDnzepp42qGW4_zhvrbnIt8dAtRiRhGKTro9O5ZcNZrcx8FElU=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Braine-le-Comte, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJuaMQJc21w0cRYukcQwKj-PI",
+    "name": "Armenian Garden",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Braine-le-Comte",
+    "address": "Armenian Garden, Chau. de Bruxelles 390, 7090 Braine-le-Comte",
+    "street": "Chau. de Bruxelles 390",
+    "postal_code": "7090",
+    "region": null,
+    "latitude": 50.6435598,
+    "longitude": 4.155980899999999,
+    "phone": "0485 64 58 47",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Armenian%20Garden&query_place_id=ChIJuaMQJc21w0cRYukcQwKj-PI",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "5–11 pm"
+      ],
+      "Friday": [
+        "12–11 pm"
+      ],
+      "Saturday": [
+        "12 pm–12 am"
+      ],
+      "Sunday": [
+        "12 pm–12 am"
+      ]
+    },
+    "review_count": 169,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe_uxDrRLh7VLdXgjf-_-5_eEPNblwtgOWq4nHiAra4-iSemX-8QWV5RtRYDgrR_4e2z9S5A_R5avTqS1KIsEatSq5Mp6cNu-F53XBMreyQmkbeNlsqwT6Y4g7-pr8B21Cd6Kw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe_uxDrRLh7VLdXgjf-_-5_eEPNblwtgOWq4nHiAra4-iSemX-8QWV5RtRYDgrR_4e2z9S5A_R5avTqS1KIsEatSq5Mp6cNu-F53XBMreyQmkbeNlsqwT6Y4g7-pr8B21Cd6Kw=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Braine-le-Comte, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJCZCRNSdLwkcRRSPq0RY8gcU",
     "name": "Au Quotidien",
     "type": "restaurant",
@@ -11813,84 +11963,6 @@
     "review_count": 3,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJsxiE9kJRw0cRDn5x6ebHAMM",
-    "name": "Afghan Lemar Restaurant",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Brugge",
-    "address": "Afghan Lemar Restaurant, Smedenstraat 55, 8000 Brugge",
-    "street": "Smedenstraat 55",
-    "postal_code": "8000",
-    "region": null,
-    "latitude": 51.2049951,
-    "longitude": 3.2139537,
-    "phone": "050 32 07 45",
-    "website": "https://afghanlemar.com/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Afghan%20Lemar%20Restaurant&query_place_id=ChIJsxiE9kJRw0cRDn5x6ebHAMM",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLccvyDfhqNRPMKQAMEdXkGhB5gSQvZJ-D-Q-iMwm2ATipG8WD-aJ_uBvz0BFWeFdpeUGix8pkZieQlbeTUsCLEFFzvuDG2GaL0E41W59KZ2eq-5PcMoRw95zIm7JvRXd_gA49l7Zks6a1C9=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLccvyDfhqNRPMKQAMEdXkGhB5gSQvZJ-D-Q-iMwm2ATipG8WD-aJ_uBvz0BFWeFdpeUGix8pkZieQlbeTUsCLEFFzvuDG2GaL0E41W59KZ2eq-5PcMoRw95zIm7JvRXd_gA49l7Zks6a1C9=w1000-h750-no",
-    "rating": 4.8,
-    "review_count": 1059,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJHf5IabJXw0cRO3taFlYhJq4",
-    "name": "Amina Halal Supermarket",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Brugge",
-    "address": "Amina Halal Supermarket, Sint-Pieterszuidstraat 47, 8000 Brugge",
-    "street": "Sint-Pieterszuidstraat 47",
-    "postal_code": "8000",
-    "region": null,
-    "latitude": 51.2229877,
-    "longitude": 3.2111376,
-    "phone": "0478 70 20 50",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Amina%20Halal%20Supermarket&query_place_id=ChIJHf5IabJXw0cRO3taFlYhJq4",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfmJFkZrR4zSLiO92K7N7f6Qu1gN5L7GopE7s2buraLg1WoGN-FXmMiBul71vpxkmUUHslFBbnb5oa3pFGcv84myAA8hRXBY__ssCQEp3jDz_2xzT04Plz2Bv1iib23ME56d15A=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfmJFkZrR4zSLiO92K7N7f6Qu1gN5L7GopE7s2buraLg1WoGN-FXmMiBul71vpxkmUUHslFBbnb5oa3pFGcv84myAA8hRXBY__ssCQEp3jDz_2xzT04Plz2Bv1iib23ME56d15A=w1000-h750-no",
-    "rating": 4.5,
-    "review_count": 213,
-    "verification_status": "VERIFIED",
-    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJfQHAzdFQw0cR6mJdIHirqcw",
-    "name": "Amon Lebanese restaurant halal",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Brugge",
-    "address": "Amon Lebanese restaurant halal, Academiestraat 6, 8000 Brugge",
-    "street": "Academiestraat 6",
-    "postal_code": "8000",
-    "region": null,
-    "latitude": 51.2112183,
-    "longitude": 3.2246023999999998,
-    "phone": "0485 87 43 76",
-    "website": "http://www.amon-brugge.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Amon%20Lebanese%20restaurant%20halal&query_place_id=ChIJfQHAzdFQw0cR6mJdIHirqcw",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdtv8eZ3Bw_Xc_4BTlaEvh-CDVKtbcAvDxTVnFozZNgVImPXBHldUJtZmhwfLEPRoT7SdfzEPy8dSKq235Kd3UaebROyI9XT4-gKSq46ebuDwFyPJHtDgtMNASw6yJoeBwmrWjz8A=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdtv8eZ3Bw_Xc_4BTlaEvh-CDVKtbcAvDxTVnFozZNgVImPXBHldUJtZmhwfLEPRoT7SdfzEPy8dSKq235Kd3UaebROyI9XT4-gKSq46ebuDwFyPJHtDgtMNASw6yJoeBwmrWjz8A=w1000-h750-no",
-    "rating": 4.4,
-    "review_count": 1380,
-    "verification_status": "VERIFIED",
-    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
     "is_active": true,
     "moderation_status": "approved"
   }

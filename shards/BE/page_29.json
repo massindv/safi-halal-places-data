@@ -1,5 +1,105 @@
 [
   {
+    "place_id": "ChIJsRBEnnZXwkcR6Yh1LZHhRZA",
+    "name": "ratattouille tertre",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Saint-Ghislain",
+    "address": "ratattouille tertre, Rue Olivier Lhoir 9, 7333 Saint-Ghislain",
+    "street": "Rue Olivier Lhoir 9",
+    "postal_code": "7333",
+    "region": null,
+    "latitude": 50.4668352,
+    "longitude": 3.8127782999999997,
+    "phone": "0473 97 18 98",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=ratattouille%20tertre&query_place_id=ChIJsRBEnnZXwkcR6Yh1LZHhRZA",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "11 am–3 pm"
+      ],
+      "Wednesday": [
+        "11 am–3 pm"
+      ],
+      "Thursday": [
+        "11 am–6 pm"
+      ],
+      "Friday": [
+        "11 am–5 pm"
+      ],
+      "Saturday": [
+        "Closed"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 45,
+    "rating": 4.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdGHYuIQfwuIxcuwM5nKyqLpl5iNENwivW1PEtarhWXpEOCsdhsP1A9dOZXNVlLysVUp-DU-msxMqfRmtYN-BQjzisj_418NsuILqJZrKr9QJQxkyTMLHImkyYgV_ezF5oHPZAM=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdGHYuIQfwuIxcuwM5nKyqLpl5iNENwivW1PEtarhWXpEOCsdhsP1A9dOZXNVlLysVUp-DU-msxMqfRmtYN-BQjzisj_418NsuILqJZrKr9QJQxkyTMLHImkyYgV_ezF5oHPZAM=w1000-h750-no",
+    "source_query": "Halal restaurant in Saint-Ghislain, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJk7WxewDFw0cRtFUrKi06tSk",
+    "name": "Houcine",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Saint-Gilles",
+    "address": "Houcine, 1060 Saint-Gilles",
+    "street": null,
+    "postal_code": null,
+    "region": null,
+    "latitude": 50.8376576,
+    "longitude": 4.3396811,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Houcine&query_place_id=ChIJk7WxewDFw0cRtFUrKi06tSk",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "Closed"
+      ],
+      "Friday": [
+        "Closed"
+      ],
+      "Saturday": [
+        "Closed"
+      ],
+      "Sunday": [
+        "8 am–2 pm"
+      ]
+    },
+    "review_count": 0,
+    "rating": null,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd5w09TpV0P93_oMx5ZFsozc92jqIMqAU7eP9_v9mFuu2lbXkyrJWsGNGueojG4nKqlrTGHtrntbDKax7gby-SbOKsTZP9GjKa7eW6Ex_2mXIn0qyZlB6bR0fmnYqHrloYP5Lc5UNmad2hF=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd5w09TpV0P93_oMx5ZFsozc92jqIMqAU7eP9_v9mFuu2lbXkyrJWsGNGueojG4nKqlrTGHtrntbDKax7gby-SbOKsTZP9GjKa7eW6Ex_2mXIn0qyZlB6bR0fmnYqHrloYP5Lc5UNmad2hF=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Brussels, Brussels Capital, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJr8O6ywolAowRbdzed20x3CE",
     "name": "Medi-Market Louise",
     "type": "restaurant",
@@ -586,56 +686,6 @@
     "is_active": true,
     "verification_status": "VERIFIED",
     "verification_evidence": "Explicit Halal keyword indicators in listing metadata"
-  },
-  {
-    "place_id": "ChIJrZsMtXvDw0cRrWKUMeUgjWY",
-    "name": "Divan Lokanta",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Saint-Josse-ten-Noode",
-    "address": "Divan Lokanta, Chau. de Haecht 30, 1210 Saint-Josse-ten-Noode",
-    "street": "Chau. de Haecht 30",
-    "postal_code": "1210",
-    "region": null,
-    "latitude": 50.8550397,
-    "longitude": 4.3676414,
-    "phone": "0485 37 70 74",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Divan%20Lokanta&query_place_id=ChIJrZsMtXvDw0cRrWKUMeUgjWY",
-    "open_hours_json": {
-      "Monday": [
-        "9 am–9 pm"
-      ],
-      "Tuesday": [
-        "9 am–9 pm"
-      ],
-      "Wednesday": [
-        "9 am–9 pm"
-      ],
-      "Thursday": [
-        "Closed"
-      ],
-      "Friday": [
-        "9 am–9 pm"
-      ],
-      "Saturday": [
-        "9 am–9 pm"
-      ],
-      "Sunday": [
-        "9 am–9 pm"
-      ]
-    },
-    "review_count": 305,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdMOvlFQoucmgxlBHCFnG_0Id9z2p0u6BU2jvFkE_icNUSYONqqOY4N3TYvRkJcmitLVASfSlpudFizzZfvP7LYMDBnUGvACE8prcCTKGCN2Yu306dkwl7AoWLcpopAIgs7XLqM-Q=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdMOvlFQoucmgxlBHCFnG_0Id9z2p0u6BU2jvFkE_icNUSYONqqOY4N3TYvRkJcmitLVASfSlpudFizzZfvP7LYMDBnUGvACE8prcCTKGCN2Yu306dkwl7AoWLcpopAIgs7XLqM-Q=w1000-h750-no",
-    "source_query": "Halal restaurant in Brussels, Brussels Capital, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
   },
   {
     "place_id": "ChIJzy3uERbDw0cRYlGzFufgVkE",
@@ -1513,8 +1563,8 @@
     "phone": "02 372 98 93",
     "website": "https://www.nuh-kasap.be/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Beenhouwerij%20Nuh%20Slagerij%20%F0%9F%A5%A9&query_place_id=ChIJYQv0A-7Dw0cRUNyb0j6zByw",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfNDdCZB6W-tAw7dlfPRT7eEOunqraUFn01_hUuk3TiK70owNhbNq4KVc_x1yjTpluBY5CcK4iWyYK9mK0nfBR1Zu_NI_Aya1ueQGxSCkSgeFy3PXuqNP0P61lasLNo-Hm85Xva9A=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfNDdCZB6W-tAw7dlfPRT7eEOunqraUFn01_hUuk3TiK70owNhbNq4KVc_x1yjTpluBY5CcK4iWyYK9mK0nfBR1Zu_NI_Aya1ueQGxSCkSgeFy3PXuqNP0P61lasLNo-Hm85Xva9A=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcNYNlP4lVfzDl0YlCzapH5U3boHFV08IGRohr_WWNQVcP0b3rXTfmeZ6yG-I3psUnPiQ5eTcvlqjcGLH02eXWADY2REdgv3CPCinIwDUi9P9TxFmdRT5FqcmAdt4G2-1AnbpJR=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcNYNlP4lVfzDl0YlCzapH5U3boHFV08IGRohr_WWNQVcP0b3rXTfmeZ6yG-I3psUnPiQ5eTcvlqjcGLH02eXWADY2REdgv3CPCinIwDUi9P9TxFmdRT5FqcmAdt4G2-1AnbpJR=w1000-h750-no",
     "rating": 4.5,
     "review_count": 187,
     "verification_status": "UNVERIFIED",
@@ -2166,7 +2216,7 @@
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf6pJ4kJLulDtvEfXeIEwvipyw0iQpwFMcrFQMgolLEPZIluSSEmctfvAZt-H1INE3waJyqh9XMiqISpXUpENiRCBLqfuEhWit25U639LE4NfLQf5pLysVtUzg2Y2fMQM-E3PyJYw=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf6pJ4kJLulDtvEfXeIEwvipyw0iQpwFMcrFQMgolLEPZIluSSEmctfvAZt-H1INE3waJyqh9XMiqISpXUpENiRCBLqfuEhWit25U639LE4NfLQf5pLysVtUzg2Y2fMQM-E3PyJYw=w1000-h750-no",
     "rating": 4.2,
-    "review_count": 2222,
+    "review_count": 2223,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null,
     "is_active": true,
@@ -5572,8 +5622,8 @@
     "phone": "0470 99 28 40",
     "website": "https://qr.wwwcafe.de/2025/08/12/ankara-grillades/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=ANKARA%20GRILLADES&query_place_id=ChIJl3x_kRL5wEcRRk-0af-uf60",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeHCobNaRehISCL0-5bV4rGmlZnWLi0RGc_CHpyWyDnZswkui8R3aBM9qVIshyKJ-xFjQDmy0oAmMz9DABvZBG5GiJvVivQEvqc4lVGeDjKcRMsJpIcCdUWL2BGRz8ezldNx44I=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeHCobNaRehISCL0-5bV4rGmlZnWLi0RGc_CHpyWyDnZswkui8R3aBM9qVIshyKJ-xFjQDmy0oAmMz9DABvZBG5GiJvVivQEvqc4lVGeDjKcRMsJpIcCdUWL2BGRz8ezldNx44I=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdtzTURtVjf1TTsM7Un7BPjtA6tG2VsWBHrP5-9stRbApJZx2x_HF5ZHkD82O0USYHh0LAEnYVOKLlzjg9BS3DWGHZ1Lt9o097Wdn9s_0pdD1bW9ed2f9zwhT41mqpFz9vZC7SG=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdtzTURtVjf1TTsM7Un7BPjtA6tG2VsWBHrP5-9stRbApJZx2x_HF5ZHkD82O0USYHh0LAEnYVOKLlzjg9BS3DWGHZ1Lt9o097Wdn9s_0pdD1bW9ed2f9zwhT41mqpFz9vZC7SG=w1000-h750-no",
     "rating": 4.4,
     "review_count": 798,
     "verification_status": "UNVERIFIED",
@@ -6028,8 +6078,8 @@
     "phone": null,
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=BOUCHERIE%20DE%20SERAING%2C%20chez%20Ahdid%20Cheraa&query_place_id=ChIJ4zEDUQD5wEcRXrgCeVqbNhw",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfm7rBeqYwlSV0U1qcPur8-OkzETMCFg9pwxsq6ExcXV8kciuysynMW7JDXtiXKweJgmnaYyJTs-sLgG1x6ocmKW2uu_vSWdLRRxfC3pelTIxy2PtPD6Hyp8rhe74_Nj0dPE93q=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfm7rBeqYwlSV0U1qcPur8-OkzETMCFg9pwxsq6ExcXV8kciuysynMW7JDXtiXKweJgmnaYyJTs-sLgG1x6ocmKW2uu_vSWdLRRxfC3pelTIxy2PtPD6Hyp8rhe74_Nj0dPE93q=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdzbAN5QCuz8NcyDH46ntCdVLcRKjO6v5adL5t9iUVuKr-J7PJSXV54V2HQKnO94vkQvJrmUfe2Mv14zpD1VqKw69sdB5Tx7y-G-8B-CLiJVQ__oUm4UZUCbDKYC8KcviFyYwzp=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdzbAN5QCuz8NcyDH46ntCdVLcRKjO6v5adL5t9iUVuKr-J7PJSXV54V2HQKnO94vkQvJrmUfe2Mv14zpD1VqKw69sdB5Tx7y-G-8B-CLiJVQ__oUm4UZUCbDKYC8KcviFyYwzp=w1000-h750-no",
     "rating": 4.0,
     "review_count": 8,
     "verification_status": "UNVERIFIED",
@@ -6082,8 +6132,8 @@
     "phone": "0496 79 20 41",
     "website": "https://biondogusto.be/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Biondo%20gusto%20sandwicheries%20glacier&query_place_id=ChIJCZHXmrf5wEcRczWOYUZxCEs",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLel-C8boVgOrUILe01NiIpbD1i9ipg04LtCYs7c3jZnrI7FJ0Fa338zudej3UCuO_2d90pWCL9j0hpJfnfNj7EpKkiSekZsjZ8Tg-CHuR3K0u-egBDSeFZRHySD_oMI_1um0NfjaNILomdt=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLel-C8boVgOrUILe01NiIpbD1i9ipg04LtCYs7c3jZnrI7FJ0Fa338zudej3UCuO_2d90pWCL9j0hpJfnfNj7EpKkiSekZsjZ8Tg-CHuR3K0u-egBDSeFZRHySD_oMI_1um0NfjaNILomdt=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfJSrgYQht574DkvT1sZKEw6YgVRveFDpXIQwLrT8DfLmlkI8pqMXQtyxQCLnALbjJMjIfmHWl-Ui2Qiy8BoRdioFfnGOdZNeN0wUSK54oQxGZVwMcV83AQIrGlOu_fneBp0bQapjam9tL-=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfJSrgYQht574DkvT1sZKEw6YgVRveFDpXIQwLrT8DfLmlkI8pqMXQtyxQCLnALbjJMjIfmHWl-Ui2Qiy8BoRdioFfnGOdZNeN0wUSK54oQxGZVwMcV83AQIrGlOu_fneBp0bQapjam9tL-=w1000-h750-no",
     "rating": 4.9,
     "review_count": 142,
     "verification_status": "UNVERIFIED",
@@ -6618,8 +6668,8 @@
     "phone": "04 253 50 83",
     "website": "https://qr.wwwcafe.de/2025/08/12/chez-daoud/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chez%20Daoud%20-%20Seraing&query_place_id=ChIJ69aDcmr5wEcRUnIvTWcmUnI",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeFfsmN7ibTZ52lmmjSRI_bptIdCE6M9t8V-OSqeWnzne94K_8EwScdb6CsN7Mzp_8C_5hx9uJ1FEltkiprErFG7LjRZvg5fgchzJVn_85TiZa-phL3rqowNKP67mYZFf4njVb3=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeFfsmN7ibTZ52lmmjSRI_bptIdCE6M9t8V-OSqeWnzne94K_8EwScdb6CsN7Mzp_8C_5hx9uJ1FEltkiprErFG7LjRZvg5fgchzJVn_85TiZa-phL3rqowNKP67mYZFf4njVb3=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf6s6jUx2WB3h6-vTNgd1vjDdKOySu-JhRzVdijGh34A6OqOmhRxsyE5L8VFj8oeMHdpsN_qUffKxKL9HolElnj3kMqdQqJJd_hz6lLL5sFdZ-VLTYcwOZISC34MU98SoKwwddL=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf6s6jUx2WB3h6-vTNgd1vjDdKOySu-JhRzVdijGh34A6OqOmhRxsyE5L8VFj8oeMHdpsN_qUffKxKL9HolElnj3kMqdQqJJd_hz6lLL5sFdZ-VLTYcwOZISC34MU98SoKwwddL=w1000-h750-no",
     "rating": 4.4,
     "review_count": 279,
     "verification_status": "UNVERIFIED",
@@ -7082,8 +7132,8 @@
     "phone": "0455 13 27 71",
     "website": "https://www.instagram.com/gigisliege?igsh=MXFiaDRzZGl1eDBjdQ%3D%3D&utm_source=qr",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Gigi%E2%80%99s%20x%20IL%20Forno%20Pizzeria%20NAPOLETANA%20Trattoria%20Li%C3%A8ge&query_place_id=ChIJEUJxQdH5wEcR9LMT1H8-gFs",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcJYgD3Wi-eWAM0a0em-V0pBzE63KYkoDU2GuQgxQDm3YSk2v4mpj2ehfmUy04YldakpAM3bgH7w5cpHsVZnSSmoN-mvDxo3E6qVftejork9sgxXrgIpEyHFY8EOSW_Kn5PGshnjGQPTxOV=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcJYgD3Wi-eWAM0a0em-V0pBzE63KYkoDU2GuQgxQDm3YSk2v4mpj2ehfmUy04YldakpAM3bgH7w5cpHsVZnSSmoN-mvDxo3E6qVftejork9sgxXrgIpEyHFY8EOSW_Kn5PGshnjGQPTxOV=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdESgO0ON22f3GOV2VuJSvfPU62gNxA4n-Bk4LLCp7YFMZi3WKCKsvxh_HcsGsYZeUpdsvugACm0d-BX7n1p4N-bw72LuoGE11AAbD6SU_NbpQqsOxpt8M8D7QyS7AV3pYFZTUkjvyZY1jv=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdESgO0ON22f3GOV2VuJSvfPU62gNxA4n-Bk4LLCp7YFMZi3WKCKsvxh_HcsGsYZeUpdsvugACm0d-BX7n1p4N-bw72LuoGE11AAbD6SU_NbpQqsOxpt8M8D7QyS7AV3pYFZTUkjvyZY1jv=w1000-h750-no",
     "rating": 4.8,
     "review_count": 61,
     "verification_status": "UNVERIFIED",
@@ -8508,8 +8558,8 @@
     "phone": "04 233 23 29",
     "website": "https://www.facebook.com/share/1Cdp7zCanD/?mibextid=wwXIfr",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Nuri%20Baba&query_place_id=ChIJoduI9df5wEcRcGUn5CR1OIw",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeY9hQowle1BA34PD_tYkUFMCGEtxk6texagyt0klZDopPtVGHS_nGfceeKK6_kNQUsyPLCvQu8AP5GXIm_Z2IVTug3r-do9HKBMXBeZgLowehsR_5sxiBTW1NT65sSkulT19uVjw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeY9hQowle1BA34PD_tYkUFMCGEtxk6texagyt0klZDopPtVGHS_nGfceeKK6_kNQUsyPLCvQu8AP5GXIm_Z2IVTug3r-do9HKBMXBeZgLowehsR_5sxiBTW1NT65sSkulT19uVjw=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdYKLlMqqoDKMc84ImrHWW34-Ddd7li3hlLX8kDK8KD2xhwK4e5sjT8LxNAxLum8kXQkT8x-cmsBvjKF-AlCztWlsFvBy2t0NeVpFglm18aFz9i9riuhl85m1OTmiOEaCfW6vm7=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdYKLlMqqoDKMc84ImrHWW34-Ddd7li3hlLX8kDK8KD2xhwK4e5sjT8LxNAxLum8kXQkT8x-cmsBvjKF-AlCztWlsFvBy2t0NeVpFglm18aFz9i9riuhl85m1OTmiOEaCfW6vm7=w1000-h750-no",
     "rating": 4.3,
     "review_count": 452,
     "verification_status": "UNVERIFIED",
@@ -9255,7 +9305,7 @@
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc9NRLOKruoZjI1mEo3RLFdM9mg1yYyYamsOBVVO9bKcfNXTbxlpIXI2zkB8dTbKhdtSyLZd2Xi6heey7eB58Na2sQtYvV-A3GXCT4UmH-AWzDggx-fzEbLUHYoUsqhM1_jn-ZSng=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc9NRLOKruoZjI1mEo3RLFdM9mg1yYyYamsOBVVO9bKcfNXTbxlpIXI2zkB8dTbKhdtSyLZd2Xi6heey7eB58Na2sQtYvV-A3GXCT4UmH-AWzDggx-fzEbLUHYoUsqhM1_jn-ZSng=w1000-h750-no",
     "rating": 4.1,
-    "review_count": 973,
+    "review_count": 974,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null,
     "is_active": true,
@@ -9288,31 +9338,5 @@
     "is_active": true,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJydPQeW75wEcRj2IAcVdV0hE",
-    "name": "Tasty Food Seraing",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Seraing",
-    "address": "Tasty Food Seraing, Rue Gustave Baivy 15, 4101 Seraing",
-    "street": "Rue Gustave Baivy 15",
-    "postal_code": "4101",
-    "region": null,
-    "latitude": 50.614252699999994,
-    "longitude": 5.5004298,
-    "phone": "0484 32 66 26",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Tasty%20Food%20Seraing&query_place_id=ChIJydPQeW75wEcRj2IAcVdV0hE",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfd_hym-ojXaZc7kLM81qJVHytR_WqFg06tOJd_-capNr_8f_7Vu8c4l_rINiLHCTrLQJmv3IklgNd98h2obFKa2ByDeaU4OqIG-KiF8Wh7SiwA4DE99KNeAwbiiF7d4Qm_pVKHFYnUWNQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfd_hym-ojXaZc7kLM81qJVHytR_WqFg06tOJd_-capNr_8f_7Vu8c4l_rINiLHCTrLQJmv3IklgNd98h2obFKa2ByDeaU4OqIG-KiF8Wh7SiwA4DE99KNeAwbiiF7d4Qm_pVKHFYnUWNQ=w1000-h750-no",
-    "rating": 4.7,
-    "review_count": 479,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
   }
 ]
