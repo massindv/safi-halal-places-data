@@ -1,5 +1,491 @@
 [
   {
+    "place_id": "ChIJG1I1YhHZwEcROTDQ47i9M9I",
+    "name": "Ali Baba",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Genk",
+    "address": "Ali Baba, Stalenstraat 139, 3600 Genk",
+    "street": "Stalenstraat 139",
+    "postal_code": "3600",
+    "region": null,
+    "latitude": 50.9935106,
+    "longitude": 5.5187203,
+    "phone": "089 84 49 44",
+    "website": "https://ali-baba.bestelmandje.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ali%20Baba&query_place_id=ChIJG1I1YhHZwEcROTDQ47i9M9I",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeLPHyfPXVUI127K7Sb6tyiDcB5azhxX8Cs2C8qY3OH9XO40izF15Wiu-YI9MDDFnu8K2fMRBUMBLzyEq4vdhmrXQ8UIVN4JDSQo0hGt_gnIegu5CnFXat13BNQgWS-EmIP9dkO8A=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeLPHyfPXVUI127K7Sb6tyiDcB5azhxX8Cs2C8qY3OH9XO40izF15Wiu-YI9MDDFnu8K2fMRBUMBLzyEq4vdhmrXQ8UIVN4JDSQo0hGt_gnIegu5CnFXat13BNQgWS-EmIP9dkO8A=w1000-h750-no",
+    "rating": 4.1,
+    "review_count": 1010,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJw4DYfL7ZwEcR9vq5jgXP0no",
+    "name": "Anka Supermarkt",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Genk",
+    "address": "Anka Supermarkt, Weg naar As 362, 3600 Genk",
+    "street": "Weg naar As 362",
+    "postal_code": "3600",
+    "region": null,
+    "latitude": 50.98431,
+    "longitude": 5.538181499999999,
+    "phone": "0469 16 86 03",
+    "website": "https://www.ankam.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Anka%20Supermarkt&query_place_id=ChIJw4DYfL7ZwEcR9vq5jgXP0no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe13Bt1ILaIl5P5GYl_twqT-KzJVZR3Qn54Ga6g84LPczKNJ29ADimzmK6VFNHt-2H_E03JE0ErX4pkcc-9orrOI5Mq9Gkax7hMCM6uLjZCMIKAS6w2srAUr25g_vAkMG-PgCHp=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe13Bt1ILaIl5P5GYl_twqT-KzJVZR3Qn54Ga6g84LPczKNJ29ADimzmK6VFNHt-2H_E03JE0ErX4pkcc-9orrOI5Mq9Gkax7hMCM6uLjZCMIKAS6w2srAUr25g_vAkMG-PgCHp=w1000-h750-no",
+    "rating": 4.4,
+    "review_count": 107,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJod4lJN7YwEcRSkvfY0EIRLc",
+    "name": "Arcobaleno Genk",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Genk",
+    "address": "Arcobaleno Genk, Evence Coppéelaan 115, 3600 Genk",
+    "street": "Evence Coppéelaan 115",
+    "postal_code": "3600",
+    "region": null,
+    "latitude": 50.987552099999995,
+    "longitude": 5.493969,
+    "phone": "089 84 46 54",
+    "website": "http://www.arcobalenogenk.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Arcobaleno%20Genk&query_place_id=ChIJod4lJN7YwEcRSkvfY0EIRLc",
+    "open_hours_json": {
+      "Monday": [
+        "10 am–12 pm",
+        "1:30–6 pm"
+      ],
+      "Tuesday": [
+        "10 am–12 pm",
+        "1:30–6 pm"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "10 am–6 pm"
+      ],
+      "Friday": [
+        "9:30 am–6 pm"
+      ],
+      "Saturday": [
+        "9:30 am–6 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 166,
+    "rating": 4.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLetYe5e98q87w2Vjvo6_OGG6eTaGaE4DBlrO6ThAb6rsLgfE3P7pSPq4JYdH4hblXXMZWFltjD4UesneelCrdbr2pLLkKVwIdTSkhiS3xAA-l8deTnI2nq4otVWBP8Fu7ChB4pTRYTtJ6Ou=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLetYe5e98q87w2Vjvo6_OGG6eTaGaE4DBlrO6ThAb6rsLgfE3P7pSPq4JYdH4hblXXMZWFltjD4UesneelCrdbr2pLLkKVwIdTSkhiS3xAA-l8deTnI2nq4otVWBP8Fu7ChB4pTRYTtJ6Ou=w1000-h750-no",
+    "source_query": "Hypermarket in Genk, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJufvrZicnwUcRWjFZDuiwERM",
+    "name": "Aroi Thai",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Genk",
+    "address": "Aroi Thai, Centrumlaan 40, 3600 Genk",
+    "street": "Centrumlaan 40",
+    "postal_code": "3600",
+    "region": null,
+    "latitude": 50.9646494,
+    "longitude": 5.497229099999999,
+    "phone": "011 10 09 01",
+    "website": "http://aroithai.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Aroi%20Thai&query_place_id=ChIJufvrZicnwUcRWjFZDuiwERM",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "11 am–8:30 pm"
+      ],
+      "Thursday": [
+        "10 am–8:30 pm"
+      ],
+      "Friday": [
+        "11 am–8:30 pm"
+      ],
+      "Saturday": [
+        "11 am–8:30 pm"
+      ],
+      "Sunday": [
+        "11 am–8:30 pm"
+      ]
+    },
+    "review_count": 136,
+    "rating": 4.9,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcnej3_Oi7To1sQIIJsfWnuol5GBeq7OZW1_iRCrVJvpOPjoqmvJ1QgOqWYETOxjgEDpHve1zmzOAeISROTfdpDkIkqmi2VScsipQ2KjrmMFDLkX0wiPm36h-0TF1jnoJWDe7A3=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcnej3_Oi7To1sQIIJsfWnuol5GBeq7OZW1_iRCrVJvpOPjoqmvJ1QgOqWYETOxjgEDpHve1zmzOAeISROTfdpDkIkqmi2VScsipQ2KjrmMFDLkX0wiPm36h-0TF1jnoJWDe7A3=w1000-h750-no",
+    "source_query": "Halal restaurant in Genk, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ72aF3iXZwEcRkDl6COWHO1c",
+    "name": "Arrosticini Maurina",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Genk",
+    "address": "Arrosticini Maurina, Oude Heide 6, 3600 Genk",
+    "street": "Oude Heide 6",
+    "postal_code": "3600",
+    "region": null,
+    "latitude": 50.9735288,
+    "longitude": 5.447002899999999,
+    "phone": "0474 71 72 97",
+    "website": "http://maurina.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Arrosticini%20Maurina&query_place_id=ChIJ72aF3iXZwEcRkDl6COWHO1c",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe7X1IPGHqgBxW7hGynvnTS0N5cmzcpfblcSvkFzVzcUsI0V91WyJkV1liwTq9QhinqX4xD2Bk649Iv4TbmizHkvK4fyz2UkhYQSsO-FOnK5thFB-ml3mhZXsFDhPSYKZpz9L3K=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe7X1IPGHqgBxW7hGynvnTS0N5cmzcpfblcSvkFzVzcUsI0V91WyJkV1liwTq9QhinqX4xD2Bk649Iv4TbmizHkvK4fyz2UkhYQSsO-FOnK5thFB-ml3mhZXsFDhPSYKZpz9L3K=w1000-h750-no",
+    "rating": 4.9,
+    "review_count": 21,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJJe3uHVjfwEcRmGrIiQ5bSHE",
+    "name": "Asia Food Center",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Genk",
+    "address": "Asia Food Center, Hasseltweg 311, 3600 Genk",
+    "street": "Hasseltweg 311",
+    "postal_code": "3600",
+    "region": null,
+    "latitude": 50.9584462,
+    "longitude": 5.4428097,
+    "phone": "0475 20 29 75",
+    "website": "https://asiafoodcenter.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Asia%20Food%20Center&query_place_id=ChIJJe3uHVjfwEcRmGrIiQ5bSHE",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfM830c-MlmSKGDWct9zLf2TH5PHlNFQHV09pj6JHOROBvRmTjlUMHdexlSpurTaU71PAdcBg2CJxt5VwPEm80-081gBCD2-3kvCSd2k5cG5dGG9zIpPtd-DCukyW853Jpn0COb=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfM830c-MlmSKGDWct9zLf2TH5PHlNFQHV09pj6JHOROBvRmTjlUMHdexlSpurTaU71PAdcBg2CJxt5VwPEm80-081gBCD2-3kvCSd2k5cG5dGG9zIpPtd-DCukyW853Jpn0COb=w1000-h750-no",
+    "rating": 4.5,
+    "review_count": 913,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJY7KZelTfwEcRvB6aAE4jmsE",
+    "name": "Asian Grocery Store - Royal Bazaar",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Genk",
+    "address": "Asian Grocery Store - Royal Bazaar, Europalaan 61, 3600 Genk",
+    "street": "Europalaan 61",
+    "postal_code": "3600",
+    "region": null,
+    "latitude": 50.9664,
+    "longitude": 5.4983097999999995,
+    "phone": "0470 13 70 84",
+    "website": "https://www.facebook.com/RoyalBazaar.BE",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Asian%20Grocery%20Store%20-%20Royal%20Bazaar&query_place_id=ChIJY7KZelTfwEcRvB6aAE4jmsE",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "9 am–7 pm"
+      ],
+      "Wednesday": [
+        "9 am–8 pm"
+      ],
+      "Thursday": [
+        "9 am–8 pm"
+      ],
+      "Friday": [
+        "9 am–7 pm"
+      ],
+      "Saturday": [
+        "9 am–8 pm"
+      ],
+      "Sunday": [
+        "9 am–8 pm"
+      ]
+    },
+    "review_count": 26,
+    "rating": 4.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfVAwYDCO7X8KY6BJCemCoLXRNdpMtc4QyvcrrQEx7XAeO9nE32J19Eze76lnWaMfrqnkMIxwrmX912AsiP5GMUHcqR7_NugAz1DhYcgfdjozKQrJyQl3ekeSSUo3tvlH-Fjsy1=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfVAwYDCO7X8KY6BJCemCoLXRNdpMtc4QyvcrrQEx7XAeO9nE32J19Eze76lnWaMfrqnkMIxwrmX912AsiP5GMUHcqR7_NugAz1DhYcgfdjozKQrJyQl3ekeSSUo3tvlH-Fjsy1=w1000-h750-no",
+    "source_query": "Hypermarket in Genk, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJszuTHNDYwEcRC-Q2uCrJ3XI",
+    "name": "BIF GENK - Genk Millî Görüş🕌",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Genk",
+    "address": "BIF GENK - Genk Millî Görüş🕌, Eikenlaan 34, 3600 Genk",
+    "street": "Eikenlaan 34",
+    "postal_code": "3600",
+    "region": null,
+    "latitude": 50.9772089,
+    "longitude": 5.4848039,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=BIF%20GENK%20-%20Genk%20Mill%C3%AE%20G%C3%B6r%C3%BC%C5%9F%F0%9F%95%8C&query_place_id=ChIJszuTHNDYwEcRC-Q2uCrJ3XI",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLetb2lZP1O-QVJUixlHB9bFQKxZe2g6tOsTzS8ayUsYWxzmL7ZzEwxkeXYEL9bzI8KR99uGIxy-SARW70LuEjn6qbqbrFKC4ofb-3oHXIPN_FMjEZdNxND2E9MtQTamFo1K0C8e=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLetb2lZP1O-QVJUixlHB9bFQKxZe2g6tOsTzS8ayUsYWxzmL7ZzEwxkeXYEL9bzI8KR99uGIxy-SARW70LuEjn6qbqbrFKC4ofb-3oHXIPN_FMjEZdNxND2E9MtQTamFo1K0C8e=w1000-h750-no",
+    "rating": 4.9,
+    "review_count": 28,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJSzY53UfZwEcRCXkI-bIupdY",
+    "name": "Bakery Snijkers",
+    "type": "bakery",
+    "category": "bakery",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Genk",
+    "address": "Bakery Snijkers, Weg naar As 234, 3600 Genk",
+    "street": "Weg naar As 234",
+    "postal_code": "3600",
+    "region": null,
+    "latitude": 50.976166,
+    "longitude": 5.523336,
+    "phone": "089 30 42 30",
+    "website": "https://bakkerijsnijkers.weebly.com/contact.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bakery%20Snijkers&query_place_id=ChIJSzY53UfZwEcRCXkI-bIupdY",
+    "open_hours_json": {
+      "Monday": [
+        "7:30 am–6 pm"
+      ],
+      "Tuesday": [
+        "9 am–5 pm"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "7:30 am–6 pm"
+      ],
+      "Friday": [
+        "7:30 am–6 pm"
+      ],
+      "Saturday": [
+        "7:30 am–5 pm"
+      ],
+      "Sunday": [
+        "7:30 am–4 pm"
+      ]
+    },
+    "review_count": 212,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcbDcxa4TPW1hZe2VJBz5_e1KRXAwJzoZFG4GPlzFAvexjAulFOyQGVh3yTYdjtMeMUJ8vo6mCH3VyWAFkMu6cEOrEU9foR-HEsivdptdMi3paXoCT3T7Mv1UkhB41ZsBiNEO1Ifw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcbDcxa4TPW1hZe2VJBz5_e1KRXAwJzoZFG4GPlzFAvexjAulFOyQGVh3yTYdjtMeMUJ8vo6mCH3VyWAFkMu6cEOrEU9foR-HEsivdptdMi3paXoCT3T7Mv1UkhB41ZsBiNEO1Ifw=w1000-h750-no",
+    "source_query": "Hypermarket in Genk, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJi5vXEgDZwEcRiS16zb9LZr0",
+    "name": "Bakkerij Bon Appetit",
+    "type": "bakery",
+    "category": "bakery",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Genk",
+    "address": "Bakkerij Bon Appetit, Hoevenzavellaan 77, 3600 Genk",
+    "street": "Hoevenzavellaan 77",
+    "postal_code": "3600",
+    "region": null,
+    "latitude": 51.001712999999995,
+    "longitude": 5.5073431,
+    "phone": "089 23 29 80",
+    "website": "https://www.instagram.com/bonappetitgenk?igsh=MWJhMm9hM3QweGR2Zg%3D%3D&utm_source=qr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bakkerij%20Bon%20Appetit&query_place_id=ChIJi5vXEgDZwEcRiS16zb9LZr0",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "7 am–8 pm"
+      ],
+      "Wednesday": [
+        "7 am–8 pm"
+      ],
+      "Thursday": [
+        "7 am–8 pm"
+      ],
+      "Friday": [
+        "7 am–8 pm"
+      ],
+      "Saturday": [
+        "7 am–8 pm"
+      ],
+      "Sunday": [
+        "8:30 am–6:30 pm"
+      ]
+    },
+    "review_count": 13,
+    "rating": 4.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfcwz4YyDKpZK171pEwZFqnrnuKv-lXTvaL3-I-2MenUN7MlU7Qh-wykGVyBlwy3wok9reWt2ltjC99Xspb3ZXENy9VsXNhf3NpbFsGsjVn4xeED-9zD7iMGH4rDwpX_24IStP4TryUe_dv=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfcwz4YyDKpZK171pEwZFqnrnuKv-lXTvaL3-I-2MenUN7MlU7Qh-wykGVyBlwy3wok9reWt2ltjC99Xspb3ZXENy9VsXNhf3NpbFsGsjVn4xeED-9zD7iMGH4rDwpX_24IStP4TryUe_dv=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Genk, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJR5nVitnYwEcRs9vF7AZ_gCQ",
+    "name": "Bakkerij Goiris 🍞",
+    "type": "bakery",
+    "category": "bakery",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Genk",
+    "address": "Bakkerij Goiris 🍞, Vennestraat 120, 3600 Genk",
+    "street": "Vennestraat 120",
+    "postal_code": "3600",
+    "region": null,
+    "latitude": 50.9787556,
+    "longitude": 5.4903849,
+    "phone": "089 35 21 63",
+    "website": "http://www.bakkerijgoiris.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bakkerij%20Goiris%20%F0%9F%8D%9E&query_place_id=ChIJR5nVitnYwEcRs9vF7AZ_gCQ",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "7:30 am–6 pm"
+      ],
+      "Thursday": [
+        "7:30 am–6 pm"
+      ],
+      "Friday": [
+        "7:30 am–6 pm"
+      ],
+      "Saturday": [
+        "7:30 am–5 pm"
+      ],
+      "Sunday": [
+        "7 am–1 pm"
+      ]
+    },
+    "review_count": 158,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcKVlbGKyjQGBa4jcXA5rg_QYiGvyLaKNACu7uYdRuM5tBukQvrX1i77ZpamDlcQJiyRIgCPnyfuXwa-5FI2x9nkhrPS7tYokKoAhuKsmC8Hfa04CRTYok9_X0QNwL6zP_30dFBDA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcKVlbGKyjQGBa4jcXA5rg_QYiGvyLaKNACu7uYdRuM5tBukQvrX1i77ZpamDlcQJiyRIgCPnyfuXwa-5FI2x9nkhrPS7tYokKoAhuKsmC8Hfa04CRTYok9_X0QNwL6zP_30dFBDA=w1000-h750-no",
+    "source_query": "Hypermarket in Genk, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJmSJpac_YwEcRA-A9y-1E4Eo",
+    "name": "Basak Supermarkt",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Genk",
+    "address": "Basak Supermarkt, Noordlaan 20/B, 3600 Genk",
+    "street": "Noordlaan 20/B",
+    "postal_code": "3600",
+    "region": null,
+    "latitude": 50.9771746,
+    "longitude": 5.4777132,
+    "phone": "089 85 85 35",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Basak%20Supermarkt&query_place_id=ChIJmSJpac_YwEcRA-A9y-1E4Eo",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdvJJSCgyPKZteHrBl35OHUBACW8_7PrRtRTlRUCwQeNxLkKbKKx-j9Gw3wU1nrqRhjn4hM8hlTi-UgkxTctWtiXdr3eHjpoWz84udsIlgu8Lm6GewdPitRa2BO5yH1ufNGu8bW=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdvJJSCgyPKZteHrBl35OHUBACW8_7PrRtRTlRUCwQeNxLkKbKKx-j9Gw3wU1nrqRhjn4hM8hlTi-UgkxTctWtiXdr3eHjpoWz84udsIlgu8Lm6GewdPitRa2BO5yH1ufNGu8bW=w1000-h750-no",
+    "rating": 4.4,
+    "review_count": 545,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJwwoeOyHZwEcRIMgR4Auug4o",
+    "name": "Berat Market (Stalenstraat)",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Genk",
+    "address": "Berat Market (Stalenstraat), Heppenzeelstraat, 3600 Genk",
+    "street": "Heppenzeelstraat",
+    "postal_code": "3600",
+    "region": null,
+    "latitude": 50.992086199999996,
+    "longitude": 5.5167239,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Berat%20Market%20%28Stalenstraat%29&query_place_id=ChIJwwoeOyHZwEcRIMgR4Auug4o",
+    "open_hours_json": null,
+    "review_count": 1,
+    "rating": 2.0,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1Kw63eW0KhuULNAdDQyPbQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=35.493217&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1Kw63eW0KhuULNAdDQyPbQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=35.493217&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Hypermarket in Genk, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJzzVF9QPZwEcROEmpw_wuQd8",
     "name": "Biedronka Promo Genk",
     "type": "restaurant",
@@ -648,8 +1134,8 @@
     "phone": "089 35 70 90",
     "website": "http://www.dudemsa.com/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=DUDEMSA%20TURKSE%20SLAGERIJ%20%26%20SUPERMARKT&query_place_id=ChIJ43PnddnYwEcRuqZ78QN28B8",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdSK0MEwkKBVpoSiOEAkuK0xxmp87phlNAuAhTfK5yadDdo_tUKdwz_tzt8wp3G4SKQ264F23MF3K2SJXIukYPm5iineU-jZhyU-srKnOHcsd1rQ4jQn8hRpIivPWkUuBpp_LZbpw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdSK0MEwkKBVpoSiOEAkuK0xxmp87phlNAuAhTfK5yadDdo_tUKdwz_tzt8wp3G4SKQ264F23MF3K2SJXIukYPm5iineU-jZhyU-srKnOHcsd1rQ4jQn8hRpIivPWkUuBpp_LZbpw=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdsvBeTM93zVFFMFJ9XnttJ5JAkcTlffCa00xwjig57I59w_fP8sA300S5v1Dnix4jCAOYLUfFy5XXdeOsPVpK4rAYgBLeR69c9dtFXiUVCt_6OATq-dOjz5WP7Cxy9m2MlKo-C=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdsvBeTM93zVFFMFJ9XnttJ5JAkcTlffCa00xwjig57I59w_fP8sA300S5v1Dnix4jCAOYLUfFy5XXdeOsPVpK4rAYgBLeR69c9dtFXiUVCt_6OATq-dOjz5WP7Cxy9m2MlKo-C=w1000-h750-no",
     "rating": 4.3,
     "review_count": 150,
     "verification_status": "UNVERIFIED",
@@ -2048,7 +2534,7 @@
     "region": null,
     "latitude": 51.0019455,
     "longitude": 5.5084558999999995,
-    "phone": null,
+    "phone": "089 72 29 20",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=K%C3%B6zz%20Restaurant&query_place_id=ChIJPV3aBATZwEcRwtcWGvc8j3k",
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcfDcigkVYj1sdr8Z-Dkmmx4O7S8Hk7SQS5-rL2FAxyeg4A1g6GZIlGTQ-G5VWAo2VsD0v2LlThgfwixrmsGm8Hv-gHfiFhBzo0DgzTiG5Gev8oDu49ow6f-6H6hInvCrzwlAtvlA=w1000-h750-no",
@@ -2341,6 +2827,32 @@
     "moderation_status": "approved"
   },
   {
+    "place_id": "ChIJybx6EQDZwEcR3PDiXamzLIk",
+    "name": "MEVLANA Slagerij Supermarkt",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Genk",
+    "address": "MEVLANA Slagerij Supermarkt, Stalenstraat 77, 3600 Genk",
+    "street": "Stalenstraat 77",
+    "postal_code": "3600",
+    "region": null,
+    "latitude": 50.9951869,
+    "longitude": 5.520811999999999,
+    "phone": "089 76 58 85",
+    "website": "http://www.instagram.com/mevlana_slagerij_genk",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=MEVLANA%20Slagerij%20Supermarkt&query_place_id=ChIJybx6EQDZwEcR3PDiXamzLIk",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf5Ve0HRMPgpATItSyhd0zHzr3aGXG-X7oHI0WaFKg5ElCorRZzXOAOkHP2EGr4ukam1JebNWi9J6iW-b1-ZFV367Iuh7aAfAD534ede4jfdROeiZsF7rvMV4rSSJ8gwi44xLW-7YIRUlD8=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf5Ve0HRMPgpATItSyhd0zHzr3aGXG-X7oHI0WaFKg5ElCorRZzXOAOkHP2EGr4ukam1JebNWi9J6iW-b1-ZFV367Iuh7aAfAD534ede4jfdROeiZsF7rvMV4rSSJ8gwi44xLW-7YIRUlD8=w1000-h750-no",
+    "rating": 4.7,
+    "review_count": 12,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
     "place_id": "ChIJvTE-n6DZwEcRreg-V2oTpNQ",
     "name": "MICV El Hoeda",
     "type": "mosque",
@@ -2457,7 +2969,7 @@
     "latitude": 50.9774118,
     "longitude": 5.4899477999999995,
     "phone": "089 25 55 52",
-    "website": null,
+    "website": "http://www.masharpide.com/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mashar%20Pide&query_place_id=ChIJOzTbqtDYwEcRTtGhMng4F3g",
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfOIXBypZOLqQB_bJkI24QuyY7ZP5gdtGNXMg6CUWRrkt2LAmOdmiicdZTLy0ZU4cWnyAZVC1069l8t73J86SBhTfbDeZyFQIu6tKC728VvLgPU6xf-PUqw0MbCZEzhdfKYCYj8=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfOIXBypZOLqQB_bJkI24QuyY7ZP5gdtGNXMg6CUWRrkt2LAmOdmiicdZTLy0ZU4cWnyAZVC1069l8t73J86SBhTfbDeZyFQIu6tKC728VvLgPU6xf-PUqw0MbCZEzhdfKYCYj8=w1000-h750-no",
@@ -4123,8 +4635,8 @@
     "phone": "0471 52 32 47",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Slagerij%20Lana%20Halal&query_place_id=ChIJC1t6zA7fwEcRdXCZgNLVuVs",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcFsMyplVM16Ic8EBVa8j4mQx0MTcexSTsTsX-uJbshfK0m54H3lRjPNPrNqYS5wd8c7asqxR6qw2JxceSlVt6cY5CNayikRDOxben6hNIpWQMBaO-6jR0HCBJfZORPGwgrjCC_8S8TU9cq=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcFsMyplVM16Ic8EBVa8j4mQx0MTcexSTsTsX-uJbshfK0m54H3lRjPNPrNqYS5wd8c7asqxR6qw2JxceSlVt6cY5CNayikRDOxben6hNIpWQMBaO-6jR0HCBJfZORPGwgrjCC_8S8TU9cq=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfCJ2F_QRdHnGziZc5pnKUPZQEwMB2esLrO0AJ3yWCSH7ghHfVPisLl1PPXV6k_m4cw0cPerdLKm9SNvGFVkO5FdZARtfGBYY5H42xRSvrTbQ6EqKGKiBz45eAXU-rqJbHUpnyDAISasQ4=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfCJ2F_QRdHnGziZc5pnKUPZQEwMB2esLrO0AJ3yWCSH7ghHfVPisLl1PPXV6k_m4cw0cPerdLKm9SNvGFVkO5FdZARtfGBYY5H42xRSvrTbQ6EqKGKiBz45eAXU-rqJbHUpnyDAISasQ4=w1000-h750-no",
     "rating": 5.0,
     "review_count": 5,
     "verification_status": "VERIFIED",
@@ -4149,8 +4661,8 @@
     "phone": "089 79 16 31",
     "website": "https://qr.wwwcafe.de/2025/08/12/snack-aydin-genk/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Snack%20Aydin%20Genk&query_place_id=ChIJr4XqhdPewEcRoKfy5pmz2Pc",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdf3rVPqlNf_dYKgHb79piTK9HkiYz-dyDoSnb4X39B7CRDr7SXaQyfguLyvxsSa6rZ5VUZaJK39DyG55qfgUJ6GdMU-3n_AN1eu48BA9zdtMIIBZl_nmbqMLOIlokWYgBjpzM=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdf3rVPqlNf_dYKgHb79piTK9HkiYz-dyDoSnb4X39B7CRDr7SXaQyfguLyvxsSa6rZ5VUZaJK39DyG55qfgUJ6GdMU-3n_AN1eu48BA9zdtMIIBZl_nmbqMLOIlokWYgBjpzM=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcObN-37uq3QDMOfyo1jeUbsb4UOS1PtAdZ2EuTNuesSbklTmMYJWQFGoVlsugPhqJroGeugQHVAfiPRaji0T3c8K3RjCktx2MO9ZkvL-tLOmReM2rj0SISpb4iK0UYYMKO610=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcObN-37uq3QDMOfyo1jeUbsb4UOS1PtAdZ2EuTNuesSbklTmMYJWQFGoVlsugPhqJroGeugQHVAfiPRaji0T3c8K3RjCktx2MO9ZkvL-tLOmReM2rj0SISpb4iK0UYYMKO610=w1000-h750-no",
     "rating": 4.3,
     "review_count": 374,
     "verification_status": "UNVERIFIED",
@@ -4621,6 +5133,32 @@
     "verification_evidence": null
   },
   {
+    "place_id": "ChIJwxhXYm7ZwEcRP04tMxzFibI",
+    "name": "Turkse Slagerij Sahara bvba",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Genk",
+    "address": "Turkse Slagerij Sahara bvba, André Dumontlaan 88, 3600 Genk",
+    "street": "André Dumontlaan 88",
+    "postal_code": "3600",
+    "region": null,
+    "latitude": 50.9938101,
+    "longitude": 5.5328418,
+    "phone": "089 84 35 36",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Turkse%20Slagerij%20Sahara%20bvba&query_place_id=ChIJwxhXYm7ZwEcRP04tMxzFibI",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfuU099C3WuRwCYUuQ6b70A5cYiptdAFiDdYw5grhm2w_J6AdMCjXA25woV1A4aWq6VTPZN1i8FxWeGkevBzX0z681uo9Wegzw5PN2yN01quvU94LH7-EANeSknM5YtfminQaGTWg=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfuU099C3WuRwCYUuQ6b70A5cYiptdAFiDdYw5grhm2w_J6AdMCjXA25woV1A4aWq6VTPZN1i8FxWeGkevBzX0z681uo9Wegzw5PN2yN01quvU94LH7-EANeSknM5YtfminQaGTWg=w1000-h750-no",
+    "rating": 4.9,
+    "review_count": 38,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
     "place_id": "ChIJpeCuXNvewEcROuvwiKTGMcM",
     "name": "Uckardesler",
     "type": "hypermarket",
@@ -4853,6 +5391,32 @@
     "moderation_status": "approved"
   },
   {
+    "place_id": "ChIJhRVYnQbZwEcRck_adnKgmlc",
+    "name": "Youssef",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Genk",
+    "address": "Youssef, Risstraat 16, 3600 Genk",
+    "street": "Risstraat 16",
+    "postal_code": "3600",
+    "region": null,
+    "latitude": 51.002528299999994,
+    "longitude": 5.5100658,
+    "phone": "089 84 12 90",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Youssef&query_place_id=ChIJhRVYnQbZwEcRck_adnKgmlc",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdBbHq4JK4kltegjmkAmXU5yIW95M6eyE1vNwtguY3KebEaco2yeaHhmEFZnVsEeWCfoaSrI0bnGBT4nZH_X9BjAK9Z_qyS7p2U7GOLiTCuvY2cyyWk-Jnl0CzQa4YnGklcbaBS=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdBbHq4JK4kltegjmkAmXU5yIW95M6eyE1vNwtguY3KebEaco2yeaHhmEFZnVsEeWCfoaSrI0bnGBT4nZH_X9BjAK9Z_qyS7p2U7GOLiTCuvY2cyyWk-Jnl0CzQa4YnGklcbaBS=w1000-h750-no",
+    "rating": 4.3,
+    "review_count": 9,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
     "place_id": "ChIJk3qwhITewEcR4RG1bka0FTc",
     "name": "Yunus Emre Moskee",
     "type": "mosque",
@@ -4899,6 +5463,32 @@
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe3vS6xdtCIFuEFHXKSJ8JXrVNE0_2TiF7g94C9MmNTeYakwdjc3ShESV7dt4x0RpFwOob4BPwzIv8Nn57WtpfBEkDppr9WoKnRRXeivtYUyIyFBE0DMLlXi2FSlNTXrpqqYOip=w1000-h750-no",
     "rating": 4.7,
     "review_count": 49,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJvZJ71LHZwEcRoXq2wFoXkeE",
+    "name": "Zengin Slagerij & Supermarkt | Genk",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Genk",
+    "address": "Zengin Slagerij & Supermarkt | Genk, Hoevenzavellaan 52, 3600 Genk",
+    "street": "Hoevenzavellaan 52",
+    "postal_code": "3600",
+    "region": null,
+    "latitude": 51.0015455,
+    "longitude": 5.5084323,
+    "phone": "0484 81 58 04",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Zengin%20Slagerij%20%26%20Supermarkt%20%7C%20Genk&query_place_id=ChIJvZJ71LHZwEcRoXq2wFoXkeE",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdxUY7fao-JJ5uIKQjziSNVUlAqVCbum9b3sQvqhBFsWJm1IMTzuA3psRoMGksfgWvtOEkZ3h3Qnez2F6txJqtiGcH8pEXHV8mByGMHJbhTin7YFPhGnexQWuWounCKEGFaeUjGu2-aRodB=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdxUY7fao-JJ5uIKQjziSNVUlAqVCbum9b3sQvqhBFsWJm1IMTzuA3psRoMGksfgWvtOEkZ3h3Qnez2F6txJqtiGcH8pEXHV8mByGMHJbhTin7YFPhGnexQWuWounCKEGFaeUjGu2-aRodB=w1000-h750-no",
+    "rating": 4.3,
+    "review_count": 101,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null,
     "is_active": true,
@@ -5077,6 +5667,32 @@
     "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=aIyIDmfxZwDMZHvGLZd7zQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=7.145096&pitch=0&thumbfov=w1000-h750-no",
     "rating": null,
     "review_count": 0,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJY3-iujlxw0cRzC187ZSfiIY",
+    "name": "A26 grill restaurant",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Gent",
+    "address": "A26 grill restaurant, Sleepstraat 60, 9000 Gent",
+    "street": "Sleepstraat 60",
+    "postal_code": "9000",
+    "region": null,
+    "latitude": 51.060732099999996,
+    "longitude": 3.7259366999999997,
+    "phone": "0487 76 52 00",
+    "website": "https://grillrestauranta26.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=A26%20grill%20restaurant&query_place_id=ChIJY3-iujlxw0cRzC187ZSfiIY",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfmZ_K4WbvWVcqbhOb_eYrf4hMVl3NoOWUa0xRofoaYTnkBhKF__RyzaiUDDvZELfgL6KQgLeb1jcTJd3vo51DP_zKUiVO27zk6C48OZhYjJTQSYyelvBgWnF4oCZ-btBpCVXeG=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfmZ_K4WbvWVcqbhOb_eYrf4hMVl3NoOWUa0xRofoaYTnkBhKF__RyzaiUDDvZELfgL6KQgLeb1jcTJd3vo51DP_zKUiVO27zk6C48OZhYjJTQSYyelvBgWnF4oCZ-btBpCVXeG=w1000-h750-no",
+    "rating": 4.6,
+    "review_count": 489,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null,
     "is_active": true,
@@ -5317,6 +5933,32 @@
     "moderation_status": "approved"
   },
   {
+    "place_id": "ChIJ_cWAKpRxw0cRl-I6InkXCbc",
+    "name": "Babelon lunch en grillroom",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Gent",
+    "address": "Babelon lunch en grillroom, Phoenixstraat 73, 9000 Gent",
+    "street": "Phoenixstraat 73",
+    "postal_code": "9000",
+    "region": null,
+    "latitude": 51.0581574,
+    "longitude": 3.7056036,
+    "phone": "0465 22 78 63",
+    "website": "https://www.instagram.com/babelon202?igsh=MTllaXMxdnVkY2puaw==",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Babelon%20lunch%20en%20grillroom&query_place_id=ChIJ_cWAKpRxw0cRl-I6InkXCbc",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdRBZhLZ7ibmAt3zBzaK8RJKJY_WDsNROiCywVYueElj9TYsx22UplPKMX93si6LeTBmyiatZ9aCCZDDa3qTiAYyoK2XMEh_HfBkQHYzv_79bJ4wCFyr6eiizNum5mV_xvKLnyjdNMXzObE=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdRBZhLZ7ibmAt3zBzaK8RJKJY_WDsNROiCywVYueElj9TYsx22UplPKMX93si6LeTBmyiatZ9aCCZDDa3qTiAYyoK2XMEh_HfBkQHYzv_79bJ4wCFyr6eiizNum5mV_xvKLnyjdNMXzObE=w1000-h750-no",
+    "rating": 4.8,
+    "review_count": 119,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
     "place_id": "ChIJzYZzzRJxw0cRV1nKebgDpjk",
     "name": "Barka bvba",
     "type": "butcher",
@@ -5365,6 +6007,32 @@
     "review_count": 5980,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJ05E0OBRxw0cRP0SFipuESwU",
+    "name": "Belburger",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Gent",
+    "address": "Belburger, Sleepstraat 54, 9000 Gent",
+    "street": "Sleepstraat 54",
+    "postal_code": "9000",
+    "region": null,
+    "latitude": 51.0606702,
+    "longitude": 3.7258893,
+    "phone": "0497 14 40 44",
+    "website": "https://belburger.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Belburger&query_place_id=ChIJ05E0OBRxw0cRP0SFipuESwU",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcbiC8TzwseDERsPtOPxRvjXUS6--mBvTfAnhtI2CBWRMeDeTYnEJdWTUklRoCSnVmFoqKOuRbLc1p90iyJDkL2jFbV5BuIDJdk17K6VpuzmQ87PmjxC5of2ZgnR1DfLppbISsz=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcbiC8TzwseDERsPtOPxRvjXUS6--mBvTfAnhtI2CBWRMeDeTYnEJdWTUklRoCSnVmFoqKOuRbLc1p90iyJDkL2jFbV5BuIDJdk17K6VpuzmQ87PmjxC5of2ZgnR1DfLppbISsz=w1000-h750-no",
+    "rating": 4.7,
+    "review_count": 324,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
     "is_active": true,
     "moderation_status": "approved"
   },
@@ -5525,6 +6193,32 @@
     "moderation_status": "approved"
   },
   {
+    "place_id": "ChIJHUW800Vxw0cRmPvhZd7YFFU",
+    "name": "CHEFDAG Gent-Rooigemlaan",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Gent",
+    "address": "CHEFDAG Gent-Rooigemlaan, Einde Were 75, 9000 Gent",
+    "street": "Einde Were 75",
+    "postal_code": "9000",
+    "region": null,
+    "latitude": 51.0523069,
+    "longitude": 3.6995475,
+    "phone": "0470 84 10 42",
+    "website": "https://chefdag.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=CHEFDAG%20Gent-Rooigemlaan&query_place_id=ChIJHUW800Vxw0cRmPvhZd7YFFU",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcZs3YtQAxr5urrRDaiDxgHIStWfY1BvYfiQ3JO0YkvPOBiV4kBFspEA_73k8JX4Ra3iJJT5QqS6H6wXAMvvCqAxpNt1x-qWmciPgVGRDtzMIVk-PjHH0R8ubBMbC3WtaYYt5MjQA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcZs3YtQAxr5urrRDaiDxgHIStWfY1BvYfiQ3JO0YkvPOBiV4kBFspEA_73k8JX4Ra3iJJT5QqS6H6wXAMvvCqAxpNt1x-qWmciPgVGRDtzMIVk-PjHH0R8ubBMbC3WtaYYt5MjQA=w1000-h750-no",
+    "rating": 4.2,
+    "review_count": 337,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
     "place_id": "ChIJD7V4YFdxw0cRcE2T2u139ps",
     "name": "CHEFDAG Overpoort | Fried Chicken & More",
     "type": "restaurant",
@@ -5545,6 +6239,32 @@
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd64QnHzuiPIXiato6NHBHkGcTVumh6LEYxNyZsZJbzCUix8vqra8MBRUaZ242rZrM7bu6ABbElwzDHWLK1jUFHngGjjF1T5-EP67q72jDroX9x84Uxrlodn_kNnDKhkd2fsLKr=w1000-h750-no",
     "rating": 4.1,
     "review_count": 949,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJUQi5c51xw0cR47Xr3uzKyeQ",
+    "name": "CHEFDAG Vrijdagmarkt | Fried Chicken & More",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Gent",
+    "address": "CHEFDAG Vrijdagmarkt | Fried Chicken & More, Vrijdagmarkt 42, 9000 Gent",
+    "street": "Vrijdagmarkt 42",
+    "postal_code": "9000",
+    "region": null,
+    "latitude": 51.0564022,
+    "longitude": 3.7256969,
+    "phone": "0468 00 15 30",
+    "website": "http://chefdag.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=CHEFDAG%20Vrijdagmarkt%20%7C%20Fried%20Chicken%20%26%20More&query_place_id=ChIJUQi5c51xw0cR47Xr3uzKyeQ",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLelERYzkn7VSsBEu31dc13sp4-AMihdwOHAEjN1qYlIZ6MXQtIOIaTNL_r_6HCowrE7acNPMaZ-Sk-C-aw_Q7sdZStUBxjs8dDKgJhoYQqhNZhT1stI-XcEkd9cXRrhCFB6YX10TOCBbis=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLelERYzkn7VSsBEu31dc13sp4-AMihdwOHAEjN1qYlIZ6MXQtIOIaTNL_r_6HCowrE7acNPMaZ-Sk-C-aw_Q7sdZStUBxjs8dDKgJhoYQqhNZhT1stI-XcEkd9cXRrhCFB6YX10TOCBbis=w1000-h750-no",
+    "rating": 4.5,
+    "review_count": 631,
     "verification_status": "VERIFIED",
     "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
     "is_active": true,
@@ -5645,8 +6365,8 @@
     "phone": "0472 86 04 75",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=De%20Toekomst%28El%20Mustaqbal%29%20Vzw%20Mosque%20Masjid%20Cami&query_place_id=ChIJA4X2Vu5zw0cRTY2Iyh_pKRE",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdT6zDY2ze6aeAQy_hAIRcz7H0ENt9nGBW4c9JYyZkYR2MxLbYMSDVclK1YdLLmBqdWEkOE4N73wzEbSfj4veGpsd5TzhYRSQlTnHGj_R4KmHPDqlxh6xO9gZDdiUPrhsHi4RI=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdT6zDY2ze6aeAQy_hAIRcz7H0ENt9nGBW4c9JYyZkYR2MxLbYMSDVclK1YdLLmBqdWEkOE4N73wzEbSfj4veGpsd5TzhYRSQlTnHGj_R4KmHPDqlxh6xO9gZDdiUPrhsHi4RI=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeKgSa1QZKyeL3basmewPnazhMH7tGF6YkzDRir0Pk1VbYYD1o7kXbHZcj0jxFNQp2xH4eirzqpfghjbSeCrO6RUdfuq5d2nKN6DeQrqa2wkhxXEaRs6sEAvlOz8y_aRUTtmvk=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeKgSa1QZKyeL3basmewPnazhMH7tGF6YkzDRir0Pk1VbYYD1o7kXbHZcj0jxFNQp2xH4eirzqpfghjbSeCrO6RUdfuq5d2nKN6DeQrqa2wkhxXEaRs6sEAvlOz8y_aRUTtmvk=w1000-h750-no",
     "rating": 4.8,
     "review_count": 46,
     "verification_status": "UNVERIFIED",
@@ -5827,8 +6547,8 @@
     "phone": "0478 25 51 85",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Fatih%20camii%20Gent%20%28Groene%20Moskee%29%20%F0%9F%95%8C&query_place_id=ChIJsdSzn7pxw0cRaCWyW272064",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcN3p4yRGbLFgzFVCtWPXlb5p1dEqGY11VXca6hebZ_z2VmmdgdllUuFmCQ1CJbqkrfUh66YGXaZaEcOhD_rJhkTGG_m4Psnccna17PIwSqYqvo-W9HC5JNKsrB1sDUINkeakIa=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcN3p4yRGbLFgzFVCtWPXlb5p1dEqGY11VXca6hebZ_z2VmmdgdllUuFmCQ1CJbqkrfUh66YGXaZaEcOhD_rJhkTGG_m4Psnccna17PIwSqYqvo-W9HC5JNKsrB1sDUINkeakIa=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLccOiLkfFWZHBPXAPmxL25UAq38lWA-o-anLFShz4_3CDPFx_z7eqN-twFEqZv6ZWPRMg5irRCKdNV_hzdT9tYVQgiZK_ak7_VRu0jQALtt_0liCQkrEdc-C4Dcs6eISDlzLVcOTg=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLccOiLkfFWZHBPXAPmxL25UAq38lWA-o-anLFShz4_3CDPFx_z7eqN-twFEqZv6ZWPRMg5irRCKdNV_hzdT9tYVQgiZK_ak7_VRu0jQALtt_0liCQkrEdc-C4Dcs6eISDlzLVcOTg=w1000-h750-no",
     "rating": 4.6,
     "review_count": 47,
     "verification_status": "UNVERIFIED",
@@ -6123,6 +6843,32 @@
     "moderation_status": "approved"
   },
   {
+    "place_id": "ChIJI_aOCg1xw0cR3EwztX8HdiI",
+    "name": "Hunkar Kebab",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Gent",
+    "address": "Hunkar Kebab, Bevrijdingslaan 54, 9000 Gent",
+    "street": "Bevrijdingslaan 54",
+    "postal_code": "9000",
+    "region": null,
+    "latitude": 51.060814,
+    "longitude": 3.7017446,
+    "phone": "0487 43 84 84",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Hunkar%20Kebab&query_place_id=ChIJI_aOCg1xw0cR3EwztX8HdiI",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdp4yZWBuQUihAg31MawEYBaxYJYTDGoHAWpKCnVDhQEQl3l0QYsniILIKXrE6xZuFJhSyzVhheDu_omvgWpsdGLIXTVYlE0WNwebge0DKyAMo7Yo8X2rvmMEJJuJ-OJg0-78RPaA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdp4yZWBuQUihAg31MawEYBaxYJYTDGoHAWpKCnVDhQEQl3l0QYsniILIKXrE6xZuFJhSyzVhheDu_omvgWpsdGLIXTVYlE0WNwebge0DKyAMo7Yo8X2rvmMEJJuJ-OJg0-78RPaA=w1000-h750-no",
+    "rating": 4.5,
+    "review_count": 887,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
     "place_id": "ChIJF7D2IDVxw0cRuvxWZZvVwcc",
     "name": "Ih-vak",
     "type": "mosque",
@@ -6139,8 +6885,8 @@
     "phone": "09 233 68 38",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ih-vak&query_place_id=ChIJF7D2IDVxw0cRuvxWZZvVwcc",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfMt3a5EjpQt1gRKzkHmDB_NKnboQCnmOlsLyS1rQ49a7EvzHyC6vwjr_aCtlAisQxlLgbZdAnC4AsSmkLA0XP_OuJ6denSD7WnEwIotdS44aPtr_qr0IQFRsVQhhYdqoxrdqkcIQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfMt3a5EjpQt1gRKzkHmDB_NKnboQCnmOlsLyS1rQ49a7EvzHyC6vwjr_aCtlAisQxlLgbZdAnC4AsSmkLA0XP_OuJ6denSD7WnEwIotdS44aPtr_qr0IQFRsVQhhYdqoxrdqkcIQ=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdwlS2rEN_F98298bYBaY2T0-_gyUMVhNQLniMYlRCHRecxVrJbFu9bGgPMJMP1_PBUok3a9LxdcXM5TjgwN4BIAGQqv6irAGf5gTIzzraGiwOjUDGnwrqpO2Gbg6xVtJ6oFNljCg=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdwlS2rEN_F98298bYBaY2T0-_gyUMVhNQLniMYlRCHRecxVrJbFu9bGgPMJMP1_PBUok3a9LxdcXM5TjgwN4BIAGQqv6irAGf5gTIzzraGiwOjUDGnwrqpO2Gbg6xVtJ6oFNljCg=w1000-h750-no",
     "rating": 5.0,
     "review_count": 3,
     "verification_status": "UNVERIFIED",
@@ -6279,6 +7025,84 @@
     "moderation_status": "approved"
   },
   {
+    "place_id": "ChIJJTy3boNxw0cRaJdiXyzn4Gs",
+    "name": "Laila Tandoori Restaurant",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Gent",
+    "address": "Laila Tandoori Restaurant, Kon. Maria Hendrikaplein 66, 9000 Gent",
+    "street": "Kon. Maria Hendrikaplein 66",
+    "postal_code": "9000",
+    "region": null,
+    "latitude": 51.037264799999996,
+    "longitude": 3.7099408,
+    "phone": "09 377 25 60",
+    "website": "https://www.lailarestaurant.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Laila%20Tandoori%20Restaurant&query_place_id=ChIJJTy3boNxw0cRaJdiXyzn4Gs",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLctEwiiu8blOZOi39xTfRQm6kRtGj5wG4oG15RdpEnN0VH6omfP5eoPXIIqvwqibKCObBjGhsHVi5wGUZC1Z0rNcn-95cSlxVDB18neiFdW_ox3jR_LHAgPAvHIuSW6AmbCzphJuw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLctEwiiu8blOZOi39xTfRQm6kRtGj5wG4oG15RdpEnN0VH6omfP5eoPXIIqvwqibKCObBjGhsHVi5wGUZC1Z0rNcn-95cSlxVDB18neiFdW_ox3jR_LHAgPAvHIuSW6AmbCzphJuw=w1000-h750-no",
+    "rating": 4.6,
+    "review_count": 1072,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJaWgrTGRzw0cR96swJISy6e0",
+    "name": "Lodos Restaurant",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Gent",
+    "address": "Lodos Restaurant, Heerweg-Noord 2, 9052 Gent",
+    "street": "Heerweg-Noord 2",
+    "postal_code": "9052",
+    "region": null,
+    "latitude": 51.0031226,
+    "longitude": 3.7145824,
+    "phone": "09 222 42 31",
+    "website": "https://www.lodosrestaurant.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Lodos%20Restaurant&query_place_id=ChIJaWgrTGRzw0cR96swJISy6e0",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd2IWkq7to6UWEd1HBIfpTWi4BDJYRT5jHFrp-9JotKk9FsCt6e6axRNpsAJG2DyhxKt66nssQF25-ZVyDsQyMA4xdBS5OGr_vPVpjor58xshdtUefEn3MUJgyRwWr-fwwRjWoe=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd2IWkq7to6UWEd1HBIfpTWi4BDJYRT5jHFrp-9JotKk9FsCt6e6axRNpsAJG2DyhxKt66nssQF25-ZVyDsQyMA4xdBS5OGr_vPVpjor58xshdtUefEn3MUJgyRwWr-fwwRjWoe=w1000-h750-no",
+    "rating": 4.7,
+    "review_count": 328,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJk66y4alxw0cR5-kpwQAymQI",
+    "name": "Lujain Resto",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Gent",
+    "address": "Lujain Resto, Sleepstraat 23، 9000 Gent",
+    "street": "Sleepstraat 23",
+    "postal_code": "9000",
+    "region": null,
+    "latitude": 51.0605133,
+    "longitude": 3.7253849999999997,
+    "phone": "0465 59 52 27",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Lujain%20Resto&query_place_id=ChIJk66y4alxw0cR5-kpwQAymQI",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfA0Jk_PIPD5gCAKAR_EJOinUF21i-DdzCMIcYNeaeJ17kwCS_xAoJEl_3LDwuqKOsrARWb-1Fv1sTx9kAqWc7cvEs3gcVFi7mn0CZTU3OEM68bHSH6O2JmlOcvd57-h12gm0iq=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfA0Jk_PIPD5gCAKAR_EJOinUF21i-DdzCMIcYNeaeJ17kwCS_xAoJEl_3LDwuqKOsrARWb-1Fv1sTx9kAqWc7cvEs3gcVFi7mn0CZTU3OEM68bHSH6O2JmlOcvd57-h12gm0iq=w1000-h750-no",
+    "rating": 4.6,
+    "review_count": 932,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
     "place_id": "ChIJld8USgxxw0cRcOTWN1HgnJg",
     "name": "MG'sDelicious",
     "type": "restaurant",
@@ -6301,6 +7125,32 @@
     "review_count": 208,
     "verification_status": "VERIFIED",
     "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJ8fBe6ENxw0cRZ5vXmsUyh-E",
+    "name": "Masala Accent",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Gent",
+    "address": "Masala Accent, Vlaanderenstraat 9, 9000 Gent",
+    "street": "Vlaanderenstraat 9",
+    "postal_code": "9000",
+    "region": null,
+    "latitude": 51.0511932,
+    "longitude": 3.7291971,
+    "phone": "0488 17 57 05",
+    "website": "https://masalaaccent.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Masala%20Accent&query_place_id=ChIJ8fBe6ENxw0cRZ5vXmsUyh-E",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe3EZ-VPoXJYs1xW2tj7b77vFMFJjlHJXB6VMEPBbCrf_s56hGorTgqLJU_yv5_xuRQcLkljdwNJ1M4-cFb5ZAcH1mwEr2cCMBaahKpCuF6uiMnmn2szJF_9hcOps5CRGigTg-9MJ1vxbId=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe3EZ-VPoXJYs1xW2tj7b77vFMFJjlHJXB6VMEPBbCrf_s56hGorTgqLJU_yv5_xuRQcLkljdwNJ1M4-cFb5ZAcH1mwEr2cCMBaahKpCuF6uiMnmn2szJF_9hcOps5CRGigTg-9MJ1vxbId=w1000-h750-no",
+    "rating": 4.8,
+    "review_count": 623,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
     "is_active": true,
     "moderation_status": "approved"
   },
@@ -6659,8 +7509,8 @@
     "phone": "0483 62 05 01",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Namli&query_place_id=ChIJMyLKN-Vxw0cRqB6ehXNWquc",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcZdFeGUQdf42jTn8t3DF0mLESYnjNZMErYGS0KgXyg3l_21e55YbtJ-NITduDYHFBE64uuu3Q9uxOHp9Yxl4keL8uM0ALl_PuPnlnMX0z_NxM4H0vkUB39t5_4Dw1JWKc2nSUMVsBFg3Eo=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcZdFeGUQdf42jTn8t3DF0mLESYnjNZMErYGS0KgXyg3l_21e55YbtJ-NITduDYHFBE64uuu3Q9uxOHp9Yxl4keL8uM0ALl_PuPnlnMX0z_NxM4H0vkUB39t5_4Dw1JWKc2nSUMVsBFg3Eo=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfJ6mO3JKECCRllAi7Rx6V4dnd2j_hty3BhhdPR8rCvTr2ZitHbkbwk678l3PB0WbcVU8qxAepocmaE6GK2fCbpKkS-mFwOvoplO8EdWSwW92Lzjy16ye5IPBVsSBG9Szi2VQUOZPL5xOG3=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfJ6mO3JKECCRllAi7Rx6V4dnd2j_hty3BhhdPR8rCvTr2ZitHbkbwk678l3PB0WbcVU8qxAepocmaE6GK2fCbpKkS-mFwOvoplO8EdWSwW92Lzjy16ye5IPBVsSBG9Szi2VQUOZPL5xOG3=w1000-h750-no",
     "rating": 4.5,
     "review_count": 22,
     "verification_status": "UNVERIFIED",
@@ -6825,6 +7675,136 @@
     "moderation_status": "approved"
   },
   {
+    "place_id": "ChIJKQ5OwLhxw0cREfbJOVGcKRw",
+    "name": "RIFood Gent",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Gent",
+    "address": "RIFood Gent, Koning Boudewijnstraat 5, 9000 Gent",
+    "street": "Koning Boudewijnstraat 5",
+    "postal_code": "9000",
+    "region": null,
+    "latitude": 51.0373999,
+    "longitude": 3.7094802,
+    "phone": "0466 26 93 63",
+    "website": "https://www.rifood93.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=RIFood%20Gent&query_place_id=ChIJKQ5OwLhxw0cREfbJOVGcKRw",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcJVSqSUPP1IxlDsDnv0HzhSIvy8-FMdHd1lFvAhKP11zABiy8pxOXVo9xVSWQdCN9YbT0DWFHFxJ1FxvkC-VKoNwp6WgbwiCsr40yi_t6Rw1MXUozmlIK5gVLMp_JoE7bMfoIKFcTftNP7=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcJVSqSUPP1IxlDsDnv0HzhSIvy8-FMdHd1lFvAhKP11zABiy8pxOXVo9xVSWQdCN9YbT0DWFHFxJ1FxvkC-VKoNwp6WgbwiCsr40yi_t6Rw1MXUozmlIK5gVLMp_JoE7bMfoIKFcTftNP7=w1000-h750-no",
+    "rating": 4.8,
+    "review_count": 307,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJd7gtjzhxw0cR5nJSyJynEoM",
+    "name": "Restaurant Ankara",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Gent",
+    "address": "Restaurant Ankara, Oudburg 44, 9000 Gent",
+    "street": "Oudburg 44",
+    "postal_code": "9000",
+    "region": null,
+    "latitude": 51.058307199999994,
+    "longitude": 3.7243486999999997,
+    "phone": "09 225 78 18",
+    "website": "http://www.ankararesto.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20Ankara&query_place_id=ChIJd7gtjzhxw0cR5nJSyJynEoM",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdJlw0Df6-f9KGUC4BBNjwf3swmjYm_dBYOo3nInv_57VzjtjtCjPhnt4LffFDb3KjZIFjr7xFNmG8aVXHWMhDJb_Jx8QGBdJPpzAEZxIU9EoMmyLTmDtJqb16E3Q5sH-Nn3jOq=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdJlw0Df6-f9KGUC4BBNjwf3swmjYm_dBYOo3nInv_57VzjtjtCjPhnt4LffFDb3KjZIFjr7xFNmG8aVXHWMhDJb_Jx8QGBdJPpzAEZxIU9EoMmyLTmDtJqb16E3Q5sH-Nn3jOq=w1000-h750-no",
+    "rating": 4.3,
+    "review_count": 1119,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJGxDiVThxw0cRm_RMTqsQjGc",
+    "name": "Restaurant Gök",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Gent",
+    "address": "Restaurant Gök, Sluizeken 22, 9000 Gent",
+    "street": "Sluizeken 22",
+    "postal_code": "9000",
+    "region": null,
+    "latitude": 51.0597636,
+    "longitude": 3.7250696999999997,
+    "phone": "0484 77 72 25",
+    "website": "http://www.restogok.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20G%C3%B6k&query_place_id=ChIJGxDiVThxw0cRm_RMTqsQjGc",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdb-pv86DqggXq9w5j_J68LilFhxzbxiYslmU452oME4AzhuSGKZfKZ4t1mXOh6gB1FLzYMONa2SEYqgCNnel7m4XMbs8ftEftQNu7cBPJPSM9TNd8ly50-BZm6P6RD0PJrvL1j=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdb-pv86DqggXq9w5j_J68LilFhxzbxiYslmU452oME4AzhuSGKZfKZ4t1mXOh6gB1FLzYMONa2SEYqgCNnel7m4XMbs8ftEftQNu7cBPJPSM9TNd8ly50-BZm6P6RD0PJrvL1j=w1000-h750-no",
+    "rating": 4.3,
+    "review_count": 845,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJUUPrrzlxw0cRxgrlFyGoUD4",
+    "name": "Restaurant Özgem 🇹🇷",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Gent",
+    "address": "Restaurant Özgem 🇹🇷, Sleepstraat 95, 9000 Gent",
+    "street": "Sleepstraat 95",
+    "postal_code": "9000",
+    "region": null,
+    "latitude": 51.0616318,
+    "longitude": 3.7265759,
+    "phone": "09 225 84 34",
+    "website": "http://www.restaurantozgem.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20%C3%96zgem%20%F0%9F%87%B9%F0%9F%87%B7&query_place_id=ChIJUUPrrzlxw0cRxgrlFyGoUD4",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfgfoidYzHPsEKYh01C4J76JzRN63Y0DnxJyEkqqDK4uLWK5kr-J_vcnrTwE5xYRhJ6H7-OkudcsvJmvdXICISYazwzmG8irHD_AfCO7yf2QJ6zbywSh_-VUmisegCm6gs1YhjFl9rXppkO=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfgfoidYzHPsEKYh01C4J76JzRN63Y0DnxJyEkqqDK4uLWK5kr-J_vcnrTwE5xYRhJ6H7-OkudcsvJmvdXICISYazwzmG8irHD_AfCO7yf2QJ6zbywSh_-VUmisegCm6gs1YhjFl9rXppkO=w1000-h750-no",
+    "rating": 4.4,
+    "review_count": 663,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJGXDApBVxw0cRdp6YVHHXibY",
+    "name": "Rumi Afghan Soulfood 🇦🇫",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Gent",
+    "address": "Rumi Afghan Soulfood 🇦🇫, Kortrijksepoortstraat 220, 9000 Gent",
+    "street": "Kortrijksepoortstraat 220",
+    "postal_code": "9000",
+    "region": null,
+    "latitude": 51.043642399999996,
+    "longitude": 3.7209011999999997,
+    "phone": "0471 64 47 32",
+    "website": "https://www.rumirestaurant.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Rumi%20Afghan%20Soulfood%20%F0%9F%87%A6%F0%9F%87%AB&query_place_id=ChIJGXDApBVxw0cRdp6YVHHXibY",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd8UlIHLD8gJ-jig0QfHiRXUdOi1m9t1Fu7dfAw5XbzFjQtcHTkJFMKNp1SGYgY3agIK3TUhcoEQU_TcWHnPDlF5CjK420dybnWefzyJnFKRpL0EK8Cu7ANbHLCNdoIlPfjVTfiT9-TE8M=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd8UlIHLD8gJ-jig0QfHiRXUdOi1m9t1Fu7dfAw5XbzFjQtcHTkJFMKNp1SGYgY3agIK3TUhcoEQU_TcWHnPDlF5CjK420dybnWefzyJnFKRpL0EK8Cu7ANbHLCNdoIlPfjVTfiT9-TE8M=w1000-h750-no",
+    "rating": 4.7,
+    "review_count": 100,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
     "place_id": "ChIJDQsKeb1xw0cRpjN4P8-3v0c",
     "name": "SLAGERIJ EMRE",
     "type": "butcher",
@@ -6949,6 +7929,32 @@
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd0b7kv-h9UhLSRAr_d3q9lIRsQ2zyHqxPiHRCuOeVhnUYcvJU8IGp_b_PGBlIK0tC2xPhHDYdzo_i1p1qMkbYfQTMEqExDOI5GUMoow0AlseORZEJPQaiOjdXxEDhqWyxWhbfR=w1000-h750-no",
     "rating": 4.7,
     "review_count": 160,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJHwGPqbV2w0cRM5UdIQf0SHg",
+    "name": "Saray Restaurant - Gent",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Gent",
+    "address": "Saray Restaurant - Gent, Dendermondsesteenweg 113, 9000 Gent",
+    "street": "Dendermondsesteenweg 113",
+    "postal_code": "9000",
+    "region": null,
+    "latitude": 51.0547061,
+    "longitude": 3.7432898,
+    "phone": "0489 17 09 91",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Saray%20Restaurant%20-%20Gent&query_place_id=ChIJHwGPqbV2w0cRM5UdIQf0SHg",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf_8HtPIteF4zWKabIR97yTSLBAzsbPh3s5WC2MUb0-NQlL0TCxUUo4zp0qx30nhLSOuHS6ycsIJWJ_H9ERp_QA1GFNHQo9kImPV1PluFPTpnxTSKu-L5kV1GyXp5hSsZJbAv3j9Q=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf_8HtPIteF4zWKabIR97yTSLBAzsbPh3s5WC2MUb0-NQlL0TCxUUo4zp0qx30nhLSOuHS6ycsIJWJ_H9ERp_QA1GFNHQo9kImPV1PluFPTpnxTSKu-L5kV1GyXp5hSsZJbAv3j9Q=w1000-h750-no",
+    "rating": 4.4,
+    "review_count": 495,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null,
     "is_active": true,
@@ -7127,8 +8133,8 @@
     "phone": "0483 45 68 86",
     "website": "https://www.slagerijhamza.be/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Slagerij%20Hamza&query_place_id=ChIJT5wK4HVxw0cRjBD8N2mJy38",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeqXwBpVw4v6STWZYUMmNPwBHYOHhyvJGkCOPBhvahNgeuZsRg6pwu3b-GIXPwxTuKnC1xmdW05xul8jXQB5pHd-doVu8QFLf5615MZOGWeSe3DQJuQ4sLRWhooHAzWGzEkCJ8yTQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeqXwBpVw4v6STWZYUMmNPwBHYOHhyvJGkCOPBhvahNgeuZsRg6pwu3b-GIXPwxTuKnC1xmdW05xul8jXQB5pHd-doVu8QFLf5615MZOGWeSe3DQJuQ4sLRWhooHAzWGzEkCJ8yTQ=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeBArcWv3vqXeQnOfGlM-k-jY0N-po5FoY2k6940KNIosudk7OMIsD6ORb5Yfn5tMyQr2t419CcvP5NaVkiHn5loFt3mKQ1wRLz9soaK2J3N41ntMsNBqmAfSjXM94XXqcRJcHqMQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeBArcWv3vqXeQnOfGlM-k-jY0N-po5FoY2k6940KNIosudk7OMIsD6ORb5Yfn5tMyQr2t419CcvP5NaVkiHn5loFt3mKQ1wRLz9soaK2J3N41ntMsNBqmAfSjXM94XXqcRJcHqMQ=w1000-h750-no",
     "rating": 4.8,
     "review_count": 77,
     "verification_status": "UNVERIFIED",
@@ -7187,1296 +8193,5 @@
     "verification_evidence": null,
     "is_active": true,
     "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJBf72_gFxw0cRjmdcFle1PBQ",
-    "name": "Slagerij saleh",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Gent",
-    "address": "Slagerij saleh, Bevrijdingslaan 64, 9000 Gent",
-    "street": "Bevrijdingslaan 64",
-    "postal_code": "9000",
-    "region": null,
-    "latitude": 51.061082,
-    "longitude": 3.7013504,
-    "phone": "0465 69 37 37",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Slagerij%20saleh&query_place_id=ChIJBf72_gFxw0cRjmdcFle1PBQ",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdysGyWelKqMfW-_qFUvDD3pOLyfZt96o7pFwt-eB4myGQMKJLdN0vR5t1_x-zo2oTcv-0n1Vi97JSWxkwptOLRdEgvbKcFv-2U0oPs4ZSiG0ZMf4-u-mkEWmw3p6dNWI0G3baWsbqv3MLq=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdysGyWelKqMfW-_qFUvDD3pOLyfZt96o7pFwt-eB4myGQMKJLdN0vR5t1_x-zo2oTcv-0n1Vi97JSWxkwptOLRdEgvbKcFv-2U0oPs4ZSiG0ZMf4-u-mkEWmw3p6dNWI0G3baWsbqv3MLq=w1000-h750-no",
-    "rating": 5.0,
-    "review_count": 2,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJ-WbVwDxxw0cRYdJi4ynW7zM",
-    "name": "Stadius City 🥩",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Gent",
-    "address": "Stadius City 🥩, Gasmeterlaan 169, 9000 Gent",
-    "street": "Gasmeterlaan 169",
-    "postal_code": "9000",
-    "region": null,
-    "latitude": 51.067003799999995,
-    "longitude": 3.7212349999999996,
-    "phone": "09 223 25 81",
-    "website": "http://www.stadius.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Stadius%20City%20%F0%9F%A5%A9&query_place_id=ChIJ-WbVwDxxw0cRYdJi4ynW7zM",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeHSUavbzhGfsuh-Xs6XVjav2bJaORp1ZqbeO2TwLgijv5R_w8yTrLaAJwtss0A8A99zLG_jvOMjSy-7XdupB43FH42Kb_1sdiO-25C6apelGZl38MzzF0HAhyQS5z5i6QsGn7hwA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeHSUavbzhGfsuh-Xs6XVjav2bJaORp1ZqbeO2TwLgijv5R_w8yTrLaAJwtss0A8A99zLG_jvOMjSy-7XdupB43FH42Kb_1sdiO-25C6apelGZl38MzzF0HAhyQS5z5i6QsGn7hwA=w1000-h750-no",
-    "rating": 4.5,
-    "review_count": 78,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJKYAmUrR2w0cRb7kqSIZuOfk",
-    "name": "Sultan Kasabi - Slagerij",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Gent",
-    "address": "Sultan Kasabi - Slagerij, Dendermondsesteenweg 123, 9000 Gent",
-    "street": "Dendermondsesteenweg 123",
-    "postal_code": "9000",
-    "region": null,
-    "latitude": 51.0544337,
-    "longitude": 3.7434003,
-    "phone": "09 228 83 59",
-    "website": "https://www.sultanslagerij.be/contact",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Sultan%20Kasabi%20-%20Slagerij&query_place_id=ChIJKYAmUrR2w0cRb7kqSIZuOfk",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcBieAPlRsWAckENjPgNCSvK4Bpt7c9YZHIoS4oEDsABsLtd2t4HI2dJLh3-hT_BfDEYriZu1eJBWKE40RezMqOUMNn4Snu0f1iYVN-Z-_kFzOlncZFKZVQDlRpZTXEEOsreMmw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcBieAPlRsWAckENjPgNCSvK4Bpt7c9YZHIoS4oEDsABsLtd2t4HI2dJLh3-hT_BfDEYriZu1eJBWKE40RezMqOUMNn4Snu0f1iYVN-Z-_kFzOlncZFKZVQDlRpZTXEEOsreMmw=w1000-h750-no",
-    "rating": 4.9,
-    "review_count": 91,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJcSppLoh3w0cRUXBJe2FFn1Y",
-    "name": "TABOULEH",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Gent",
-    "address": "TABOULEH, Ledebergplein 17, 9050 Gent",
-    "street": "Ledebergplein 17",
-    "postal_code": "9050",
-    "region": null,
-    "latitude": 51.036786199999995,
-    "longitude": 3.7419666,
-    "phone": "0466 20 67 78",
-    "website": "https://taboulehrestaurant.online/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=TABOULEH&query_place_id=ChIJcSppLoh3w0cRUXBJe2FFn1Y",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfGXvLdBtcYyYqqcCtajXlN-mFq-0ue4fLuecj3GrXJ-n7GtuqUDP8_zw2Z77y5Dn02XuNYzZqDMFfjKlBscjmyXk7lmrB0AbsLwonj7LUdRo_nVctHT3zcb-br9Q2TFHlre2OL=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfGXvLdBtcYyYqqcCtajXlN-mFq-0ue4fLuecj3GrXJ-n7GtuqUDP8_zw2Z77y5Dn02XuNYzZqDMFfjKlBscjmyXk7lmrB0AbsLwonj7LUdRo_nVctHT3zcb-br9Q2TFHlre2OL=w1000-h750-no",
-    "rating": 4.5,
-    "review_count": 736,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJ7dBSDxtxw0cRy0wbvT747D4",
-    "name": "Tevhid Moskee Camii",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Gent",
-    "address": "Tevhid Moskee Camii, Francisco Ferrerlaan 214A, 9000 Gent",
-    "street": "Francisco Ferrerlaan 214A",
-    "postal_code": "9000",
-    "region": null,
-    "latitude": 51.0714195,
-    "longitude": 3.7077780999999996,
-    "phone": "09 277 03 59",
-    "website": "https://www.tevhidmoskee.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Tevhid%20Moskee%20Camii&query_place_id=ChIJ7dBSDxtxw0cRy0wbvT747D4",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf4B0YXfVbo3ot9XowJSLsEwOH0Cr8pF2yLymrYVDfhrZFHZvzLvHKtBy2cNWJ8qkoC3HsrmcDqa4v9YbRCKswDeFm_fKBHKXto2DogcNQ-TxdssYK5foKmKSJ6dJuO6z6qJ3Jq=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf4B0YXfVbo3ot9XowJSLsEwOH0Cr8pF2yLymrYVDfhrZFHZvzLvHKtBy2cNWJ8qkoC3HsrmcDqa4v9YbRCKswDeFm_fKBHKXto2DogcNQ-TxdssYK5foKmKSJ6dJuO6z6qJ3Jq=w1000-h750-no",
-    "rating": 4.7,
-    "review_count": 141,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJQ_CwaLV2w0cRDzTV3GU0pfs",
-    "name": "Tevhid Supermarkt",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Gent",
-    "address": "Tevhid Supermarkt, Dendermondsesteenweg 30, 9000 Gent",
-    "street": "Dendermondsesteenweg 30",
-    "postal_code": "9000",
-    "region": null,
-    "latitude": 51.0563186,
-    "longitude": 3.7418071999999998,
-    "phone": "09 377 00 18",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Tevhid%20Supermarkt&query_place_id=ChIJQ_CwaLV2w0cRDzTV3GU0pfs",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeOOA_Wt9t9HcPKlmB64bd_e_gK2dJP92sg_h6VMZfFrOMW3fVFm-4bTJexXcA5ZZbTARWLz_baLKF4B7QH3099TrlPc_o9QTRpBK_h9qo45PZxwSWKsAQIde2PxcPr1CX34r57=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeOOA_Wt9t9HcPKlmB64bd_e_gK2dJP92sg_h6VMZfFrOMW3fVFm-4bTJexXcA5ZZbTARWLz_baLKF4B7QH3099TrlPc_o9QTRpBK_h9qo45PZxwSWKsAQIde2PxcPr1CX34r57=w1000-h750-no",
-    "rating": 3.9,
-    "review_count": 846,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJ_-HQc1Jxw0cR_CjGqU2raGQ",
-    "name": "The Corner House",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Gent",
-    "address": "The Corner House, Lange Violettestraat 102, 9000 Gent",
-    "street": "Lange Violettestraat 102",
-    "postal_code": "9000",
-    "region": null,
-    "latitude": 51.046337,
-    "longitude": 3.734295,
-    "phone": "09 225 92 15",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=The%20Corner%20House&query_place_id=ChIJ_-HQc1Jxw0cR_CjGqU2raGQ",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeUDkKJcq-aWDA_XN8MZ3I2tchuH8nNTlvpZtw_F9h4qDeNgIUKkKOMFagSqaKpYCFYlX_C5-UovVbMWkkP5sWW5Kw4uCJHg3M3DnwhPO4pFnzZANak1gZM0vodsI3PPts7hSmZNg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeUDkKJcq-aWDA_XN8MZ3I2tchuH8nNTlvpZtw_F9h4qDeNgIUKkKOMFagSqaKpYCFYlX_C5-UovVbMWkkP5sWW5Kw4uCJHg3M3DnwhPO4pFnzZANak1gZM0vodsI3PPts7hSmZNg=w1000-h750-no",
-    "rating": 4.4,
-    "review_count": 156,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJR2QVC_1zw0cRJBiHpQTXm9c",
-    "name": "Traiteur Slagerij Alfin",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Gent",
-    "address": "Traiteur Slagerij Alfin, Ottergemsesteenweg 91/93, 9000, 9000 Gent",
-    "street": "Ottergemsesteenweg 91/93, 9000",
-    "postal_code": "9000",
-    "region": null,
-    "latitude": 51.0351358,
-    "longitude": 3.7275623999999996,
-    "phone": "09 222 26 89",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Traiteur%20Slagerij%20Alfin&query_place_id=ChIJR2QVC_1zw0cRJBiHpQTXm9c",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcNvi4TKae3HEYOMyh505E9kneu3-XTSBuAcUHZMvjjnVAfFa2Ndn01Zzll_omP5dkOqUtQAKg80awQVen8Uu7TyWHDImddgkUs7onih0GzcqYVzzB1cRZO_9wiZFE522PJo_6kAg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcNvi4TKae3HEYOMyh505E9kneu3-XTSBuAcUHZMvjjnVAfFa2Ndn01Zzll_omP5dkOqUtQAKg80awQVen8Uu7TyWHDImddgkUs7onih0GzcqYVzzB1cRZO_9wiZFE522PJo_6kAg=w1000-h750-no",
-    "rating": 4.8,
-    "review_count": 24,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJZeVNRP9xw0cRz_HelZgpitA",
-    "name": "VZW Masjid El-Fath 🕌",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Gent",
-    "address": "VZW Masjid El-Fath 🕌, Beukelaarstraat 21/23 25, 9000 Gent",
-    "street": "Beukelaarstraat 21/23 25",
-    "postal_code": "9000",
-    "region": null,
-    "latitude": 51.0614286,
-    "longitude": 3.7021794,
-    "phone": null,
-    "website": "https://moskee-el-fath-gent.base44.app/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=VZW%20Masjid%20El-Fath%20%F0%9F%95%8C&query_place_id=ChIJZeVNRP9xw0cRz_HelZgpitA",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc3xehCt3BOc0jsl6Z1C3XX3ODtA94c-hIB0pswL6-gjxRn7ku08R66iIu9INkM5VssoslLai3Fuo2FkWac0mwn42QjjhlcZHYv54f9vpdbuyaTXEpbrYVbPSis_d0G_YJwMYi2=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc3xehCt3BOc0jsl6Z1C3XX3ODtA94c-hIB0pswL6-gjxRn7ku08R66iIu9INkM5VssoslLai3Fuo2FkWac0mwn42QjjhlcZHYv54f9vpdbuyaTXEpbrYVbPSis_d0G_YJwMYi2=w1000-h750-no",
-    "rating": 4.6,
-    "review_count": 124,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJy5VOTrR2w0cRnPLu_xS0sz8",
-    "name": "Vatan Bvba",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Gent",
-    "address": "Vatan Bvba, Dendermondsesteenweg 145, 9000 Gent",
-    "street": "Dendermondsesteenweg 145",
-    "postal_code": "9000",
-    "region": null,
-    "latitude": 51.0537973,
-    "longitude": 3.7437152,
-    "phone": "0488 93 93 53",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Vatan%20Bvba&query_place_id=ChIJy5VOTrR2w0cRnPLu_xS0sz8",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLewFYeaSXu5eDEpW6LRIlm_lQTr8iihs36FnnP5tHul12lNNyOjQn_sW5agdpE_zBnublfPLKXwMQA5jZHTyn8ORmYTsRDTDd6AEfLCPmNqABRyNcoYfeCoZc5QTAOQwXTHS0K0=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLewFYeaSXu5eDEpW6LRIlm_lQTr8iihs36FnnP5tHul12lNNyOjQn_sW5agdpE_zBnublfPLKXwMQA5jZHTyn8ORmYTsRDTDd6AEfLCPmNqABRyNcoYfeCoZc5QTAOQwXTHS0K0=w1000-h750-no",
-    "rating": 4.7,
-    "review_count": 102,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJWwUmXgBxw0cRrM4YHuwKlIo",
-    "name": "Vaynah Moskee",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Gent",
-    "address": "Vaynah Moskee, Kapiteinstraat 42, 9000 Gent",
-    "street": "Kapiteinstraat 42",
-    "postal_code": "9000",
-    "region": null,
-    "latitude": 51.088120599999996,
-    "longitude": 3.7231935999999997,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Vaynah%20Moskee&query_place_id=ChIJWwUmXgBxw0cRrM4YHuwKlIo",
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ygaGJqPJhmb1xu1Opg_Gjw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=354.60776&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ygaGJqPJhmb1xu1Opg_Gjw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=354.60776&pitch=0&thumbfov=w1000-h750-no",
-    "rating": 5.0,
-    "review_count": 1,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJsxEKyk9xw0cRqVRfo9THDnw",
-    "name": "Veggi en grill",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Gent",
-    "address": "Veggi en grill, Belfortstraat 32, 9000 Gent",
-    "street": "Belfortstraat 32",
-    "postal_code": "9000",
-    "region": null,
-    "latitude": 51.0559121,
-    "longitude": 3.7277595999999997,
-    "phone": "0484 20 80 25",
-    "website": "http://www.veggieengrillgent.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Veggi%20en%20grill&query_place_id=ChIJsxEKyk9xw0cRqVRfo9THDnw",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeAUuioxZ2X_6ZNrPF3qFeaFawLAyzb3l4kmHkKu2An2ZnDsKbqepkFQUBb2dDcyfZLjx22bZLPdqfZ-cax9K-J5EBYkX8pZMwSoZb5Pbv0LGAnKE3KUMwV8cmh_lzDQWQvFzqD5w=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeAUuioxZ2X_6ZNrPF3qFeaFawLAyzb3l4kmHkKu2An2ZnDsKbqepkFQUBb2dDcyfZLjx22bZLPdqfZ-cax9K-J5EBYkX8pZMwSoZb5Pbv0LGAnKE3KUMwV8cmh_lzDQWQvFzqD5w=w1000-h750-no",
-    "rating": 4.7,
-    "review_count": 400,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJezxlPgB3w0cRito7PKzjF3g",
-    "name": "Xhamia Nur",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Gent",
-    "address": "Xhamia Nur, Emanuel Hielstraat 52, 9050 Gent",
-    "street": "Emanuel Hielstraat 52",
-    "postal_code": "9050",
-    "region": null,
-    "latitude": 51.0439297,
-    "longitude": 3.7586885999999997,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Xhamia%20Nur&query_place_id=ChIJezxlPgB3w0cRito7PKzjF3g",
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JBH2MTqbbS_HDC-tLVSjMg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=251.81033&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JBH2MTqbbS_HDC-tLVSjMg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=251.81033&pitch=0&thumbfov=w1000-h750-no",
-    "rating": null,
-    "review_count": 0,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJxdekFW11w0cRNJrYo1MVZkY",
-    "name": "Yavuz Sultan Selim Camii Ledeberg",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Gent",
-    "address": "Yavuz Sultan Selim Camii Ledeberg, Langestraat 204, 9050 Gent",
-    "street": "Langestraat 204",
-    "postal_code": "9050",
-    "region": null,
-    "latitude": 51.0335423,
-    "longitude": 3.7423897,
-    "phone": "0484 29 70 66",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Yavuz%20Sultan%20Selim%20Camii%20Ledeberg&query_place_id=ChIJxdekFW11w0cRNJrYo1MVZkY",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLegFMv8E7O6zvXS_XN0r5d2Jrl65YijCh9lkjh0ooxjUsXfTurjOcCF_I8bPY-A6zFEPXjguOcVkCw6slJQL3EXHTat8Add7BoVuy6IeCRH0V8Id53czyaFJegvBlrtBL5askeg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLegFMv8E7O6zvXS_XN0r5d2Jrl65YijCh9lkjh0ooxjUsXfTurjOcCF_I8bPY-A6zFEPXjguOcVkCw6slJQL3EXHTat8Add7BoVuy6IeCRH0V8Id53czyaFJegvBlrtBL5askeg=w1000-h750-no",
-    "rating": 4.9,
-    "review_count": 62,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJ0cTT30Zxw0cRwkEzOvhGZh0",
-    "name": "Zwaenepoel (Beenhouwerij)🥩",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Gent",
-    "address": "Zwaenepoel (Beenhouwerij)🥩, Donkersteeg 33, 9000 Gent",
-    "street": "Donkersteeg 33",
-    "postal_code": "9000",
-    "region": null,
-    "latitude": 51.0547864,
-    "longitude": 3.7227351,
-    "phone": "09 225 48 75",
-    "website": "https://www.slagerijzwaenepoel.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Zwaenepoel%20%28Beenhouwerij%29%F0%9F%A5%A9&query_place_id=ChIJ0cTT30Zxw0cRwkEzOvhGZh0",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfzLD6h3u1Lfet7BN1shyLJSHTFarA2mzVn1f_jrjG6kKizC_C98l0jhPI4w7xO47aB9MDdf-EyjzRv-e-fT0JwnbAbDqPhRxaT5ShFtRG9rfnVDf82hZ4rQNxw7NAtfRy_kk5jMBvrl2gJ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfzLD6h3u1Lfet7BN1shyLJSHTFarA2mzVn1f_jrjG6kKizC_C98l0jhPI4w7xO47aB9MDdf-EyjzRv-e-fT0JwnbAbDqPhRxaT5ShFtRG9rfnVDf82hZ4rQNxw7NAtfRy_kk5jMBvrl2gJ=w1000-h750-no",
-    "rating": 4.5,
-    "review_count": 46,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJzckNRgB3w0cRmVTx52eldgI",
-    "name": "مسجد التقوي أفغاني",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Gent",
-    "address": "مسجد التقوي أفغاني, Dendermondsesteenweg 417، 9040 Gent",
-    "street": "Dendermondsesteenweg 417",
-    "postal_code": "9040",
-    "region": null,
-    "latitude": 51.052518199999994,
-    "longitude": 3.7533629,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%D9%85%D8%B3%D8%AC%D8%AF%20%D8%A7%D9%84%D8%AA%D9%82%D9%88%D9%8A%20%D8%A3%D9%81%D8%BA%D8%A7%D9%86%D9%8A&query_place_id=ChIJzckNRgB3w0cRmVTx52eldgI",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeU9aEZoxgGZ3hWZOLuPD7BnxEZXgMAn_TN5ScoRcJSPyWB8xmB_9LhGEWifc-RO449QzVPmIzGv_3QsC-V8QTF7QiRJueynZ93EC5PxV1S9o6i7MqMxuqhpPqrFTeT-yDPmFKLXkMIw3cl=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeU9aEZoxgGZ3hWZOLuPD7BnxEZXgMAn_TN5ScoRcJSPyWB8xmB_9LhGEWifc-RO449QzVPmIzGv_3QsC-V8QTF7QiRJueynZ93EC5PxV1S9o6i7MqMxuqhpPqrFTeT-yDPmFKLXkMIw3cl=w1000-h750-no",
-    "rating": null,
-    "review_count": 0,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJtc7N84p1w0cRTHOVXYg-Fkw",
-    "name": "Tajine2Go",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Gentbrugge",
-    "address": "Tajine2Go, Brusselsesteenweg 455, 9050 Gentbrugge",
-    "street": "Brusselsesteenweg 455",
-    "postal_code": "9050",
-    "region": null,
-    "latitude": 51.033980199999995,
-    "longitude": 3.7566376999999997,
-    "phone": "0451 01 61 44",
-    "website": "https://www.tajine2go.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Tajine2Go&query_place_id=ChIJtc7N84p1w0cRTHOVXYg-Fkw",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "5–9 pm"
-      ],
-      "Thursday": [
-        "5–9 pm"
-      ],
-      "Friday": [
-        "5–10 pm"
-      ],
-      "Saturday": [
-        "12–10 pm"
-      ],
-      "Sunday": [
-        "12–9 pm"
-      ]
-    },
-    "review_count": 61,
-    "rating": 5.0,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc-P4gBu5SW83A4zQrDqq4QBNfdH0Jy7Ng2Hbrp76t-j7Im88q6nBuh32XE1ukQIxP6tUxrALxVplWcq9JMRGFIrwszv_Q46YNQubMAjKYHjJhF1P-XZbQpAQf6xu71FdRdsXX28vTP1JIh=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc-P4gBu5SW83A4zQrDqq4QBNfdH0Jy7Ng2Hbrp76t-j7Im88q6nBuh32XE1ukQIxP6tUxrALxVplWcq9JMRGFIrwszv_Q46YNQubMAjKYHjJhF1P-XZbQpAQf6xu71FdRdsXX28vTP1JIh=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Gent, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJXYBebL2ow0cR9iuSNTXjtgk",
-    "name": "'t Grof Zout BV",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Geraardsbergen",
-    "address": "'t Grof Zout BV, Gasthuisstraat 20, 9500 Geraardsbergen",
-    "street": "Gasthuisstraat 20",
-    "postal_code": "9500",
-    "region": null,
-    "latitude": 50.769365,
-    "longitude": 3.876146,
-    "phone": "054 42 35 46",
-    "website": "https://www.grofzout.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%27t%20Grof%20Zout%20BV&query_place_id=ChIJXYBebL2ow0cR9iuSNTXjtgk",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "12–1:30 pm",
-        "6:30–8:30 pm"
-      ],
-      "Thursday": [
-        "12–1:30 pm",
-        "6:30–8:30 pm"
-      ],
-      "Friday": [
-        "12–1:30 pm",
-        "6:30–8:30 pm"
-      ],
-      "Saturday": [
-        "6:30–8:30 pm"
-      ],
-      "Sunday": [
-        "12–1:30 pm"
-      ]
-    },
-    "review_count": 172,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeVGE98J4PIMHePZ8MoabMa41d3GvlPGFrG411mrYsAS13tk7YRQjKq9cKfo6pSdasl5AsIxWwOVoc72MXgSQggdJqu43XxC9oPTruiA3N7HLRgkE04dx18Zbq0gcZcEJRiXN25=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeVGE98J4PIMHePZ8MoabMa41d3GvlPGFrG411mrYsAS13tk7YRQjKq9cKfo6pSdasl5AsIxWwOVoc72MXgSQggdJqu43XxC9oPTruiA3N7HLRgkE04dx18Zbq0gcZcEJRiXN25=w1000-h750-no",
-    "source_query": "Halal restaurant in Geraardsbergen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJxXZ6RqSow0cRRM4TlWM9zNs",
-    "name": "Abtenhuis",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Geraardsbergen",
-    "address": "Abtenhuis, Abdijstraat 10, 9500 Geraardsbergen",
-    "street": "Abdijstraat 10",
-    "postal_code": "9500",
-    "region": null,
-    "latitude": 50.774863599999996,
-    "longitude": 3.8835598,
-    "phone": "054 41 18 00",
-    "website": "https://www.abtenhuis.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Abtenhuis&query_place_id=ChIJxXZ6RqSow0cRRM4TlWM9zNs",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "Closed"
-      ],
-      "Friday": [
-        "12–10 pm"
-      ],
-      "Saturday": [
-        "12–10 pm"
-      ],
-      "Sunday": [
-        "12–10 pm"
-      ]
-    },
-    "review_count": 978,
-    "rating": 4.5,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf7SunJ4adlVlf52lD-8W0I7Z4-Y26tuYIGFo0dFu_Km5m6gzMjoTsd0E5upEAPyzWTVHwj5AQzmYk9OI_cRS8HlHqeJ61PSgs2xXmCCuUDEJaBbHJIZshXaAAk--NOBXSKCx12=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf7SunJ4adlVlf52lD-8W0I7Z4-Y26tuYIGFo0dFu_Km5m6gzMjoTsd0E5upEAPyzWTVHwj5AQzmYk9OI_cRS8HlHqeJ61PSgs2xXmCCuUDEJaBbHJIZshXaAAk--NOBXSKCx12=w1000-h750-no",
-    "source_query": "Halal restaurant in Geraardsbergen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJr5550F69w0cRdMJuSGAYeKQ",
-    "name": "Atelier Gist",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Geraardsbergen",
-    "address": "Atelier Gist, Goeferdingeplein 21, 9500 Geraardsbergen",
-    "street": "Goeferdingeplein 21",
-    "postal_code": "9500",
-    "region": null,
-    "latitude": 50.7659622,
-    "longitude": 3.8427921,
-    "phone": "0475 49 09 94",
-    "website": "http://www.ateliergist.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Atelier%20Gist&query_place_id=ChIJr5550F69w0cRdMJuSGAYeKQ",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "7:30–11:30 pm"
-      ],
-      "Friday": [
-        "12–2:30 pm",
-        "7:30–11:30 pm"
-      ],
-      "Saturday": [
-        "7:30–11:30 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 260,
-    "rating": 4.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf244bDN-vfKiieULBG4JXIhk6MJ4PY3tSEKd0boJc73szkJSupJQLUvpE0Fyod3p5xLEwoXt08T21IdtV2iw1xhEesS1_dqc6Jh3piFNCbzGIfbjR5KQVl49h67WKzjx9GEt4dFw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf244bDN-vfKiieULBG4JXIhk6MJ4PY3tSEKd0boJc73szkJSupJQLUvpE0Fyod3p5xLEwoXt08T21IdtV2iw1xhEesS1_dqc6Jh3piFNCbzGIfbjR5KQVl49h67WKzjx9GEt4dFw=w1000-h750-no",
-    "source_query": "Halal restaurant in Geraardsbergen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJNyPjtxuvw0cRHVV8-L72EVU",
-    "name": "Bargare",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Geraardsbergen",
-    "address": "Bargare, Kattestraat 66, 9500 Geraardsbergen",
-    "street": "Kattestraat 66",
-    "postal_code": "9500",
-    "region": null,
-    "latitude": 50.7692574,
-    "longitude": 3.8776213,
-    "phone": "054 24 44 94",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bargare&query_place_id=ChIJNyPjtxuvw0cRHVV8-L72EVU",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "11 am–3 pm",
-        "6–10 pm"
-      ],
-      "Wednesday": [
-        "11 am–3 pm",
-        "6–10 pm"
-      ],
-      "Thursday": [
-        "11 am–3 pm",
-        "6–10 pm"
-      ],
-      "Friday": [
-        "11 am–3 pm",
-        "6–11:30 pm"
-      ],
-      "Saturday": [
-        "Closed"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 139,
-    "rating": 4.8,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd7Ufqe10tP8qODMKjxR3h5E4_GvdZlLSMsFg1W4p4i49Nq_nnHVJUTsm_T2G8NaRbPcm3qiZcdmzLXt819qkRaiTk4xg6K8rPdlgUtoCZfTwhcjxJtq3-zT_OVjfV6vwDa4sru4A=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd7Ufqe10tP8qODMKjxR3h5E4_GvdZlLSMsFg1W4p4i49Nq_nnHVJUTsm_T2G8NaRbPcm3qiZcdmzLXt819qkRaiTk4xg6K8rPdlgUtoCZfTwhcjxJtq3-zT_OVjfV6vwDa4sru4A=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Geraardsbergen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJHR4zDJOpw0cRhNv3_U80lE4",
-    "name": "Belchicken Geraardsbergen",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Geraardsbergen",
-    "address": "Belchicken Geraardsbergen, Grotestraat 65, 9500 Geraardsbergen",
-    "street": "Grotestraat 65",
-    "postal_code": "9500",
-    "region": null,
-    "latitude": 50.7718358,
-    "longitude": 3.8768263999999997,
-    "phone": "054 41 96 49",
-    "website": "http://www.belchicken.com/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Belchicken%20Geraardsbergen&query_place_id=ChIJHR4zDJOpw0cRhNv3_U80lE4",
-    "open_hours_json": {
-      "Monday": [
-        "11:30 am–9 pm"
-      ],
-      "Tuesday": [
-        "11:30 am–9 pm"
-      ],
-      "Wednesday": [
-        "11:30 am–9 pm"
-      ],
-      "Thursday": [
-        "11:30 am–9 pm"
-      ],
-      "Friday": [
-        "11:30 am–10 pm"
-      ],
-      "Saturday": [
-        "11:30 am–10 pm"
-      ],
-      "Sunday": [
-        "12:30–9 pm"
-      ]
-    },
-    "review_count": 177,
-    "rating": 3.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcCs1qLW3yZwImYxClrQ_OD-t1EOv19Dd8GjAYTIhdkmfSKPNsQMv9RvNXND_r_O8E98Zk7kmRTCEemY67ddHEwTS5thll49MSr1ImsfiJb7dxS2hP_pTCHRvU-_p7YNcVL-S-M=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcCs1qLW3yZwImYxClrQ_OD-t1EOv19Dd8GjAYTIhdkmfSKPNsQMv9RvNXND_r_O8E98Zk7kmRTCEemY67ddHEwTS5thll49MSr1ImsfiJb7dxS2hP_pTCHRvU-_p7YNcVL-S-M=w1000-h750-no",
-    "source_query": "Halal restaurant in Geraardsbergen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJdTo6uKSow0cRxlY5zrFLMpg",
-    "name": "Best Grill GERAARDSBERGEN",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Geraardsbergen",
-    "address": "Best Grill GERAARDSBERGEN, Markt 44, 9500 Geraardsbergen",
-    "street": "Markt 44",
-    "postal_code": "9500",
-    "region": null,
-    "latitude": 50.7711699,
-    "longitude": 3.8829555,
-    "phone": "054 41 94 00",
-    "website": "http://www.bestgril.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Best%20Grill%20GERAARDSBERGEN&query_place_id=ChIJdTo6uKSow0cRxlY5zrFLMpg",
-    "open_hours_json": {
-      "Monday": [
-        "11:30 am–2 pm",
-        "4:30–11 pm"
-      ],
-      "Tuesday": [
-        "11:30 am–2 pm",
-        "4:30–11 pm"
-      ],
-      "Wednesday": [
-        "11:30 am–2 pm",
-        "4:30–11 pm"
-      ],
-      "Thursday": [
-        "11:30 am–2 pm",
-        "4:30–11 pm"
-      ],
-      "Friday": [
-        "11:30 am–2 pm",
-        "4:30 pm–12 am"
-      ],
-      "Saturday": [
-        "11:30 am–12 am"
-      ],
-      "Sunday": [
-        "11:30 am–11 pm"
-      ]
-    },
-    "review_count": 325,
-    "rating": 3.4,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLddIyg76YZ9dPscVtwHE31-9c9Wf7rg7mqbTaKsWZNEnxvhF2f72bhDqNpABtukHaEZKvfs5spp4iUOGleOJ7sgsDNvrNaPcmrucZReSHNqnjrm677j4yRinAlEvN79rBSKOSHp1Q=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLddIyg76YZ9dPscVtwHE31-9c9Wf7rg7mqbTaKsWZNEnxvhF2f72bhDqNpABtukHaEZKvfs5spp4iUOGleOJ7sgsDNvrNaPcmrucZReSHNqnjrm677j4yRinAlEvN79rBSKOSHp1Q=w1000-h750-no",
-    "source_query": "Halal restaurant in Geraardsbergen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJk3UFjaKow0cRIYzQnJeLXKM",
-    "name": "Bistro André",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Geraardsbergen",
-    "address": "Bistro André, Wijngaardstraat 38, 9500 Geraardsbergen",
-    "street": "Wijngaardstraat 38",
-    "postal_code": "9500",
-    "region": null,
-    "latitude": 50.772981099999996,
-    "longitude": 3.8763296,
-    "phone": "054 41 50 83",
-    "website": "http://www.bistroandre.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bistro%20Andr%C3%A9&query_place_id=ChIJk3UFjaKow0cRIYzQnJeLXKM",
-    "open_hours_json": {
-      "Monday": [
-        "11:30 am–2 pm",
-        "6:30–10 pm"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "11:30 am–2 pm",
-        "6:30–10 pm"
-      ],
-      "Friday": [
-        "11:30 am–2 pm",
-        "6:30–10 pm"
-      ],
-      "Saturday": [
-        "6:30–10 pm"
-      ],
-      "Sunday": [
-        "12–2 pm",
-        "6:30–10 pm"
-      ]
-    },
-    "review_count": 361,
-    "rating": 4.5,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfBZdUo3If1UFj2LAT_Hji6Ya1I9O_P0TP2ztMOhLICnxTGUq2o25PvPkPUZDIXInwAr8Zlkq7WKRVgqMdxdMSjVm4ZGVB9YtwTA7ALQwhRpgty8qLFlj4mpwyWSrMTB6_T6GZREQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfBZdUo3If1UFj2LAT_Hji6Ya1I9O_P0TP2ztMOhLICnxTGUq2o25PvPkPUZDIXInwAr8Zlkq7WKRVgqMdxdMSjVm4ZGVB9YtwTA7ALQwhRpgty8qLFlj4mpwyWSrMTB6_T6GZREQ=w1000-h750-no",
-    "source_query": "Halal restaurant in Geraardsbergen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJr3DND5-ow0cRddmBuaR36_M",
-    "name": "Bon'Ap Geraardsbergen - met Buurtslagers",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Geraardsbergen",
-    "address": "Bon'Ap Geraardsbergen - met Buurtslagers, Zonnebloemstraat 2, 9500 Geraardsbergen",
-    "street": "Zonnebloemstraat 2",
-    "postal_code": "9500",
-    "region": null,
-    "latitude": 50.778329799999995,
-    "longitude": 3.8739169999999996,
-    "phone": "054 41 96 43",
-    "website": "https://www.bonap.be/nl?utm_medium=organic&utm_source=googlemijnbedrijf&utm_campaign=GER_ZON",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bon%27Ap%20Geraardsbergen%20-%20met%20Buurtslagers&query_place_id=ChIJr3DND5-ow0cRddmBuaR36_M",
-    "open_hours_json": {
-      "Monday": [
-        "8 am–6:30 pm"
-      ],
-      "Tuesday": [
-        "8 am–6:30 pm"
-      ],
-      "Wednesday": [
-        "8 am–6:30 pm"
-      ],
-      "Thursday": [
-        "8 am–6:30 pm"
-      ],
-      "Friday": [
-        "8 am–7 pm"
-      ],
-      "Saturday": [
-        "8 am–6:30 pm"
-      ],
-      "Sunday": [
-        "9 am–1 pm"
-      ]
-    },
-    "review_count": 256,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcJgHAkmeJ3UBz4tyojR5VZ-vNMVhjqI3fBFEyQWsMPfFwwD7x1rA94GwtKKv-wurC8BB1-c6Lco7DYPaLzmEoWo2gRkJrE3VLcIFOnn614Zd9i7PSDZgifezP3NrM3dMGlh3WhAQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcJgHAkmeJ3UBz4tyojR5VZ-vNMVhjqI3fBFEyQWsMPfFwwD7x1rA94GwtKKv-wurC8BB1-c6Lco7DYPaLzmEoWo2gRkJrE3VLcIFOnn614Zd9i7PSDZgifezP3NrM3dMGlh3WhAQ=w1000-h750-no",
-    "source_query": "Halal restaurant in Geraardsbergen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJjU2CdVCkw0cRs-tPzsgMf9w",
-    "name": "Break@4 Eetkaffee",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Geraardsbergen",
-    "address": "Break@4 Eetkaffee, Ankerstraat 30, 9506 Geraardsbergen",
-    "street": "Ankerstraat 30",
-    "postal_code": "9506",
-    "region": null,
-    "latitude": 50.799298799999995,
-    "longitude": 3.9280128999999997,
-    "phone": "0495 38 21 83",
-    "website": "https://www.break4.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Break%404%20Eetkaffee&query_place_id=ChIJjU2CdVCkw0cRs-tPzsgMf9w",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "6–9 pm"
-      ],
-      "Friday": [
-        "12–9 pm"
-      ],
-      "Saturday": [
-        "12–9 pm"
-      ],
-      "Sunday": [
-        "11 am–9 pm"
-      ]
-    },
-    "review_count": 242,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdGVTp8idoAHUPqXpTcb8ogZ1BVQ1Tgl4oXBF2hG8V0PqXhhtdFqRNI6Lha5_xRg6vqBbTsMmA1tIz85lSc2YBdeTLu6FigQ7jxLodmS5iVnLGb0-HLH_z9qDLRA4DAQXfNlw-bKw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdGVTp8idoAHUPqXpTcb8ogZ1BVQ1Tgl4oXBF2hG8V0PqXhhtdFqRNI6Lha5_xRg6vqBbTsMmA1tIz85lSc2YBdeTLu6FigQ7jxLodmS5iVnLGb0-HLH_z9qDLRA4DAQXfNlw-bKw=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Geraardsbergen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJz824uaSow0cRN9gpOG8K5iU",
-    "name": "China Paleis",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Geraardsbergen",
-    "address": "China Paleis, Markt 10, 9500 Geraardsbergen",
-    "street": "Markt 10",
-    "postal_code": "9500",
-    "region": null,
-    "latitude": 50.7718231,
-    "longitude": 3.8832668,
-    "phone": "054 43 86 68",
-    "website": "https://www.chinapaleis.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=China%20Paleis&query_place_id=ChIJz824uaSow0cRN9gpOG8K5iU",
-    "open_hours_json": {
-      "Monday": [
-        "12–2:30 pm",
-        "5:30–10:30 pm"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "12–2:30 pm",
-        "5:30–10:30 pm"
-      ],
-      "Thursday": [
-        "12–2:30 pm",
-        "5:30–10:30 pm"
-      ],
-      "Friday": [
-        "12–2:30 pm",
-        "5:30–11 pm"
-      ],
-      "Saturday": [
-        "12–2:30 pm",
-        "5:30–11 pm"
-      ],
-      "Sunday": [
-        "12–2:30 pm",
-        "5:30–10:30 pm"
-      ]
-    },
-    "review_count": 389,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfLNNDVsP1g0k-aiISJZLIAyoT72BgQ9tahv8CDjB4v71EqFjmOtyj-oBkVvpnvrmRKyF7XRSZEWVtPUFFMeu44WIO7VuA-vHfM-Yjp_KPdCS-zAH21JyIM7nsNSrn4ORbWEz5Nmg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfLNNDVsP1g0k-aiISJZLIAyoT72BgQ9tahv8CDjB4v71EqFjmOtyj-oBkVvpnvrmRKyF7XRSZEWVtPUFFMeu44WIO7VuA-vHfM-Yjp_KPdCS-zAH21JyIM7nsNSrn4ORbWEz5Nmg=w1000-h750-no",
-    "source_query": "Halal restaurant in Geraardsbergen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJSf5ZeU2pw0cRrXOI2kHJJzk",
-    "name": "Domino's pizza Geraardsbergen",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Geraardsbergen",
-    "address": "Domino's pizza Geraardsbergen, Oudenaardsestraat 23, 9500 Geraardsbergen",
-    "street": "Oudenaardsestraat 23",
-    "postal_code": "9500",
-    "region": null,
-    "latitude": 50.7718837,
-    "longitude": 3.8750289999999996,
-    "phone": "054 48 08 00",
-    "website": "https://www.dominos.be/?utm_source=google&utm_medium=local&utm_campaign=yext",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domino%27s%20pizza%20Geraardsbergen&query_place_id=ChIJSf5ZeU2pw0cRrXOI2kHJJzk",
-    "open_hours_json": {
-      "Monday": [
-        "11 am–10 pm"
-      ],
-      "Tuesday": [
-        "11 am–10 pm"
-      ],
-      "Wednesday": [
-        "11 am–10 pm"
-      ],
-      "Thursday": [
-        "11 am–10 pm"
-      ],
-      "Friday": [
-        "11 am–11 pm"
-      ],
-      "Saturday": [
-        "11 am–11 pm"
-      ],
-      "Sunday": [
-        "11 am–10 pm"
-      ]
-    },
-    "review_count": 298,
-    "rating": 3.8,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdWODBtfViHCiEodLDpF0-4V9rM_XjvMcZzXf8eDRAP6f9lGFQ24Kl3URNPoLiQLZWJFwCpJYADWX1FjQGwubePqwEAxhLRplGsWBkezUO37N8g53Cn8P7kKb72EMtVeDIrih-8=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdWODBtfViHCiEodLDpF0-4V9rM_XjvMcZzXf8eDRAP6f9lGFQ24Kl3URNPoLiQLZWJFwCpJYADWX1FjQGwubePqwEAxhLRplGsWBkezUO37N8g53Cn8P7kKb72EMtVeDIrih-8=w1000-h750-no",
-    "source_query": "Halal restaurant in Geraardsbergen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJpYya6oCmw0cRJbTZ7QyNr7I",
-    "name": "Eethuis De Lantaarn",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Geraardsbergen",
-    "address": "Eethuis De Lantaarn, Hasseltsestraat 20, 9500 Geraardsbergen",
-    "street": "Hasseltsestraat 20",
-    "postal_code": "9500",
-    "region": null,
-    "latitude": 50.822692499999995,
-    "longitude": 3.8983279,
-    "phone": "054 50 04 38",
-    "website": "http://www.eethuisdelantaarn.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Eethuis%20De%20Lantaarn&query_place_id=ChIJpYya6oCmw0cRJbTZ7QyNr7I",
-    "open_hours_json": {
-      "Monday": [
-        "11:30 am–2 pm",
-        "6–9 pm"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "Closed"
-      ],
-      "Friday": [
-        "6–9 pm"
-      ],
-      "Saturday": [
-        "6–9 pm"
-      ],
-      "Sunday": [
-        "11:30 am–2 pm",
-        "6–9 pm"
-      ]
-    },
-    "review_count": 85,
-    "rating": 4.5,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLenhUisQHEyBPWM_iGJHJuVRk78lB2VeY1VFZfs6OOBN1LSzl11HebWOdYGCDi5MH-JAOB9QflnbvsvWPt7kcBIKrl9jv6MpM0F40MSEFF3zj05uXrD7I8f5wr1WkkFvO7eA-LUag=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLenhUisQHEyBPWM_iGJHJuVRk78lB2VeY1VFZfs6OOBN1LSzl11HebWOdYGCDi5MH-JAOB9QflnbvsvWPt7kcBIKrl9jv6MpM0F40MSEFF3zj05uXrD7I8f5wr1WkkFvO7eA-LUag=w1000-h750-no",
-    "source_query": "Halal restaurant in Geraardsbergen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJQT-89Pmpw0cRQ5KwB1GuS48",
-    "name": "Food Clinic",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Geraardsbergen",
-    "address": "Food Clinic, Gasthuisstraat 4, 9500 Geraardsbergen",
-    "street": "Gasthuisstraat 4",
-    "postal_code": "9500",
-    "region": null,
-    "latitude": 50.770776999999995,
-    "longitude": 3.8772982999999996,
-    "phone": "0473 97 06 39",
-    "website": "https://www.facebook.com/Food-Clinic-252734595675391/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Food%20Clinic&query_place_id=ChIJQT-89Pmpw0cRQ5KwB1GuS48",
-    "open_hours_json": {
-      "Monday": [
-        "10 am–8 pm"
-      ],
-      "Tuesday": [
-        "10 am–8 pm"
-      ],
-      "Wednesday": [
-        "10 am–8 pm"
-      ],
-      "Thursday": [
-        "11 am–8 pm"
-      ],
-      "Friday": [
-        "10 am–10 pm"
-      ],
-      "Saturday": [
-        "Closed"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 54,
-    "rating": 4.4,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLccwCDF1JDwV1GnImSke-xJ_NE7-vF9RRfipWu1YKmczVD8uyKyMh0SpjH3Kdk42SoV1mu-1lCWPsIOwIh6BKPKSb_q0zvWmVgQY56p5us6AqI_pBDK0sMiw7Q4iZNELQzbQ0vj1Q=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLccwCDF1JDwV1GnImSke-xJ_NE7-vF9RRfipWu1YKmczVD8uyKyMh0SpjH3Kdk42SoV1mu-1lCWPsIOwIh6BKPKSb_q0zvWmVgQY56p5us6AqI_pBDK0sMiw7Q4iZNELQzbQ0vj1Q=w1000-h750-no",
-    "source_query": "Halal restaurant in Geraardsbergen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJW-ziA6Oow0cRs6dMb1bdu5A",
-    "name": "Lathee",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Geraardsbergen",
-    "address": "Lathee, Karmelietenstraat 2, 9500 Geraardsbergen",
-    "street": "Karmelietenstraat 2",
-    "postal_code": "9500",
-    "region": null,
-    "latitude": 50.7732138,
-    "longitude": 3.8784826999999997,
-    "phone": "0477 21 27 53",
-    "website": "http://www.lathee.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Lathee&query_place_id=ChIJW-ziA6Oow0cRs6dMb1bdu5A",
-    "open_hours_json": {
-      "Monday": [
-        "9 am–2 pm"
-      ],
-      "Tuesday": [
-        "9 am–2 pm"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "9 am–2 pm"
-      ],
-      "Friday": [
-        "9 am–2 pm"
-      ],
-      "Saturday": [
-        "10 am–1 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 131,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe-ExERbUiON0HoO9bsrD7qJCPU8KwzqjzdfJCI4gm1_DxCjSpfSP2i82IFDAuLjHX82D3QBQuQ6zz5IkCJFjyCg7s5UGz68frZ3xLTOz1Hht3coxwdNUgfsIeMImsS4Rz0tBEPcA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe-ExERbUiON0HoO9bsrD7qJCPU8KwzqjzdfJCI4gm1_DxCjSpfSP2i82IFDAuLjHX82D3QBQuQ6zz5IkCJFjyCg7s5UGz68frZ3xLTOz1Hht3coxwdNUgfsIeMImsS4Rz0tBEPcA=w1000-h750-no",
-    "source_query": "Halal restaurant in Geraardsbergen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJKXcGMdqpw0cR_DIMnKOpBz8",
-    "name": "My Lunchtime",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Geraardsbergen",
-    "address": "My Lunchtime, Gasthuisstraat 100/104, 9500 Geraardsbergen",
-    "street": "Gasthuisstraat 100/104",
-    "postal_code": "9500",
-    "region": null,
-    "latitude": 50.766835,
-    "longitude": 3.8735446999999996,
-    "phone": "0494 52 66 65",
-    "website": "https://www.my-lunchtime.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=My%20Lunchtime&query_place_id=ChIJKXcGMdqpw0cR_DIMnKOpBz8",
-    "open_hours_json": {
-      "Monday": [
-        "12–5 pm"
-      ],
-      "Tuesday": [
-        "12–5 pm"
-      ],
-      "Wednesday": [
-        "12–5 pm"
-      ],
-      "Thursday": [
-        "12–5 pm"
-      ],
-      "Friday": [
-        "12–5 pm"
-      ],
-      "Saturday": [
-        "12–5 pm"
-      ],
-      "Sunday": [
-        "12–5 pm"
-      ]
-    },
-    "review_count": 18,
-    "rating": 4.8,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeSh4Oe2lhxnVg9E2qUfeTPa6hQRb-UC_orZ22dObruckutifyobUNDZoHghGNd4QFUoOGdNgmzvHlvyGSnj7_iGq7Jov1w8HalC_Ohfg8eI1-AvrygaVqth5PY75avh5kZd9JOMg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeSh4Oe2lhxnVg9E2qUfeTPa6hQRb-UC_orZ22dObruckutifyobUNDZoHghGNd4QFUoOGdNgmzvHlvyGSnj7_iGq7Jov1w8HalC_Ohfg8eI1-AvrygaVqth5PY75avh5kZd9JOMg=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Geraardsbergen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJeQCt0a2ow0cRJRduWmekGb8",
-    "name": "Oudenberghof",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Geraardsbergen",
-    "address": "Oudenberghof, Edingseweg 13, 9500 Geraardsbergen",
-    "street": "Edingseweg 13",
-    "postal_code": "9500",
-    "region": null,
-    "latitude": 50.7725067,
-    "longitude": 3.8936414999999998,
-    "phone": "054 41 28 54",
-    "website": "http://www.oudenberghof.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Oudenberghof&query_place_id=ChIJeQCt0a2ow0cRJRduWmekGb8",
-    "open_hours_json": {
-      "Monday": [
-        "11:30 am–9 pm"
-      ],
-      "Tuesday": [
-        "11:30 am–9 pm"
-      ],
-      "Wednesday": [
-        "11:30 am–9 pm"
-      ],
-      "Thursday": [
-        "11:30 am–9 pm"
-      ],
-      "Friday": [
-        "11:30 am–9 pm"
-      ],
-      "Saturday": [
-        "11:30 am–9 pm"
-      ],
-      "Sunday": [
-        "11:30 am–9 pm"
-      ]
-    },
-    "review_count": 1309,
-    "rating": 3.9,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfz02xibftSqkjnkD-ovZ_-VUjywKyFSS65-3tD7oWIAlF3QEdzNPDbwtWkOh-_LCfujHMI5Cblb_P8TyGe-rPGH8NPnD_LC-xEKGtUX7SHcWsiuNTpsEjFpELrHdQYUrQ5DfU4EQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfz02xibftSqkjnkD-ovZ_-VUjywKyFSS65-3tD7oWIAlF3QEdzNPDbwtWkOh-_LCfujHMI5Cblb_P8TyGe-rPGH8NPnD_LC-xEKGtUX7SHcWsiuNTpsEjFpELrHdQYUrQ5DfU4EQ=w1000-h750-no",
-    "source_query": "Halal restaurant in Geraardsbergen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
   }
 ]

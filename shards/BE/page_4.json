@@ -1,5 +1,215 @@
 [
   {
+    "place_id": "ChIJW5AKfPKx6kcRqFiaiPybA1o",
+    "name": "Épicerie Eco Famille",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Arlon",
+    "address": "Épicerie Eco Famille, Grand-Rue 62, 6700 Arlon",
+    "street": "Grand-Rue 62",
+    "postal_code": "6700",
+    "region": null,
+    "latitude": 49.6832371,
+    "longitude": 5.8154997999999996,
+    "phone": "063 57 89 66",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%C3%89picerie%20Eco%20Famille&query_place_id=ChIJW5AKfPKx6kcRqFiaiPybA1o",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "10:30 am–8 pm"
+      ],
+      "Wednesday": [
+        "10:30 am–8 pm"
+      ],
+      "Thursday": [
+        "10:30 am–8 pm"
+      ],
+      "Friday": [
+        "10:30 am–8 pm"
+      ],
+      "Saturday": [
+        "10:30 am–8 pm"
+      ],
+      "Sunday": [
+        "2–8 pm"
+      ]
+    },
+    "review_count": 22,
+    "rating": 4.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcar-Agkk8sHSnvGOcQhJDEZxWx8LrwJIlf6xr6ansv-ICRIFBNqdmQCsVsupYuWbP-RqS3V-z3RgWS5HDqslJ1Uzb-gZe895GEpak0NMEtaEQWMHbWXvYTmfMMaXgHHkWih39x=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcar-Agkk8sHSnvGOcQhJDEZxWx8LrwJIlf6xr6ansv-ICRIFBNqdmQCsVsupYuWbP-RqS3V-z3RgWS5HDqslJ1Uzb-gZe895GEpak0NMEtaEQWMHbWXvYTmfMMaXgHHkWih39x=w1000-h750-no",
+    "source_query": "Halal restaurant in Arlon, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJQe5k4_jX3EcRrrbG0yylxFI",
+    "name": "Allo Couscous",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "FR",
+    "country_code": "FR",
+    "city": "Armentières",
+    "address": "Allo Couscous, 66 Rue de Dunkerque, 59280 Armentières, France",
+    "street": "66 Rue de Dunkerque",
+    "postal_code": "59280",
+    "region": null,
+    "latitude": 50.689744399999995,
+    "longitude": 2.8797558999999997,
+    "phone": "+33 3 20 73 63 03",
+    "website": "https://www.allocouscous.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Allo%20Couscous&query_place_id=ChIJQe5k4_jX3EcRrrbG0yylxFI",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "11 am–2 pm",
+        "5:30–9:30 pm"
+      ],
+      "Wednesday": [
+        "11 am–2 pm",
+        "5:30–9:30 pm"
+      ],
+      "Thursday": [
+        "11 am–2 pm",
+        "5:30–9:30 pm"
+      ],
+      "Friday": [
+        "11 am–2 pm",
+        "5:30–9:30 pm"
+      ],
+      "Saturday": [
+        "11 am–2 pm",
+        "5:30–9:30 pm"
+      ],
+      "Sunday": [
+        "11 am–2 pm",
+        "5:30–9:30 pm"
+      ]
+    },
+    "review_count": 61,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdNLqgM9Rb1eFnDtMIS1YoLb_tyXXLDPbwJCJRB5zy02PovR-HFouvZyBlCPYZJL4HJ8LLJo5dUZJTYkWXU7JxJLC3SUc7Q6QeY9AO20zb0eLujmwHUESjhjS0bIlMvuqfmijPj=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdNLqgM9Rb1eFnDtMIS1YoLb_tyXXLDPbwJCJRB5zy02PovR-HFouvZyBlCPYZJL4HJ8LLJo5dUZJTYkWXU7JxJLC3SUc7Q6QeY9AO20zb0eLujmwHUESjhjS0bIlMvuqfmijPj=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Warneton, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ9VJuzKPX3EcRG0FHT1_koGQ",
+    "name": "Banger House (Smashburgers)",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "FR",
+    "country_code": "FR",
+    "city": "Armentières",
+    "address": "Banger House (Smashburgers), 107 Rue de Dunkerque, 59280 Armentières, France",
+    "street": "107 Rue de Dunkerque",
+    "postal_code": "59280",
+    "region": null,
+    "latitude": 50.6897496,
+    "longitude": 2.8785768999999997,
+    "phone": "+33 3 59 52 72 38",
+    "website": "https://www.ubereats.com/fr/store/banger-house/FkPVBARqSXOv5abF5HpFIQ?srsltid=AfmBOoq5bNFKGNaS2-BqK8sJNGXl1ZR5wlWce_LpVq3lEYAq4myN6_nt",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Banger%20House%20%28Smashburgers%29&query_place_id=ChIJ9VJuzKPX3EcRG0FHT1_koGQ",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "11:30 am–2 pm",
+        "6:30–10 pm"
+      ],
+      "Wednesday": [
+        "11:30 am–2 pm",
+        "6:30–10 pm"
+      ],
+      "Thursday": [
+        "11:30 am–2 pm",
+        "6:30–10 pm"
+      ],
+      "Friday": [
+        "11:30 am–2 pm",
+        "7–11 pm"
+      ],
+      "Saturday": [
+        "7–11 pm"
+      ],
+      "Sunday": [
+        "7–10 pm"
+      ]
+    },
+    "review_count": 174,
+    "rating": 4.9,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfL9gZ9fM3Fcg5CyBDA4ui5LQWur-eBhLEQRhLIl-l6K8vW2h0OvpoE5JU54eBViR0SAci4EXpqZHGL-OZqHq9bjcC51ouuXfqONCQsVa9NnmzX6FjaHeteYxkJdRptF6AlUxPiFR2jw-jN=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfL9gZ9fM3Fcg5CyBDA4ui5LQWur-eBhLEQRhLIl-l6K8vW2h0OvpoE5JU54eBViR0SAci4EXpqZHGL-OZqHq9bjcC51ouuXfqONCQsVa9NnmzX6FjaHeteYxkJdRptF6AlUxPiFR2jw-jN=w1000-h750-no",
+    "source_query": "Halal restaurant in Warneton, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata"
+  },
+  {
+    "place_id": "ChIJi3SK0HbX3EcRCrVkRqdCoBU",
+    "name": "Grill Antalya",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "FR",
+    "country_code": "FR",
+    "city": "Armentières",
+    "address": "Grill Antalya, 158 Rue RN Av. François Mitterrand, 59280 Armentières, France",
+    "street": "158 Rue RN Av. François Mitterrand",
+    "postal_code": "59280",
+    "region": null,
+    "latitude": 50.689685,
+    "longitude": 2.8781127,
+    "phone": "+33 6 14 90 75 08",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Grill%20Antalya&query_place_id=ChIJi3SK0HbX3EcRCrVkRqdCoBU",
+    "open_hours_json": {
+      "Monday": [
+        "11 am–11 pm"
+      ],
+      "Tuesday": [
+        "11 am–11 pm"
+      ],
+      "Wednesday": [
+        "11 am–11 pm"
+      ],
+      "Thursday": [
+        "11 am–11 pm"
+      ],
+      "Friday": [
+        "11 am–12 am"
+      ],
+      "Saturday": [
+        "11 am–12 am"
+      ],
+      "Sunday": [
+        "11 am–11 pm"
+      ]
+    },
+    "review_count": 97,
+    "rating": 4.0,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc-FNjdNXueJetj-fxb5exccScfX57Nb-AZU7aE_Re3pJsuay-dBHTZ_C4gz2wkcispnzp8D59Y2_5pYucMWMfzic8PxGMtAlHGxSY-_0zSSLz60vGhuiraqwqnous81trfgPW8ZvRwWcrB=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc-FNjdNXueJetj-fxb5exccScfX57Nb-AZU7aE_Re3pJsuay-dBHTZ_C4gz2wkcispnzp8D59Y2_5pYucMWMfzic8PxGMtAlHGxSY-_0zSSLz60vGhuiraqwqnous81trfgPW8ZvRwWcrB=w1000-h750-no",
+    "source_query": "Halal restaurant in Warneton, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJvfCbu4nW3EcRdQdXxkoso20",
     "name": "Le Roi du Couscous",
     "type": "restaurant",
@@ -11660,206 +11870,6 @@
     "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RmyZxohgqWXqJ1XdTFpDyg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=71.90597&pitch=0&thumbfov=w1000-h750-no",
     "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RmyZxohgqWXqJ1XdTFpDyg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=71.90597&pitch=0&thumbfov=w1000-h750-no",
     "source_query": "Moroccan restaurant in Bilzen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJLzSQI1PhwEcR864ijmJclgk",
-    "name": "ÖZ Market",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Bilzen-Hoeselt",
-    "address": "ÖZ Market, Genutstraat 2, 3740 Bilzen-Hoeselt",
-    "street": "Genutstraat 2",
-    "postal_code": "3740",
-    "region": null,
-    "latitude": 50.870990199999994,
-    "longitude": 5.515276699999999,
-    "phone": "0489 50 58 43",
-    "website": "https://www.ozmarket.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%C3%96Z%20Market&query_place_id=ChIJLzSQI1PhwEcR864ijmJclgk",
-    "open_hours_json": {
-      "Monday": [
-        "9 am–7 pm"
-      ],
-      "Tuesday": [
-        "9 am–7 pm"
-      ],
-      "Wednesday": [
-        "9 am–7 pm"
-      ],
-      "Thursday": [
-        "9 am–7 pm"
-      ],
-      "Friday": [
-        "9 am–7 pm"
-      ],
-      "Saturday": [
-        "9 am–7 pm"
-      ],
-      "Sunday": [
-        "9 am–7 pm"
-      ]
-    },
-    "review_count": 35,
-    "rating": 4.8,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLej7AuC_1UM7QcAsbXCCA8DVRIjTd4AbAuu6aa8Jx0DU5KxrDKOr61l6jfvuz_Fr0UuYCF8NkbPXIzy763RWAyu_c5uO9pmHpy_F__rSYnmD7IgLbYjy8ocNbSW1-8gkzBBbOP6=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLej7AuC_1UM7QcAsbXCCA8DVRIjTd4AbAuu6aa8Jx0DU5KxrDKOr61l6jfvuz_Fr0UuYCF8NkbPXIzy763RWAyu_c5uO9pmHpy_F__rSYnmD7IgLbYjy8ocNbSW1-8gkzBBbOP6=w1000-h750-no",
-    "source_query": "Hypermarket in Bilzen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJI1z16Gs4wkcRH8diCjJBex0",
-    "name": "Alimentation Generale",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Binche",
-    "address": "Alimentation Generale, 7130 Binche",
-    "street": null,
-    "postal_code": "7130",
-    "region": null,
-    "latitude": 50.4141051,
-    "longitude": 4.163772799999999,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Alimentation%20Generale&query_place_id=ChIJI1z16Gs4wkcRH8diCjJBex0",
-    "open_hours_json": {
-      "Monday": [
-        "8:30 am–7 pm"
-      ],
-      "Tuesday": [
-        "8:30 am–7 pm"
-      ],
-      "Wednesday": [
-        "8:30 am–7 pm"
-      ],
-      "Thursday": [
-        "8:30 am–7 pm"
-      ],
-      "Friday": [
-        "8:30 am–7 pm"
-      ],
-      "Saturday": [
-        "8:30 am–7 pm"
-      ],
-      "Sunday": [
-        "8:30 am–1 pm"
-      ]
-    },
-    "review_count": 1,
-    "rating": 5.0,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=bXBx3fUp1cPoQMWIz5ky_A&cb_client=search.gws-prod.grass&w=80&h=92&yaw=327.32004&pitch=-0.31197053&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=bXBx3fUp1cPoQMWIz5ky_A&cb_client=search.gws-prod.grass&w=80&h=92&yaw=327.32004&pitch=-0.31197053&thumbfov=w1000-h750-no",
-    "source_query": "Hypermarket in Binche, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJczzHSD44wkcRGWPzQ9rdy7Y",
-    "name": "Collect&Go Binche",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Binche",
-    "address": "Collect&Go Binche, Rue Zéphirin Fontaine 162, 7130 Binche",
-    "street": "Rue Zéphirin Fontaine 162",
-    "postal_code": "7130",
-    "region": null,
-    "latitude": 50.422151899999996,
-    "longitude": 4.1714117,
-    "phone": "02 363 50 05",
-    "website": "https://www.collectandgo.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Collect%26Go%20Binche&query_place_id=ChIJczzHSD44wkcRGWPzQ9rdy7Y",
-    "open_hours_json": {
-      "Monday": [
-        "8 am–8:30 pm"
-      ],
-      "Tuesday": [
-        "8 am–8:30 pm"
-      ],
-      "Wednesday": [
-        "8 am–8:30 pm"
-      ],
-      "Thursday": [
-        "8 am–8:30 pm"
-      ],
-      "Friday": [
-        "8 am–9 pm"
-      ],
-      "Saturday": [
-        "8 am–8:30 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 11,
-    "rating": 4.3,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zDqLDp3oW5yTEoXEXR2ZmQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=275.63034&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zDqLDp3oW5yTEoXEXR2ZmQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=275.63034&pitch=0&thumbfov=w1000-h750-no",
-    "source_query": "Hypermarket in Binche, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ6fN5QC85wkcRWIGACu4PUxc",
-    "name": "Dim Sum - Magasin asiatique",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Binche",
-    "address": "Dim Sum - Magasin asiatique, Rue de Robiano 30, 7130 Binche",
-    "street": "Rue de Robiano 30",
-    "postal_code": "7130",
-    "region": null,
-    "latitude": 50.4108769,
-    "longitude": 4.168606,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Dim%20Sum%20-%20Magasin%20asiatique&query_place_id=ChIJ6fN5QC85wkcRWIGACu4PUxc",
-    "open_hours_json": {
-      "Monday": [
-        "2–6 pm"
-      ],
-      "Tuesday": [
-        "10 am–6 pm"
-      ],
-      "Wednesday": [
-        "10 am–6 pm"
-      ],
-      "Thursday": [
-        "10 am–6 pm"
-      ],
-      "Friday": [
-        "10 am–6 pm"
-      ],
-      "Saturday": [
-        "10 am–6 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 7,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf7U8Wl303n3BLkj1IQafhifZ0nhQ7uEmiftP85qYAkoyOHaiI9aKRlYrK3FOi6VmKnsDp0y_WFJokrB-fFMal1jmMbVnR50Y-zOZEaTEX2g7TAoXZanj19DP_KyegkYbo5h00Dfg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf7U8Wl303n3BLkj1IQafhifZ0nhQ7uEmiftP85qYAkoyOHaiI9aKRlYrK3FOi6VmKnsDp0y_WFJokrB-fFMal1jmMbVnR50Y-zOZEaTEX2g7TAoXZanj19DP_KyegkYbo5h00Dfg=w1000-h750-no",
-    "source_query": "Hypermarket in Binche, Wallonia, BE",
     "moderation_status": "approved",
     "is_active": true,
     "verification_status": "UNVERIFIED",

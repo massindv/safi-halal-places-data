@@ -1,5 +1,954 @@
 [
   {
+    "place_id": "ChIJdUz6Hxf7wEcRQTGiHRy99B8",
+    "name": "CHINGOO - Asian Street Food",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Liège",
+    "address": "CHINGOO - Asian Street Food, Rue Sur-la-Fontaine 116, 4000 Liège",
+    "street": "Rue Sur-la-Fontaine 116",
+    "postal_code": "4000",
+    "region": null,
+    "latitude": 50.6400966,
+    "longitude": 5.5679321999999996,
+    "phone": "04 223 59 88",
+    "website": "http://chingoo.squarespace.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=CHINGOO%20-%20Asian%20Street%20Food&query_place_id=ChIJdUz6Hxf7wEcRQTGiHRy99B8",
+    "open_hours_json": {
+      "Monday": [
+        "12–9:30 pm"
+      ],
+      "Tuesday": [
+        "12–3 pm",
+        "4–9:30 pm"
+      ],
+      "Wednesday": [
+        "12–3 pm",
+        "4–9:30 pm"
+      ],
+      "Thursday": [
+        "12–9:30 pm"
+      ],
+      "Friday": [
+        "12–9:30 pm"
+      ],
+      "Saturday": [
+        "12:30–3:15 pm",
+        "4:30–9:30 pm"
+      ],
+      "Sunday": [
+        "12:30–3:15 pm",
+        "4:30–9:30 pm"
+      ]
+    },
+    "review_count": 222,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfYLfty7nO3UVAqg4-CegqUTZC4KZLK3TW2kAvT07JofMOpjQsIKhDBd03C9QqT5a_x6FevZ2yB3VtpMBPwCajkQenC2G_YpmzM9cqMpJZ2gS_3bL3heIZ_A9vAgvEoElFY4esD=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfYLfty7nO3UVAqg4-CegqUTZC4KZLK3TW2kAvT07JofMOpjQsIKhDBd03C9QqT5a_x6FevZ2yB3VtpMBPwCajkQenC2G_YpmzM9cqMpJZ2gS_3bL3heIZ_A9vAgvEoElFY4esD=w1000-h750-no",
+    "source_query": "Halal restaurant in Liège, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJicMPrBH6wEcRoSHGLDNDjSI",
+    "name": "COURT-CIRCUIT, le marché des producteurs locaux",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Liège",
+    "address": "COURT-CIRCUIT, le marché des producteurs locaux, Pl. de la Cathédrale, 4000 Liège",
+    "street": "Pl. de la Cathédrale",
+    "postal_code": "4000",
+    "region": null,
+    "latitude": 50.6408707,
+    "longitude": 5.571936099999999,
+    "phone": "04 221 92 29",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=COURT-CIRCUIT%2C%20le%20march%C3%A9%20des%20producteurs%20locaux&query_place_id=ChIJicMPrBH6wEcRoSHGLDNDjSI",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "12–6 pm"
+      ],
+      "Friday": [
+        "Closed"
+      ],
+      "Saturday": [
+        "Closed"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 15,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeGiFkM71LdyJ5GLIQiX-YO4_R9nv7EcteUv0ehy3hCOShwrGXpjGVE6d_6eNPXTiMlm2kV0eWdEyHZHCba1eXI4crpjkOESDjTYHGJUs_SsPfiDzefBCm2asuNEsO22Ofzt3fqXw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeGiFkM71LdyJ5GLIQiX-YO4_R9nv7EcteUv0ehy3hCOShwrGXpjGVE6d_6eNPXTiMlm2kV0eWdEyHZHCba1eXI4crpjkOESDjTYHGJUs_SsPfiDzefBCm2asuNEsO22Ofzt3fqXw=w1000-h750-no",
+    "source_query": "Hypermarket in Liège, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJB5Ftgrv5wEcR0OhYXGmQiVM",
+    "name": "Casta",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Liège",
+    "address": "Casta, Ave Blonden 72, 4000 Liège",
+    "street": "Ave Blonden 72",
+    "postal_code": "4000",
+    "region": null,
+    "latitude": 50.628047699999996,
+    "longitude": 5.5713706,
+    "phone": "02 502 20 16",
+    "website": "http://thelobsterhouse.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Casta&query_place_id=ChIJB5Ftgrv5wEcR0OhYXGmQiVM",
+    "open_hours_json": null,
+    "review_count": 0,
+    "rating": null,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vlxDs_bbJQwN_Y4OR40-sg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=221.59494&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vlxDs_bbJQwN_Y4OR40-sg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=221.59494&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Fish restaurant in Liège, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJL-7nrTP6wEcR3AS6KBxRbrs",
+    "name": "Centre Culturel Bilal Liege",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Liège",
+    "address": "Centre Culturel Bilal Liege, Rue Emile Vandervelde 292, 4000 Liège",
+    "street": "Rue Emile Vandervelde 292",
+    "postal_code": "4000",
+    "region": null,
+    "latitude": 50.6452574,
+    "longitude": 5.5394494,
+    "phone": "04 225 07 59",
+    "website": "https://ccbl.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Centre%20Culturel%20Bilal%20Liege&query_place_id=ChIJL-7nrTP6wEcR3AS6KBxRbrs",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeAM-0-gdpCn51197tvTG5RRm65mSqSMxtybW-mvMXyTIJZSWMM6cEpY3sarb14IaOKgT4YWCjFqfA69kxZjOTRAl0acxgw71qLBb2TOj44f9f_yQtC9lX8L7XO6aKwcric7YSDB3-r3HA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeAM-0-gdpCn51197tvTG5RRm65mSqSMxtybW-mvMXyTIJZSWMM6cEpY3sarb14IaOKgT4YWCjFqfA69kxZjOTRAl0acxgw71qLBb2TOj44f9f_yQtC9lX8L7XO6aKwcric7YSDB3-r3HA=w1000-h750-no",
+    "rating": 4.8,
+    "review_count": 92,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJWwGkrHHxwEcRAKHa7Inzjgw",
+    "name": "Centre culturel pakistanais - mosquée Ya Rassulullah",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Liège",
+    "address": "Centre culturel pakistanais - mosquée Ya Rassulullah, Rue aux Chevaux 35a, 4000 Liège",
+    "street": "Rue aux Chevaux 35a",
+    "postal_code": "4000",
+    "region": null,
+    "latitude": 50.652665,
+    "longitude": 5.604887,
+    "phone": "0489 87 18 68",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Centre%20culturel%20pakistanais%20-%20mosqu%C3%A9e%20Ya%20Rassulullah&query_place_id=ChIJWwGkrHHxwEcRAKHa7Inzjgw",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcuHfhsi_5NMUCLpwgwhfDaLw-sT_KL2WJY4VW0WcI7WafmrVrpO5Es5elC2AJ2AXNrrniIiinQiHg0hL4FM6EEMttH61rLgtqODvXqUzxkH4O9OJ0tILEOhY97iwo9gUdos_rP=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcuHfhsi_5NMUCLpwgwhfDaLw-sT_KL2WJY4VW0WcI7WafmrVrpO5Es5elC2AJ2AXNrrniIiinQiHg0hL4FM6EEMttH61rLgtqODvXqUzxkH4O9OJ0tILEOhY97iwo9gUdos_rP=w1000-h750-no",
+    "rating": 4.3,
+    "review_count": 4,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJ-X3XBBD6wEcRgFgXpMitHNk",
+    "name": "Chamas Tacos Liège",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Liège",
+    "address": "Chamas Tacos Liège, Rue Pont d'Avroy 32, 4000 Liège",
+    "street": "Rue Pont d'Avroy 32",
+    "postal_code": "4000",
+    "region": null,
+    "latitude": 50.640623,
+    "longitude": 5.569755,
+    "phone": "04 341 33 39",
+    "website": "http://www.chamas-tacos.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chamas%20Tacos%20Li%C3%A8ge&query_place_id=ChIJ-X3XBBD6wEcRgFgXpMitHNk",
+    "open_hours_json": {
+      "Monday": [
+        "11 am–11 pm"
+      ],
+      "Tuesday": [
+        "11 am–11 pm"
+      ],
+      "Wednesday": [
+        "11 am–11 pm"
+      ],
+      "Thursday": [
+        "11 am–11 pm"
+      ],
+      "Friday": [
+        "11 am–12 am"
+      ],
+      "Saturday": [
+        "11 am–12 am"
+      ],
+      "Sunday": [
+        "12–11 pm"
+      ]
+    },
+    "review_count": 1498,
+    "rating": 3.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfb7Ax6RnG7UdXWph0QLFMVJZ2YgXeYmUql6i84gXhARtqSi8X1pQvJ5BLTEhAZegRzPKUGqy6V3O_zs6ViY_ceXHAC23zwjZIvP34LUvqcqvUOGtpzXWvUHuL1rX3BVhOJ80In=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfb7Ax6RnG7UdXWph0QLFMVJZ2YgXeYmUql6i84gXhARtqSi8X1pQvJ5BLTEhAZegRzPKUGqy6V3O_zs6ViY_ceXHAC23zwjZIvP34LUvqcqvUOGtpzXWvUHuL1rX3BVhOJ80In=w1000-h750-no",
+    "source_query": "Halal restaurant in Liers, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata"
+  },
+  {
+    "place_id": "ChIJAX3KATnxwEcRy8lLDK5hFXo",
+    "name": "Chef City Liège",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Liège",
+    "address": "Chef City Liège, Rue Grétry 129, 4020 Liège",
+    "street": "Rue Grétry 129",
+    "postal_code": "4020",
+    "region": null,
+    "latitude": 50.6334972,
+    "longitude": 5.5829338,
+    "phone": "0465 56 80 63",
+    "website": "https://www.takeaway.com/be/menu/chef-city-snack?sharingId=i1668729737808",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chef%20City%20Li%C3%A8ge&query_place_id=ChIJAX3KATnxwEcRy8lLDK5hFXo",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc7q4UtkUokAXf1pR67xPcCeH96nBHo-Eqkbl1pv2m8OSoBhb7OvlWIemhV4m0RTUmn631vMwpMgtrYY7P4-uX792v8_SMLSK0cp3hGGjrAFbUlxvqEeS7euIq48ZzwyMlCiLD7=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc7q4UtkUokAXf1pR67xPcCeH96nBHo-Eqkbl1pv2m8OSoBhb7OvlWIemhV4m0RTUmn631vMwpMgtrYY7P4-uX792v8_SMLSK0cp3hGGjrAFbUlxvqEeS7euIq48ZzwyMlCiLD7=w1000-h750-no",
+    "rating": 4.5,
+    "review_count": 286,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJ0SU2uh37wEcR0DU_j66N5F4",
+    "name": "Chez Bouba traiteur",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Liège",
+    "address": "Chez Bouba traiteur, Chau. de Tongres 31, 4000 Liège",
+    "street": "Chau. de Tongres 31",
+    "postal_code": "4000",
+    "region": null,
+    "latitude": 50.6647555,
+    "longitude": 5.560364799999999,
+    "phone": "04 226 29 36",
+    "website": "http://www.chezboubatraiteur.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chez%20Bouba%20traiteur&query_place_id=ChIJ0SU2uh37wEcR0DU_j66N5F4",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "5–9 pm"
+      ],
+      "Wednesday": [
+        "11 am–2 pm",
+        "5–9 pm"
+      ],
+      "Thursday": [
+        "11 am–2 pm",
+        "5–9 pm"
+      ],
+      "Friday": [
+        "11 am–2 pm",
+        "5–9 pm"
+      ],
+      "Saturday": [
+        "11 am–2 pm",
+        "5–9 pm"
+      ],
+      "Sunday": [
+        "5–9 pm"
+      ]
+    },
+    "review_count": 230,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcaORfsX03bsFtI6kQxOGjUmwuw2rWpe5lPQf62oZPP_YrBrzu3S2TynCSiCWtxbJkuV4WkCXUeUnsVAt2ZE1fag20Kyeh4ERza7dPO1WVxs9rNMixOROCZw3qxDE6S-X0IfDM=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcaORfsX03bsFtI6kQxOGjUmwuw2rWpe5lPQf62oZPP_YrBrzu3S2TynCSiCWtxbJkuV4WkCXUeUnsVAt2ZE1fag20Kyeh4ERza7dPO1WVxs9rNMixOROCZw3qxDE6S-X0IfDM=w1000-h750-no",
+    "source_query": "Halal restaurant in Liers, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJcd4o-gv6wEcRAy3-4a2kCVA",
+    "name": "Chez Nathalie",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Liège",
+    "address": "Chez Nathalie, Rue de la Goffe 12, 4000 Liège",
+    "street": "Rue de la Goffe 12",
+    "postal_code": "4000",
+    "region": null,
+    "latitude": 50.6452794,
+    "longitude": 5.577951,
+    "phone": "04 222 16 57",
+    "website": "https://m.facebook.com/restaurantcheznathalieliege/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chez%20Nathalie&query_place_id=ChIJcd4o-gv6wEcRAy3-4a2kCVA",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "Closed"
+      ],
+      "Friday": [
+        "6–11 pm"
+      ],
+      "Saturday": [
+        "6–11 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 252,
+    "rating": 4.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdZQdDcJ-sIM2g0VZPTnFUsmHxvXoGBw28zZDo_8sBPVYQj2SI391Wpz6ijOWAn82e7VFCyvvGUyWKrhoZLQdwyTXy599crs0MKK_I7jnQlqcswtX0Elu5vX3RziYMQ0HBcxrAcZg=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdZQdDcJ-sIM2g0VZPTnFUsmHxvXoGBw28zZDo_8sBPVYQj2SI391Wpz6ijOWAn82e7VFCyvvGUyWKrhoZLQdwyTXy599crs0MKK_I7jnQlqcswtX0Elu5vX3RziYMQ0HBcxrAcZg=w1000-h750-no",
+    "source_query": "Fish restaurant in Liège, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJmTZHkg76wEcRQIwW7rsrTzA",
+    "name": "Chez Tasso",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Liège",
+    "address": "Chez Tasso, Rue Souverain Pont 5, 4000 Liège",
+    "street": "Rue Souverain Pont 5",
+    "postal_code": "4000",
+    "region": null,
+    "latitude": 50.6445945,
+    "longitude": 5.5746443,
+    "phone": "0497 06 08 29",
+    "website": "https://m.facebook.com/Chez-Tasso-127486450600377/?locale2=fr_FR",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chez%20Tasso&query_place_id=ChIJmTZHkg76wEcRQIwW7rsrTzA",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "6–11 pm"
+      ],
+      "Thursday": [
+        "6–11 pm"
+      ],
+      "Friday": [
+        "6–11 pm"
+      ],
+      "Saturday": [
+        "6–11 pm"
+      ],
+      "Sunday": [
+        "12–11 pm"
+      ]
+    },
+    "review_count": 244,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd4ChGeoh9GoJAamapAT_lajLTtcHMtkDtyWSXULXW4MQ65WhPoOikEOqsKdp-c4E8Eir9L1CjI4_4SXYXHLuQc2UxruriWIku-N_ztn9c2x1mf_0Omr_o3RKn1rP9xBXrcBV24ljJOScY=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd4ChGeoh9GoJAamapAT_lajLTtcHMtkDtyWSXULXW4MQ65WhPoOikEOqsKdp-c4E8Eir9L1CjI4_4SXYXHLuQc2UxruriWIku-N_ztn9c2x1mf_0Omr_o3RKn1rP9xBXrcBV24ljJOScY=w1000-h750-no",
+    "source_query": "Fish restaurant in Liège, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJbctDPMXxwEcRTlbIXmStXf4",
+    "name": "Chez les amis",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Liège",
+    "address": "Chez les amis, Bd de la Constitution 64, 4020 Liège",
+    "street": "Bd de la Constitution 64",
+    "postal_code": "4020",
+    "region": null,
+    "latitude": 50.6436457,
+    "longitude": 5.5868952,
+    "phone": "0466 37 85 21",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chez%20les%20amis&query_place_id=ChIJbctDPMXxwEcRTlbIXmStXf4",
+    "open_hours_json": {
+      "Monday": [
+        "11:30 am–11 pm"
+      ],
+      "Tuesday": [
+        "11:30 am–11 pm"
+      ],
+      "Wednesday": [
+        "12–11 pm"
+      ],
+      "Thursday": [
+        "11:30 am–11 pm"
+      ],
+      "Friday": [
+        "11:30 am–11 pm"
+      ],
+      "Saturday": [
+        "12–11 pm"
+      ],
+      "Sunday": [
+        "12–11 pm"
+      ]
+    },
+    "review_count": 151,
+    "rating": 4.2,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLch_4tbsXkCMjwp5Aspbqm9MhDsRLt6pL_gfRacIRTrLux0KpF8_Av2eaRFADnA1AEHnZOQ9xQCNJYviYO_4n-n-IxpkfOiGax6IrDIVq9MlSqsV9mtee4KXBfmKAUH8znN3D0t=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLch_4tbsXkCMjwp5Aspbqm9MhDsRLt6pL_gfRacIRTrLux0KpF8_Av2eaRFADnA1AEHnZOQ9xQCNJYviYO_4n-n-IxpkfOiGax6IrDIVq9MlSqsV9mtee4KXBfmKAUH8znN3D0t=w1000-h750-no",
+    "source_query": "Fish restaurant in Liège, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJG-JXIDX7wEcRtbu6E4v1xHo",
+    "name": "Chicken Mood liege",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Liège",
+    "address": "Chicken Mood liege, Rue Grétry 97, 4020 Liège",
+    "street": "Rue Grétry 97",
+    "postal_code": "4020",
+    "region": null,
+    "latitude": 50.6346171,
+    "longitude": 5.5818157,
+    "phone": "04 378 39 22",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chicken%20Mood%20liege&query_place_id=ChIJG-JXIDX7wEcRtbu6E4v1xHo",
+    "open_hours_json": null,
+    "review_count": 15,
+    "rating": 4.2,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd_suEBMtUrqCHkG6X6MlkPcDX-g5S2oM-u4bOvjY3NoLspfIPTWbY2mpMHVKdqjOV2lGX9mKieJFwGDWFMMvnshVrhLihTUNe_eeUX75tjVs6ive8-9KD7YkyXg5io4rCosXaIDA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd_suEBMtUrqCHkG6X6MlkPcDX-g5S2oM-u4bOvjY3NoLspfIPTWbY2mpMHVKdqjOV2lGX9mKieJFwGDWFMMvnshVrhLihTUNe_eeUX75tjVs6ive8-9KD7YkyXg5io4rCosXaIDA=w1000-h750-no",
+    "source_query": "Halal restaurant in Seraing, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata"
+  },
+  {
+    "place_id": "ChIJwZbAEwD7wEcRw8bgI47bXUg",
+    "name": "Comandan SuperMarket",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Liège",
+    "address": "Comandan SuperMarket, Rue Gérardrie 21, 4000 Liège",
+    "street": "Rue Gérardrie 21",
+    "postal_code": "4000",
+    "region": null,
+    "latitude": 50.644295199999995,
+    "longitude": 5.5742435,
+    "phone": "0465 10 04 64",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Comandan%20SuperMarket&query_place_id=ChIJwZbAEwD7wEcRw8bgI47bXUg",
+    "open_hours_json": {
+      "Monday": [
+        "12 pm–1 am"
+      ],
+      "Tuesday": [
+        "12 pm–1 am"
+      ],
+      "Wednesday": [
+        "12 pm–1 am"
+      ],
+      "Thursday": [
+        "12 pm–1 am"
+      ],
+      "Friday": [
+        "1 pm–1 am"
+      ],
+      "Saturday": [
+        "12 pm–1 am"
+      ],
+      "Sunday": [
+        "12 pm–1 am"
+      ]
+    },
+    "review_count": 1,
+    "rating": 5.0,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe44Am6I21wrlZlB-cu3zKCvVpwlGaJleP9vwKKCtGcsJ-_GVk6o68F9lWZbStID7liwIY2IjMjvwC3OySThMMvP3FVw6i5yeEsphqUrXcvpJZPy37zqiqMZHt3ENAhYA_Sfw2JLoBb71Ge=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe44Am6I21wrlZlB-cu3zKCvVpwlGaJleP9vwKKCtGcsJ-_GVk6o68F9lWZbStID7liwIY2IjMjvwC3OySThMMvP3FVw6i5yeEsphqUrXcvpJZPy37zqiqMZHt3ENAhYA_Sfw2JLoBb71Ge=w1000-h750-no",
+    "source_query": "Hypermarket in Liège, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJYfskdvf5wEcR0FkUl6ypWxQ",
+    "name": "Comptoir Des Mers Liège",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Liège",
+    "address": "Comptoir Des Mers Liège, Rue des Guillemins 90, 4000 Liège",
+    "street": "Rue des Guillemins 90",
+    "postal_code": "4000",
+    "region": null,
+    "latitude": 50.6270987,
+    "longitude": 5.5664605,
+    "phone": "04 226 12 41",
+    "website": "http://www.comptoirdesmers.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Comptoir%20Des%20Mers%20Li%C3%A8ge&query_place_id=ChIJYfskdvf5wEcR0FkUl6ypWxQ",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "9 am–7 pm"
+      ],
+      "Wednesday": [
+        "9 am–7 pm"
+      ],
+      "Thursday": [
+        "9 am–7 pm"
+      ],
+      "Friday": [
+        "9 am–7 pm"
+      ],
+      "Saturday": [
+        "9 am–7 pm"
+      ],
+      "Sunday": [
+        "9 am–2 pm"
+      ]
+    },
+    "review_count": 193,
+    "rating": 4.2,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfhz6uv9efqdWMq93DxWMyqc9QVcQz9X8swlgHaPHoehF9CfapIAGnU3EHAfMilr8yi8pNDrlQO8VZOWC7ZXN3LgwKq2fOxSdN5anuhQzDJd1JPB30evG0EI5Q1e4YAb84uQJyE=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfhz6uv9efqdWMq93DxWMyqc9QVcQz9X8swlgHaPHoehF9CfapIAGnU3EHAfMilr8yi8pNDrlQO8VZOWC7ZXN3LgwKq2fOxSdN5anuhQzDJd1JPB30evG0EI5Q1e4YAb84uQJyE=w1000-h750-no",
+    "source_query": "Fish restaurant in Liège, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJuUIC7SPxwEcRb36oz40mfng",
+    "name": "Coskun Boucherie",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Liège",
+    "address": "Coskun Boucherie, Quai de Coronmeuse 37, 4000 Liège",
+    "street": "Quai de Coronmeuse 37",
+    "postal_code": "4000",
+    "region": null,
+    "latitude": 50.652195,
+    "longitude": 5.6040399999999995,
+    "phone": "0499 23 81 13",
+    "website": "https://coskunboucherie.eatbu.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Coskun%20Boucherie&query_place_id=ChIJuUIC7SPxwEcRb36oz40mfng",
+    "open_hours_json": {
+      "Monday": [
+        "8 am–7:30 pm"
+      ],
+      "Tuesday": [
+        "8 am–7:30 pm"
+      ],
+      "Wednesday": [
+        "8 am–7:30 pm"
+      ],
+      "Thursday": [
+        "8 am–7:30 pm"
+      ],
+      "Friday": [
+        "8 am–7:30 pm"
+      ],
+      "Saturday": [
+        "8 am–7:30 pm"
+      ],
+      "Sunday": [
+        "8 am–7:30 pm"
+      ]
+    },
+    "review_count": 0,
+    "rating": null,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ihL1aXmwNjGw3XZYU3kEmw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=301.31866&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ihL1aXmwNjGw3XZYU3kEmw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=301.31866&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Halal restaurant in Liers, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata"
+  },
+  {
+    "place_id": "ChIJAUnt-VvxwEcRkMHahWsv9uY",
+    "name": "Cous-Cosy Umami",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Liège",
+    "address": "Cous-Cosy Umami, Rue St Léonard 17, 4000 Liège",
+    "street": "Rue St Léonard 17",
+    "postal_code": "4000",
+    "region": null,
+    "latitude": 50.6483097,
+    "longitude": 5.5870491,
+    "phone": "0491 24 81 89",
+    "website": "https://www.cous-cosy-sara.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cous-Cosy%20Umami&query_place_id=ChIJAUnt-VvxwEcRkMHahWsv9uY",
+    "open_hours_json": {
+      "Monday": [
+        "5–11 pm"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "5–11 pm"
+      ],
+      "Friday": [
+        "5–11 pm"
+      ],
+      "Saturday": [
+        "5–11:30 pm"
+      ],
+      "Sunday": [
+        "12–11 pm"
+      ]
+    },
+    "review_count": 108,
+    "rating": 4.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLchGZx9mkGmSyl91Uo4Wjallhs74nhYORmmUU7WucY6vJBOMaurQwd5HOfmxUDTyk_7IgnzqYsdy6qo2KTg_3H6A2EAQZu3MBs4EgyYPj94H1MZSLJT3JoJrBNydYAG-_n9_2c=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLchGZx9mkGmSyl91Uo4Wjallhs74nhYORmmUU7WucY6vJBOMaurQwd5HOfmxUDTyk_7IgnzqYsdy6qo2KTg_3H6A2EAQZu3MBs4EgyYPj94H1MZSLJT3JoJrBNydYAG-_n9_2c=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Liers, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJrcuCMHT7wEcR2C1q7Dwz9zs",
+    "name": "Couscous délice",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Liège",
+    "address": "Couscous délice, Publémont 4, 4000 Liège",
+    "street": "Publémont 4",
+    "postal_code": "4000",
+    "region": null,
+    "latitude": 50.645178099999995,
+    "longitude": 5.5606725,
+    "phone": "0493 91 84 62",
+    "website": "https://www.couscous-delice.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Couscous%20d%C3%A9lice&query_place_id=ChIJrcuCMHT7wEcR2C1q7Dwz9zs",
+    "open_hours_json": null,
+    "review_count": 31,
+    "rating": 3.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdenNMN9OWRf2LzJ0AL6HnsXKIHJq7FtX4PmsEZDcsu0ldu7VN4YU5tcHkdrRBmYOpPDj5QZDi91Vfiak2Ozi6CuJotxAM1AP6mQ_by6xw2tDHWECuJBVAZWgVEEJCLRtG3amPRwA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdenNMN9OWRf2LzJ0AL6HnsXKIHJq7FtX4PmsEZDcsu0ldu7VN4YU5tcHkdrRBmYOpPDj5QZDi91Vfiak2Ozi6CuJotxAM1AP6mQ_by6xw2tDHWECuJBVAZWgVEEJCLRtG3amPRwA=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Seraing, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJnwPjLOn7wEcRqd3Fd1O1bNI",
+    "name": "Daily spot Liège",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Liège",
+    "address": "Daily spot Liège, Rue de la Cathédrale 84, 4000 Liège",
+    "street": "Rue de la Cathédrale 84",
+    "postal_code": "4000",
+    "region": null,
+    "latitude": 50.6419698,
+    "longitude": 5.5731598,
+    "phone": "0466 18 63 26",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Daily%20spot%20Li%C3%A8ge&query_place_id=ChIJnwPjLOn7wEcRqd3Fd1O1bNI",
+    "open_hours_json": {
+      "Monday": [
+        "7 am–2 am"
+      ],
+      "Tuesday": [
+        "7 am–2 am"
+      ],
+      "Wednesday": [
+        "7 am–2 am"
+      ],
+      "Thursday": [
+        "7 am–2 am"
+      ],
+      "Friday": [
+        "7 am–4:30 am"
+      ],
+      "Saturday": [
+        "7 am–4:30 am"
+      ],
+      "Sunday": [
+        "7 am–2 am"
+      ]
+    },
+    "review_count": 3,
+    "rating": 5.0,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfYQw7F3ycEf7xsv1m2WgPZyJtWh-tKFiygodSZ3-Wm2EGjbeqtKNY7wJT7YCDO0-1ayIx0dIoI8wZ7lpjmIb03FYj63vWc_CsvvRDzhGHUbF9LaYgaCnSdN3gHcWBNpY5_B7t6EkPSJyE=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfYQw7F3ycEf7xsv1m2WgPZyJtWh-tKFiygodSZ3-Wm2EGjbeqtKNY7wJT7YCDO0-1ayIx0dIoI8wZ7lpjmIb03FYj63vWc_CsvvRDzhGHUbF9LaYgaCnSdN3gHcWBNpY5_B7t6EkPSJyE=w1000-h750-no",
+    "source_query": "Hypermarket in Liège, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJw4uMV1f7wEcRI5p9crp1d3Y",
+    "name": "Dar Al Yemen",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Liège",
+    "address": "Dar Al Yemen, Rue Grétry 87, 4020 Liège",
+    "street": "Rue Grétry 87",
+    "postal_code": "4020",
+    "region": null,
+    "latitude": 50.6349667,
+    "longitude": 5.5813663,
+    "phone": "0477 77 88 86",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Dar%20Al%20Yemen&query_place_id=ChIJw4uMV1f7wEcRI5p9crp1d3Y",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcx6xUkIWvDXpaqkaJrDOzp68T9-ISglil5kH-bqUCvNDesKqIOU_Iynn90RoS1E7MLLc88fKvaqYXpr-hTP7p6pt1lTEWXLht_dTkrDlU4LzOG7Im9HeGTmih3W6XaeDXIkqLWfWnpMSlL=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcx6xUkIWvDXpaqkaJrDOzp68T9-ISglil5kH-bqUCvNDesKqIOU_Iynn90RoS1E7MLLc88fKvaqYXpr-hTP7p6pt1lTEWXLht_dTkrDlU4LzOG7Im9HeGTmih3W6XaeDXIkqLWfWnpMSlL=w1000-h750-no",
+    "rating": 4.8,
+    "review_count": 99,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJOZs52gf6wEcR6_s8eVJeTuI",
+    "name": "De Grote Moskee van Luik - Al Mowahidine 🕌",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Liège",
+    "address": "De Grote Moskee van Luik - Al Mowahidine 🕌, Rue de Pitteurs 39, 4020 Liège",
+    "street": "Rue de Pitteurs 39",
+    "postal_code": "4020",
+    "region": null,
+    "latitude": 50.6391436,
+    "longitude": 5.5807056,
+    "phone": "04 342 90 18",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=De%20Grote%20Moskee%20van%20Luik%20-%20Al%20Mowahidine%20%F0%9F%95%8C&query_place_id=ChIJOZs52gf6wEcR6_s8eVJeTuI",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd9oRzn9AzI4mcGiiXjE67X783qaw1dV5vYSmdwBr5zmScfMwm43P-XUcN7oXW7_24lxiJvTl-QjVnZp3aSYF7BpdWrU6OUZG8REsTM067lCHWOdJQxv-CZH2YxgUPA8sQYv4H9=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd9oRzn9AzI4mcGiiXjE67X783qaw1dV5vYSmdwBr5zmScfMwm43P-XUcN7oXW7_24lxiJvTl-QjVnZp3aSYF7BpdWrU6OUZG8REsTM067lCHWOdJQxv-CZH2YxgUPA8sQYv4H9=w1000-h750-no",
+    "rating": 4.7,
+    "review_count": 162,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJpV6cYgf7wEcR-HsmvaG-7Kw",
+    "name": "Deli Maroc",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Liège",
+    "address": "Deli Maroc, Rue St Nicolas 311, 4000 Liège",
+    "street": "Rue St Nicolas 311",
+    "postal_code": "4000",
+    "region": null,
+    "latitude": 50.639068099999996,
+    "longitude": 5.5396452,
+    "phone": "04 221 18 20",
+    "website": "https://local.infobel.be/BE105681151-042211820/deli_maroc-liege.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Deli%20Maroc&query_place_id=ChIJpV6cYgf7wEcR-HsmvaG-7Kw",
+    "open_hours_json": {
+      "Monday": [
+        "9 am–10:30 pm"
+      ],
+      "Tuesday": [
+        "9 am–10:30 pm"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "9 am–10:30 pm"
+      ],
+      "Friday": [
+        "9 am–10:30 pm"
+      ],
+      "Saturday": [
+        "9 am–10:30 pm"
+      ],
+      "Sunday": [
+        "9 am–10:30 pm"
+      ]
+    },
+    "review_count": 133,
+    "rating": 4.4,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeD5h9Nuc1mXwwPk4PalWG-m8nkVmCyPiDM2RdepA6lJPy_81gQeWyOSDsGPR5af6yCx0AV43D82VVCx_Whim4T7EeN0OP1tIidjP-ZaFnP-u3lco8vf528_VaA1hkRb9CUg4aN=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeD5h9Nuc1mXwwPk4PalWG-m8nkVmCyPiDM2RdepA6lJPy_81gQeWyOSDsGPR5af6yCx0AV43D82VVCx_Whim4T7EeN0OP1tIidjP-ZaFnP-u3lco8vf528_VaA1hkRb9CUg4aN=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Seraing, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJP_H3Pv36wEcRXANp_jxTZps",
+    "name": "Délices d’orient rocourt",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Liège",
+    "address": "Délices d’orient rocourt, Chau. de Tongres 610, 4000 Liège",
+    "street": "Chau. de Tongres 610",
+    "postal_code": "4000",
+    "region": null,
+    "latitude": 50.681781099999995,
+    "longitude": 5.5423317999999995,
+    "phone": "04 367 64 36",
+    "website": "http://delicesdorientrocourt.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=D%C3%A9lices%20d%E2%80%99orient%20rocourt&query_place_id=ChIJP_H3Pv36wEcRXANp_jxTZps",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "5:30–10 pm"
+      ],
+      "Wednesday": [
+        "5:30–10 pm"
+      ],
+      "Thursday": [
+        "12–10 pm"
+      ],
+      "Friday": [
+        "5:30–10 pm"
+      ],
+      "Saturday": [
+        "5:30–10 pm"
+      ],
+      "Sunday": [
+        "12–2 pm",
+        "5:30–10 pm"
+      ]
+    },
+    "review_count": 177,
+    "rating": 4.2,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdAspKqsSjCXwIKzrpjeO-FQnj43dhwk41ZOh5q4zqV2GhtBUPWkq-vL_zWrVCrinunT4amv3DdlwQh6NaL2GQ-eemJLWVHLgsoG_x3R8AFGCZpOJOr_Swv0S20nsnbtM_LJICJ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdAspKqsSjCXwIKzrpjeO-FQnj43dhwk41ZOh5q4zqV2GhtBUPWkq-vL_zWrVCrinunT4amv3DdlwQh6NaL2GQ-eemJLWVHLgsoG_x3R8AFGCZpOJOr_Swv0S20nsnbtM_LJICJ=w1000-h750-no",
+    "source_query": "Halal restaurant in Liers, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJhTXh7hDxwEcRgrxsW95LrgI",
+    "name": "EL REY DEL MAR",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Liège",
+    "address": "EL REY DEL MAR, Av. de Lille 2, 4020 Liège",
+    "street": "Av. de Lille 2",
+    "postal_code": "4020",
+    "region": null,
+    "latitude": 50.640949899999995,
+    "longitude": 5.5971075,
+    "phone": "0455 17 94 83",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=EL%20REY%20DEL%20MAR&query_place_id=ChIJhTXh7hDxwEcRgrxsW95LrgI",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdofzReKAavJ7DhDQzZLtwDKHlWVI8gR6b5PBzXS9B9OLstMWHsCl7QYgNAx9htVGpaxjEmKqhRLvDQgSj_azRnt3SuMxTC_GN3qwqhXk_vpl13UCNlYsGhrkCbleEkTtgW1wwn_A=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdofzReKAavJ7DhDQzZLtwDKHlWVI8gR6b5PBzXS9B9OLstMWHsCl7QYgNAx9htVGpaxjEmKqhRLvDQgSj_azRnt3SuMxTC_GN3qwqhXk_vpl13UCNlYsGhrkCbleEkTtgW1wwn_A=w1000-h750-no",
+    "rating": 4.4,
+    "review_count": 134,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
     "place_id": "ChIJsR-EyxH6wEcR4EHw1fD3rXc",
     "name": "ENOTECA",
     "type": "restaurant",
@@ -2840,8 +3789,8 @@
     "phone": "0455 15 50 05",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Numidie&query_place_id=ChIJQ4BGpBD6wEcRYwQF6kI2WIg",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdQbN2iafu5QWGtNUEabRtmpamIjCdhox0GlSo983DvBHJp6FsIU6l9EY-MCOwNUM2yXZPdQtvTC-8j8hyOiRxvvw-SpH9cDUQL5RYqX6hEUH3POhxKB9B-cSoQjobb90yGc-T7nQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdQbN2iafu5QWGtNUEabRtmpamIjCdhox0GlSo983DvBHJp6FsIU6l9EY-MCOwNUM2yXZPdQtvTC-8j8hyOiRxvvw-SpH9cDUQL5RYqX6hEUH3POhxKB9B-cSoQjobb90yGc-T7nQ=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLezvwvajD93n5q_0jhZYb_ZjThk_bfcbjl93lq1cDLsgYiGNas1vsIKS4Kag1ewoBD0I0NS8DF1oSeutCIM59DjNbTJq99QKOZGGGiH8EcKqwudxLbwI9ceNpr5pj7G7xBQ2dVHNQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLezvwvajD93n5q_0jhZYb_ZjThk_bfcbjl93lq1cDLsgYiGNas1vsIKS4Kag1ewoBD0I0NS8DF1oSeutCIM59DjNbTJq99QKOZGGGiH8EcKqwudxLbwI9ceNpr5pj7G7xBQ2dVHNQ=w1000-h750-no",
     "rating": 4.1,
     "review_count": 429,
     "verification_status": "UNVERIFIED",
@@ -2894,10 +3843,10 @@
     "phone": "0471 69 41 58",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Plan%20A%20Li%C3%A8ge&query_place_id=ChIJbxy8n8zxwEcRF6-5Mt7gE4w",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdX_8v9N5BvAXCdKyNJvANkVTW4dzzZytf7HX2F4zsKmez7mxT2FUmC1Q0uiJ-SjNhlOk3BE3jaicd2nJlYCdt7TsXRuNZq_k3y7LaRETipNktG_XkIt3pyJoluGTXnbBYEgyqO7g=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdX_8v9N5BvAXCdKyNJvANkVTW4dzzZytf7HX2F4zsKmez7mxT2FUmC1Q0uiJ-SjNhlOk3BE3jaicd2nJlYCdt7TsXRuNZq_k3y7LaRETipNktG_XkIt3pyJoluGTXnbBYEgyqO7g=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLckB_cWN8rb2dTD--uNJ1vitTQMNR71Cz6ZWE-EEgidWeDskLE0VxL4pM4-MnKEGj9BUbXXdWszLStslprCgoBFUTyqWg5SG0R1TPIx9vv1wh5G6THblowp16m7_E_TbCy3bR3UgQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLckB_cWN8rb2dTD--uNJ1vitTQMNR71Cz6ZWE-EEgidWeDskLE0VxL4pM4-MnKEGj9BUbXXdWszLStslprCgoBFUTyqWg5SG0R1TPIx9vv1wh5G6THblowp16m7_E_TbCy3bR3UgQ=w1000-h750-no",
     "rating": 4.7,
-    "review_count": 140,
+    "review_count": 142,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null,
     "is_active": true,
@@ -3418,6 +4367,32 @@
     "moderation_status": "approved"
   },
   {
+    "place_id": "ChIJGeU9crbxwEcRAYUTH7AK38w",
+    "name": "L’Adresse 86 – Brunch & restaurant | Liège",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Liège",
+    "address": "L’Adresse 86 – Brunch & restaurant | Liège, Rue Eugène Vandenhoff 86, 4030 Liège",
+    "street": "Rue Eugène Vandenhoff 86",
+    "postal_code": "4030",
+    "region": null,
+    "latitude": 50.6303638,
+    "longitude": 5.6027859,
+    "phone": "0489 26 46 05",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=L%E2%80%99Adresse%2086%20%E2%80%93%20Brunch%20%26%20restaurant%20%7C%20Li%C3%A8ge&query_place_id=ChIJGeU9crbxwEcRAYUTH7AK38w",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe-JxxwGnYkl0OIeVJr1nZjZ6Om3rb7x6sAV5s69YexHI9R6pOGuKIPAbCQK1Nppq5hB3nYXANn6g2vJCMJOjsdBqhAIfIWr5EVXsVlxCAirAXDtLPgGEJch0AOlp5dpvADQLr2oRsKL_JO=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe-JxxwGnYkl0OIeVJr1nZjZ6Om3rb7x6sAV5s69YexHI9R6pOGuKIPAbCQK1Nppq5hB3nYXANn6g2vJCMJOjsdBqhAIfIWr5EVXsVlxCAirAXDtLPgGEJch0AOlp5dpvADQLr2oRsKL_JO=w1000-h750-no",
+    "rating": 4.7,
+    "review_count": 303,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
     "place_id": "ChIJzXUv1RH6wEcRTXLHh2QkE4M",
     "name": "L’Ecailler",
     "type": "restaurant",
@@ -3826,8 +4801,8 @@
     "phone": "04 378 59 91",
     "website": "https://mawlana.framer.website/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mawlana&query_place_id=ChIJBTzG1p_xwEcRVCD1OrE580M",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfyiJq0mNchFHh-9OBsUU5yJQBwAcmQGZSEYmd8Owy9s5RbYZva8fEAhsc8LzX9jNYtb2-0uwubd-1KjoVhREeRGA--VrFhP5IQX4-HfqE8vhhw4jgL9Ti_CrF3yd1QKbLPZ9E8vw0o0bcI=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfyiJq0mNchFHh-9OBsUU5yJQBwAcmQGZSEYmd8Owy9s5RbYZva8fEAhsc8LzX9jNYtb2-0uwubd-1KjoVhREeRGA--VrFhP5IQX4-HfqE8vhhw4jgL9Ti_CrF3yd1QKbLPZ9E8vw0o0bcI=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLejlI-7EmS7bYeYO-ujCcc1URkmbdPSSYcJtCIsbryvw2AK4Vr1ScrP1XLl898npW9Xt9zPZsV_Zu3dQYX4jD4K-xjLZqeO4ubE6XR9yRGVL015GrwBOfcg3YuaQ74-WdqgWXdgJy2Rno8H=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLejlI-7EmS7bYeYO-ujCcc1URkmbdPSSYcJtCIsbryvw2AK4Vr1ScrP1XLl898npW9Xt9zPZsV_Zu3dQYX4jD4K-xjLZqeO4ubE6XR9yRGVL015GrwBOfcg3YuaQ74-WdqgWXdgJy2Rno8H=w1000-h750-no",
     "rating": 4.9,
     "review_count": 422,
     "verification_status": "UNVERIFIED",
@@ -4248,8 +5223,8 @@
     "phone": null,
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mosqu%C3%A9e%20El-Fath&query_place_id=ChIJW2qBnhb6wEcRL0T3fYXWrnI",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdFQ-AOt6NdUf7AH_yrajcenz95eIJUwEimV-x6RFb5yTCi5ISbTCqTq279oF-LmzIKRHHzyQkh-wYk0I3KVKgUQJFOAUOiST9e_iH9Pax_jUL-fHU_IyT_LDrikAKbe6DSpN06=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdFQ-AOt6NdUf7AH_yrajcenz95eIJUwEimV-x6RFb5yTCi5ISbTCqTq279oF-LmzIKRHHzyQkh-wYk0I3KVKgUQJFOAUOiST9e_iH9Pax_jUL-fHU_IyT_LDrikAKbe6DSpN06=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf3ZOwh7uOnnEigweLKesVtfBifhzSNNrhOY4Tf50PmgZwmVbWKqiVy5k1vPA8y-rqNZoR_2n7YrgQDsxB9oY5axeVKmthieOfnbTtD8J5iTbcyaprVYoPctk4frjA72gNAS-np=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf3ZOwh7uOnnEigweLKesVtfBifhzSNNrhOY4Tf50PmgZwmVbWKqiVy5k1vPA8y-rqNZoR_2n7YrgQDsxB9oY5axeVKmthieOfnbTtD8J5iTbcyaprVYoPctk4frjA72gNAS-np=w1000-h750-no",
     "rating": 4.8,
     "review_count": 13,
     "verification_status": "UNVERIFIED",
@@ -5758,8 +6733,8 @@
     "phone": "0465 55 64 42",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Quick%20Chicken%20Liege&query_place_id=ChIJCbF4JQD7wEcRWVIl4wNxBzE",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdeYX-gFK4Ct_uf_k3jZPA5pexugmnOxLPxgvAR_KHAEFcySO6rwPU7C_8m1goHplUwO94G8_VbhTydTGg3yaIFryfWLPQ1jHeSD8peIuyiayoKQ193Z_9ANx-qYxnOOxak9UgjLzROVNYc=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdeYX-gFK4Ct_uf_k3jZPA5pexugmnOxLPxgvAR_KHAEFcySO6rwPU7C_8m1goHplUwO94G8_VbhTydTGg3yaIFryfWLPQ1jHeSD8peIuyiayoKQ193Z_9ANx-qYxnOOxak9UgjLzROVNYc=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLevGvGxkS1u-8bMhCxaRKNk2nbBQtYjXnQVyga4aNzSAlrlLf9sBdPGN9IrlyRBsbcQ3LNrKeSzb6kjuDMrYwRKdNNufC87z7y-qw6fZ4GJb1tvLWJ_SAOF-XVCWBNY3A07uKQAlmCEGLS9=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLevGvGxkS1u-8bMhCxaRKNk2nbBQtYjXnQVyga4aNzSAlrlLf9sBdPGN9IrlyRBsbcQ3LNrKeSzb6kjuDMrYwRKdNNufC87z7y-qw6fZ4GJb1tvLWJ_SAOF-XVCWBNY3A07uKQAlmCEGLS9=w1000-h750-no",
     "rating": 4.4,
     "review_count": 50,
     "verification_status": "UNVERIFIED",
@@ -8631,8 +9606,8 @@
     "phone": "0485 26 42 91",
     "website": "https://www.facebook.com/Saveurs-D%C3%A9lices-104115690993956/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=saveurs%20et%20delices&query_place_id=ChIJI2hKQgf6wEcR3HTvbeKMKr8",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcF_fNhjIa1am1kyA-BfNEpAvKDVi46yYdrEl3zZVMgbLZ77gpg0ikeBnxJbGYdCa2TMjCS4aentlE6GkaVxxYRQokwUZ3GHEz5Rn9Trk5WUcjUkCpJn_LrTNiUBQDz1oG6l0bWOQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcF_fNhjIa1am1kyA-BfNEpAvKDVi46yYdrEl3zZVMgbLZ77gpg0ikeBnxJbGYdCa2TMjCS4aentlE6GkaVxxYRQokwUZ3GHEz5Rn9Trk5WUcjUkCpJn_LrTNiUBQDz1oG6l0bWOQ=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfQ7xuuq0KUeVdY1SmGKdm1JSVX-Lu5tkDtOHzM7WkXCsFu9-8b6YVv9SnNTSdtGA_K8HIv-mkAM6cXLEIZLAcYLgUHJe2-ocKWCNu-E2hn5Pv_5B_cBKtUG7yfrIYtXnB2IG5FeQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfQ7xuuq0KUeVdY1SmGKdm1JSVX-Lu5tkDtOHzM7WkXCsFu9-8b6YVv9SnNTSdtGA_K8HIv-mkAM6cXLEIZLAcYLgUHJe2-ocKWCNu-E2hn5Pv_5B_cBKtUG7yfrIYtXnB2IG5FeQ=w1000-h750-no",
     "rating": 3.9,
     "review_count": 460,
     "verification_status": "UNVERIFIED",
@@ -9548,1177 +10523,6 @@
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdP14Z9m4Sl1izzVYqp7Cfd0WMhc05lMNcu2di9UL7oKi0zKoBUX6gA8R0VfShRduSm5YigBYHuoxooB02NqiiLid4k1CU3KbZV43k6wXwbXFjjEC6fAyTqjV9CVJEXulnpsR73=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdP14Z9m4Sl1izzVYqp7Cfd0WMhc05lMNcu2di9UL7oKi0zKoBUX6gA8R0VfShRduSm5YigBYHuoxooB02NqiiLid4k1CU3KbZV43k6wXwbXFjjEC6fAyTqjV9CVJEXulnpsR73=w1000-h750-no",
     "source_query": "Fish restaurant in Lokeren, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJB96yv6ubw0cRCk0bkSKHMgs",
-    "name": "Aslanbey Sofrasi",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Lokeren",
-    "address": "Aslanbey Sofrasi, Groentemarkt 28, 9160 Lokeren",
-    "street": "Groentemarkt 28",
-    "postal_code": "9160",
-    "region": null,
-    "latitude": 51.1037375,
-    "longitude": 3.9891284999999996,
-    "phone": "09 273 54 21",
-    "website": "https://qr.wwwcafe.de/2025/08/12/yaseminin-yeri-restaurant/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Aslanbey%20Sofrasi&query_place_id=ChIJB96yv6ubw0cRCk0bkSKHMgs",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "10 am–10 pm"
-      ],
-      "Wednesday": [
-        "10 am–10 pm"
-      ],
-      "Thursday": [
-        "10 am–10 pm"
-      ],
-      "Friday": [
-        "10 am–11 pm"
-      ],
-      "Saturday": [
-        "10 am–11 pm"
-      ],
-      "Sunday": [
-        "10 am–10 pm"
-      ]
-    },
-    "review_count": 422,
-    "rating": 4.2,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcO9u-EDT8l6wTkSgGd3vJLqIOWIyr8dLxWHXaKsO7CNnoPk-Jqf2c-6c-06CkeVlgWmuv3vp9brH5G3ZZ9dbyLjHaE-CNx0zHzH8FdGWAYcU36UiVBnqS8DigGC1wBCwzLfmvHq9XxOFsi=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcO9u-EDT8l6wTkSgGd3vJLqIOWIyr8dLxWHXaKsO7CNnoPk-Jqf2c-6c-06CkeVlgWmuv3vp9brH5G3ZZ9dbyLjHaE-CNx0zHzH8FdGWAYcU36UiVBnqS8DigGC1wBCwzLfmvHq9XxOFsi=w1000-h750-no",
-    "source_query": "Halal restaurant in Lokeren, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJc60rXUuFw0cRZZdTURxLTDU",
-    "name": "Atlas Osteopathie Lokeren",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Lokeren",
-    "address": "Atlas Osteopathie Lokeren, Heilige Geestmolenstraat 67, Gentse Steenweg 115, 9160 Lokeren",
-    "street": "Heilige Geestmolenstraat 67, Gentse Steenweg 115",
-    "postal_code": "9160",
-    "region": null,
-    "latitude": 51.114810899999995,
-    "longitude": 3.9726277,
-    "phone": null,
-    "website": "https://osteopaat-lokeren.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Atlas%20Osteopathie%20Lokeren&query_place_id=ChIJc60rXUuFw0cRZZdTURxLTDU",
-    "open_hours_json": {
-      "Monday": [
-        "8 am–10 pm"
-      ],
-      "Tuesday": [
-        "8 am–10 pm"
-      ],
-      "Wednesday": [
-        "8 am–10 pm"
-      ],
-      "Thursday": [
-        "8 am–10 pm"
-      ],
-      "Friday": [
-        "8 am–10 pm"
-      ],
-      "Saturday": [
-        "8 am–2 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 0,
-    "rating": null,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=BvNkbWjTb_NjScR8Sa_Hnw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=49.806534&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=BvNkbWjTb_NjScR8Sa_Hnw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=49.806534&pitch=0&thumbfov=w1000-h750-no",
-    "source_query": "Pharmacy in Lokeren, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ3-FbVY2bw0cR1rv45ciSnMM",
-    "name": "Bereket Market",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Lokeren",
-    "address": "Bereket Market, Zand 6a, 9160 Lokeren",
-    "street": "Zand 6a",
-    "postal_code": "9160",
-    "region": null,
-    "latitude": 51.102518599999996,
-    "longitude": 3.9945819,
-    "phone": "0465 93 61 90",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bereket%20Market&query_place_id=ChIJ3-FbVY2bw0cR1rv45ciSnMM",
-    "open_hours_json": {
-      "Monday": [
-        "8:30 am–8:30 pm"
-      ],
-      "Tuesday": [
-        "8:30 am–8:30 pm"
-      ],
-      "Wednesday": [
-        "8:30 am–8:30 pm"
-      ],
-      "Thursday": [
-        "Closed"
-      ],
-      "Friday": [
-        "8:30 am–8:30 pm"
-      ],
-      "Saturday": [
-        "8:30 am–8:30 pm"
-      ],
-      "Sunday": [
-        "8:30 am–8:30 pm"
-      ]
-    },
-    "review_count": 45,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf9G_jOGXq1_jaVPrPlFDxugvq9XshvLrzwAUbxa1rjNzV-IOydlXX9CAaBkEGJH5lOmLNCBDs7c1LvSABdFsswgALs5SCDXi-ZwDUu4-T_HKcOJiyHrun8zZC3QEdflJluX5pA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf9G_jOGXq1_jaVPrPlFDxugvq9XshvLrzwAUbxa1rjNzV-IOydlXX9CAaBkEGJH5lOmLNCBDs7c1LvSABdFsswgALs5SCDXi-ZwDUu4-T_HKcOJiyHrun8zZC3QEdflJluX5pA=w1000-h750-no",
-    "source_query": "Hypermarket in Lokeren, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJPdW3zC2bw0cRQQMgbks2nL4",
-    "name": "Bistro Vienna",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Lokeren",
-    "address": "Bistro Vienna, Stationsplein 6, 9160 Lokeren",
-    "street": "Stationsplein 6",
-    "postal_code": "9160",
-    "region": null,
-    "latitude": 51.107315299999996,
-    "longitude": 3.9876433999999996,
-    "phone": "09 349 03 02",
-    "website": "https://www.restaurantvienna.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bistro%20Vienna&query_place_id=ChIJPdW3zC2bw0cRQQMgbks2nL4",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "12–2 pm",
-        "6:30–10 pm"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "12–2 pm",
-        "6:30–10 pm"
-      ],
-      "Friday": [
-        "12–2 pm",
-        "6:30–10 pm"
-      ],
-      "Saturday": [
-        "6:30–10 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 331,
-    "rating": 4.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd-D5oMrYoeEe4SFGShgnkRzCBnALDHxL1tO4_wJdCj8RBnzzlk2I63XEyz3y1tU2ecyYOzyXJUXf0HcWfkGJoyzD06Rtm2qOJuds7PNHT-Zbbu-YP12GU4nVXBYyqkFJOCP-m9=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd-D5oMrYoeEe4SFGShgnkRzCBnALDHxL1tO4_wJdCj8RBnzzlk2I63XEyz3y1tU2ecyYOzyXJUXf0HcWfkGJoyzD06Rtm2qOJuds7PNHT-Zbbu-YP12GU4nVXBYyqkFJOCP-m9=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Lokeren, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJqwoVoNeaw0cR3gWsjU-xdwo",
-    "name": "Boulalouche Mohamed",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Lokeren",
-    "address": "Boulalouche Mohamed, Brugstraat 81, 9160 Lokeren",
-    "street": "Brugstraat 81",
-    "postal_code": "9160",
-    "region": null,
-    "latitude": 51.1021333,
-    "longitude": 3.9990761999999997,
-    "phone": "09 265 18 38",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boulalouche%20Mohamed&query_place_id=ChIJqwoVoNeaw0cR3gWsjU-xdwo",
-    "open_hours_json": {
-      "Monday": [
-        "9 am–7 pm"
-      ],
-      "Tuesday": [
-        "9 am–7 pm"
-      ],
-      "Wednesday": [
-        "9 am–7 pm"
-      ],
-      "Thursday": [
-        "9 am–7 pm"
-      ],
-      "Friday": [
-        "9 am–7 pm"
-      ],
-      "Saturday": [
-        "9 am–7 pm"
-      ],
-      "Sunday": [
-        "9:30 am–2 pm"
-      ]
-    },
-    "review_count": 3,
-    "rating": 4.3,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=GD5fqHhYsuDATuqpqadPZA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=193.96318&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=GD5fqHhYsuDATuqpqadPZA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=193.96318&pitch=0&thumbfov=w1000-h750-no",
-    "source_query": "Halal restaurant in Lokeren, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJUw3yf9qcw0cRqaf16sNs9uI",
-    "name": "Buurtslagers in Smatch Lokeren Drongenstraat",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Lokeren",
-    "address": "Buurtslagers in Smatch Lokeren Drongenstraat, Drongenstraat 21, 9160 Lokeren",
-    "street": "Drongenstraat 21",
-    "postal_code": "9160",
-    "region": null,
-    "latitude": 51.1008486,
-    "longitude": 3.9074552,
-    "phone": "09 367 00 14",
-    "website": "https://www.buurtslagers.be/nl?utm_medium=organic&utm_source=googlemijnbedrijf&utm_campaign=LOK-DRO",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Buurtslagers%20in%20Smatch%20Lokeren%20Drongenstraat&query_place_id=ChIJUw3yf9qcw0cRqaf16sNs9uI",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "8 am–7 pm"
-      ],
-      "Wednesday": [
-        "8 am–7 pm"
-      ],
-      "Thursday": [
-        "8 am–7 pm"
-      ],
-      "Friday": [
-        "8 am–7 pm"
-      ],
-      "Saturday": [
-        "8 am–7 pm"
-      ],
-      "Sunday": [
-        "8 am–6 pm"
-      ]
-    },
-    "review_count": 3,
-    "rating": 4.7,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rUkU2NgJox33Mp9o70525g&cb_client=search.gws-prod.grass&w=80&h=92&yaw=81.692055&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rUkU2NgJox33Mp9o70525g&cb_client=search.gws-prod.grass&w=80&h=92&yaw=81.692055&pitch=0&thumbfov=w1000-h750-no",
-    "source_query": "Hypermarket in Lokeren, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJHYRLli-bw0cRd35LfOnCBqM",
-    "name": "Can Market Lokeren",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Lokeren",
-    "address": "Can Market Lokeren, Kleine Dam 34b, 9160 Lokeren",
-    "street": "Kleine Dam 34b",
-    "postal_code": "9160",
-    "region": null,
-    "latitude": 51.1024174,
-    "longitude": 3.9856914999999997,
-    "phone": "0477 37 43 82",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Can%20Market%20Lokeren&query_place_id=ChIJHYRLli-bw0cRd35LfOnCBqM",
-    "open_hours_json": {
-      "Monday": [
-        "9:30 am–8 pm"
-      ],
-      "Tuesday": [
-        "9:30 am–8 pm"
-      ],
-      "Wednesday": [
-        "9:30 am–8 pm"
-      ],
-      "Thursday": [
-        "9:30 am–8 pm"
-      ],
-      "Friday": [
-        "Closed"
-      ],
-      "Saturday": [
-        "9:30 am–8 pm"
-      ],
-      "Sunday": [
-        "9:30 am–8 pm"
-      ]
-    },
-    "review_count": 34,
-    "rating": 3.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLclp6jpwCv_mwgOSmNfDx2p5X7bL0FH60CJZKdMkegxU48r9S7SQDJdUqZkx-8fFrlniHEMDb4dwGMgcLQKjFuzLK0m1xUU0KhR3Xv1xRUaF1GP3YoKduiNzNdIZ4FSWwjRfhaB=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLclp6jpwCv_mwgOSmNfDx2p5X7bL0FH60CJZKdMkegxU48r9S7SQDJdUqZkx-8fFrlniHEMDb4dwGMgcLQKjFuzLK0m1xUU0KhR3Xv1xRUaF1GP3YoKduiNzNdIZ4FSWwjRfhaB=w1000-h750-no",
-    "source_query": "Hypermarket in Lokeren, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJZfLnOO6bw0cRd6aD8neea-U",
-    "name": "Chez Ghazi",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Lokeren",
-    "address": "Chez Ghazi, Sterrestraat 227, 9160 Lokeren",
-    "street": "Sterrestraat 227",
-    "postal_code": "9160",
-    "region": null,
-    "latitude": 51.093872,
-    "longitude": 3.9857829999999996,
-    "phone": "0484 98 47 74",
-    "website": "https://www.chezghazi.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chez%20Ghazi&query_place_id=ChIJZfLnOO6bw0cRd6aD8neea-U",
-    "open_hours_json": {
-      "Monday": [
-        "10 am–7 pm"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "10 am–7 pm"
-      ],
-      "Thursday": [
-        "10 am–7 pm"
-      ],
-      "Friday": [
-        "10 am–7 pm"
-      ],
-      "Saturday": [
-        "10 am–7 pm"
-      ],
-      "Sunday": [
-        "10 am–7 pm"
-      ]
-    },
-    "review_count": 57,
-    "rating": 4.8,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe8gWASLlPQ5VHaXQnN3_NKWdkM9MPBDYWJvLRNodCtpANmI7w7iBPzp7h0yI8umpLn2bMHMpH7uAnIx0tCcpdTepcIMZZrTRI4ZEX3S9KM6k7pcibS67zw-WOwP-KIIjlqaus_=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe8gWASLlPQ5VHaXQnN3_NKWdkM9MPBDYWJvLRNodCtpANmI7w7iBPzp7h0yI8umpLn2bMHMpH7uAnIx0tCcpdTepcIMZZrTRI4ZEX3S9KM6k7pcibS67zw-WOwP-KIIjlqaus_=w1000-h750-no",
-    "source_query": "Halal restaurant in Lokeren, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJz5xHlNiaw0cR3Zwxn4IVBMI",
-    "name": "Chiropractie Deknudt Lokeren",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Lokeren",
-    "address": "Chiropractie Deknudt Lokeren, Kon. Boudewijnlaan 40, 9160 Lokeren",
-    "street": "Kon. Boudewijnlaan 40",
-    "postal_code": "9160",
-    "region": null,
-    "latitude": 51.0979788,
-    "longitude": 4.0014835,
-    "phone": "0468 12 89 08",
-    "website": "http://www.chiropraxiedeknudt.com/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chiropractie%20Deknudt%20Lokeren&query_place_id=ChIJz5xHlNiaw0cR3Zwxn4IVBMI",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "8 am–8 pm"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "7:30–8:15 pm"
-      ],
-      "Friday": [
-        "8 am–7 pm"
-      ],
-      "Saturday": [
-        "Closed"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 11,
-    "rating": 4.7,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XEFxhEt52EpG2-bhIlCSgg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=7.970632&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XEFxhEt52EpG2-bhIlCSgg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=7.970632&pitch=0&thumbfov=w1000-h750-no",
-    "source_query": "Pharmacy in Lokeren, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJVcHPeyWbw0cRjs_KmwM4BMk",
-    "name": "Chiropractie Lokeren",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Lokeren",
-    "address": "Chiropractie Lokeren, Bijlkensstraat 9, 9160 Lokeren",
-    "street": "Bijlkensstraat 9",
-    "postal_code": "9160",
-    "region": null,
-    "latitude": 51.1069293,
-    "longitude": 3.9663470999999997,
-    "phone": "0486 45 57 69",
-    "website": "http://www.chiropractielokeren.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chiropractie%20Lokeren&query_place_id=ChIJVcHPeyWbw0cRjs_KmwM4BMk",
-    "open_hours_json": null,
-    "review_count": 1,
-    "rating": 5.0,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfbjQHpcuIthseLUTAzXRpUd_qQSYCvWaFo5evniMGIy4JqEIdiqk24XsjbNVOOfQb4idThiFsFM47XnYjtOE3dJ6EoJY-CqOovN2PO23JGkJmKEqonhaehDj66snd_1XhtCCThdg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfbjQHpcuIthseLUTAzXRpUd_qQSYCvWaFo5evniMGIy4JqEIdiqk24XsjbNVOOfQb4idThiFsFM47XnYjtOE3dJ6EoJY-CqOovN2PO23JGkJmKEqonhaehDj66snd_1XhtCCThdg=w1000-h750-no",
-    "source_query": "Pharmacy in Lokeren, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJQ9syP02bw0cR5fOYbLd70QY",
-    "name": "Collect&Go Lokeren",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Lokeren",
-    "address": "Collect&Go Lokeren, Gentse Steenweg 22, 9160 Lokeren",
-    "street": "Gentse Steenweg 22",
-    "postal_code": "9160",
-    "region": null,
-    "latitude": 51.109579,
-    "longitude": 3.9658799,
-    "phone": "02 363 50 05",
-    "website": "https://www.collectandgo.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Collect%26Go%20Lokeren&query_place_id=ChIJQ9syP02bw0cR5fOYbLd70QY",
-    "open_hours_json": {
-      "Monday": [
-        "8 am–8 pm"
-      ],
-      "Tuesday": [
-        "8 am–8 pm"
-      ],
-      "Wednesday": [
-        "8 am–8 pm"
-      ],
-      "Thursday": [
-        "8 am–8 pm"
-      ],
-      "Friday": [
-        "8 am–9 pm"
-      ],
-      "Saturday": [
-        "8 am–8 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 17,
-    "rating": 4.2,
-    "thumbnail_url": null,
-    "image_url": null,
-    "source_query": "Hypermarket in Lokeren, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJb2Qo6qKFw0cRodfaMDSvuVs",
-    "name": "CİĞERCİ ORHAN",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Lokeren",
-    "address": "CİĞERCİ ORHAN, Antwerpse Steenweg 4, 9160 Lokeren",
-    "street": "Antwerpse Steenweg 4",
-    "postal_code": "9160",
-    "region": null,
-    "latitude": 51.1147973,
-    "longitude": 4.0041283,
-    "phone": "0468 59 50 26",
-    "website": "https://www.cigerciorhan.be/contact/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=C%C4%B0%C4%9EERC%C4%B0%20ORHAN&query_place_id=ChIJb2Qo6qKFw0cRodfaMDSvuVs",
-    "open_hours_json": {
-      "Monday": [
-        "12–10 pm"
-      ],
-      "Tuesday": [
-        "12 am–10 pm"
-      ],
-      "Wednesday": [
-        "12–10 pm"
-      ],
-      "Thursday": [
-        "1 am–10 pm"
-      ],
-      "Friday": [
-        "2–11 pm"
-      ],
-      "Saturday": [
-        "12–11 pm"
-      ],
-      "Sunday": [
-        "12–10 pm"
-      ]
-    },
-    "review_count": 558,
-    "rating": 4.5,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf5QMPhsg4v8jijjKzmXG6by0O9Co_bR4tGiXx5K62e4UQL9RTEDpNCSSKl79rqBmDSWg9BR0-iNjzLAyeBBRD-GZTys-r3ZZKGY2l7uNpKJP82IObC_yAfJ-bjTvRGhQP6aHVR4ZY5v91b=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf5QMPhsg4v8jijjKzmXG6by0O9Co_bR4tGiXx5K62e4UQL9RTEDpNCSSKl79rqBmDSWg9BR0-iNjzLAyeBBRD-GZTys-r3ZZKGY2l7uNpKJP82IObC_yAfJ-bjTvRGhQP6aHVR4ZY5v91b=w1000-h750-no",
-    "source_query": "Halal restaurant in Lokeren, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJF-jDPHmFw0cRCv6WQYk3CAs",
-    "name": "De Castaer",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Lokeren",
-    "address": "De Castaer, Antwerpse Steenweg 22, 9160 Lokeren",
-    "street": "Antwerpse Steenweg 22",
-    "postal_code": "9160",
-    "region": null,
-    "latitude": 51.115260799999994,
-    "longitude": 4.0093447,
-    "phone": "0470 20 23 33",
-    "website": "http://www.decastaer.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=De%20Castaer&query_place_id=ChIJF-jDPHmFw0cRCv6WQYk3CAs",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "5–9 pm"
-      ],
-      "Wednesday": [
-        "12–2 pm",
-        "5–9 pm"
-      ],
-      "Thursday": [
-        "12–2 pm",
-        "5–9 pm"
-      ],
-      "Friday": [
-        "12–2 pm",
-        "5–9 pm"
-      ],
-      "Saturday": [
-        "5–9 pm"
-      ],
-      "Sunday": [
-        "12–2 pm",
-        "5–7:30 pm"
-      ]
-    },
-    "review_count": 237,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdmKHyOkiufTEjJF9KKitHwIcA-Gjvy1FPqnlVafu6uHB2hjegcK6SLE4oWEatUEgRRzizUqrka8bowvx_RImkO_ZEbswfU5inleg7_3RKlhaHDH8xqNYe9_3wK0TvnGJHtV7qVm4iPGmI=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdmKHyOkiufTEjJF9KKitHwIcA-Gjvy1FPqnlVafu6uHB2hjegcK6SLE4oWEatUEgRRzizUqrka8bowvx_RImkO_ZEbswfU5inleg7_3RKlhaHDH8xqNYe9_3wK0TvnGJHtV7qVm4iPGmI=w1000-h750-no",
-    "source_query": "Halal restaurant in Lokeren, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJzYXvoWabw0cRvQzvkdMG04c",
-    "name": "De Lichtinval - Massage & Reiki",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Lokeren",
-    "address": "De Lichtinval - Massage & Reiki, Molenstraat 213, 9160 Lokeren",
-    "street": "Molenstraat 213",
-    "postal_code": "9160",
-    "region": null,
-    "latitude": 51.0980291,
-    "longitude": 3.9978496999999997,
-    "phone": "0477 91 62 21",
-    "website": "https://www.delichtinval.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=De%20Lichtinval%20-%20Massage%20%26%20Reiki&query_place_id=ChIJzYXvoWabw0cRvQzvkdMG04c",
-    "open_hours_json": {
-      "Monday": [
-        "9 am–8 pm"
-      ],
-      "Tuesday": [
-        "9 am–8 pm"
-      ],
-      "Wednesday": [
-        "9 am–8 pm"
-      ],
-      "Thursday": [
-        "9 am–8 pm"
-      ],
-      "Friday": [
-        "9 am–8 pm"
-      ],
-      "Saturday": [
-        "9 am–8 pm"
-      ],
-      "Sunday": [
-        "9 am–8 pm"
-      ]
-    },
-    "review_count": 7,
-    "rating": 5.0,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcJtH6WQ8X3dth_dlSF0H46OHOzVCJF22mI0zYQxrJXvZ2mIp9L7y6abRGnUa9myw7K46OrlFVYxuGY5743YMfsvRFRlW6jY-yX3pOE4sFUnmqwWYtDN7veDO6EqN8n9yibE512zGJVWalC=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcJtH6WQ8X3dth_dlSF0H46OHOzVCJF22mI0zYQxrJXvZ2mIp9L7y6abRGnUa9myw7K46OrlFVYxuGY5743YMfsvRFRlW6jY-yX3pOE4sFUnmqwWYtDN7veDO6EqN8n9yibE512zGJVWalC=w1000-h750-no",
-    "source_query": "Pharmacy in Lokeren, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJLTemGy-bw0cRuhw855g4feE",
-    "name": "De Pyramide",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Lokeren",
-    "address": "De Pyramide, Roomstraat 9, 9160 Lokeren",
-    "street": "Roomstraat 9",
-    "postal_code": "9160",
-    "region": null,
-    "latitude": 51.1033817,
-    "longitude": 3.9876408,
-    "phone": "09 336 58 60",
-    "website": "https://www.depyramide-lokeren.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=De%20Pyramide&query_place_id=ChIJLTemGy-bw0cRuhw855g4feE",
-    "open_hours_json": {
-      "Monday": [
-        "3 pm–1 am"
-      ],
-      "Tuesday": [
-        "3 pm–1 am"
-      ],
-      "Wednesday": [
-        "3 pm–1 am"
-      ],
-      "Thursday": [
-        "3 pm–1 am"
-      ],
-      "Friday": [
-        "4 pm–1 am"
-      ],
-      "Saturday": [
-        "4 pm–1 am"
-      ],
-      "Sunday": [
-        "3 pm–1 am"
-      ]
-    },
-    "review_count": 250,
-    "rating": 4.0,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfelMTi0NYjUque_e2dxoQRcvMvKBHjyesehGb21Qit68mpkTJ733DCoybkcP5XYED98fNvwAfhjerWc8mg7-5Dz6vId4GXRiQbEPrJgqRCqD_eMPqfNcNYHmXfBe70ie-jyMcQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfelMTi0NYjUque_e2dxoQRcvMvKBHjyesehGb21Qit68mpkTJ733DCoybkcP5XYED98fNvwAfhjerWc8mg7-5Dz6vId4GXRiQbEPrJgqRCqD_eMPqfNcNYHmXfBe70ie-jyMcQ=w1000-h750-no",
-    "source_query": "Halal restaurant in Lokeren, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJnZsdFSybw0cRJ88WQ5AhUM4",
-    "name": "Diyanet Sakarya Camii (Moskee) Lokeren",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Lokeren",
-    "address": "Diyanet Sakarya Camii (Moskee) Lokeren, Koophandelstraat 19, 9160 Lokeren",
-    "street": "Koophandelstraat 19",
-    "postal_code": "9160",
-    "region": null,
-    "latitude": 51.1075206,
-    "longitude": 3.9891691999999996,
-    "phone": "09 348 83 81",
-    "website": "https://lokerendiyanetsakaryacamiiblog.wordpress.com/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Diyanet%20Sakarya%20Camii%20%28Moskee%29%20Lokeren&query_place_id=ChIJnZsdFSybw0cRJ88WQ5AhUM4",
-    "open_hours_json": {
-      "Monday": [
-        "9 am–11 pm"
-      ],
-      "Tuesday": [
-        "9 am–11 pm"
-      ],
-      "Wednesday": [
-        "9 am–11 pm"
-      ],
-      "Thursday": [
-        "9 am–11 pm"
-      ],
-      "Friday": [
-        "9 am–11 pm"
-      ],
-      "Saturday": [
-        "9 am–11 pm"
-      ],
-      "Sunday": [
-        "9 am–11 pm"
-      ]
-    },
-    "review_count": 33,
-    "rating": 4.8,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdhrdv5x9_r3FKI29VjssbzztTWdiwFnQVfeK3jOa8G5DYZS_zmbbkIM-PD2-hA5oCbinacZ4PQp93uJfxPKhVQWCMpwaifiy42rLADV-JfgJw2hAFMGdaYqydbivDSuDg1O1G6=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdhrdv5x9_r3FKI29VjssbzztTWdiwFnQVfeK3jOa8G5DYZS_zmbbkIM-PD2-hA5oCbinacZ4PQp93uJfxPKhVQWCMpwaifiy42rLADV-JfgJw2hAFMGdaYqydbivDSuDg1O1G6=w1000-h750-no",
-    "source_query": "Mosque in Zottegem, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ-WFxxe2bw0cRs0m7vDWtjBc",
-    "name": "Diyanet Sakarya Moskee Lokeren",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Lokeren",
-    "address": "Diyanet Sakarya Moskee Lokeren, Sterrestraat 96, 9160 Lokeren",
-    "street": "Sterrestraat 96",
-    "postal_code": "9160",
-    "region": null,
-    "latitude": 51.0975839,
-    "longitude": 3.986586,
-    "phone": "0484 20 56 32",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Diyanet%20Sakarya%20Moskee%20Lokeren&query_place_id=ChIJ-WFxxe2bw0cRs0m7vDWtjBc",
-    "open_hours_json": null,
-    "review_count": 69,
-    "rating": 4.9,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfKLNPuE7zFo1Sux_EBY3HYADa8syAFXQXxWbDdBpJbyM9Q3GfiAOOJJj2lOJ6AS8nf0HvL1lrJ-2ruz97ugXW31ERT8dIrKjlPpg3jDQJg7elaFGHmljj1dKPyypThQxrxwww=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfKLNPuE7zFo1Sux_EBY3HYADa8syAFXQXxWbDdBpJbyM9Q3GfiAOOJJj2lOJ6AS8nf0HvL1lrJ-2ruz97ugXW31ERT8dIrKjlPpg3jDQJg7elaFGHmljj1dKPyypThQxrxwww=w1000-h750-no",
-    "source_query": "Mosque in Zottegem, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJuwSXaCqbw0cRQkFS-BH2FlU",
-    "name": "Dr. Hilde Vlaminck",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Lokeren",
-    "address": "Dr. Hilde Vlaminck, Sportlaan 5/0002, 9160 Lokeren",
-    "street": "Sportlaan 5/0002",
-    "postal_code": "9160",
-    "region": null,
-    "latitude": 51.106293799999996,
-    "longitude": 3.9974676,
-    "phone": "09 328 53 83",
-    "website": "http://www.kinderartslokeren.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Dr.%20Hilde%20Vlaminck&query_place_id=ChIJuwSXaCqbw0cRQkFS-BH2FlU",
-    "open_hours_json": {
-      "Monday": [
-        "8 am–8 pm"
-      ],
-      "Tuesday": [
-        "8 am–8 pm"
-      ],
-      "Wednesday": [
-        "8 am–8 pm"
-      ],
-      "Thursday": [
-        "8 am–8 pm"
-      ],
-      "Friday": [
-        "8 am–6 pm"
-      ],
-      "Saturday": [
-        "Closed"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 16,
-    "rating": 4.2,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5DxGphqz6uXOzUSY7333GA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=263.7405&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5DxGphqz6uXOzUSY7333GA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=263.7405&pitch=0&thumbfov=w1000-h750-no",
-    "source_query": "Pharmacy in Lokeren, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJs52iaiibw0cRHVypvtusjXI",
-    "name": "Dunya Supermarket",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Lokeren",
-    "address": "Dunya Supermarket, Molenstraat 6, 9160 9160, Zand 23, 9160 Lokeren",
-    "street": "Molenstraat 6, 9160 9160, Zand 23",
-    "postal_code": "9160",
-    "region": null,
-    "latitude": 51.1023366,
-    "longitude": 3.9952454,
-    "phone": "0486 54 64 96",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Dunya%20Supermarket&query_place_id=ChIJs52iaiibw0cRHVypvtusjXI",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "10 am–7 pm"
-      ],
-      "Wednesday": [
-        "10 am–7 pm"
-      ],
-      "Thursday": [
-        "10 am–7 pm"
-      ],
-      "Friday": [
-        "10 am–7 pm"
-      ],
-      "Saturday": [
-        "10 am–7 pm"
-      ],
-      "Sunday": [
-        "10 am–7 pm"
-      ]
-    },
-    "review_count": 65,
-    "rating": 3.9,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe5eN28tgibAXP22fcHSW_RJL0DrujB6JNsw3OD-O3qyOgmoS05d6GNfgqCAuJNODkZ_CC4ws1QikTY8AYqZbuljeruL7_1vCyB2SdEhuJdNfp_y_wbk1zESEc69ki5BnvYCIoI=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe5eN28tgibAXP22fcHSW_RJL0DrujB6JNsw3OD-O3qyOgmoS05d6GNfgqCAuJNODkZ_CC4ws1QikTY8AYqZbuljeruL7_1vCyB2SdEhuJdNfp_y_wbk1zESEc69ki5BnvYCIoI=w1000-h750-no",
-    "source_query": "Halal restaurant in Lokeren, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJPxaxHdaaw0cRJDUXZVv8SBg",
-    "name": "Dynamic - Kine - Osteo - Sport",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Lokeren",
-    "address": "Dynamic - Kine - Osteo - Sport, Poststraat 120, 9160 Lokeren",
-    "street": "Poststraat 120",
-    "postal_code": "9160",
-    "region": null,
-    "latitude": 51.105258799999994,
-    "longitude": 3.9966448999999997,
-    "phone": "09 348 35 07",
-    "website": "http://www.kine-lokeren.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Dynamic%20-%20Kine%20-%20Osteo%20-%20Sport&query_place_id=ChIJPxaxHdaaw0cRJDUXZVv8SBg",
-    "open_hours_json": {
-      "Monday": [
-        "8 am–8 pm"
-      ],
-      "Tuesday": [
-        "8 am–8 pm"
-      ],
-      "Wednesday": [
-        "8 am–8 pm"
-      ],
-      "Thursday": [
-        "8 am–8 pm"
-      ],
-      "Friday": [
-        "8 am–8 pm"
-      ],
-      "Saturday": [
-        "Closed"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 7,
-    "rating": 4.9,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=G_RXWc4-m0ZIRGzaTefTTA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=327.48517&pitch=5.8202877&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=G_RXWc4-m0ZIRGzaTefTTA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=327.48517&pitch=5.8202877&thumbfov=w1000-h750-no",
-    "source_query": "Pharmacy in Lokeren, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJa6H2Oc2aw0cRjXGGXiLJPxk",
-    "name": "Fruitpaleis",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Lokeren",
-    "address": "Fruitpaleis, Oude Heerweg 33, 9160 Lokeren",
-    "street": "Oude Heerweg 33",
-    "postal_code": "9160",
-    "region": null,
-    "latitude": 51.114150099999996,
-    "longitude": 3.9962236,
-    "phone": "09 339 10 00",
-    "website": "https://www.fruitpaleislokeren.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Fruitpaleis&query_place_id=ChIJa6H2Oc2aw0cRjXGGXiLJPxk",
-    "open_hours_json": {
-      "Monday": [
-        "8 am–12:30 pm",
-        "1:30–6:30 pm"
-      ],
-      "Tuesday": [
-        "8 am–12:30 pm",
-        "1:30–6:30 pm"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "8 am–12:30 pm",
-        "1:30–6:30 pm"
-      ],
-      "Friday": [
-        "8 am–12:30 pm",
-        "1:30–6:30 pm"
-      ],
-      "Saturday": [
-        "8 am–12:30 pm",
-        "1:30–4 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 45,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLctvmrxpb1KEy0jket_6W8zdL2ljCn3dNj9wsQS0KqwDfGRemroBTZ5ACiVlWM7Jc9DAwsrRQt2FVHqn6JVuBqT-TKFf7tGFPTrjjk9NnssCRn4LXcu1hEV1a4_hSAvFmGuuN-o=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLctvmrxpb1KEy0jket_6W8zdL2ljCn3dNj9wsQS0KqwDfGRemroBTZ5ACiVlWM7Jc9DAwsrRQt2FVHqn6JVuBqT-TKFf7tGFPTrjjk9NnssCRn4LXcu1hEV1a4_hSAvFmGuuN-o=w1000-h750-no",
-    "source_query": "Hypermarket in Lokeren, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJaVFOmZybw0cRyHFt6yIwM7A",
-    "name": "HFC Lokeren",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Lokeren",
-    "address": "HFC Lokeren, Tweebruggenstraat 2C, 9160 Lokeren",
-    "street": "Tweebruggenstraat 2C",
-    "postal_code": "9160",
-    "region": null,
-    "latitude": 51.1105802,
-    "longitude": 3.9824943999999998,
-    "phone": "09 367 05 55",
-    "website": "https://hfcbelgium.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=HFC%20Lokeren&query_place_id=ChIJaVFOmZybw0cRyHFt6yIwM7A",
-    "open_hours_json": {
-      "Monday": [
-        "12–9 pm"
-      ],
-      "Tuesday": [
-        "12–9 pm"
-      ],
-      "Wednesday": [
-        "12–9 pm"
-      ],
-      "Thursday": [
-        "12–9 pm"
-      ],
-      "Friday": [
-        "12–9 pm"
-      ],
-      "Saturday": [
-        "2–9 pm"
-      ],
-      "Sunday": [
-        "2–9 pm"
-      ]
-    },
-    "review_count": 468,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe_IHCCkC2lL32g9mJ7yOkRtqJCCFv84xIRt7zTUlJjDO2wTFq13TpyRt9nnWvaND1-0l4O4FhcOKXeCgCTwpw9ioQmOaIDGaGfO7d9bg3KQuhHd-6Mf1aKQEs7ZJ1XKuewtha7=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe_IHCCkC2lL32g9mJ7yOkRtqJCCFv84xIRt7zTUlJjDO2wTFq13TpyRt9nnWvaND1-0l4O4FhcOKXeCgCTwpw9ioQmOaIDGaGfO7d9bg3KQuhHd-6Mf1aKQEs7ZJ1XKuewtha7=w1000-h750-no",
-    "source_query": "Halal restaurant in Lokeren, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJBQjpRNGaw0cRLljp6-M6BtY",
-    "name": "Happy Belly",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Lokeren",
-    "address": "Happy Belly, Oude-Bruglaan 98, 9160 Lokeren",
-    "street": "Oude-Bruglaan 98",
-    "postal_code": "9160",
-    "region": null,
-    "latitude": 51.1052282,
-    "longitude": 4.0039416,
-    "phone": "09 391 28 16",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Happy%20Belly&query_place_id=ChIJBQjpRNGaw0cRLljp6-M6BtY",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "9:30 am–12 pm",
-        "1:30–6 pm"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "1:30–6 pm"
-      ],
-      "Friday": [
-        "9:30 am–12 pm",
-        "1:30–6 pm"
-      ],
-      "Saturday": [
-        "9 am–12 pm",
-        "1:30–5 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 5,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcqjl2IAQyi1lZ3SAP_LffjjkpqFG68Nqt2c3hxpTaZ53xH-1z2kjWk6zMwXO1H5cm6-YbQyAf1kseXngWW_Snt-oTUBiloAolRoh-FCIrxNtFVu3VlfHNtPDpmitT2TVZJx8ky=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcqjl2IAQyi1lZ3SAP_LffjjkpqFG68Nqt2c3hxpTaZ53xH-1z2kjWk6zMwXO1H5cm6-YbQyAf1kseXngWW_Snt-oTUBiloAolRoh-FCIrxNtFVu3VlfHNtPDpmitT2TVZJx8ky=w1000-h750-no",
-    "source_query": "Hypermarket in Lokeren, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJs6jqAymbw0cRzsmKJiB0p8E",
-    "name": "Hema",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Lokeren",
-    "address": "Hema, Kerkstraat 3/5, 9160 Lokeren",
-    "street": "Kerkstraat 3/5",
-    "postal_code": "9160",
-    "region": null,
-    "latitude": 51.103773999999994,
-    "longitude": 3.9924598999999996,
-    "phone": "09 326 99 00",
-    "website": "https://be-winkels.hema.com/nl_BE/hema-lokeren-2b05fd102341?y_source=1_MTU0NTY4NDctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Hema&query_place_id=ChIJs6jqAymbw0cRzsmKJiB0p8E",
-    "open_hours_json": {
-      "Monday": [
-        "9 am–6 pm"
-      ],
-      "Tuesday": [
-        "9 am–6 pm"
-      ],
-      "Wednesday": [
-        "9 am–6 pm"
-      ],
-      "Thursday": [
-        "9 am–6 pm"
-      ],
-      "Friday": [
-        "9 am–6 pm"
-      ],
-      "Saturday": [
-        "9 am–6 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 102,
-    "rating": 4.2,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcuB0NCN0jZuxfBRSP4lGuwel8DFU6F1tOuWXrnDBikR9xbirTVFjs5qN_QkYnjdFXUpxKDJ4pNtaHkC6iePu3tKWCGJmjmSRhMS2dap8w8Ykqwtke6PHEXS9GnqT0giLdmq1M=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcuB0NCN0jZuxfBRSP4lGuwel8DFU6F1tOuWXrnDBikR9xbirTVFjs5qN_QkYnjdFXUpxKDJ4pNtaHkC6iePu3tKWCGJmjmSRhMS2dap8w8Ykqwtke6PHEXS9GnqT0giLdmq1M=w1000-h750-no",
-    "source_query": "Hypermarket in Lokeren, Flanders, BE",
     "moderation_status": "approved",
     "is_active": true,
     "verification_status": "UNVERIFIED",

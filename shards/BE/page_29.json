@@ -1,5 +1,1132 @@
 [
   {
+    "place_id": "ChIJPX6Lrm7Dw0cRAuGIfS_4E-8",
+    "name": "BEES coop",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Schaerbeek",
+    "address": "BEES coop, Rue Van Hove 19, 1030 Schaerbeek",
+    "street": "Rue Van Hove 19",
+    "postal_code": "1030",
+    "region": null,
+    "latitude": 50.856876899999996,
+    "longitude": 4.3773124,
+    "phone": null,
+    "website": "http://bees-coop.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=BEES%20coop&query_place_id=ChIJPX6Lrm7Dw0cRAuGIfS_4E-8",
+    "open_hours_json": {
+      "Monday": [
+        "1–7:30 pm"
+      ],
+      "Tuesday": [
+        "8 am–7:30 pm"
+      ],
+      "Wednesday": [
+        "8 am–7:30 pm"
+      ],
+      "Thursday": [
+        "8 am–7:30 pm"
+      ],
+      "Friday": [
+        "8 am–7:30 pm"
+      ],
+      "Saturday": [
+        "8 am–7:30 pm"
+      ],
+      "Sunday": [
+        "9:45 am–1 pm"
+      ]
+    },
+    "review_count": 445,
+    "rating": 4.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfFRzHql3Mjzj7dkMSMsklt5dQFj0GIS4UzVO03ynjlx5xcESavl5G_GTxGmasbkVEHEaEdFoMEkm_eInMxyb_WMKH5zXwBwSUzSAUESp1NF6q7Z_KdCYwzfSnRx31qpFudoHP59w=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfFRzHql3Mjzj7dkMSMsklt5dQFj0GIS4UzVO03ynjlx5xcESavl5G_GTxGmasbkVEHEaEdFoMEkm_eInMxyb_WMKH5zXwBwSUzSAUESp1NF6q7Z_KdCYwzfSnRx31qpFudoHP59w=w1000-h750-no",
+    "source_query": "Hypermarket in Brussels, Brussels Capital, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJoVTDgr_Rw0cRxwA2ghwkVZY",
+    "name": "Cous’Cup",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Schaerbeek",
+    "address": "Cous’Cup, Rue du Progrès 76, 1030 Schaerbeek",
+    "street": "Rue du Progrès 76",
+    "postal_code": "1030",
+    "region": null,
+    "latitude": 50.8596107,
+    "longitude": 4.3606678,
+    "phone": "0470 53 16 42",
+    "website": "https://couscup.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cous%E2%80%99Cup&query_place_id=ChIJoVTDgr_Rw0cRxwA2ghwkVZY",
+    "open_hours_json": {
+      "Monday": [
+        "7:30 am–6 pm"
+      ],
+      "Tuesday": [
+        "7:30 am–6 pm"
+      ],
+      "Wednesday": [
+        "7:30 am–6 pm"
+      ],
+      "Thursday": [
+        "7:30 am–6 pm"
+      ],
+      "Friday": [
+        "7:30 am–6 pm"
+      ],
+      "Saturday": [
+        "Closed"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 112,
+    "rating": 4.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeBr81O5DmK8HJEB2j6MFb3NBMUNqH2UZQHoVoqnkEaNw_4BSkJ2Rxc4-FRA7J1QC7-qeKZknBEN27WeIwUUohjExM2shgaBmRv_ieLyBjzUg5Tpt3J_d9K5nKixnaUh9xiIKmwomcS8nk=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeBr81O5DmK8HJEB2j6MFb3NBMUNqH2UZQHoVoqnkEaNw_4BSkJ2Rxc4-FRA7J1QC7-qeKZknBEN27WeIwUUohjExM2shgaBmRv_ieLyBjzUg5Tpt3J_d9K5nKixnaUh9xiIKmwomcS8nk=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Vilvoorde, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJDRhaexLDw0cRRP_qhDf-gQg",
+    "name": "Cuisine Mina Les Saveurs Marocaines",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Schaerbeek",
+    "address": "Cuisine Mina Les Saveurs Marocaines, Av. Maréchal Foch 91, 1030 Schaerbeek",
+    "street": "Av. Maréchal Foch 91",
+    "postal_code": "1030",
+    "region": null,
+    "latitude": 50.870895999999995,
+    "longitude": 4.3754208,
+    "phone": "0493 87 93 71",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cuisine%20Mina%20Les%20Saveurs%20Marocaines&query_place_id=ChIJDRhaexLDw0cRRP_qhDf-gQg",
+    "open_hours_json": {
+      "Monday": [
+        "7:30 am–8 pm"
+      ],
+      "Tuesday": [
+        "7:30 am–8 pm"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "7:30 am–8 pm"
+      ],
+      "Friday": [
+        "7:30 am–8 pm"
+      ],
+      "Saturday": [
+        "7:30 am–8 pm"
+      ],
+      "Sunday": [
+        "7:30 am–8 pm"
+      ]
+    },
+    "review_count": 39,
+    "rating": 4.9,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLemzvylrVqStfB8xypRGMYls1FvPFJ4F3LnfGfGso-d-di8NFEdNwR8LTvtKV_ISZ9U1UuqGgExYsV-7v6bf8vc3mnc-Nv5mSUkh8EOfNTNwz8xQkE4Dc7YR6dVl2ivSwTYtQq5IQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLemzvylrVqStfB8xypRGMYls1FvPFJ4F3LnfGfGso-d-di8NFEdNwR8LTvtKV_ISZ9U1UuqGgExYsV-7v6bf8vc3mnc-Nv5mSUkh8EOfNTNwz8xQkE4Dc7YR6dVl2ivSwTYtQq5IQ=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Vilvoorde, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJPxpXQCfDw0cRYyDJwMaa2gI",
+    "name": "Dar Meryem",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Schaerbeek",
+    "address": "Dar Meryem, Chau. de Helmet 294, 1030 Schaerbeek",
+    "street": "Chau. de Helmet 294",
+    "postal_code": "1030",
+    "region": null,
+    "latitude": 50.8747713,
+    "longitude": 4.3888959,
+    "phone": "02 779 33 29",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Dar%20Meryem&query_place_id=ChIJPxpXQCfDw0cRYyDJwMaa2gI",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "10 am–10 pm"
+      ],
+      "Wednesday": [
+        "10 am–10 pm"
+      ],
+      "Thursday": [
+        "10 am–10 pm"
+      ],
+      "Friday": [
+        "10 am–11 pm"
+      ],
+      "Saturday": [
+        "10 am–11 pm"
+      ],
+      "Sunday": [
+        "10 am–10 pm"
+      ]
+    },
+    "review_count": 457,
+    "rating": 4.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeTk3Z-JMZGmiCBL8Vxh6JQr8vcHv6l1v26qH4Z91UAMg6A_zTZVRpy6_YW5Zk1ETTXdO_QHPn1f1bMMPPVmtnVQrGgBauD-W1thP7CBpaKYwB3uol_si829bnfKzGDysHmaKesq4nTDz-x=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeTk3Z-JMZGmiCBL8Vxh6JQr8vcHv6l1v26qH4Z91UAMg6A_zTZVRpy6_YW5Zk1ETTXdO_QHPn1f1bMMPPVmtnVQrGgBauD-W1thP7CBpaKYwB3uol_si829bnfKzGDysHmaKesq4nTDz-x=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Vilvoorde, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJbwdSsA3Dw0cR_OT7_AiTVtM",
+    "name": "L'andalou",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Schaerbeek",
+    "address": "L'andalou, Rue François-Joseph Navez 60, 1030 Schaerbeek",
+    "street": "Rue François-Joseph Navez 60",
+    "postal_code": "1030",
+    "region": null,
+    "latitude": 50.8716277,
+    "longitude": 4.3724007,
+    "phone": null,
+    "website": "https://fr.restaurantguru.com/Landalou-Schaerbeek",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=L%27andalou&query_place_id=ChIJbwdSsA3Dw0cR_OT7_AiTVtM",
+    "open_hours_json": {
+      "Monday": [
+        "7 am–12 am"
+      ],
+      "Tuesday": [
+        "7 am–12 am"
+      ],
+      "Wednesday": [
+        "7 am–12 am"
+      ],
+      "Thursday": [
+        "7 am–12 am"
+      ],
+      "Friday": [
+        "7 am–1 am"
+      ],
+      "Saturday": [
+        "7 am–1 am"
+      ],
+      "Sunday": [
+        "7 am–12 am"
+      ]
+    },
+    "review_count": 296,
+    "rating": 4.0,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLffbysQqUIeehGWpbxHGCK6hi-KG8Ee4QFawWg5SCRwRKPOwa8fP2sfF5FSSfVeV_LaiglJeJqcHbOKPL0slabpx0PNjLfgBEV_iHZyfiE600HJ0HN9W_t4DjlnOCEoJLQkCqZfeQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLffbysQqUIeehGWpbxHGCK6hi-KG8Ee4QFawWg5SCRwRKPOwa8fP2sfF5FSSfVeV_LaiglJeJqcHbOKPL0slabpx0PNjLfgBEV_iHZyfiE600HJ0HN9W_t4DjlnOCEoJLQkCqZfeQ=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Vilvoorde, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ_T-7gpPDw0cRuSOn1iEjJUs",
+    "name": "Lovent borek",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Schaerbeek",
+    "address": "Lovent borek, Chau. de Haecht 132, 1030 Schaerbeek",
+    "street": "Chau. de Haecht 132",
+    "postal_code": "1030",
+    "region": null,
+    "latitude": 50.8588861,
+    "longitude": 4.3706961,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Lovent%20borek&query_place_id=ChIJ_T-7gpPDw0cRuSOn1iEjJUs",
+    "open_hours_json": {
+      "Monday": [
+        "12–2:30 pm",
+        "6–11 pm"
+      ],
+      "Tuesday": [
+        "12–2:30 pm",
+        "6–11 pm"
+      ],
+      "Wednesday": [
+        "12–3 pm",
+        "6–11 pm"
+      ],
+      "Thursday": [
+        "12–3 pm",
+        "6–11 pm"
+      ],
+      "Friday": [
+        "12–3 pm",
+        "6–11 pm"
+      ],
+      "Saturday": [
+        "12–3 pm",
+        "6–11 pm"
+      ],
+      "Sunday": [
+        "12–3 pm",
+        "6–11 pm"
+      ]
+    },
+    "review_count": 5,
+    "rating": 3.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe9rp05qLmy8eOOomYXnagH90LcC-nAFeESVL1JkhrnDnBn3YRwxc8dnxx1MA7avn-hz2ru1wcIK_LUtiKRfb9YmU44t9hxS9W5iVyug8-ltFT55E9Rxbd-Plpyj-gVjWwcqLEv=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe9rp05qLmy8eOOomYXnagH90LcC-nAFeESVL1JkhrnDnBn3YRwxc8dnxx1MA7avn-hz2ru1wcIK_LUtiKRfb9YmU44t9hxS9W5iVyug8-ltFT55E9Rxbd-Plpyj-gVjWwcqLEv=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Vilvoorde, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJz-iXZdLDw0cR-dI-x5buZ1I",
+    "name": "Restaurant mamounia 2",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Schaerbeek",
+    "address": "Restaurant mamounia 2, Av. de la Reine 94, 1030 Schaerbeek",
+    "street": "Av. de la Reine 94",
+    "postal_code": "1030",
+    "region": null,
+    "latitude": 50.8678891,
+    "longitude": 4.3632086999999995,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20mamounia%202&query_place_id=ChIJz-iXZdLDw0cR-dI-x5buZ1I",
+    "open_hours_json": null,
+    "review_count": 0,
+    "rating": null,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YflIDgyutXqo6H0NAts2Pg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=261.60464&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YflIDgyutXqo6H0NAts2Pg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=261.60464&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Vilvoorde, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJTymJJRHDw0cRhUXe-dNPgtY",
+    "name": "Snack Grill Darna",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Schaerbeek",
+    "address": "Snack Grill Darna, Rue Van Oost 6, 1030 Schaerbeek",
+    "street": "Rue Van Oost 6",
+    "postal_code": "1030",
+    "region": null,
+    "latitude": 50.870239299999994,
+    "longitude": 4.3722676,
+    "phone": "0496 74 40 64",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Snack%20Grill%20Darna&query_place_id=ChIJTymJJRHDw0cRhUXe-dNPgtY",
+    "open_hours_json": null,
+    "review_count": 41,
+    "rating": 4.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdAOOX-BvPAwr2V8N6ksm_gDF3eb_Nb6OkOx8We3GuaVMd7OXqX26jDpXJPveumt4xdu9czF1FGyQzqOxiTu7u7aZLCxs15EuODsFkil-EUFRrtwLl52EpA-ia3AXObyAVdk7YV=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdAOOX-BvPAwr2V8N6ksm_gDF3eb_Nb6OkOx8We3GuaVMd7OXqX26jDpXJPveumt4xdu9czF1FGyQzqOxiTu7u7aZLCxs15EuODsFkil-EUFRrtwLl52EpA-ia3AXObyAVdk7YV=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Vilvoorde, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata"
+  },
+  {
+    "place_id": "ChIJmW2WfHDDw0cROzJh0gfQW2M",
+    "name": "TEO SUPERMARKET",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Schaerbeek",
+    "address": "TEO SUPERMARKET, Chau. de Haecht, 1030 Schaerbeek",
+    "street": "Chau. de Haecht",
+    "postal_code": "1030",
+    "region": null,
+    "latitude": 50.8582708,
+    "longitude": 4.369989299999999,
+    "phone": "02 217 75 32",
+    "website": "https://www.facebook.com/Supermarket-TEO-1442630722657277/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=TEO%20SUPERMARKET&query_place_id=ChIJmW2WfHDDw0cROzJh0gfQW2M",
+    "open_hours_json": {
+      "Monday": [
+        "8:30 am–8 pm"
+      ],
+      "Tuesday": [
+        "9 am–8:30 pm"
+      ],
+      "Wednesday": [
+        "8:30 am–8 pm"
+      ],
+      "Thursday": [
+        "8:30 am–8 pm"
+      ],
+      "Friday": [
+        "8:30 am–8:30 pm"
+      ],
+      "Saturday": [
+        "8 am–8:30 pm"
+      ],
+      "Sunday": [
+        "8 am–8:30 pm"
+      ]
+    },
+    "review_count": 51,
+    "rating": 3.2,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeo6fwthhzD8Pun_hP9NJTNC5iruSzvsrmrvWvK0uGIeGprmTMWkto5xgCzXD6JMkUVwtoGncSezHRCEUP1DjOs2ulCEcfDETxGsdkvdR22BIWsBlFz6oEAMfCZToVATe4jpIpafdgDI-DU=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeo6fwthhzD8Pun_hP9NJTNC5iruSzvsrmrvWvK0uGIeGprmTMWkto5xgCzXD6JMkUVwtoGncSezHRCEUP1DjOs2ulCEcfDETxGsdkvdR22BIWsBlFz6oEAMfCZToVATe4jpIpafdgDI-DU=w1000-h750-no",
+    "source_query": "Hypermarket in Brussels, Brussels Capital, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJHR5tXHDDw0cRjuEPgcoC93E",
+    "name": "Uğur Market",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Schaerbeek",
+    "address": "Uğur Market, Koninginneplein 22, 1030 Schaarbeek",
+    "street": "Pl. de la Reine 22",
+    "postal_code": "1030",
+    "region": null,
+    "latitude": 50.8592674,
+    "longitude": 4.3702556,
+    "phone": "0486 05 08 68",
+    "website": "http://www.dodom.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=U%C4%9Fur%20Market&query_place_id=ChIJHR5tXHDDw0cRjuEPgcoC93E",
+    "open_hours_json": {
+      "Monday": [
+        "9 am–8 pm"
+      ],
+      "Tuesday": [
+        "9 am–8 pm"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "9 am–8 pm"
+      ],
+      "Friday": [
+        "9 am–8 pm"
+      ],
+      "Saturday": [
+        "9 am–8 pm"
+      ],
+      "Sunday": [
+        "9 am–8 pm"
+      ]
+    },
+    "review_count": 275,
+    "rating": 4.4,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfJ3XfNXqjfkjDdc3RoG48elNXU0z6a1RNq-IdF3AiUJU-rEbVmUsKIZahiW1Dc5rTO3KopBWCanC5G3TBycu1a8FgEQ7HmEN-WnQUuxlQ46lCOfSn85zh42LPvDXCBGudMWOPUOA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfJ3XfNXqjfkjDdc3RoG48elNXU0z6a1RNq-IdF3AiUJU-rEbVmUsKIZahiW1Dc5rTO3KopBWCanC5G3TBycu1a8FgEQ7HmEN-WnQUuxlQ46lCOfSn85zh42LPvDXCBGudMWOPUOA=w1000-h750-no",
+    "source_query": "Hypermarket in Brussels, Brussels Capital, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJV_iU-XbDw0cR3jLE7HHTsEg",
+    "name": "Walima",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Schaerbeek",
+    "address": "Walima, Rue de Brabant 184, 1030 Schaerbeek",
+    "street": "Rue de Brabant 184",
+    "postal_code": "1030",
+    "region": null,
+    "latitude": 50.861083799999996,
+    "longitude": 4.364107,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Walima&query_place_id=ChIJV_iU-XbDw0cR3jLE7HHTsEg",
+    "open_hours_json": {
+      "Monday": [
+        "12–8 pm"
+      ],
+      "Tuesday": [
+        "12–8 pm"
+      ],
+      "Wednesday": [
+        "12–8 pm"
+      ],
+      "Thursday": [
+        "12–8 pm"
+      ],
+      "Friday": [
+        "12–10 pm"
+      ],
+      "Saturday": [
+        "12–10 pm"
+      ],
+      "Sunday": [
+        "12–10 pm"
+      ]
+    },
+    "review_count": 166,
+    "rating": 3.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLej-nsn6OEI09yKv6NOLomvOioyzEe1I5vaMfB5zk6LWyae3sX4BRgTkofqvWaUC0JlyYJA8zeYQJ7AqGjjUB1FE8jDDqtfXW5mx3DvDw74UR1ap_slQMcDMA_0htOKkntPL0zHww=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLej-nsn6OEI09yKv6NOLomvOioyzEe1I5vaMfB5zk6LWyae3sX4BRgTkofqvWaUC0JlyYJA8zeYQJ7AqGjjUB1FE8jDDqtfXW5mx3DvDw74UR1ap_slQMcDMA_0htOKkntPL0zHww=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Vilvoorde, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJG5mtuQzDw0cR3iGw7_qfRzA",
+    "name": "lefloranger",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Schaerbeek",
+    "address": "lefloranger, Rue Van Droogenbroeck 4, 1030 Schaerbeek",
+    "street": "Rue Van Droogenbroeck 4",
+    "postal_code": "1030",
+    "region": null,
+    "latitude": 50.877483999999995,
+    "longitude": 4.3881065999999995,
+    "phone": "0494 48 01 30",
+    "website": "https://lefloranger.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=lefloranger&query_place_id=ChIJG5mtuQzDw0cR3iGw7_qfRzA",
+    "open_hours_json": null,
+    "review_count": 0,
+    "rating": null,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=keAMXeAutKRsc_5V5L6OwA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=31.370392&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=keAMXeAutKRsc_5V5L6OwA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=31.370392&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Vilvoorde, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ_bZvDRXzw0cRSMuxg-kGB1Q",
+    "name": "Mosquée Tawfieq / Moskee Tawfieq",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Schelle",
+    "address": "Mosquée Tawfieq / Moskee Tawfieq, Steenwinkelstraat 11, 2627 Schelle",
+    "street": "Steenwinkelstraat 11",
+    "postal_code": "2627",
+    "region": null,
+    "latitude": 51.125633099999995,
+    "longitude": 4.3398087,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mosqu%C3%A9e%20Tawfieq%20%2F%20Moskee%20Tawfieq&query_place_id=ChIJ_bZvDRXzw0cRSMuxg-kGB1Q",
+    "open_hours_json": null,
+    "review_count": 15,
+    "rating": 4.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLddgbJStC19OUTOIptGjQrkYTRteTrKQmLC0LnXX6sC8IBVsziLui3SdON3mY1EXTYcLfdW3jCv1fJTiJ1PI96tRWfY2JuxPNdGPJqhDr60HRP8Jo9uHx_1Cwrr0QlruuSEAmxZ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLddgbJStC19OUTOIptGjQrkYTRteTrKQmLC0LnXX6sC8IBVsziLui3SdON3mY1EXTYcLfdW3jCv1fJTiJ1PI96tRWfY2JuxPNdGPJqhDr60HRP8Jo9uHx_1Cwrr0QlruuSEAmxZ=w1000-h750-no",
+    "source_query": "Mosque in Veurne, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ2YOxFzhBwUcRvtgllYM-Yg8",
+    "name": "24-1 Shop",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Scherpenheuvel-Zichem",
+    "address": "24-1 Shop, Lelielaan, 3270 Scherpenheuvel-Zichem",
+    "street": "Lelielaan",
+    "postal_code": "3270",
+    "region": null,
+    "latitude": 50.979411999999996,
+    "longitude": 4.961879199999999,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=24-1%20Shop&query_place_id=ChIJ2YOxFzhBwUcRvtgllYM-Yg8",
+    "open_hours_json": null,
+    "review_count": 1,
+    "rating": 2.0,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=v5qwTYuqD02Z0G5r1YyCEA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=241.65274&pitch=0.55007774&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=v5qwTYuqD02Z0G5r1YyCEA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=241.65274&pitch=0.55007774&thumbfov=w1000-h750-no",
+    "source_query": "Hypermarket in Scherpenheuvel, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJbSNXQi9BwUcRNOG8WycW9Vs",
+    "name": "Basilique Notre-Dame de Scherpenheuvel",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Scherpenheuvel-Zichem",
+    "address": "Basilique Notre-Dame de Scherpenheuvel, Albertusplein 7, 3270 Scherpenheuvel-Zichem",
+    "street": "Albertusplein 7",
+    "postal_code": "3270",
+    "region": null,
+    "latitude": 50.980308099999995,
+    "longitude": 4.9781328,
+    "phone": "013 77 14 96",
+    "website": "http://scherpenheuvel.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Basilique%20Notre-Dame%20de%20Scherpenheuvel&query_place_id=ChIJbSNXQi9BwUcRNOG8WycW9Vs",
+    "open_hours_json": {
+      "Monday": [
+        "7 am–6 pm"
+      ],
+      "Tuesday": [
+        "7:15 am–6 pm"
+      ],
+      "Wednesday": [
+        "7:15 am–6 pm"
+      ],
+      "Thursday": [
+        "7:15 am–6 pm"
+      ],
+      "Friday": [
+        "7:15 am–6 pm"
+      ],
+      "Saturday": [
+        "7:15 am–6 pm"
+      ],
+      "Sunday": [
+        "7:15 am–6 pm"
+      ]
+    },
+    "review_count": 1289,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcbRvh26e8goEUZFF4AF5UFXokqVxoVANkGD6f-YpvFc76fNOb81Sowea3UQAR7c0TfID9Y7228inTZhSfUloyG2ml6FalD_uGZ1wuq2k7EizWPg1ayA83u0Glv114Ml9ZLHgDS=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcbRvh26e8goEUZFF4AF5UFXokqVxoVANkGD6f-YpvFc76fNOb81Sowea3UQAR7c0TfID9Y7228inTZhSfUloyG2ml6FalD_uGZ1wuq2k7EizWPg1ayA83u0Glv114Ml9ZLHgDS=w1000-h750-no",
+    "source_query": "Mosque in Scherpenheuvel, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJB6qcNwBBwUcR-0bexgCaDD0",
+    "name": "Buscemi's Pizzeria",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Scherpenheuvel-Zichem",
+    "address": "Buscemi's Pizzeria, Basilieklaan 102, 3270 Scherpenheuvel-Zichem",
+    "street": "Basilieklaan 102",
+    "postal_code": "3270",
+    "region": null,
+    "latitude": 50.979687299999995,
+    "longitude": 4.9709465,
+    "phone": null,
+    "website": "http://www.buscemis-pizza.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Buscemi%27s%20Pizzeria&query_place_id=ChIJB6qcNwBBwUcR-0bexgCaDD0",
+    "open_hours_json": {
+      "Monday": [
+        "5–9 pm"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "5–9 pm"
+      ],
+      "Friday": [
+        "5–9 pm"
+      ],
+      "Saturday": [
+        "5–9 pm"
+      ],
+      "Sunday": [
+        "5–9 pm"
+      ]
+    },
+    "review_count": 196,
+    "rating": 4.9,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfUm7h1XWHUa3xlf4IRukOwC93MvIj6qUxHOWMeS3S2CczWmJKFXGnDtOxo2ZeZkPIV3LT6PR-XuKImlYLrs6ulTVruXymGOTT3mtVT1JkvaRkRGWe70FYBwYsdiM3muU-HINWV=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfUm7h1XWHUa3xlf4IRukOwC93MvIj6qUxHOWMeS3S2CczWmJKFXGnDtOxo2ZeZkPIV3LT6PR-XuKImlYLrs6ulTVruXymGOTT3mtVT1JkvaRkRGWe70FYBwYsdiM3muU-HINWV=w1000-h750-no",
+    "source_query": "Halal restaurant in Scherpenheuvel, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJP6ORgi9BwUcR_y1bgq6kWpU",
+    "name": "Coffee Talk",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Scherpenheuvel-Zichem",
+    "address": "Coffee Talk, Basilieklaan 6, 3270 Scherpenheuvel-Zichem",
+    "street": "Basilieklaan 6",
+    "postal_code": "3270",
+    "region": null,
+    "latitude": 50.980097699999995,
+    "longitude": 4.9765226,
+    "phone": "0472 09 28 53",
+    "website": "https://www.dekoffieklets.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Coffee%20Talk&query_place_id=ChIJP6ORgi9BwUcR_y1bgq6kWpU",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "9 am–6 pm"
+      ],
+      "Wednesday": [
+        "9 am–6 pm"
+      ],
+      "Thursday": [
+        "9 am–6 pm"
+      ],
+      "Friday": [
+        "9 am–6 pm"
+      ],
+      "Saturday": [
+        "9 am–6 pm"
+      ],
+      "Sunday": [
+        "9 am–4 pm"
+      ]
+    },
+    "review_count": 353,
+    "rating": 4.4,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfsS0wTE0-jTXAX9R62kfqZQZ6lFqHs8GBP2lQFsYHfNJnR3vV_hhfFI-5ZqJA0qeZk_Gw7GNWuiZTt-VZHDJsziX8Sfe1NTUW9mBPgVOwJPZq1OnhMt6Z6wxchnndxOexAEAUapg=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfsS0wTE0-jTXAX9R62kfqZQZ6lFqHs8GBP2lQFsYHfNJnR3vV_hhfFI-5ZqJA0qeZk_Gw7GNWuiZTt-VZHDJsziX8Sfe1NTUW9mBPgVOwJPZq1OnhMt6Z6wxchnndxOexAEAUapg=w1000-h750-no",
+    "source_query": "Halal restaurant in Scherpenheuvel, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ3wem9AtBwUcRuoQLIg8FUgA",
+    "name": "Collect&Go Scherpenheuvel-Zichem",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Scherpenheuvel-Zichem",
+    "address": "Collect&Go Scherpenheuvel-Zichem, August Nihoulstraat 139, 3270 Scherpenheuvel-Zichem",
+    "street": "August Nihoulstraat 139",
+    "postal_code": "3270",
+    "region": null,
+    "latitude": 50.974170099999995,
+    "longitude": 4.971832,
+    "phone": "02 363 50 05",
+    "website": "https://www.collectandgo.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Collect%26Go%20Scherpenheuvel-Zichem&query_place_id=ChIJ3wem9AtBwUcRuoQLIg8FUgA",
+    "open_hours_json": {
+      "Monday": [
+        "8 am–8 pm"
+      ],
+      "Tuesday": [
+        "8 am–8 pm"
+      ],
+      "Wednesday": [
+        "8 am–8 pm"
+      ],
+      "Thursday": [
+        "8 am–8 pm"
+      ],
+      "Friday": [
+        "8 am–9 pm"
+      ],
+      "Saturday": [
+        "8 am–8 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 2,
+    "rating": 4.0,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4csfmq2NVXiPL_2RZ_1AFg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=245.28983&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4csfmq2NVXiPL_2RZ_1AFg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=245.28983&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Hypermarket in Scherpenheuvel, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ9e10WC9BwUcRkPYyZewqdFQ",
+    "name": "De Heerlyckheid",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Scherpenheuvel-Zichem",
+    "address": "De Heerlyckheid, Albertusplein 19, 3270 Scherpenheuvel-Zichem",
+    "street": "Albertusplein 19",
+    "postal_code": "3270",
+    "region": null,
+    "latitude": 50.9793179,
+    "longitude": 4.9784577,
+    "phone": "013 33 55 69",
+    "website": "http://www.eetcafedeheerlyckheid.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=De%20Heerlyckheid&query_place_id=ChIJ9e10WC9BwUcRkPYyZewqdFQ",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "10 am–6 pm"
+      ],
+      "Wednesday": [
+        "10 am–6 pm"
+      ],
+      "Thursday": [
+        "10 am–6 pm"
+      ],
+      "Friday": [
+        "10 am–6 pm"
+      ],
+      "Saturday": [
+        "10 am–7:30 pm"
+      ],
+      "Sunday": [
+        "10 am–7:30 pm"
+      ]
+    },
+    "review_count": 401,
+    "rating": 4.1,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfhwMQkMYlV1hchmNG0S68nlZyQNIUV_A7dyHH05cb0wiB9V52r70dftO5x-dPbB31x4FQHCkQSNjwzxyI0gfRwfmy3R4-FvBDWstyGA0Eqd06UT4kE_PgzdFPJWOqbjg6OObYV=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfhwMQkMYlV1hchmNG0S68nlZyQNIUV_A7dyHH05cb0wiB9V52r70dftO5x-dPbB31x4FQHCkQSNjwzxyI0gfRwfmy3R4-FvBDWstyGA0Eqd06UT4kE_PgzdFPJWOqbjg6OObYV=w1000-h750-no",
+    "source_query": "Halal restaurant in Scherpenheuvel, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJYXva4iVBwUcRe50pzZX_cxQ",
+    "name": "Döner Kebap Kürsat",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Scherpenheuvel-Zichem",
+    "address": "Döner Kebap Kürsat, Diestsestraat 4/A, 3270 Scherpenheuvel-Zichem",
+    "street": "Diestsestraat 4/A",
+    "postal_code": "3270",
+    "region": null,
+    "latitude": 50.978773999999994,
+    "longitude": 4.9791908,
+    "phone": "0472 28 52 41",
+    "website": "https://kursatkebab.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=D%C3%B6ner%20Kebap%20K%C3%BCrsat&query_place_id=ChIJYXva4iVBwUcRe50pzZX_cxQ",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "4–11 pm"
+      ],
+      "Wednesday": [
+        "4–11 pm"
+      ],
+      "Thursday": [
+        "4–11 pm"
+      ],
+      "Friday": [
+        "4 pm–12 am"
+      ],
+      "Saturday": [
+        "4 pm–12 am"
+      ],
+      "Sunday": [
+        "4–11 pm"
+      ]
+    },
+    "review_count": 244,
+    "rating": 4.2,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd1X8Kcml0yXMxcBoguA8QQp8-SW6qI5nwncaBuqG9zem8bLmhHGQdoChdK893cyksPLWWDLVMdnF3v6h32NBYjnOtgxJ5atmkBNgV1ibafIz1RaJ0L1zqEJCAzuQJJblmmE9w=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd1X8Kcml0yXMxcBoguA8QQp8-SW6qI5nwncaBuqG9zem8bLmhHGQdoChdK893cyksPLWWDLVMdnF3v6h32NBYjnOtgxJ5atmkBNgV1ibafIz1RaJ0L1zqEJCAzuQJJblmmE9w=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Scherpenheuvel, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJw2Od615BwUcR4FaU19Rm9EQ",
+    "name": "Famis",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Scherpenheuvel-Zichem",
+    "address": "Famis, Spordel 1A, 3270 Scherpenheuvel-Zichem",
+    "street": "Spordel 1A",
+    "postal_code": "3270",
+    "region": null,
+    "latitude": 50.9823023,
+    "longitude": 4.981437199999999,
+    "phone": "013 39 18 60",
+    "website": "https://www.famis.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Famis&query_place_id=ChIJw2Od615BwUcR4FaU19Rm9EQ",
+    "open_hours_json": {
+      "Monday": [
+        "11:30 am–4 pm"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "11:30 am–3:30 pm",
+        "6:30–11 pm"
+      ],
+      "Friday": [
+        "11:30 am–4 pm",
+        "6:30 pm–12 am"
+      ],
+      "Saturday": [
+        "6:30 pm–12 am"
+      ],
+      "Sunday": [
+        "12–5 pm"
+      ]
+    },
+    "review_count": 91,
+    "rating": 4.9,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf5A6CGdDlTz99zUpFuBpq9Um_lrZIC7mkXF3z4SzHGYJSsHptOtR9vYQjZDPzsWpsHI4l98O88UySXvR0TzGGwYxYSZxV2O-YXBF2Y4_7adi3C2GLpszRCTUAeKq3p5UFz0fErFg=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf5A6CGdDlTz99zUpFuBpq9Um_lrZIC7mkXF3z4SzHGYJSsHptOtR9vYQjZDPzsWpsHI4l98O88UySXvR0TzGGwYxYSZxV2O-YXBF2Y4_7adi3C2GLpszRCTUAeKq3p5UFz0fErFg=w1000-h750-no",
+    "source_query": "Halal restaurant in Scherpenheuvel, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJhxjib_dGwUcRIspncpPpD6k",
+    "name": "Faubourg",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Scherpenheuvel-Zichem",
+    "address": "Faubourg, Westelsebaan 160, 3271 Scherpenheuvel-Zichem",
+    "street": "Westelsebaan 160",
+    "postal_code": "3271",
+    "region": null,
+    "latitude": 51.0283571,
+    "longitude": 4.980966,
+    "phone": "013 77 44 12",
+    "website": "http://www.faubourg.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Faubourg&query_place_id=ChIJhxjib_dGwUcRIspncpPpD6k",
+    "open_hours_json": {
+      "Monday": [
+        "12–9 pm"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "Closed"
+      ],
+      "Friday": [
+        "5–9 pm"
+      ],
+      "Saturday": [
+        "5–9 pm"
+      ],
+      "Sunday": [
+        "12–9 pm"
+      ]
+    },
+    "review_count": 124,
+    "rating": 4.4,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfp5eosz-0gznsgmeKAm3TiDO3dN5X9ymtsemeYF6EyogHqDguhf38hsDboNjy6NTwGegV3v217JReD7Qs7kl-oeYFVcDNpSx94aQbIYInNBWO57SXbpQiffMMNHcLaw7q5isC-UQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfp5eosz-0gznsgmeKAm3TiDO3dN5X9ymtsemeYF6EyogHqDguhf38hsDboNjy6NTwGegV3v217JReD7Qs7kl-oeYFVcDNpSx94aQbIYInNBWO57SXbpQiffMMNHcLaw7q5isC-UQ=w1000-h750-no",
+    "source_query": "Fish restaurant in Scherpenheuvel, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJV0u2GiJBwUcRJYDVEICZ4_c",
+    "name": "Kebap Store 3270",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Scherpenheuvel-Zichem",
+    "address": "Kebap Store 3270, Basilieklaan 73, 3270 Scherpenheuvel-Zichem",
+    "street": "Basilieklaan 73",
+    "postal_code": "3270",
+    "region": null,
+    "latitude": 50.979920199999995,
+    "longitude": 4.9708248,
+    "phone": "013 30 28 08",
+    "website": "http://www.kebapstorescherpenheuvel.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kebap%20Store%203270&query_place_id=ChIJV0u2GiJBwUcRJYDVEICZ4_c",
+    "open_hours_json": {
+      "Monday": [
+        "4 pm–12 am"
+      ],
+      "Tuesday": [
+        "4 pm–12 am"
+      ],
+      "Wednesday": [
+        "4 pm–12 am"
+      ],
+      "Thursday": [
+        "4 pm–12 am"
+      ],
+      "Friday": [
+        "4 pm–12 am"
+      ],
+      "Saturday": [
+        "4 pm–12 am"
+      ],
+      "Sunday": [
+        "4 pm–12 am"
+      ]
+    },
+    "review_count": 144,
+    "rating": 3.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfeY4l5r-nPFlN3CNdyBKd6E47clxVEDiX7pOMkxy4LHgKWWSfj4R37c7EOGUziluCwOjnN77gFW0iTVh2B5U_RGVr8K6XSvt13ndd8z3c2Bj4IlrLVjFSZXxYljs4cMKlthGlp=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfeY4l5r-nPFlN3CNdyBKd6E47clxVEDiX7pOMkxy4LHgKWWSfj4R37c7EOGUziluCwOjnN77gFW0iTVh2B5U_RGVr8K6XSvt13ndd8z3c2Bj4IlrLVjFSZXxYljs4cMKlthGlp=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Scherpenheuvel, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJP-yEdC9BwUcRKxWnwUGv6mw",
+    "name": "Leeuw van Vlaanderen",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Scherpenheuvel-Zichem",
+    "address": "Leeuw van Vlaanderen, Isabellaplein 8, 3270 Scherpenheuvel-Zichem",
+    "street": "Isabellaplein 8",
+    "postal_code": "3270",
+    "region": null,
+    "latitude": 50.9807754,
+    "longitude": 4.9768303,
+    "phone": "013 77 13 79",
+    "website": "https://www.deleeuwvanvlaanderen.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Leeuw%20van%20Vlaanderen&query_place_id=ChIJP-yEdC9BwUcRKxWnwUGv6mw",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "10 am–6 pm"
+      ],
+      "Wednesday": [
+        "10 am–6 pm"
+      ],
+      "Thursday": [
+        "10 am–6 pm"
+      ],
+      "Friday": [
+        "Closed"
+      ],
+      "Saturday": [
+        "10 am–9 pm"
+      ],
+      "Sunday": [
+        "9 am–9 pm"
+      ]
+    },
+    "review_count": 575,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfafL3SHsDQo6z_I-t4BO3a4Cf_GUXQqOwYHfWhYGV1g5tTYGTA5UnydLId1XMuDXK28pZ8kYftHhlPw_n9lt7qyPEy13sQmfiFS9IM2RkuGaUNXjUKgsH-YX4NoEUvuES3vf1f=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfafL3SHsDQo6z_I-t4BO3a4Cf_GUXQqOwYHfWhYGV1g5tTYGTA5UnydLId1XMuDXK28pZ8kYftHhlPw_n9lt7qyPEy13sQmfiFS9IM2RkuGaUNXjUKgsH-YX4NoEUvuES3vf1f=w1000-h750-no",
+    "source_query": "Halal restaurant in Scherpenheuvel, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ25lCF99BwUcRjsrQHo4hCmY",
+    "name": "Mariahal",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Scherpenheuvel-Zichem",
+    "address": "Mariahal, 3270 Scherpenheuvel-Zichem",
+    "street": null,
+    "postal_code": null,
+    "region": null,
+    "latitude": 50.9811851,
+    "longitude": 4.9796802,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mariahal&query_place_id=ChIJ25lCF99BwUcRjsrQHo4hCmY",
+    "open_hours_json": null,
+    "review_count": 27,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfX8h-3hMbuYsMtSHyLFVkNPULRfZjjrk0u7DSTG7SyjmKqE5n3sqNbXH4lIMOZ-iCXUYyC8-M-e2j6_xfuByQbifvtX8ssOD6IlU2Vqyp5iYIU1WTQ6Gbql-9maLMxNLy3pbtZ8A=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfX8h-3hMbuYsMtSHyLFVkNPULRfZjjrk0u7DSTG7SyjmKqE5n3sqNbXH4lIMOZ-iCXUYyC8-M-e2j6_xfuByQbifvtX8ssOD6IlU2Vqyp5iYIU1WTQ6Gbql-9maLMxNLy3pbtZ8A=w1000-h750-no",
+    "source_query": "Mosque in Scherpenheuvel, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJacq6u-BBwUcRqmyMw715kLE",
     "name": "Oscar&Bernard",
     "type": "restaurant",
@@ -1612,8 +2739,8 @@
     "phone": "0466 24 51 65",
     "website": "https://www.auxdelicesdorient.be/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Aux%20d%C3%A9lices%20d%27orient&query_place_id=ChIJRWFcw6r5wEcRVnwVU-wZhts",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdZ1I3c4ooDsOof9I_EPjHKPnyZIy3ULFL5BVkFz8nflzpRAySu90LB5QVRv98H90F9FiFp1yi_19WkDwpqZ_tnTm2DvfGnRuwlhepXfoeDyEYj3suoroEnyJ1tO3rSwuq9gC2LdA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdZ1I3c4ooDsOof9I_EPjHKPnyZIy3ULFL5BVkFz8nflzpRAySu90LB5QVRv98H90F9FiFp1yi_19WkDwpqZ_tnTm2DvfGnRuwlhepXfoeDyEYj3suoroEnyJ1tO3rSwuq9gC2LdA=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLejyqmFhAARa9Uxk29pY1JyvCzOZLti-lsmP92rrNyuRe3LQsBBhQhdVJGBQbgdE22yFgU5N49HjKLL8wSJ4DQ6UwLSItvK02XMQxlXdnPl1klGpvWMsNadAQJaZxZygYcoW-Tnjg=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLejyqmFhAARa9Uxk29pY1JyvCzOZLti-lsmP92rrNyuRe3LQsBBhQhdVJGBQbgdE22yFgU5N49HjKLL8wSJ4DQ6UwLSItvK02XMQxlXdnPl1klGpvWMsNadAQJaZxZygYcoW-Tnjg=w1000-h750-no",
     "rating": 3.7,
     "review_count": 291,
     "verification_status": "UNVERIFIED",
@@ -2356,8 +3483,8 @@
     "phone": "04 337 85 23",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chez%20Yaya&query_place_id=ChIJFe1nuRX4wEcR7QmAhDjvMQo",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcqvXlf4ZKwNX-kQkaokn6X8yJFN3q3b3AACp1LKmnmimdMMoYDCtoDiG1-0bJV4jGYhZ6PkzfxzsW5Fe6wlRCqwO0dcPjp7UZoGHlglx8mBpD5nfAEelrOdVBkv9zieE7Ery8=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcqvXlf4ZKwNX-kQkaokn6X8yJFN3q3b3AACp1LKmnmimdMMoYDCtoDiG1-0bJV4jGYhZ6PkzfxzsW5Fe6wlRCqwO0dcPjp7UZoGHlglx8mBpD5nfAEelrOdVBkv9zieE7Ery8=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLelIQdtM2Tg66-n34tfS6XXgXmKTG0WzxWqOBhAc3hdDb7j2MbJ1tv1GJPNu-mrGeEZamcl2YNlkwhPvj_vLzjwbqqFSqJU6Y2l7EoQEhqLgd8SSjvW_HFJ3MP9ZAXEJqiRFwk=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLelIQdtM2Tg66-n34tfS6XXgXmKTG0WzxWqOBhAc3hdDb7j2MbJ1tv1GJPNu-mrGeEZamcl2YNlkwhPvj_vLzjwbqqFSqJU6Y2l7EoQEhqLgd8SSjvW_HFJ3MP9ZAXEJqiRFwk=w1000-h750-no",
     "rating": 4.1,
     "review_count": 236,
     "verification_status": "UNVERIFIED",
@@ -2844,8 +3971,8 @@
     "phone": "0491 52 98 32",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=H%26H%20BOUCHERIE&query_place_id=ChIJB42jNZT5wEcRHlWl_AbkxsU",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLccgzDOVj5rGjyrdMcZ2x93yY3sKFcE62T996w5GCmPxw6ejZK-_eQ3HHJIjJZc7zD9eYiEHgBVO9zAS2B3Vlbc-XZKFRSTQWcFOrlxal_aV6RmuwhBZVm_YDWyYjY9UC1i8nVzYA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLccgzDOVj5rGjyrdMcZ2x93yY3sKFcE62T996w5GCmPxw6ejZK-_eQ3HHJIjJZc7zD9eYiEHgBVO9zAS2B3Vlbc-XZKFRSTQWcFOrlxal_aV6RmuwhBZVm_YDWyYjY9UC1i8nVzYA=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd8PvB_qyAUmCfHlwzMpU80NBFkYNvHHhH0X5BhosTP-MDEQJAXAkwtgZlrzi48yiIZGjBIZIAEspPPRAQWvzVmmpVhN-EWxCkNF8W1kD3qaZUDINLaITOPbXOYkyqcntbHNHMiFg=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd8PvB_qyAUmCfHlwzMpU80NBFkYNvHHhH0X5BhosTP-MDEQJAXAkwtgZlrzi48yiIZGjBIZIAEspPPRAQWvzVmmpVhN-EWxCkNF8W1kD3qaZUDINLaITOPbXOYkyqcntbHNHMiFg=w1000-h750-no",
     "rating": 4.6,
     "review_count": 43,
     "verification_status": "UNVERIFIED",
@@ -4010,8 +5137,8 @@
     "phone": null,
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mosqu%C3%A9e%20Sabr&query_place_id=ChIJ_7R_9g75wEcRLqLhouGHgLA",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcKMsSO2fYuokF3szj91VMcp3jc0LyxK2HgN1VqJEf1iMtZ_sWqgjQ2LF5R9hB85SYfQdBf7jT5xPhYjJrFWcecvfCaEWPhk0-Q1mib2z26jseExz_NgHYeUQwE4sCYa9ADZyf-=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcKMsSO2fYuokF3szj91VMcp3jc0LyxK2HgN1VqJEf1iMtZ_sWqgjQ2LF5R9hB85SYfQdBf7jT5xPhYjJrFWcecvfCaEWPhk0-Q1mib2z26jseExz_NgHYeUQwE4sCYa9ADZyf-=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfGGi3Y4cmGaJWCzonzG2ROJbbz1OXzBcdeygPfAKBgdr8Dw9E0e-uyENhl6lSqDN7htMivrrWsD_Kb_Di0zLgUXpOQX3RijFBRYJd5TcsX_VANblNxwoWBKMzTnOCspLlObKj3=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfGGi3Y4cmGaJWCzonzG2ROJbbz1OXzBcdeygPfAKBgdr8Dw9E0e-uyENhl6lSqDN7htMivrrWsD_Kb_Di0zLgUXpOQX3RijFBRYJd5TcsX_VANblNxwoWBKMzTnOCspLlObKj3=w1000-h750-no",
     "rating": 4.9,
     "review_count": 21,
     "verification_status": "UNVERIFIED",
@@ -5606,8 +6733,8 @@
     "phone": "02 465 16 20",
     "website": "https://www.boucherie-latelier.be/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=L%27atelier-HS%3A%20Halal%20Beenhouwerij%20Sint-Agatha-Berchem&query_place_id=ChIJdSjCJ8vBw0cRF7rFgFwUTm8",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfdVvF-ODINjMfC9-_MvFfDFCZdIM7gYghK6-r00kxEqk7z4m7eoM0sUAoJHo0Ptu9Ur-HPs0ESNYRSMpbbZdRDKJ2NAuHEHHo1hKHqwMVYEaLpN0etMiCjJiTbPYTevzVCIVRw1g=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfdVvF-ODINjMfC9-_MvFfDFCZdIM7gYghK6-r00kxEqk7z4m7eoM0sUAoJHo0Ptu9Ur-HPs0ESNYRSMpbbZdRDKJ2NAuHEHHo1hKHqwMVYEaLpN0etMiCjJiTbPYTevzVCIVRw1g=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfu_3B8IeUBxsYAKrRz_7RGnZUlH0rUtathbZkDce_5nQrRZ-WNx0ibCZH_vAfWVlIV_U6fTVZv-WJfqo5u9HBK_V4-CLcBpuEFK5zEStQ-YXXz3Rtzx_YXiIAhfE0K2GMXwhVe=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfu_3B8IeUBxsYAKrRz_7RGnZUlH0rUtathbZkDce_5nQrRZ-WNx0ibCZH_vAfWVlIV_U6fTVZv-WJfqo5u9HBK_V4-CLcBpuEFK5zEStQ-YXXz3Rtzx_YXiIAhfE0K2GMXwhVe=w1000-h750-no",
     "rating": 4.7,
     "review_count": 118,
     "verification_status": "VERIFIED",
@@ -6950,10 +8077,10 @@
     "phone": "0465 27 31 65",
     "website": "https://www.instagram.com/meat_in_restaurant?igsh=aGtweG9iZHpkdnhi&utm_source=qr",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Meat%E2%80%99in%20Restaurant%20%26%20Lounge&query_place_id=ChIJaTGaXWLEw0cRbBpT-oGoHhk",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLer840mHcpMs8UJce_DYzyU3ahQ1m6CP-OBBMOKL2RYGq99NvElb4A_ZJsn83h81uaG125JqkeoAyZ-v9KKQ6QRaAtuEQ9kJoz6qs0igwDd-CNVG1Klj2X9AvniipVu3NV5pWfw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLer840mHcpMs8UJce_DYzyU3ahQ1m6CP-OBBMOKL2RYGq99NvElb4A_ZJsn83h81uaG125JqkeoAyZ-v9KKQ6QRaAtuEQ9kJoz6qs0igwDd-CNVG1Klj2X9AvniipVu3NV5pWfw=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcPEdZJs-7O7Inhoi2qSuuPLxBATg4RNSvlJ-54nnLVRyEtYQDvU4hym1I3UXhEgT8lCorA-774KXIjL_wSkY2EJkbaiWcEFZX-fiMUNAJgrAza9xdFlMGDh9t-0_cj49iFWkC-=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcPEdZJs-7O7Inhoi2qSuuPLxBATg4RNSvlJ-54nnLVRyEtYQDvU4hym1I3UXhEgT8lCorA-774KXIjL_wSkY2EJkbaiWcEFZX-fiMUNAJgrAza9xdFlMGDh9t-0_cj49iFWkC-=w1000-h750-no",
     "rating": 4.3,
-    "review_count": 1249,
+    "review_count": 1250,
     "verification_status": "VERIFIED",
     "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
     "is_active": true,
@@ -7980,8 +9107,8 @@
     "phone": "0488 08 01 84",
     "website": "https://www.almihrab.be/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Mihrab%20asbl&query_place_id=ChIJldQUOi_Dw0cRryTvTZszyGw",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcBqAKRl0vCc2wucoEAgFmHT5p-fRLBGno8Xpy21PhZOI2cioFJwFLu5vbkPBv13rmzKqT0nYrvkT9EbaL8L_qowbpioLf5Uy5W9PRK5J2nFSffNbiXGHi82ASZmVphq2Esk271yRDrbi2f=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcBqAKRl0vCc2wucoEAgFmHT5p-fRLBGno8Xpy21PhZOI2cioFJwFLu5vbkPBv13rmzKqT0nYrvkT9EbaL8L_qowbpioLf5Uy5W9PRK5J2nFSffNbiXGHi82ASZmVphq2Esk271yRDrbi2f=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeOyAW50BEF8P6KJZcDoADX5CmOWiYU8ygFsGFm7SW85ZIFc32rlGOal_f3ycsnfwnsYG71J8dyMupsyd6QvqhS7tYV_u1-vTQfyBDQbYKYM-rVPOf74fCJ_nxn8WpYmv4xPZqO_7Hg78HO=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeOyAW50BEF8P6KJZcDoADX5CmOWiYU8ygFsGFm7SW85ZIFc32rlGOal_f3ycsnfwnsYG71J8dyMupsyd6QvqhS7tYV_u1-vTQfyBDQbYKYM-rVPOf74fCJ_nxn8WpYmv4xPZqO_7Hg78HO=w1000-h750-no",
     "rating": 5.0,
     "review_count": 3,
     "verification_status": "UNVERIFIED",
@@ -8136,8 +9263,8 @@
     "phone": "0468 31 33 84",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Annajah&query_place_id=ChIJaWllCr7Dw0cR-UJlQcCmvSw",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd9AYcq8WVZlFOBRqG-QlXma7CGALNOXznh919LBTtEN9lz5624E7nn_ef9ttOUUGo5JLvU46ca6caru0yLIEwxXQemiRFKDIU361Q4x8yuKjCjKI2CfhsLlk-IYLL7zWtkrSgac1xKJAgK=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd9AYcq8WVZlFOBRqG-QlXma7CGALNOXznh919LBTtEN9lz5624E7nn_ef9ttOUUGo5JLvU46ca6caru0yLIEwxXQemiRFKDIU361Q4x8yuKjCjKI2CfhsLlk-IYLL7zWtkrSgac1xKJAgK=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdgj3b3OO9fZFpZwlshx4N7lCrPZdbeYlY4haqDsRH9nFakHkOEG5cyc36Y1MU_WiOJUQ85CV7GvNAtL1_QdOaBZzK0PYPSuwEM0FnlWMPr1_fprnqTEYdDg52tRjytsrL2MoqnXL4qHoyM=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdgj3b3OO9fZFpZwlshx4N7lCrPZdbeYlY4haqDsRH9nFakHkOEG5cyc36Y1MU_WiOJUQ85CV7GvNAtL1_QdOaBZzK0PYPSuwEM0FnlWMPr1_fprnqTEYdDg52tRjytsrL2MoqnXL4qHoyM=w1000-h750-no",
     "rating": 4.5,
     "review_count": 26,
     "verification_status": "UNVERIFIED",
@@ -8242,8 +9369,8 @@
     "phone": null,
     "website": "https://restaurants.bnwburger.com/bruxelles-gare-de-louest/?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Black%20%26%20White%20Burger%20Bruxelles%20Gare%20de%20l%27Ouest&query_place_id=ChIJkbH0_S7Dw0cRpsD0dv0gJSk",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeMA13dqeW0tPgQCmEvs4rsIwxi_kKvXNkLr2zG7VuZImqdkmQ3ym6OSpKNe8TdRjeFyZUotjAvgjXq84IsuGiSwFCvAefIQ7hB7FeTwefsNiy-QLcMYR7DCYmaAvBzEFMBm5BO0GlD_OPD=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeMA13dqeW0tPgQCmEvs4rsIwxi_kKvXNkLr2zG7VuZImqdkmQ3ym6OSpKNe8TdRjeFyZUotjAvgjXq84IsuGiSwFCvAefIQ7hB7FeTwefsNiy-QLcMYR7DCYmaAvBzEFMBm5BO0GlD_OPD=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcoHE74Nbgop_aLBzmutgHa-mvYW5MYCir67DphudxFmTqzYsZAr2NUEUQTnyIVOOJDkB-aye2dm2fD4Usw2JArFJVGmOCFcGmtz8q1W5K8-MBIe45YRYTeNXVz5Ilo5uA6ge-nYrhycWXB=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcoHE74Nbgop_aLBzmutgHa-mvYW5MYCir67DphudxFmTqzYsZAr2NUEUQTnyIVOOJDkB-aye2dm2fD4Usw2JArFJVGmOCFcGmtz8q1W5K8-MBIe45YRYTeNXVz5Ilo5uA6ge-nYrhycWXB=w1000-h750-no",
     "rating": 4.6,
     "review_count": 840,
     "verification_status": "VERIFIED",
@@ -8505,7 +9632,7 @@
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdSHXVSQcE3xE-7Nrq4vHeJ1syp5xWweAWR1DvhQ_T_2ErQ6GFpWSIwo_GqmgVkFq09qqOF8Z3IaT0mgrB2ITKKrihunrGEC-ccSUHWUhCB0mAwGVGmTXSPQjKvuvGIWbE7ZYocBll-ZLIi=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdSHXVSQcE3xE-7Nrq4vHeJ1syp5xWweAWR1DvhQ_T_2ErQ6GFpWSIwo_GqmgVkFq09qqOF8Z3IaT0mgrB2ITKKrihunrGEC-ccSUHWUhCB0mAwGVGmTXSPQjKvuvGIWbE7ZYocBll-ZLIi=w1000-h750-no",
     "rating": 4.9,
-    "review_count": 214,
+    "review_count": 215,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null,
     "is_active": true,
@@ -8658,8 +9785,8 @@
     "phone": null,
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Islamitische%20beenhouwerij&query_place_id=ChIJ2yKN-pbDw0cRUYq2DSG5ldU",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdHQubyjwKwn6fQz4MQ16MU-t3LqJKXPFmNrrJOvC1aZ7eva6QQmKfKicN589HXk_OZkmxHF2PQy8MTfatjdWKy3CaYfY9eUPUoyDarx5t99wNH3Mn7p2sgYTRPhU2BuUzUpfQu=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdHQubyjwKwn6fQz4MQ16MU-t3LqJKXPFmNrrJOvC1aZ7eva6QQmKfKicN589HXk_OZkmxHF2PQy8MTfatjdWKy3CaYfY9eUPUoyDarx5t99wNH3Mn7p2sgYTRPhU2BuUzUpfQu=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfIcMLdBpTMpN7PRAivB-3D-APFrxVNH_iioTq5FX1FsghCovyPyAXRuoHB9mOkreNm_Oft4wBTcvIRccAk1lgqU9Bm4No_Ge93FiQlmyfxnbmFvwQvkh6-6fyXrBqEJcEBnrFg=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfIcMLdBpTMpN7PRAivB-3D-APFrxVNH_iioTq5FX1FsghCovyPyAXRuoHB9mOkreNm_Oft4wBTcvIRccAk1lgqU9Bm4No_Ge93FiQlmyfxnbmFvwQvkh6-6fyXrBqEJcEBnrFg=w1000-h750-no",
     "rating": 3.2,
     "review_count": 11,
     "verification_status": "UNVERIFIED",
@@ -8713,688 +9840,9 @@
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf3-mQ5pnoobYriEAPvcp629EuBh02jMU_110pfSl3oXZ91HqEWLssVn-GE9-NmcGyjeVGkNPIE4ll1OnT_aqjpkZXdjbXp2b6LH1UNzUyYbKbkwRg5sHleEYizUR7wZfwVttq-tUJwId0=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf3-mQ5pnoobYriEAPvcp629EuBh02jMU_110pfSl3oXZ91HqEWLssVn-GE9-NmcGyjeVGkNPIE4ll1OnT_aqjpkZXdjbXp2b6LH1UNzUyYbKbkwRg5sHleEYizUR7wZfwVttq-tUJwId0=w1000-h750-no",
     "rating": 3.7,
-    "review_count": 183,
+    "review_count": 182,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJ15tccADDw0cRsgMd8Mz8cJk",
-    "name": "Le Passage",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Sint-Jans-Molenbeek",
-    "address": "Le Passage, Bd du Jubilé 103, 1080 Molenbeek-Saint-Jean",
-    "street": "Jubelfeestlaan 103",
-    "postal_code": "1080",
-    "region": null,
-    "latitude": 50.8658522,
-    "longitude": 4.3394539,
-    "phone": "0473 43 84 26",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Passage&query_place_id=ChIJ15tccADDw0cRsgMd8Mz8cJk",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfhK5CbuMt6FObuociaYLl3pyglS4QyXgLdT4dK4W6PKPjv-wY7uqH_61_M9b4f7k0vnizqvvgqkQWJ4_fTabocTPEUkEugLrnY5ROQpTikeMjqCg3Yhg0PXVKyVzif2gYv0gs=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfhK5CbuMt6FObuociaYLl3pyglS4QyXgLdT4dK4W6PKPjv-wY7uqH_61_M9b4f7k0vnizqvvgqkQWJ4_fTabocTPEUkEugLrnY5ROQpTikeMjqCg3Yhg0PXVKyVzif2gYv0gs=w1000-h750-no",
-    "rating": 3.4,
-    "review_count": 121,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJVUnKzBnDw0cRGC9MA2cqtz0",
-    "name": "Le goût oriental",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Sint-Jans-Molenbeek",
-    "address": "Le goût oriental, Rue Piers 4A, 1080 Molenbeek-Saint-Jean",
-    "street": "Piersstraat 4A",
-    "postal_code": "1080",
-    "region": null,
-    "latitude": 50.8573011,
-    "longitude": 4.3331200999999995,
-    "phone": "0470 98 88 56",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20go%C3%BBt%20oriental&query_place_id=ChIJVUnKzBnDw0cRGC9MA2cqtz0",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcHFCs6U7UyjEHFBQ86HmtqgJE6hsqN5s_KA7QtkkD58Go4RZ7FGjFJw472RVGiTCrCDQL_nu9Sr3vmgIWFrsOmQD7AvgyD7wydKzzzVZ1c66hQhjWW29qn1KM1TuJBsmfH05I8xlbvdXRc=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcHFCs6U7UyjEHFBQ86HmtqgJE6hsqN5s_KA7QtkkD58Go4RZ7FGjFJw472RVGiTCrCDQL_nu9Sr3vmgIWFrsOmQD7AvgyD7wydKzzzVZ1c66hQhjWW29qn1KM1TuJBsmfH05I8xlbvdXRc=w1000-h750-no",
-    "rating": 4.6,
-    "review_count": 12,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJz6eVhezDw0cRIvRYdQEy_oM",
-    "name": "Les 4 Saisons",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Sint-Jans-Molenbeek",
-    "address": "Les 4 Saisons, Haeckstraat 5, 1080 Sint-Jans-Molenbeek",
-    "street": "Haeckstraat 5",
-    "postal_code": "1080",
-    "region": null,
-    "latitude": 50.8637246,
-    "longitude": 4.3334303,
-    "phone": "0488 82 48 54",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les%204%20Saisons&query_place_id=ChIJz6eVhezDw0cRIvRYdQEy_oM",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLerDcbe90-iWNqHdxF8WAajbe4KQXBCaPjaldHvUjxLjsazvkUyKI-7udqnpiB4md61nflKPAExztB6iBQVF4m9DZ9ziGsx1EljiZikZVc8lAz_BKOEzuwNc0A3NeHED06Gw0WXfw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLerDcbe90-iWNqHdxF8WAajbe4KQXBCaPjaldHvUjxLjsazvkUyKI-7udqnpiB4md61nflKPAExztB6iBQVF4m9DZ9ziGsx1EljiZikZVc8lAz_BKOEzuwNc0A3NeHED06Gw0WXfw=w1000-h750-no",
-    "rating": 4.6,
-    "review_count": 790,
-    "verification_status": "VERIFIED",
-    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJLb1c4PTDw0cRqSFluuQ19nY",
-    "name": "Ligue D Entraide Islamique",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Sint-Jans-Molenbeek",
-    "address": "Ligue D Entraide Islamique, Vanderstraetenstraat 9, 1080 Sint-Jans-Molenbeek",
-    "street": "Vanderstraetenstraat 9",
-    "postal_code": "1080",
-    "region": null,
-    "latitude": 50.8513964,
-    "longitude": 4.3324548,
-    "phone": "02 411 22 51",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ligue%20D%20Entraide%20Islamique&query_place_id=ChIJLb1c4PTDw0cRqSFluuQ19nY",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeEQnUjaE51GAVapNjsrbPLL5EkczD5sQ6C27lKY5zQL1M_T5Fc7JJFvVN45D51rZQ35g3h1t09mbAhXRuUkwVbACbbgUqDeGzamQUH2CwJyg9XWT7Tc5K_VbcPKSAbQ1XV00lI=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeEQnUjaE51GAVapNjsrbPLL5EkczD5sQ6C27lKY5zQL1M_T5Fc7JJFvVN45D51rZQ35g3h1t09mbAhXRuUkwVbACbbgUqDeGzamQUH2CwJyg9XWT7Tc5K_VbcPKSAbQ1XV00lI=w1000-h750-no",
-    "rating": 5.0,
-    "review_count": 3,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJlT8i96bDw0cRrL4todMPqYo",
-    "name": "MaisonGrill",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Sint-Jans-Molenbeek",
-    "address": "MaisonGrill, Gentsesteenweg 421, 1080 Sint-Jans-Molenbeek",
-    "street": "Gentsesteenweg 421",
-    "postal_code": "1080",
-    "region": null,
-    "latitude": 50.857836,
-    "longitude": 4.3194384,
-    "phone": "0485 43 29 11",
-    "website": "https://www.maisongrill.be/contact",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=MaisonGrill&query_place_id=ChIJlT8i96bDw0cRrL4todMPqYo",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfKH5NpDATCgIZPFOzqxNh7lwXulWyrqH7np5I5QibWxY7YV9ZRYISuFZf_LwK4rxgIEI4ddW7Fvk3CI0y_Ay1PKWYd1M9lJ-9gTgOyed3_ivLwak1kN052YwRq2Zbjh6hq6xQl=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfKH5NpDATCgIZPFOzqxNh7lwXulWyrqH7np5I5QibWxY7YV9ZRYISuFZf_LwK4rxgIEI4ddW7Fvk3CI0y_Ay1PKWYd1M9lJ-9gTgOyed3_ivLwak1kN052YwRq2Zbjh6hq6xQl=w1000-h750-no",
-    "rating": 4.5,
-    "review_count": 472,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJBxaRJwDBw0cREVbE3MDeW1Y",
-    "name": "Masjid Anwars Chababs",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Sint-Jans-Molenbeek",
-    "address": "Masjid Anwars Chababs, Rue Potaerdegat 10, 1080 Molenbeek-Saint-Jean",
-    "street": "Potaerdegatstraat 10",
-    "postal_code": "1080",
-    "region": null,
-    "latitude": 50.859893299999996,
-    "longitude": 4.3056944,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Masjid%20Anwars%20Chababs&query_place_id=ChIJBxaRJwDBw0cREVbE3MDeW1Y",
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EBvPwJXeH6yOkOmMNMXrbw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=49.406326&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EBvPwJXeH6yOkOmMNMXrbw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=49.406326&pitch=0&thumbfov=w1000-h750-no",
-    "rating": 4.0,
-    "review_count": 5,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJG8ZJKQDDw0cRmduWMwmYm38",
-    "name": "Masjid Da'va",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Sint-Jans-Molenbeek",
-    "address": "Masjid Da'va, Reimond Stijnsstraat 87, 1080 Sint-Jans-Molenbeek",
-    "street": "Reimond Stijnsstraat 87",
-    "postal_code": "1080",
-    "region": null,
-    "latitude": 50.8563652,
-    "longitude": 4.3153241,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Masjid%20Da%27va&query_place_id=ChIJG8ZJKQDDw0cRmduWMwmYm38",
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dFtJZiH4MhbqN2rACiK3Ug&cb_client=search.gws-prod.grass&w=80&h=92&yaw=269.6239&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dFtJZiH4MhbqN2rACiK3Ug&cb_client=search.gws-prod.grass&w=80&h=92&yaw=269.6239&pitch=0&thumbfov=w1000-h750-no",
-    "rating": 4.7,
-    "review_count": 3,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJtbmGKgDFw0cRrC_JLsSzXOM",
-    "name": "Masjid Naby",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Sint-Jans-Molenbeek",
-    "address": "Masjid Naby, Rue Léon Delacroix 10, 1080 Molenbeek-Saint-Jean",
-    "street": "Léon Delacroixstraat 10",
-    "postal_code": "1080",
-    "region": null,
-    "latitude": 50.8459467,
-    "longitude": 4.3241855,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Masjid%20Naby&query_place_id=ChIJtbmGKgDFw0cRrC_JLsSzXOM",
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5tu_AeAY_uD5Ja9skZm7bQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=22.745394&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5tu_AeAY_uD5Ja9skZm7bQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=22.745394&pitch=0&thumbfov=w1000-h750-no",
-    "rating": null,
-    "review_count": 0,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJ63i63fLDw0cRtanzetNMNA8",
-    "name": "Mechbal / Touria",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Sint-Jans-Molenbeek",
-    "address": "Mechbal / Touria, Chau. de Gand 176, 1080 Molenbeek-Saint-Jean",
-    "street": "Steenweg op Gent 176",
-    "postal_code": "1080",
-    "region": null,
-    "latitude": 50.856882999999996,
-    "longitude": 4.3335865,
-    "phone": "0474 37 66 19",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mechbal%20%2F%20Touria&query_place_id=ChIJ63i63fLDw0cRtanzetNMNA8",
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=64OcNbXFwTAqLOVp5G72Pg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=218.04706&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=64OcNbXFwTAqLOVp5G72Pg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=218.04706&pitch=0&thumbfov=w1000-h750-no",
-    "rating": 3.3,
-    "review_count": 3,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJsVhDLJ7Dw0cRpDOIAWFzzL4",
-    "name": "Moskee Al Moutaquine",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Sint-Jans-Molenbeek",
-    "address": "Moskee Al Moutaquine, Pastorijstraat 37, 1080 Sint-Jans-Molenbeek",
-    "street": "Pastorijstraat 37",
-    "postal_code": "1080",
-    "region": null,
-    "latitude": 50.857438699999996,
-    "longitude": 4.3372604,
-    "phone": "0466 12 32 85",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Al%20Moutaquine&query_place_id=ChIJsVhDLJ7Dw0cRpDOIAWFzzL4",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcFgdam_aUB9BtuDHxcA4M-NI-Bnkw9TJen159kB3TLNy3SJEhyPPzJ0D62Wzb0vEe7dXh3coYjVsCKUYXQEVjyeHLitSLPavLvSI_AWLQdtFW9TyBs3v-sI-fRJRLd1b7SzuIXjFE-Dn6S=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcFgdam_aUB9BtuDHxcA4M-NI-Bnkw9TJen159kB3TLNy3SJEhyPPzJ0D62Wzb0vEe7dXh3coYjVsCKUYXQEVjyeHLitSLPavLvSI_AWLQdtFW9TyBs3v-sI-fRJRLd1b7SzuIXjFE-Dn6S=w1000-h750-no",
-    "rating": 4.8,
-    "review_count": 101,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJKf0SjSPDw0cRwZKxtjyV_Ds",
-    "name": "Moskee Almuslimine",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Sint-Jans-Molenbeek",
-    "address": "Moskee Almuslimine, Ribaucourtstraat 18, 1080 Sint-Jans-Molenbeek",
-    "street": "Ribaucourtstraat 18",
-    "postal_code": "1080",
-    "region": null,
-    "latitude": 50.8576068,
-    "longitude": 4.339078,
-    "phone": null,
-    "website": "https://www.facebook.com/Almuslimine.be",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Almuslimine&query_place_id=ChIJKf0SjSPDw0cRwZKxtjyV_Ds",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcW8FIe84kkSzpnxL0GCOUIdBBsqs_kOrKXBG1yWJKCtrWz5l1V90Q84KKV2Gr5D4kaxROwgD5vlLoquwEMucH2JiP7FSgnU10prrDQEVi1WzN9lxGdQVQEEIRRbFFM3vT1LxDPsNJfyz88=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcW8FIe84kkSzpnxL0GCOUIdBBsqs_kOrKXBG1yWJKCtrWz5l1V90Q84KKV2Gr5D4kaxROwgD5vlLoquwEMucH2JiP7FSgnU10prrDQEVi1WzN9lxGdQVQEEIRRbFFM3vT1LxDPsNJfyz88=w1000-h750-no",
-    "rating": 4.8,
-    "review_count": 45,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJW3yscN_Dw0cRZt7KAQVDGxM",
-    "name": "Moskee Arafat",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Sint-Jans-Molenbeek",
-    "address": "Moskee Arafat, Ulensstraat 85/87, 1080 Sint-Jans-Molenbeek",
-    "street": "Ulensstraat 85/87",
-    "postal_code": "1080",
-    "region": null,
-    "latitude": 50.8629828,
-    "longitude": 4.3424939,
-    "phone": null,
-    "website": "https://www.annuaire-musulman.com/view.php?id=698&page=1&cat=78",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Arafat&query_place_id=ChIJW3yscN_Dw0cRZt7KAQVDGxM",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdn36o3oLDN1ihZZRnXB0DH830_rQaxrlACagc5d7pOfzcExNi6Ed7DFoRoeRAj3zBah6LGEf-83WCA7IQlcsX5uqTtL0tFW6b7mtApX5KJ83_8Jaed9KIA-li7rodZj2oPV4eU_65ycXr8=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdn36o3oLDN1ihZZRnXB0DH830_rQaxrlACagc5d7pOfzcExNi6Ed7DFoRoeRAj3zBah6LGEf-83WCA7IQlcsX5uqTtL0tFW6b7mtApX5KJ83_8Jaed9KIA-li7rodZj2oPV4eU_65ycXr8=w1000-h750-no",
-    "rating": 4.6,
-    "review_count": 27,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJZU-0lo3Dw0cRe9tG4BTA7f0",
-    "name": "Moskee Mevlana",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Sint-Jans-Molenbeek",
-    "address": "Moskee Mevlana, 1080 Sint-Jans-Molenbeek",
-    "street": null,
-    "postal_code": null,
-    "region": null,
-    "latitude": 50.857863699999996,
-    "longitude": 4.3393953,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Mevlana&query_place_id=ChIJZU-0lo3Dw0cRe9tG4BTA7f0",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdWD9JK-C3np-Zk9QizXQASnFHhZufZ6SJztBMp7D3z0ROQRqcE8MXpIGkReBq-mmmIfHO9GdK-jgXu6ZqYEX6MGBoP0RYWWhkouuSRuk-pL3_Xf3y6GquHLI4gTs81C_YBwA5NmR-tInJI=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdWD9JK-C3np-Zk9QizXQASnFHhZufZ6SJztBMp7D3z0ROQRqcE8MXpIGkReBq-mmmIfHO9GdK-jgXu6ZqYEX6MGBoP0RYWWhkouuSRuk-pL3_Xf3y6GquHLI4gTs81C_YBwA5NmR-tInJI=w1000-h750-no",
-    "rating": 4.8,
-    "review_count": 25,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJi54WzJXDw0cRz-MObW0aowg",
-    "name": "Mosquee Al Aziz",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Sint-Jans-Molenbeek",
-    "address": "Mosquee Al Aziz, Scheldestraat 54, 1080 Sint-Jans-Molenbeek",
-    "street": "Scheldestraat 54",
-    "postal_code": "1080",
-    "region": null,
-    "latitude": 50.866844,
-    "longitude": 4.3417071,
-    "phone": null,
-    "website": "https://www.companyweb.be/societe/mosquee-al-aziz/asbl/874625343",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mosquee%20Al%20Aziz&query_place_id=ChIJi54WzJXDw0cRz-MObW0aowg",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe6mOq8Skw59QFT0Cyes9OVertyWuqmT0aqnkKbtawSC-MZCXwaBhxJ4VzSzeKAGW4HbWevptv7RCaYC0TqKVb14QnczUZ2mY6O5CQV_5ZS6MqZ4QMBoSW2TilYG0polqCGRQCpCKCClhvC=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe6mOq8Skw59QFT0Cyes9OVertyWuqmT0aqnkKbtawSC-MZCXwaBhxJ4VzSzeKAGW4HbWevptv7RCaYC0TqKVb14QnczUZ2mY6O5CQV_5ZS6MqZ4QMBoSW2TilYG0polqCGRQCpCKCClhvC=w1000-h750-no",
-    "rating": 4.9,
-    "review_count": 16,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJIdUkcj3Dw0cR7KU2mvxaxZ4",
-    "name": "Mosquée Al Albani",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Sint-Jans-Molenbeek",
-    "address": "Mosquée Al Albani, Rue Haeck 31, 1080 Molenbeek-Saint-Jean",
-    "street": "Haeckstraat 31",
-    "postal_code": "1080",
-    "region": null,
-    "latitude": 50.863892799999995,
-    "longitude": 4.3343847,
-    "phone": null,
-    "website": "https://mawaqit.net/fr/al-albani-bruxelles",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mosqu%C3%A9e%20Al%20Albani&query_place_id=ChIJIdUkcj3Dw0cR7KU2mvxaxZ4",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfrqx7kUaOYpknaxV2_5m7buGkZ6XfK6q2w-WwhTNIOCtvRlvUZxJfDDSKKRkERd8x9Q5RWAJLCO3M4FZusqHTBDpSHgQOL4k-dBmrqqX_DK3N36CyPHkr5AJX5dTwdNaQxCQE=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfrqx7kUaOYpknaxV2_5m7buGkZ6XfK6q2w-WwhTNIOCtvRlvUZxJfDDSKKRkERd8x9Q5RWAJLCO3M4FZusqHTBDpSHgQOL4k-dBmrqqX_DK3N36CyPHkr5AJX5dTwdNaQxCQE=w1000-h750-no",
-    "rating": 4.9,
-    "review_count": 29,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJo4HMLQDDw0cR4U-vuG53-UY",
-    "name": "Mosquée Fraternité",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Sint-Jans-Molenbeek",
-    "address": "Mosquée Fraternité, Rue Edmond de Grimberghe 28, 1080 Molenbeek-Saint-Jean",
-    "street": "Edmond de Grimberghestraat 28",
-    "postal_code": "1080",
-    "region": null,
-    "latitude": 50.8558223,
-    "longitude": 4.3334515,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mosqu%C3%A9e%20Fraternit%C3%A9&query_place_id=ChIJo4HMLQDDw0cR4U-vuG53-UY",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeTnDH5IyZwJpfwE_XzXuADl7s5oG906ZrLCBreb6LMtlYwwVCmvRvnHuv7MqFEz2olxHLSG7QuHZw2Ncv7wV_Fkbyb7Pp_xQPtcBm_459yw-EVeIPniN9erygJSpAMxewSRIMruQt24nvY=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeTnDH5IyZwJpfwE_XzXuADl7s5oG906ZrLCBreb6LMtlYwwVCmvRvnHuv7MqFEz2olxHLSG7QuHZw2Ncv7wV_Fkbyb7Pp_xQPtcBm_459yw-EVeIPniN9erygJSpAMxewSRIMruQt24nvY=w1000-h750-no",
-    "rating": 4.5,
-    "review_count": 14,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJdy4YgI7Dw0cRD9iSn61aR8c",
-    "name": "Mosquée de l'Avenir",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Sint-Jans-Molenbeek",
-    "address": "Mosquée de l'Avenir, Toekomststraat 16, 1080 Sint-Jans-Molenbeek",
-    "street": "Toekomststraat 16",
-    "postal_code": "1080",
-    "region": null,
-    "latitude": 50.8561027,
-    "longitude": 4.3411577999999995,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mosqu%C3%A9e%20de%20l%27Avenir&query_place_id=ChIJdy4YgI7Dw0cRD9iSn61aR8c",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd6NmtCcRB1vSFJqz6tzk6xzODrD_MRgpx3QeLkvn6xswd1GxU20CeYO_kZdbvYwN5PdzPJetXtJZhU3_xeQLeVXkceJtqEgNda6rvMhpDyOpKIk1nvHK1Bj_VZlCSsaiKntQUN5-xSvdYL=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd6NmtCcRB1vSFJqz6tzk6xzODrD_MRgpx3QeLkvn6xswd1GxU20CeYO_kZdbvYwN5PdzPJetXtJZhU3_xeQLeVXkceJtqEgNda6rvMhpDyOpKIk1nvHK1Bj_VZlCSsaiKntQUN5-xSvdYL=w1000-h750-no",
-    "rating": 4.7,
-    "review_count": 31,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJWf3ONdzDw0cRHG_Gnc0Q1A4",
-    "name": "Noisette Halal Restaurant",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Sint-Jans-Molenbeek",
-    "address": "Noisette Halal Restaurant, N9 28 1080, 1080 Sint-Jans-Molenbeek",
-    "street": "N9 28 1080",
-    "postal_code": "1080",
-    "region": null,
-    "latitude": 50.853307799999996,
-    "longitude": 4.3393312,
-    "phone": null,
-    "website": "https://restaurantguru.com/Noisette-Halal-Restaurant-Sint-Jans-Molenbeek",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Noisette%20Halal%20Restaurant&query_place_id=ChIJWf3ONdzDw0cRHG_Gnc0Q1A4",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf_mzyRltflQ-Rxsd8WuKRK3ggYUYGG1aA8G9Y6RJFmmqgOelBYv1vylme7UsISAAGPyZBo9yKbKlKVFxxQkLZeKdk1InqwtUvhWjszP_SdElY6EbMCAlLnZ7eLiPiqBAeNHWY0=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf_mzyRltflQ-Rxsd8WuKRK3ggYUYGG1aA8G9Y6RJFmmqgOelBYv1vylme7UsISAAGPyZBo9yKbKlKVFxxQkLZeKdk1InqwtUvhWjszP_SdElY6EbMCAlLnZ7eLiPiqBAeNHWY0=w1000-h750-no",
-    "rating": 4.1,
-    "review_count": 220,
-    "verification_status": "VERIFIED",
-    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJtxwLxfnDw0cRs1gRPgD27AM",
-    "name": "OMRAPOURTOUS - BRUXELLES",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Sint-Jans-Molenbeek",
-    "address": "OMRAPOURTOUS - BRUXELLES, Rue du Presbytère 27, 1080 Molenbeek-Saint-Jean",
-    "street": "Rue du Presbytère 27",
-    "postal_code": "1080",
-    "region": null,
-    "latitude": 50.857416799999996,
-    "longitude": 4.3376812,
-    "phone": "02 318 58 79",
-    "website": "https://omrapourtous.com/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=OMRAPOURTOUS%20-%20BRUXELLES&query_place_id=ChIJtxwLxfnDw0cRs1gRPgD27AM",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "9:30 am–1 pm",
-        "2:30–6 pm"
-      ],
-      "Wednesday": [
-        "9:30 am–1 pm",
-        "2:30–6 pm"
-      ],
-      "Thursday": [
-        "9:30 am–1 pm",
-        "2:30–6 pm"
-      ],
-      "Friday": [
-        "9:30 am–1 pm",
-        "3–6 pm"
-      ],
-      "Saturday": [
-        "9:30 am–1 pm",
-        "2:30–6 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 747,
-    "rating": 5.0,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdaJ0PGSeWsxkpBbltRhatnKW1553o4h8PAquGTw4OhKtV6xET3I1cXaXKsbuSYg1iK459F8_7C3i_xGAHONSFuDk1Sfl5CrmXu7_k8pJWUu46JmJFY5nQroy8XsWSvIzXuUavMOKQsgU9f=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdaJ0PGSeWsxkpBbltRhatnKW1553o4h8PAquGTw4OhKtV6xET3I1cXaXKsbuSYg1iK459F8_7C3i_xGAHONSFuDk1Sfl5CrmXu7_k8pJWUu46JmJFY5nQroy8XsWSvIzXuUavMOKQsgU9f=w1000-h750-no",
-    "source_query": "Mosque in Brussels, Brussels Capital, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ2_39ZvTDw0cRudFEmziJFDk",
-    "name": "Omar Amir",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Sint-Jans-Molenbeek",
-    "address": "Omar Amir, Vier-windenstraat 83, 1080 Sint-Jans-Molenbeek",
-    "street": "Vier-windenstraat 83",
-    "postal_code": "1080",
-    "region": null,
-    "latitude": 50.852771999999995,
-    "longitude": 4.3306715,
-    "phone": "0489 31 68 06",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Omar%20Amir&query_place_id=ChIJ2_39ZvTDw0cRudFEmziJFDk",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLehxovLsvNjSxTjGX6U9qVVcuMpu-NEVGqVZIk7ImTxH-XvhpUveQxrYMt-0H_7EtQEPAlH01oOT1wHtHhHlK4_oVQp5ejauYN43QDUdazdB4rd-anbTkmPc9PEnKnyux8HSDFGMpQiOUw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLehxovLsvNjSxTjGX6U9qVVcuMpu-NEVGqVZIk7ImTxH-XvhpUveQxrYMt-0H_7EtQEPAlH01oOT1wHtHhHlK4_oVQp5ejauYN43QDUdazdB4rd-anbTkmPc9PEnKnyux8HSDFGMpQiOUw=w1000-h750-no",
-    "rating": 4.2,
-    "review_count": 53,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJ-76OFPvDw0cRSMX1faERyNU",
-    "name": "O’karreveld",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Sint-Jans-Molenbeek",
-    "address": "O’karreveld, Av. du Karreveld 2, 1080 Molenbeek-Saint-Jean",
-    "street": "Karreveldlaan 2",
-    "postal_code": "1080",
-    "region": null,
-    "latitude": 50.8580085,
-    "longitude": 4.3182271,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=O%E2%80%99karreveld&query_place_id=ChIJ-76OFPvDw0cRSMX1faERyNU",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfSmFsJeCptSsxGFyCdlsaJBoVOq9891g2W8YO6gdxeGx6CwPgVYve37DNR4LgFJ7Dwf3BDIL749u2iQNv_Xc-mL0d71VD4jUV5EoSPDyKmC_7Q1EdQjCQpKLDIaenmZTcXS721=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfSmFsJeCptSsxGFyCdlsaJBoVOq9891g2W8YO6gdxeGx6CwPgVYve37DNR4LgFJ7Dwf3BDIL749u2iQNv_Xc-mL0d71VD4jUV5EoSPDyKmC_7Q1EdQjCQpKLDIaenmZTcXS721=w1000-h750-no",
-    "rating": 4.2,
-    "review_count": 129,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJIeQD-CrDw0cR7OK1hHunYAQ",
-    "name": "Pakistaans Islamitsch gemeenschapscentrum",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Sint-Jans-Molenbeek",
-    "address": "Pakistaans Islamitsch gemeenschapscentrum, Werkhuizenstraat 22, 1080 Sint-Jans-Molenbeek",
-    "street": "Werkhuizenstraat 22",
-    "postal_code": "1080",
-    "region": null,
-    "latitude": 50.8576019,
-    "longitude": 4.3428543,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pakistaans%20Islamitsch%20gemeenschapscentrum&query_place_id=ChIJIeQD-CrDw0cR7OK1hHunYAQ",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdBZNddAAGxMqjiIQ7_AYsDcQUtV9aZuI-D4NrKNOb4Sx7cGnOTpBnPhTysXDCvAePZgvR0QSG2ACtEkGnjKJUuSYOWj8IEo4Vd-4bA1EREOlzpdLbX5LOhhDGVLp3iTE8fQF38YSqVyfZZ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdBZNddAAGxMqjiIQ7_AYsDcQUtV9aZuI-D4NrKNOb4Sx7cGnOTpBnPhTysXDCvAePZgvR0QSG2ACtEkGnjKJUuSYOWj8IEo4Vd-4bA1EREOlzpdLbX5LOhhDGVLp3iTE8fQF38YSqVyfZZ=w1000-h750-no",
-    "rating": 4.8,
-    "review_count": 37,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJ76RPq4zDw0cR3RduJfeDINY",
-    "name": "Pakistan Jaffaria",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Sint-Jans-Molenbeek",
-    "address": "Pakistan Jaffaria, Van Male de Ghorainstraat 10, 1080 Sint-Jans-Molenbeek",
-    "street": "Van Male de Ghorainstraat 10",
-    "postal_code": "1080",
-    "region": null,
-    "latitude": 50.854321999999996,
-    "longitude": 4.3349304,
-    "phone": "02 415 92 59",
-    "website": "https://m.facebook.com/jaffaria.imambargah.brussels/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pakistan%20Jaffaria&query_place_id=ChIJ76RPq4zDw0cR3RduJfeDINY",
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=E_FDaYXvRyYcLaB50510Eg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=225.16681&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=E_FDaYXvRyYcLaB50510Eg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=225.16681&pitch=0&thumbfov=w1000-h750-no",
-    "rating": 4.8,
-    "review_count": 27,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJS2NULXjEw0cReHSz2wgAjYU",
-    "name": "Restaurant Beit ALHARA",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Sint-Jans-Molenbeek",
-    "address": "Restaurant Beit ALHARA, Ossegemstraat 146, 1080 Sint-Jans-Molenbeek",
-    "street": "Ossegemstraat 146",
-    "postal_code": "1080",
-    "region": null,
-    "latitude": 50.8537137,
-    "longitude": 4.3166464,
-    "phone": "02 304 64 55",
-    "website": "http://beitalhara.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20Beit%20ALHARA&query_place_id=ChIJS2NULXjEw0cReHSz2wgAjYU",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeGDQuelWG00T26BtpS37gnbMXaeo8EY7xhqUoGGyzu0KCJNhjKkUivyHeaMnPf3zE8VSrvd4Pyn4iNzF_uM4vhm9uv-zkhCjxkni-Gl4YXNKxq0vJ-KAIyFdw2uaN6saWHH-RuMQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeGDQuelWG00T26BtpS37gnbMXaeo8EY7xhqUoGGyzu0KCJNhjKkUivyHeaMnPf3zE8VSrvd4Pyn4iNzF_uM4vhm9uv-zkhCjxkni-Gl4YXNKxq0vJ-KAIyFdw2uaN6saWHH-RuMQ=w1000-h750-no",
-    "rating": 4.4,
-    "review_count": 1301,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJW9y08LzFw0cR7STTlTvNdzs",
-    "name": "Restaurant La Sénégalaise",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Sint-Jans-Molenbeek",
-    "address": "Restaurant La Sénégalaise, Rue de Ribaucourt 130, 1080 Molenbeek-Saint-Jean",
-    "street": "Ribaucourtstraat 130",
-    "postal_code": "1080",
-    "region": null,
-    "latitude": 50.861378099999996,
-    "longitude": 4.3425027,
-    "phone": "0493 37 43 73",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20La%20S%C3%A9n%C3%A9galaise&query_place_id=ChIJW9y08LzFw0cR7STTlTvNdzs",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeuHM8x57Y-vMWOrDXLKVIX9QR9gKQ5xYJMbcsftqDWWbZEyIwOtL3CYTr5VBtR7iXCVZ7GGPifZ_HYQ6REovOVzCJ_P8XVEV9qgwGNVI_QoyxyWuLw_5IUQTyHWX2Rxz3qOm6g=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeuHM8x57Y-vMWOrDXLKVIX9QR9gKQ5xYJMbcsftqDWWbZEyIwOtL3CYTr5VBtR7iXCVZ7GGPifZ_HYQ6REovOVzCJ_P8XVEV9qgwGNVI_QoyxyWuLw_5IUQTyHWX2Rxz3qOm6g=w1000-h750-no",
-    "rating": 4.7,
-    "review_count": 262,
-    "verification_status": "VERIFIED",
-    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
     "is_active": true,
     "moderation_status": "approved"
   }
