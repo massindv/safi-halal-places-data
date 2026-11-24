@@ -1,5 +1,568 @@
 [
   {
+    "place_id": "ChIJg7lPyeU5wkcRhF67x7AmupU",
+    "name": "O'Tacos Binche",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Binche",
+    "address": "O'Tacos Binche, Av. Charles Deliège 16, 7130 Binche",
+    "street": "Av. Charles Deliège 16",
+    "postal_code": "7130",
+    "region": null,
+    "latitude": 50.4120438,
+    "longitude": 4.1656053,
+    "phone": null,
+    "website": "https://restaurants.o-tacos.com/belgium/region-wallonne/hainaut/binche/binche?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=O%27Tacos%20Binche&query_place_id=ChIJg7lPyeU5wkcRhF67x7AmupU",
+    "open_hours_json": {
+      "Monday": [
+        "11:30 am–9:30 pm"
+      ],
+      "Tuesday": [
+        "11:30 am–9:30 pm"
+      ],
+      "Wednesday": [
+        "11:30 am–9:30 pm"
+      ],
+      "Thursday": [
+        "11:30 am–9:30 pm"
+      ],
+      "Friday": [
+        "11:30 am–9:30 pm"
+      ],
+      "Saturday": [
+        "11:30 am–9:30 pm"
+      ],
+      "Sunday": [
+        "11:30 am–9:30 pm"
+      ]
+    },
+    "review_count": 21,
+    "rating": 2.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfP9WCpMIfDs8trRzg-DSR6SF8et_ytWjcfyVLNb23jRc4wWZ6XAtrNC7E4BbPpIPxqD_FET1p7Bie8eixs5UTCRolzfmTS76QGB5ZC6LdJlRzuzIOz5Ofq8F4nHWUMqcpWRYPNJTH0lDDG=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfP9WCpMIfDs8trRzg-DSR6SF8et_ytWjcfyVLNb23jRc4wWZ6XAtrNC7E4BbPpIPxqD_FET1p7Bie8eixs5UTCRolzfmTS76QGB5ZC6LdJlRzuzIOz5Ofq8F4nHWUMqcpWRYPNJTH0lDDG=w1000-h750-no",
+    "source_query": "Halal restaurant in Binche, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata"
+  },
+  {
+    "place_id": "ChIJ_ZX4drs5wkcRGJMeRu1GD64",
+    "name": "Shop Express, Binche",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Binche",
+    "address": "Shop Express, Binche, Rte de Charleroi 217, 7134 Binche",
+    "street": "Rte de Charleroi 217",
+    "postal_code": "7134",
+    "region": null,
+    "latitude": 50.4089603,
+    "longitude": 4.209664399999999,
+    "phone": "0489 62 62 78",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Shop%20Express%2C%20Binche&query_place_id=ChIJ_ZX4drs5wkcRGJMeRu1GD64",
+    "open_hours_json": {
+      "Monday": [
+        "8 am–2 am"
+      ],
+      "Tuesday": [
+        "8 am–2 am"
+      ],
+      "Wednesday": [
+        "8 am–2 am"
+      ],
+      "Thursday": [
+        "8 am–2 am"
+      ],
+      "Friday": [
+        "8 am–2 am"
+      ],
+      "Saturday": [
+        "8 am–2 am"
+      ],
+      "Sunday": [
+        "8 am–2 am"
+      ]
+    },
+    "review_count": 18,
+    "rating": 3.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLffbbVXDiHjwFWD-rf05U5t3BFozzYm1c83UtSCQM9NTnKucABWaptJbccQd3l958UrYQXJcN2namCYXRpH0Rh0GokFcknqKTUux49raSd6OdxNNNb2oIbjNiR3DlZxNm5kmJRp=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLffbbVXDiHjwFWD-rf05U5t3BFozzYm1c83UtSCQM9NTnKucABWaptJbccQd3l958UrYQXJcN2namCYXRpH0Rh0GokFcknqKTUux49raSd6OdxNNNb2oIbjNiR3DlZxNm5kmJRp=w1000-h750-no",
+    "source_query": "Hypermarket in Binche, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJhWgNaeA5wkcR-2mt4hICDy8",
+    "name": "Spar Ressaix",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Binche",
+    "address": "Spar Ressaix, Chau. Brunehault 141, 7134 Binche",
+    "street": "Chau. Brunehault 141",
+    "postal_code": "7134",
+    "region": null,
+    "latitude": 50.4283752,
+    "longitude": 4.1852525,
+    "phone": "064 55 52 57",
+    "website": "https://www.monspar.be/magasins/spar-ressaix",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Spar%20Ressaix&query_place_id=ChIJhWgNaeA5wkcR-2mt4hICDy8",
+    "open_hours_json": {
+      "Monday": [
+        "7 am–8 pm"
+      ],
+      "Tuesday": [
+        "7 am–8 pm"
+      ],
+      "Wednesday": [
+        "7 am–8 pm"
+      ],
+      "Thursday": [
+        "7 am–8 pm"
+      ],
+      "Friday": [
+        "7 am–8 pm"
+      ],
+      "Saturday": [
+        "7 am–8 pm"
+      ],
+      "Sunday": [
+        "7 am–8 pm"
+      ]
+    },
+    "review_count": 237,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcfSC3Bc-LHQ4IPrSluH0WQmXQuH2tANr7xJQAv26zQVNsLrDRP5e78LDoQaXhWV01NrihwYt7NUXqzKHcmGcIhcn26m15CXkDiykIp1PDhC7OBrbriY-3e2nq3rmHiIGuGEQ3PlA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcfSC3Bc-LHQ4IPrSluH0WQmXQuH2tANr7xJQAv26zQVNsLrDRP5e78LDoQaXhWV01NrihwYt7NUXqzKHcmGcIhcn26m15CXkDiykIp1PDhC7OBrbriY-3e2nq3rmHiIGuGEQ3PlA=w1000-h750-no",
+    "source_query": "Hypermarket in Binche, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJjyV61Vw4wkcR1g09ovM2uUU",
+    "name": "Vip Market",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Binche",
+    "address": "Vip Market, Rue de Buvrinnes 4, 7130 Binche",
+    "street": "Rue de Buvrinnes 4",
+    "postal_code": "7130",
+    "region": null,
+    "latitude": 50.407818299999995,
+    "longitude": 4.1709483,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Vip%20Market&query_place_id=ChIJjyV61Vw4wkcR1g09ovM2uUU",
+    "open_hours_json": {
+      "Monday": [
+        "8 am–8 pm"
+      ],
+      "Tuesday": [
+        "8 am–8 pm"
+      ],
+      "Wednesday": [
+        "8 am–8 pm"
+      ],
+      "Thursday": [
+        "8 am–8 pm"
+      ],
+      "Friday": [
+        "8 am–8 pm"
+      ],
+      "Saturday": [
+        "8:30 am–8 pm"
+      ],
+      "Sunday": [
+        "8:30 am–8 pm"
+      ]
+    },
+    "review_count": 32,
+    "rating": 4.5,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=GsfZ5XdLeor5WIEqphlFxQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=33.110973&pitch=0.11218777&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=GsfZ5XdLeor5WIEqphlFxQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=33.110973&pitch=0.11218777&thumbfov=w1000-h750-no",
+    "source_query": "Hypermarket in Binche, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ-fr4wSE5wkcRAU_JgI8Ux8o",
+    "name": "شام ماركة sham market",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Binche",
+    "address": "شام ماركة sham market, Av. Wanderpepen 9، 7130 Binche",
+    "street": "Av. Wanderpepen 9",
+    "postal_code": "7130",
+    "region": null,
+    "latitude": 50.4120524,
+    "longitude": 4.1681877,
+    "phone": "0465 76 90 84",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%D8%B4%D8%A7%D9%85%20%D9%85%D8%A7%D8%B1%D9%83%D8%A9%20sham%20market&query_place_id=ChIJ-fr4wSE5wkcRAU_JgI8Ux8o",
+    "open_hours_json": {
+      "Monday": [
+        "10 am–7 pm"
+      ],
+      "Tuesday": [
+        "10 am–7 pm"
+      ],
+      "Wednesday": [
+        "10 am–7 pm"
+      ],
+      "Thursday": [
+        "10 am–7 pm"
+      ],
+      "Friday": [
+        "10 am–1 pm",
+        "3–7 pm"
+      ],
+      "Saturday": [
+        "10 am–7 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 9,
+    "rating": 5.0,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcpw3UMEBa3DGenZyydv7y8apgOwUOL8R_nxsmy0qbTdnj6vFbYhpTF5CpNvdbjwFqN22Jrj-CFBp10TD1P2wp48BM8moGvbg_JBPmSyvevpo9MK9foj1yMFBFOE0LS-Pva2Kg=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcpw3UMEBa3DGenZyydv7y8apgOwUOL8R_nxsmy0qbTdnj6vFbYhpTF5CpNvdbjwFqN22Jrj-CFBp10TD1P2wp48BM8moGvbg_JBPmSyvevpo9MK9foj1yMFBFOE0LS-Pva2Kg=w1000-h750-no",
+    "source_query": "Hypermarket in Binche, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJTbwF3XyqxEcRizREP5_v33g",
+    "name": "'t Koetshuis🇧🇪",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Blankenberge",
+    "address": "'t Koetshuis🇧🇪, Molenstraat 19, 8370 Blankenberge",
+    "street": "Molenstraat 19",
+    "postal_code": "8370",
+    "region": null,
+    "latitude": 51.314585799999996,
+    "longitude": 3.1295124999999997,
+    "phone": "050 41 47 24",
+    "website": "https://www.tkoetshuisblankenberge.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%27t%20Koetshuis%F0%9F%87%A7%F0%9F%87%AA&query_place_id=ChIJTbwF3XyqxEcRizREP5_v33g",
+    "open_hours_json": {
+      "Monday": [
+        "9 am–6:30 pm"
+      ],
+      "Tuesday": [
+        "9 am–6:30 pm"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "Closed"
+      ],
+      "Friday": [
+        "9 am–6:30 pm"
+      ],
+      "Saturday": [
+        "9 am–6:30 pm"
+      ],
+      "Sunday": [
+        "9 am–6:30 pm"
+      ]
+    },
+    "review_count": 1231,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe3N8Ybl61eN9TMHq4DzkuiPu_LKvDkN97GfVQWnVhlu-4PO1C0VmkTJDoi6YxRPBucFeIlVkxLGJmwK9y0BsOJDaRvbJhPXzn5ys6s6aWe7xcFYpbD0b1SX5cx5NOn0mWVZglB=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe3N8Ybl61eN9TMHq4DzkuiPu_LKvDkN97GfVQWnVhlu-4PO1C0VmkTJDoi6YxRPBucFeIlVkxLGJmwK9y0BsOJDaRvbJhPXzn5ys6s6aWe7xcFYpbD0b1SX5cx5NOn0mWVZglB=w1000-h750-no",
+    "source_query": "Halal restaurant in Blankenberge, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJWctqv4CqxEcROiQeP2iaMUE",
+    "name": "'t Maantje",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Blankenberge",
+    "address": "'t Maantje, De Langheplein 7, 8370 Blankenberge",
+    "street": "De Langheplein 7",
+    "postal_code": "8370",
+    "region": null,
+    "latitude": 51.3097439,
+    "longitude": 3.1237554999999997,
+    "phone": "050 41 59 31",
+    "website": "https://www.openingsuren.vlaanderen/maantje/8370-blankenberge/de-langheplein-7",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%27t%20Maantje&query_place_id=ChIJWctqv4CqxEcROiQeP2iaMUE",
+    "open_hours_json": null,
+    "review_count": 18,
+    "rating": 4.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdWKyvBW4Unx4AccIS0Ek1kw8A2W6K0n5MDDXt7rtd-ZWRwDwroCuEQ9q9t5-Dld9RrEWNTiAcmA5785YKQwSVLdX6VtLqAt9w0qmENrSNX-zg2q5NwlWX6IKCbfxjszHIfkUnv=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdWKyvBW4Unx4AccIS0Ek1kw8A2W6K0n5MDDXt7rtd-ZWRwDwroCuEQ9q9t5-Dld9RrEWNTiAcmA5785YKQwSVLdX6VtLqAt9w0qmENrSNX-zg2q5NwlWX6IKCbfxjszHIfkUnv=w1000-h750-no",
+    "source_query": "Hypermarket in Blankenberge, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJNzjV5YaqxEcRKui9G1NvgJA",
+    "name": "Al Piccolo Mondo",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Blankenberge",
+    "address": "Al Piccolo Mondo, De Smet de Naeyerlaan 7, 8370 Blankenberge",
+    "street": "De Smet de Naeyerlaan 7",
+    "postal_code": "8370",
+    "region": null,
+    "latitude": 51.3124081,
+    "longitude": 3.1217326,
+    "phone": "050 70 34 23",
+    "website": "http://www.alpm.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Piccolo%20Mondo&query_place_id=ChIJNzjV5YaqxEcRKui9G1NvgJA",
+    "open_hours_json": {
+      "Monday": [
+        "11:30 am–2:30 pm",
+        "6–10 pm"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "11:30 am–2:30 pm",
+        "6–10 pm"
+      ],
+      "Thursday": [
+        "11:30 am–2:30 pm",
+        "6–10 pm"
+      ],
+      "Friday": [
+        "11:30 am–2:30 pm",
+        "6–10 pm"
+      ],
+      "Saturday": [
+        "11:30 am–2:30 pm",
+        "6–10 pm"
+      ],
+      "Sunday": [
+        "11:30 am–2:30 pm",
+        "6–10 pm"
+      ]
+    },
+    "review_count": 840,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdlAJa4w0adGCh4whkO224FqMYVeTv9R5ONDVqp8svm86C0VCKMBrgRLRr6NZCbUohtSDsJAjtOxeelYAxG1t9PBT2KImYP-hmzxMDIiP5Qu2dsEw-WtY6iPKDGhHKst2FuZlL2=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdlAJa4w0adGCh4whkO224FqMYVeTv9R5ONDVqp8svm86C0VCKMBrgRLRr6NZCbUohtSDsJAjtOxeelYAxG1t9PBT2KImYP-hmzxMDIiP5Qu2dsEw-WtY6iPKDGhHKst2FuZlL2=w1000-h750-no",
+    "source_query": "Halal restaurant in Blankenberge, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ93nd4GyrxEcR0lWcKk0Ze5s",
+    "name": "Al Taglio",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Blankenberge",
+    "address": "Al Taglio, Naast Gatsby Hotel, J. de Troozlaan 27, 8370 Blankenberge",
+    "street": "Naast Gatsby Hotel, J. de Troozlaan 27",
+    "postal_code": "8370",
+    "region": null,
+    "latitude": 51.3150432,
+    "longitude": 3.1335995999999997,
+    "phone": "0470 93 79 77",
+    "website": "https://www.facebook.com/profile.php?id=61589131056908",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Taglio&query_place_id=ChIJ93nd4GyrxEcR0lWcKk0Ze5s",
+    "open_hours_json": {
+      "Monday": [
+        "6–10 pm"
+      ],
+      "Tuesday": [
+        "6–10 pm"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "6–10 pm"
+      ],
+      "Friday": [
+        "6–10 pm"
+      ],
+      "Saturday": [
+        "6–10 pm"
+      ],
+      "Sunday": [
+        "6–10 pm"
+      ]
+    },
+    "review_count": 106,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfslM6EGgP91NLWfsbFLr6Qm79NcwuYrs0UBr4EAoW9x9KsnrE4jP0O9li2KqNo5A8LjCBAzMe2dM-HjvH9R0FCVciJgs6F_q5-y9klkFyRHGfKZCSQWg4DlgbHAAPRL1nSvzFmEZAuotE=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfslM6EGgP91NLWfsbFLr6Qm79NcwuYrs0UBr4EAoW9x9KsnrE4jP0O9li2KqNo5A8LjCBAzMe2dM-HjvH9R0FCVciJgs6F_q5-y9klkFyRHGfKZCSQWg4DlgbHAAPRL1nSvzFmEZAuotE=w1000-h750-no",
+    "source_query": "Halal restaurant in Blankenberge, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ_d_HXMurxEcRPqXi1jkhPhk",
+    "name": "American snack",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Blankenberge",
+    "address": "American snack, Kerkstraat 15, 8370 Blankenberge",
+    "street": "Kerkstraat 15",
+    "postal_code": "8370",
+    "region": null,
+    "latitude": 51.3161376,
+    "longitude": 3.1280159999999997,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=American%20snack&query_place_id=ChIJ_d_HXMurxEcRPqXi1jkhPhk",
+    "open_hours_json": null,
+    "review_count": 34,
+    "rating": 3.4,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcG5kyq8VzqgF7WST2dx7gCSs_GVZoOydawAstlVRdGJc4oBvuGdf79xO0-zWNNjJLkJbkIc2rVDuhSgtbBj_dzTRS0EkyUBiF1aldDx95PyedSASw2z9jj0zS7H3k1_PljZPIV_LrdDVI=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcG5kyq8VzqgF7WST2dx7gCSs_GVZoOydawAstlVRdGJc4oBvuGdf79xO0-zWNNjJLkJbkIc2rVDuhSgtbBj_dzTRS0EkyUBiF1aldDx95PyedSASw2z9jj0zS7H3k1_PljZPIV_LrdDVI=w1000-h750-no",
+    "source_query": "Halal restaurant in Blankenberge, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJG6zFx8erxEcRwFEa9pgxufM",
+    "name": "Benny Voedingswinkel",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Blankenberge",
+    "address": "Benny Voedingswinkel, Weststraat 39, 8370 Blankenberge",
+    "street": "Weststraat 39",
+    "postal_code": "8370",
+    "region": null,
+    "latitude": 51.3144626,
+    "longitude": 3.1259866,
+    "phone": "0488 80 78 33",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Benny%20Voedingswinkel&query_place_id=ChIJG6zFx8erxEcRwFEa9pgxufM",
+    "open_hours_json": {
+      "Monday": [
+        "9 am–11 pm"
+      ],
+      "Tuesday": [
+        "9 am–11 pm"
+      ],
+      "Wednesday": [
+        "9 am–11 pm"
+      ],
+      "Thursday": [
+        "9 am–11 pm"
+      ],
+      "Friday": [
+        "9 am–11 pm"
+      ],
+      "Saturday": [
+        "9 am–11 pm"
+      ],
+      "Sunday": [
+        "9 am–11 pm"
+      ]
+    },
+    "review_count": 4,
+    "rating": 4.5,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=imDkhQ1hR12u_CFWDJlNjQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=180.22093&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=imDkhQ1hR12u_CFWDJlNjQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=180.22093&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Hypermarket in Blankenberge, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ0YOz0HyqxEcRQ3F6i6FUrUM",
+    "name": "Broos / Peter",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Blankenberge",
+    "address": "Broos / Peter, Kerkstraat 30, 8370 Blankenberge",
+    "street": "Kerkstraat 30",
+    "postal_code": "8370",
+    "region": null,
+    "latitude": 51.3151157,
+    "longitude": 3.1295552,
+    "phone": "050 41 13 46",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Broos%20%2F%20Peter&query_place_id=ChIJ0YOz0HyqxEcRQ3F6i6FUrUM",
+    "open_hours_json": {
+      "Monday": [
+        "8:30 am–7 pm"
+      ],
+      "Tuesday": [
+        "8:30 am–7 pm"
+      ],
+      "Wednesday": [
+        "8:30 am–7 pm"
+      ],
+      "Thursday": [
+        "8:30 am–7 pm"
+      ],
+      "Friday": [
+        "8:30 am–7 pm"
+      ],
+      "Saturday": [
+        "8:30 am–7 pm"
+      ],
+      "Sunday": [
+        "9 am–12:30 pm"
+      ]
+    },
+    "review_count": 0,
+    "rating": null,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=uYeZYEYyHHIT8pLparv4cQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=33.525646&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=uYeZYEYyHHIT8pLparv4cQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=33.525646&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Hypermarket in Blankenberge, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJP6xEl3uqxEcR26CjNQ2m2lQ",
     "name": "Collect&Go Blankenberge",
     "type": "hypermarket",
@@ -11371,589 +11934,6 @@
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfAT3bGPUQuCGXPofT2CiTuGuIUsS5E304EkndE-8IgGdzdVuPu4yg7qYpzgUX9IGlhcE2Ta05CdNbOjVwtv0NYyNt8XZC1uNqLqVe-ce1MLaZVmEXUrkFBAZKnRR5_CUrwFBMyEg=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfAT3bGPUQuCGXPofT2CiTuGuIUsS5E304EkndE-8IgGdzdVuPu4yg7qYpzgUX9IGlhcE2Ta05CdNbOjVwtv0NYyNt8XZC1uNqLqVe-ce1MLaZVmEXUrkFBAZKnRR5_CUrwFBMyEg=w1000-h750-no",
     "source_query": "Halal restaurant in Brugge, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJN6TDV8hQw0cRhYmlcrGy3Fw",
-    "name": "Hermanus🍔",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Bruges",
-    "address": "Hermanus🍔, Maalse Steenweg 315, 8310 Bruges",
-    "street": "Maalse Steenweg 315",
-    "postal_code": "8310",
-    "region": null,
-    "latitude": 51.2070199,
-    "longitude": 3.2678244,
-    "phone": "050 67 63 99",
-    "website": "http://www.hermanusbruges.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Hermanus%F0%9F%8D%94&query_place_id=ChIJN6TDV8hQw0cRhYmlcrGy3Fw",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "11:30 am–10 pm"
-      ],
-      "Thursday": [
-        "11:30 am–10 pm"
-      ],
-      "Friday": [
-        "11:30 am–10 pm"
-      ],
-      "Saturday": [
-        "11:30 am–10 pm"
-      ],
-      "Sunday": [
-        "11:30 am–10 pm"
-      ]
-    },
-    "review_count": 973,
-    "rating": 4.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfLD6hX-5PBdl3QNky9mzbR3j9K_lWeVZmXclC5_cBN1gB8NCneMSpbF36cDeXdY4vGpyNTvUKuA2jfb6K73qbU5hqe-2EV6AtgenJ0rA7L7m43CIdNstuJ05sNTJ7oNkoj1IBY=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfLD6hX-5PBdl3QNky9mzbR3j9K_lWeVZmXclC5_cBN1gB8NCneMSpbF36cDeXdY4vGpyNTvUKuA2jfb6K73qbU5hqe-2EV6AtgenJ0rA7L7m43CIdNstuJ05sNTJ7oNkoj1IBY=w1000-h750-no",
-    "source_query": "Halal restaurant in Sint-Kruis, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJEWHTCbJQw0cRq5T762H4K5o",
-    "name": "Het Eet Idee",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Bruges",
-    "address": "Het Eet Idee, Moerkerkse Steenweg 187, 8310 Brugge",
-    "street": "Moerkerkse Steenweg 187",
-    "postal_code": "8310",
-    "region": null,
-    "latitude": 51.2137009,
-    "longitude": 3.2504975,
-    "phone": "050 66 77 99",
-    "website": "http://www.heteetidee.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Het%20Eet%20Idee&query_place_id=ChIJEWHTCbJQw0cRq5T762H4K5o",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "10 am–6:30 pm"
-      ],
-      "Wednesday": [
-        "10 am–6:30 pm"
-      ],
-      "Thursday": [
-        "10 am–6:30 pm"
-      ],
-      "Friday": [
-        "10 am–6:30 pm"
-      ],
-      "Saturday": [
-        "10 am–4 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 59,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLew1lgFajJMxyOUltbp5fiAJJlz6jzZ7GTLLiGvFGaZVvUtusJrWDHTMXvcBjtk7zfq5KtHkDVGYAYCOdTMGeeS5LDlwCKFdNJNZGHdMzF2uW4768r2ojmEBYnQmS2BRuFXDLCT=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLew1lgFajJMxyOUltbp5fiAJJlz6jzZ7GTLLiGvFGaZVvUtusJrWDHTMXvcBjtk7zfq5KtHkDVGYAYCOdTMGeeS5LDlwCKFdNJNZGHdMzF2uW4768r2ojmEBYnQmS2BRuFXDLCT=w1000-h750-no",
-    "source_query": "Halal restaurant in Sint-Kruis, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJzfYH249Rw0cR0nZm9BYrQhg",
-    "name": "Himalayan Buurtwinkel",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Bruges",
-    "address": "Himalayan Buurtwinkel, Sint-Jorisstraat 53, 8000 Brugge",
-    "street": "Sint-Jorisstraat 53",
-    "postal_code": "8000",
-    "region": null,
-    "latitude": 51.2143258,
-    "longitude": 3.2214638,
-    "phone": "0486 33 00 53",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Himalayan%20Buurtwinkel&query_place_id=ChIJzfYH249Rw0cR0nZm9BYrQhg",
-    "open_hours_json": {
-      "Monday": [
-        "10 am–10 pm"
-      ],
-      "Tuesday": [
-        "10 am–10 pm"
-      ],
-      "Wednesday": [
-        "10 am–10 pm"
-      ],
-      "Thursday": [
-        "10 am–10 pm"
-      ],
-      "Friday": [
-        "10 am–10 pm"
-      ],
-      "Saturday": [
-        "10 am–10 pm"
-      ],
-      "Sunday": [
-        "10 am–10 pm"
-      ]
-    },
-    "review_count": 11,
-    "rating": 3.8,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdfMlGs_4hvjY3iomVdHbHFM9EyaUTD-44AQ-IbFrRIsc3snnjlPSy8sytHd-eXPwYxHaydnPvi9HFfIhKBaupm_3klqBP8O0J3oli5KOhD5XY4W7Xj00RZNRLsHjpSDQYKrzHreVO1sSnB=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdfMlGs_4hvjY3iomVdHbHFM9EyaUTD-44AQ-IbFrRIsc3snnjlPSy8sytHd-eXPwYxHaydnPvi9HFfIhKBaupm_3klqBP8O0J3oli5KOhD5XY4W7Xj00RZNRLsHjpSDQYKrzHreVO1sSnB=w1000-h750-no",
-    "source_query": "Hypermarket in Sint-Michiels, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ7QK19N5Xw0cRr416rKnxxcY",
-    "name": "Hoeveautomaat",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Bruges",
-    "address": "Hoeveautomaat, Gemeneweideweg-Noord 76, 8310 Brugge",
-    "street": "Gemeneweideweg-Noord 76",
-    "postal_code": "8310",
-    "region": null,
-    "latitude": 51.2239468,
-    "longitude": 3.2535233999999997,
-    "phone": "050 35 19 47",
-    "website": "https://www.ovowest.be/?fbclid=IwY2xjawKMITJleHRuA2FlbQIxMABicmlkETBqcXphQzcwZGF4VXhFOHY4AR6q1Gx76KZHUF_k17XtCZELZ_ztup9ppgtC4KjKiYG8C38QkWDuOSphVtNW5w_aem_Je2cv7qx_egnXHZ4tmpqVA",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Hoeveautomaat&query_place_id=ChIJ7QK19N5Xw0cRr416rKnxxcY",
-    "open_hours_json": {
-      "Monday": [
-        "5 am–11 pm"
-      ],
-      "Tuesday": [
-        "5 am–11 pm"
-      ],
-      "Wednesday": [
-        "5 am–11 pm"
-      ],
-      "Thursday": [
-        "5 am–11 pm"
-      ],
-      "Friday": [
-        "5 am–11 pm"
-      ],
-      "Saturday": [
-        "5 am–11 pm"
-      ],
-      "Sunday": [
-        "5 am–11 pm"
-      ]
-    },
-    "review_count": 2,
-    "rating": 4.5,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcHCbxINyYmX0219GyhUGCccd8lLNEcGriAqbgpVLgTnm8SAqnzN0WGZkJyu0ZX1ZCncte-7ZYouoeqjSDZlG_Kw7Pl3aKCpRuNYVnmw0WntIOQfm3T2Irx90otpKBZIdu21H79nKf_ZyqW=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcHCbxINyYmX0219GyhUGCccd8lLNEcGriAqbgpVLgTnm8SAqnzN0WGZkJyu0ZX1ZCncte-7ZYouoeqjSDZlG_Kw7Pl3aKCpRuNYVnmw0WntIOQfm3T2Irx90otpKBZIdu21H79nKf_ZyqW=w1000-h750-no",
-    "source_query": "Hypermarket in Sint-Kruis, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ3SzI_dhQw0cRDLLL2UlM_ao",
-    "name": "Huis Versyp, Magasin",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Bruges",
-    "address": "Huis Versyp, Magasin, Smedenstraat 30, 8000 Brugge",
-    "street": "Smedenstraat 30",
-    "postal_code": "8000",
-    "region": null,
-    "latitude": 51.2056125,
-    "longitude": 3.2153714,
-    "phone": "050 33 25 82",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Huis%20Versyp%2C%20Magasin&query_place_id=ChIJ3SzI_dhQw0cRDLLL2UlM_ao",
-    "open_hours_json": null,
-    "review_count": 5,
-    "rating": 3.4,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLejix7NoTcKJ2QuJk0dU5VP82j7y4rPOk2PvrpqFeH7lVQoY6d7FHdeie5mq_fnzhinWk5BXKvNE4yqf4rnzF-gJwj9FmKGXnEGi7y7dBro83fTVS_sIHB9XDbRfTttY36CJ7WV-w=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLejix7NoTcKJ2QuJk0dU5VP82j7y4rPOk2PvrpqFeH7lVQoY6d7FHdeie5mq_fnzhinWk5BXKvNE4yqf4rnzF-gJwj9FmKGXnEGi7y7dBro83fTVS_sIHB9XDbRfTttY36CJ7WV-w=w1000-h750-no",
-    "source_query": "Hypermarket in Brugge, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJVxREMAZaw0cRkgc35CQ7484",
-    "name": "IXINA Brugge",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Bruges",
-    "address": "IXINA Brugge, Maalse Steenweg 267, 8310 Brugge",
-    "street": "Maalse Steenweg 267",
-    "postal_code": "8310",
-    "region": null,
-    "latitude": 51.208482,
-    "longitude": 3.260221,
-    "phone": "050 36 73 77",
-    "website": "https://ixina.be/nl/vind-jouw-winkel/keukenwinkel-ixina-brugge?at_campaign=8310_perm&at_content=brugge&at_medium=local_organic&at_source=gmb",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=IXINA%20Brugge&query_place_id=ChIJVxREMAZaw0cRkgc35CQ7484",
-    "open_hours_json": {
-      "Monday": [
-        "9:30 am–6 pm"
-      ],
-      "Tuesday": [
-        "9:30 am–6 pm"
-      ],
-      "Wednesday": [
-        "9:30 am–6 pm"
-      ],
-      "Thursday": [
-        "9:30 am–6 pm"
-      ],
-      "Friday": [
-        "9:30 am–6 pm"
-      ],
-      "Saturday": [
-        "9:30 am–6 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 193,
-    "rating": 4.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLem9d6lENv9Gz9-B-EuJDr_ERj7lIaq5i9pNILgvQPbFBWzbsbklXzbSBDS8OLgzpZpnG73ZQ1SZWWV8BxZpe3mx5TVPCoHF-cr1i5RJZIltHmbHBduA4s9xi4DkadWUfqdG0e_=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLem9d6lENv9Gz9-B-EuJDr_ERj7lIaq5i9pNILgvQPbFBWzbsbklXzbSBDS8OLgzpZpnG73ZQ1SZWWV8BxZpe3mx5TVPCoHF-cr1i5RJZIltHmbHBduA4s9xi4DkadWUfqdG0e_=w1000-h750-no",
-    "source_query": "Hypermarket in Sint-Kruis, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJu2ihaTRRw0cRWkBZZc46qs0",
-    "name": "In-Dish 🇮🇳",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Bruges",
-    "address": "In-Dish 🇮🇳, Kemelstraat 9, 8000 Brugge",
-    "street": "Kemelstraat 9",
-    "postal_code": "8000",
-    "region": null,
-    "latitude": 51.2069433,
-    "longitude": 3.2215495,
-    "phone": "0470 09 38 17",
-    "website": "https://indish.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=In-Dish%20%F0%9F%87%AE%F0%9F%87%B3&query_place_id=ChIJu2ihaTRRw0cRWkBZZc46qs0",
-    "open_hours_json": {
-      "Monday": [
-        "12–9:30 pm"
-      ],
-      "Tuesday": [
-        "5–10 pm"
-      ],
-      "Wednesday": [
-        "12–2:30 pm",
-        "5–10 pm"
-      ],
-      "Thursday": [
-        "12–2:30 pm",
-        "5–10 pm"
-      ],
-      "Friday": [
-        "12–2:30 pm",
-        "5–10 pm"
-      ],
-      "Saturday": [
-        "12–2:30 pm",
-        "5–10 pm"
-      ],
-      "Sunday": [
-        "12–2:30 pm",
-        "5–10 pm"
-      ]
-    },
-    "review_count": 620,
-    "rating": 4.2,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcNKWy8nXJv7dm7kN742clsoq4Jp12KqcO816ooLSm-IyU0JMx9rDjTCKn07SshT9lOawm-OEV_YLLYC59yz-zR4g2qTLStL1fgZxRIIYLVcp59aRrK24Ztfxwq4_ogJIbTWLA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcNKWy8nXJv7dm7kN742clsoq4Jp12KqcO816ooLSm-IyU0JMx9rDjTCKn07SshT9lOawm-OEV_YLLYC59yz-zR4g2qTLStL1fgZxRIIYLVcp59aRrK24Ztfxwq4_ogJIbTWLA=w1000-h750-no",
-    "source_query": "Halal restaurant in Brugge, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJWaFRJ_9Rw0cRB6INFMT271Q",
-    "name": "Insaf Supermarket En Slagerij",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Bruges",
-    "address": "Insaf Supermarket En Slagerij, Smedenstraat 31, 8000 Brugge",
-    "street": "Smedenstraat 31",
-    "postal_code": "8000",
-    "region": null,
-    "latitude": 51.205343,
-    "longitude": 3.2151844,
-    "phone": "0467 68 35 13",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Insaf%20Supermarket%20En%20Slagerij&query_place_id=ChIJWaFRJ_9Rw0cRB6INFMT271Q",
-    "open_hours_json": {
-      "Monday": [
-        "8 am–10:30 pm"
-      ],
-      "Tuesday": [
-        "Open 24 hours"
-      ],
-      "Wednesday": [
-        "8 am–10:30 pm"
-      ],
-      "Thursday": [
-        "8 am–10:30 pm"
-      ],
-      "Friday": [
-        "8 am–5 pm"
-      ],
-      "Saturday": [
-        "8 am–10:30 pm"
-      ],
-      "Sunday": [
-        "8 am–10:30 pm"
-      ]
-    },
-    "review_count": 8,
-    "rating": 5.0,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd9UtmBQb8gA_Dvl4vhtzYbXtVmF2BwY6rgh93oScGdlDNcUnzDi7Vtamo4SVYKy1EUQtm1BRL1qezgOjrIFubPLhDW_PXJhQtZsm6q-98pbSv30A6SOj-NQy8b8pHGFBTqoOrHZDo78jrS=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd9UtmBQb8gA_Dvl4vhtzYbXtVmF2BwY6rgh93oScGdlDNcUnzDi7Vtamo4SVYKy1EUQtm1BRL1qezgOjrIFubPLhDW_PXJhQtZsm6q-98pbSv30A6SOj-NQy8b8pHGFBTqoOrHZDo78jrS=w1000-h750-no",
-    "source_query": "Hypermarket in Sint-Michiels, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJdVV7MrJQw0cRi5qAzsizhF0",
-    "name": "Isola bella",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Bruges",
-    "address": "Isola bella, Moerkerkse Steenweg 134, 8310 Brugge",
-    "street": "Moerkerkse Steenweg 134",
-    "postal_code": "8310",
-    "region": null,
-    "latitude": 51.2137077,
-    "longitude": 3.247633,
-    "phone": "050 35 82 84",
-    "website": "http://www.isola-bella.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Isola%20bella&query_place_id=ChIJdVV7MrJQw0cRi5qAzsizhF0",
-    "open_hours_json": {
-      "Monday": [
-        "6–9 pm"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "Closed"
-      ],
-      "Friday": [
-        "6–9 pm"
-      ],
-      "Saturday": [
-        "6–9 pm"
-      ],
-      "Sunday": [
-        "6–9 pm"
-      ]
-    },
-    "review_count": 323,
-    "rating": 4.5,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcumNmcItTWqCJ4ayCJ988pgUpXkBAF3n3pUNQEtnpA5OvOkkWwY74tIV0dLOOnxmZDu1o8YvAX6fiG9v7RJa024_uENoBpDcnWduUak7MtoSO4vtUvcPTiBEwuRanJKXFuRM3_2g=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcumNmcItTWqCJ4ayCJ988pgUpXkBAF3n3pUNQEtnpA5OvOkkWwY74tIV0dLOOnxmZDu1o8YvAX6fiG9v7RJa024_uENoBpDcnWduUak7MtoSO4vtUvcPTiBEwuRanJKXFuRM3_2g=w1000-h750-no",
-    "source_query": "Halal restaurant in Sint-Kruis, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJOWeB3_9Rw0cRgpABjD1vfRA",
-    "name": "Jeddah market",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Bruges",
-    "address": "Jeddah market, Ezelstraat 45، 8000 Brugge",
-    "street": "Ezelstraat 45",
-    "postal_code": "8000",
-    "region": null,
-    "latitude": 51.2127013,
-    "longitude": 3.2188513999999997,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Jeddah%20market&query_place_id=ChIJOWeB3_9Rw0cRgpABjD1vfRA",
-    "open_hours_json": {
-      "Monday": [
-        "9 am–10 pm"
-      ],
-      "Tuesday": [
-        "9 am–10 pm"
-      ],
-      "Wednesday": [
-        "9 am–10 pm"
-      ],
-      "Thursday": [
-        "9 am–10 pm"
-      ],
-      "Friday": [
-        "9 am–10 pm"
-      ],
-      "Saturday": [
-        "9 am–10 pm"
-      ],
-      "Sunday": [
-        "9 am–10 pm"
-      ]
-    },
-    "review_count": 12,
-    "rating": 4.4,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc2GrYyJYrC3ILIXf-2Wu5XrzWVZIlbFxYGxCu8_NfGu0cRfYjs_nu9RUb9IsOlp9I-RK5Ni9L_-vBVPRdceqAPjaEibp2vrEkQKonneEteI5wEWrGZViSFBMsobw2JWqxsGOybpWw1PhA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc2GrYyJYrC3ILIXf-2Wu5XrzWVZIlbFxYGxCu8_NfGu0cRfYjs_nu9RUb9IsOlp9I-RK5Ni9L_-vBVPRdceqAPjaEibp2vrEkQKonneEteI5wEWrGZViSFBMsobw2JWqxsGOybpWw1PhA=w1000-h750-no",
-    "source_query": "Hypermarket in Sint-Andries, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJfaaJIttQw0cR_1TNbc307jc",
-    "name": "K & S Winkel",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Bruges",
-    "address": "K & S Winkel, Mariastraat 22, 8000 Brugge",
-    "street": "Mariastraat 22",
-    "postal_code": "8000",
-    "region": null,
-    "latitude": 51.2053022,
-    "longitude": 3.2232947999999997,
-    "phone": "050 34 14 91",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=K%20%26%20S%20Winkel&query_place_id=ChIJfaaJIttQw0cR_1TNbc307jc",
-    "open_hours_json": {
-      "Monday": [
-        "9:30 am–6 pm"
-      ],
-      "Tuesday": [
-        "9:30 am–6 pm"
-      ],
-      "Wednesday": [
-        "9:30 am–6 pm"
-      ],
-      "Thursday": [
-        "9:30 am–6 pm"
-      ],
-      "Friday": [
-        "9:30 am–6 pm"
-      ],
-      "Saturday": [
-        "9:30 am–6 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 1,
-    "rating": 5.0,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLesjyekszJ2Y2Muc1jbau1XxEtNqdIVVz7P7ieQLbsLOxNy12ZUhM4HLHmMhsZeuNBYlGRVxWWoV0kTQkVZFJBdY3JoqUJ1gRmgaQNdJnA9TKTM0XE_eoZzQ3cDW0_1KWp46ndS=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLesjyekszJ2Y2Muc1jbau1XxEtNqdIVVz7P7ieQLbsLOxNy12ZUhM4HLHmMhsZeuNBYlGRVxWWoV0kTQkVZFJBdY3JoqUJ1gRmgaQNdJnA9TKTM0XE_eoZzQ3cDW0_1KWp46ndS=w1000-h750-no",
-    "source_query": "Hypermarket in Sint-Kruis, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJu7_fkoBRw0cRRrYqDoaGYzA",
-    "name": "KarmaMarkt",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Bruges",
-    "address": "KarmaMarkt, Langestraat 22, 8000 Brugge",
-    "street": "Langestraat 22",
-    "postal_code": "8000",
-    "region": null,
-    "latitude": 51.209620099999995,
-    "longitude": 3.2327782999999997,
-    "phone": "0476 21 14 49",
-    "website": "https://www.karmamarkt.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=KarmaMarkt&query_place_id=ChIJu7_fkoBRw0cRRrYqDoaGYzA",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "9:30 am–6 pm"
-      ],
-      "Wednesday": [
-        "9 am–6 pm"
-      ],
-      "Thursday": [
-        "12–6 pm"
-      ],
-      "Friday": [
-        "9:30 am–6 pm"
-      ],
-      "Saturday": [
-        "9:30 am–6 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 89,
-    "rating": 4.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdncla8LlShHx3XPcwIHY1GWw7LLdM2U6TXjeQV89FBoyrmeKxTrEKNZkTks5VpUEHvycj_FpzEH1kYz1yIK6EFJv7Vr28ROIMdM0fyrbnIf0v1f1inPrVNYsUhRfKd1vgEjdVZyw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdncla8LlShHx3XPcwIHY1GWw7LLdM2U6TXjeQV89FBoyrmeKxTrEKNZkTks5VpUEHvycj_FpzEH1kYz1yIK6EFJv7Vr28ROIMdM0fyrbnIf0v1f1inPrVNYsUhRfKd1vgEjdVZyw=w1000-h750-no",
-    "source_query": "Hypermarket in Sint-Kruis, Flanders, BE",
     "moderation_status": "approved",
     "is_active": true,
     "verification_status": "UNVERIFIED",

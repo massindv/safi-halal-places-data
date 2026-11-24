@@ -1,5 +1,406 @@
 [
   {
+    "place_id": "ChIJzxmfxoXdw0cRY8S7RVbst-M",
+    "name": "Breakpoint Evere",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Evere",
+    "address": "Breakpoint Evere, Leuvensesteenweg 1004, 1140 Evere",
+    "street": "Leuvensesteenweg 1004",
+    "postal_code": "1140",
+    "region": null,
+    "latitude": 50.8600749,
+    "longitude": 4.4194536,
+    "phone": "02 726 54 79",
+    "website": "https://www.enjoybreakpoint.be/fr/stores/breakpoint-evere",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Breakpoint%20Evere&query_place_id=ChIJzxmfxoXdw0cRY8S7RVbst-M",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeOdRVSCxgBihm_V98Lf3R2ves7XWtGaGIjFD4SupSaXFv6u0sYwnHwxQ08OKGjgaR-RcM6SeG9lF29YBdKkJDrf9aU1OArQVXyh06lhhazL3cmEIV2hCnh-M-8gBjAMjaDgcDa4zqnK38W=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeOdRVSCxgBihm_V98Lf3R2ves7XWtGaGIjFD4SupSaXFv6u0sYwnHwxQ08OKGjgaR-RcM6SeG9lF29YBdKkJDrf9aU1OArQVXyh06lhhazL3cmEIV2hCnh-M-8gBjAMjaDgcDa4zqnK38W=w1000-h750-no",
+    "rating": 5.0,
+    "review_count": 28,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJ8XPCqBPdw0cRNYfQtYAqO2A",
+    "name": "Dilmon La Table d'Orient",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Evere",
+    "address": "Dilmon La Table d'Orient, Chau. de Louvain 837, 1140 Evere",
+    "street": "Chau. de Louvain 837",
+    "postal_code": "1140",
+    "region": null,
+    "latitude": 50.859597199999996,
+    "longitude": 4.4157795,
+    "phone": "02 732 61 63",
+    "website": "http://dilmon.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Dilmon%20La%20Table%20d%27Orient&query_place_id=ChIJ8XPCqBPdw0cRNYfQtYAqO2A",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "12–3 pm",
+        "5–10:30 pm"
+      ],
+      "Thursday": [
+        "12–3 pm",
+        "5–10:30 pm"
+      ],
+      "Friday": [
+        "12–3 pm",
+        "5–10:30 pm"
+      ],
+      "Saturday": [
+        "12–3 pm",
+        "5–10:30 pm"
+      ],
+      "Sunday": [
+        "12–3 pm",
+        "5–10:30 pm"
+      ]
+    },
+    "review_count": 465,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeM3J-4JemoKW2ocCUqTN318x8piYEJGWOu2AbHl-NqJ935mEZHP9n7ndlkKsUMwaX-236p4jYpKcUO78XKdWWFCnBQMehwZNSEfbYwWUyWd0yRWRhBFN3FnS86xXjwbWqE6416=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeM3J-4JemoKW2ocCUqTN318x8piYEJGWOu2AbHl-NqJ935mEZHP9n7ndlkKsUMwaX-236p4jYpKcUO78XKdWWFCnBQMehwZNSEfbYwWUyWd0yRWRhBFN3FnS86xXjwbWqE6416=w1000-h750-no",
+    "source_query": "Halal restaurant in Sint-Stevens-Woluwe, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJgyxyCZDdw0cRzYrbZd-atnw",
+    "name": "Keka Ante Tambi",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Evere",
+    "address": "Keka Ante Tambi, Chau. de Louvain 988, 1140 Evere",
+    "street": "Chau. de Louvain 988",
+    "postal_code": "1140",
+    "region": null,
+    "latitude": 50.859729599999994,
+    "longitude": 4.417726099999999,
+    "phone": "0470 67 57 72",
+    "website": "https://kekaantetambi.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Keka%20Ante%20Tambi&query_place_id=ChIJgyxyCZDdw0cRzYrbZd-atnw",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "6–10 pm"
+      ],
+      "Wednesday": [
+        "6–10 pm"
+      ],
+      "Thursday": [
+        "6–10 pm"
+      ],
+      "Friday": [
+        "6–10 pm"
+      ],
+      "Saturday": [
+        "12:30–3:30 pm",
+        "6:30–10 pm"
+      ],
+      "Sunday": [
+        "12:30–3:30 pm",
+        "6:30–10 pm"
+      ]
+    },
+    "review_count": 169,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcOlN_IuM6R5LrRBwLFEPihAWRdYkSte8-TYC5mo0dwMQ_ELV5NhM4BRp5Z9YmrrwnnlegQznRUOcXJl8On6LJ1DG3yHAkxiLR4gA7b61rb300hH_7jTuhZAHPe-1nUDKNd5dUwwhzJogWF=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcOlN_IuM6R5LrRBwLFEPihAWRdYkSte8-TYC5mo0dwMQ_ELV5NhM4BRp5Z9YmrrwnnlegQznRUOcXJl8On6LJ1DG3yHAkxiLR4gA7b61rb300hH_7jTuhZAHPe-1nUDKNd5dUwwhzJogWF=w1000-h750-no",
+    "source_query": "Halal restaurant in Sint-Stevens-Woluwe, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata"
+  },
+  {
+    "place_id": "ChIJpy0ZEjvDw0cR-m_3hTjPtng",
+    "name": "Mosquee Attawba",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Evere",
+    "address": "Mosquee Attawba, Edward Stuckensstraat 128/130, 1140 Evere",
+    "street": "Edward Stuckensstraat 128/130",
+    "postal_code": "1140",
+    "region": null,
+    "latitude": 50.876210699999994,
+    "longitude": 4.3985826999999995,
+    "phone": "02 611 46 22",
+    "website": "https://mawaqit.net/fr/m/ettaouba-bruxelles",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mosquee%20Attawba&query_place_id=ChIJpy0ZEjvDw0cR-m_3hTjPtng",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLehM3QM3GqMKwLEM_5TI10gj66sWwUG0TAaNrCeqcelFdwV3MWZCyXnnGEMeTx6Zk0og4qpIrF0_binbXk6ZrzpmF4aRyEMKC_tj5MGqjmoq_H3hPlZ9sY3L5DkSWRGKRbC8X9JUw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLehM3QM3GqMKwLEM_5TI10gj66sWwUG0TAaNrCeqcelFdwV3MWZCyXnnGEMeTx6Zk0og4qpIrF0_binbXk6ZrzpmF4aRyEMKC_tj5MGqjmoq_H3hPlZ9sY3L5DkSWRGKRbC8X9JUw=w1000-h750-no",
+    "rating": 4.7,
+    "review_count": 227,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJkQqdx7Pcw0cRCUV2MrMnBGw",
+    "name": "Slagerij Sabrine",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Evere",
+    "address": "Slagerij Sabrine, Leuvensesteenweg 821, 1140 Evere",
+    "street": "Leuvensesteenweg 821",
+    "postal_code": "1140",
+    "region": null,
+    "latitude": 50.8594144,
+    "longitude": 4.41523,
+    "phone": "0484 75 30 54",
+    "website": "https://boucherie-sabrine.eatbu.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Slagerij%20Sabrine&query_place_id=ChIJkQqdx7Pcw0cRCUV2MrMnBGw",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfGljd1cZ1R-QmmSMuTGZpgo7dpGTfkrmqIiTjNcbpIDOBUBX4XO0U06bVe-PC0LnjkW9teFnPgQcOqex--pVE_2W20OntEQLRDbigyeYmIqXVKtVfpLE6OaBCL3d39kn0DzMz7=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfGljd1cZ1R-QmmSMuTGZpgo7dpGTfkrmqIiTjNcbpIDOBUBX4XO0U06bVe-PC0LnjkW9teFnPgQcOqex--pVE_2W20OntEQLRDbigyeYmIqXVKtVfpLE6OaBCL3d39kn0DzMz7=w1000-h750-no",
+    "rating": 4.4,
+    "review_count": 172,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJK6B3Ec97w0cR4whlAaSfL28",
+    "name": "Ip Man Wing Chun Academie VZW - Samuel Kwok Lineage",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Evergem",
+    "address": "Ip Man Wing Chun Academie VZW - Samuel Kwok Lineage, 9940, Guldensporenlaan 26, 9940 Evergem",
+    "street": "9940, Guldensporenlaan 26",
+    "postal_code": "9940",
+    "region": null,
+    "latitude": 51.170365999999994,
+    "longitude": 3.7385941999999996,
+    "phone": "0493 58 72 51",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ip%20Man%20Wing%20Chun%20Academie%20VZW%20-%20Samuel%20Kwok%20Lineage&query_place_id=ChIJK6B3Ec97w0cR4whlAaSfL28",
+    "open_hours_json": null,
+    "review_count": 1,
+    "rating": 4.0,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=V2Em6K4X_ceFagiqC7430g&cb_client=search.gws-prod.grass&w=80&h=92&yaw=76.44149&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=V2Em6K4X_ceFagiqC7430g&cb_client=search.gws-prod.grass&w=80&h=92&yaw=76.44149&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Mosque in Eeklo, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJyUmWhxuGwUcRNhHH4V86UMU",
+    "name": "Restaurant Le Rif",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Falisolle",
+    "address": "Restaurant Le Rif, Rue François Dive 30, 5060 Falisolle",
+    "street": "Rue François Dive 30",
+    "postal_code": "5060",
+    "region": null,
+    "latitude": 50.4271672,
+    "longitude": 4.623861799999999,
+    "phone": "071 76 10 95",
+    "website": "https://www.facebook.com/restaurantlerif?fref=ts",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20Le%20Rif&query_place_id=ChIJyUmWhxuGwUcRNhHH4V86UMU",
+    "open_hours_json": {
+      "Monday": [
+        "6–10 pm"
+      ],
+      "Tuesday": [
+        "6–10 pm"
+      ],
+      "Wednesday": [
+        "6–10 pm"
+      ],
+      "Thursday": [
+        "Closed"
+      ],
+      "Friday": [
+        "6–10 pm"
+      ],
+      "Saturday": [
+        "12–2 pm",
+        "6–11 pm"
+      ],
+      "Sunday": [
+        "12–3 pm",
+        "6–10:30 pm"
+      ]
+    },
+    "review_count": 590,
+    "rating": 4.1,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeU_AOutieGXUicGVM21s_3vvMMgF3iZ5tPn3DlB_Z0ApX1c2IvpynRk3e2jIfp97IyUsvGSzurbht7rf0KQth_QvBI2xMaF9cn4qTkL3sKIn-_F2FDTxRSu3_tGEF5xg-Rzr_U=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeU_AOutieGXUicGVM21s_3vvMMgF3iZ5tPn3DlB_Z0ApX1c2IvpynRk3e2jIfp97IyUsvGSzurbht7rf0KQth_QvBI2xMaF9cn4qTkL3sKIn-_F2FDTxRSu3_tGEF5xg-Rzr_U=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Wavreille, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJtT60gQ4owkcR_33mNFDmaFU",
+    "name": "Atlas",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Farciennes",
+    "address": "Atlas, Rue du Wainage 241, 6200 Farciennes",
+    "street": "Rue du Wainage 241",
+    "postal_code": "6200",
+    "region": null,
+    "latitude": 50.4334065,
+    "longitude": 4.5232556,
+    "phone": "0485 10 56 75",
+    "website": "http://www.horaires-societe.be/Atlas/Supermarche/Farciennes/51724",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Atlas&query_place_id=ChIJtT60gQ4owkcR_33mNFDmaFU",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcdMpRMm_MpRsCzYFrMfEZ3dA4uXaTGDLBXII6FILuAGJ8hWdxnB3NH3UzufOcD8qO-3yEq1Pwhk0pscw2VzH_m93SL2IOCWVwS3sJgnSP12i_7O4P7Q4rrHYoCmgJrXCift_nt=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcdMpRMm_MpRsCzYFrMfEZ3dA4uXaTGDLBXII6FILuAGJ8hWdxnB3NH3UzufOcD8qO-3yEq1Pwhk0pscw2VzH_m93SL2IOCWVwS3sJgnSP12i_7O4P7Q4rrHYoCmgJrXCift_nt=w1000-h750-no",
+    "rating": 4.5,
+    "review_count": 75,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJvcSqMHaHwUcRRciXYTdsJ9g",
+    "name": "Ayasofya milli gorus camii",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Farciennes",
+    "address": "Ayasofya milli gorus camii, Rue Jules Maltaux 13, 6240 Farciennes",
+    "street": "Rue Jules Maltaux 13",
+    "postal_code": "6240",
+    "region": null,
+    "latitude": 50.4263559,
+    "longitude": 4.553935399999999,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ayasofya%20milli%20gorus%20camii&query_place_id=ChIJvcSqMHaHwUcRRciXYTdsJ9g",
+    "open_hours_json": null,
+    "review_count": 16,
+    "rating": 4.9,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfJOTZjUk5kW5kHKHydp5VVc7pbXh02_jQp6RU3Ru9sZqIit5ATks9D6iOOhr75_CJtbvhxq2viJac8Fenjocg4p-7cynK0v9jtOHHX7tO5Nqtr_191rO5V2kZnCmYKjPEbbhvzZw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfJOTZjUk5kW5kHKHydp5VVc7pbXh02_jQp6RU3Ru9sZqIit5ATks9D6iOOhr75_CJtbvhxq2viJac8Fenjocg4p-7cynK0v9jtOHHX7tO5Nqtr_191rO5V2kZnCmYKjPEbbhvzZw=w1000-h750-no",
+    "source_query": "Mosque in Gembloux, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ66NDKgwowkcRnBAFeIQTYJE",
+    "name": "Boucherie Assakina",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Farciennes",
+    "address": "Boucherie Assakina, Rue du Wainage 247, 6240 Farciennes",
+    "street": "Rue du Wainage 247",
+    "postal_code": "6240",
+    "region": null,
+    "latitude": 50.4332776,
+    "longitude": 4.5231973,
+    "phone": null,
+    "website": "https://www.pagesdor.be/entreprise/Farciennes/L11312328/BOUCHERIE+ASSAKINA/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boucherie%20Assakina&query_place_id=ChIJ66NDKgwowkcRnBAFeIQTYJE",
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=UB7ilGuYnUWBZbR-GUJqrQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=149.81697&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=UB7ilGuYnUWBZbR-GUJqrQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=149.81697&pitch=0&thumbfov=w1000-h750-no",
+    "rating": 4.4,
+    "review_count": 16,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJo7zH3vmHwUcR2YASgKUjoqc",
+    "name": "Imam-i Azam Mosquée",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Farciennes",
+    "address": "Imam-i Azam Mosquée, Rue du Monciat 110, 6240 Farciennes",
+    "street": "Rue du Monciat 110",
+    "postal_code": "6240",
+    "region": null,
+    "latitude": 50.435145899999995,
+    "longitude": 4.5463092,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Imam-i%20Azam%20Mosqu%C3%A9e&query_place_id=ChIJo7zH3vmHwUcR2YASgKUjoqc",
+    "open_hours_json": null,
+    "review_count": 36,
+    "rating": 4.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdu3FuZ28QYM1JB3sIo7pOpg2-QOqdpVCYVtuwRx1O-AxtaCsB9dqlDWav0ApUWiDyrrnZCUHuHAETP8LGAIE12NVNp03R8yB12tmbsJMxERozokUXvVUeRlH1u8PDp_rUR050=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdu3FuZ28QYM1JB3sIo7pOpg2-QOqdpVCYVtuwRx1O-AxtaCsB9dqlDWav0ApUWiDyrrnZCUHuHAETP8LGAIE12NVNp03R8yB12tmbsJMxERozokUXvVUeRlH1u8PDp_rUR050=w1000-h750-no",
+    "source_query": "Mosque in Gembloux, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJaXk0IxAowkcR5Np2sbAR25E",
+    "name": "Mosque Assakina",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Farciennes",
+    "address": "Mosque Assakina, Rue du Wainage 105, 6240 Farciennes",
+    "street": "Rue du Wainage 105",
+    "postal_code": "6240",
+    "region": null,
+    "latitude": 50.436743299999996,
+    "longitude": 4.527833,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mosque%20Assakina&query_place_id=ChIJaXk0IxAowkcR5Np2sbAR25E",
+    "open_hours_json": null,
+    "review_count": 0,
+    "rating": null,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yQevj9E9_NeEsu0rLhNeYQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=107.12095&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yQevj9E9_NeEsu0rLhNeYQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=107.12095&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Mosque in Fosses-la-Ville, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJYSkWR98pwkcR-k3oiAiLnao",
     "name": "Boucherie Ganty",
     "type": "butcher",
@@ -10927,8 +11328,8 @@
     "phone": "0469 16 86 03",
     "website": "https://www.ankam.be/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Anka%20Supermarkt&query_place_id=ChIJw4DYfL7ZwEcR9vq5jgXP0no",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcy2T05JdiKgaIBZrg7X55tCL-k_Yuer_Ac0uti-kKaXxTU-NhyHuftICJO31cMphCzBEZ_-iPhi-zBK57kW0DZp49F5a9DrBtTIXtCPfr5ILHQyqDHnoVGIO70YY6q_ZkeXs1EuQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcy2T05JdiKgaIBZrg7X55tCL-k_Yuer_Ac0uti-kKaXxTU-NhyHuftICJO31cMphCzBEZ_-iPhi-zBK57kW0DZp49F5a9DrBtTIXtCPfr5ILHQyqDHnoVGIO70YY6q_ZkeXs1EuQ=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe13Bt1ILaIl5P5GYl_twqT-KzJVZR3Qn54Ga6g84LPczKNJ29ADimzmK6VFNHt-2H_E03JE0ErX4pkcc-9orrOI5Mq9Gkax7hMCM6uLjZCMIKAS6w2srAUr25g_vAkMG-PgCHp=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe13Bt1ILaIl5P5GYl_twqT-KzJVZR3Qn54Ga6g84LPczKNJ29ADimzmK6VFNHt-2H_E03JE0ErX4pkcc-9orrOI5Mq9Gkax7hMCM6uLjZCMIKAS6w2srAUr25g_vAkMG-PgCHp=w1000-h750-no",
     "rating": 4.4,
     "review_count": 107,
     "verification_status": "UNVERIFIED",
@@ -11141,32 +11542,6 @@
     "verification_evidence": null
   },
   {
-    "place_id": "ChIJszuTHNDYwEcRC-Q2uCrJ3XI",
-    "name": "BIF GENK - Genk Millî Görüş🕌",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Genk",
-    "address": "BIF GENK - Genk Millî Görüş🕌, Eikenlaan 34, 3600 Genk",
-    "street": "Eikenlaan 34",
-    "postal_code": "3600",
-    "region": null,
-    "latitude": 50.9772089,
-    "longitude": 5.4848039,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=BIF%20GENK%20-%20Genk%20Mill%C3%AE%20G%C3%B6r%C3%BC%C5%9F%F0%9F%95%8C&query_place_id=ChIJszuTHNDYwEcRC-Q2uCrJ3XI",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLetb2lZP1O-QVJUixlHB9bFQKxZe2g6tOsTzS8ayUsYWxzmL7ZzEwxkeXYEL9bzI8KR99uGIxy-SARW70LuEjn6qbqbrFKC4ofb-3oHXIPN_FMjEZdNxND2E9MtQTamFo1K0C8e=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLetb2lZP1O-QVJUixlHB9bFQKxZe2g6tOsTzS8ayUsYWxzmL7ZzEwxkeXYEL9bzI8KR99uGIxy-SARW70LuEjn6qbqbrFKC4ofb-3oHXIPN_FMjEZdNxND2E9MtQTamFo1K0C8e=w1000-h750-no",
-    "rating": 4.9,
-    "review_count": 28,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
     "place_id": "ChIJSzY53UfZwEcRCXkI-bIupdY",
     "name": "Bakery Snijkers",
     "type": "bakery",
@@ -11341,485 +11716,5 @@
     "verification_evidence": null,
     "is_active": true,
     "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJwwoeOyHZwEcRIMgR4Auug4o",
-    "name": "Berat Market (Stalenstraat)",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Genk",
-    "address": "Berat Market (Stalenstraat), Heppenzeelstraat, 3600 Genk",
-    "street": "Heppenzeelstraat",
-    "postal_code": "3600",
-    "region": null,
-    "latitude": 50.992086199999996,
-    "longitude": 5.5167239,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Berat%20Market%20%28Stalenstraat%29&query_place_id=ChIJwwoeOyHZwEcRIMgR4Auug4o",
-    "open_hours_json": null,
-    "review_count": 1,
-    "rating": 2.0,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1Kw63eW0KhuULNAdDQyPbQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=35.493217&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1Kw63eW0KhuULNAdDQyPbQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=35.493217&pitch=0&thumbfov=w1000-h750-no",
-    "source_query": "Hypermarket in Genk, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJzzVF9QPZwEcROEmpw_wuQd8",
-    "name": "Biedronka Promo Genk",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Genk",
-    "address": "Biedronka Promo Genk, Hoevenzavellaan 75, 3600 Genk",
-    "street": "Hoevenzavellaan 75",
-    "postal_code": "3600",
-    "region": null,
-    "latitude": 51.0016295,
-    "longitude": 5.5074469,
-    "phone": "089 25 85 01",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Biedronka%20Promo%20Genk&query_place_id=ChIJzzVF9QPZwEcROEmpw_wuQd8",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "9 am–8 pm"
-      ],
-      "Wednesday": [
-        "9 am–8 pm"
-      ],
-      "Thursday": [
-        "9 am–8 pm"
-      ],
-      "Friday": [
-        "9 am–8 pm"
-      ],
-      "Saturday": [
-        "9 am–8 pm"
-      ],
-      "Sunday": [
-        "9 am–8 pm"
-      ]
-    },
-    "review_count": 984,
-    "rating": 4.2,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfFUttgBuLjc15-AdHuDdmkdcoL0STcEyueQdscb4KujWs8f13_6NivFdBQcxjNakM1eGhxTs4InqF3A7794V5eLJYntj_I5W02jZCq-DOU35pLtUQcYKSZuPYqr26jv-EeIDXYfw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfFUttgBuLjc15-AdHuDdmkdcoL0STcEyueQdscb4KujWs8f13_6NivFdBQcxjNakM1eGhxTs4InqF3A7794V5eLJYntj_I5W02jZCq-DOU35pLtUQcYKSZuPYqr26jv-EeIDXYfw=w1000-h750-no",
-    "source_query": "Hypermarket in Genk, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJWSnFUdTewEcRPpeqOBXG2OA",
-    "name": "Billy's Broodjes en Burgers",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Genk",
-    "address": "Billy's Broodjes en Burgers, Centrumlaan 8/Bus 3, 3600 Genk",
-    "street": "Centrumlaan 8/Bus 3",
-    "postal_code": "3600",
-    "region": null,
-    "latitude": 50.9635712,
-    "longitude": 5.4971163,
-    "phone": "089 30 50 96",
-    "website": "http://www.billysbroodjesburgers.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Billy%27s%20Broodjes%20en%20Burgers&query_place_id=ChIJWSnFUdTewEcRPpeqOBXG2OA",
-    "open_hours_json": {
-      "Monday": [
-        "8:30 am–7 pm"
-      ],
-      "Tuesday": [
-        "8:30 am–7 pm"
-      ],
-      "Wednesday": [
-        "8:30 am–7 pm"
-      ],
-      "Thursday": [
-        "8:30 am–7 pm"
-      ],
-      "Friday": [
-        "8:30 am–7 pm"
-      ],
-      "Saturday": [
-        "11 am–7 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 206,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfOX0FFsiC69PqQYrt34S0p99SrkAgiB7u4ZywKPVrFVa7mpXeV7xrF6o7L10dsJ_NW3RpENwLmEU6VYYYHiWoMyzqkxx2bAW0yWNQs_6oQTQIFfdaYpRaN56VpEJ-oUghj_xqC=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfOX0FFsiC69PqQYrt34S0p99SrkAgiB7u4ZywKPVrFVa7mpXeV7xrF6o7L10dsJ_NW3RpENwLmEU6VYYYHiWoMyzqkxx2bAW0yWNQs_6oQTQIFfdaYpRaN56VpEJ-oUghj_xqC=w1000-h750-no",
-    "source_query": "Halal restaurant in Genk, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ2UPXo7PfwEcRVu1G28txqUw",
-    "name": "Bistro d'Office Genk",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Genk",
-    "address": "Bistro d'Office Genk, Bosdel 54, 3600 Genk",
-    "street": "Bosdel 54",
-    "postal_code": "3600",
-    "region": null,
-    "latitude": 50.951113299999996,
-    "longitude": 5.4784751,
-    "phone": "089 32 12 90",
-    "website": "https://www.bistrodoffice.eu/bistro-doffice-genk",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bistro%20d%27Office%20Genk&query_place_id=ChIJ2UPXo7PfwEcRVu1G28txqUw",
-    "open_hours_json": {
-      "Monday": [
-        "8 am–5 pm"
-      ],
-      "Tuesday": [
-        "8 am–5 pm"
-      ],
-      "Wednesday": [
-        "8 am–5 pm"
-      ],
-      "Thursday": [
-        "8 am–5 pm"
-      ],
-      "Friday": [
-        "8 am–5 pm"
-      ],
-      "Saturday": [
-        "Closed"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 102,
-    "rating": 4.9,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcV6TppkkgJYnRc6urpY6YP-71x4uwOWOBcPmqSXSN_gzIS8atHc3EdXt9-ou9mjdV_dX3Ddjm0x0PRx34eUk9t0RTwMCLLyQ56Jf46ytJ6Xhi-99FvJcOV4DQG0QYSanus0v84_RJrqTcU=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcV6TppkkgJYnRc6urpY6YP-71x4uwOWOBcPmqSXSN_gzIS8atHc3EdXt9-ou9mjdV_dX3Ddjm0x0PRx34eUk9t0RTwMCLLyQ56Jf46ytJ6Xhi-99FvJcOV4DQG0QYSanus0v84_RJrqTcU=w1000-h750-no",
-    "source_query": "Halal restaurant in Genk, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ8buMxdDewEcRXItBMgE5d_c",
-    "name": "Breugel Fijnkost",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Genk",
-    "address": "Breugel Fijnkost, Nieuwstraat 120/2, 3600 Genk",
-    "street": "Nieuwstraat 120/2",
-    "postal_code": "3600",
-    "region": null,
-    "latitude": 50.9576333,
-    "longitude": 5.4998727,
-    "phone": "089 30 79 30",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Breugel%20Fijnkost&query_place_id=ChIJ8buMxdDewEcRXItBMgE5d_c",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "8:30 am–6 pm"
-      ],
-      "Wednesday": [
-        "8:30 am–6 pm"
-      ],
-      "Thursday": [
-        "8:30 am–6 pm"
-      ],
-      "Friday": [
-        "8:30 am–6 pm"
-      ],
-      "Saturday": [
-        "8 am–6 pm"
-      ],
-      "Sunday": [
-        "8 am–12 pm"
-      ]
-    },
-    "review_count": 12,
-    "rating": 4.2,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe-7IeEXOey6o5LyjzUyEPhcLpJ1rr6tsP9BoxWxObjho7Qubd1EBPBnaaBLZrKkWP8AwGgw4LHf8Sy5ZwXEP5xQ04T-DMdL-wdfIRotwtyEvfZWEqkmWI4a9cuPqyuW6j1Yw2T=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe-7IeEXOey6o5LyjzUyEPhcLpJ1rr6tsP9BoxWxObjho7Qubd1EBPBnaaBLZrKkWP8AwGgw4LHf8Sy5ZwXEP5xQ04T-DMdL-wdfIRotwtyEvfZWEqkmWI4a9cuPqyuW6j1Yw2T=w1000-h750-no",
-    "source_query": "Hypermarket in Genk, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJbVIxiDPfwEcRcCYY9Df-c_E",
-    "name": "Bruno Foodcorner Genk",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Genk",
-    "address": "Bruno Foodcorner Genk, Hasseltweg 15, 3600 Genk",
-    "street": "Hasseltweg 15",
-    "postal_code": "3600",
-    "region": null,
-    "latitude": 50.964394,
-    "longitude": 5.4750347,
-    "phone": "089 30 39 88",
-    "website": "https://www.brunofoodcorner.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bruno%20Foodcorner%20Genk&query_place_id=ChIJbVIxiDPfwEcRcCYY9Df-c_E",
-    "open_hours_json": {
-      "Monday": [
-        "Open 24 hours"
-      ],
-      "Tuesday": [
-        "Open 24 hours"
-      ],
-      "Wednesday": [
-        "Open 24 hours"
-      ],
-      "Thursday": [
-        "Open 24 hours"
-      ],
-      "Friday": [
-        "Open 24 hours"
-      ],
-      "Saturday": [
-        "Open 24 hours"
-      ],
-      "Sunday": [
-        "Open 24 hours"
-      ]
-    },
-    "review_count": 676,
-    "rating": 4.2,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdXxyCYgEbkVSZg36XlC1cprIc8nd05pGMfzd4ZuEjYGibphZ1QRhEktNSbs7bMVhrKGmDuFhMnKKUuaDWYO68u9IO6dbEVtKIPEA5k_7QVDkfWr4PAZwQtWF0y5LFS3HHW43w7ZQ2lJDl6=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdXxyCYgEbkVSZg36XlC1cprIc8nd05pGMfzd4ZuEjYGibphZ1QRhEktNSbs7bMVhrKGmDuFhMnKKUuaDWYO68u9IO6dbEVtKIPEA5k_7QVDkfWr4PAZwQtWF0y5LFS3HHW43w7ZQ2lJDl6=w1000-h750-no",
-    "source_query": "Hypermarket in Genk, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJZ07yGqTZwEcRh47faQbNqDc",
-    "name": "Buurtwinkel Genk",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Genk",
-    "address": "Buurtwinkel Genk, Hoevenzavellaan 119, 3600 Genk",
-    "street": "Hoevenzavellaan 119",
-    "postal_code": "3600",
-    "region": null,
-    "latitude": 51.0054021,
-    "longitude": 5.5093561,
-    "phone": "0499 56 46 01",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Buurtwinkel%20Genk&query_place_id=ChIJZ07yGqTZwEcRh47faQbNqDc",
-    "open_hours_json": {
-      "Monday": [
-        "9 am–7 pm"
-      ],
-      "Tuesday": [
-        "9 am–7 pm"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "9 am–7 pm"
-      ],
-      "Friday": [
-        "9 am–7 pm"
-      ],
-      "Saturday": [
-        "9 am–7 pm"
-      ],
-      "Sunday": [
-        "9 am–7 pm"
-      ]
-    },
-    "review_count": 39,
-    "rating": 4.8,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLenwBDbWuH3lDQOSXZF_qci5gc8p_FjPK6NutFExsoDlDABVcVcb6V8OcsF72R36ZN3AnNg7umXwtNhMG1Dg9aLHH_n1Ouruf7g4fx2B7hBOcW6gHaOYw1Xu6xUU_J37BaPa2-4=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLenwBDbWuH3lDQOSXZF_qci5gc8p_FjPK6NutFExsoDlDABVcVcb6V8OcsF72R36ZN3AnNg7umXwtNhMG1Dg9aLHH_n1Ouruf7g4fx2B7hBOcW6gHaOYw1Xu6xUU_J37BaPa2-4=w1000-h750-no",
-    "source_query": "Hypermarket in Genk, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ4Wr-OIXewEcRAweYuCFpoCM",
-    "name": "Cappadocië Pizza Kebap",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Genk",
-    "address": "Cappadocië Pizza Kebap, Europalaan 110, 3600 Genk",
-    "street": "Europalaan 110",
-    "postal_code": "3600",
-    "region": null,
-    "latitude": 50.965797599999995,
-    "longitude": 5.5022229,
-    "phone": "089 75 77 67",
-    "website": "https://www.cappadociegenk.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cappadoci%C3%AB%20Pizza%20Kebap&query_place_id=ChIJ4Wr-OIXewEcRAweYuCFpoCM",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLchNVG80eP5sdYAO8L2EAORBw1POW8GBpCvYvRbITQGIK4K9qDdicQklY3A8ob59ZHHNATKRcRUPJpw7KT0oIEf5x7g6HrrayzvmM-g4Ug6LttepH-t6_2aJ3chzMsprEP5a54-JSK_syOj=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLchNVG80eP5sdYAO8L2EAORBw1POW8GBpCvYvRbITQGIK4K9qDdicQklY3A8ob59ZHHNATKRcRUPJpw7KT0oIEf5x7g6HrrayzvmM-g4Ug6LttepH-t6_2aJ3chzMsprEP5a54-JSK_syOj=w1000-h750-no",
-    "rating": 3.8,
-    "review_count": 205,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJqfgSMhbZwEcRg2wCJ-D-hME",
-    "name": "Carne Genk",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Genk",
-    "address": "Carne Genk, Vennestraat 78, 3600 Genk",
-    "street": "Vennestraat 78",
-    "postal_code": "3600",
-    "region": null,
-    "latitude": 50.9799375,
-    "longitude": 5.4913288,
-    "phone": "0489 71 71 17",
-    "website": "https://www.carne-genk.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Carne%20Genk&query_place_id=ChIJqfgSMhbZwEcRg2wCJ-D-hME",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdXkyTlIQ11vupDTd48_kO0tMkdY--xcXlN0ggURsKSXzzkXofzVjyauSa0XxX99c95yj0QxsVlhKzmG3Lq8ZCe5hzCN-1vJqHoIjCgWR14CMlurKsUz7h-SKvTUnctd8uoZhbb1IVM7dwk=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdXkyTlIQ11vupDTd48_kO0tMkdY--xcXlN0ggURsKSXzzkXofzVjyauSa0XxX99c95yj0QxsVlhKzmG3Lq8ZCe5hzCN-1vJqHoIjCgWR14CMlurKsUz7h-SKvTUnctd8uoZhbb1IVM7dwk=w1000-h750-no",
-    "rating": 4.0,
-    "review_count": 76,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJ70bOriDZwEcRHE1ZRxX47Lw",
-    "name": "Catering Anatolia",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Genk",
-    "address": "Catering Anatolia, Evence Coppéelaan 22, 3600 Genk",
-    "street": "Evence Coppéelaan 22",
-    "postal_code": "3600",
-    "region": null,
-    "latitude": 50.9740137,
-    "longitude": 5.498732599999999,
-    "phone": "0470 10 52 22",
-    "website": "https://www.instagram.com/anatolia_genk/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Catering%20Anatolia&query_place_id=ChIJ70bOriDZwEcRHE1ZRxX47Lw",
-    "open_hours_json": {
-      "Monday": [
-        "Open 24 hours"
-      ],
-      "Tuesday": [
-        "Open 24 hours"
-      ],
-      "Wednesday": [
-        "Open 24 hours"
-      ],
-      "Thursday": [
-        "Open 24 hours"
-      ],
-      "Friday": [
-        "Open 24 hours"
-      ],
-      "Saturday": [
-        "Open 24 hours"
-      ],
-      "Sunday": [
-        "Open 24 hours"
-      ]
-    },
-    "review_count": 2,
-    "rating": 5.0,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc3VptBJiT_xQ2JlukxXw-WXpCUaOZz59Nc_pWfcpdp2DcnjpRJrxnKDnhgBkFufJBfE39nvVjzLJovLK-Hu-vBMI-b0C9atYsSjLaPBI3z23Mruxzm1Hhc48Wi410Vd534BFVZLA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc3VptBJiT_xQ2JlukxXw-WXpCUaOZz59Nc_pWfcpdp2DcnjpRJrxnKDnhgBkFufJBfE39nvVjzLJovLK-Hu-vBMI-b0C9atYsSjLaPBI3z23Mruxzm1Hhc48Wi410Vd534BFVZLA=w1000-h750-no",
-    "source_query": "Halal restaurant in Genk, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJqVhuhC7fwEcRZKXrt407OsU",
-    "name": "Chick & Cheez Genk - Shopping 1",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Genk",
-    "address": "Chick & Cheez Genk - Shopping 1, Rootenstraat 8, 3600 Genk",
-    "street": "Rootenstraat 8",
-    "postal_code": "3600",
-    "region": null,
-    "latitude": 50.965897,
-    "longitude": 5.5041278,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chick%20%26%20Cheez%20Genk%20-%20Shopping%201&query_place_id=ChIJqVhuhC7fwEcRZKXrt407OsU",
-    "open_hours_json": {
-      "Monday": [
-        "11 am–7:30 pm"
-      ],
-      "Tuesday": [
-        "11 am–7:30 pm"
-      ],
-      "Wednesday": [
-        "11 am–7:30 pm"
-      ],
-      "Thursday": [
-        "11 am–7:30 pm"
-      ],
-      "Friday": [
-        "11 am–7:30 pm"
-      ],
-      "Saturday": [
-        "11 am–7:30 pm"
-      ],
-      "Sunday": [
-        "12–7 pm"
-      ]
-    },
-    "review_count": 52,
-    "rating": 3.4,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf70bTvHu6knoviYl-bMSHcokTKuKHzotKZxAQQW_qPVIJVekWqOQPYgrDTyaprTlB9FLfs3nT96QPTg66x84Yfs-XpU9HFR1BszEzi-zBm7kDRxTgrdefWnZE56iHlWo84SmaT=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf70bTvHu6knoviYl-bMSHcokTKuKHzotKZxAQQW_qPVIJVekWqOQPYgrDTyaprTlB9FLfs3nT96QPTg66x84Yfs-XpU9HFR1BszEzi-zBm7kDRxTgrdefWnZE56iHlWo84SmaT=w1000-h750-no",
-    "source_query": "Halal restaurant in Genk, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
   }
 ]

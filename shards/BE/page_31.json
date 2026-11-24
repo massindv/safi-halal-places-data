@@ -1,5 +1,55 @@
 [
   {
+    "place_id": "ChIJ4TIrEpiOw0cRVshScfO1lt8",
+    "name": "Tartinneke",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Sint-Niklaas",
+    "address": "Tartinneke, Regentieplein 2, 9100 Sint-Niklaas",
+    "street": "Regentieplein 2",
+    "postal_code": "9100",
+    "region": null,
+    "latitude": 51.1680455,
+    "longitude": 4.145129799999999,
+    "phone": "0494 15 90 95",
+    "website": "https://tartinneke.eatbu.com/?lang=nl",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Tartinneke&query_place_id=ChIJ4TIrEpiOw0cRVshScfO1lt8",
+    "open_hours_json": {
+      "Monday": [
+        "9 am–3 pm"
+      ],
+      "Tuesday": [
+        "9 am–3 pm"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "9 am–3 pm"
+      ],
+      "Friday": [
+        "9 am–3 pm"
+      ],
+      "Saturday": [
+        "9 am–3 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 192,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfNqx5eKMnD1AjbX1dOsCBTF8ugxp7yp7j-sm4CzsSS7DXzR9Jntx8Tf2c-OImWxn4b3GYGIRHU0oMYIVRfbRatnoO-5u_TMX7ZlnI2VA0830x3bfmKy1leZLe94So6Urm6yDUxMg=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfNqx5eKMnD1AjbX1dOsCBTF8ugxp7yp7j-sm4CzsSS7DXzR9Jntx8Tf2c-OImWxn4b3GYGIRHU0oMYIVRfbRatnoO-5u_TMX7ZlnI2VA0830x3bfmKy1leZLe94So6Urm6yDUxMg=w1000-h750-no",
+    "source_query": "Fish restaurant in Sint-Niklaas, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJh-QKi2SMw0cRNyv1c667qaQ",
     "name": "Taverne 't Bos",
     "type": "restaurant",
@@ -4819,8 +4869,8 @@
     "phone": "0467 66 20 10",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=NOORI%20MARKET%20%E2%80%93%20Halal%20Slagerij%20%26%20Supermarkt%20in%20Sint-Truiden&query_place_id=ChIJQ4g9TeMXwUcR1xG8Y6Cpq9I",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf2gUylSILI619muBixUWGpto_cDvhjEoCSfOOTpzOvf_JOvCnSeWP0e_bnFKWIzWBWmF5G2WmFXj4XmuX24A22jY2kRlp3xk5AzTiqAxVJYyeNO6xUpAQ6-JaUTRk4gqqCtWhU68_SKBY=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf2gUylSILI619muBixUWGpto_cDvhjEoCSfOOTpzOvf_JOvCnSeWP0e_bnFKWIzWBWmF5G2WmFXj4XmuX24A22jY2kRlp3xk5AzTiqAxVJYyeNO6xUpAQ6-JaUTRk4gqqCtWhU68_SKBY=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcVuKf77fc5sf3kwBK3lj8NbGNgb5wZRBwIBnHe4zZ2wBDGrekt79_SQAohsLNdlynz63KYqcnrXOv9Q7U4exZ1dUQIU2jaV8obd54SyxfO6FAE1bDEQ2mHNnShs0U8mDehFKVzpLAMlXQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcVuKf77fc5sf3kwBK3lj8NbGNgb5wZRBwIBnHe4zZ2wBDGrekt79_SQAohsLNdlynz63KYqcnrXOv9Q7U4exZ1dUQIU2jaV8obd54SyxfO6FAE1bDEQ2mHNnShs0U8mDehFKVzpLAMlXQ=w1000-h750-no",
     "rating": null,
     "review_count": 0,
     "verification_status": "VERIFIED",
@@ -5894,6 +5944,32 @@
     "is_active": true,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJsUFzeQAXwUcR1b-AjhRAheU",
+    "name": "Slagerij Halal",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Sint-Truiden",
+    "address": "Slagerij Halal, N3e 28, 3800 Sint-Truiden",
+    "street": "N3e 28",
+    "postal_code": "3800",
+    "region": null,
+    "latitude": 50.814600999999996,
+    "longitude": 5.1879062,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Slagerij%20Halal&query_place_id=ChIJsUFzeQAXwUcR1b-AjhRAheU",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdfsWUpOHNTDPtwTLxuF4yybQ6NXKqsy0t2L78ikSPeSSx-F6auZHOMKq-x2Xl5IHHpq57OPCekzJMvG92ixbhaMTK7M3dD8J6Fsx9BicGx5QAHPLbO4lR4rFgFOBersbLyVrxS=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdfsWUpOHNTDPtwTLxuF4yybQ6NXKqsy0t2L78ikSPeSSx-F6auZHOMKq-x2Xl5IHHpq57OPCekzJMvG92ixbhaMTK7M3dD8J6Fsx9BicGx5QAHPLbO4lR4rFgFOBersbLyVrxS=w1000-h750-no",
+    "rating": 5.0,
+    "review_count": 2,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Slagerij Halal",
+    "is_active": true,
+    "moderation_status": "approved"
   },
   {
     "place_id": "ChIJQQ6sojUXwUcREM2dynFhI9A",
@@ -11200,84 +11276,6 @@
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeQVYxAr2NowgP_XAn5o34z5sQMGf6Xe7bbzKjrlNbGVIwuPhasfBCRVWfyW03UHIzA2-3xwo8mA5d8BJyV0wiZ-ByuyVhnmwdyk9rub6NlUxpbtkpySAWdgOj6_Nlkns2AAio5=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeQVYxAr2NowgP_XAn5o34z5sQMGf6Xe7bbzKjrlNbGVIwuPhasfBCRVWfyW03UHIzA2-3xwo8mA5d8BJyV0wiZ-ByuyVhnmwdyk9rub6NlUxpbtkpySAWdgOj6_Nlkns2AAio5=w1000-h750-no",
     "source_query": "Halal restaurant in Thuin, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJVRk3EHk7wkcRzRhhDtTBl5I",
-    "name": "Bidfood",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Thuin",
-    "address": "Bidfood, Av. Deli XL 1, 6530 Thuin",
-    "street": "Av. Deli XL 1",
-    "postal_code": "6530",
-    "region": null,
-    "latitude": 50.3598387,
-    "longitude": 4.2868901,
-    "phone": "071 25 68 11",
-    "website": "https://www.bidfood.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bidfood&query_place_id=ChIJVRk3EHk7wkcRzRhhDtTBl5I",
-    "open_hours_json": null,
-    "review_count": 88,
-    "rating": 3.5,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfrD15ezFYeMEXs-pF5_TCwna_d7xmDKIG0DswzxTwI21shu_F302IJReVIkYILRzWwofEQg8d3tgy2glSS9k8wS1fzlAhEDdOY64ai4q6sD-KI2_AkWtYn8WlBY1uhxKUC9lz5=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfrD15ezFYeMEXs-pF5_TCwna_d7xmDKIG0DswzxTwI21shu_F302IJReVIkYILRzWwofEQg8d3tgy2glSS9k8wS1fzlAhEDdOY64ai4q6sD-KI2_AkWtYn8WlBY1uhxKUC9lz5=w1000-h750-no",
-    "source_query": "Fish restaurant in Thuin, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ14Po4dsgwkcRtGerrH3De3Y",
-    "name": "Biercée distillery",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Thuin",
-    "address": "Biercée distillery, Rue de la Roquette 36, 6532 Thuin",
-    "street": "Rue de la Roquette 36",
-    "postal_code": "6532",
-    "region": null,
-    "latitude": 50.307167,
-    "longitude": 4.2878226999999995,
-    "phone": "071 59 11 06",
-    "website": "https://www.bierceedistillery.com/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bierc%C3%A9e%20distillery&query_place_id=ChIJ14Po4dsgwkcRtGerrH3De3Y",
-    "open_hours_json": {
-      "Monday": [
-        "8:30 am–3:30 pm"
-      ],
-      "Tuesday": [
-        "8:30 am–3:30 pm"
-      ],
-      "Wednesday": [
-        "8:30 am–3:30 pm"
-      ],
-      "Thursday": [
-        "8:30 am–8 pm"
-      ],
-      "Friday": [
-        "8:30 am–8 pm"
-      ],
-      "Saturday": [
-        "11:30 am–8 pm"
-      ],
-      "Sunday": [
-        "11:30 am–8 pm"
-      ]
-    },
-    "review_count": 423,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdt7Dtu3Wn2ZgHVZ3jy3Qc_PTSWW6UFB2qUl58mV_bKeR5nncG3i50VZwMkp3pHaIDqn1XILXo3E2vca10AggcP0yZXG6yw1aoPtO6-YrFPD2iS84rfk_2cZr0E5XNqBy21Yac46g=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdt7Dtu3Wn2ZgHVZ3jy3Qc_PTSWW6UFB2qUl58mV_bKeR5nncG3i50VZwMkp3pHaIDqn1XILXo3E2vca10AggcP0yZXG6yw1aoPtO6-YrFPD2iS84rfk_2cZr0E5XNqBy21Yac46g=w1000-h750-no",
-    "source_query": "Fish restaurant in Thuin, Wallonia, BE",
     "moderation_status": "approved",
     "is_active": true,
     "verification_status": "UNVERIFIED",
