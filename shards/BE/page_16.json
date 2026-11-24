@@ -1,5 +1,59 @@
 [
   {
+    "place_id": "ChIJDyqOeHepwUcRE6Pacon-oao",
+    "name": "La Tartine Au Beurre",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Huy",
+    "address": "La Tartine Au Beurre, Rue de Montmorency 9, 4500 Huy",
+    "street": "Rue de Montmorency 9",
+    "postal_code": "4500",
+    "region": null,
+    "latitude": 50.5174697,
+    "longitude": 5.24247,
+    "phone": "085 23 21 03",
+    "website": "https://www.latartineaubeurre.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Tartine%20Au%20Beurre&query_place_id=ChIJDyqOeHepwUcRE6Pacon-oao",
+    "open_hours_json": {
+      "Monday": [
+        "12–2 pm",
+        "6:30–10 pm"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "12–2 pm",
+        "6:30–10 pm"
+      ],
+      "Friday": [
+        "12–2 pm",
+        "6:30–11 pm"
+      ],
+      "Saturday": [
+        "6:30–11 pm"
+      ],
+      "Sunday": [
+        "12–2 pm",
+        "6:30–10 pm"
+      ]
+    },
+    "review_count": 344,
+    "rating": 4.4,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdAt8CofyuSlmPduTzN7pGIdQ0jNLTyAornwV_VLX4Zz2-TNsZzQq3Mw1CYK9FfL5FQJpUmRu-YRgRyeC_NI-SCjsjZ373ZWd1-DYZQxf0MDA0hFNpiMwK-GNQhO6mLAY9P08-LOQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdAt8CofyuSlmPduTzN7pGIdQ0jNLTyAornwV_VLX4Zz2-TNsZzQq3Mw1CYK9FfL5FQJpUmRu-YRgRyeC_NI-SCjsjZ373ZWd1-DYZQxf0MDA0hFNpiMwK-GNQhO6mLAY9P08-LOQ=w1000-h750-no",
+    "source_query": "Halal restaurant in Huy, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJhXmdm4epwUcRAtCoWuC4tYQ",
     "name": "Le Carthage",
     "type": "restaurant",
@@ -3125,8 +3179,8 @@
     "phone": "051 81 42 60",
     "website": "https://www.lacucina-kachtem.be/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Cucina%20Kachtem&query_place_id=ChIJiysqCjY3w0cRYm3E22UB31s",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfDgDSyHVpleyM3IOeDWN5Tlzt2PIP9nDbqcJ3aUFcHvluYATJT9XTzAjNgnthm3lyXdiabAcws_YNkQTZNeq1fQtI7Pon4c2GjwCEg5-C4Ojlv-ffWbkLJ2VojcP8dItPD1sWicgaNJsGF=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfDgDSyHVpleyM3IOeDWN5Tlzt2PIP9nDbqcJ3aUFcHvluYATJT9XTzAjNgnthm3lyXdiabAcws_YNkQTZNeq1fQtI7Pon4c2GjwCEg5-C4Ojlv-ffWbkLJ2VojcP8dItPD1sWicgaNJsGF=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfUW8u0IRtjBUjZ_3UO4NO0huEi9H90RtifwMrGRMNvuGcgxhpp3hp2zyqHnt9J4rt8gP77FlHkaLpID0cwKgeGdrBsIMjZJuTfB_nOIm3X1e51alnipPoOcJJaa0hy8izy8FSaids-ZRxD=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfUW8u0IRtjBUjZ_3UO4NO0huEi9H90RtifwMrGRMNvuGcgxhpp3hp2zyqHnt9J4rt8gP77FlHkaLpID0cwKgeGdrBsIMjZJuTfB_nOIm3X1e51alnipPoOcJJaa0hy8izy8FSaids-ZRxD=w1000-h750-no",
     "rating": 4.9,
     "review_count": 29,
     "verification_status": "UNVERIFIED",
@@ -5011,8 +5065,8 @@
     "phone": "0476 28 65 58",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Mouton%20Du%20Maghreb&query_place_id=ChIJ0fJlkerDw0cRVBfvQlCABs0",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfg_J4c_OY40Ln_g9zfcgR3oGndXNmvwrWp_gPdlIab7-QoYq7yLsZIJMyxOyjINfC3PP7-IkHRR1Cg6AyYSywne-YP9wVna7zrB4MS6qB-FK8J_iGuLFt5rlEpyv8xfYzK_kHC=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfg_J4c_OY40Ln_g9zfcgR3oGndXNmvwrWp_gPdlIab7-QoYq7yLsZIJMyxOyjINfC3PP7-IkHRR1Cg6AyYSywne-YP9wVna7zrB4MS6qB-FK8J_iGuLFt5rlEpyv8xfYzK_kHC=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcdYDNrtSibVFwS9kzsYUrtT8jrHkrg3l6lL1BivSzurHfsLAKYU3C0K_m2s6036ELdKjD2hUc8RxWWXaW2vm7kaeZa7uBvRS-5K827JaMP6sMi-aEq7ZNgvCfrjBUEbmYnhuKJ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcdYDNrtSibVFwS9kzsYUrtT8jrHkrg3l6lL1BivSzurHfsLAKYU3C0K_m2s6036ELdKjD2hUc8RxWWXaW2vm7kaeZa7uBvRS-5K827JaMP6sMi-aEq7ZNgvCfrjBUEbmYnhuKJ=w1000-h750-no",
     "rating": 2.9,
     "review_count": 8,
     "verification_status": "UNVERIFIED",
@@ -8452,6 +8506,32 @@
     "moderation_status": "approved"
   },
   {
+    "place_id": "ChIJMccPUhg7w0cRcFogdV33XmI",
+    "name": "Al Rahman & Sons BV",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Kortrijk",
+    "address": "Al Rahman & Sons BV, Zwevegemsestraat 162, 8500 Kortrijk",
+    "street": "Zwevegemsestraat 162",
+    "postal_code": "8500",
+    "region": null,
+    "latitude": 50.8228741,
+    "longitude": 3.2764853,
+    "phone": "056 22 56 91",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Rahman%20%26%20Sons%20BV&query_place_id=ChIJMccPUhg7w0cRcFogdV33XmI",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe0exsofwgisGrTlko-f0_zjKCwQchUDWBdW_KbmqN-OJXI5mJ0smX36cEO73be3Mt14LzRU_TnI0LNAv4FpKcl9bKFQPejgVDwq8X1BsjxKvAcrlmgp2wt3bBd7Fc0C2Qaraf-IP7C1v4=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe0exsofwgisGrTlko-f0_zjKCwQchUDWBdW_KbmqN-OJXI5mJ0smX36cEO73be3Mt14LzRU_TnI0LNAv4FpKcl9bKFQPejgVDwq8X1BsjxKvAcrlmgp2wt3bBd7Fc0C2Qaraf-IP7C1v4=w1000-h750-no",
+    "rating": 4.5,
+    "review_count": 231,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
     "place_id": "ChIJ6VCHn0VHw0cRWy508y3Rbfc",
     "name": "Al madina supermarket /winkel",
     "type": "hypermarket",
@@ -8650,6 +8730,32 @@
     "is_active": true,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJY5qSPhw7w0cRp05gnQXz7U0",
+    "name": "Asalam Supermarkt Kortrijk",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Kortrijk",
+    "address": "Asalam Supermarkt Kortrijk, Gentsesteenweg 68, 8500 Kortrijk",
+    "street": "Gentsesteenweg 68",
+    "postal_code": "8500",
+    "region": null,
+    "latitude": 50.8330637,
+    "longitude": 3.2782747999999997,
+    "phone": "056 36 06 12",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Asalam%20Supermarkt%20Kortrijk&query_place_id=ChIJY5qSPhw7w0cRp05gnQXz7U0",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdAwrusCmmqrKfSIVtONQBSGo-HKqStQkRbwEdK0nmowcnIKYXpqFEOWgC5Y3mJXOLs351DMhgSVPuZ637KspPKiFRoUWSbzQrv4hEcJdM5qoQcMwZ-S70fAwSEjQ_cEqf1Wedg=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdAwrusCmmqrKfSIVtONQBSGo-HKqStQkRbwEdK0nmowcnIKYXpqFEOWgC5Y3mJXOLs351DMhgSVPuZ637KspPKiFRoUWSbzQrv4hEcJdM5qoQcMwZ-S70fAwSEjQ_cEqf1Wedg=w1000-h750-no",
+    "rating": 4.1,
+    "review_count": 427,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
   },
   {
     "place_id": "ChIJccf0SwA7w0cRzgUpKokeMy4",
@@ -10314,8 +10420,8 @@
     "phone": "056 90 20 62",
     "website": "https://www.darband.be/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAdGRleAT8J-ZwZG9mAmZkaWQWUNMpvwvE98_V0CCHQs-ya13Gpk9BrmV4dG4DYWVtAjExAHNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABp9aV23fx2sjCfWxarTkoBMluIUzBKvfe4TfgKu99loQ59LPm_26s1LfM70Ye_aem_sHuVY0VhA5vQtOuGkLdZxw",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Darband&query_place_id=ChIJDdMcJeI6w0cRbNA-IrZCH-0",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdq7eb7LTfgPJMmD_Xm_Rhsn1dcrR4mmN-oGPdkYegba9e766AK9IoFTs6XM6RGC99jjzAu-fqF4Ck7Awi8a0YJtHK_w3Rwws09SuLhIphqwLApfSzKilfmZVngV1jo7eJuvS8=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdq7eb7LTfgPJMmD_Xm_Rhsn1dcrR4mmN-oGPdkYegba9e766AK9IoFTs6XM6RGC99jjzAu-fqF4Ck7Awi8a0YJtHK_w3Rwws09SuLhIphqwLApfSzKilfmZVngV1jo7eJuvS8=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcVkQQ39LP79Z9oZL-OtKA8N8OhC9Dqii2o4dfN_q8KG9owlakKXhoPcXFpTXeLzoy3RWgzoASIOieW4uTAOMEVagvU_mzUR4oGaNhA6e3-zn4XycCoPWJGkeYOg6CPY7fXM_0=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcVkQQ39LP79Z9oZL-OtKA8N8OhC9Dqii2o4dfN_q8KG9owlakKXhoPcXFpTXeLzoy3RWgzoASIOieW4uTAOMEVagvU_mzUR4oGaNhA6e3-zn4XycCoPWJGkeYOg6CPY7fXM_0=w1000-h750-no",
     "rating": 4.5,
     "review_count": 225,
     "verification_status": "UNVERIFIED",
@@ -11015,109 +11121,5 @@
     "verification_evidence": null,
     "is_active": true,
     "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJJ5s5xh07w0cR_6v7c9th9xU",
-    "name": "Food Avenue",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kortrijk",
-    "address": "Food Avenue, Steenpoort 2, 8500 Kortrijk",
-    "street": "Steenpoort 2",
-    "postal_code": "8500",
-    "region": null,
-    "latitude": 50.8267704,
-    "longitude": 3.2697947999999997,
-    "phone": "056 21 85 58",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Food%20Avenue&query_place_id=ChIJJ5s5xh07w0cR_6v7c9th9xU",
-    "open_hours_json": {
-      "Monday": [
-        "9 am–7 pm"
-      ],
-      "Tuesday": [
-        "9 am–7 pm"
-      ],
-      "Wednesday": [
-        "9 am–7 pm"
-      ],
-      "Thursday": [
-        "9 am–7 pm"
-      ],
-      "Friday": [
-        "Closed"
-      ],
-      "Saturday": [
-        "9 am–8 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 43,
-    "rating": 2.5,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf4tm1xRAC3HvU7sblS1eGDCl8AZOk5MVQr2eJV9in0GSAkp6gbn7ZKsl3PjnZSL_5FtRn_iU8BmY7HCigiPskayXcwKuHHhGUePiJYJK6pmyldRzl3lAEb0mIIZADqCu7tbezD=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf4tm1xRAC3HvU7sblS1eGDCl8AZOk5MVQr2eJV9in0GSAkp6gbn7ZKsl3PjnZSL_5FtRn_iU8BmY7HCigiPskayXcwKuHHhGUePiJYJK6pmyldRzl3lAEb0mIIZADqCu7tbezD=w1000-h750-no",
-    "source_query": "Halal restaurant in Kortrijk, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJA19G3LM7w0cRiT_TOrZzrHA",
-    "name": "Food MINA",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kortrijk",
-    "address": "Food MINA, Oudenaardsesteenweg 136, 8500 Kortrijk",
-    "street": "Oudenaardsesteenweg 136",
-    "postal_code": "8500",
-    "region": null,
-    "latitude": 50.820462,
-    "longitude": 3.2845834999999997,
-    "phone": "0498 15 34 20",
-    "website": "http://www.foodcyra.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Food%20MINA&query_place_id=ChIJA19G3LM7w0cRiT_TOrZzrHA",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdWUciKPqKqQuTUt7Ny_ejPYQWSSkGTsSpCYRHNiEjvl-NpjgNeqRx4euxjiQQwJGLL9T7rrJTmedz0WRtIrlG9VKvSfwrGM5uaN5X1BR0x711-5dCh7UjtDA1i44Gl74CRy01eGg91b-Om=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdWUciKPqKqQuTUt7Ny_ejPYQWSSkGTsSpCYRHNiEjvl-NpjgNeqRx4euxjiQQwJGLL9T7rrJTmedz0WRtIrlG9VKvSfwrGM5uaN5X1BR0x711-5dCh7UjtDA1i44Gl74CRy01eGg91b-Om=w1000-h750-no",
-    "rating": 4.9,
-    "review_count": 158,
-    "verification_status": "VERIFIED",
-    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJt2E8xh07w0cRiXderwJeu2s",
-    "name": "Foodies@K",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kortrijk",
-    "address": "Foodies@K, Steenpoort 2, 8500 Kortrijk",
-    "street": "Steenpoort 2",
-    "postal_code": "8500",
-    "region": null,
-    "latitude": 50.826709799999996,
-    "longitude": 3.2702518,
-    "phone": "0476 37 35 12",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Foodies%40K&query_place_id=ChIJt2E8xh07w0cRiXderwJeu2s",
-    "open_hours_json": null,
-    "review_count": 164,
-    "rating": 3.1,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeJZuDRAuZX3KvZ_NBBt73Deat_fd2qRHvlF9zaWVOz__t2zmluD92T7F8012acDuD9upzwLfjgu72O8P7X04RmaJ9-HjBWk001lCAv8FB5xjZWwLVrocoWd4D8qAE39YLhbA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeJZuDRAuZX3KvZ_NBBt73Deat_fd2qRHvlF9zaWVOz__t2zmluD92T7F8012acDuD9upzwLfjgu72O8P7X04RmaJ9-HjBWk001lCAv8FB5xjZWwLVrocoWd4D8qAE39YLhbA=w1000-h750-no",
-    "source_query": "Halal restaurant in Kortrijk, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
   }
 ]
