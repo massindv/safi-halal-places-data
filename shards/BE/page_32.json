@@ -1,262 +1,5 @@
 [
   {
-    "place_id": "ChIJk9euf4g8wkcReQuWMrRE5J8",
-    "name": "Atelier C",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Thuin",
-    "address": "Atelier C, Rue 't Serstevens 17, 6530 Thuin",
-    "street": "Rue 't Serstevens 17",
-    "postal_code": "6530",
-    "region": null,
-    "latitude": 50.341580199999996,
-    "longitude": 4.283527299999999,
-    "phone": "0476 32 54 49",
-    "website": "http://shopatelierc.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Atelier%20C&query_place_id=ChIJk9euf4g8wkcReQuWMrRE5J8",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "10 am–6 pm"
-      ],
-      "Thursday": [
-        "10 am–6 pm"
-      ],
-      "Friday": [
-        "10 am–6 pm"
-      ],
-      "Saturday": [
-        "11 am–6 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 20,
-    "rating": 4.3,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OIXQj0Iiwd4UjAvsi44n2g&cb_client=search.gws-prod.grass&w=80&h=92&yaw=2.1414285&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OIXQj0Iiwd4UjAvsi44n2g&cb_client=search.gws-prod.grass&w=80&h=92&yaw=2.1414285&pitch=0&thumbfov=w1000-h750-no",
-    "source_query": "Hypermarket in Thuin, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ8wwCnYg8wkcRPTfzXq8mum0",
-    "name": "Au P'tit Batia - Péniche-restaurant",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Thuin",
-    "address": "Au P'tit Batia - Péniche-restaurant, Rue t'Serstevens, 6530 Thuin",
-    "street": "Rue t'Serstevens",
-    "postal_code": "6530",
-    "region": null,
-    "latitude": 50.3416667,
-    "longitude": 4.2847222,
-    "phone": "071 59 08 59",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Au%20P%27tit%20Batia%20-%20P%C3%A9niche-restaurant&query_place_id=ChIJ8wwCnYg8wkcRPTfzXq8mum0",
-    "open_hours_json": null,
-    "review_count": 117,
-    "rating": 4.5,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcrkUcIN7VIsI-MUyA9lVDfOHYB-guypZvVvHmacOtdiTGfnNWgOQ1Sf_zMqXSl-wbTEm9XsVte3ECWt3VNVwut_6VYH0E32pV7ORF09_wBaJhYBUjgFRZIiQD8LSZK8tBlr20=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcrkUcIN7VIsI-MUyA9lVDfOHYB-guypZvVvHmacOtdiTGfnNWgOQ1Sf_zMqXSl-wbTEm9XsVte3ECWt3VNVwut_6VYH0E32pV7ORF09_wBaJhYBUjgFRZIiQD8LSZK8tBlr20=w1000-h750-no",
-    "source_query": "Fish restaurant in Thuin, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ0wxDTY88wkcR0mVo54ZFatU",
-    "name": "Aux Quatre Saisons",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Thuin",
-    "address": "Aux Quatre Saisons, Rue du Pont 7, 6530 Thuin",
-    "street": "Rue du Pont 7",
-    "postal_code": "6530",
-    "region": null,
-    "latitude": 50.340975799999995,
-    "longitude": 4.2866967,
-    "phone": "071 59 24 74",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Aux%20Quatre%20Saisons&query_place_id=ChIJ0wxDTY88wkcR0mVo54ZFatU",
-    "open_hours_json": {
-      "Monday": [
-        "12–6 pm"
-      ],
-      "Tuesday": [
-        "9 am–6 pm"
-      ],
-      "Wednesday": [
-        "9 am–6 pm"
-      ],
-      "Thursday": [
-        "9 am–6 pm"
-      ],
-      "Friday": [
-        "9 am–6 pm"
-      ],
-      "Saturday": [
-        "9 am–5:30 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 64,
-    "rating": 3.5,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfxd7nNLdD--218rv7clLjAAtiXsQwIWh6V5-Yz543hh0VD3tWIUMCWqKKIsTHhixA7E09wl1jtg4E2B5uJzk5vYqtVGsiF9BMQc7AJe6X1SrbOTvWwjbUCI1Sb69b2oSNvySvx=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfxd7nNLdD--218rv7clLjAAtiXsQwIWh6V5-Yz543hh0VD3tWIUMCWqKKIsTHhixA7E09wl1jtg4E2B5uJzk5vYqtVGsiF9BMQc7AJe6X1SrbOTvWwjbUCI1Sb69b2oSNvySvx=w1000-h750-no",
-    "source_query": "Hypermarket in Thuin, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJORoZNJc9wkcRrXth0JARYLw",
-    "name": "Bagú",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Thuin",
-    "address": "Bagú, Av. de Ragnies 14, 6530 Thuin",
-    "street": "Av. de Ragnies 14",
-    "postal_code": "6530",
-    "region": null,
-    "latitude": 50.3396504,
-    "longitude": 4.2819945,
-    "phone": "0498 48 68 07",
-    "website": "https://restaurantbagu.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bag%C3%BA&query_place_id=ChIJORoZNJc9wkcRrXth0JARYLw",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "6:30–10:30 pm"
-      ],
-      "Thursday": [
-        "6:30–10:30 pm"
-      ],
-      "Friday": [
-        "12–2 pm",
-        "6:30–10:30 pm"
-      ],
-      "Saturday": [
-        "6:30–10:30 pm"
-      ],
-      "Sunday": [
-        "12–2:30 pm"
-      ]
-    },
-    "review_count": 132,
-    "rating": 4.8,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeQVYxAr2NowgP_XAn5o34z5sQMGf6Xe7bbzKjrlNbGVIwuPhasfBCRVWfyW03UHIzA2-3xwo8mA5d8BJyV0wiZ-ByuyVhnmwdyk9rub6NlUxpbtkpySAWdgOj6_Nlkns2AAio5=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeQVYxAr2NowgP_XAn5o34z5sQMGf6Xe7bbzKjrlNbGVIwuPhasfBCRVWfyW03UHIzA2-3xwo8mA5d8BJyV0wiZ-ByuyVhnmwdyk9rub6NlUxpbtkpySAWdgOj6_Nlkns2AAio5=w1000-h750-no",
-    "source_query": "Halal restaurant in Thuin, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJVRk3EHk7wkcRzRhhDtTBl5I",
-    "name": "Bidfood",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Thuin",
-    "address": "Bidfood, Av. Deli XL 1, 6530 Thuin",
-    "street": "Av. Deli XL 1",
-    "postal_code": "6530",
-    "region": null,
-    "latitude": 50.3598387,
-    "longitude": 4.2868901,
-    "phone": "071 25 68 11",
-    "website": "https://www.bidfood.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bidfood&query_place_id=ChIJVRk3EHk7wkcRzRhhDtTBl5I",
-    "open_hours_json": null,
-    "review_count": 88,
-    "rating": 3.5,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfrD15ezFYeMEXs-pF5_TCwna_d7xmDKIG0DswzxTwI21shu_F302IJReVIkYILRzWwofEQg8d3tgy2glSS9k8wS1fzlAhEDdOY64ai4q6sD-KI2_AkWtYn8WlBY1uhxKUC9lz5=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfrD15ezFYeMEXs-pF5_TCwna_d7xmDKIG0DswzxTwI21shu_F302IJReVIkYILRzWwofEQg8d3tgy2glSS9k8wS1fzlAhEDdOY64ai4q6sD-KI2_AkWtYn8WlBY1uhxKUC9lz5=w1000-h750-no",
-    "source_query": "Fish restaurant in Thuin, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ14Po4dsgwkcRtGerrH3De3Y",
-    "name": "Biercée distillery",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Thuin",
-    "address": "Biercée distillery, Rue de la Roquette 36, 6532 Thuin",
-    "street": "Rue de la Roquette 36",
-    "postal_code": "6532",
-    "region": null,
-    "latitude": 50.307167,
-    "longitude": 4.2878226999999995,
-    "phone": "071 59 11 06",
-    "website": "https://www.bierceedistillery.com/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bierc%C3%A9e%20distillery&query_place_id=ChIJ14Po4dsgwkcRtGerrH3De3Y",
-    "open_hours_json": {
-      "Monday": [
-        "8:30 am–3:30 pm"
-      ],
-      "Tuesday": [
-        "8:30 am–3:30 pm"
-      ],
-      "Wednesday": [
-        "8:30 am–3:30 pm"
-      ],
-      "Thursday": [
-        "8:30 am–8 pm"
-      ],
-      "Friday": [
-        "8:30 am–8 pm"
-      ],
-      "Saturday": [
-        "11:30 am–8 pm"
-      ],
-      "Sunday": [
-        "11:30 am–8 pm"
-      ]
-    },
-    "review_count": 423,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdt7Dtu3Wn2ZgHVZ3jy3Qc_PTSWW6UFB2qUl58mV_bKeR5nncG3i50VZwMkp3pHaIDqn1XILXo3E2vca10AggcP0yZXG6yw1aoPtO6-YrFPD2iS84rfk_2cZr0E5XNqBy21Yac46g=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdt7Dtu3Wn2ZgHVZ3jy3Qc_PTSWW6UFB2qUl58mV_bKeR5nncG3i50VZwMkp3pHaIDqn1XILXo3E2vca10AggcP0yZXG6yw1aoPtO6-YrFPD2iS84rfk_2cZr0E5XNqBy21Yac46g=w1000-h750-no",
-    "source_query": "Fish restaurant in Thuin, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
     "place_id": "ChIJadQFU488wkcRwxKPHCPJnXM",
     "name": "Boucherie Balieu",
     "type": "butcher",
@@ -3291,38 +3034,14 @@
     "phone": null,
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Ayasofya&query_place_id=ChIJ75GT34s4w0cRL9nOFsW4qkc",
-    "open_hours_json": {
-      "Monday": [
-        "Open 24 hours"
-      ],
-      "Tuesday": [
-        "Open 24 hours"
-      ],
-      "Wednesday": [
-        "Open 24 hours"
-      ],
-      "Thursday": [
-        "Open 24 hours"
-      ],
-      "Friday": [
-        "Open 24 hours"
-      ],
-      "Saturday": [
-        "Open 24 hours"
-      ],
-      "Sunday": [
-        "Open 24 hours"
-      ]
-    },
-    "review_count": 12,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeGOsZza4PRb4eX7ShGYwfJolGoShgr9ag3zii1fYqS7XlK5R0dJbmtEbAamBchUp4hTJwcVc3He5NI1kxHv6OATs7kE0uo1ksyvrpzA8f1O3HO2LuZGT5s1OijBrdr0gTqL6JOpzcchzg=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeGOsZza4PRb4eX7ShGYwfJolGoShgr9ag3zii1fYqS7XlK5R0dJbmtEbAamBchUp4hTJwcVc3He5NI1kxHv6OATs7kE0uo1ksyvrpzA8f1O3HO2LuZGT5s1OijBrdr0gTqL6JOpzcchzg=w1000-h750-no",
     "rating": 4.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcwsi2IhaMeHh2qRvnL53cH-sgMoS4Iz3PGLCPfnR91CIgm3fjrdcw0JzBZ3K_EkulUh54smqpLR2Joc_ZHh6ezP0J6Dvq36VSWh1p-yHKPkfO9s_wdzIE8UYru1gAfL14knkUbsvWzyTQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcwsi2IhaMeHh2qRvnL53cH-sgMoS4Iz3PGLCPfnR91CIgm3fjrdcw0JzBZ3K_EkulUh54smqpLR2Joc_ZHh6ezP0J6Dvq36VSWh1p-yHKPkfO9s_wdzIE8UYru1gAfL14knkUbsvWzyTQ=w1000-h750-no",
-    "source_query": "Mosque in Tielt, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
+    "review_count": 12,
     "verification_status": "UNVERIFIED",
-    "verification_evidence": null
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
   },
   {
     "place_id": "ChIJZ2vEnh9Hw0cRXCfdApVbkWc",
@@ -5212,6 +4931,32 @@
     "is_active": true,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJG34ziFJtwUcRv2thPkADLiw",
+    "name": "Bereket Slagerij / Boucherie Halal مجزرة حلال",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tienen",
+    "address": "Bereket Slagerij / Boucherie Halal مجزرة حلال, Bostsestraat 26, 3300 Tienen",
+    "street": "Bostsestraat 26",
+    "postal_code": "3300",
+    "region": null,
+    "latitude": 50.803763,
+    "longitude": 4.9401461,
+    "phone": "0466 46 28 21",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bereket%20Slagerij%20%2F%20Boucherie%20Halal%20%D9%85%D8%AC%D8%B2%D8%B1%D8%A9%20%D8%AD%D9%84%D8%A7%D9%84&query_place_id=ChIJG34ziFJtwUcRv2thPkADLiw",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfk0pgS22P9gPuc3nVKX4XIOoCLX5wn4HltEu-S4Fr-SkkNCNuKcV5oNPXCLvSgFxvPa_CW4TArY78FCLDM1_EjRaHsuvlr4cglDU9vW2ZZ6H4-ofaOSH1zuqLxqhmApUyOHHSIqQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfk0pgS22P9gPuc3nVKX4XIOoCLX5wn4HltEu-S4Fr-SkkNCNuKcV5oNPXCLvSgFxvPa_CW4TArY78FCLDM1_EjRaHsuvlr4cglDU9vW2ZZ6H4-ofaOSH1zuqLxqhmApUyOHHSIqQ=w1000-h750-no",
+    "rating": 4.5,
+    "review_count": 53,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Boucherie Halal",
+    "is_active": true,
+    "moderation_status": "approved"
   },
   {
     "place_id": "ChIJoZnjIsFtwUcRCTiown2XIJs",
@@ -10054,7 +9799,7 @@
     "country": "FR",
     "country_code": "FR",
     "city": "Tourcoing",
-    "address": "Centre Culturel et Mosquée des Musulmans de Tourcoing, 32 Rue du Bus, 59200 Tourcoing, France",
+    "address": "Centre Culturel et Mosquée des Musulmans de Tourcoing, 32 Rue du Bus, 59200 Tourcoing, Frankrijk",
     "street": "32 Rue du Bus",
     "postal_code": "59200",
     "region": null,
@@ -10063,38 +9808,14 @@
     "phone": "+33 3 20 25 41 72",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Centre%20Culturel%20et%20Mosqu%C3%A9e%20des%20Musulmans%20de%20Tourcoing&query_place_id=ChIJnZ87rikvw0cREY46iEQ3PY4",
-    "open_hours_json": {
-      "Monday": [
-        "Open 24 hours"
-      ],
-      "Tuesday": [
-        "Open 24 hours"
-      ],
-      "Wednesday": [
-        "Open 24 hours"
-      ],
-      "Thursday": [
-        "Open 24 hours"
-      ],
-      "Friday": [
-        "Open 24 hours"
-      ],
-      "Saturday": [
-        "Open 24 hours"
-      ],
-      "Sunday": [
-        "Open 24 hours"
-      ]
-    },
-    "review_count": 84,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdx-1HyB7rMfPsjIHyZjztcBL9EGfqC0fYhLbTOs1z7-uYaPygWEPWtzd4Scsn5e8zUnVOvtq1bYsc_jzeTsW2rXxiSzj-z0yRMaKtQdzxG06sQ5AwINlW1Mxtrk6TBFHTHBVZs-S5_F9Ta=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdx-1HyB7rMfPsjIHyZjztcBL9EGfqC0fYhLbTOs1z7-uYaPygWEPWtzd4Scsn5e8zUnVOvtq1bYsc_jzeTsW2rXxiSzj-z0yRMaKtQdzxG06sQ5AwINlW1Mxtrk6TBFHTHBVZs-S5_F9Ta=w1000-h750-no",
     "rating": 4.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcWbm2lm15-4VnpLnoIpCCZCpiECqAJjmGujoLlfy9mQX8zc8noaUw9m-WgUJaR1H6w9Ykgwwrkwq1XC3V7irgmmmKY7iFB8Ku7FvxvkYApPrrH7JJ-71zVsFeLavP3xOipOvsWaJ78UfAM=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcWbm2lm15-4VnpLnoIpCCZCpiECqAJjmGujoLlfy9mQX8zc8noaUw9m-WgUJaR1H6w9Ykgwwrkwq1XC3V7irgmmmKY7iFB8Ku7FvxvkYApPrrH7JJ-71zVsFeLavP3xOipOvsWaJ78UfAM=w1000-h750-no",
-    "source_query": "Mosque in Warneton, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
+    "review_count": 84,
     "verification_status": "UNVERIFIED",
-    "verification_evidence": null
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
   },
   {
     "place_id": "ChIJrdTGrz8vw0cRbd3WmdjRNxo",
@@ -10344,7 +10065,7 @@
     "country": "FR",
     "country_code": "FR",
     "city": "Tourcoing",
-    "address": "Mosquée Ibn Taymiya, 59 Rue du Clinquet, 59200 Tourcoing, France",
+    "address": "Mosquée Ibn Taymiya, 59 Rue du Clinquet, 59200 Tourcoing, Frankrijk",
     "street": "59 Rue du Clinquet",
     "postal_code": "59200",
     "region": null,
@@ -10353,16 +10074,14 @@
     "phone": "+33 3 20 03 82 33",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mosqu%C3%A9e%20Ibn%20Taymiya&query_place_id=ChIJP9aLWswuw0cRuuGH3mbnO08",
-    "open_hours_json": null,
-    "review_count": 86,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc66cGzDPvKSYCg264ykQm6wZXf9w9rg6fqsR8gpawJEGJDxqxK3GIOypTB226zfCLDg34ZT9KA20fOMITjIEdaEYyzGhr4C_EY_Jm22GFbTJ9NlYdDxJefK4GTjggl7WRzHEhbpI_qcU1B=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc66cGzDPvKSYCg264ykQm6wZXf9w9rg6fqsR8gpawJEGJDxqxK3GIOypTB226zfCLDg34ZT9KA20fOMITjIEdaEYyzGhr4C_EY_Jm22GFbTJ9NlYdDxJefK4GTjggl7WRzHEhbpI_qcU1B=w1000-h750-no",
     "rating": 4.8,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdpD35k3ncrPPu5lo68-ASxSZtFDPHluZRqxl4D7OvrbbSX6zR8jJvBabbVQAfNHwU-Fzg0cM9bk3bAsqnZjJHI9sw8xsw7Q5JGZ2o2ymJryr2dg0UfoNWMLlFnY3yj8aiP7GwLS-6R0dVP=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdpD35k3ncrPPu5lo68-ASxSZtFDPHluZRqxl4D7OvrbbSX6zR8jJvBabbVQAfNHwU-Fzg0cM9bk3bAsqnZjJHI9sw8xsw7Q5JGZ2o2ymJryr2dg0UfoNWMLlFnY3yj8aiP7GwLS-6R0dVP=w1000-h750-no",
-    "source_query": "Mosque in Warneton, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
+    "review_count": 87,
     "verification_status": "UNVERIFIED",
-    "verification_evidence": null
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
   },
   {
     "place_id": "ChIJkf6qAhUvw0cRTDc0i8cI0aQ",
@@ -11100,8 +10819,8 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bel%27sy%20Restaurant&query_place_id=ChIJc_yWSXTgwkcRP0Qj8TzGBk0",
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe1P1yDDLqOHt7IfceWuz9k1BmW9oLLjuvTMZ1wtpwXWQl4SIiGKnzFpXWo2oz1XMQ-iEwriVwGzNybwYFrlIFiC4BHsVTSL9BoScsZRb4JqkYf-kzI8aGUUuxL880c8E82OrrW=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe1P1yDDLqOHt7IfceWuz9k1BmW9oLLjuvTMZ1wtpwXWQl4SIiGKnzFpXWo2oz1XMQ-iEwriVwGzNybwYFrlIFiC4BHsVTSL9BoScsZRb4JqkYf-kzI8aGUUuxL880c8E82OrrW=w1000-h750-no",
-    "rating": 4.9,
-    "review_count": 506,
+    "rating": null,
+    "review_count": 0,
     "verification_status": "VERIFIED",
     "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
     "is_active": true,
@@ -11176,8 +10895,8 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Black%20%26%20White%20Burger%20Tournai&query_place_id=ChIJ1YtdffbhwkcRZObDzmWfoHA",
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe_I3Uyyr7JU0IqJ34zk7p-8gIkS6kqFSp5roovlINoNUlAVIrkcQ0aXddpbHdIfkQiQg_H6Ta7JvLK5GftHre42ygzhtzv5iZKeo6vTLimBFh63GwgeUSNlsLydz8lk0-MTpuN=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe_I3Uyyr7JU0IqJ34zk7p-8gIkS6kqFSp5roovlINoNUlAVIrkcQ0aXddpbHdIfkQiQg_H6Ta7JvLK5GftHre42ygzhtzv5iZKeo6vTLimBFh63GwgeUSNlsLydz8lk0-MTpuN=w1000-h750-no",
-    "rating": 4.7,
-    "review_count": 3542,
+    "rating": null,
+    "review_count": 0,
     "verification_status": "VERIFIED",
     "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
     "is_active": true,
@@ -11404,7 +11123,7 @@
     "latitude": 50.6103363,
     "longitude": 3.3933117999999998,
     "phone": "069 23 23 84",
-    "website": "https://qr.wwwcafe.de/2025/08/12/cleopatra/",
+    "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=CLEOPATRA%20-%20Tournai&query_place_id=ChIJd-6cXAvgwkcRRfgqKP8Hn3I",
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfB0eirzzX-tNI4_iKnes7WTKwdadeqj2T-m-a-l6pYTav7KfccGzcv3OtCgwvqxR2QVVc6K17_nHaoII70BPa4ywDuYuMpDRUTEGTLoAFXuN3bBokcD8qOwbx_SW_HW0GHwxH5=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfB0eirzzX-tNI4_iKnes7WTKwdadeqj2T-m-a-l6pYTav7KfccGzcv3OtCgwvqxR2QVVc6K17_nHaoII70BPa4ywDuYuMpDRUTEGTLoAFXuN3bBokcD8qOwbx_SW_HW0GHwxH5=w1000-h750-no",
@@ -11599,6 +11318,190 @@
     "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=U-Jivptq-pxkhOxlnMNxsA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=20.855696&pitch=-1.3526345&thumbfov=w1000-h750-no",
     "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=U-Jivptq-pxkhOxlnMNxsA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=20.855696&pitch=-1.3526345&thumbfov=w1000-h750-no",
     "source_query": "Hypermarket in Tournai, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJy72Y73TgwkcRv_b7NPjEM78",
+    "name": "Chez Agnès",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tournai",
+    "address": "Chez Agnès, Quai du Marché au Poisson 10, 7500 Tournai",
+    "street": "Quai du Marché au Poisson 10",
+    "postal_code": "7500",
+    "region": null,
+    "latitude": 50.6075625,
+    "longitude": 3.3913892,
+    "phone": "0472 07 52 85",
+    "website": "https://www.restaurant-chezagnes.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chez%20Agn%C3%A8s&query_place_id=ChIJy72Y73TgwkcRv_b7NPjEM78",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcz0ao1y_c4SkxVjM_YoIOFouAeK28oREcWeeTaC8lwcVZ6HNzGpfR0pFAVYRmmOsyYMOTx3fH91wWtLTizI9cXW01c66CuyKirZClUvddZvzI8hLuxpzcusTCUDSGcUGTrV1Q_=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcz0ao1y_c4SkxVjM_YoIOFouAeK28oREcWeeTaC8lwcVZ6HNzGpfR0pFAVYRmmOsyYMOTx3fH91wWtLTizI9cXW01c66CuyKirZClUvddZvzI8hLuxpzcusTCUDSGcUGTrV1Q_=w1000-h750-no",
+    "rating": 4.5,
+    "review_count": 219,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJf_OO8rYfw0cRRwdE36fGMKc",
+    "name": "Chez Arno",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tournai",
+    "address": "Chez Arno, Rte Provinciale 59, 7543 Tournai",
+    "street": "Rte Provinciale 59",
+    "postal_code": "7543",
+    "region": null,
+    "latitude": 50.6448922,
+    "longitude": 3.4235927999999998,
+    "phone": "0475 28 37 57",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chez%20Arno&query_place_id=ChIJf_OO8rYfw0cRRwdE36fGMKc",
+    "open_hours_json": {
+      "Monday": [
+        "Open 24 hours"
+      ],
+      "Tuesday": [
+        "Open 24 hours"
+      ],
+      "Wednesday": [
+        "Open 24 hours"
+      ],
+      "Thursday": [
+        "Open 24 hours"
+      ],
+      "Friday": [
+        "Open 24 hours"
+      ],
+      "Saturday": [
+        "Open 24 hours"
+      ],
+      "Sunday": [
+        "Open 24 hours"
+      ]
+    },
+    "review_count": 28,
+    "rating": 4.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeAbeLGinpkPu-UTCkTzAEXgpqt0JA34WrImAxm11JH3k5JiKkxAE4p0UDVT06LZvLw8yYXdxcPrS6AwUCZx0A-GmEc8zh-W8cn_jEfqVAmkW9_n04xvVtCx7gbCRUwxC3lxg2xSw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeAbeLGinpkPu-UTCkTzAEXgpqt0JA34WrImAxm11JH3k5JiKkxAE4p0UDVT06LZvLw8yYXdxcPrS6AwUCZx0A-GmEc8zh-W8cn_jEfqVAmkW9_n04xvVtCx7gbCRUwxC3lxg2xSw=w1000-h750-no",
+    "source_query": "Fish restaurant in Tournai, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJx4qe84EDLmMRSKEURPoe184",
+    "name": "Chez Bernie",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tournai",
+    "address": "Chez Bernie, Bd Léopold 96, 7500 Tournai",
+    "street": "Bd Léopold 96",
+    "postal_code": "7500",
+    "region": null,
+    "latitude": 50.6113295,
+    "longitude": 3.3775804999999997,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chez%20Bernie&query_place_id=ChIJx4qe84EDLmMRSKEURPoe184",
+    "open_hours_json": null,
+    "review_count": 1,
+    "rating": 5.0,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdeTP0noIl057ZO3Vcz9COIbKVEou5Dj23mzj8WHvfK1NfT6jYjpLx3s5lYAizUMuHEXsUsz105gi-6GlTdtoyzHtEoFvirH9UT20QYo1U7StVqAIn248P5cFFsyfuFOc3XGThIeg-6CM9L=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdeTP0noIl057ZO3Vcz9COIbKVEou5Dj23mzj8WHvfK1NfT6jYjpLx3s5lYAizUMuHEXsUsz105gi-6GlTdtoyzHtEoFvirH9UT20QYo1U7StVqAIn248P5cFFsyfuFOc3XGThIeg-6CM9L=w1000-h750-no",
+    "source_query": "Hypermarket in Tournai, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJearLbgDfwkcRSWQyTUfpKgU",
+    "name": "Chez Charlotte",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tournai",
+    "address": "Chez Charlotte, Rue Dorez 5, 7500 Tournai",
+    "street": "Rue Dorez 5",
+    "postal_code": "7500",
+    "region": null,
+    "latitude": 50.6066776,
+    "longitude": 3.3831909,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chez%20Charlotte&query_place_id=ChIJearLbgDfwkcRSWQyTUfpKgU",
+    "open_hours_json": null,
+    "review_count": 3,
+    "rating": 4.3,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=SuYJsFoNHyQlMTRC_fWRXQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=18.085033&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=SuYJsFoNHyQlMTRC_fWRXQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=18.085033&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Hypermarket in Tournai, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJO2Ds2t_fwkcRUvBXCZKvXaw",
+    "name": "Chez Marie",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tournai",
+    "address": "Chez Marie, Quai des marchés au poissons tournai, Quai du Marché au Poisson 6, 7500 Tournai",
+    "street": "Quai des marchés au poissons tournai, Quai du Marché au Poisson 6",
+    "postal_code": "7500",
+    "region": null,
+    "latitude": 50.6078858,
+    "longitude": 3.3911298,
+    "phone": "0475 28 66 05",
+    "website": "https://weiny.top/chez-marie-2",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chez%20Marie&query_place_id=ChIJO2Ds2t_fwkcRUvBXCZKvXaw",
+    "open_hours_json": {
+      "Monday": [
+        "12–2 pm"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "12–2 pm"
+      ],
+      "Friday": [
+        "12–2 pm",
+        "7–9 pm"
+      ],
+      "Saturday": [
+        "12:03–2 pm",
+        "7–9 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 160,
+    "rating": 4.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeEqn1THnUf_U1R0_DZLCTscFsCwcf4wr86OG6yY6AjZ1y0Op8T2mgTHOVVqyixT-7XqKlbpDaz4oS0E3rlWFaE6gOpiTsIwmiAyrm8YshWaypzk_RSlY4tLvzNAztTHO9M218=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeEqn1THnUf_U1R0_DZLCTscFsCwcf4wr86OG6yY6AjZ1y0Op8T2mgTHOVVqyixT-7XqKlbpDaz4oS0E3rlWFaE6gOpiTsIwmiAyrm8YshWaypzk_RSlY4tLvzNAztTHO9M218=w1000-h750-no",
+    "source_query": "Fish restaurant in Tournai, Wallonia, BE",
     "moderation_status": "approved",
     "is_active": true,
     "verification_status": "UNVERIFIED",
