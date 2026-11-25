@@ -1,5 +1,1370 @@
 [
   {
+    "place_id": "ChIJobEn8CNRw0cRiGpVbBAGxN0",
+    "name": "De Versmarkt",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Bruges",
+    "address": "De Versmarkt, Gistelse Steenweg 94, 8200 Brugge",
+    "street": "Gistelse Steenweg 94",
+    "postal_code": "8200",
+    "region": null,
+    "latitude": 51.2029721,
+    "longitude": 3.2049431,
+    "phone": "050 39 35 79",
+    "website": "https://www.instagram.com/deversmarktbrugge/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=De%20Versmarkt&query_place_id=ChIJobEn8CNRw0cRiGpVbBAGxN0",
+    "open_hours_json": {
+      "Monday": [
+        "8 am–12:30 pm",
+        "2–6:30 pm"
+      ],
+      "Tuesday": [
+        "8 am–12:30 pm",
+        "2–6:30 pm"
+      ],
+      "Wednesday": [
+        "8 am–12:30 pm"
+      ],
+      "Thursday": [
+        "8 am–12:30 pm",
+        "2–6:30 pm"
+      ],
+      "Friday": [
+        "8 am–12:30 pm",
+        "2–6:30 pm"
+      ],
+      "Saturday": [
+        "8 am–12:30 pm",
+        "2–6 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 142,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfGLb50aYpVuVBQ7LETxAew5-vlGumqx4L6WV2kaA1jaU7IAMoBDw8lI0h1r0-bW2VAmOW1PsRnTc-glqdkRRKtffX6g3Sdh2pNaz9lvzBdoAeykESPaOXG98-d8HieeeGG6eAnjQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfGLb50aYpVuVBQ7LETxAew5-vlGumqx4L6WV2kaA1jaU7IAMoBDw8lI0h1r0-bW2VAmOW1PsRnTc-glqdkRRKtffX6g3Sdh2pNaz9lvzBdoAeykESPaOXG98-d8HieeeGG6eAnjQ=w1000-h750-no",
+    "source_query": "Hypermarket in Sint-Michiels, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJlQiv79hQw0cRwPaokIZnByM",
+    "name": "De Winter / Danny",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Bruges",
+    "address": "De Winter / Danny, Smedenstraat 41, 8000 Brugge",
+    "street": "Smedenstraat 41",
+    "postal_code": "8000",
+    "region": null,
+    "latitude": 51.2052099,
+    "longitude": 3.2146502999999997,
+    "phone": "050 34 41 45",
+    "website": "http://www.jamjam.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=De%20Winter%20%2F%20Danny&query_place_id=ChIJlQiv79hQw0cRwPaokIZnByM",
+    "open_hours_json": {
+      "Monday": [
+        "10 am–7 pm"
+      ],
+      "Tuesday": [
+        "10 am–7 pm"
+      ],
+      "Wednesday": [
+        "10 am–7 pm"
+      ],
+      "Thursday": [
+        "10 am–7 pm"
+      ],
+      "Friday": [
+        "10 am–7 pm"
+      ],
+      "Saturday": [
+        "10 am–7 pm"
+      ],
+      "Sunday": [
+        "10 am–12:30 pm"
+      ]
+    },
+    "review_count": 3,
+    "rating": 5.0,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_YK403zntqJBVbydajopKw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=131.77722&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_YK403zntqJBVbydajopKw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=131.77722&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Hypermarket in Brugge, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJVfQSxMRQw0cR6I5wVGPTcFo",
+    "name": "Den Gouden Harynck",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Bruges",
+    "address": "Den Gouden Harynck, Groeninge 25, 8000 Brugge",
+    "street": "Groeninge 25",
+    "postal_code": "8000",
+    "region": null,
+    "latitude": 51.2049047,
+    "longitude": 3.2257808999999997,
+    "phone": "050 33 76 37",
+    "website": "https://www.goudenharynck.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Den%20Gouden%20Harynck&query_place_id=ChIJVfQSxMRQw0cR6I5wVGPTcFo",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "7–8:30 pm"
+      ],
+      "Wednesday": [
+        "12–1 pm",
+        "7–8:30 pm"
+      ],
+      "Thursday": [
+        "12–1 pm",
+        "7–8:30 pm"
+      ],
+      "Friday": [
+        "12–1 pm",
+        "7–8:30 pm"
+      ],
+      "Saturday": [
+        "7–8:30 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 207,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdQEC_dMEDCmApH9eTbf7PCmBmVXWmw6FSpBD5tWiRpbEXM5l3lJ_NcBf0QvfxRZGTGkXVe7-XR48Feyz0J_3ptQEbD3zzL-Y3E23C1iZt8uopa6Th_Wf7QYJv_1Rf4tsDwYhD1=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdQEC_dMEDCmApH9eTbf7PCmBmVXWmw6FSpBD5tWiRpbEXM5l3lJ_NcBf0QvfxRZGTGkXVe7-XR48Feyz0J_3ptQEbD3zzL-Y3E23C1iZt8uopa6Th_Wf7QYJv_1Rf4tsDwYhD1=w1000-h750-no",
+    "source_query": "Halal restaurant in Brugge, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJc5fzeMVQw0cRcGV6Ht16JvA",
+    "name": "Den Gouden Karpel",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Bruges",
+    "address": "Den Gouden Karpel, Vismarkt 9, 8000 Brugge",
+    "street": "Vismarkt 9",
+    "postal_code": "8000",
+    "region": null,
+    "latitude": 51.2078044,
+    "longitude": 3.2280157999999997,
+    "phone": "050 33 34 94",
+    "website": "http://www.dengoudenkarpel.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Den%20Gouden%20Karpel&query_place_id=ChIJc5fzeMVQw0cRcGV6Ht16JvA",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "12–2 pm",
+        "6:30–9 pm"
+      ],
+      "Wednesday": [
+        "12–2 pm",
+        "6:30–9 pm"
+      ],
+      "Thursday": [
+        "12–2 pm",
+        "6:30–9 pm"
+      ],
+      "Friday": [
+        "12–2 pm",
+        "6:30–9 pm"
+      ],
+      "Saturday": [
+        "12–2 pm",
+        "6:30–9 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 444,
+    "rating": 4.1,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc0fAvvF3VE4q7-cvoX1mHARXr7W9JOamr5P5xC-7lZdgBpBU2qrncM75INmli8I9SHCfzyE8M1kfzoxthKRopKoGi8rMBWQyzMJy2iuJvXJTclggZGkpfm7YFT7OtljnDI7sI=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc0fAvvF3VE4q7-cvoX1mHARXr7W9JOamr5P5xC-7lZdgBpBU2qrncM75INmli8I9SHCfzyE8M1kfzoxthKRopKoGi8rMBWQyzMJy2iuJvXJTclggZGkpfm7YFT7OtljnDI7sI=w1000-h750-no",
+    "source_query": "Halal restaurant in Brugge, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJc4epgNBQw0cRgZ7yoWpxKSQ",
+    "name": "Diksmuids Boterhuis",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Bruges",
+    "address": "Diksmuids Boterhuis, Geldmuntstraat 23, 8000 Brugge",
+    "street": "Geldmuntstraat 23",
+    "postal_code": "8000",
+    "region": null,
+    "latitude": 51.208783399999994,
+    "longitude": 3.2220451999999997,
+    "phone": "050 33 32 43",
+    "website": "http://www.diksmuidsboterhuis.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Diksmuids%20Boterhuis&query_place_id=ChIJc4epgNBQw0cRgZ7yoWpxKSQ",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "10 am–12:30 pm",
+        "2–6 pm"
+      ],
+      "Wednesday": [
+        "10 am–12:30 pm",
+        "2–6 pm"
+      ],
+      "Thursday": [
+        "10 am–12:30 pm",
+        "2–6 pm"
+      ],
+      "Friday": [
+        "10 am–12:30 pm",
+        "2–6 pm"
+      ],
+      "Saturday": [
+        "10 am–12:30 pm",
+        "2–6 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 54,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc2_OMkHi8_6nRlP832fxSQ0EaEL3Wg1NDQJAYA9d53N23OhSzu0MgwdrIY2yHBrR2x681Lo631ocCIH5k-5kh6cr40owMtNTo7HzkpPHMNaeVAIwEHhDXYylFjxqas4nCzxTgF=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc2_OMkHi8_6nRlP832fxSQ0EaEL3Wg1NDQJAYA9d53N23OhSzu0MgwdrIY2yHBrR2x681Lo631ocCIH5k-5kh6cr40owMtNTo7HzkpPHMNaeVAIwEHhDXYylFjxqas4nCzxTgF=w1000-h750-no",
+    "source_query": "Hypermarket in Brugge, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJeWC7YedQw0cRb5yEe9WISgU",
+    "name": "Domino's Pizza Brugge",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Bruges",
+    "address": "Domino's Pizza Brugge, Stationsplein 8, 8000 Brugge",
+    "street": "Stationsplein 8",
+    "postal_code": "8000",
+    "region": null,
+    "latitude": 51.1975765,
+    "longitude": 3.2195329,
+    "phone": "050 30 03 15",
+    "website": "https://www.dominos.be/?utm_source=google&utm_medium=local&utm_campaign=yext",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domino%27s%20Pizza%20Brugge&query_place_id=ChIJeWC7YedQw0cRb5yEe9WISgU",
+    "open_hours_json": {
+      "Monday": [
+        "11 am–10 pm"
+      ],
+      "Tuesday": [
+        "11 am–10 pm"
+      ],
+      "Wednesday": [
+        "11 am–10 pm"
+      ],
+      "Thursday": [
+        "11 am–10 pm"
+      ],
+      "Friday": [
+        "11 am–10 pm"
+      ],
+      "Saturday": [
+        "11 am–10 pm"
+      ],
+      "Sunday": [
+        "11 am–10 pm"
+      ]
+    },
+    "review_count": 1112,
+    "rating": 3.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeKMqua7bUHRal98-pEBEzqnp2nC4KsCDmn1GKZ6JZ9N_ngDOdvqGHcNez_HjmhVqDBbtBIEyiZV_LsCeIs1pwWbeKlW0aI7_i4PtVthyT-X4SCZ9_FNYJOMLBYme-TFW3aNLal_Q=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeKMqua7bUHRal98-pEBEzqnp2nC4KsCDmn1GKZ6JZ9N_ngDOdvqGHcNez_HjmhVqDBbtBIEyiZV_LsCeIs1pwWbeKlW0aI7_i4PtVthyT-X4SCZ9_FNYJOMLBYme-TFW3aNLal_Q=w1000-h750-no",
+    "source_query": "Halal restaurant in Brugge, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJK0kKorZQw0cRZFjoPgSGaTg",
+    "name": "Dupty Food Winkel",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Bruges",
+    "address": "Dupty Food Winkel, Moerkerkse Steenweg 21, 8310 Brugge",
+    "street": "Moerkerkse Steenweg 21",
+    "postal_code": "8310",
+    "region": null,
+    "latitude": 51.2127321,
+    "longitude": 3.2426890999999998,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Dupty%20Food%20Winkel&query_place_id=ChIJK0kKorZQw0cRZFjoPgSGaTg",
+    "open_hours_json": {
+      "Monday": [
+        "6 pm–1 am"
+      ],
+      "Tuesday": [
+        "6 pm–1 am"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "6 pm–1 am"
+      ],
+      "Friday": [
+        "6 pm–2 am"
+      ],
+      "Saturday": [
+        "6 pm–2 am"
+      ],
+      "Sunday": [
+        "6 pm–1 am"
+      ]
+    },
+    "review_count": 31,
+    "rating": 2.7,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=GECiG0oZShgaUmoGuSlkfg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=195.32909&pitch=1.4360446&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=GECiG0oZShgaUmoGuSlkfg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=195.32909&pitch=1.4360446&thumbfov=w1000-h750-no",
+    "source_query": "Hypermarket in Sint-Kruis, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJYxUuSMNQw0cR8K3Ik7XmW5M",
+    "name": "Délice Brugge",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Bruges",
+    "address": "Délice Brugge, Wijngaardstraat 21, 8000 Brugge",
+    "street": "Wijngaardstraat 21",
+    "postal_code": "8000",
+    "region": null,
+    "latitude": 51.201872099999996,
+    "longitude": 3.225014,
+    "phone": "050 33 16 49",
+    "website": "http://www.delicebrugge.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=D%C3%A9lice%20Brugge&query_place_id=ChIJYxUuSMNQw0cR8K3Ik7XmW5M",
+    "open_hours_json": {
+      "Monday": [
+        "11 am–9:30 pm"
+      ],
+      "Tuesday": [
+        "11 am–9:30 pm"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "11 am–9:30 pm"
+      ],
+      "Friday": [
+        "11 am–9:30 pm"
+      ],
+      "Saturday": [
+        "11 am–9:30 pm"
+      ],
+      "Sunday": [
+        "11 am–9:30 pm"
+      ]
+    },
+    "review_count": 1416,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfD6veTcg3NWyYg9wsdZNbViaY2mlUMeLXU3XPvlGfvSglYP7UzW8D7NmHZTzjpXKrJufOSKqD9F7OLiQrKG_zjn28KBu2qA4Ug3f3ZnWUJU2FZ04DhRbtZRuAP6mxYMk6-XMJs=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfD6veTcg3NWyYg9wsdZNbViaY2mlUMeLXU3XPvlGfvSglYP7UzW8D7NmHZTzjpXKrJufOSKqD9F7OLiQrKG_zjn28KBu2qA4Ug3f3ZnWUJU2FZ04DhRbtZRuAP6mxYMk6-XMJs=w1000-h750-no",
+    "source_query": "Halal restaurant in Brugge, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJAVApCMfXVA0Rw_JwtrNRtPg",
+    "name": "E.Leclerc BRUGES",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "FR",
+    "country_code": "FR",
+    "city": "Bruges",
+    "address": "E.Leclerc BRUGES, 427 Rte du Médoc, 33520 Bruges",
+    "street": "427 Rte du Médoc",
+    "postal_code": "33520",
+    "region": null,
+    "latitude": 44.8756292,
+    "longitude": -0.6185223999999999,
+    "phone": "05 56 16 10 00",
+    "website": "https://e.leclerc/mag/e-leclerc-bruges",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=E.Leclerc%20BRUGES&query_place_id=ChIJAVApCMfXVA0Rw_JwtrNRtPg",
+    "open_hours_json": {
+      "Monday": [
+        "8:30 am–8 pm"
+      ],
+      "Tuesday": [
+        "8:30 am–8 pm"
+      ],
+      "Wednesday": [
+        "8:30 am–8 pm"
+      ],
+      "Thursday": [
+        "8:30 am–8 pm"
+      ],
+      "Friday": [
+        "8:30 am–8 pm"
+      ],
+      "Saturday": [
+        "8:30 am–8 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 4800,
+    "rating": 3.9,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdRvBmviZg1LdD5Hj7KC_LXkjhWaV5KMnJVJ8NBHaoEhhH-RmFnGkS5QVPz9z3f3zrFCqaSsUI8rzdCMqU9GcL8DhgMxYbVlOlNVSBuVRP2I2rnJwifibENEa108qbs1Ewgu4I=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdRvBmviZg1LdD5Hj7KC_LXkjhWaV5KMnJVJ8NBHaoEhhH-RmFnGkS5QVPz9z3f3zrFCqaSsUI8rzdCMqU9GcL8DhgMxYbVlOlNVSBuVRP2I2rnJwifibENEa108qbs1Ewgu4I=w1000-h750-no",
+    "source_query": "Hypermarket in Bruges, New Aquitaine, FR",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJTfrKGtTXVA0RQ0a1H6wiS14",
+    "name": "E.Leclerc Bruges Jean Pommies",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "FR",
+    "country_code": "FR",
+    "city": "Bruges",
+    "address": "E.Leclerc Bruges Jean Pommies, 4 Rue Jean Pommiès, 33520 Bruges",
+    "street": "4 Rue Jean Pommiès",
+    "postal_code": "33520",
+    "region": null,
+    "latitude": 44.8745876,
+    "longitude": -0.5825999,
+    "phone": "05 56 39 24 01",
+    "website": "https://www.e.leclerc/mag/e-leclerc-bruges-jean-pommies",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=E.Leclerc%20Bruges%20Jean%20Pommies&query_place_id=ChIJTfrKGtTXVA0RQ0a1H6wiS14",
+    "open_hours_json": {
+      "Monday": [
+        "8:30 am–8 pm"
+      ],
+      "Tuesday": [
+        "8:30 am–8 pm"
+      ],
+      "Wednesday": [
+        "8:30 am–8 pm"
+      ],
+      "Thursday": [
+        "8:30 am–8 pm"
+      ],
+      "Friday": [
+        "8:30 am–8 pm"
+      ],
+      "Saturday": [
+        "8:30 am–8 pm"
+      ],
+      "Sunday": [
+        "9 am–12:30 pm"
+      ]
+    },
+    "review_count": 693,
+    "rating": 4.1,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdrqfZvMRK5gRH6TYnG1WqnznsGIaJhFx8SzuTkFndPeABUjASXJy_aZPz-2RQv1eOAn__t0TuuBIo7gVEkTM-1nMBzSOfKvClffbzo1LGi13eRoGkknnEc7kq9dols7NgU_c0j=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdrqfZvMRK5gRH6TYnG1WqnznsGIaJhFx8SzuTkFndPeABUjASXJy_aZPz-2RQv1eOAn__t0TuuBIo7gVEkTM-1nMBzSOfKvClffbzo1LGi13eRoGkknnEc7kq9dols7NgU_c0j=w1000-h750-no",
+    "source_query": "Hypermarket in Bruges, New Aquitaine, FR",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJzVm3YMAA50cR1b5X64EldPw",
+    "name": "E.Leclerc DRIVE Bruges",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "FR",
+    "country_code": "FR",
+    "city": "Bruges",
+    "address": "E.Leclerc DRIVE Bruges, 3 Rue de Campilleau, 33520 Bruges",
+    "street": "3 Rue de Campilleau",
+    "postal_code": "33520",
+    "region": null,
+    "latitude": 44.894444,
+    "longitude": -0.614444,
+    "phone": "05 56 51 77 98",
+    "website": "https://www.leclercdrive.fr/passerelle/passerelle.aspx?param=MAGASIN173301&vue=32",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=E.Leclerc%20DRIVE%20Bruges&query_place_id=ChIJzVm3YMAA50cR1b5X64EldPw",
+    "open_hours_json": {
+      "Monday": [
+        "8:30 am–8 pm"
+      ],
+      "Tuesday": [
+        "8:30 am–8 pm"
+      ],
+      "Wednesday": [
+        "8:30 am–8 pm"
+      ],
+      "Thursday": [
+        "8:30 am–8 pm"
+      ],
+      "Friday": [
+        "8:30 am–8 pm"
+      ],
+      "Saturday": [
+        "8:30 am–8 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 394,
+    "rating": 4.2,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfA_mDhDrISByJf9R1H5MIxb4-oLCTqXeHHB62rabbnJtaUS1wk9Bv7ANFVzm6C8J1Lf60HEfn96pi2G5bqb3LvpiUcjbh2uJrW_Ma34SEJYN2n_smvuF6A6DbzMTLrONFu1PQXgw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfA_mDhDrISByJf9R1H5MIxb4-oLCTqXeHHB62rabbnJtaUS1wk9Bv7ANFVzm6C8J1Lf60HEfn96pi2G5bqb3LvpiUcjbh2uJrW_Ma34SEJYN2n_smvuF6A6DbzMTLrONFu1PQXgw=w1000-h750-no",
+    "source_query": "Hypermarket in Bruges, New Aquitaine, FR",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJRWNSJX9Rw0cRS3_jdYMOpdA",
+    "name": "EAT HOUSE",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Bruges",
+    "address": "〒8000 Brugge, Walplein, EAT HOUSE",
+    "street": "Walplein 19",
+    "postal_code": "8000",
+    "region": null,
+    "latitude": 51.2021477,
+    "longitude": 3.2247350999999997,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=EAT%20HOUSE&query_place_id=ChIJRWNSJX9Rw0cRS3_jdYMOpdA",
+    "open_hours_json": null,
+    "review_count": 50,
+    "rating": 4.1,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfPCiAR15PaebbpiaMo_NDv5jMIYQON0UdpMhWaE0z9R460sDHc4d2cidnLH4WSvaZSrVMUYUEOr7CAhb4UKei0AQ0L7n_uOOCy_oP-ZewcYgMH2rd--E47_rJgr0UdACCpZNY=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfPCiAR15PaebbpiaMo_NDv5jMIYQON0UdpMhWaE0z9R460sDHc4d2cidnLH4WSvaZSrVMUYUEOr7CAhb4UKei0AQ0L7n_uOOCy_oP-ZewcYgMH2rd--E47_rJgr0UdACCpZNY=w1000-h750-no",
+    "source_query": "Halal restaurant in Sint-Kruis, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJkb488NpQw0cRx9FgfkQkBtY",
+    "name": "Ellis Gourmet Burger",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Bruges",
+    "address": "Ellis Gourmet Burger, Simon Stevinplein 14, 8000 Brugge",
+    "street": "Simon Stevinplein 14",
+    "postal_code": "8000",
+    "region": null,
+    "latitude": 51.2063236,
+    "longitude": 3.2227352,
+    "phone": "050 80 00 00",
+    "website": "https://www.ellis.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ellis%20Gourmet%20Burger&query_place_id=ChIJkb488NpQw0cRx9FgfkQkBtY",
+    "open_hours_json": {
+      "Monday": [
+        "11:30 am–9:30 pm"
+      ],
+      "Tuesday": [
+        "11:30 am–9:30 pm"
+      ],
+      "Wednesday": [
+        "11:30 am–9:30 pm"
+      ],
+      "Thursday": [
+        "11:30 am–9:30 pm"
+      ],
+      "Friday": [
+        "11:30 am–10 pm"
+      ],
+      "Saturday": [
+        "11:30 am–10 pm"
+      ],
+      "Sunday": [
+        "11:30 am–9:30 pm"
+      ]
+    },
+    "review_count": 3078,
+    "rating": 4.0,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfQdiATsNS7a3PgOUvuuryJLU4Q2_XDBxPagiYw9YAj-216sOb9JjcYuL1gjuViAR7cTn3dzsObrz6GkV5ChvwA7QVtjBvwSzSb4tvntxXJEsJOqvC_aH69IwOcn20MCKeb0TQ2=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfQdiATsNS7a3PgOUvuuryJLU4Q2_XDBxPagiYw9YAj-216sOb9JjcYuL1gjuViAR7cTn3dzsObrz6GkV5ChvwA7QVtjBvwSzSb4tvntxXJEsJOqvC_aH69IwOcn20MCKeb0TQ2=w1000-h750-no",
+    "source_query": "Halal restaurant in Brugge, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ9QxQRQBRw0cR3xUFj8JGgU4",
+    "name": "Encuentro",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Bruges",
+    "address": "Encuentro, Bargeplein (Katelijnparking, Bargeweg, 8000 Brugge",
+    "street": "Bargeplein (Katelijnparking, Bargeweg",
+    "postal_code": "8000",
+    "region": null,
+    "latitude": 51.1978003,
+    "longitude": 3.2265799,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Encuentro&query_place_id=ChIJ9QxQRQBRw0cR3xUFj8JGgU4",
+    "open_hours_json": null,
+    "review_count": 0,
+    "rating": null,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1coOYbU6iDPetf1Xu4_Lbg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=74.38937&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1coOYbU6iDPetf1Xu4_Lbg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=74.38937&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Hypermarket in Sint-Michiels, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJaUigKKlRw0cRmh4P4QtdMuA",
+    "name": "EnerChi",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Bruges",
+    "address": "EnerChi, August Derrestraat 29, 8310 Brugge",
+    "street": "August Derrestraat 29",
+    "postal_code": "8310",
+    "region": null,
+    "latitude": 51.199954399999996,
+    "longitude": 3.2548684999999997,
+    "phone": "0470 98 31 02",
+    "website": "https://enerchidrinks.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=EnerChi&query_place_id=ChIJaUigKKlRw0cRmh4P4QtdMuA",
+    "open_hours_json": {
+      "Monday": [
+        "9 am–9 pm"
+      ],
+      "Tuesday": [
+        "9 am–9 pm"
+      ],
+      "Wednesday": [
+        "9 am–9 pm"
+      ],
+      "Thursday": [
+        "9 am–9 pm"
+      ],
+      "Friday": [
+        "9 am–9 pm"
+      ],
+      "Saturday": [
+        "9 am–9 pm"
+      ],
+      "Sunday": [
+        "9 am–9 pm"
+      ]
+    },
+    "review_count": 0,
+    "rating": null,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeiyfKASgfoO26mMPJ2UgT4jQ2PkAaR0CH9FuJSqwG4U6t1NPxE9VrFnNpHnElJ20K_ZyuTpbKtmYDu7SlvfU1M0sNXVKEmSAT9H30e0YMwF0nIck-ORAg0vBIsBUaUTM2NT4v9mGtTNdSC=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeiyfKASgfoO26mMPJ2UgT4jQ2PkAaR0CH9FuJSqwG4U6t1NPxE9VrFnNpHnElJ20K_ZyuTpbKtmYDu7SlvfU1M0sNXVKEmSAT9H30e0YMwF0nIck-ORAg0vBIsBUaUTM2NT4v9mGtTNdSC=w1000-h750-no",
+    "source_query": "Hypermarket in Sint-Kruis, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJY1g84zZXw0cRk3U4gaIn4zA",
+    "name": "Etablissementen Verbrugge - Van Oost",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Bruges",
+    "address": "Etablissementen Verbrugge - Van Oost, Pannebekestraat 99, 8000 Brugge",
+    "street": "Pannebekestraat 99",
+    "postal_code": "8000",
+    "region": null,
+    "latitude": 51.2263993,
+    "longitude": 3.235419,
+    "phone": "050 33 29 48",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Etablissementen%20Verbrugge%20-%20Van%20Oost&query_place_id=ChIJY1g84zZXw0cRk3U4gaIn4zA",
+    "open_hours_json": {
+      "Monday": [
+        "8:30 am–7:30 pm"
+      ],
+      "Tuesday": [
+        "8:30 am–7:30 pm"
+      ],
+      "Wednesday": [
+        "8:30 am–7:30 pm"
+      ],
+      "Thursday": [
+        "8:30 am–7:30 pm"
+      ],
+      "Friday": [
+        "8:30 am–7:30 pm"
+      ],
+      "Saturday": [
+        "8:30 am–7:30 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 1,
+    "rating": 1.0,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Vd1HAyege-EjChu8c9bRtQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=23.049751&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Vd1HAyege-EjChu8c9bRtQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=23.049751&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Hypermarket in Sint-Kruis, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJN67T7tpRw0cRRt3a13SNEdo",
+    "name": "Exotic store",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Bruges",
+    "address": "Exotic store, Guido Gezellelaan 3, 8000 Brugge",
+    "street": "Guido Gezellelaan 3",
+    "postal_code": "8000",
+    "region": null,
+    "latitude": 51.2056251,
+    "longitude": 3.2133536,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Exotic%20store&query_place_id=ChIJN67T7tpRw0cRRt3a13SNEdo",
+    "open_hours_json": {
+      "Monday": [
+        "10 am–7 pm"
+      ],
+      "Tuesday": [
+        "10 am–7 pm"
+      ],
+      "Wednesday": [
+        "10 am–7 pm"
+      ],
+      "Thursday": [
+        "10 am–7 pm"
+      ],
+      "Friday": [
+        "10 am–7 pm"
+      ],
+      "Saturday": [
+        "10 am–7 pm"
+      ],
+      "Sunday": [
+        "10 am–1 pm"
+      ]
+    },
+    "review_count": 1,
+    "rating": 5.0,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CtbkYDUC2_qumGjwTNhe6w&cb_client=search.gws-prod.grass&w=80&h=92&yaw=111.269875&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CtbkYDUC2_qumGjwTNhe6w&cb_client=search.gws-prod.grass&w=80&h=92&yaw=111.269875&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Hypermarket in Sint-Michiels, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJg1D6XS9Rw0cRg-wnpeiK5z4",
+    "name": "Family Kitchen",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Bruges",
+    "address": "Family Kitchen, Philipstockstraat 16, 8000 Brugge",
+    "street": "Philipstockstraat 16",
+    "postal_code": "8000",
+    "region": null,
+    "latitude": 51.2094319,
+    "longitude": 3.2259564,
+    "phone": "0486 80 26 22",
+    "website": "https://www.familykitchen.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Family%20Kitchen&query_place_id=ChIJg1D6XS9Rw0cRg-wnpeiK5z4",
+    "open_hours_json": {
+      "Monday": [
+        "11 am–10:30 pm"
+      ],
+      "Tuesday": [
+        "11 am–10:30 pm"
+      ],
+      "Wednesday": [
+        "11 am–10:30 pm"
+      ],
+      "Thursday": [
+        "11 am–10:30 pm"
+      ],
+      "Friday": [
+        "11 am–10:30 pm"
+      ],
+      "Saturday": [
+        "11 am–10:30 pm"
+      ],
+      "Sunday": [
+        "11 am–10:30 pm"
+      ]
+    },
+    "review_count": 368,
+    "rating": 4.1,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcNKdUSYA7zVfjnrNNHn7vqrKOLDF4YgD4l1bxi-M9xqVx-ecDHOmOFpOYXhz9ytlk4POIVUmgRiK7YzcUOyfp5L4UomjKOmK_dCfhCIU2ocK_s6UP0r8RRsTuCZkzGW7UQvE9rlg=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcNKdUSYA7zVfjnrNNHn7vqrKOLDF4YgD4l1bxi-M9xqVx-ecDHOmOFpOYXhz9ytlk4POIVUmgRiK7YzcUOyfp5L4UomjKOmK_dCfhCIU2ocK_s6UP0r8RRsTuCZkzGW7UQvE9rlg=w1000-h750-no",
+    "source_query": "Halal restaurant in Brugge, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJxSrPc9BQw0cRh_S5KOgf4Tg",
+    "name": "Fnac",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Bruges",
+    "address": "Fnac, Markt 18/19, 8000 Bruges",
+    "street": "Markt 18/19",
+    "postal_code": "8000",
+    "region": null,
+    "latitude": 51.208863,
+    "longitude": 3.223591,
+    "phone": "050 47 62 62",
+    "website": "https://www.nl.fnac.be/Brugge/Fnac-Brugge/cl536?utm_source=gmb",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Fnac&query_place_id=ChIJxSrPc9BQw0cRh_S5KOgf4Tg",
+    "open_hours_json": {
+      "Monday": [
+        "10 am–6:30 pm"
+      ],
+      "Tuesday": [
+        "10 am–6:30 pm"
+      ],
+      "Wednesday": [
+        "10 am–6:30 pm"
+      ],
+      "Thursday": [
+        "10 am–6:30 pm"
+      ],
+      "Friday": [
+        "10 am–6:30 pm"
+      ],
+      "Saturday": [
+        "10 am–6:30 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 2143,
+    "rating": 3.9,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfASdvHCr85lPX1KRTbyqkTSFvIgXNNQQI-_eEiDb8X0_AvdiYyW3x9tfObpTFF7taY8C3r0gf36U-joHFKE4favcjr4lzba-qLXpdsDrz0ETVP-1NIOhsZYvrO47lJ0WoCea6yAg=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfASdvHCr85lPX1KRTbyqkTSFvIgXNNQQI-_eEiDb8X0_AvdiYyW3x9tfObpTFF7taY8C3r0gf36U-joHFKE4favcjr4lzba-qLXpdsDrz0ETVP-1NIOhsZYvrO47lJ0WoCea6yAg=w1000-h750-no",
+    "source_query": "Hypermarket in Sint-Kruis, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJj5ldNWVRw0cRXvtr_m1nV9w",
+    "name": "Foodmeezan",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Bruges",
+    "address": "Foodmeezan, Smedenstraat 19, 8000 Brugge",
+    "street": "Smedenstraat 19",
+    "postal_code": "8000",
+    "region": null,
+    "latitude": 51.205502499999994,
+    "longitude": 3.2155880999999997,
+    "phone": "0466 02 81 53",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Foodmeezan&query_place_id=ChIJj5ldNWVRw0cRXvtr_m1nV9w",
+    "open_hours_json": {
+      "Monday": [
+        "8 am–7 pm"
+      ],
+      "Tuesday": [
+        "8 am–7 pm"
+      ],
+      "Wednesday": [
+        "8 am–7 pm"
+      ],
+      "Thursday": [
+        "8 am–7 pm"
+      ],
+      "Friday": [
+        "8 am–7 pm"
+      ],
+      "Saturday": [
+        "8 am–7 pm"
+      ],
+      "Sunday": [
+        "9 am–5 pm"
+      ]
+    },
+    "review_count": 2,
+    "rating": 3.5,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=03kPV40z0_gjqfEA3UhkTw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=172.70245&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=03kPV40z0_gjqfEA3UhkTw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=172.70245&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Hypermarket in Brugge, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJLZ5QSsJQw0cRpcs7wS2yA4g",
+    "name": "Färm Brugge",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Bruges",
+    "address": "Färm Brugge, Generaal Lemanlaan 147, 8310 Brugge",
+    "street": "Generaal Lemanlaan 147",
+    "postal_code": "8310",
+    "region": null,
+    "latitude": 51.2014005,
+    "longitude": 3.2439649999999998,
+    "phone": "050 33 31 37",
+    "website": "https://stores.farm.coop/nl/farm-brugge",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=F%C3%A4rm%20Brugge&query_place_id=ChIJLZ5QSsJQw0cRpcs7wS2yA4g",
+    "open_hours_json": {
+      "Monday": [
+        "9 am–7 pm"
+      ],
+      "Tuesday": [
+        "9 am–7 pm"
+      ],
+      "Wednesday": [
+        "9 am–7 pm"
+      ],
+      "Thursday": [
+        "9 am–7 pm"
+      ],
+      "Friday": [
+        "9 am–7 pm"
+      ],
+      "Saturday": [
+        "9 am–7 pm"
+      ],
+      "Sunday": [
+        "9 am–1 pm"
+      ]
+    },
+    "review_count": 105,
+    "rating": 4.4,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeV6CB1X75no1Yjn6omPwhjqjgDUjfVWbNCitKeK45kszCutdqypmvA6XlxQcM7nTOv7wSJx-GOvtnzGGLKAkfi0Auh6i7-y5GIMwpex0bGoaq1BIUXivZOgojw14rTHYzA7URLygDrhZ0=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeV6CB1X75no1Yjn6omPwhjqjgDUjfVWbNCitKeK45kszCutdqypmvA6XlxQcM7nTOv7wSJx-GOvtnzGGLKAkfi0Auh6i7-y5GIMwpex0bGoaq1BIUXivZOgojw14rTHYzA7URLygDrhZ0=w1000-h750-no",
+    "source_query": "Hypermarket in Sint-Kruis, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJDc43dWpRw0cR8rTql1YlLBs",
+    "name": "GHIZI - Moroccan Cuisine",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Bruges",
+    "address": "GHIZI - Moroccan Cuisine, Jeruzalemstraat 1, 8000 Brugge",
+    "street": "Jeruzalemstraat 1",
+    "postal_code": "8000",
+    "region": null,
+    "latitude": 51.213661699999996,
+    "longitude": 3.2306025,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=GHIZI%20-%20Moroccan%20Cuisine&query_place_id=ChIJDc43dWpRw0cR8rTql1YlLBs",
+    "open_hours_json": null,
+    "review_count": 49,
+    "rating": 4.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLePnTLc5sfS6p3d6I5tATQQWz9zZn11k0pnRXRypJPTp_nYGB5vU5QlT35fgOQjaq9uM6IkisFmQy7KZVZ72NidgYiQFpXI4pblshq9KRoOeuv_nYIKaiHx7jcHjrWNLbfIGzI=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLePnTLc5sfS6p3d6I5tATQQWz9zZn11k0pnRXRypJPTp_nYGB5vU5QlT35fgOQjaq9uM6IkisFmQy7KZVZ72NidgYiQFpXI4pblshq9KRoOeuv_nYIKaiHx7jcHjrWNLbfIGzI=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Sint-Michiels, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJM1e4kq1Qw0cRd-VL6SDO-LY",
+    "name": "GOFFIN",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Bruges",
+    "address": "GOFFIN, Maalse Steenweg 2, 8310 Brugge",
+    "street": "Maalse Steenweg 2",
+    "postal_code": "8310",
+    "region": null,
+    "latitude": 51.211954899999995,
+    "longitude": 3.2417241,
+    "phone": "050 68 77 88",
+    "website": "http://www.timothygoffin.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=GOFFIN&query_place_id=ChIJM1e4kq1Qw0cRd-VL6SDO-LY",
+    "open_hours_json": {
+      "Monday": [
+        "12–1 pm",
+        "7–7:30 pm"
+      ],
+      "Tuesday": [
+        "12–1 pm",
+        "7–7:30 pm"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "12–1 pm",
+        "7–7:30 pm"
+      ],
+      "Friday": [
+        "12–1 pm",
+        "7–7:30 pm"
+      ],
+      "Saturday": [
+        "7–7:30 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 254,
+    "rating": 4.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfNOPGk4Eswu41vIliL3HXG-RYGABz8s-r6IbOuUYTKRgQXrXnJBJYV2ey76DuefMTYi97dK4Jx8tX32K9WD8mBtbtToltTKxOzZawG103szUauToELYHAPcwh3soqMncLuu3E1VQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfNOPGk4Eswu41vIliL3HXG-RYGABz8s-r6IbOuUYTKRgQXrXnJBJYV2ey76DuefMTYi97dK4Jx8tX32K9WD8mBtbtToltTKxOzZawG103szUauToELYHAPcwh3soqMncLuu3E1VQ=w1000-h750-no",
+    "source_query": "Halal restaurant in Sint-Kruis, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJmzeQtprXVA0RBopiOSojLDQ",
+    "name": "GUSTO",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "FR",
+    "country_code": "FR",
+    "city": "Bruges",
+    "address": "GUSTO, 92 Av. Charles de Gaulle, 33520 Bruges",
+    "street": "92 Av. Charles de Gaulle",
+    "postal_code": "33520",
+    "region": null,
+    "latitude": 44.880952799999996,
+    "longitude": -0.6134841,
+    "phone": "05 56 96 52 03",
+    "website": "https://www.facebook.com/profile.php?id=61564387870204",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=GUSTO&query_place_id=ChIJmzeQtprXVA0RBopiOSojLDQ",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "11:45 am–2:30 pm"
+      ],
+      "Wednesday": [
+        "11:45 am–2:30 pm"
+      ],
+      "Thursday": [
+        "11:45 am–2:30 pm",
+        "7:45–10:30 pm"
+      ],
+      "Friday": [
+        "11:45 am–2:30 pm",
+        "7:45–10:30 pm"
+      ],
+      "Saturday": [
+        "11:45 am–2:30 pm",
+        "7:45–10:30 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 393,
+    "rating": 4.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcqOR9QUD3IZYNLFihwky_KPQ-aF_OQ4zVdXIIJTQbGZbfedG0zlybNjifRwCW9qbe6ZiAfaO2t21ukQM8Cyr5qiX4JrOGXpdxPWUebA396sTSartJbHzn3U_vaVfQxGq1ybmjN=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcqOR9QUD3IZYNLFihwky_KPQ-aF_OQ4zVdXIIJTQbGZbfedG0zlybNjifRwCW9qbe6ZiAfaO2t21ukQM8Cyr5qiX4JrOGXpdxPWUebA396sTSartJbHzn3U_vaVfQxGq1ybmjN=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Bruges, New Aquitaine, FR",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJQQBJOtNRw0cR4yKkH0AEDQs",
+    "name": "General winkel",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Bruges",
+    "address": "General winkel, Generaal Lemanlaan 58, 8310 Brugge",
+    "street": "Generaal Lemanlaan 58",
+    "postal_code": "8310",
+    "region": null,
+    "latitude": 51.2020353,
+    "longitude": 3.2370224999999997,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=General%20winkel&query_place_id=ChIJQQBJOtNRw0cR4yKkH0AEDQs",
+    "open_hours_json": {
+      "Monday": [
+        "3–10 pm"
+      ],
+      "Tuesday": [
+        "3–10 pm"
+      ],
+      "Wednesday": [
+        "3–10 pm"
+      ],
+      "Thursday": [
+        "3–10 pm"
+      ],
+      "Friday": [
+        "3–10 pm"
+      ],
+      "Saturday": [
+        "3–10 pm"
+      ],
+      "Sunday": [
+        "10 am–10 pm"
+      ]
+    },
+    "review_count": 36,
+    "rating": 4.9,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeq15EmAAsYnsSBkFr8VTBU2dbLtjV0_XJKUFgOrqNNzyvV46_xuMb6mA6SWyMu4XKti5YuPqyetWF47_NOZHMmixDDPq9vQAsSVoWyFzVIk_ckZWoY-CHjZq3XZd_K3fUdgp-9ng=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeq15EmAAsYnsSBkFr8VTBU2dbLtjV0_XJKUFgOrqNNzyvV46_xuMb6mA6SWyMu4XKti5YuPqyetWF47_NOZHMmixDDPq9vQAsSVoWyFzVIk_ckZWoY-CHjZq3XZd_K3fUdgp-9ng=w1000-h750-no",
+    "source_query": "Hypermarket in Sint-Michiels, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJDwTBXwBRw0cRnb16HeXGVjI",
+    "name": "Gistelsesteenweg carefour",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Bruges",
+    "address": "Gistelsesteenweg carefour, Geldmuntstraat, 8000 Brugge",
+    "street": "Geldmuntstraat",
+    "postal_code": "8000",
+    "region": null,
+    "latitude": 51.2087526,
+    "longitude": 3.2217018,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Gistelsesteenweg%20carefour&query_place_id=ChIJDwTBXwBRw0cRnb16HeXGVjI",
+    "open_hours_json": null,
+    "review_count": 0,
+    "rating": null,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9kGSWlBg5IKCwQccvhzvPg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=340.17206&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9kGSWlBg5IKCwQccvhzvPg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=340.17206&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Hypermarket in Sint-Kruis, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJT6Tier5Rw0cRODwJIKittSQ",
+    "name": "Go.fre | Belgian waffles on a stick",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Bruges",
+    "address": "Go.fre | Belgian waffles on a stick, Breidelstraat 11, 8000 Brugge",
+    "street": "Breidelstraat 11",
+    "postal_code": "8000",
+    "region": null,
+    "latitude": 51.2085808,
+    "longitude": 3.2258345999999998,
+    "phone": null,
+    "website": "https://www.gofre.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Go.fre%20%7C%20Belgian%20waffles%20on%20a%20stick&query_place_id=ChIJT6Tier5Rw0cRODwJIKittSQ",
+    "open_hours_json": {
+      "Monday": [
+        "10 am–7 pm"
+      ],
+      "Tuesday": [
+        "10 am–7 pm"
+      ],
+      "Wednesday": [
+        "10 am–7 pm"
+      ],
+      "Thursday": [
+        "10 am–7 pm"
+      ],
+      "Friday": [
+        "10 am–9 pm"
+      ],
+      "Saturday": [
+        "10 am–10 pm"
+      ],
+      "Sunday": [
+        "10 am–7 pm"
+      ]
+    },
+    "review_count": 1081,
+    "rating": 4.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdguDN1si8A5QZ0sXe8o7bb2VFXE5gcl0jx6cn5MWzYUxa064PW2ijHh23chFE-CDrwh40woHZTboBCU3M6hJ9I-wfdUY6-VNGEgppEUiBVnAhbR-5DA5Ux1XTJNuzhupcl-nxB=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdguDN1si8A5QZ0sXe8o7bb2VFXE5gcl0jx6cn5MWzYUxa064PW2ijHh23chFE-CDrwh40woHZTboBCU3M6hJ9I-wfdUY6-VNGEgppEUiBVnAhbR-5DA5Ux1XTJNuzhupcl-nxB=w1000-h750-no",
+    "source_query": "Halal restaurant in Brugge, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ-WZXzdtQw0cR9e0xr3Yem6Q",
+    "name": "Gran kaffee de Passage",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Bruges",
+    "address": "Gran kaffee de Passage, Dweersstraat 26, 8000 Brugge",
+    "street": "Dweersstraat 26",
+    "postal_code": "8000",
+    "region": null,
+    "latitude": 51.2059247,
+    "longitude": 3.2193441999999997,
+    "phone": "050 34 02 32",
+    "website": "http://www.passagebruges.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Gran%20kaffee%20de%20Passage&query_place_id=ChIJ-WZXzdtQw0cR9e0xr3Yem6Q",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "5:30–10 pm"
+      ],
+      "Wednesday": [
+        "5:30–10 pm"
+      ],
+      "Thursday": [
+        "5:30–10 pm"
+      ],
+      "Friday": [
+        "5:30–11 pm"
+      ],
+      "Saturday": [
+        "12–11 pm"
+      ],
+      "Sunday": [
+        "5:30–10 pm"
+      ]
+    },
+    "review_count": 764,
+    "rating": 4.4,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdsCeapYwdaJmsiaZhVAAdPt20-B80280CPoo3MC6XYQHzvlmKjTX0c8_DP75EqsGr0Itv6aysDJjIhcRUXAFN9c2Dyw-W3JgQ_XSIT8Si8bKyfFm1rFuIxw5uXQMc2g_LNWrIOcw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdsCeapYwdaJmsiaZhVAAdPt20-B80280CPoo3MC6XYQHzvlmKjTX0c8_DP75EqsGr0Itv6aysDJjIhcRUXAFN9c2Dyw-W3JgQ_XSIT8Si8bKyfFm1rFuIxw5uXQMc2g_LNWrIOcw=w1000-h750-no",
+    "source_query": "Halal restaurant in Brugge, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJr-HA1NVRw0cRE58xEGy-dX8",
+    "name": "Green 73",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Bruges",
+    "address": "Green 73, Langestraat 73, 8000 Bruges",
+    "street": "Langestraat 73",
+    "postal_code": "8000",
+    "region": null,
+    "latitude": 51.2106804,
+    "longitude": 3.2355196999999998,
+    "phone": "0468 04 34 24",
+    "website": "https://green-73.risesitelab.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Green%2073&query_place_id=ChIJr-HA1NVRw0cRE58xEGy-dX8",
+    "open_hours_json": null,
+    "review_count": 41,
+    "rating": 4.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfd9YeOYfSCMmurPAeNe2TYn_o4ORtk4Tagk0hGpUZ04s7UwBpEkj0VxFqm-ZRC-VIPXxXzP6FGCMQxgOFVxwZD1kwu4n-Qo51wi8DRT5xTT6ImbMLGiV_93KSVt79smzySlc53TGPS0eEC=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfd9YeOYfSCMmurPAeNe2TYn_o4ORtk4Tagk0hGpUZ04s7UwBpEkj0VxFqm-ZRC-VIPXxXzP6FGCMQxgOFVxwZD1kwu4n-Qo51wi8DRT5xTT6ImbMLGiV_93KSVt79smzySlc53TGPS0eEC=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Sint-Kruis, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJH3OSYnRXw0cRUXZHxSxGgAM",
     "name": "Groszek Xl",
     "type": "hypermarket",
@@ -5758,8 +7123,8 @@
     "phone": "050 71 00 31",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bera%20Food&query_place_id=ChIJ67QWh0xRw0cRnXbJ6QEt3yY",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLekeadUBLXbjEzNibsNHTCQO4MixLUkdTPsQDwSgV6XgwWlqBbDQT3m0F-wxELqCl3pk31QN1Fwq0MgRtQYrvXC8sHDX-mNjn3kHQfklEKXICmSxm7ViA3j3zJ9IA_5QhyQUfLXlA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLekeadUBLXbjEzNibsNHTCQO4MixLUkdTPsQDwSgV6XgwWlqBbDQT3m0F-wxELqCl3pk31QN1Fwq0MgRtQYrvXC8sHDX-mNjn3kHQfklEKXICmSxm7ViA3j3zJ9IA_5QhyQUfLXlA=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc_LtZK-UD2fdJQvOFtL1emP1U9C_O1uiGckElt5HsmKwjoMARcl2iOK6qiajSoKCSo1qej73Th4uiL0yK-aKvGsRA6WUfqfDsDe7599NJjk9IFDjlQLRte1727Wp1Ct-i5WgjJAQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc_LtZK-UD2fdJQvOFtL1emP1U9C_O1uiGckElt5HsmKwjoMARcl2iOK6qiajSoKCSo1qej73Th4uiL0yK-aKvGsRA6WUfqfDsDe7599NJjk9IFDjlQLRte1727Wp1Ct-i5WgjJAQ=w1000-h750-no",
     "rating": 5.0,
     "review_count": 1,
     "verification_status": "UNVERIFIED",
@@ -6408,8 +7773,8 @@
     "phone": "0487 34 52 95",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Palma%20Burger&query_place_id=ChIJmfhrItBQw0cR3-Pexb8Purw",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLckL8SkJtCCnSDjbWvQrcFepkeDg56hJxpprDgJbr6Urko8m8586afyTr3Kcn0G4TyM2DbVXsngN5dl3LJXrOkvywkGqe8tFp2ZlwDr-7NEj7fTKk2tlNt8apW_CNssWXR0Bw2GqQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLckL8SkJtCCnSDjbWvQrcFepkeDg56hJxpprDgJbr6Urko8m8586afyTr3Kcn0G4TyM2DbVXsngN5dl3LJXrOkvywkGqe8tFp2ZlwDr-7NEj7fTKk2tlNt8apW_CNssWXR0Bw2GqQ=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe8yryasApjL11KJgAwkwv2fkZbbcvtEMhOlIBigE_52plDic-nG-ViG4RvSvoh_OWOBj8OytY15okRVWKPFS7Bn1jSVzIc63bcMyPzRqdZLl7uXQwBIruHN00Oc41WJDQ5zYQ0cg=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe8yryasApjL11KJgAwkwv2fkZbbcvtEMhOlIBigE_52plDic-nG-ViG4RvSvoh_OWOBj8OytY15okRVWKPFS7Bn1jSVzIc63bcMyPzRqdZLl7uXQwBIruHN00Oc41WJDQ5zYQ0cg=w1000-h750-no",
     "rating": 4.1,
     "review_count": 1013,
     "verification_status": "VERIFIED",
@@ -7300,32 +8665,6 @@
     "moderation_status": "approved"
   },
   {
-    "place_id": "ChIJ0WXWbHTDw0cRlcLtECOEaKI",
-    "name": "BBQ Chick'n",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Brussel",
-    "address": "BBQ Chick'n, Pl. Liedts 18, 1030 Bruxelles",
-    "street": "Pl. Liedts 18",
-    "postal_code": "1030",
-    "region": null,
-    "latitude": 50.864354899999995,
-    "longitude": 4.3664988,
-    "phone": "02 245 84 67",
-    "website": "https://www.facebook.com/bbqchickn/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=BBQ%20Chick%27n&query_place_id=ChIJ0WXWbHTDw0cRlcLtECOEaKI",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLebq6K9obYUVpXi_CYCEsuGaEZTAXv5tkcM1u8EpaVzPvjn3ztpwc96gxEFgyMGC6XBMFTsBw26HqhfKWoRfYUnMimpoo_4SWHvTKwyVqvGBL6SyjO02-FEeFxtLmNoghAVT2Hd=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLebq6K9obYUVpXi_CYCEsuGaEZTAXv5tkcM1u8EpaVzPvjn3ztpwc96gxEFgyMGC6XBMFTsBw26HqhfKWoRfYUnMimpoo_4SWHvTKwyVqvGBL6SyjO02-FEeFxtLmNoghAVT2Hd=w1000-h750-no",
-    "rating": 3.8,
-    "review_count": 604,
-    "verification_status": "VERIFIED",
-    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
     "place_id": "ChIJv4J5rEPDw0cRNgRK49S7OgI",
     "name": "BISO NA BISO BOUCHERIE",
     "type": "butcher",
@@ -7368,8 +8707,8 @@
     "phone": "0494 54 00 00",
     "website": "https://boma-restaurant.be/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=BOMA%20Steak%20House%20Halal&query_place_id=ChIJPy_uG7vDw0cRulrziyImS4U",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdmnF1bsrclIr_4D338kMvOQ2UQjMEN7KXMVKTEJ9Hsseo4ZuAI85PltEMYTWm5X-l0TqzMueU4kT4OxQvwlm4S3l3VGrmpB9dQRHRUNTm5i9HigkHpYvNa6iv4Juc9jFqCDzP6=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdmnF1bsrclIr_4D338kMvOQ2UQjMEN7KXMVKTEJ9Hsseo4ZuAI85PltEMYTWm5X-l0TqzMueU4kT4OxQvwlm4S3l3VGrmpB9dQRHRUNTm5i9HigkHpYvNa6iv4Juc9jFqCDzP6=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcBW_e-djBNDmd0v-Q26yFUTeinQk9Yg5NXyQbub3kJwK-fySsqceleKOMrN9r0gQ-XnlCcsjX_OrSwmQBv-knNEAhae07TuFl37Wpqqu-vzpU3hd67xO44gG7Bc6VC7V8YqVtK=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcBW_e-djBNDmd0v-Q26yFUTeinQk9Yg5NXyQbub3kJwK-fySsqceleKOMrN9r0gQ-XnlCcsjX_OrSwmQBv-knNEAhae07TuFl37Wpqqu-vzpU3hd67xO44gG7Bc6VC7V8YqVtK=w1000-h750-no",
     "rating": 3.9,
     "review_count": 2128,
     "verification_status": "VERIFIED",
@@ -7508,32 +8847,6 @@
     "moderation_status": "approved"
   },
   {
-    "place_id": "ChIJz7PNSbzDw0cRtfgqcsmht4U",
-    "name": "Beenhouwerij Rachid",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Brussel",
-    "address": "Beenhouwerij Rachid, Emile Bockstaellaan 67, 1020 Brussel",
-    "street": "Emile Bockstaellaan 67",
-    "postal_code": "1020",
-    "region": null,
-    "latitude": 50.8721323,
-    "longitude": 4.345227599999999,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Beenhouwerij%20Rachid&query_place_id=ChIJz7PNSbzDw0cRtfgqcsmht4U",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfyBcDG8WdM80QzNsP38F1CoZW0451dCQNxBFBV6iB2zk6aJCDuJmYyPa6nOF3mZea3bSsky0B3lu9eJtRVJs2diDWO7FJTRUsUXafAkJf-zuxiCrr9LVe_DP3kDcEaMvey75eA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfyBcDG8WdM80QzNsP38F1CoZW0451dCQNxBFBV6iB2zk6aJCDuJmYyPa6nOF3mZea3bSsky0B3lu9eJtRVJs2diDWO7FJTRUsUXafAkJf-zuxiCrr9LVe_DP3kDcEaMvey75eA=w1000-h750-no",
-    "rating": 4.1,
-    "review_count": 27,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
     "place_id": "ChIJB4b9z3rFw0cRh5bxewbNwuI",
     "name": "Bij Béri Burgers & Ribbekes",
     "type": "restaurant",
@@ -7651,7 +8964,7 @@
     "region": null,
     "latitude": 50.8770163,
     "longitude": 4.349551,
-    "phone": "02 426 89 01",
+    "phone": null,
     "website": "https://www.localservices.be/boutique/boucherie-badr-laeken-boucheries-bruxelles-centre/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boucherie%20Badr%20slagerij&query_place_id=ChIJ38pg2brDw0cRIR95kW7besQ",
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfndfn9XCiyjUs2kRtqzmqa9fRdVBi2D1wvQP07iLfoYjBAPF688GmnXxQC8lgE4hOrSqjvTi4-uLDa47pjZ-8C1qjLLdC86UQAD7vFkLWdSznCVQj2kFxi98xIN6RDkpbS44slN-4boKQ=w1000-h750-no",
@@ -7794,6 +9107,32 @@
     "moderation_status": "approved"
   },
   {
+    "place_id": "ChIJ6TS7irrDw0cReqePxXMYLF4",
+    "name": "Bouziane sprl",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Brussel",
+    "address": "Bouziane sprl, Bd Emile Bockstael 256, 1020 Bruxelles",
+    "street": "Emile Bockstaellaan 256",
+    "postal_code": "1020",
+    "region": null,
+    "latitude": 50.8781367,
+    "longitude": 4.3477193,
+    "phone": "02 424 29 66",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bouziane%20sprl&query_place_id=ChIJ6TS7irrDw0cReqePxXMYLF4",
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=eUbGzJlZ-kCRhJ-Q02dx2A&cb_client=search.gws-prod.grass&w=80&h=92&yaw=267.94077&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=eUbGzJlZ-kCRhJ-Q02dx2A&cb_client=search.gws-prod.grass&w=80&h=92&yaw=267.94077&pitch=0&thumbfov=w1000-h750-no",
+    "rating": 4.0,
+    "review_count": 28,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
     "place_id": "ChIJUb35PgDDw0cRmfmXcX8c6r0",
     "name": "Brussels Grand Masjid (Mosque)",
     "type": "mosque",
@@ -7914,8 +9253,8 @@
     "phone": "02 425 57 72",
     "website": "https://mawaqit.net/fr/chatibi-bruxelles",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Centre%20cultuel%20El-Chatibi&query_place_id=ChIJLymf_rjDw0cRqvyvfxy84DI",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdtRedVIPQhyPQOJod7jNJZuX06NUWSGzoYUVfTL7rq6QoD8ExxWa1C0ol6WwVbSBznsKibWQJQDiC7c3KuOYz-mCaivBBNntppCBFlk2zFRTZTYOvqLtNJ__oIPu5xmB7vo_-x9003_EZP=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdtRedVIPQhyPQOJod7jNJZuX06NUWSGzoYUVfTL7rq6QoD8ExxWa1C0ol6WwVbSBznsKibWQJQDiC7c3KuOYz-mCaivBBNntppCBFlk2zFRTZTYOvqLtNJ__oIPu5xmB7vo_-x9003_EZP=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdt0IH7kj2ExHpDbnpLHlVSJPOj2ue8eldpxzQSGBDu0W-DDWXkQmoPR0KFOgjwNsnHhF3NALt9Qflr8AANxIo1CbKrbboylt_QmWpdykKFvaPYBZ-q-iZY6sS3IL7OaWtNV9Eja-e4nqiW=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdt0IH7kj2ExHpDbnpLHlVSJPOj2ue8eldpxzQSGBDu0W-DDWXkQmoPR0KFOgjwNsnHhF3NALt9Qflr8AANxIo1CbKrbboylt_QmWpdykKFvaPYBZ-q-iZY6sS3IL7OaWtNV9Eja-e4nqiW=w1000-h750-no",
     "rating": 4.6,
     "review_count": 80,
     "verification_status": "UNVERIFIED",
@@ -8284,758 +9623,6 @@
     "review_count": 192,
     "verification_status": "VERIFIED",
     "verification_evidence": "Boucherie Halal",
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJc34YiujFw0cRmKap0Sov7fU",
-    "name": "Heritage Kitchen",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Brussel",
-    "address": "Heritage Kitchen, Koloniënstraat 6, 1000 Brussel",
-    "street": "Koloniënstraat 6",
-    "postal_code": "1000",
-    "region": null,
-    "latitude": 50.8465607,
-    "longitude": 4.3591036999999995,
-    "phone": "0467 62 69 03",
-    "website": "https://www.heritagekitchen.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Heritage%20Kitchen&query_place_id=ChIJc34YiujFw0cRmKap0Sov7fU",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLetJPMUHOBxVNTkjFVtK9LM7Y78pnvZog8nhLGlvi1dW6_ojnJ2tiBChkdJWf76_CU2w8womXP1t8l4-_sBgUtSSJbDuFZ3FU-uQ-z9ygaxBuQetPRFY_QnXssk2Mjh0b6AZ_hVu3XeekQY=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLetJPMUHOBxVNTkjFVtK9LM7Y78pnvZog8nhLGlvi1dW6_ojnJ2tiBChkdJWf76_CU2w8womXP1t8l4-_sBgUtSSJbDuFZ3FU-uQ-z9ygaxBuQetPRFY_QnXssk2Mjh0b6AZ_hVu3XeekQY=w1000-h750-no",
-    "rating": 4.7,
-    "review_count": 184,
-    "verification_status": "VERIFIED",
-    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJz21-cHjEw0cR0pko64fyq9I",
-    "name": "Horia - Oriental Natural Eatery",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Brussel",
-    "address": "Horia - Oriental Natural Eatery, Borgwal 7, 1000 Bruxelles",
-    "street": "Borgval 7",
-    "postal_code": "1000",
-    "region": null,
-    "latitude": 50.847589199999994,
-    "longitude": 4.3483735,
-    "phone": "02 502 08 48",
-    "website": "https://horia.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Horia%20-%20Oriental%20Natural%20Eatery&query_place_id=ChIJz21-cHjEw0cR0pko64fyq9I",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe8D9DFNrYtq2qoPq1JIaQHPmOeUtImVHqfYvo9_js4TvccK92D2L46C7-l6jpU2Jz34gxE46-Ou7UnUwcrPjqbH3wY4di6AhhHLQvLFa5KIDBOKxLCeG7-w0_wPGLUSj3djYRymQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe8D9DFNrYtq2qoPq1JIaQHPmOeUtImVHqfYvo9_js4TvccK92D2L46C7-l6jpU2Jz34gxE46-Ou7UnUwcrPjqbH3wY4di6AhhHLQvLFa5KIDBOKxLCeG7-w0_wPGLUSj3djYRymQ=w1000-h750-no",
-    "rating": 4.7,
-    "review_count": 1489,
-    "verification_status": "VERIFIED",
-    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJiytrHwDDw0cRbNnKAquiqJ8",
-    "name": "IHB Balkan camii (Mosquée Balkan)",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Brussel",
-    "address": "IHB Balkan camii (Mosquée Balkan), Koninginnelaan 164, 1000 Brussel",
-    "street": "Koninginnelaan 164",
-    "postal_code": "1000",
-    "region": null,
-    "latitude": 50.8702701,
-    "longitude": 4.3616168,
-    "phone": "0465 31 57 47",
-    "website": "https://www.facebook.com/share/17eEme8tGZ/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=IHB%20Balkan%20camii%20%28Mosqu%C3%A9e%20Balkan%29&query_place_id=ChIJiytrHwDDw0cRbNnKAquiqJ8",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfcVaJcseAEEENnWQupiDhz9M6nnctmEcV2r_-Kad8_yvaFsdtEFhMa8kYeabMoq64Mx3LK7BefOZ9a26ty2wd51u3tNIJ5KgvbATIDiuZDSNCl18ABXsNNR7S1ikB-uFTexiaz9IK3nKE=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfcVaJcseAEEENnWQupiDhz9M6nnctmEcV2r_-Kad8_yvaFsdtEFhMa8kYeabMoq64Mx3LK7BefOZ9a26ty2wd51u3tNIJ5KgvbATIDiuZDSNCl18ABXsNNR7S1ikB-uFTexiaz9IK3nKE=w1000-h750-no",
-    "rating": 4.4,
-    "review_count": 13,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJE1Vs7-HCw0cRycIFI7luGow",
-    "name": "Islamitisch Cultureel Centrum Arrayane",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Brussel",
-    "address": "Islamitisch Cultureel Centrum Arrayane, a 1120, Rue des Prés Communs 98, 1120 Bruxelles",
-    "street": "a 1120, Rue des Prés Communs 98",
-    "postal_code": "1120",
-    "region": null,
-    "latitude": 50.889097299999996,
-    "longitude": 4.3848161,
-    "phone": null,
-    "website": "http://www.arrayane.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Islamitisch%20Cultureel%20Centrum%20Arrayane&query_place_id=ChIJE1Vs7-HCw0cRycIFI7luGow",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcrYrVZUhK03hHYrEJOOleQKweZ1zTDvmg9k78r4xy65ceax7w9QnBjvVLcWVhds0V1d5cxoql0OpqRbtZjgY5By43ZLDrR5936BSkoAmAAzuOIjB-x_IbFDa9VvOHdPnhvaDvP5Q=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcrYrVZUhK03hHYrEJOOleQKweZ1zTDvmg9k78r4xy65ceax7w9QnBjvVLcWVhds0V1d5cxoql0OpqRbtZjgY5By43ZLDrR5936BSkoAmAAzuOIjB-x_IbFDa9VvOHdPnhvaDvP5Q=w1000-h750-no",
-    "rating": 4.4,
-    "review_count": 142,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJyXhd71nBw0cRPa9tgldqlAc",
-    "name": "Johan & Ria Boucherie Charcuterie Traiteur Sandwicherie",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Brussel",
-    "address": "Johan & Ria Boucherie Charcuterie Traiteur Sandwicherie, Gentsesteenweg 631, 1080 Brussel",
-    "street": "Gentsesteenweg 631",
-    "postal_code": "1080",
-    "region": null,
-    "latitude": 50.86078,
-    "longitude": 4.3054049999999995,
-    "phone": "02 465 48 16",
-    "website": "http://www.johan-ria.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Johan%20%26%20Ria%20Boucherie%20Charcuterie%20Traiteur%20Sandwicherie&query_place_id=ChIJyXhd71nBw0cRPa9tgldqlAc",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfW1tAHg1OUy_9hYtuAGU09O-ZfY8PDKoJ9GcMQK4EBTTwFA6bXK03MYNRsS8db6HGIP7oNABiF4T59KGT_3yIJI_H1HedXHvBE8y5gAlwz5qZKDuwHHo95HyEJ-889sB1alpT_=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfW1tAHg1OUy_9hYtuAGU09O-ZfY8PDKoJ9GcMQK4EBTTwFA6bXK03MYNRsS8db6HGIP7oNABiF4T59KGT_3yIJI_H1HedXHvBE8y5gAlwz5qZKDuwHHo95HyEJ-889sB1alpT_=w1000-h750-no",
-    "rating": 4.1,
-    "review_count": 116,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJ8-zw6IfDw0cRnlP8wGyqcrc",
-    "name": "Kasbah",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Brussel",
-    "address": "Kasbah, Antoine Dansaertstraat 20, 1000 Brussel",
-    "street": "Antoine Dansaertstraat 20",
-    "postal_code": "1000",
-    "region": null,
-    "latitude": 50.8492363,
-    "longitude": 4.347226399999999,
-    "phone": "02 502 40 26",
-    "website": "http://www.lakasbahresto.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kasbah&query_place_id=ChIJ8-zw6IfDw0cRnlP8wGyqcrc",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfPc3ZhnTSDOhACp18Q4Orb1lAIfYBzHQJkiqkVyc8TjIDC-kl8NdY1BBf01HlydSbHl6AWoHcvrq3ImLk6uofspOiArmDc-jFlt83KwA1DWsw2W0-PG_HgpT4lGq_reVJUurVziw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfPc3ZhnTSDOhACp18Q4Orb1lAIfYBzHQJkiqkVyc8TjIDC-kl8NdY1BBf01HlydSbHl6AWoHcvrq3ImLk6uofspOiArmDc-jFlt83KwA1DWsw2W0-PG_HgpT4lGq_reVJUurVziw=w1000-h750-no",
-    "rating": 4.3,
-    "review_count": 1326,
-    "verification_status": "VERIFIED",
-    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJH2ZjCpPEw0cRgFXNvxIAhIk",
-    "name": "Keurslager Jan & Krista",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Brussel",
-    "address": "Keurslager Jan & Krista, Maria Malibranstraat 7, 1050 Brussel",
-    "street": "Maria Malibranstraat 7",
-    "postal_code": "1050",
-    "region": null,
-    "latitude": 50.828885799999995,
-    "longitude": 4.3726079,
-    "phone": "02 648 89 95",
-    "website": "http://www.keurslagerjanenkrista.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Keurslager%20Jan%20%26%20Krista&query_place_id=ChIJH2ZjCpPEw0cRgFXNvxIAhIk",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLegiDdGG_w2XPWA6fIb6BkMHY7bBovB-MCG5sZMik1nzAiCM-yq3mnWxmFVmp0sRfDxHY6RIcJY-8lumeiRAZmn1OQF8HrR-Dx9fIDPBuhQ5auRCXXN8SjpLZs87xBvHViQN06T=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLegiDdGG_w2XPWA6fIb6BkMHY7bBovB-MCG5sZMik1nzAiCM-yq3mnWxmFVmp0sRfDxHY6RIcJY-8lumeiRAZmn1OQF8HrR-Dx9fIDPBuhQ5auRCXXN8SjpLZs87xBvHViQN06T=w1000-h750-no",
-    "rating": 4.3,
-    "review_count": 81,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJ7-CymnzDw0cRwxOTVfsvxYg",
-    "name": "Kumpirhuis",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Brussel",
-    "address": "Kumpirhuis, Leuvensesteenweg 27A, 1210 Brussel",
-    "street": "Leuvensesteenweg 27A",
-    "postal_code": "1210",
-    "region": null,
-    "latitude": 50.849557999999995,
-    "longitude": 4.3711537,
-    "phone": "0492 93 64 99",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kumpirhuis&query_place_id=ChIJ7-CymnzDw0cRwxOTVfsvxYg",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeIDlnVLrOmir8vV6_dH1XsdjQUVka01No5VI6oNqfkts7Xbtz2EaKRZDyV6t71Lx3O5Wi2CPbOATLJcge2fDqCmOUnRsGb793jzBgOnVagUDFeZVS80iBKpQUEUQ-Vc57BdTM2Fw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeIDlnVLrOmir8vV6_dH1XsdjQUVka01No5VI6oNqfkts7Xbtz2EaKRZDyV6t71Lx3O5Wi2CPbOATLJcge2fDqCmOUnRsGb793jzBgOnVagUDFeZVS80iBKpQUEUQ-Vc57BdTM2Fw=w1000-h750-no",
-    "rating": 4.4,
-    "review_count": 494,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJr22HNuTDw0cRFsmsWC-5Vf8",
-    "name": "L'Arganier Brussels",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Brussel",
-    "address": "L'Arganier Brussels, Bd Emile Bockstael 201, 1020 Bruxelles",
-    "street": "Emile Bockstaellaan 201",
-    "postal_code": "1020",
-    "region": null,
-    "latitude": 50.876040499999995,
-    "longitude": 4.3486714,
-    "phone": "0473 11 91 27",
-    "website": "https://larganier.brussels/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=L%27Arganier%20Brussels&query_place_id=ChIJr22HNuTDw0cRFsmsWC-5Vf8",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcjCInAlozZ7MUwtmJUaEZCEuysemxWorhEj9DDzArgdDlUF-5skewezyHe7BquiiNsgaIhnT3a5pEkKkS_hBg96ei6LxczagbfhALZO2iAc1pzXUvnBpik-C6JO4GCP30W4eA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcjCInAlozZ7MUwtmJUaEZCEuysemxWorhEj9DDzArgdDlUF-5skewezyHe7BquiiNsgaIhnT3a5pEkKkS_hBg96ei6LxczagbfhALZO2iAc1pzXUvnBpik-C6JO4GCP30W4eA=w1000-h750-no",
-    "rating": 4.8,
-    "review_count": 619,
-    "verification_status": "VERIFIED",
-    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJ_Z9CMH_Ew0cRDfv1cE-Prb4",
-    "name": "LExpress",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Brussel",
-    "address": "LExpress, Hoedenmakerstraat 8, 1000 Brussel",
-    "street": "Hoedenmakerstraat 8",
-    "postal_code": "1000",
-    "region": null,
-    "latitude": 50.846044299999996,
-    "longitude": 4.352786399999999,
-    "phone": "02 512 88 83",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=LExpress&query_place_id=ChIJ_Z9CMH_Ew0cRDfv1cE-Prb4",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdDJoSdjye_NM83Ge2aONrrnwZ4qBzJH-uNtEtKbvsUxMPKbyLNV_jWA03CRlMpocdhebOeYYpom_-V_cCpVKQFxVAN9JwhkY_SHKCyls_JV-8I32cbQKig5m9JfAX7X-LxGlJVOg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdDJoSdjye_NM83Ge2aONrrnwZ4qBzJH-uNtEtKbvsUxMPKbyLNV_jWA03CRlMpocdhebOeYYpom_-V_cCpVKQFxVAN9JwhkY_SHKCyls_JV-8I32cbQKig5m9JfAX7X-LxGlJVOg=w1000-h750-no",
-    "rating": 4.5,
-    "review_count": 4414,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJQdVm5Ybbw0cRFiOuNwTg27g",
-    "name": "La Passion du Goût",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Brussel",
-    "address": "La Passion du Goût, Rue de l'Eglise 148, 1150 Bruxelles",
-    "street": "Kerkstraat 148",
-    "postal_code": "1150",
-    "region": null,
-    "latitude": 50.840401899999996,
-    "longitude": 4.4660719,
-    "phone": "02 779 05 78",
-    "website": "https://passiondugout.com/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Passion%20du%20Go%C3%BBt&query_place_id=ChIJQdVm5Ybbw0cRFiOuNwTg27g",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcTYLZnAI3vXC0D5bEkCJVSKoPINucrwil9B9sy4rlybibogziYYDbed9thReF2dbCIV9dxGGkAcpirCBboIGZ8cpgYTxjGI-HS39guXi7gfqz0IQD9S_LOQPXW3v9ocsGbj2Dv=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcTYLZnAI3vXC0D5bEkCJVSKoPINucrwil9B9sy4rlybibogziYYDbed9thReF2dbCIV9dxGGkAcpirCBboIGZ8cpgYTxjGI-HS39guXi7gfqz0IQD9S_LOQPXW3v9ocsGbj2Dv=w1000-h750-no",
-    "rating": 4.2,
-    "review_count": 161,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJO-fVGivFw0cRg0SJsbOmtKY",
-    "name": "La crème royale",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Brussel",
-    "address": "La crème royale, Pl. Rouppe 26, 1000 Bruxelles",
-    "street": "Rouppeplein 26",
-    "postal_code": "1000",
-    "region": null,
-    "latitude": 50.842712999999996,
-    "longitude": 4.345247,
-    "phone": "0470 22 69 44",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20cr%C3%A8me%20royale&query_place_id=ChIJO-fVGivFw0cRg0SJsbOmtKY",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc6Vj6qz_-sxqVwZfLy2xGEzMDStcEfvoqh4fpwrOcK-3PpCbjkgkHh5GmFJHhqHKWz9UmHgrOMijzZDyP77DVHRxhT6X6ODT6DsjfLJca_Wil4RNs5x97EsLg8ojZk1y8d93tOju6BaMZX=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc6Vj6qz_-sxqVwZfLy2xGEzMDStcEfvoqh4fpwrOcK-3PpCbjkgkHh5GmFJHhqHKWz9UmHgrOMijzZDyP77DVHRxhT6X6ODT6DsjfLJca_Wil4RNs5x97EsLg8ojZk1y8d93tOju6BaMZX=w1000-h750-no",
-    "rating": 4.2,
-    "review_count": 243,
-    "verification_status": "VERIFIED",
-    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJdx1ltw3Dw0cR5MtGrvbLKDk",
-    "name": "Le Coq Elarabi Sprl",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Brussel",
-    "address": "Le Coq Elarabi Sprl, François-Joseph Navez 64, 1000 Brussel",
-    "street": "François-Joseph Navez 64",
-    "postal_code": "1000",
-    "region": null,
-    "latitude": 50.8717384,
-    "longitude": 4.3724587,
-    "phone": "0487 63 76 36",
-    "website": "https://lecoqelarabi-commande.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Coq%20Elarabi%20Sprl&query_place_id=ChIJdx1ltw3Dw0cR5MtGrvbLKDk",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfy_NsiDbnDqxge4ywIEKENEJYPxXuBlGTvcFxQde5nF9IaKkOgPR5FxPSD6esikzxSd-r8cpH6rxdUDGj2l5YhlUfI_qkWgsG2TYP1tCeFqadiog7vOodAdOw4jMW6AsuAtEo=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfy_NsiDbnDqxge4ywIEKENEJYPxXuBlGTvcFxQde5nF9IaKkOgPR5FxPSD6esikzxSd-r8cpH6rxdUDGj2l5YhlUfI_qkWgsG2TYP1tCeFqadiog7vOodAdOw4jMW6AsuAtEo=w1000-h750-no",
-    "rating": 4.4,
-    "review_count": 9,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJJScg3XDEw0cRuE6rUBNLGmQ",
-    "name": "Le Nil",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Brussel",
-    "address": "Le Nil, Maurice Lemonnierlaan 165, 1000 Brussel",
-    "street": "Maurice Lemonnierlaan 165",
-    "postal_code": "1000",
-    "region": null,
-    "latitude": 50.841953399999994,
-    "longitude": 4.3427643,
-    "phone": "02 513 13 51",
-    "website": "https://le-nil-anderlecht.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Nil&query_place_id=ChIJJScg3XDEw0cRuE6rUBNLGmQ",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf_VzhBqXqOSkQknqNu5JVFScikPn3-njOw1dUhDsV3wSRwCwQV0DkKxS3d06LoYHq-aNrvbpCoLrPiRV6rZIFOUVlnypa_OHcxMj2wu3iNxE0Z64W2PIzhCHeurPdLrz52Qt-63g=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf_VzhBqXqOSkQknqNu5JVFScikPn3-njOw1dUhDsV3wSRwCwQV0DkKxS3d06LoYHq-aNrvbpCoLrPiRV6rZIFOUVlnypa_OHcxMj2wu3iNxE0Z64W2PIzhCHeurPdLrz52Qt-63g=w1000-h750-no",
-    "rating": 4.0,
-    "review_count": 1500,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJAXOSP2LDw0cRQsmMyjgA51Y",
-    "name": "Le P'tit Chouia En +",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Brussel",
-    "address": "Le P'tit Chouia En +, Pacificatiestraat 38, 1000 Brussel",
-    "street": "Pacificatiestraat 38",
-    "postal_code": "1000",
-    "region": null,
-    "latitude": 50.8484276,
-    "longitude": 4.3761367,
-    "phone": "0495 28 69 56",
-    "website": "http://newsites.resto.com/leptitchouiaenplus/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20P%27tit%20Chouia%20En%20%2B&query_place_id=ChIJAXOSP2LDw0cRQsmMyjgA51Y",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd5974JB9tO_Nj5KCWuMHYybo2zUI4Y5ZfUqXsVhjFPqiFYod97lHAsolZs9kHuBiCkd_jR7ucsCgzrzot2Jh2TTTOa3uJjc3Bet1I2oHVY8aTow66UUXxqyCS_Wb01MT3Df4cE8w=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd5974JB9tO_Nj5KCWuMHYybo2zUI4Y5ZfUqXsVhjFPqiFYod97lHAsolZs9kHuBiCkd_jR7ucsCgzrzot2Jh2TTTOa3uJjc3Bet1I2oHVY8aTow66UUXxqyCS_Wb01MT3Df4cE8w=w1000-h750-no",
-    "rating": 4.5,
-    "review_count": 526,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJg_qm-qTDw0cRV6Fd3w7RuMI",
-    "name": "Le Panorama Bar",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Brussel",
-    "address": "Le Panorama Bar, Rue Marie-Christine 217, 1020 Bruxelles",
-    "street": "Maria-Christinastraat 217",
-    "postal_code": "1020",
-    "region": null,
-    "latitude": 50.8772009,
-    "longitude": 4.3489616,
-    "phone": "02 306 00 65",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Panorama%20Bar&query_place_id=ChIJg_qm-qTDw0cRV6Fd3w7RuMI",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdwGTk5LU2H4ufjKAQxyhAq3KVQkY6c8p1bn6r2N_QlEao9laBF6MXsSBYUr0utL-nb2WZ6FUxW_glxE8gqcd5DZWUBpu4zGBOXGfJOkhl8BooUWmjFC2EqlUNOG0MFBdxmTIO7sg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdwGTk5LU2H4ufjKAQxyhAq3KVQkY6c8p1bn6r2N_QlEao9laBF6MXsSBYUr0utL-nb2WZ6FUxW_glxE8gqcd5DZWUBpu4zGBOXGfJOkhl8BooUWmjFC2EqlUNOG0MFBdxmTIO7sg=w1000-h750-no",
-    "rating": 4.2,
-    "review_count": 287,
-    "verification_status": "VERIFIED",
-    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJZ5fTB4rEw0cRckuXpvcj4Ss",
-    "name": "Le Prince",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Brussel",
-    "address": "Le Prince, Charleroise Steenweg 57/59, 1060 Brussel",
-    "street": "Charleroise Steenweg 57/59",
-    "postal_code": "1060",
-    "region": null,
-    "latitude": 50.831579899999994,
-    "longitude": 4.3563363,
-    "phone": "02 534 75 15",
-    "website": "http://www.le-prince.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Prince&query_place_id=ChIJZ5fTB4rEw0cRckuXpvcj4Ss",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeMnBaAbwITM9YmUB_-kamvWTpNWF8k139bZuDN5uHV2cqQCA2OqSZuWIgF2bIyYTui-UTGTBAtVEbsaMDLfc3DVFKVUFjBHHUra2qQC9Z6NJc4q1qfbsqgkfuhMjwDic4BbvX5pw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeMnBaAbwITM9YmUB_-kamvWTpNWF8k139bZuDN5uHV2cqQCA2OqSZuWIgF2bIyYTui-UTGTBAtVEbsaMDLfc3DVFKVUFjBHHUra2qQC9Z6NJc4q1qfbsqgkfuhMjwDic4BbvX5pw=w1000-h750-no",
-    "rating": 4.0,
-    "review_count": 2129,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJmTyTARvEw0cRtVEiWX2igIY",
-    "name": "Le Zee - Restaurant de poissons",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Brussel",
-    "address": "Le Zee - Restaurant de poissons, Rue Wayez 19 Anderlecht, 1070 Brussel",
-    "street": "Rue Wayez 19 Anderlecht",
-    "postal_code": "1070",
-    "region": null,
-    "latitude": 50.8364696,
-    "longitude": 4.3161447,
-    "phone": "0488 41 48 41",
-    "website": "http://lezee.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Zee%20-%20Restaurant%20de%20poissons&query_place_id=ChIJmTyTARvEw0cRtVEiWX2igIY",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "12–11 pm"
-      ],
-      "Wednesday": [
-        "12–11 pm"
-      ],
-      "Thursday": [
-        "12–11 pm"
-      ],
-      "Friday": [
-        "12–11:30 pm"
-      ],
-      "Saturday": [
-        "12–11:30 pm"
-      ],
-      "Sunday": [
-        "12–11 pm"
-      ]
-    },
-    "review_count": 1333,
-    "rating": 4.5,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfoz2gB6xrdABM3ejuMjtR8bxrp0H0BGIjdiinCI6pgs0uduYFn8ROmKmv7y35oeBXK33Q4ufhVVUqyYL4NYdL9NiAfl4Z9A1Ewzka8E1fhFMRH_XezBwczBXQpnYQgqHFbJrEg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfoz2gB6xrdABM3ejuMjtR8bxrp0H0BGIjdiinCI6pgs0uduYFn8ROmKmv7y35oeBXK33Q4ufhVVUqyYL4NYdL9NiAfl4Z9A1Ewzka8E1fhFMRH_XezBwczBXQpnYQgqHFbJrEg=w1000-h750-no",
-    "source_query": "Fish restaurant in Brussels, Brussels Capital, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJQ5TcSWnEw0cR2JvGrsFcBLY",
-    "name": "Ligue Islamique Interculturelle de Belgique Asbl",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Brussel",
-    "address": "Ligue Islamique Interculturelle de Belgique Asbl, Joseph Claesstraat 68, 1060 Brussel",
-    "street": "Joseph Claesstraat 68",
-    "postal_code": "1060",
-    "region": null,
-    "latitude": 50.832375899999995,
-    "longitude": 4.3389606999999994,
-    "phone": null,
-    "website": "https://www.facebook.com/lmbelgique",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ligue%20Islamique%20Interculturelle%20de%20Belgique%20Asbl&query_place_id=ChIJQ5TcSWnEw0cR2JvGrsFcBLY",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc1G9vyyntDrTijM6q0UxXZDbjLVbKZo2OikPJN-3Z1UsMLhqCu-t-buHzy_CxRHTtB_HNEzbFb3ehn5U1rMwOhWjlavweMc3ZWRH6QpyI-N52h40MB5M5ugupw7xLt5RgpQqK4nQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc1G9vyyntDrTijM6q0UxXZDbjLVbKZo2OikPJN-3Z1UsMLhqCu-t-buHzy_CxRHTtB_HNEzbFb3ehn5U1rMwOhWjlavweMc3ZWRH6QpyI-N52h40MB5M5ugupw7xLt5RgpQqK4nQ=w1000-h750-no",
-    "rating": 4.8,
-    "review_count": 10,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJnav30V7Fw0cR010ZOSngBtM",
-    "name": "Ligue des Musulmans de Belgique (LMB)",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Brussel",
-    "address": "Ligue des Musulmans de Belgique (LMB), rue joseph-claes 68, 1060 Saint-Gilles, 1060 Bruxelles",
-    "street": "rue joseph-claes 68, 1060 Saint-Gilles",
-    "postal_code": "1060",
-    "region": null,
-    "latitude": 50.8323733,
-    "longitude": 4.338928699999999,
-    "phone": null,
-    "website": "https://www.facebook.com/lmbelgique",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ligue%20des%20Musulmans%20de%20Belgique%20%28LMB%29&query_place_id=ChIJnav30V7Fw0cR010ZOSngBtM",
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NaJh79wOxaOyx_V17EPdFQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=34.745506&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NaJh79wOxaOyx_V17EPdFQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=34.745506&pitch=0&thumbfov=w1000-h750-no",
-    "rating": 4.8,
-    "review_count": 6,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJj0GbbQDFw0cRK3a2rrAy4l0",
-    "name": "M et Mme Falfoul",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Brussel",
-    "address": "M et Mme Falfoul, Violetstraat 32، 1000 Brussel",
-    "street": "Violetstraat 32",
-    "postal_code": "1000",
-    "region": null,
-    "latitude": 50.8451387,
-    "longitude": 4.352605,
-    "phone": "0472 38 05 58",
-    "website": "https://m-mmefalfoul.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=M%20et%20Mme%20Falfoul&query_place_id=ChIJj0GbbQDFw0cRK3a2rrAy4l0",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdJQqAEwxKwFy0ryn9j8385uSA450es1Bs42An-paOwNoLLm1yNYaohO0WJskoePJOcwVLUjUnpJ6ZJy2yNoaufhqEpnms7kk_4aP41OOK6CNUAcUHENCJVxEtYJwf-cj8ipVtj=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdJQqAEwxKwFy0ryn9j8385uSA450es1Bs42An-paOwNoLLm1yNYaohO0WJskoePJOcwVLUjUnpJ6ZJy2yNoaufhqEpnms7kk_4aP41OOK6CNUAcUHENCJVxEtYJwf-cj8ipVtj=w1000-h750-no",
-    "rating": 4.7,
-    "review_count": 323,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJP0TWfJjDw0cR5ifMYL8TBx0",
-    "name": "Maharaja Tandoori",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Brussel",
-    "address": "Maharaja Tandoori, Beursstraat 12, 1000 Brussel",
-    "street": "Beursstraat 12",
-    "postal_code": "1000",
-    "region": null,
-    "latitude": 50.8483939,
-    "longitude": 4.3505671999999995,
-    "phone": "02 522 32 24",
-    "website": "http://maharajatandoori.com/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Maharaja%20Tandoori&query_place_id=ChIJP0TWfJjDw0cR5ifMYL8TBx0",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf8fOLr_mEXaB9CofO7Vr2c6DDNjmHyM_l0zeLY1ZReboi66nHxaDmeqa6_YPbkptJHwef4RxK7MaHNGt23OJaeVg3RxEl0w3cdFNs-ZbWRdBRTGJMZrI8FXZEkdB2i10ahtJWo=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf8fOLr_mEXaB9CofO7Vr2c6DDNjmHyM_l0zeLY1ZReboi66nHxaDmeqa6_YPbkptJHwef4RxK7MaHNGt23OJaeVg3RxEl0w3cdFNs-ZbWRdBRTGJMZrI8FXZEkdB2i10ahtJWo=w1000-h750-no",
-    "rating": 4.4,
-    "review_count": 3828,
-    "verification_status": "VERIFIED",
-    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJSyZ3FaDDw0cRwxZIEXud7yE",
-    "name": "Masjid Arrahma",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Brussel",
-    "address": "Masjid Arrahma, Sluismeester Coggestraat 10, 1000 Brussel",
-    "street": "Sluismeester Coggestraat 10",
-    "postal_code": "1000",
-    "region": null,
-    "latitude": 50.8696494,
-    "longitude": 4.3604997,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Masjid%20Arrahma&query_place_id=ChIJSyZ3FaDDw0cRwxZIEXud7yE",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLestVpbQixIlzqJhKdhysVzV7Y-spUkMNBHFEj1FpyMND6JBlSdRYAwYcnImbsfhdMqEPCR7WmxqZlPTAWuTyhs8Z4aGrv2TqxGLXDoZZVCOMvLthP93iaqCHPJqaAaB2luFfBro4cuPBCW=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLestVpbQixIlzqJhKdhysVzV7Y-spUkMNBHFEj1FpyMND6JBlSdRYAwYcnImbsfhdMqEPCR7WmxqZlPTAWuTyhs8Z4aGrv2TqxGLXDoZZVCOMvLthP93iaqCHPJqaAaB2luFfBro4cuPBCW=w1000-h750-no",
-    "rating": 4.9,
-    "review_count": 23,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJmTp5ER7Fw0cRdm96akl2XI0",
-    "name": "Mechoui Royal",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Brussel",
-    "address": "Mechoui Royal, Av. de Stalingrad 91, 1000 Bruxelles",
-    "street": "Stalingradlaan 91",
-    "postal_code": "1000",
-    "region": null,
-    "latitude": 50.8401268,
-    "longitude": 4.3419003,
-    "phone": "0471 83 43 11",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mechoui%20Royal&query_place_id=ChIJmTp5ER7Fw0cRdm96akl2XI0",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd3mW8tnf1Ntva_F7AOBYGKVtJaaMG8V1smdFD0Ie76mTh3HJkvkc62FwKTNLozoe3frVZ0SIkbm2vOOszcWXiOihBFsBghZO2Ie7as7DU6tYxv5Oo3QHip20oMycWoWvWAe826=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd3mW8tnf1Ntva_F7AOBYGKVtJaaMG8V1smdFD0Ie76mTh3HJkvkc62FwKTNLozoe3frVZ0SIkbm2vOOszcWXiOihBFsBghZO2Ie7as7DU6tYxv5Oo3QHip20oMycWoWvWAe826=w1000-h750-no",
-    "rating": 4.3,
-    "review_count": 9,
-    "verification_status": "VERIFIED",
-    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJBfRPRpXFw0cROssfjeQ_3vE",
-    "name": "Mezzeway",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Brussel",
-    "address": "Mezzeway, Magdalenasteenweg 57, 1000 Brussel",
-    "street": "Magdalenasteenweg 57",
-    "postal_code": "1000",
-    "region": null,
-    "latitude": 50.8447928,
-    "longitude": 4.3552561999999995,
-    "phone": "0486 30 33 74",
-    "website": "https://mezzeway.com/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mezzeway&query_place_id=ChIJBfRPRpXFw0cROssfjeQ_3vE",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeay87ZsDYstl3mhtxlFElAbsYlWnMBoTBXkd1zSpn4llvk2SqwitcXNnNNy-9zkWkKnMFvFeFKWVvPTaebnpB8LGI56RMddc6oAtuHFBcjc7u0USt7XiemJfBtq5fFij3N9UAfASGbNsaj=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeay87ZsDYstl3mhtxlFElAbsYlWnMBoTBXkd1zSpn4llvk2SqwitcXNnNNy-9zkWkKnMFvFeFKWVvPTaebnpB8LGI56RMddc6oAtuHFBcjc7u0USt7XiemJfBtq5fFij3N9UAfASGbNsaj=w1000-h750-no",
-    "rating": 4.7,
-    "review_count": 661,
-    "verification_status": "VERIFIED",
-    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJ74gwenDEw0cRjiG2AUtDkwk",
-    "name": "Moskee Ettawhid",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Brussel",
-    "address": "Moskee Ettawhid, Nieuwland 123, 1000 Brussel",
-    "street": "Nieuwland 123",
-    "postal_code": "1000",
-    "region": null,
-    "latitude": 50.8398841,
-    "longitude": 4.3444009,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Ettawhid&query_place_id=ChIJ74gwenDEw0cRjiG2AUtDkwk",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLelFhqoUOcr6SkQiC83rGYWLQpS2Nmx7BgXjEzg8d2zls4EbiOQTH_UbD87vguD3tCR8FtG-ptoMg4NeoF_H8Op_k41cgq0Dk4qakC_aYvShjJdyWqnSo1kECWFkZieUlhqsquYIQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLelFhqoUOcr6SkQiC83rGYWLQpS2Nmx7BgXjEzg8d2zls4EbiOQTH_UbD87vguD3tCR8FtG-ptoMg4NeoF_H8Op_k41cgq0Dk4qakC_aYvShjJdyWqnSo1kECWFkZieUlhqsquYIQ=w1000-h750-no",
-    "rating": 4.2,
-    "review_count": 204,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJ62dNqvHDw0cR2FQmzYigA6U",
-    "name": "Moskee Hicret 🕌",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Brussel",
-    "address": "Moskee Hicret 🕌, Haachtsesteenweg 124, 1030 Brussel",
-    "street": "Haachtsesteenweg 124",
-    "postal_code": "1030",
-    "region": null,
-    "latitude": 50.85864,
-    "longitude": 4.370556,
-    "phone": "02 219 80 79",
-    "website": "http://www.fibif.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Hicret%20%F0%9F%95%8C&query_place_id=ChIJ62dNqvHDw0cR2FQmzYigA6U",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf6aZZ9kAE9gX9A7mSViBp-OlwSYGa1cep5UQGXjm602rV3a70iN9ydAQCdnZ7EdpOPRbRu64c2479EA2gibc_07nZXUIv7uRLsLWb-upl59AtSBeopbRQ9bJx3gVXMErwSd-kE7Q=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf6aZZ9kAE9gX9A7mSViBp-OlwSYGa1cep5UQGXjm602rV3a70iN9ydAQCdnZ7EdpOPRbRu64c2479EA2gibc_07nZXUIv7uRLsLWb-upl59AtSBeopbRQ9bJx3gVXMErwSd-kE7Q=w1000-h750-no",
-    "rating": 4.6,
-    "review_count": 52,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJM9vaATHDw0cRbJ5PfyeYkpk",
-    "name": "Moskee Ibad ar Rahman",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Brussel",
-    "address": "Moskee Ibad ar Rahman, Kerkeveldstraat 53, 1020 Brussel",
-    "street": "Kerkeveldstraat 53",
-    "postal_code": "1020",
-    "region": null,
-    "latitude": 50.8759692,
-    "longitude": 4.3538985,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Ibad%20ar%20Rahman&query_place_id=ChIJM9vaATHDw0cRbJ5PfyeYkpk",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdPekTrWky2m1UPMAwdanD_jF6STx1I0C_K43ZdKG2K9FrbT_fzqEYLSwBExDeirRYDatWdN1B2YcWMNQSSyTizuSzRmUoxwxoZW3lNCfxAQvj6U3O1qzJ4Ly-xIzHAoW1gqkKk-S2TQuM=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdPekTrWky2m1UPMAwdanD_jF6STx1I0C_K43ZdKG2K9FrbT_fzqEYLSwBExDeirRYDatWdN1B2YcWMNQSSyTizuSzRmUoxwxoZW3lNCfxAQvj6U3O1qzJ4Ly-xIzHAoW1gqkKk-S2TQuM=w1000-h750-no",
-    "rating": 4.8,
-    "review_count": 30,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
     "is_active": true,
     "moderation_status": "approved"
   }

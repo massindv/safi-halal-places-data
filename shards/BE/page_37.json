@@ -1,5 +1,679 @@
 [
   {
+    "place_id": "ChIJcwAiJ7_cw0cRHgnIDe5_tko",
+    "name": "Picard",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Zaventem",
+    "address": "Picard, Leuvensesteenweg 7, 1932 Zaventem",
+    "street": "Leuvensesteenweg 7",
+    "postal_code": "1932",
+    "region": null,
+    "latitude": 50.8634499,
+    "longitude": 4.4309455,
+    "phone": "02 720 99 57",
+    "website": "https://magasins.picard.fr/1025-picard-woluwe-saint-etienne?utm_source=gmb",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Picard&query_place_id=ChIJcwAiJ7_cw0cRHgnIDe5_tko",
+    "open_hours_json": {
+      "Monday": [
+        "1–7:45 pm"
+      ],
+      "Tuesday": [
+        "9 am–7:45 pm"
+      ],
+      "Wednesday": [
+        "9 am–7:45 pm"
+      ],
+      "Thursday": [
+        "9 am–7:45 pm"
+      ],
+      "Friday": [
+        "9 am–7:45 pm"
+      ],
+      "Saturday": [
+        "9 am–7:45 pm"
+      ],
+      "Sunday": [
+        "9 am–12:45 pm"
+      ]
+    },
+    "review_count": 486,
+    "rating": 4.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeY6JhCWayPHV1oN76xsIu_gJNqKYyLYhM2fUVtKgBhW2XvCdQNNmBf4QEcmbHaArKMlOmW3TnCl9wBGFZTFldGAGdbdJ-woC8ON3S_d_HIQv-5e9dnDtKrNK7QaT9-mI-QpMFu=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeY6JhCWayPHV1oN76xsIu_gJNqKYyLYhM2fUVtKgBhW2XvCdQNNmBf4QEcmbHaArKMlOmW3TnCl9wBGFZTFldGAGdbdJ-woC8ON3S_d_HIQv-5e9dnDtKrNK7QaT9-mI-QpMFu=w1000-h750-no",
+    "source_query": "Hypermarket in Sint-Stevens-Woluwe, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJJfftH7_cw0cR84ylmAlaNW0",
+    "name": "Quick Sint-Stevens-Woluwe",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Zaventem",
+    "address": "Quick Sint-Stevens-Woluwe, Leuvensesteenweg 12, 1932 Zaventem",
+    "street": "Leuvensesteenweg 12",
+    "postal_code": "1932",
+    "region": null,
+    "latitude": 50.863088999999995,
+    "longitude": 4.4316575,
+    "phone": "02 725 98 45",
+    "website": "http://www.quick.be/nl/restaurant/st-stevens-woluwe",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Quick%20Sint-Stevens-Woluwe&query_place_id=ChIJJfftH7_cw0cR84ylmAlaNW0",
+    "open_hours_json": {
+      "Monday": [
+        "10:30 am–12 am"
+      ],
+      "Tuesday": [
+        "10:30 am–12 am"
+      ],
+      "Wednesday": [
+        "10:30 am–12 am"
+      ],
+      "Thursday": [
+        "10:30 am–12 am"
+      ],
+      "Friday": [
+        "10:30 am–12 am"
+      ],
+      "Saturday": [
+        "10:30 am–12 am"
+      ],
+      "Sunday": [
+        "10:30 am–12 am"
+      ]
+    },
+    "review_count": 4116,
+    "rating": 3.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd-TB56s2_VuxeBDVCXw6Wnpv-Jo4mjsmvbqZ4_GE9pHTCcJOCRery5INC6X4uCEdqALja34jFVswbVDjyhUo4HHDdcYtuVz0KydgyMOjvj7VJTCz57Xy3M5JItFS2KSd2iyXIV8Q=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd-TB56s2_VuxeBDVCXw6Wnpv-Jo4mjsmvbqZ4_GE9pHTCcJOCRery5INC6X4uCEdqALja34jFVswbVDjyhUo4HHDdcYtuVz0KydgyMOjvj7VJTCz57Xy3M5JItFS2KSd2iyXIV8Q=w1000-h750-no",
+    "source_query": "Halal restaurant in Sint-Stevens-Woluwe, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJdy2rfVHcw0cR92l1RQZQU24",
+    "name": "Restaurant Fairuz Lebanese Kitchen",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Zaventem",
+    "address": "Restaurant Fairuz Lebanese Kitchen, Stationsstraat 21, 1930 Zaventem",
+    "street": "Stationsstraat 21",
+    "postal_code": "1930",
+    "region": null,
+    "latitude": 50.8797199,
+    "longitude": 4.472658099999999,
+    "phone": "02 315 95 38",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20Fairuz%20Lebanese%20Kitchen&query_place_id=ChIJdy2rfVHcw0cR92l1RQZQU24",
+    "open_hours_json": {
+      "Monday": [
+        "5–10:30 pm"
+      ],
+      "Tuesday": [
+        "5–10:30 pm"
+      ],
+      "Wednesday": [
+        "5–10:30 pm"
+      ],
+      "Thursday": [
+        "5–10:30 pm"
+      ],
+      "Friday": [
+        "5–10:30 pm"
+      ],
+      "Saturday": [
+        "5–10:30 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 318,
+    "rating": 4.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc-lBeL5CJ0eQ8-B95n4IRsk7yWvQ--oeE_KO2lD5kRoCnuFm92CkET5nQSgXrIyGkOBcFUPm3rXWLBR6T_Qkx908OH1rp7Zk2clEB6fPZeq8E3eHR2dkQifUONfSwnQ7mg3fv9zA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc-lBeL5CJ0eQ8-B95n4IRsk7yWvQ--oeE_KO2lD5kRoCnuFm92CkET5nQSgXrIyGkOBcFUPm3rXWLBR6T_Qkx908OH1rp7Zk2clEB6fPZeq8E3eHR2dkQifUONfSwnQ7mg3fv9zA=w1000-h750-no",
+    "source_query": "Halal restaurant in Sint-Stevens-Woluwe, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJccj3bcDdw0cRCvauzhcLa_w",
+    "name": "Sakura Sushi",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Zaventem",
+    "address": "Sakura Sushi, Leuvensesteenweg 179, 1932 Zaventem",
+    "street": "Leuvensesteenweg 179",
+    "postal_code": "1932",
+    "region": null,
+    "latitude": 50.867238099999994,
+    "longitude": 4.4466117999999994,
+    "phone": "0480 64 40 04",
+    "website": "https://sakuracm.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Sakura%20Sushi&query_place_id=ChIJccj3bcDdw0cRCvauzhcLa_w",
+    "open_hours_json": {
+      "Monday": [
+        "12–2:30 pm",
+        "6–10 pm"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "6–10 pm"
+      ],
+      "Thursday": [
+        "6–10 pm"
+      ],
+      "Friday": [
+        "12–2:30 pm",
+        "6–10:30 pm"
+      ],
+      "Saturday": [
+        "12–2:30 pm",
+        "6–10 pm"
+      ],
+      "Sunday": [
+        "9 am–5 pm",
+        "6–10 pm"
+      ]
+    },
+    "review_count": 350,
+    "rating": 3.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcK7S8VBePZEguahOT_WCtk7W8NWLIv_aXgAIaTEVA26Fpik1saa7w2C8apMBmxBmyPPrkPg8xZXOQlJYiEzofYeXfFF7sgUhuKrc6BSuuPzBx8AAynr-sDrDi8vJjBbLbD2xzZ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcK7S8VBePZEguahOT_WCtk7W8NWLIv_aXgAIaTEVA26Fpik1saa7w2C8apMBmxBmyPPrkPg8xZXOQlJYiEzofYeXfFF7sgUhuKrc6BSuuPzBx8AAynr-sDrDi8vJjBbLbD2xzZ=w1000-h750-no",
+    "source_query": "Halal restaurant in Sint-Stevens-Woluwe, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJMx7MJ7fdw0cR50bF3eZuuM8",
+    "name": "Shop & Go Zaventem",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Zaventem",
+    "address": "Shop & Go Zaventem, Leuvensesteenweg 524, 1930 Zaventem",
+    "street": "Leuvensesteenweg 524",
+    "postal_code": "1930",
+    "region": null,
+    "latitude": 50.8735341,
+    "longitude": 4.4863924,
+    "phone": "02 644 25 12",
+    "website": "https://stores.delhaize.be/nl/shop-and-go-delhaize-q8-zaventem",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Shop%20%26%20Go%20Zaventem&query_place_id=ChIJMx7MJ7fdw0cR50bF3eZuuM8",
+    "open_hours_json": {
+      "Monday": [
+        "6 am–10 pm"
+      ],
+      "Tuesday": [
+        "6 am–10 pm"
+      ],
+      "Wednesday": [
+        "6 am–10 pm"
+      ],
+      "Thursday": [
+        "6 am–10 pm"
+      ],
+      "Friday": [
+        "6 am–10 pm"
+      ],
+      "Saturday": [
+        "6 am–10 pm"
+      ],
+      "Sunday": [
+        "6 am–10 pm"
+      ]
+    },
+    "review_count": 105,
+    "rating": 4.0,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc0GcacU1bZ1c-bOCyrdPs9Z_B5lK78s6i_M1p2tcjXOMfWdc_QMuFc3WwugYMYyMtMMVEnLk3-T3Ey4NxdofksyescQz-PjDTTWBxJU2DERqbDVomXMhndw1Sd_NYWoo1nEztZ0w=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc0GcacU1bZ1c-bOCyrdPs9Z_B5lK78s6i_M1p2tcjXOMfWdc_QMuFc3WwugYMYyMtMMVEnLk3-T3Ey4NxdofksyescQz-PjDTTWBxJU2DERqbDVomXMhndw1Sd_NYWoo1nEztZ0w=w1000-h750-no",
+    "source_query": "Hypermarket in Sint-Stevens-Woluwe, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJW1-tLsXdw0cR9dPgwn7sge4",
+    "name": "Slagerij Elif Zaventem ( The Halal Butcher & The Helal Kasap )",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Zaventem",
+    "address": "Slagerij Elif Zaventem ( The Halal Butcher & The Helal Kasap ), Heldenplein 15, 1930 Zaventem",
+    "street": "Heldenplein 15",
+    "postal_code": "1930",
+    "region": null,
+    "latitude": 50.8848735,
+    "longitude": 4.4711077,
+    "phone": "0467 87 81 98",
+    "website": "https://www.facebook.com/PureHetVlees",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Slagerij%20Elif%20Zaventem%20%28%20The%20Halal%20Butcher%20%26%20The%20Helal%20Kasap%20%29&query_place_id=ChIJW1-tLsXdw0cR9dPgwn7sge4",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdKZ6ay_o-OJtgBLeMszc2qqJAKByvL3-yj_0DWohhsxWnJwTu6LeHSFU_beoTXElViuO8eIamT2pCCYcAWfnCYGetw2x5ktFgjpcJJxLK0FBinKMxq22UQcazMV1iQDPaCOqhs=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdKZ6ay_o-OJtgBLeMszc2qqJAKByvL3-yj_0DWohhsxWnJwTu6LeHSFU_beoTXElViuO8eIamT2pCCYcAWfnCYGetw2x5ktFgjpcJJxLK0FBinKMxq22UQcazMV1iQDPaCOqhs=w1000-h750-no",
+    "rating": 4.3,
+    "review_count": 118,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJibeTn1Pcw0cRTcdyNYosav0",
+    "name": "Snack Bodrum - Zaventem",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Zaventem",
+    "address": "Snack Bodrum - Zaventem, Hoogstraat 62, 1930 Zaventem",
+    "street": "Hoogstraat 62",
+    "postal_code": "1930",
+    "region": null,
+    "latitude": 50.8821978,
+    "longitude": 4.4726729,
+    "phone": "0485 69 17 08",
+    "website": "https://qr.wwwcafe.de/2025/08/12/snack-bodrum-zaventem/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Snack%20Bodrum%20-%20Zaventem&query_place_id=ChIJibeTn1Pcw0cRTcdyNYosav0",
+    "open_hours_json": {
+      "Monday": [
+        "11:30 am–12 am"
+      ],
+      "Tuesday": [
+        "11:30 am–12 am"
+      ],
+      "Wednesday": [
+        "11:30 am–12 am"
+      ],
+      "Thursday": [
+        "11:30 am–12 am"
+      ],
+      "Friday": [
+        "11:30 am–1 am"
+      ],
+      "Saturday": [
+        "11:30 am–1 am"
+      ],
+      "Sunday": [
+        "12 pm–12 am"
+      ]
+    },
+    "review_count": 434,
+    "rating": 3.9,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcGI775YtKjtLvVQEtfbCAZ9XXB0IdUz0MoPUdN-PJymhSr4NnXFBWFjeqZLIZT705rOPXweZzEyRF3ccr-vnYyqSGPB95leFSbVslkoyqV1G6lBN-lzqojuDP41yv48sVsttU6jQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcGI775YtKjtLvVQEtfbCAZ9XXB0IdUz0MoPUdN-PJymhSr4NnXFBWFjeqZLIZT705rOPXweZzEyRF3ccr-vnYyqSGPB95leFSbVslkoyqV1G6lBN-lzqojuDP41yv48sVsttU6jQ=w1000-h750-no",
+    "source_query": "Halal restaurant in Sint-Stevens-Woluwe, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJUW8zgHXdw0cRtORnGhC-2fs",
+    "name": "Snack Golden kebab Zaventem",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Zaventem",
+    "address": "Snack Golden kebab Zaventem, Stationsstraat 83, 1930 Zaventem",
+    "street": "Stationsstraat 83",
+    "postal_code": "1930",
+    "region": null,
+    "latitude": 50.8825412,
+    "longitude": 4.4719055,
+    "phone": "0487 42 39 18",
+    "website": "http://www.golden-kebab-zaventem.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Snack%20Golden%20kebab%20Zaventem&query_place_id=ChIJUW8zgHXdw0cRtORnGhC-2fs",
+    "open_hours_json": {
+      "Monday": [
+        "11:30 am–12 am"
+      ],
+      "Tuesday": [
+        "11:30 am–12 am"
+      ],
+      "Wednesday": [
+        "11:30 am–12 am"
+      ],
+      "Thursday": [
+        "11:30 am–12 am"
+      ],
+      "Friday": [
+        "11:30 am–1 am"
+      ],
+      "Saturday": [
+        "12 pm–1 am"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 358,
+    "rating": 4.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdhjiVIYU3p4UO1_4nbVFx1HpFVgw5EucyU8A_vcDE-2byLz0sSN7bnSb9fhoa5zOhI9dcSCRYR5Q7MIcCP6IX2p-rb5N3TJ-5y-5oJ1eIDcSkEjbn-9fPJb1SidBr_Tjpa3FrQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdhjiVIYU3p4UO1_4nbVFx1HpFVgw5EucyU8A_vcDE-2byLz0sSN7bnSb9fhoa5zOhI9dcSCRYR5Q7MIcCP6IX2p-rb5N3TJ-5y-5oJ1eIDcSkEjbn-9fPJb1SidBr_Tjpa3FrQ=w1000-h750-no",
+    "source_query": "Halal restaurant in Sint-Stevens-Woluwe, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJub_kT_fcw0cR8FWlEEIQEGI",
+    "name": "Spar Sint-Stevens-Woluwe",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Zaventem",
+    "address": "Spar Sint-Stevens-Woluwe, Jozef Van Damstraat 3C, 1932 Zaventem",
+    "street": "Jozef Van Damstraat 3C",
+    "postal_code": "1932",
+    "region": null,
+    "latitude": 50.8710568,
+    "longitude": 4.4540475,
+    "phone": "02 720 32 89",
+    "website": "https://www.mijnspar.be/winkels/spar-sint-stevens-woluwe",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Spar%20Sint-Stevens-Woluwe&query_place_id=ChIJub_kT_fcw0cR8FWlEEIQEGI",
+    "open_hours_json": {
+      "Monday": [
+        "9 am–8 pm"
+      ],
+      "Tuesday": [
+        "8 am–8 pm"
+      ],
+      "Wednesday": [
+        "8 am–8 pm"
+      ],
+      "Thursday": [
+        "8 am–8 pm"
+      ],
+      "Friday": [
+        "8 am–8 pm"
+      ],
+      "Saturday": [
+        "8 am–8 pm"
+      ],
+      "Sunday": [
+        "8 am–1 pm"
+      ]
+    },
+    "review_count": 371,
+    "rating": 4.1,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeznPjU3LUDLviG1-xfV0zK_NpJNyIg3kgJ2G3AAepGkJVyi-WNye6KSWIfjhCe6NfL5Au4n3ykEgH2xMgPf6CvdMQcgHMxH6rtyZVwTVIdOEqwQZXqF9JmLBFMQKpRdo-XwYMA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeznPjU3LUDLviG1-xfV0zK_NpJNyIg3kgJ2G3AAepGkJVyi-WNye6KSWIfjhCe6NfL5Au4n3ykEgH2xMgPf6CvdMQcgHMxH6rtyZVwTVIdOEqwQZXqF9JmLBFMQKpRdo-XwYMA=w1000-h750-no",
+    "source_query": "Hypermarket in Sint-Stevens-Woluwe, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJwResq1Tcw0cRDxCrTLgoFRk",
+    "name": "Takumi Nanaban Ramen Kitchen",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Zaventem",
+    "address": "Takumi Nanaban Ramen Kitchen, Heldenplein 7, 1930 Zaventem",
+    "street": "Heldenplein 7",
+    "postal_code": "1930",
+    "region": null,
+    "latitude": 50.8849277,
+    "longitude": 4.4705658999999995,
+    "phone": "02 486 63 83",
+    "website": "https://takumiramennoodles.com/be/brussels-zaventem/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Takumi%20Nanaban%20Ramen%20Kitchen&query_place_id=ChIJwResq1Tcw0cRDxCrTLgoFRk",
+    "open_hours_json": {
+      "Monday": [
+        "12–2:30 pm",
+        "5:30–9 pm"
+      ],
+      "Tuesday": [
+        "12–2:30 pm",
+        "5:30–9 pm"
+      ],
+      "Wednesday": [
+        "12–2:30 pm",
+        "5:30–9 pm"
+      ],
+      "Thursday": [
+        "12–2:30 pm",
+        "5:30–9 pm"
+      ],
+      "Friday": [
+        "12–2:30 pm",
+        "5:30–9 pm"
+      ],
+      "Saturday": [
+        "12–2:30 pm",
+        "5:30–9 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 1219,
+    "rating": 4.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLegu72rNhRZFr0SCzD36dMzc3pG-1EfV3stDTc_4bG9gyxTjwBM1Hlksd0HvbiHt1Awg1LcFVS3Z1p9oWcDzyMJrSJMrHTVXjxX8Jf0c-WZUZf3lcSfFff2X0JF_c2D3i47KB4nZg=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLegu72rNhRZFr0SCzD36dMzc3pG-1EfV3stDTc_4bG9gyxTjwBM1Hlksd0HvbiHt1Awg1LcFVS3Z1p9oWcDzyMJrSJMrHTVXjxX8Jf0c-WZUZf3lcSfFff2X0JF_c2D3i47KB4nZg=w1000-h750-no",
+    "source_query": "Halal restaurant in Sint-Stevens-Woluwe, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJzyKMtlPcw0cRfTXWIf6s8CY",
+    "name": "Vinograd",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Zaventem",
+    "address": "Vinograd, Kerkplein 30, 1930 Zaventem",
+    "street": "Kerkplein 30",
+    "postal_code": "1930",
+    "region": null,
+    "latitude": 50.8813561,
+    "longitude": 4.472968,
+    "phone": "02 720 32 09",
+    "website": "https://www.facebook.com/Vinogradzaventem/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Vinograd&query_place_id=ChIJzyKMtlPcw0cRfTXWIf6s8CY",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "12–2:30 pm",
+        "6–10 pm"
+      ],
+      "Wednesday": [
+        "12–2:30 pm",
+        "6–10 pm"
+      ],
+      "Thursday": [
+        "12–2:30 pm",
+        "6–10 pm"
+      ],
+      "Friday": [
+        "12–2:30 pm",
+        "6–10 pm"
+      ],
+      "Saturday": [
+        "6–10 pm"
+      ],
+      "Sunday": [
+        "12–2:30 pm"
+      ]
+    },
+    "review_count": 487,
+    "rating": 4.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLewg-T6JoCQRlsQ7g9hlQj--Pk8F4kDiR4zUikB2skqre46UUmrWDVQu2EKns8UZdxCsYSWhNn_417POX5jTBnHremBKi-2LotWSqwDWDCDEmYTpTwMLa8FNKgfoeujcZJowQ9T6w=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLewg-T6JoCQRlsQ7g9hlQj--Pk8F4kDiR4zUikB2skqre46UUmrWDVQu2EKns8UZdxCsYSWhNn_417POX5jTBnHremBKi-2LotWSqwDWDCDEmYTpTwMLa8FNKgfoeujcZJowQ9T6w=w1000-h750-no",
+    "source_query": "Halal restaurant in Sint-Stevens-Woluwe, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJf3Xvg7Xdw0cRzyn027p8QJY",
+    "name": "Woluwe markt",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Zaventem",
+    "address": "Woluwe markt, Leuvensesteenweg 225, 1932 Zaventem",
+    "street": "Leuvensesteenweg 225",
+    "postal_code": "1932",
+    "region": null,
+    "latitude": 50.867674199999996,
+    "longitude": 4.4494533,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Woluwe%20markt&query_place_id=ChIJf3Xvg7Xdw0cRzyn027p8QJY",
+    "open_hours_json": null,
+    "review_count": 14,
+    "rating": 4.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdkNxKoiPVKADIbD5IRnBFkuAa23R8OEoSrsy0WPFnfPYcnj0Jh0h096NcvZfy67f4GqGvyYRtw6nmlc9ggcBi4FDReqQW9y8_Ud_Y1ifZX-e6pR7Xfv7nZ6Rq6iMZOEGF5ng=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdkNxKoiPVKADIbD5IRnBFkuAa23R8OEoSrsy0WPFnfPYcnj0Jh0h096NcvZfy67f4GqGvyYRtw6nmlc9ggcBi4FDReqQW9y8_Ud_Y1ifZX-e6pR7Xfv7nZ6Rq6iMZOEGF5ng=w1000-h750-no",
+    "source_query": "Hypermarket in Sint-Stevens-Woluwe, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJddRvJEh3w0cRYZh5n1mgtBw",
+    "name": "Emirdağ Köftecisi foodtruck",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Zele",
+    "address": "Emirdağ Köftecisi foodtruck, Spinnerijstraat 6/w1, 9240 Zele",
+    "street": "Spinnerijstraat 6/w1",
+    "postal_code": "9240",
+    "region": null,
+    "latitude": 51.0741924,
+    "longitude": 4.046892,
+    "phone": "0492 66 66 79",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Emirda%C4%9F%20K%C3%B6ftecisi%20foodtruck&query_place_id=ChIJddRvJEh3w0cRYZh5n1mgtBw",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "3–10 pm"
+      ],
+      "Friday": [
+        "3 pm–1 am"
+      ],
+      "Saturday": [
+        "3 pm–1 am"
+      ],
+      "Sunday": [
+        "3–10 pm"
+      ]
+    },
+    "review_count": 331,
+    "rating": 4.9,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcNKgHM81NxAwHIMYDUwg8-a2BakJMGW_aaWh1hPmgRhusbigW2N2XrzkQb9ZcrkGBB5c93zm01GlmhPVqQMBL_b5EdYQANW-r4jAaz_JK11XAkg5j3BjS8Ez0qRhM5PIt_Bt37lw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcNKgHM81NxAwHIMYDUwg8-a2BakJMGW_aaWh1hPmgRhusbigW2N2XrzkQb9ZcrkGBB5c93zm01GlmhPVqQMBL_b5EdYQANW-r4jAaz_JK11XAkg5j3BjS8Ez0qRhM5PIt_Bt37lw=w1000-h750-no",
+    "source_query": "Halal restaurant in Lokeren, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata"
+  },
+  {
+    "place_id": "ChIJZ881zX-aw0cR4QZmJbLWJT8",
+    "name": "Moskee Eyüp El Ansari Camii Zele",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Zele",
+    "address": "Moskee Eyüp El Ansari Camii Zele, Zwaanstraat 17, 9240 Zele",
+    "street": "Zwaanstraat 17",
+    "postal_code": "9240",
+    "region": null,
+    "latitude": 51.0672936,
+    "longitude": 4.0380645,
+    "phone": "0478 53 09 99",
+    "website": "http://www.eyyubelensari.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Ey%C3%BCp%20El%20Ansari%20Camii%20Zele&query_place_id=ChIJZ881zX-aw0cR4QZmJbLWJT8",
+    "open_hours_json": null,
+    "review_count": 54,
+    "rating": 4.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdHfkn8te5_zFKl5dhlFv_k3kdGL95qTDig_5IJrv-dvUSJXtLFycAdAOdrjkMYfqblSa4jg5AqvLhWe0uIfk9HNbG91B8Y3MoL92wghzCUFUZzoB0_qwmS2CI8aXBJzth4d2or=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdHfkn8te5_zFKl5dhlFv_k3kdGL95qTDig_5IJrv-dvUSJXtLFycAdAOdrjkMYfqblSa4jg5AqvLhWe0uIfk9HNbG91B8Y3MoL92wghzCUFUZzoB0_qwmS2CI8aXBJzth4d2or=w1000-h750-no",
+    "source_query": "Mosque in Zottegem, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ6QlwWgB5w0cRrK4NyH7WDfo",
+    "name": "Moskee El Mohsineen Zelzate",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Zelzate",
+    "address": "Moskee El Mohsineen Zelzate, Knikkerstraat 2, 9060 Zelzate",
+    "street": "Knikkerstraat 2",
+    "postal_code": "9060",
+    "region": null,
+    "latitude": 51.1981298,
+    "longitude": 3.8035786999999996,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20El%20Mohsineen%20Zelzate&query_place_id=ChIJ6QlwWgB5w0cRrK4NyH7WDfo",
+    "open_hours_json": null,
+    "review_count": 3,
+    "rating": 3.7,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TivtOwHa6ZHvcM6v8CbJ7g&cb_client=search.gws-prod.grass&w=80&h=92&yaw=122.1597&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TivtOwHa6ZHvcM6v8CbJ7g&cb_client=search.gws-prod.grass&w=80&h=92&yaw=122.1597&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Mosque in Sint-Lievens-Houtem, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJO5XDWYbmw0cRjHyOG5jRKY0",
     "name": "Beenhouwerij Rif",
     "type": "restaurant",
@@ -13,7 +687,7 @@
     "region": null,
     "latitude": 51.001531799999995,
     "longitude": 4.4876764,
-    "phone": "0477 98 09 76",
+    "phone": null,
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Beenhouwerij%20Rif&query_place_id=ChIJO5XDWYbmw0cRjHyOG5jRKY0",
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdnOPf3EKNngUhm-dNMu6bn1XSI8VtzS7iYWXtqPGvoRIbrtlVHsRx5nK6acra26shnSCT6tu4zoqBx2BCmfahIFfsbZlGsCr8tF2nL3I22IvqmvC6XSR0K4ltulUUhJzFlJPas=w1000-h750-no",
