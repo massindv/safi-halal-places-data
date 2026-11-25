@@ -1,5 +1,531 @@
 [
   {
+    "place_id": "ChIJB7gjo5Hr6kcR-VbUNu2XC1k",
+    "name": "La Grappe d'Or",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Arlon",
+    "address": "La Grappe d'Or, Rte de Luxembourg 317, 6700 Arlon",
+    "street": "Rte de Luxembourg 317",
+    "postal_code": "6700",
+    "region": null,
+    "latitude": 49.6625454,
+    "longitude": 5.8437645,
+    "phone": "063 57 70 56",
+    "website": "http://www.lagrappedor.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Grappe%20d%27Or&query_place_id=ChIJB7gjo5Hr6kcR-VbUNu2XC1k",
+    "open_hours_json": {
+      "Monday": [
+        "7–11:30 pm"
+      ],
+      "Tuesday": [
+        "12–2:30 pm",
+        "7–11:30 pm"
+      ],
+      "Wednesday": [
+        "12–2:30 pm",
+        "7–11:30 pm"
+      ],
+      "Thursday": [
+        "12–2:30 pm",
+        "7–11:30 pm"
+      ],
+      "Friday": [
+        "12–2:30 pm",
+        "7–11:30 pm"
+      ],
+      "Saturday": [
+        "Closed"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 404,
+    "rating": 4.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd9hqLg-kWkreraNkxEZko_gjbGD_cWMyLXfo34mpTmFFFP7U6L2PAN0vzOFbSwIHFQNgRHGgj2_OX8_o596wMU7frbwiyNCP8-qLjxA0quvHM8ahFioLBQ3hP47Rcl5NKmvRv6=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd9hqLg-kWkreraNkxEZko_gjbGD_cWMyLXfo34mpTmFFFP7U6L2PAN0vzOFbSwIHFQNgRHGgj2_OX8_o596wMU7frbwiyNCP8-qLjxA0quvHM8ahFioLBQ3hP47Rcl5NKmvRv6=w1000-h750-no",
+    "source_query": "Halal restaurant in Arlon, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ_4CCvHGw6kcR4UhX9xhP54g",
+    "name": "La Pizza Chez Nino au feu de bois",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Arlon",
+    "address": "La Pizza Chez Nino au feu de bois, Rue de l'Hydrion 36, 6700 Arlon",
+    "street": "Rue de l'Hydrion 36",
+    "postal_code": "6700",
+    "region": null,
+    "latitude": 49.6818351,
+    "longitude": 5.801431,
+    "phone": "063 23 32 66",
+    "website": "https://lapizzacheznino.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Pizza%20Chez%20Nino%20au%20feu%20de%20bois&query_place_id=ChIJ_4CCvHGw6kcR4UhX9xhP54g",
+    "open_hours_json": {
+      "Monday": [
+        "11 am–1:30 pm",
+        "5:30–10 pm"
+      ],
+      "Tuesday": [
+        "11 am–1:30 pm",
+        "5:30–10 pm"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "11 am–1:30 pm",
+        "5:30–10 pm"
+      ],
+      "Friday": [
+        "11 am–1:30 pm",
+        "5:30–10 pm"
+      ],
+      "Saturday": [
+        "11 am–1:30 pm",
+        "5:30–10 pm"
+      ],
+      "Sunday": [
+        "5–10 pm"
+      ]
+    },
+    "review_count": 383,
+    "rating": 4.2,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeYoiF2vSc6gEhV16JDUnYODKRlF0lOnwZCDz0rGRn4z6Ch2ryOzHfcTQ6QrZVLIdoPuuKrW0mxPUgKnqPTqfhmWzHw63e7sESSqWgSaw6mAgl_bFH7WlGd0-wGekkrztK-KXsJ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeYoiF2vSc6gEhV16JDUnYODKRlF0lOnwZCDz0rGRn4z6Ch2ryOzHfcTQ6QrZVLIdoPuuKrW0mxPUgKnqPTqfhmWzHw63e7sESSqWgSaw6mAgl_bFH7WlGd0-wGekkrztK-KXsJ=w1000-h750-no",
+    "source_query": "Halal restaurant in Arlon, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJAW2DuHS66kcRt72PjvM0RIA",
+    "name": "La Régalade",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Arlon",
+    "address": "La Régalade, Burewee 26, 6700 Arlon",
+    "street": "Burewee 26",
+    "postal_code": "6700",
+    "region": null,
+    "latitude": 49.651286899999995,
+    "longitude": 5.7787969,
+    "phone": "063 22 65 54",
+    "website": "http://www.laregalade.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20R%C3%A9galade&query_place_id=ChIJAW2DuHS66kcRt72PjvM0RIA",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "12–4 pm",
+        "7:15–11:30 pm"
+      ],
+      "Friday": [
+        "12–4 pm",
+        "7:15–11:30 pm"
+      ],
+      "Saturday": [
+        "7:15–11:30 pm"
+      ],
+      "Sunday": [
+        "12–4 pm",
+        "7:15–11:30 pm"
+      ]
+    },
+    "review_count": 257,
+    "rating": 4.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfTgIfZx6oYxgBTESHtLD4vsetdV9MBMBGAUZXeS0gZrkaZRkzv7jM8wlN2Gr4jJrq9LTpb-URx4ZZ7wGOW2DNXvQJMGrCLXi_DIJbmrLZalkyu2wg34BcCsNEqOescsPaDe9yl=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfTgIfZx6oYxgBTESHtLD4vsetdV9MBMBGAUZXeS0gZrkaZRkzv7jM8wlN2Gr4jJrq9LTpb-URx4ZZ7wGOW2DNXvQJMGrCLXi_DIJbmrLZalkyu2wg34BcCsNEqOescsPaDe9yl=w1000-h750-no",
+    "source_query": "Halal restaurant in Arlon, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJxQbJk_ix6kcRodLBOhoIV7A",
+    "name": "La casa del pizza",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Arlon",
+    "address": "La casa del pizza, Grand-Rue 32, 6700 Arlon",
+    "street": "Grand-Rue 32",
+    "postal_code": "6700",
+    "region": null,
+    "latitude": 49.683391799999995,
+    "longitude": 5.8141636,
+    "phone": "0471 09 02 02",
+    "website": "https://www.la-casa-del-pizza.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20casa%20del%20pizza&query_place_id=ChIJxQbJk_ix6kcRodLBOhoIV7A",
+    "open_hours_json": {
+      "Monday": [
+        "11:30 am–2:30 pm",
+        "5:30–10:30 pm"
+      ],
+      "Tuesday": [
+        "11:30 am–2:30 pm",
+        "5:30–10:30 pm"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "11:30 am–2:30 pm",
+        "5:30–10:30 pm"
+      ],
+      "Friday": [
+        "11:30 am–2:30 pm",
+        "5:30–10:30 pm"
+      ],
+      "Saturday": [
+        "5:30–10:30 pm"
+      ],
+      "Sunday": [
+        "5:30–10:30 pm"
+      ]
+    },
+    "review_count": 196,
+    "rating": 4.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdvPOv8yNwsbHFC_yZniZ957wKcye0QH6NRgvAlRdi9rB8kbrs-u8T6cLzYNaX1cAJ9m8mxYtyTVTb6pc53IvsML72e8rnGDR_MJqSfllpyaBH26xEYYds7kYNOCiKXpe1XLbA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdvPOv8yNwsbHFC_yZniZ957wKcye0QH6NRgvAlRdi9rB8kbrs-u8T6cLzYNaX1cAJ9m8mxYtyTVTb6pc53IvsML72e8rnGDR_MJqSfllpyaBH26xEYYds7kYNOCiKXpe1XLbA=w1000-h750-no",
+    "source_query": "Halal restaurant in Arlon, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJfUMaPGqw6kcRfqEXauJHNnc",
+    "name": "Le Chef est Une Femme",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Arlon",
+    "address": "Le Chef est Une Femme, Rue des Capucins 6, 6700 Arlon",
+    "street": "Rue des Capucins 6",
+    "postal_code": "6700",
+    "region": null,
+    "latitude": 49.6843643,
+    "longitude": 5.8139191,
+    "phone": "063 57 84 26",
+    "website": "http://www.lechefestunefemme.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Chef%20est%20Une%20Femme&query_place_id=ChIJfUMaPGqw6kcRfqEXauJHNnc",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "Closed"
+      ],
+      "Friday": [
+        "Closed"
+      ],
+      "Saturday": [
+        "Closed"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 317,
+    "rating": 4.4,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcI5-1SXPjr6C7yOhzcDAswEe5bdYqiPpoBuz66Zs2jugwGyzQaSWzBRB43wK0IusGq6tQNuh3SXvytbdv761O5Xaj-2xqBCUrvc80mEoUfwaLq9BT1fliKWFKjJOeu8TkyAH6WPQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcI5-1SXPjr6C7yOhzcDAswEe5bdYqiPpoBuz66Zs2jugwGyzQaSWzBRB43wK0IusGq6tQNuh3SXvytbdv761O5Xaj-2xqBCUrvc80mEoUfwaLq9BT1fliKWFKjJOeu8TkyAH6WPQ=w1000-h750-no",
+    "source_query": "Halal restaurant in Arlon, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJQ_lNOmqw6kcR7PJJLaahBGo",
+    "name": "Le Cocoon",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Arlon",
+    "address": "Le Cocoon, Pl. du Dr Hollenfeltz 2, 6700 Arlon",
+    "street": "Pl. du Dr Hollenfeltz 2",
+    "postal_code": "6700",
+    "region": null,
+    "latitude": 49.6841036,
+    "longitude": 5.8135505,
+    "phone": "063 22 05 15",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Cocoon&query_place_id=ChIJQ_lNOmqw6kcR7PJJLaahBGo",
+    "open_hours_json": {
+      "Monday": [
+        "11 am–2:30 pm",
+        "6–11 pm"
+      ],
+      "Tuesday": [
+        "11 am–2:30 pm",
+        "6–11 pm"
+      ],
+      "Wednesday": [
+        "11 am–2:30 pm",
+        "6–11 pm"
+      ],
+      "Thursday": [
+        "11 am–2:30 pm",
+        "6–11 pm"
+      ],
+      "Friday": [
+        "11 am–2:30 pm",
+        "6 pm–2 am"
+      ],
+      "Saturday": [
+        "6 pm–2 am"
+      ],
+      "Sunday": [
+        "6–11 pm"
+      ]
+    },
+    "review_count": 210,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeo6SwnnxbB7xijFsk13MImZIx5GAJEil5g0PVjW4OypbJmA6RdKhQTQgecTY2anGFTefO54wS0YEw_40mxf8ctp6zHMXv93Es3gmmqYTfAAh7cz1XXOSRA5kaye4JhVnJL-7by=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeo6SwnnxbB7xijFsk13MImZIx5GAJEil5g0PVjW4OypbJmA6RdKhQTQgecTY2anGFTefO54wS0YEw_40mxf8ctp6zHMXv93Es3gmmqYTfAAh7cz1XXOSRA5kaye4JhVnJL-7by=w1000-h750-no",
+    "source_query": "Halal restaurant in Arlon, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJiwjjb7Gx6kcRXBby7-ER4Bg",
+    "name": "Le Coin Snack (Magasin Russe) Night & Day Shop Arlon",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Arlon",
+    "address": "Le Coin Snack (Magasin Russe) Night & Day Shop Arlon, Pl. Didier 23, 6700 Arlon",
+    "street": "Pl. Didier 23",
+    "postal_code": "6700",
+    "region": null,
+    "latitude": 49.6845536,
+    "longitude": 5.8136510999999995,
+    "phone": "063 86 50 99",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Coin%20Snack%20%28Magasin%20Russe%29%20Night%20%26%20Day%20Shop%20Arlon&query_place_id=ChIJiwjjb7Gx6kcRXBby7-ER4Bg",
+    "open_hours_json": {
+      "Monday": [
+        "10 am–1 am"
+      ],
+      "Tuesday": [
+        "10 am–1 am"
+      ],
+      "Wednesday": [
+        "10 am–1 am"
+      ],
+      "Thursday": [
+        "10 am–1 am"
+      ],
+      "Friday": [
+        "10 am–2 am"
+      ],
+      "Saturday": [
+        "10 am–2 am"
+      ],
+      "Sunday": [
+        "10 am–12 am"
+      ]
+    },
+    "review_count": 58,
+    "rating": 4.2,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfGOFutZgZR4pm2Wo616Ro7Nm505GY6unkE-yhAbPPbOJQCKQ6Ke45DyLM0iHDEJ3xqgrqVrRBkUcGmoY0zCNbu2rgibIOn4M2_zvO8NPjIVpS9V-ddh9bMPhjMTIM5c-Cwt6Vz=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfGOFutZgZR4pm2Wo616Ro7Nm505GY6unkE-yhAbPPbOJQCKQ6Ke45DyLM0iHDEJ3xqgrqVrRBkUcGmoY0zCNbu2rgibIOn4M2_zvO8NPjIVpS9V-ddh9bMPhjMTIM5c-Cwt6Vz=w1000-h750-no",
+    "source_query": "Halal restaurant in Arlon, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJW9ADRWqw6kcRsaOqWnAzq7c",
+    "name": "Le Greco",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Arlon",
+    "address": "Le Greco, Rue de Diekirch 35, 6700 Arlon",
+    "street": "Rue de Diekirch 35",
+    "postal_code": "6700",
+    "region": null,
+    "latitude": 49.685168399999995,
+    "longitude": 5.8137929999999995,
+    "phone": "063 22 09 62",
+    "website": "https://www.legrecoarlon.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Greco&query_place_id=ChIJW9ADRWqw6kcRsaOqWnAzq7c",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "11:35 am–2:30 pm",
+        "6:30–10:30 pm"
+      ],
+      "Thursday": [
+        "11:30 am–2:30 pm",
+        "6:30–10:30 pm"
+      ],
+      "Friday": [
+        "11:30 am–2:30 pm",
+        "6:30–10:30 pm"
+      ],
+      "Saturday": [
+        "11:30 am–2:30 pm",
+        "6:30–10:30 pm"
+      ],
+      "Sunday": [
+        "11:30 am–2:30 pm",
+        "6:30–10:30 pm"
+      ]
+    },
+    "review_count": 552,
+    "rating": 4.2,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdwh8NAcZv-ePQ0BK2X8bkhXzTxgysRyIp6qkA7-Uw3MSaIN7MraqSxfQjWOU9YzhHjqJ1f8tjlXJa5q_xBgf_IeYAqWMwSI0D9Xf3MhqzTl6UPgDvnhrjcZitJdBDWApqnixvi=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdwh8NAcZv-ePQ0BK2X8bkhXzTxgysRyIp6qkA7-Uw3MSaIN7MraqSxfQjWOU9YzhHjqJ1f8tjlXJa5q_xBgf_IeYAqWMwSI0D9Xf3MhqzTl6UPgDvnhrjcZitJdBDWApqnixvi=w1000-h750-no",
+    "source_query": "Halal restaurant in Arlon, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJDyeJAEKw6kcR9BCGU65MIBI",
+    "name": "Luxfood Amd",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Arlon",
+    "address": "Luxfood Amd, Grand-Rue 64, 6700 Arlon",
+    "street": "Grand-Rue 64",
+    "postal_code": "6700",
+    "region": null,
+    "latitude": 49.6832056,
+    "longitude": 5.8155871999999995,
+    "phone": "063 21 79 55",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Luxfood%20Amd&query_place_id=ChIJDyeJAEKw6kcR9BCGU65MIBI",
+    "open_hours_json": {
+      "Monday": [
+        "10 am–6 pm"
+      ],
+      "Tuesday": [
+        "10 am–6 pm"
+      ],
+      "Wednesday": [
+        "10 am–6 pm"
+      ],
+      "Thursday": [
+        "10 am–6 pm"
+      ],
+      "Friday": [
+        "10 am–6 pm"
+      ],
+      "Saturday": [
+        "10 am–6 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 18,
+    "rating": 3.9,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=AuwRCDPSaAjk_9LccNPK2A&cb_client=search.gws-prod.grass&w=80&h=92&yaw=16.045803&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=AuwRCDPSaAjk_9LccNPK2A&cb_client=search.gws-prod.grass&w=80&h=92&yaw=16.045803&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Halal restaurant in Arlon, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJBQC3Lmqw6kcRSXFbKhMFJ0Q",
+    "name": "Maad Kebab - Arlon",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Arlon",
+    "address": "Maad Kebab - Arlon, Marché aux Légumes 9, 6700 Arlon",
+    "street": "Marché aux Légumes 9",
+    "postal_code": "6700",
+    "region": null,
+    "latitude": 49.6838361,
+    "longitude": 5.8130061,
+    "phone": "063 36 03 04",
+    "website": "https://qr.wwwcafe.de/2025/08/12/maad-kebab/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Maad%20Kebab%20-%20Arlon&query_place_id=ChIJBQC3Lmqw6kcRSXFbKhMFJ0Q",
+    "open_hours_json": {
+      "Monday": [
+        "11 am–1 am"
+      ],
+      "Tuesday": [
+        "11 am–1 am"
+      ],
+      "Wednesday": [
+        "11 am–1 am"
+      ],
+      "Thursday": [
+        "11 am–1 am"
+      ],
+      "Friday": [
+        "11 am–2 am"
+      ],
+      "Saturday": [
+        "11 am–2 am"
+      ],
+      "Sunday": [
+        "11 am–1 am"
+      ]
+    },
+    "review_count": 144,
+    "rating": 4.0,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcd8rKouIE1De5dBulRHFGKM2E1Uv-KFP3R3JcbttpZ8CNzZHimTYPgHj7n7qq_ClEJeON674q90Kmo113UOPZNj279TRZr0Omy4njbki862Fpz8EgsdkExOiEBgNdLStm7eigfh19lBtc=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcd8rKouIE1De5dBulRHFGKM2E1Uv-KFP3R3JcbttpZ8CNzZHimTYPgHj7n7qq_ClEJeON674q90Kmo113UOPZNj279TRZr0Omy4njbki862Fpz8EgsdkExOiEBgNdLStm7eigfh19lBtc=w1000-h750-no",
+    "source_query": "Halal restaurant in Arlon, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJ38H5Vmmx6kcREMslZhKZNjA",
     "name": "O'Tacos Arlon",
     "type": "restaurant",
@@ -10532,8 +11058,8 @@
     "phone": null,
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mosqu%C3%A9e%20de%20Beyne-Heusay&query_place_id=ChIJpWvui8r2wEcRnvbJCiZARGI",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf8PgucZgk8IFfFtuxxcyIxnsMY1prqxpwLAqv5sBc69f8Nic5Qohxio8Jo-FWkiZ9nsRPusIPqFJk7YHTsmaeKtBI6fMPcK6-a6DFlP64dwqKhUUPPm9a_BUdHqLUhF-JaeNdfKw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf8PgucZgk8IFfFtuxxcyIxnsMY1prqxpwLAqv5sBc69f8Nic5Qohxio8Jo-FWkiZ9nsRPusIPqFJk7YHTsmaeKtBI6fMPcK6-a6DFlP64dwqKhUUPPm9a_BUdHqLUhF-JaeNdfKw=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeVDNxS_G1NN7n3T79JjXKU2GyuzUdOhn10IWW9bgiL7XsFFoQfJcvD2rzT3GI1RvS4BMDsf0C_ycleLvHsRSn03HnW7uDTtDlCgrl7II53v9rarqkiC1-DWsCz_rrOW1-lrlmnsA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeVDNxS_G1NN7n3T79JjXKU2GyuzUdOhn10IWW9bgiL7XsFFoQfJcvD2rzT3GI1RvS4BMDsf0C_ycleLvHsRSn03HnW7uDTtDlCgrl7II53v9rarqkiC1-DWsCz_rrOW1-lrlmnsA=w1000-h750-no",
     "rating": 4.2,
     "review_count": 32,
     "verification_status": "UNVERIFIED",
@@ -11452,508 +11978,6 @@
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfTIuRZDMli7HZrd0_PSCmpsGrg9of8m7vVsfdA1vnqR_uBiCqBeYK1Qk4Uv5hNqFo3xTbjetsLlnMtfAotUCf-N40Kb6VBXTWofoWoIakuO7bTkm_IsZ99CIpL3ugTo7LGS8La=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfTIuRZDMli7HZrd0_PSCmpsGrg9of8m7vVsfdA1vnqR_uBiCqBeYK1Qk4Uv5hNqFo3xTbjetsLlnMtfAotUCf-N40Kb6VBXTWofoWoIakuO7bTkm_IsZ99CIpL3ugTo7LGS8La=w1000-h750-no",
     "source_query": "Moroccan restaurant in Bilzen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJebdzpdDhwEcRzPTCZapId-I",
-    "name": "Jumbo - Bilzen",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Bilzen-Hoeselt",
-    "address": "Jumbo - Bilzen, Tongersestraat 56/001, 3740 Bilzen-Hoeselt",
-    "street": "Tongersestraat 56/001",
-    "postal_code": "3740",
-    "region": null,
-    "latitude": 50.865472499999996,
-    "longitude": 5.5073424,
-    "phone": "089 50 06 70",
-    "website": "https://www.jumbo.com/nl-be/winkels/jumbo-bilzen-tongersestraat",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Jumbo%20-%20Bilzen&query_place_id=ChIJebdzpdDhwEcRzPTCZapId-I",
-    "open_hours_json": {
-      "Monday": [
-        "8 am–8 pm"
-      ],
-      "Tuesday": [
-        "8 am–8 pm"
-      ],
-      "Wednesday": [
-        "8 am–8 pm"
-      ],
-      "Thursday": [
-        "8 am–8 pm"
-      ],
-      "Friday": [
-        "8 am–8 pm"
-      ],
-      "Saturday": [
-        "8 am–8 pm"
-      ],
-      "Sunday": [
-        "8 am–8 pm"
-      ]
-    },
-    "review_count": 303,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLepBn20UKRaqEjiVHGr5wEjt6SGmwsAkJ2ah4i4kz0tkoSymlUS5mWt6dXBXSKt6vgxY42fvcNyTEoSMOnb3lR83OMykRcvDFa5WzDYzTHJSPCK72YNCJqj8B0KnclgK7HDPr3N=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLepBn20UKRaqEjiVHGr5wEjt6SGmwsAkJ2ah4i4kz0tkoSymlUS5mWt6dXBXSKt6vgxY42fvcNyTEoSMOnb3lR83OMykRcvDFa5WzDYzTHJSPCK72YNCJqj8B0KnclgK7HDPr3N=w1000-h750-no",
-    "source_query": "Hypermarket in Bilzen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJXVJcEsvmwEcRQS9t5WV60CI",
-    "name": "Kampernoelie",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Bilzen-Hoeselt",
-    "address": "Kampernoelie, Bergstraat 55, 3730 Bilzen-Hoeselt",
-    "street": "Bergstraat 55",
-    "postal_code": "3730",
-    "region": null,
-    "latitude": 50.8566131,
-    "longitude": 5.4831862,
-    "phone": "0478 53 54 64",
-    "website": "http://www.kampernoelie.com/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kampernoelie&query_place_id=ChIJXVJcEsvmwEcRQS9t5WV60CI",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "7–11:30 pm"
-      ],
-      "Friday": [
-        "7–11:30 pm"
-      ],
-      "Saturday": [
-        "7–11:30 pm"
-      ],
-      "Sunday": [
-        "12–2 pm",
-        "7–11:30 pm"
-      ]
-    },
-    "review_count": 218,
-    "rating": 4.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfjFT3pLkSkZTsrlCldYPNWLSxr5ldfCAMOP6eJSMu7xxGSWEH5P_cyygLJMiQatWdpPPJE1t9AfvHukfBMvVGPNQGEBnZgilzdfCE1rGvZknk7Bq5rHVDvhLTEtkGd3qoCSG4=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfjFT3pLkSkZTsrlCldYPNWLSxr5ldfCAMOP6eJSMu7xxGSWEH5P_cyygLJMiQatWdpPPJE1t9AfvHukfBMvVGPNQGEBnZgilzdfCE1rGvZknk7Bq5rHVDvhLTEtkGd3qoCSG4=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Hoeselt, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ_V4vm6HhwEcRd1cDzkGChjM",
-    "name": "Le Trésor",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Bilzen-Hoeselt",
-    "address": "Le Trésor, Boeleberg 14, 3730 Bilzen-Hoeselt",
-    "street": "Boeleberg 14",
-    "postal_code": "3730",
-    "region": null,
-    "latitude": 50.845902699999996,
-    "longitude": 5.489662399999999,
-    "phone": "089 41 18 01",
-    "website": "https://xn--letrsor-eya.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Tr%C3%A9sor&query_place_id=ChIJ_V4vm6HhwEcRd1cDzkGChjM",
-    "open_hours_json": {
-      "Monday": [
-        "6–9 pm"
-      ],
-      "Tuesday": [
-        "6–9 pm"
-      ],
-      "Wednesday": [
-        "6–9 pm"
-      ],
-      "Thursday": [
-        "6–9 pm"
-      ],
-      "Friday": [
-        "6–9 pm"
-      ],
-      "Saturday": [
-        "6–9 pm"
-      ],
-      "Sunday": [
-        "12–3 pm",
-        "6–9 pm"
-      ]
-    },
-    "review_count": 8,
-    "rating": 2.4,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf6_xQYWxVPyjwSh-tQOu_vRPHwylfms7rEofkN455TOwPKsRAyNGwQUBFR40bBJ8TM1m4W0JnZ5ETZ3gKbKLTP9AO2QkFN3n63WmK5Jnn5tszm-0uN5qJvYBNGLVQmoxN1j88=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf6_xQYWxVPyjwSh-tQOu_vRPHwylfms7rEofkN455TOwPKsRAyNGwQUBFR40bBJ8TM1m4W0JnZ5ETZ3gKbKLTP9AO2QkFN3n63WmK5Jnn5tszm-0uN5qJvYBNGLVQmoxN1j88=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Hoeselt, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJj1dHQwDfwEcROR-2p-OPvNc",
-    "name": "Masal Eethuis",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Bilzen-Hoeselt",
-    "address": "Masal Eethuis, Oude Siemerstraat 16, 3740 Bilzen-Hoeselt",
-    "street": "Oude Siemerstraat 16",
-    "postal_code": "3740",
-    "region": null,
-    "latitude": 50.8977684,
-    "longitude": 5.5227727,
-    "phone": "0491 30 40 30",
-    "website": "https://www.masalbilzen.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Masal%20Eethuis&query_place_id=ChIJj1dHQwDfwEcROR-2p-OPvNc",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "11 am–10:30 pm"
-      ],
-      "Wednesday": [
-        "11 am–10:30 pm"
-      ],
-      "Thursday": [
-        "11 am–10:30 pm"
-      ],
-      "Friday": [
-        "4–10:30 pm"
-      ],
-      "Saturday": [
-        "2–10:30 pm"
-      ],
-      "Sunday": [
-        "2–10:30 pm"
-      ]
-    },
-    "review_count": 95,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcYsoySZNY-Z6XqHbt-cNwh4wSPu7PvRPQET6-V2km_gGF8nCFROhTtIszaSYiNMwAndbtJBbdW0GYDey57Xjf9ZaMcZiRHM8p7kPAax56FYi4ZGuMb8yg03cmQzGm_Vc6Yo7fMl-DmcSk=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcYsoySZNY-Z6XqHbt-cNwh4wSPu7PvRPQET6-V2km_gGF8nCFROhTtIszaSYiNMwAndbtJBbdW0GYDey57Xjf9ZaMcZiRHM8p7kPAax56FYi4ZGuMb8yg03cmQzGm_Vc6Yo7fMl-DmcSk=w1000-h750-no",
-    "source_query": "Halal restaurant in Bilzen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJhxMBXaXgwEcRQN-BvKrc5gA",
-    "name": "Moskee Al Mouhsinine",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Bilzen-Hoeselt",
-    "address": "Moskee Al Mouhsinine, Hasseltsepoort 17, 3740 Bilzen-Hoeselt",
-    "street": "Hasseltsepoort 17",
-    "postal_code": "3740",
-    "region": null,
-    "latitude": 50.8730402,
-    "longitude": 5.5137203,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Al%20Mouhsinine&query_place_id=ChIJhxMBXaXgwEcRQN-BvKrc5gA",
-    "open_hours_json": {
-      "Monday": [
-        "6 am–11 pm"
-      ],
-      "Tuesday": [
-        "6 am–11 pm"
-      ],
-      "Wednesday": [
-        "6 am–11 pm"
-      ],
-      "Thursday": [
-        "6 am–11 pm"
-      ],
-      "Friday": [
-        "6 am–11 pm"
-      ],
-      "Saturday": [
-        "6 am–11 pm"
-      ],
-      "Sunday": [
-        "6 am–11 pm"
-      ]
-    },
-    "review_count": 14,
-    "rating": 4.9,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcmRe_XZeoYzw0wed7k9mMVntQqxHsaI3AT82hYoQ7-rD0rGBn_5nLs9v9KzGwfJQSaMbcf8xnSCgAwD-4PZJFUeG1L_X-xiS-oeFC8BQe8ksNd7xizbNW-izoqKKoHdWqq61c=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcmRe_XZeoYzw0wed7k9mMVntQqxHsaI3AT82hYoQ7-rD0rGBn_5nLs9v9KzGwfJQSaMbcf8xnSCgAwD-4PZJFUeG1L_X-xiS-oeFC8BQe8ksNd7xizbNW-izoqKKoHdWqq61c=w1000-h750-no",
-    "source_query": "Mosque in Tongeren, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ65_uaADhwEcRJ6f1mNLLHpA",
-    "name": "NK Supermarkt",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Bilzen-Hoeselt",
-    "address": "NK Supermarkt, Zeepstraat, 3740 Bilzen-Hoeselt",
-    "street": "Zeepstraat",
-    "postal_code": "3740",
-    "region": null,
-    "latitude": 50.868258999999995,
-    "longitude": 5.5098674999999995,
-    "phone": null,
-    "website": "http://nksupermarket.grapesstudio.ai/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=NK%20Supermarkt&query_place_id=ChIJ65_uaADhwEcRJ6f1mNLLHpA",
-    "open_hours_json": {
-      "Monday": [
-        "6 am–10 pm"
-      ],
-      "Tuesday": [
-        "6 am–10 pm"
-      ],
-      "Wednesday": [
-        "6 am–10 pm"
-      ],
-      "Thursday": [
-        "6 am–10 pm"
-      ],
-      "Friday": [
-        "6 am–12 am"
-      ],
-      "Saturday": [
-        "6 am–12 am"
-      ],
-      "Sunday": [
-        "6 am–10 pm"
-      ]
-    },
-    "review_count": 3,
-    "rating": 3.0,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLewJB69kLPfttwLWTHbKMWQRhK3zkXEoY2nVIVmLd9KxUeq03D_WLt7zFtU3OVhMmiHER5rVFns_txDLqSOGgg0iHgi26ce7TqUpkt_8yIUjPW80qsy6pfQ0bAIdV3zm-zYhdToiXQ2k0TK=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLewJB69kLPfttwLWTHbKMWQRhK3zkXEoY2nVIVmLd9KxUeq03D_WLt7zFtU3OVhMmiHER5rVFns_txDLqSOGgg0iHgi26ce7TqUpkt_8yIUjPW80qsy6pfQ0bAIdV3zm-zYhdToiXQ2k0TK=w1000-h750-no",
-    "source_query": "Hypermarket in Bilzen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJze7on6LfwEcRouUIey-3HcU",
-    "name": "Nasip restaurant",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Bilzen-Hoeselt",
-    "address": "Nasip restaurant, Perronstraat 12, 3740 Bilzen-Hoeselt",
-    "street": "Perronstraat 12",
-    "postal_code": "3740",
-    "region": null,
-    "latitude": 50.8888015,
-    "longitude": 5.526879699999999,
-    "phone": "089 51 59 29",
-    "website": "https://nasip.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Nasip%20restaurant&query_place_id=ChIJze7on6LfwEcRouUIey-3HcU",
-    "open_hours_json": {
-      "Monday": [
-        "3:30–11 pm"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "3:30–11 pm"
-      ],
-      "Thursday": [
-        "3:30–11 pm"
-      ],
-      "Friday": [
-        "12–11 pm"
-      ],
-      "Saturday": [
-        "3:30–11 pm"
-      ],
-      "Sunday": [
-        "3:30–11 pm"
-      ]
-    },
-    "review_count": 103,
-    "rating": 4.5,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfu4Z7sXXjES6m6MmKuOgU4pBb1M6rOVI-1XHVIc2Cm3ikkS-Do60yUQURo3suUFsRlxd9OosA-fUc18YBuTcrrv5eyV94enM59-cBLNZvdTOYXvxTs_0p9UvOYhGAomrtz8xuUeg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfu4Z7sXXjES6m6MmKuOgU4pBb1M6rOVI-1XHVIc2Cm3ikkS-Do60yUQURo3suUFsRlxd9OosA-fUc18YBuTcrrv5eyV94enM59-cBLNZvdTOYXvxTs_0p9UvOYhGAomrtz8xuUeg=w1000-h750-no",
-    "source_query": "Halal restaurant in Bilzen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJfxzIsaPhwEcRqL-5C7e56XM",
-    "name": "Nif - Comfort Food in Bilzen",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Bilzen-Hoeselt",
-    "address": "Nif - Comfort Food in Bilzen, Klokkeplein, 3740 Bilzen-Hoeselt",
-    "street": "Klokkeplein",
-    "postal_code": "3740",
-    "region": null,
-    "latitude": 50.871011599999996,
-    "longitude": 5.5158472,
-    "phone": "0484 23 33 36",
-    "website": "https://www.resto-nif.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Nif%20-%20Comfort%20Food%20in%20Bilzen&query_place_id=ChIJfxzIsaPhwEcRqL-5C7e56XM",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "8:30 am–5 pm"
-      ],
-      "Wednesday": [
-        "8:30 am–10:30 pm"
-      ],
-      "Thursday": [
-        "8:30 am–10:30 pm"
-      ],
-      "Friday": [
-        "8:30 am–10:30 pm"
-      ],
-      "Saturday": [
-        "8:30 am–10:30 pm"
-      ],
-      "Sunday": [
-        "8:30–11 am"
-      ]
-    },
-    "review_count": 218,
-    "rating": 4.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf__zX0WoKag0TebokDYDxDoZQo8oinXMs9Mu4PTgpYarGrvdI5X90QTMaEFgdkkg36oTAvOG_k9qMOuK87oApyGftnplA66alosEp6A-fuXlb8kGohe8Z_vrxhSvIEKkAAKTo9BYXqktD2=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf__zX0WoKag0TebokDYDxDoZQo8oinXMs9Mu4PTgpYarGrvdI5X90QTMaEFgdkkg36oTAvOG_k9qMOuK87oApyGftnplA66alosEp6A-fuXlb8kGohe8Z_vrxhSvIEKkAAKTo9BYXqktD2=w1000-h750-no",
-    "source_query": "Halal restaurant in Bilzen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJxamKmevhwEcRs1JJlprBpHc",
-    "name": "Nif Coal",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Bilzen-Hoeselt",
-    "address": "Nif Coal, Klokkeplein, 3740 Bilzen-Hoeselt",
-    "street": "Klokkeplein",
-    "postal_code": "3740",
-    "region": null,
-    "latitude": 50.871322799999994,
-    "longitude": 5.5159994999999995,
-    "phone": "0484 23 33 36",
-    "website": "https://www.resto-nif.be/coal?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=16150396508837700121",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Nif%20Coal&query_place_id=ChIJxamKmevhwEcRs1JJlprBpHc",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "6–10 pm"
-      ],
-      "Thursday": [
-        "6–10 pm"
-      ],
-      "Friday": [
-        "6–10 pm"
-      ],
-      "Saturday": [
-        "6–10 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 5,
-    "rating": 5.0,
-    "thumbnail_url": null,
-    "image_url": null,
-    "source_query": "Halal restaurant in Bilzen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJqd3ZVgDhwEcRbfALNspZVUw",
-    "name": "Nijūni by Wong",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Bilzen-Hoeselt",
-    "address": "Nijūni by Wong, Onze Lieve Vrouwstraat 22, 3740 Bilzen-Hoeselt",
-    "street": "Onze Lieve Vrouwstraat 22",
-    "postal_code": "3740",
-    "region": null,
-    "latitude": 50.8707031,
-    "longitude": 5.5156564999999995,
-    "phone": "0478 26 36 66",
-    "website": "http://www.nijuunibywong.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Nij%C5%ABni%20by%20Wong&query_place_id=ChIJqd3ZVgDhwEcRbfALNspZVUw",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "5–10 pm"
-      ],
-      "Wednesday": [
-        "5–10 pm"
-      ],
-      "Thursday": [
-        "5–10 pm"
-      ],
-      "Friday": [
-        "5–10 pm"
-      ],
-      "Saturday": [
-        "5–10 pm"
-      ],
-      "Sunday": [
-        "5–10 pm"
-      ]
-    },
-    "review_count": 92,
-    "rating": 4.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf-GP-p_MebYIEfdwRy7WiOUt-e8EVuc6DcyroZRUU6dWKV8IFRXqqJV-ulnh1AGYWJ2TAbGZbYQVmt_WPf0nBkSeSE4lAFotnX5niXx3BOfjlEmiP6-d-8hNeZIJaW-sgUnFU=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf-GP-p_MebYIEfdwRy7WiOUt-e8EVuc6DcyroZRUU6dWKV8IFRXqqJV-ulnh1AGYWJ2TAbGZbYQVmt_WPf0nBkSeSE4lAFotnX5niXx3BOfjlEmiP6-d-8hNeZIJaW-sgUnFU=w1000-h750-no",
-    "source_query": "Halal restaurant in Bilzen, Flanders, BE",
     "moderation_status": "approved",
     "is_active": true,
     "verification_status": "UNVERIFIED",

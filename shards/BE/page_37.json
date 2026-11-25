@@ -1,5 +1,81 @@
 [
   {
+    "place_id": "ChIJSXOpBO7nw0cRLvAU7zurrfU",
+    "name": "Stichting Ikhlaas",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Zemst",
+    "address": "Stichting Ikhlaas, Tervuursesteenweg 7, 1981 Zemst",
+    "street": "Tervuursesteenweg 7",
+    "postal_code": "1981",
+    "region": null,
+    "latitude": 51.0049262,
+    "longitude": 4.4865119,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Stichting%20Ikhlaas&query_place_id=ChIJSXOpBO7nw0cRLvAU7zurrfU",
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=kD6pLUjVWz07UGH19ddPjQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=77.565765&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=kD6pLUjVWz07UGH19ddPjQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=77.565765&pitch=0&thumbfov=w1000-h750-no",
+    "rating": 4.9,
+    "review_count": 13,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJTdDKZbMmwUcRVBWcGpZoLzU",
+    "name": "Spar EGR",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Zonhoven",
+    "address": "Spar EGR, Beringersteenweg 18, 3520 Zonhoven",
+    "street": "Beringersteenweg 18",
+    "postal_code": "3520",
+    "region": null,
+    "latitude": 50.974480899999996,
+    "longitude": 5.360428199999999,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Spar%20EGR&query_place_id=ChIJTdDKZbMmwUcRVBWcGpZoLzU",
+    "open_hours_json": {
+      "Monday": [
+        "8:30 am–6:30 pm"
+      ],
+      "Tuesday": [
+        "8:30 am–6:30 pm"
+      ],
+      "Wednesday": [
+        "8:30 am–6:30 pm"
+      ],
+      "Thursday": [
+        "Closed"
+      ],
+      "Friday": [
+        "8:30 am–6:30 pm"
+      ],
+      "Saturday": [
+        "8:30 am–6:30 pm"
+      ],
+      "Sunday": [
+        "8:30 am–5 pm"
+      ]
+    },
+    "review_count": 225,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcZUmz5slnQeF1nz6yK-LEhq-Al7kVAFTPUrgLXBMsglRyTgzUEuw7jjxN4wlxW3UY6kAebw9KbT5smADRFON6uoWimrwCDK30_gVWF8AiYv-laFNrATfynkFHI-vypKMx0Qnw1=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcZUmz5slnQeF1nz6yK-LEhq-Al7kVAFTPUrgLXBMsglRyTgzUEuw7jjxN4wlxW3UY6kAebw9KbT5smADRFON6uoWimrwCDK30_gVWF8AiYv-laFNrATfynkFHI-vypKMx0Qnw1=w1000-h750-no",
+    "source_query": "Hypermarket in Beringen, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJlW6On9_M3EcR4_L21pXmrUI",
     "name": "De Reutel",
     "type": "restaurant",

@@ -1,5 +1,487 @@
 [
   {
+    "place_id": "ChIJ17C9PwD3w0cRedEzI_y6bXc",
+    "name": "Restaurant khatoon",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Antwerp",
+    "address": "Restaurant khatoon, Suikerrui 28, 2000 Antwerpen",
+    "street": "Suikerrui 28",
+    "postal_code": "2000",
+    "region": null,
+    "latitude": 51.2207096,
+    "longitude": 4.3985826999999995,
+    "phone": "03 232 21 02",
+    "website": "https://restaurantkhatoon.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20khatoon&query_place_id=ChIJ17C9PwD3w0cRedEzI_y6bXc",
+    "open_hours_json": {
+      "Monday": [
+        "10 am–2:30 pm",
+        "5–10 pm"
+      ],
+      "Tuesday": [
+        "10 am–2:30 pm",
+        "5–10 pm"
+      ],
+      "Wednesday": [
+        "10 am–2:30 pm",
+        "5–10 pm"
+      ],
+      "Thursday": [
+        "10 am–2:30 pm",
+        "5–10 pm"
+      ],
+      "Friday": [
+        "10 am–10:30 pm"
+      ],
+      "Saturday": [
+        "10 am–10:30 pm"
+      ],
+      "Sunday": [
+        "5–10 pm"
+      ]
+    },
+    "review_count": 495,
+    "rating": 4.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc2KnNXUgCMYPDpiJaV_VKN0X0e2HGqEuqcz9dhO--yZq3y9AIbHxPaHbhu0y4bMBt-Gimr6b-LrSlDJG1IpnhtS1vV-2d4t2CoW0A0wdHQMEjg1LjTg6i6Djv7dP85PJnYpLe-wDL6Uh2W=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc2KnNXUgCMYPDpiJaV_VKN0X0e2HGqEuqcz9dhO--yZq3y9AIbHxPaHbhu0y4bMBt-Gimr6b-LrSlDJG1IpnhtS1vV-2d4t2CoW0A0wdHQMEjg1LjTg6i6Djv7dP85PJnYpLe-wDL6Uh2W=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Antwerp, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJbygQZ6j3w0cR-1G3cGZv8g8",
+    "name": "Riad Es - Salam",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Antwerp",
+    "address": "Riad Es - Salam, Handelstraat 41, 2060 Antwerpen",
+    "street": "Handelstraat 41",
+    "postal_code": "2060",
+    "region": null,
+    "latitude": 51.223627,
+    "longitude": 4.428804599999999,
+    "phone": "0467 82 79 79",
+    "website": "http://www.riad-es-salam.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Riad%20Es%20-%20Salam&query_place_id=ChIJbygQZ6j3w0cR-1G3cGZv8g8",
+    "open_hours_json": {
+      "Monday": [
+        "11 am–11 pm"
+      ],
+      "Tuesday": [
+        "11 am–11 pm"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "11 am–11 pm"
+      ],
+      "Friday": [
+        "11 am–11 pm"
+      ],
+      "Saturday": [
+        "11 am–11 pm"
+      ],
+      "Sunday": [
+        "11 am–11 pm"
+      ]
+    },
+    "review_count": 82,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf15lRfCl1jSQwgNAiWfCm1gNinZFlGz63XpiSzhQFgw659NaKT0KwqU41xciMtAA2EKkKXcfjEyN3JPjiZL1-2Ug33ybDNXLx5btXsry0jo-nGSqVXrJc-c48G_U7pBkBT_n6Vfw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf15lRfCl1jSQwgNAiWfCm1gNinZFlGz63XpiSzhQFgw659NaKT0KwqU41xciMtAA2EKkKXcfjEyN3JPjiZL1-2Ug33ybDNXLx5btXsry0jo-nGSqVXrJc-c48G_U7pBkBT_n6Vfw=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Antwerp, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJNeqs3Qb3w0cR7rxZqANeBAw",
+    "name": "Royal Restaurant",
+    "type": "bakery",
+    "category": "bakery",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Antwerp",
+    "address": "Royal Restaurant, Carnotstraat 55, 2060 Antwerpen",
+    "street": "Carnotstraat 55",
+    "postal_code": "2060",
+    "region": null,
+    "latitude": 51.218531999999996,
+    "longitude": 4.4244968,
+    "phone": "0483 10 00 04",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Royal%20Restaurant&query_place_id=ChIJNeqs3Qb3w0cR7rxZqANeBAw",
+    "open_hours_json": {
+      "Monday": [
+        "8 am–8 pm"
+      ],
+      "Tuesday": [
+        "8 am–8 pm"
+      ],
+      "Wednesday": [
+        "8 am–8 pm"
+      ],
+      "Thursday": [
+        "8 am–8 pm"
+      ],
+      "Friday": [
+        "8 am–8 pm"
+      ],
+      "Saturday": [
+        "8 am–8 pm"
+      ],
+      "Sunday": [
+        "8 am–8 pm"
+      ]
+    },
+    "review_count": 256,
+    "rating": 4.0,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd5m-5RZ0sK_vPnvx6HOSYKrWhNfy6p2wh7iFLqb5BQvb5_A8p8A0ABFsMbdP50g5fYYNV2RM6J6CWSw31rhBkWGKHYBC-lt1IMkxvxYHdiXe6B08ZbOYzjMhus_dInzh5_q0c=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd5m-5RZ0sK_vPnvx6HOSYKrWhNfy6p2wh7iFLqb5BQvb5_A8p8A0ABFsMbdP50g5fYYNV2RM6J6CWSw31rhBkWGKHYBC-lt1IMkxvxYHdiXe6B08ZbOYzjMhus_dInzh5_q0c=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Antwerp, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJJdubdcP3w0cRFgZuG4V-5nQ",
+    "name": "Ruba Antwerpen Melkmarkt",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Antwerp",
+    "address": "Ruba Antwerpen Melkmarkt, Melkmarkt 39, 2000 Antwerpen",
+    "street": "Melkmarkt 39",
+    "postal_code": "2000",
+    "region": null,
+    "latitude": 51.219581999999996,
+    "longitude": 4.4029948999999995,
+    "phone": "03 386 25 16",
+    "website": "https://www.rubafood.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ruba%20Antwerpen%20Melkmarkt&query_place_id=ChIJJdubdcP3w0cRFgZuG4V-5nQ",
+    "open_hours_json": {
+      "Monday": [
+        "11 am–9 pm"
+      ],
+      "Tuesday": [
+        "11 am–9 pm"
+      ],
+      "Wednesday": [
+        "11 am–9 pm"
+      ],
+      "Thursday": [
+        "11 am–9 pm"
+      ],
+      "Friday": [
+        "11 am–9 pm"
+      ],
+      "Saturday": [
+        "11 am–9 pm"
+      ],
+      "Sunday": [
+        "11 am–9 pm"
+      ]
+    },
+    "review_count": 235,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd9OwJDKGcnaXVxXsx3fTBWJl5_WfQVtt_kLtZ6ktYmoTopCbe8Tx-3SMYcLwXJw6jwOvZ07CuA5UpF1jeritOFtGrAj3Gva0MZaOkNj2aesCIT5t1eJpwBEzv1xnEGO7GZtx4zBw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd9OwJDKGcnaXVxXsx3fTBWJl5_WfQVtt_kLtZ6ktYmoTopCbe8Tx-3SMYcLwXJw6jwOvZ07CuA5UpF1jeritOFtGrAj3Gva0MZaOkNj2aesCIT5t1eJpwBEzv1xnEGO7GZtx4zBw=w1000-h750-no",
+    "source_query": "Halal restaurant in Antwerp, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJlzi0qwX3w0cRumojeZHFCtc",
+    "name": "Rungis Fish",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Antwerp",
+    "address": "Rungis Fish, Provinciestraat 122, 2018 Antwerpen",
+    "street": "Provinciestraat 122",
+    "postal_code": "2018",
+    "region": null,
+    "latitude": 51.213896399999996,
+    "longitude": 4.4258051,
+    "phone": "0496 08 32 88",
+    "website": "http://rungisfish.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Rungis%20Fish&query_place_id=ChIJlzi0qwX3w0cRumojeZHFCtc",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "Closed"
+      ],
+      "Friday": [
+        "Closed"
+      ],
+      "Saturday": [
+        "5:30–6:30 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 81,
+    "rating": 4.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdYtX_Djff-wf5DizVlYTwWRZwWSGqJxb9r68ieqPIXBPGoTFx8ByLetSngx_dOgpxjOrv3nf29pd5Da_isBpUuSEpixpDUVWtBU0i-HKxlyFk8jnx9Ua5moCklr3BFDKnA2WBn=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdYtX_Djff-wf5DizVlYTwWRZwWSGqJxb9r68ieqPIXBPGoTFx8ByLetSngx_dOgpxjOrv3nf29pd5Da_isBpUuSEpixpDUVWtBU0i-HKxlyFk8jnx9Ua5moCklr3BFDKnA2WBn=w1000-h750-no",
+    "source_query": "Fish restaurant in Antwerp, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJt67EHQD3w0cRP73S6PM652s",
+    "name": "SK EXPRESS",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Antwerp",
+    "address": "SK EXPRESS, Eiermarkt 3, 2000 Antwerpen",
+    "street": "Eiermarkt 3",
+    "postal_code": "2000",
+    "region": null,
+    "latitude": 51.2196273,
+    "longitude": 4.4026548,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=SK%20EXPRESS&query_place_id=ChIJt67EHQD3w0cRP73S6PM652s",
+    "open_hours_json": {
+      "Monday": [
+        "9 am–9 pm"
+      ],
+      "Tuesday": [
+        "9 am–9 pm"
+      ],
+      "Wednesday": [
+        "9 am–9 pm"
+      ],
+      "Thursday": [
+        "9 am–9 pm"
+      ],
+      "Friday": [
+        "9 am–10 pm"
+      ],
+      "Saturday": [
+        "9 am–10 pm"
+      ],
+      "Sunday": [
+        "9 am–9 pm"
+      ]
+    },
+    "review_count": 5,
+    "rating": 4.2,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeROBULfZUE6vXoA6M9dXxQ5YyiDkyR1ICREnvkW40ztwtGFopt7byqHNghFqbjoqxXikUY0zGU1rZwu9nCWyY5mR-1TilyXtyCvhpxSyA8sV87rUq9dcqfUIYEpQeQ3Vzs1lGmDgjoqVY=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeROBULfZUE6vXoA6M9dXxQ5YyiDkyR1ICREnvkW40ztwtGFopt7byqHNghFqbjoqxXikUY0zGU1rZwu9nCWyY5mR-1TilyXtyCvhpxSyA8sV87rUq9dcqfUIYEpQeQ3Vzs1lGmDgjoqVY=w1000-h750-no",
+    "source_query": "Hypermarket in Antwerp, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJhz4zzWX2w0cR2R0lDVInRA4",
+    "name": "SPAR Antwerpen Gloriantlaan",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Antwerp",
+    "address": "SPAR Antwerpen Gloriantlaan, Gloriantlaan 24, 2050 Antwerpen",
+    "street": "Gloriantlaan 24",
+    "postal_code": "2050",
+    "region": null,
+    "latitude": 51.230947,
+    "longitude": 4.385951299999999,
+    "phone": "03 772 73 59",
+    "website": "https://www.mijnspar.be/winkels/spar-linkeroever",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=SPAR%20Antwerpen%20Gloriantlaan&query_place_id=ChIJhz4zzWX2w0cR2R0lDVInRA4",
+    "open_hours_json": {
+      "Monday": [
+        "7:30 am–7 pm"
+      ],
+      "Tuesday": [
+        "7:30 am–7 pm"
+      ],
+      "Wednesday": [
+        "7:30 am–7 pm"
+      ],
+      "Thursday": [
+        "7:30 am–7 pm"
+      ],
+      "Friday": [
+        "7:30 am–7 pm"
+      ],
+      "Saturday": [
+        "7:30 am–6 pm"
+      ],
+      "Sunday": [
+        "7:30 am–1 pm"
+      ]
+    },
+    "review_count": 340,
+    "rating": 4.1,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcFObZ16n_L0e1W1ILeqbx7P0Z5dmYw2c9JECFRD30Egbomf0nPL1O_LcxEncmoBWdNE9JvL73lEJ0l3bT6eic1lcqfg4QRrD038kSQJUZcftJbHlXe2P0XRJLcxgGz3jp2zbWfwxO8v8Hv=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcFObZ16n_L0e1W1ILeqbx7P0Z5dmYw2c9JECFRD30Egbomf0nPL1O_LcxEncmoBWdNE9JvL73lEJ0l3bT6eic1lcqfg4QRrD038kSQJUZcftJbHlXe2P0XRJLcxgGz3jp2zbWfwxO8v8Hv=w1000-h750-no",
+    "source_query": "Hypermarket in Antwerp, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJtVU0BaD3w0cRVJczoCWJaRo",
+    "name": "SU Roots 🇸🇷",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Antwerp",
+    "address": "SU Roots 🇸🇷, Lange Beeldekensstraat 51, 2060 Antwerpen",
+    "street": "Lange Beeldekensstraat 51",
+    "postal_code": "2060",
+    "region": null,
+    "latitude": 51.2214892,
+    "longitude": 4.4239649,
+    "phone": "03 825 61 74",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=SU%20Roots%20%F0%9F%87%B8%F0%9F%87%B7&query_place_id=ChIJtVU0BaD3w0cRVJczoCWJaRo",
+    "open_hours_json": {
+      "Monday": [
+        "10 am–9 pm"
+      ],
+      "Tuesday": [
+        "10 am–9 pm"
+      ],
+      "Wednesday": [
+        "1–7 pm"
+      ],
+      "Thursday": [
+        "10 am–9 pm"
+      ],
+      "Friday": [
+        "10 am–9 pm"
+      ],
+      "Saturday": [
+        "10 am–9 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 70,
+    "rating": 4.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcDv2LGO01diRFcs639gEHCHC3THK0pgOJmH_SSBdYf17KXSBkOsg8FT2LsmthBaCbm3TNk-oFmZ9M6R4xlpHMevDqXcwGex1wNF74T5sa-_sRUAs0AwnlUb2o2wgL1OjUrWrVjRQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcDv2LGO01diRFcs639gEHCHC3THK0pgOJmH_SSBdYf17KXSBkOsg8FT2LsmthBaCbm3TNk-oFmZ9M6R4xlpHMevDqXcwGex1wNF74T5sa-_sRUAs0AwnlUb2o2wgL1OjUrWrVjRQ=w1000-h750-no",
+    "source_query": "Halal restaurant in Antwerp, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ9yAEjQD3w0cRYlBjdRtO6yw",
+    "name": "SUPERMARKET TSING",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Antwerp",
+    "address": "SUPERMARKET TSING, Van Wesenbekestraat 50, 2060 Antwerpen",
+    "street": "Van Wesenbekestraat 50",
+    "postal_code": "2060",
+    "region": null,
+    "latitude": 51.220588899999996,
+    "longitude": 4.420891699999999,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=SUPERMARKET%20TSING&query_place_id=ChIJ9yAEjQD3w0cRYlBjdRtO6yw",
+    "open_hours_json": null,
+    "review_count": 0,
+    "rating": null,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdVlr0qGxzTT7nnuNmtR5WgatCg5eqev6yzij6Ol7_Q0qzsoZZGapfxj7oCWJ82K92CzwuvOI6wEJb3ygDKaKZR6zfjpfMqYayO3h_Zcli2ShjcX2y23bDBHAHz13bPEXhm-88N=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdVlr0qGxzTT7nnuNmtR5WgatCg5eqev6yzij6Ol7_Q0qzsoZZGapfxj7oCWJ82K92CzwuvOI6wEJb3ygDKaKZR6zfjpfMqYayO3h_Zcli2ShjcX2y23bDBHAHz13bPEXhm-88N=w1000-h750-no",
+    "source_query": "Hypermarket in Antwerp, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ0U5pEa33w0cRHduMxF7j750",
+    "name": "Sahar Supermarket",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Antwerp",
+    "address": "Sahar Supermarket, Diepestraat 125, 2060 Antwerpen",
+    "street": "Diepestraat 125",
+    "postal_code": "2060",
+    "region": null,
+    "latitude": 51.2225817,
+    "longitude": 4.4259398999999995,
+    "phone": "0484 16 02 27",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Sahar%20Supermarket&query_place_id=ChIJ0U5pEa33w0cRHduMxF7j750",
+    "open_hours_json": {
+      "Monday": [
+        "8 am–8 pm"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "8 am–8 pm"
+      ],
+      "Thursday": [
+        "8 am–8 pm"
+      ],
+      "Friday": [
+        "8 am–8 pm"
+      ],
+      "Saturday": [
+        "8 am–8 pm"
+      ],
+      "Sunday": [
+        "8 am–8 pm"
+      ]
+    },
+    "review_count": 36,
+    "rating": 4.0,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLec1ZIlWXTYsRoKawM9ocAShTlkYZCBQ4LJj7Obp_9TIJEQreDd-GkpbUeDJTyXBKiGlQQEhtg_31_HCQQ9FTDIEcrtwIyQUhFIBvUQFrp8tYQql7KkFTVymraGV7BYq_-ktMVT=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLec1ZIlWXTYsRoKawM9ocAShTlkYZCBQ4LJj7Obp_9TIJEQreDd-GkpbUeDJTyXBKiGlQQEhtg_31_HCQQ9FTDIEcrtwIyQUhFIBvUQFrp8tYQql7KkFTVymraGV7BYq_-ktMVT=w1000-h750-no",
+    "source_query": "Hypermarket in Antwerp, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJk7UxrZ33w0cRq0YwUBkZqvI",
     "name": "Saint Charles Apothecary Antwerp",
     "type": "restaurant",
@@ -2277,8 +2759,8 @@
     "phone": "0488 33 14 64",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=AFGHAN%20BAZAAR%20ANTWERPEN&query_place_id=ChIJCyQYqav3w0cRf7XqtDk-IUo",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLepOonQOS31ol06LLNpuoWSsQOKf8LhuQam3xWCo9wVfQxTA9giFIRMody81oMTKjkqraXAW3hC13GUlydnDk4pZmJx5ybfUlsEbhPDyJ8AE1FZxPQDu8Ga-XxYL4EPPTQNA2cMbw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLepOonQOS31ol06LLNpuoWSsQOKf8LhuQam3xWCo9wVfQxTA9giFIRMody81oMTKjkqraXAW3hC13GUlydnDk4pZmJx5ybfUlsEbhPDyJ8AE1FZxPQDu8Ga-XxYL4EPPTQNA2cMbw=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcHAFQVh6CT3dcZitahVHQICqCqv-2SXKETlw96RflNakEIVy8Ch49IGBf3F70wrOTQ2TvqtuR3YT--FbNgfa_pk4PmuE-ds4TIdIqgPbEl3eBflLyNYRgiv8tsgqBp7uh7K3OgVQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcHAFQVh6CT3dcZitahVHQICqCqv-2SXKETlw96RflNakEIVy8Ch49IGBf3F70wrOTQ2TvqtuR3YT--FbNgfa_pk4PmuE-ds4TIdIqgPbEl3eBflLyNYRgiv8tsgqBp7uh7K3OgVQ=w1000-h750-no",
     "rating": 4.1,
     "review_count": 158,
     "verification_status": "UNVERIFIED",
@@ -2535,8 +3017,8 @@
     "phone": "0483 63 79 11",
     "website": "http://www.atakmeat.be/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Atak%20Slagerij%20%28Halal%29&query_place_id=ChIJhV80lyP3w0cRADMe7yGcQdI",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdd6Yi8wzlNsYOvIf6AL3fiN8AutPuSyJTFJZVnTpRIo1tvzmTFiUK_RVhBEcyi5Ivv0Snmv50N4cpjodLSOhYEpG96_Wi65AOOsM1DpCwu44SuKkGcRoQNhdfPunsqRJY3zROYTQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdd6Yi8wzlNsYOvIf6AL3fiN8AutPuSyJTFJZVnTpRIo1tvzmTFiUK_RVhBEcyi5Ivv0Snmv50N4cpjodLSOhYEpG96_Wi65AOOsM1DpCwu44SuKkGcRoQNhdfPunsqRJY3zROYTQ=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdDMRi6kV1CsGgCc-tvYtAaMVj0kwJLXvQSD_IOWJ__GSHC1mKDw1YFYDH2fYDDRGNmggQ0rgxAERrQ5ASmUfW_5HshjMaIq5xri6pTitBifBj5fvw7PwUy_J1jWrzzplaZmGakxw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdDMRi6kV1CsGgCc-tvYtAaMVj0kwJLXvQSD_IOWJ__GSHC1mKDw1YFYDH2fYDDRGNmggQ0rgxAERrQ5ASmUfW_5HshjMaIq5xri6pTitBifBj5fvw7PwUy_J1jWrzzplaZmGakxw=w1000-h750-no",
     "rating": 4.6,
     "review_count": 55,
     "verification_status": "VERIFIED",
@@ -2665,8 +3147,8 @@
     "phone": null,
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Beenhouwerij%20Salaam&query_place_id=ChIJDbwtHgz3w0cRR0XNlNnf5U0",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd7K3QEKYWNlYzlfiwR4ftFiu_jSNbacdHAxCXrO4yDV_dUyz6WD_9tDry63k_sR7BBjzfpjPXUiuO_r19Cc1QtBwFV-YT_Un_DifynKayOHNZfPl29O2NPL53QAJw1_8lXeswG=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd7K3QEKYWNlYzlfiwR4ftFiu_jSNbacdHAxCXrO4yDV_dUyz6WD_9tDry63k_sR7BBjzfpjPXUiuO_r19Cc1QtBwFV-YT_Un_DifynKayOHNZfPl29O2NPL53QAJw1_8lXeswG=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfZvnBcfb1LJVh_LEWjUPMUylUowu2wEp6WPUWIkGtOLGlksBiOKOOh5kvgSRybevW3T4cGzbNFYxK5zUpdbb5cAjqID7htL8ecd_Cq9MdDQ6QtD8nWVWNYUeFnD3i2bWUiauF2_Q=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfZvnBcfb1LJVh_LEWjUPMUylUowu2wEp6WPUWIkGtOLGlksBiOKOOh5kvgSRybevW3T4cGzbNFYxK5zUpdbb5cAjqID7htL8ecd_Cq9MdDQ6QtD8nWVWNYUeFnD3i2bWUiauF2_Q=w1000-h750-no",
     "rating": 4.3,
     "review_count": 26,
     "verification_status": "UNVERIFIED",
@@ -2899,8 +3381,8 @@
     "phone": "03 455 94 17",
     "website": "https://www.butchersstore.be/butchers-store-antwerp-city-south/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Butcher%27s%20Store%20South&query_place_id=ChIJjeiUuiT3w0cR1SOaSiMU9DI",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfbxG1YrCqO_p1voOJO_A1_Fm1rwxMJnoeXkG5_xsV5FGxexL3BD8-BpWTaNvZbbYudtFProeBkTW7wj8WhyBUsStEZdn76tImLgQ-qUhUcm2MwfzQiKdOyfKi8TrGR3Qx5Vbc=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfbxG1YrCqO_p1voOJO_A1_Fm1rwxMJnoeXkG5_xsV5FGxexL3BD8-BpWTaNvZbbYudtFProeBkTW7wj8WhyBUsStEZdn76tImLgQ-qUhUcm2MwfzQiKdOyfKi8TrGR3Qx5Vbc=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdNqB7AdAP99tad4AI7JynJW4jNoVoiAEtt4Tac6hW5vVTf2DKFH2yPZ-Q6r0JDmM5u4VdIZbYeXaQWpZ3mw9MCvnHilbuwV6ZYnl0a7b01B6BEEobmoeX9eQhQDO63zi3IfME=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdNqB7AdAP99tad4AI7JynJW4jNoVoiAEtt4Tac6hW5vVTf2DKFH2yPZ-Q6r0JDmM5u4VdIZbYeXaQWpZ3mw9MCvnHilbuwV6ZYnl0a7b01B6BEEobmoeX9eQhQDO63zi3IfME=w1000-h750-no",
     "rating": 4.1,
     "review_count": 139,
     "verification_status": "UNVERIFIED",
@@ -2925,8 +3407,8 @@
     "phone": "0471 93 09 28",
     "website": "https://ctrchicken.com/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=CTR%20CHICKEN%20DEURNE&query_place_id=ChIJmUDBD0X3w0cRPdejFWLl1ts",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeJBdiEwRRgrNUQuSVJvzDvDD0BSGaINOmX3CkpF0YUF2-kTnGi4_pQIXUpleARvXGBoYkR5MihJBgTsiOnh4zcHR9T5Cuu_VVnhbsdyfqjMSpCdlgMenL2rJMO0cyyiededPYUTz4VtEI=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeJBdiEwRRgrNUQuSVJvzDvDD0BSGaINOmX3CkpF0YUF2-kTnGi4_pQIXUpleARvXGBoYkR5MihJBgTsiOnh4zcHR9T5Cuu_VVnhbsdyfqjMSpCdlgMenL2rJMO0cyyiededPYUTz4VtEI=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcdBkjJJjLPXRvveeYumK7pM5nsUsnNn_b4Jvo_BB0cTOxGQpvMo_QCvhuOyMBhyNPvzfyK3ymIV0kF0hrpVKr4jauYsxPH6_derkFBz06YGepxetTaZX_KTawag3YFDMGLFfXrFbML_sY=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcdBkjJJjLPXRvveeYumK7pM5nsUsnNn_b4Jvo_BB0cTOxGQpvMo_QCvhuOyMBhyNPvzfyK3ymIV0kF0hrpVKr4jauYsxPH6_derkFBz06YGepxetTaZX_KTawag3YFDMGLFfXrFbML_sY=w1000-h750-no",
     "rating": 4.7,
     "review_count": 79,
     "verification_status": "UNVERIFIED",
@@ -3081,8 +3563,8 @@
     "phone": "0483 05 19 41",
     "website": "https://de-koepel.be/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=De-Koepel%20moskee&query_place_id=ChIJAZsycnP3w0cRuDY7tBDy83g",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdyk-3Kqkt-o0_DL8RPqFpVDH8GW9uJeJauaVC0ANjTDwDy3cgBEQw8jeawhTbzxbuncJYlmwaaroF1D339YdzlhhMovKTwNmJJhiT0-AwkOrjEL6mdrp-IgD-zXMV54vi7-nGfNw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdyk-3Kqkt-o0_DL8RPqFpVDH8GW9uJeJauaVC0ANjTDwDy3cgBEQw8jeawhTbzxbuncJYlmwaaroF1D339YdzlhhMovKTwNmJJhiT0-AwkOrjEL6mdrp-IgD-zXMV54vi7-nGfNw=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfnY3VQbRxgnS_9EYNq74xOWCjsq5HctPyfos9jxIHi6RZp6yacpbPaV4KHzj1SzOmeW4OQG6pjUmYfPpzzvBKbKfyOheQmxmxxHZXo4aPuOf3BxjkNw4dVRUN5xUXT8uKJFwk_rg=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfnY3VQbRxgnS_9EYNq74xOWCjsq5HctPyfos9jxIHi6RZp6yacpbPaV4KHzj1SzOmeW4OQG6pjUmYfPpzzvBKbKfyOheQmxmxxHZXo4aPuOf3BxjkNw4dVRUN5xUXT8uKJFwk_rg=w1000-h750-no",
     "rating": 4.6,
     "review_count": 83,
     "verification_status": "UNVERIFIED",
@@ -3549,8 +4031,8 @@
     "phone": "03 326 50 02",
     "website": "http://www.chatar.be/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Halal%20Food%20Chakirs%20Bvba&query_place_id=ChIJR060vmrxw0cRqvkyDYlGzBU",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdwRLXyRWz4eE3BiLopSOWAj0DM4j-f4RcypmK80peSTZzHFHCmmd2TuC85-eBYFtH988FY5FxYPz6uR5KTrJ-qFBqt9sZl6soaruiwmxNVQVb6jRTvhiuNLnOXirlMkYN8kNAp=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdwRLXyRWz4eE3BiLopSOWAj0DM4j-f4RcypmK80peSTZzHFHCmmd2TuC85-eBYFtH988FY5FxYPz6uR5KTrJ-qFBqt9sZl6soaruiwmxNVQVb6jRTvhiuNLnOXirlMkYN8kNAp=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdsFNE24_oadH-_JMVEwpSaqdrfDFyVpUULgqrxxBdu_LOAkMWYqY2Iwl_Vh6QwufbBCIYzssiily1hb5Cbh6dd8ibuuP0vI8eDtQHfQQwYH5Q8Tc77N-o4kgDz8U7zAYUG901v=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdsFNE24_oadH-_JMVEwpSaqdrfDFyVpUULgqrxxBdu_LOAkMWYqY2Iwl_Vh6QwufbBCIYzssiily1hb5Cbh6dd8ibuuP0vI8eDtQHfQQwYH5Q8Tc77N-o4kgDz8U7zAYUG901v=w1000-h750-no",
     "rating": 4.4,
     "review_count": 32,
     "verification_status": "VERIFIED",
@@ -3653,8 +4135,8 @@
     "phone": "03 314 01 40",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Houtforni&query_place_id=ChIJdbFGPXD3w0cR5gb5zdeMBe0",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeilR4H-I2OK7wsfzOZmzP4m46ZopNHbHcJBvYxU4IfkDnqUDFsEQV9ykWVuBreSDQ7lgHJYvdpyIRuzxZKMw__CjPic6Icfl3LNMb4QMAUR7nYYxTdVEDyuD-6mWV-Vs8PYZrcdA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeilR4H-I2OK7wsfzOZmzP4m46ZopNHbHcJBvYxU4IfkDnqUDFsEQV9ykWVuBreSDQ7lgHJYvdpyIRuzxZKMw__CjPic6Icfl3LNMb4QMAUR7nYYxTdVEDyuD-6mWV-Vs8PYZrcdA=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdSIDvDl4kFxhfPYnFlLG00mmLSbhW6K1ADiB_FaJF1WwinvXw-W6Nd5nJ2VJSTtbmCCZx0L_f3wgA0cJvE7D1BwymHGYnPy8y7j0kZEz_G3Y2o7qSfAFZDtTYKHtlshaVyT_4W=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdSIDvDl4kFxhfPYnFlLG00mmLSbhW6K1ADiB_FaJF1WwinvXw-W6Nd5nJ2VJSTtbmCCZx0L_f3wgA0cJvE7D1BwymHGYnPy8y7j0kZEz_G3Y2o7qSfAFZDtTYKHtlshaVyT_4W=w1000-h750-no",
     "rating": 4.3,
     "review_count": 427,
     "verification_status": "VERIFIED",
@@ -3705,8 +4187,8 @@
     "phone": "03 411 11 08",
     "website": "http://www.ismarsupermarkt.be/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=ISMAR%20supermarkt&query_place_id=ChIJedH5AWX3w0cRADD_CEd84zc",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd9vYQX8clEePSoYJCkJ12kCAlzOo__Q3lYycezE_N-fQZZbmLlj-DHiSCvlyJRhV2XFPoDttQ7A_pY8P7dnFjd2upk4x50S0fm_RCzL6nYhZCHeNgU1F07kvHM8I588IJ5ZCMlxGNYOL5D=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd9vYQX8clEePSoYJCkJ12kCAlzOo__Q3lYycezE_N-fQZZbmLlj-DHiSCvlyJRhV2XFPoDttQ7A_pY8P7dnFjd2upk4x50S0fm_RCzL6nYhZCHeNgU1F07kvHM8I588IJ5ZCMlxGNYOL5D=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf29cycBcVY6hWXeSqCjHWKR3roWydKLv_nFnHnh_rM_VfXwBuxoEaY-xQcXEj49b5NbpGtFoOu7OFQSn3b6Y1Z2lGW93B56NvwMArUjvhrxdIg4n9SU6CL325SRVqP27rKFwiAHhw0EJZy=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf29cycBcVY6hWXeSqCjHWKR3roWydKLv_nFnHnh_rM_VfXwBuxoEaY-xQcXEj49b5NbpGtFoOu7OFQSn3b6Y1Z2lGW93B56NvwMArUjvhrxdIg4n9SU6CL325SRVqP27rKFwiAHhw0EJZy=w1000-h750-no",
     "rating": 4.0,
     "review_count": 121,
     "verification_status": "UNVERIFIED",
@@ -3913,8 +4395,8 @@
     "phone": "03 669 54 36",
     "website": "https://karimsupermarkt.be/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Karim%20Supermarkt&query_place_id=ChIJO3gVIgz3w0cRImt5mpGicYo",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdQD3RMmcvYwRPTuKxfbzs-4919qqmmbzA75E4d1VEEiKVtMKz9xP-F3rwvzeFeNkA9yHr6yczoTvQPr_tpk9M_IjtnNhHWl67PnTHAcO3ipmJn9p_lsh6m2mD9nWzDaa6UDeJXWQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdQD3RMmcvYwRPTuKxfbzs-4919qqmmbzA75E4d1VEEiKVtMKz9xP-F3rwvzeFeNkA9yHr6yczoTvQPr_tpk9M_IjtnNhHWl67PnTHAcO3ipmJn9p_lsh6m2mD9nWzDaa6UDeJXWQ=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdCFRh7-jOg_6jekDtF0PzS5PvEVsww0sX43ZDS0Mm1TxbzBs4O91l2POvgb3FIfJ_YqBFRrFsG6A9Oxf1o7zPayVOEI-yTcevSbogdSuWGchY2nog94EJ7xgNCkZbJE_nKPKHAGA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdCFRh7-jOg_6jekDtF0PzS5PvEVsww0sX43ZDS0Mm1TxbzBs4O91l2POvgb3FIfJ_YqBFRrFsG6A9Oxf1o7zPayVOEI-yTcevSbogdSuWGchY2nog94EJ7xgNCkZbJE_nKPKHAGA=w1000-h750-no",
     "rating": 4.2,
     "review_count": 796,
     "verification_status": "UNVERIFIED",
@@ -4381,8 +4863,8 @@
     "phone": "0485 38 46 56",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mehmet%20Akif%20camii&query_place_id=ChIJlUoETOr2w0cRPC1Wy2HxLpU",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeSRCF8-SQV8C-AR6jpadPqw-a10sthsePjBhGkcJC_P-r_HybbVzBRBCQ6zvvRM-xz5G2BBi1sfiFkIUmm8cVTLS0tlN3MLysmgecksArg_RRgy78ZZtVA-Vzq1eu0vfZ9AEuh=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeSRCF8-SQV8C-AR6jpadPqw-a10sthsePjBhGkcJC_P-r_HybbVzBRBCQ6zvvRM-xz5G2BBi1sfiFkIUmm8cVTLS0tlN3MLysmgecksArg_RRgy78ZZtVA-Vzq1eu0vfZ9AEuh=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc51wiC5IHeDJqRqYltLZsz4qk-iYVCHiAaRIy8ObV9_pY84eHfr3oL1JsmftZLRn4MPdZeEPe9ysYSqw8Y7WsZBbgyWr5nf5EqAIPzxEwt3dT2j-ZnR53tguIu7JWBVwcPliTQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc51wiC5IHeDJqRqYltLZsz4qk-iYVCHiAaRIy8ObV9_pY84eHfr3oL1JsmftZLRn4MPdZeEPe9ysYSqw8Y7WsZBbgyWr5nf5EqAIPzxEwt3dT2j-ZnR53tguIu7JWBVwcPliTQ=w1000-h750-no",
     "rating": 4.8,
     "review_count": 103,
     "verification_status": "UNVERIFIED",
@@ -4407,8 +4889,8 @@
     "phone": "03 235 09 44",
     "website": "http://www.meramsupermarket.be/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Meram&query_place_id=ChIJNXuoxcn2w0cR75W5sNBM2w8",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdDneSNVQWL1gLS35hIsph1Ej27YSAsEWw7cl0G0d3WiexEsuBiS9VlMpx11PV8hKpBk0P1vCLQMzUTEbfe9EG3n7PEPDmZyvadjzEVE5romDmyEJdh7TkOqQ08ic0vxLZESk49=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdDneSNVQWL1gLS35hIsph1Ej27YSAsEWw7cl0G0d3WiexEsuBiS9VlMpx11PV8hKpBk0P1vCLQMzUTEbfe9EG3n7PEPDmZyvadjzEVE5romDmyEJdh7TkOqQ08ic0vxLZESk49=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLch5maAEqCPyfsXTrX8J4bf03XNcuqnCOmR9bJTSs2fWrNzFOYXpEvo_zMItvc-UtCAVs3dbYfnPhRTSLViAqQ7YHk-y5lMzeXbbXIMR7B2uBv9fplKK2S9YDWZLucE_mmNgPBb=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLch5maAEqCPyfsXTrX8J4bf03XNcuqnCOmR9bJTSs2fWrNzFOYXpEvo_zMItvc-UtCAVs3dbYfnPhRTSLViAqQ7YHk-y5lMzeXbbXIMR7B2uBv9fplKK2S9YDWZLucE_mmNgPBb=w1000-h750-no",
     "rating": 4.2,
     "review_count": 568,
     "verification_status": "UNVERIFIED",
@@ -4511,8 +4993,8 @@
     "phone": null,
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Al%20Iman&query_place_id=ChIJmSFZjgT3w0cREgyo3qThamQ",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc5yOwaRsy6MF--EJJNT_ORqwa8QmAJPxD3M9-DBmRf2pUH_u1O4RIAyWnTqBE8d9k_iKKPZFdt_xut-ZawLo4YM6TYdrc-aIrwjr28_xYN2s7BX_4QFU7sWUfG2qFs4TO1QiBhKCnmCpU5=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc5yOwaRsy6MF--EJJNT_ORqwa8QmAJPxD3M9-DBmRf2pUH_u1O4RIAyWnTqBE8d9k_iKKPZFdt_xut-ZawLo4YM6TYdrc-aIrwjr28_xYN2s7BX_4QFU7sWUfG2qFs4TO1QiBhKCnmCpU5=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdTP-idxE2XltiPTkHM5fP8efAL1KMag5IgZPGi-eFs91WOlRKDorU8KGY3zXfhEJh7tqPHSZlgUyHnGHWfx8CITxp3y8APtmShH4fskyUVoCvQd9gzcHYca3HI6z-grWObw6PY=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdTP-idxE2XltiPTkHM5fP8efAL1KMag5IgZPGi-eFs91WOlRKDorU8KGY3zXfhEJh7tqPHSZlgUyHnGHWfx8CITxp3y8APtmShH4fskyUVoCvQd9gzcHYca3HI6z-grWObw6PY=w1000-h750-no",
     "rating": 4.6,
     "review_count": 135,
     "verification_status": "UNVERIFIED",
@@ -5057,8 +5539,8 @@
     "phone": null,
     "website": "https://www.facebook.com/Romani-dzamija-ko-Antwerpen-1748539652082172",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Es-Sabur%F0%9F%95%8C&query_place_id=ChIJV4YAS6n3w0cRRYTNJPIVvto",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeYpA3w8RT-5knGv1Iwv4bQ_XmyRhcKTmRWNqjTBvkwHC73q_CeQgDhmqCbnI_wa14yvnpyCBTTyLgeq0k7gikr7xuHPqcqecBFxyYdquWhDUCik_YoVcjOQOn6qMCyEFB1zsMU=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeYpA3w8RT-5knGv1Iwv4bQ_XmyRhcKTmRWNqjTBvkwHC73q_CeQgDhmqCbnI_wa14yvnpyCBTTyLgeq0k7gikr7xuHPqcqecBFxyYdquWhDUCik_YoVcjOQOn6qMCyEFB1zsMU=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc6CYZ8FaNXMqjhMhPLCpAm3WM2j3YPgBQfLKFns1mOJLZ1a6rNOoTiLb-lsx2jVg715_MDClQ9-dqrY0dWxt5AJm-GJ0_JUptfsp8iQJtTSb390avAymz3xImQi4yWb1X0ief8=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc6CYZ8FaNXMqjhMhPLCpAm3WM2j3YPgBQfLKFns1mOJLZ1a6rNOoTiLb-lsx2jVg715_MDClQ9-dqrY0dWxt5AJm-GJ0_JUptfsp8iQJtTSb390avAymz3xImQi4yWb1X0ief8=w1000-h750-no",
     "rating": 5.0,
     "review_count": 11,
     "verification_status": "UNVERIFIED",
@@ -5187,8 +5669,8 @@
     "phone": "0483 02 58 89",
     "website": "http://facebook.com/antwerpenimambuharicamii",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Imami-Buhari%20Camii%20%F0%9F%95%8C&query_place_id=ChIJocHF2673w0cRS99Qz1tcHXs",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeuLcj5bAXFCMZ7yEWIdRGe4expt3SznDPR7F6t46fnsb17KuwBvQuiBKukteoLL0pseuPa_RdrFm9iPReJPTxElJugJHniHAXbjZFx4Iz41aFyXHQo9ZCLad_UwWfCs5SHEe1w=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeuLcj5bAXFCMZ7yEWIdRGe4expt3SznDPR7F6t46fnsb17KuwBvQuiBKukteoLL0pseuPa_RdrFm9iPReJPTxElJugJHniHAXbjZFx4Iz41aFyXHQo9ZCLad_UwWfCs5SHEe1w=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLco6WttMikJo6B-5FTMhiEROm9ZJnCvsMEY_SyczDFTib9VGCZQDfuSbNBa9hsOdUBM2UDKIKEaiyzTUx3WMTreaZ4tSi6SNXbk33g-TknGX4EB4expjPtiiyyLwY1PUumqtKNcdQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLco6WttMikJo6B-5FTMhiEROm9ZJnCvsMEY_SyczDFTib9VGCZQDfuSbNBa9hsOdUBM2UDKIKEaiyzTUx3WMTreaZ4tSi6SNXbk33g-TknGX4EB4expjPtiiyyLwY1PUumqtKNcdQ=w1000-h750-no",
     "rating": 4.8,
     "review_count": 118,
     "verification_status": "UNVERIFIED",
@@ -5213,8 +5695,8 @@
     "phone": null,
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Khatim-Ul-Anbia%20%F0%9F%95%8C&query_place_id=ChIJcZ5tbKz3w0cRSQYyFZ5bems",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe0GHjzFnNIZ-4bAj02gWlZB9K0T1_sauSv6tYH_BRSthiEfWBjyj_COT7hoF8w5TALawhTTQp9isDnv2pq6VzCemru7FzVE0hq4MJGS1i0xzYDiBPdgHto8AoMNnD_v_50oXuthw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe0GHjzFnNIZ-4bAj02gWlZB9K0T1_sauSv6tYH_BRSthiEfWBjyj_COT7hoF8w5TALawhTTQp9isDnv2pq6VzCemru7FzVE0hq4MJGS1i0xzYDiBPdgHto8AoMNnD_v_50oXuthw=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeQ0tY7lwqQ20-NooD-BzDln6ZTmiIrSIG7Nu748wXbGBjf6OyLuTcVSITRYYXOShQLTjlNDfP7KtLpT7l6owJmS61xmdf-bYKyVk72pZ6dVXvNUTIFpXwkthY3Lp2neqYsnu6x=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeQ0tY7lwqQ20-NooD-BzDln6ZTmiIrSIG7Nu748wXbGBjf6OyLuTcVSITRYYXOShQLTjlNDfP7KtLpT7l6owJmS61xmdf-bYKyVk72pZ6dVXvNUTIFpXwkthY3Lp2neqYsnu6x=w1000-h750-no",
     "rating": 5.0,
     "review_count": 44,
     "verification_status": "UNVERIFIED",
@@ -5291,8 +5773,8 @@
     "phone": null,
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Selimiye%20Camii&query_place_id=ChIJ41m_yCL3w0cRB_ofnkGV3DY",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdp58147h6XCXalhBKhYSbXufc5wrdcZO9UJF1tp2AhgP_MN3rQENX6RGRTBtFWkcgyCX7ELaSJjrpKRY2WEepnPW0xOVf6OYsAjaWHybeH4T50QGrf9AZwHaZlkRbM4pXe57kpS414tAbu=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdp58147h6XCXalhBKhYSbXufc5wrdcZO9UJF1tp2AhgP_MN3rQENX6RGRTBtFWkcgyCX7ELaSJjrpKRY2WEepnPW0xOVf6OYsAjaWHybeH4T50QGrf9AZwHaZlkRbM4pXe57kpS414tAbu=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeqjVTcdIOJKe92bVAUgnvN5XS_vYMw9OpQEHVb5EkiPMUzicJhNzWQeYKNqKE27rk8ECW8kWI73KsGqy4gth72EEty5sa4gr57VlQ-0giZl5l4vzrrViq6Wm7FFmQrrsidobMk=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeqjVTcdIOJKe92bVAUgnvN5XS_vYMw9OpQEHVb5EkiPMUzicJhNzWQeYKNqKE27rk8ECW8kWI73KsGqy4gth72EEty5sa4gr57VlQ-0giZl5l4vzrrViq6Wm7FFmQrrsidobMk=w1000-h750-no",
     "rating": 4.8,
     "review_count": 53,
     "verification_status": "UNVERIFIED",
@@ -5785,8 +6267,8 @@
     "phone": "0484 22 96 56",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Sezer%20Slagerij%20Kasabi&query_place_id=ChIJ-87Eqav3w0cR9T_XE_E1Ld8",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfEPZWjOfoOtWjwpd5P9dLvRMT-fra9Ym0hlsMOq6YtM4g_U07cF1ubjWR1Jfq3QLm5-T0oiwJG5aNrThjgMrctXlNjPiOtF5c-3TVbD_VbTHy_Vyf-SU_IU1neW2WAiAoetYRZ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfEPZWjOfoOtWjwpd5P9dLvRMT-fra9Ym0hlsMOq6YtM4g_U07cF1ubjWR1Jfq3QLm5-T0oiwJG5aNrThjgMrctXlNjPiOtF5c-3TVbD_VbTHy_Vyf-SU_IU1neW2WAiAoetYRZ=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeVzntS3h1FjgUgB8IyIoi8o2171aKYGXZCwMXdOyIRnAk3rJNcVlAR6iWuN2IbdN7yNj3Z4Y6Dxf2xn0l-WvCfbsGDZhnyToDXFw31npxl4rPnjgD9Vbd8xxNergOso0Gl50aj_xi-8YQ2=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeVzntS3h1FjgUgB8IyIoi8o2171aKYGXZCwMXdOyIRnAk3rJNcVlAR6iWuN2IbdN7yNj3Z4Y6Dxf2xn0l-WvCfbsGDZhnyToDXFw31npxl4rPnjgD9Vbd8xxNergOso0Gl50aj_xi-8YQ2=w1000-h750-no",
     "rating": 4.1,
     "review_count": 32,
     "verification_status": "UNVERIFIED",
@@ -5941,8 +6423,8 @@
     "phone": "0488 49 50 42",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Slagerij%20Al%20Mubarak&query_place_id=ChIJ_xCUdGH3w0cRKvED-IkhfIA",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf9ovYAA982UVgtuxZ6BjaI1_nWMDoFs8oKvyUkK2UpHRDwYeOiScinrc835iReybUbItY6tJbN8XQ1cUWsJyWAj5V0-vSjRHuwpXkxiCrN1rNlcfjDG6MqgycOfVT1xzuxUB_U0g=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf9ovYAA982UVgtuxZ6BjaI1_nWMDoFs8oKvyUkK2UpHRDwYeOiScinrc835iReybUbItY6tJbN8XQ1cUWsJyWAj5V0-vSjRHuwpXkxiCrN1rNlcfjDG6MqgycOfVT1xzuxUB_U0g=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdIZwkh5DTbKAk9y8EU-fZU-xmx-HrSdMmw8_CdVjmE68MxGP31HRWepvvSdm562BBFW0MD-9qqW3XAmcDLAwMdKN2X25YsHo_O-WW7PFdqbtdemuSjcIx3RgqzAe5cTT_STAk7hQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdIZwkh5DTbKAk9y8EU-fZU-xmx-HrSdMmw8_CdVjmE68MxGP31HRWepvvSdm562BBFW0MD-9qqW3XAmcDLAwMdKN2X25YsHo_O-WW7PFdqbtdemuSjcIx3RgqzAe5cTT_STAk7hQ=w1000-h750-no",
     "rating": 3.6,
     "review_count": 15,
     "verification_status": "UNVERIFIED",
@@ -5967,8 +6449,8 @@
     "phone": "0485 16 54 59",
     "website": "http://www.slagerij-aman.be/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Slagerij%20Aman%20%28Halal%29&query_place_id=ChIJR_-vPT33w0cRJd2PAuTj4LQ",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfd_z8DwYY65Rx_6MM71d9blCrl4Lu4ZhPmpUmUf7_UzTI8aaSY2PHoarR4QkuDrjdsQg3nlSFg9nhCkxtXvIrRJrMqBqHhLnMtaG9jEZueYy3oI056a4C7iyYKT18KzBagnTmQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfd_z8DwYY65Rx_6MM71d9blCrl4Lu4ZhPmpUmUf7_UzTI8aaSY2PHoarR4QkuDrjdsQg3nlSFg9nhCkxtXvIrRJrMqBqHhLnMtaG9jEZueYy3oI056a4C7iyYKT18KzBagnTmQ=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcuKppWzhqvnbjigNTt_6I7MEln9TMk5ClpwODnkw9N4uYjNH5huOC9Wsze-Y9iStpuJ5c9mPTavk68sQ_d-Mz41FhQRBh-a2i1ZnX9uQpTuzMniTnx--c_G5VznjS44eQunohl=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcuKppWzhqvnbjigNTt_6I7MEln9TMk5ClpwODnkw9N4uYjNH5huOC9Wsze-Y9iStpuJ5c9mPTavk68sQ_d-Mz41FhQRBh-a2i1ZnX9uQpTuzMniTnx--c_G5VznjS44eQunohl=w1000-h750-no",
     "rating": 4.8,
     "review_count": 83,
     "verification_status": "VERIFIED",
@@ -6045,8 +6527,8 @@
     "phone": "0485 11 01 39",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Slagerij%20El%20Nour&query_place_id=ChIJSfyJmT33w0cRIf8esxfzgvA",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeb_nVwvccxkcR62P03nM3oJWP8vP8LGKlOnRHKsvQxgQYTPO7iknFueYptiXDii8V5_qe8jwYSPt1eQvpAKukMFqASkOPQQUSLo47jzTNCjAGPrEoLsvPxoOi_4QOikP71PHehCg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeb_nVwvccxkcR62P03nM3oJWP8vP8LGKlOnRHKsvQxgQYTPO7iknFueYptiXDii8V5_qe8jwYSPt1eQvpAKukMFqASkOPQQUSLo47jzTNCjAGPrEoLsvPxoOi_4QOikP71PHehCg=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdHyutk-ZNF_g-dEf6Bzg4MfKjBfnsIElMvJnfg_F-ext8YXdPaRHMevBBomgsPphAV-SI2LpTWHvj5VvjSrlFlYa5X7a4ZN2Wi-CriVNCNubTM_NrA3mLIqtwQXCiu1x3MjR-v=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdHyutk-ZNF_g-dEf6Bzg4MfKjBfnsIElMvJnfg_F-ext8YXdPaRHMevBBomgsPphAV-SI2LpTWHvj5VvjSrlFlYa5X7a4ZN2Wi-CriVNCNubTM_NrA3mLIqtwQXCiu1x3MjR-v=w1000-h750-no",
     "rating": 4.5,
     "review_count": 38,
     "verification_status": "UNVERIFIED",
@@ -6071,8 +6553,8 @@
     "phone": "0483 20 30 37",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Slagerij%20El%20Nour%20bvba&query_place_id=ChIJ2TBczRr3w0cRckaAb4RC6tE",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfyIQ4hO0_sUg1o3DdEvatTF0_v0QCAKOcNkBPpaG1gBAJqOm6dHgm_EaYVhkfZ2eDama4qbPfmI0q74kYOgddVwC0LS23Rx1wqXr5_qh5eZIfjFbZNXO3hVboFkHXSug9pB8MxJg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfyIQ4hO0_sUg1o3DdEvatTF0_v0QCAKOcNkBPpaG1gBAJqOm6dHgm_EaYVhkfZ2eDama4qbPfmI0q74kYOgddVwC0LS23Rx1wqXr5_qh5eZIfjFbZNXO3hVboFkHXSug9pB8MxJg=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeFKIxeSKtOKynPRT8yzKfSinY2NWfKzYdWrGiIOlLlg-y3pzvOEn6ECAaTcLYk3gCRCLfLf0tpV72RHxJhn_kLH4SbWr_a2wZgLRzKum4sCNeWzTePaZhkGKJBYEePGAiDK_9k=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeFKIxeSKtOKynPRT8yzKfSinY2NWfKzYdWrGiIOlLlg-y3pzvOEn6ECAaTcLYk3gCRCLfLf0tpV72RHxJhn_kLH4SbWr_a2wZgLRzKum4sCNeWzTePaZhkGKJBYEePGAiDK_9k=w1000-h750-no",
     "rating": 4.4,
     "review_count": 71,
     "verification_status": "UNVERIFIED",
@@ -6201,8 +6683,8 @@
     "phone": "03 284 20 20",
     "website": "http://www.slagerij-vanpuyvelde.be/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Slagerij%20Van%20Puyvelde&query_place_id=ChIJzy5QuVr2w0cRYa8xWy-QeJ4",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdsoQU7MPJbQBKHrCgkUawyEIAFQgu6F0CRrWrJ5XPNkd0L89_6dw2rdPlcuIHlC8j0vsehcfYBBqGZV9breLCd3K0Hc_9Te6CRyuM_iRJ_gsU1bJUYXazB3XFie_f1KLi6LbtNqLLMopo=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdsoQU7MPJbQBKHrCgkUawyEIAFQgu6F0CRrWrJ5XPNkd0L89_6dw2rdPlcuIHlC8j0vsehcfYBBqGZV9breLCd3K0Hc_9Te6CRyuM_iRJ_gsU1bJUYXazB3XFie_f1KLi6LbtNqLLMopo=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe10CJdVRCwRIBjl7C1TKvC2JzZXBdLDB38QXtIFoktUiXqkT4fB491wnbWpEmMRemsm_1z44pJWXOvjL4dMtQFdqsjmy9bRE0L9QW67vgFLE4vQqyZ9AjI8ssw6O9ZileC9d32w9bdT0A=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe10CJdVRCwRIBjl7C1TKvC2JzZXBdLDB38QXtIFoktUiXqkT4fB491wnbWpEmMRemsm_1z44pJWXOvjL4dMtQFdqsjmy9bRE0L9QW67vgFLE4vQqyZ9AjI8ssw6O9ZileC9d32w9bdT0A=w1000-h750-no",
     "rating": 4.7,
     "review_count": 82,
     "verification_status": "UNVERIFIED",
@@ -6253,8 +6735,8 @@
     "phone": "0487 25 81 28",
     "website": "https://m.facebook.com/pages/category/Butcher-Shop/Slagerij-Bouzian-2095218447174198/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Slagerij%20bouzian%F0%9F%A5%A9&query_place_id=ChIJuxYzBa72w0cR0-41KKRU6CU",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeoXkSV0w9JV812wmMBw0CFMTHAinkfkVqTBCdgvH-Hq4t20-kNkFDAi_3RacJVX7ar8ub-qK5ku0D-HnUVxWeUfKIlAr46ezKBeZLAidDLhcLlUtIfuVnJoymLKF_3ARpffIRGmQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeoXkSV0w9JV812wmMBw0CFMTHAinkfkVqTBCdgvH-Hq4t20-kNkFDAi_3RacJVX7ar8ub-qK5ku0D-HnUVxWeUfKIlAr46ezKBeZLAidDLhcLlUtIfuVnJoymLKF_3ARpffIRGmQ=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdPO0PtveCqxcbO7JLPlsk_rCCmL8VWjgP3Kob6ddkh96chN7vSDq2YQF_uKTeVzOB7gm2ZWyOCEQCViC7Q5ozeu5QlFknab-yAFvjXRqI0bADKtn49IJODpSXPGPdsVoP56dfosg=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdPO0PtveCqxcbO7JLPlsk_rCCmL8VWjgP3Kob6ddkh96chN7vSDq2YQF_uKTeVzOB7gm2ZWyOCEQCViC7Q5ozeu5QlFknab-yAFvjXRqI0bADKtn49IJODpSXPGPdsVoP56dfosg=w1000-h750-no",
     "rating": 4.7,
     "review_count": 302,
     "verification_status": "UNVERIFIED",
@@ -6565,8 +7047,8 @@
     "phone": "0465 71 43 25",
     "website": "https://www.facebook.com/The-Butcher-Antwerpen-103221238992771/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=The%20butcher%20antwerpen&query_place_id=ChIJtRu9KQH3w0cRXnYeXDu-o-o",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdiN44koudnHSPKrll8swQr-YUHwUPTeU_469Rt3aKZBPBdQDpFxpcecnpHrXq4vqlG1MG6xFvSzYbCw29wgl4hCcWnXSIuxa3hd3_Py6tc8M1VXLK8PjBPhrU1RgTgfdf41GqQYZRwBkYU=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdiN44koudnHSPKrll8swQr-YUHwUPTeU_469Rt3aKZBPBdQDpFxpcecnpHrXq4vqlG1MG6xFvSzYbCw29wgl4hCcWnXSIuxa3hd3_Py6tc8M1VXLK8PjBPhrU1RgTgfdf41GqQYZRwBkYU=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf3095-Xdkwtn-nfTxp3WBc4eI_yLRQPNRdJdZ4o0a-dWl0HZNSCI19ekOdxV_GTA6IzPi_xvfDgv3VdMEMHGGr1DHKGY35vAreefHYMbP0WZqQeTzqEgPXZ28lGAbJz1VHEfRg=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf3095-Xdkwtn-nfTxp3WBc4eI_yLRQPNRdJdZ4o0a-dWl0HZNSCI19ekOdxV_GTA6IzPi_xvfDgv3VdMEMHGGr1DHKGY35vAreefHYMbP0WZqQeTzqEgPXZ28lGAbJz1VHEfRg=w1000-h750-no",
     "rating": 4.4,
     "review_count": 115,
     "verification_status": "UNVERIFIED",
@@ -6747,8 +7229,8 @@
     "phone": "03 227 39 97",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=ZON%20FIRAT%20Supermarkt&query_place_id=ChIJRexesKv3w0cRdSMNpYz8BYM",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd3wwevcWIqm49Iy_RYtCk5--WjM2x1tnYWE0x6cj_Q0JbCGNsqRyIuaH0UE6DKxL0sl0GN91ESxNYVwKXGYnMLEQnHxuxCaWdRv3FjOHdcYXEK7Vgh4a3dnFNwedzZUX1DB7uk=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd3wwevcWIqm49Iy_RYtCk5--WjM2x1tnYWE0x6cj_Q0JbCGNsqRyIuaH0UE6DKxL0sl0GN91ESxNYVwKXGYnMLEQnHxuxCaWdRv3FjOHdcYXEK7Vgh4a3dnFNwedzZUX1DB7uk=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcJtMDzNMjBWc0b8cMAqeAKVxm_r8hQ1I7ruH6g4XsRKwHGBWYFp6nU5QTZhABLbXY2gElrrscrQbIgf-ZSrCHppTVqPksry_SXNP8btfDPShjQP-XDFMeyaLcogYCo2Kp6Q_Kf=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcJtMDzNMjBWc0b8cMAqeAKVxm_r8hQ1I7ruH6g4XsRKwHGBWYFp6nU5QTZhABLbXY2gElrrscrQbIgf-ZSrCHppTVqPksry_SXNP8btfDPShjQP-XDFMeyaLcogYCo2Kp6Q_Kf=w1000-h750-no",
     "rating": 4.2,
     "review_count": 859,
     "verification_status": "UNVERIFIED",
@@ -6825,8 +7307,8 @@
     "phone": "0470 27 85 34",
     "website": "https://slagerijsouss.com/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=slagerij%20Souss&query_place_id=ChIJE3LCKwD3w0cRpj3j461VjV0",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdDLK3qz3Gfm_ABbpt76P-KLky9OfNNdi3IAXEk3sm9cMir_j_j402-FJ5DnjhR9GDfl-dAWEXZCnrZTlybBNCbxR5x03fCbvA8x1hKKYrmgglsDJfKAY6Ql2mssvi-isveglcijNdw34Ln=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdDLK3qz3Gfm_ABbpt76P-KLky9OfNNdi3IAXEk3sm9cMir_j_j402-FJ5DnjhR9GDfl-dAWEXZCnrZTlybBNCbxR5x03fCbvA8x1hKKYrmgglsDJfKAY6Ql2mssvi-isveglcijNdw34Ln=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcIAIKkMEtMjKhOpqr6cNYdUPK6epjsfRVn-29TRUHQSfr716WIuB86POw6HZJfI1wM1oh38tMDaJGbLDk8HnI8Oxe1C2aflVIAbdNFsW2uBpfgR-lVZtB8AyNYSHmi9I_zt9EPm8jamTc=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcIAIKkMEtMjKhOpqr6cNYdUPK6epjsfRVn-29TRUHQSfr716WIuB86POw6HZJfI1wM1oh38tMDaJGbLDk8HnI8Oxe1C2aflVIAbdNFsW2uBpfgR-lVZtB8AyNYSHmi9I_zt9EPm8jamTc=w1000-h750-no",
     "rating": 5.0,
     "review_count": 66,
     "verification_status": "UNVERIFIED",
@@ -7644,532 +8126,6 @@
     "rating": 4.1,
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd99P0pRXYUpOA6wvrJEWxhs1sMLqsCw3IJJ6SiFG3JjfKWV7dVJn36JnmBm0gyz1blByv2sHM_syM0uGap-afCBGYMRShebgqt4XO0v6FFcYqiCJol8AqCf3Cl-bh8Sm1M2-Hl=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd99P0pRXYUpOA6wvrJEWxhs1sMLqsCw3IJJ6SiFG3JjfKWV7dVJn36JnmBm0gyz1blByv2sHM_syM0uGap-afCBGYMRShebgqt4XO0v6FFcYqiCJol8AqCf3Cl-bh8Sm1M2-Hl=w1000-h750-no",
-    "source_query": "Halal restaurant in Arlon, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJB7gjo5Hr6kcR-VbUNu2XC1k",
-    "name": "La Grappe d'Or",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Arlon",
-    "address": "La Grappe d'Or, Rte de Luxembourg 317, 6700 Arlon",
-    "street": "Rte de Luxembourg 317",
-    "postal_code": "6700",
-    "region": null,
-    "latitude": 49.6625454,
-    "longitude": 5.8437645,
-    "phone": "063 57 70 56",
-    "website": "http://www.lagrappedor.com/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Grappe%20d%27Or&query_place_id=ChIJB7gjo5Hr6kcR-VbUNu2XC1k",
-    "open_hours_json": {
-      "Monday": [
-        "7–11:30 pm"
-      ],
-      "Tuesday": [
-        "12–2:30 pm",
-        "7–11:30 pm"
-      ],
-      "Wednesday": [
-        "12–2:30 pm",
-        "7–11:30 pm"
-      ],
-      "Thursday": [
-        "12–2:30 pm",
-        "7–11:30 pm"
-      ],
-      "Friday": [
-        "12–2:30 pm",
-        "7–11:30 pm"
-      ],
-      "Saturday": [
-        "Closed"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 404,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd9hqLg-kWkreraNkxEZko_gjbGD_cWMyLXfo34mpTmFFFP7U6L2PAN0vzOFbSwIHFQNgRHGgj2_OX8_o596wMU7frbwiyNCP8-qLjxA0quvHM8ahFioLBQ3hP47Rcl5NKmvRv6=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd9hqLg-kWkreraNkxEZko_gjbGD_cWMyLXfo34mpTmFFFP7U6L2PAN0vzOFbSwIHFQNgRHGgj2_OX8_o596wMU7frbwiyNCP8-qLjxA0quvHM8ahFioLBQ3hP47Rcl5NKmvRv6=w1000-h750-no",
-    "source_query": "Halal restaurant in Arlon, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ_4CCvHGw6kcR4UhX9xhP54g",
-    "name": "La Pizza Chez Nino au feu de bois",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Arlon",
-    "address": "La Pizza Chez Nino au feu de bois, Rue de l'Hydrion 36, 6700 Arlon",
-    "street": "Rue de l'Hydrion 36",
-    "postal_code": "6700",
-    "region": null,
-    "latitude": 49.6818351,
-    "longitude": 5.801431,
-    "phone": "063 23 32 66",
-    "website": "https://lapizzacheznino.com/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Pizza%20Chez%20Nino%20au%20feu%20de%20bois&query_place_id=ChIJ_4CCvHGw6kcR4UhX9xhP54g",
-    "open_hours_json": {
-      "Monday": [
-        "11 am–1:30 pm",
-        "5:30–10 pm"
-      ],
-      "Tuesday": [
-        "11 am–1:30 pm",
-        "5:30–10 pm"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "11 am–1:30 pm",
-        "5:30–10 pm"
-      ],
-      "Friday": [
-        "11 am–1:30 pm",
-        "5:30–10 pm"
-      ],
-      "Saturday": [
-        "11 am–1:30 pm",
-        "5:30–10 pm"
-      ],
-      "Sunday": [
-        "5–10 pm"
-      ]
-    },
-    "review_count": 383,
-    "rating": 4.2,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeYoiF2vSc6gEhV16JDUnYODKRlF0lOnwZCDz0rGRn4z6Ch2ryOzHfcTQ6QrZVLIdoPuuKrW0mxPUgKnqPTqfhmWzHw63e7sESSqWgSaw6mAgl_bFH7WlGd0-wGekkrztK-KXsJ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeYoiF2vSc6gEhV16JDUnYODKRlF0lOnwZCDz0rGRn4z6Ch2ryOzHfcTQ6QrZVLIdoPuuKrW0mxPUgKnqPTqfhmWzHw63e7sESSqWgSaw6mAgl_bFH7WlGd0-wGekkrztK-KXsJ=w1000-h750-no",
-    "source_query": "Halal restaurant in Arlon, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJAW2DuHS66kcRt72PjvM0RIA",
-    "name": "La Régalade",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Arlon",
-    "address": "La Régalade, Burewee 26, 6700 Arlon",
-    "street": "Burewee 26",
-    "postal_code": "6700",
-    "region": null,
-    "latitude": 49.651286899999995,
-    "longitude": 5.7787969,
-    "phone": "063 22 65 54",
-    "website": "http://www.laregalade.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20R%C3%A9galade&query_place_id=ChIJAW2DuHS66kcRt72PjvM0RIA",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "12–4 pm",
-        "7:15–11:30 pm"
-      ],
-      "Friday": [
-        "12–4 pm",
-        "7:15–11:30 pm"
-      ],
-      "Saturday": [
-        "7:15–11:30 pm"
-      ],
-      "Sunday": [
-        "12–4 pm",
-        "7:15–11:30 pm"
-      ]
-    },
-    "review_count": 257,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfTgIfZx6oYxgBTESHtLD4vsetdV9MBMBGAUZXeS0gZrkaZRkzv7jM8wlN2Gr4jJrq9LTpb-URx4ZZ7wGOW2DNXvQJMGrCLXi_DIJbmrLZalkyu2wg34BcCsNEqOescsPaDe9yl=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfTgIfZx6oYxgBTESHtLD4vsetdV9MBMBGAUZXeS0gZrkaZRkzv7jM8wlN2Gr4jJrq9LTpb-URx4ZZ7wGOW2DNXvQJMGrCLXi_DIJbmrLZalkyu2wg34BcCsNEqOescsPaDe9yl=w1000-h750-no",
-    "source_query": "Halal restaurant in Arlon, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJxQbJk_ix6kcRodLBOhoIV7A",
-    "name": "La casa del pizza",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Arlon",
-    "address": "La casa del pizza, Grand-Rue 32, 6700 Arlon",
-    "street": "Grand-Rue 32",
-    "postal_code": "6700",
-    "region": null,
-    "latitude": 49.683391799999995,
-    "longitude": 5.8141636,
-    "phone": "0471 09 02 02",
-    "website": "https://www.la-casa-del-pizza.com/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20casa%20del%20pizza&query_place_id=ChIJxQbJk_ix6kcRodLBOhoIV7A",
-    "open_hours_json": {
-      "Monday": [
-        "11:30 am–2:30 pm",
-        "5:30–10:30 pm"
-      ],
-      "Tuesday": [
-        "11:30 am–2:30 pm",
-        "5:30–10:30 pm"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "11:30 am–2:30 pm",
-        "5:30–10:30 pm"
-      ],
-      "Friday": [
-        "11:30 am–2:30 pm",
-        "5:30–10:30 pm"
-      ],
-      "Saturday": [
-        "5:30–10:30 pm"
-      ],
-      "Sunday": [
-        "5:30–10:30 pm"
-      ]
-    },
-    "review_count": 196,
-    "rating": 4.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdvPOv8yNwsbHFC_yZniZ957wKcye0QH6NRgvAlRdi9rB8kbrs-u8T6cLzYNaX1cAJ9m8mxYtyTVTb6pc53IvsML72e8rnGDR_MJqSfllpyaBH26xEYYds7kYNOCiKXpe1XLbA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdvPOv8yNwsbHFC_yZniZ957wKcye0QH6NRgvAlRdi9rB8kbrs-u8T6cLzYNaX1cAJ9m8mxYtyTVTb6pc53IvsML72e8rnGDR_MJqSfllpyaBH26xEYYds7kYNOCiKXpe1XLbA=w1000-h750-no",
-    "source_query": "Halal restaurant in Arlon, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJfUMaPGqw6kcRfqEXauJHNnc",
-    "name": "Le Chef est Une Femme",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Arlon",
-    "address": "Le Chef est Une Femme, Rue des Capucins 6, 6700 Arlon",
-    "street": "Rue des Capucins 6",
-    "postal_code": "6700",
-    "region": null,
-    "latitude": 49.6843643,
-    "longitude": 5.8139191,
-    "phone": "063 57 84 26",
-    "website": "http://www.lechefestunefemme.com/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Chef%20est%20Une%20Femme&query_place_id=ChIJfUMaPGqw6kcRfqEXauJHNnc",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "Closed"
-      ],
-      "Friday": [
-        "Closed"
-      ],
-      "Saturday": [
-        "Closed"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 317,
-    "rating": 4.4,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcI5-1SXPjr6C7yOhzcDAswEe5bdYqiPpoBuz66Zs2jugwGyzQaSWzBRB43wK0IusGq6tQNuh3SXvytbdv761O5Xaj-2xqBCUrvc80mEoUfwaLq9BT1fliKWFKjJOeu8TkyAH6WPQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcI5-1SXPjr6C7yOhzcDAswEe5bdYqiPpoBuz66Zs2jugwGyzQaSWzBRB43wK0IusGq6tQNuh3SXvytbdv761O5Xaj-2xqBCUrvc80mEoUfwaLq9BT1fliKWFKjJOeu8TkyAH6WPQ=w1000-h750-no",
-    "source_query": "Halal restaurant in Arlon, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJQ_lNOmqw6kcR7PJJLaahBGo",
-    "name": "Le Cocoon",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Arlon",
-    "address": "Le Cocoon, Pl. du Dr Hollenfeltz 2, 6700 Arlon",
-    "street": "Pl. du Dr Hollenfeltz 2",
-    "postal_code": "6700",
-    "region": null,
-    "latitude": 49.6841036,
-    "longitude": 5.8135505,
-    "phone": "063 22 05 15",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Cocoon&query_place_id=ChIJQ_lNOmqw6kcR7PJJLaahBGo",
-    "open_hours_json": {
-      "Monday": [
-        "11 am–2:30 pm",
-        "6–11 pm"
-      ],
-      "Tuesday": [
-        "11 am–2:30 pm",
-        "6–11 pm"
-      ],
-      "Wednesday": [
-        "11 am–2:30 pm",
-        "6–11 pm"
-      ],
-      "Thursday": [
-        "11 am–2:30 pm",
-        "6–11 pm"
-      ],
-      "Friday": [
-        "11 am–2:30 pm",
-        "6 pm–2 am"
-      ],
-      "Saturday": [
-        "6 pm–2 am"
-      ],
-      "Sunday": [
-        "6–11 pm"
-      ]
-    },
-    "review_count": 210,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeo6SwnnxbB7xijFsk13MImZIx5GAJEil5g0PVjW4OypbJmA6RdKhQTQgecTY2anGFTefO54wS0YEw_40mxf8ctp6zHMXv93Es3gmmqYTfAAh7cz1XXOSRA5kaye4JhVnJL-7by=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeo6SwnnxbB7xijFsk13MImZIx5GAJEil5g0PVjW4OypbJmA6RdKhQTQgecTY2anGFTefO54wS0YEw_40mxf8ctp6zHMXv93Es3gmmqYTfAAh7cz1XXOSRA5kaye4JhVnJL-7by=w1000-h750-no",
-    "source_query": "Halal restaurant in Arlon, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJiwjjb7Gx6kcRXBby7-ER4Bg",
-    "name": "Le Coin Snack (Magasin Russe) Night & Day Shop Arlon",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Arlon",
-    "address": "Le Coin Snack (Magasin Russe) Night & Day Shop Arlon, Pl. Didier 23, 6700 Arlon",
-    "street": "Pl. Didier 23",
-    "postal_code": "6700",
-    "region": null,
-    "latitude": 49.6845536,
-    "longitude": 5.8136510999999995,
-    "phone": "063 86 50 99",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Coin%20Snack%20%28Magasin%20Russe%29%20Night%20%26%20Day%20Shop%20Arlon&query_place_id=ChIJiwjjb7Gx6kcRXBby7-ER4Bg",
-    "open_hours_json": {
-      "Monday": [
-        "10 am–1 am"
-      ],
-      "Tuesday": [
-        "10 am–1 am"
-      ],
-      "Wednesday": [
-        "10 am–1 am"
-      ],
-      "Thursday": [
-        "10 am–1 am"
-      ],
-      "Friday": [
-        "10 am–2 am"
-      ],
-      "Saturday": [
-        "10 am–2 am"
-      ],
-      "Sunday": [
-        "10 am–12 am"
-      ]
-    },
-    "review_count": 58,
-    "rating": 4.2,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfGOFutZgZR4pm2Wo616Ro7Nm505GY6unkE-yhAbPPbOJQCKQ6Ke45DyLM0iHDEJ3xqgrqVrRBkUcGmoY0zCNbu2rgibIOn4M2_zvO8NPjIVpS9V-ddh9bMPhjMTIM5c-Cwt6Vz=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfGOFutZgZR4pm2Wo616Ro7Nm505GY6unkE-yhAbPPbOJQCKQ6Ke45DyLM0iHDEJ3xqgrqVrRBkUcGmoY0zCNbu2rgibIOn4M2_zvO8NPjIVpS9V-ddh9bMPhjMTIM5c-Cwt6Vz=w1000-h750-no",
-    "source_query": "Halal restaurant in Arlon, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJW9ADRWqw6kcRsaOqWnAzq7c",
-    "name": "Le Greco",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Arlon",
-    "address": "Le Greco, Rue de Diekirch 35, 6700 Arlon",
-    "street": "Rue de Diekirch 35",
-    "postal_code": "6700",
-    "region": null,
-    "latitude": 49.685168399999995,
-    "longitude": 5.8137929999999995,
-    "phone": "063 22 09 62",
-    "website": "https://www.legrecoarlon.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Greco&query_place_id=ChIJW9ADRWqw6kcRsaOqWnAzq7c",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "11:35 am–2:30 pm",
-        "6:30–10:30 pm"
-      ],
-      "Thursday": [
-        "11:30 am–2:30 pm",
-        "6:30–10:30 pm"
-      ],
-      "Friday": [
-        "11:30 am–2:30 pm",
-        "6:30–10:30 pm"
-      ],
-      "Saturday": [
-        "11:30 am–2:30 pm",
-        "6:30–10:30 pm"
-      ],
-      "Sunday": [
-        "11:30 am–2:30 pm",
-        "6:30–10:30 pm"
-      ]
-    },
-    "review_count": 552,
-    "rating": 4.2,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdwh8NAcZv-ePQ0BK2X8bkhXzTxgysRyIp6qkA7-Uw3MSaIN7MraqSxfQjWOU9YzhHjqJ1f8tjlXJa5q_xBgf_IeYAqWMwSI0D9Xf3MhqzTl6UPgDvnhrjcZitJdBDWApqnixvi=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdwh8NAcZv-ePQ0BK2X8bkhXzTxgysRyIp6qkA7-Uw3MSaIN7MraqSxfQjWOU9YzhHjqJ1f8tjlXJa5q_xBgf_IeYAqWMwSI0D9Xf3MhqzTl6UPgDvnhrjcZitJdBDWApqnixvi=w1000-h750-no",
-    "source_query": "Halal restaurant in Arlon, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJDyeJAEKw6kcR9BCGU65MIBI",
-    "name": "Luxfood Amd",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Arlon",
-    "address": "Luxfood Amd, Grand-Rue 64, 6700 Arlon",
-    "street": "Grand-Rue 64",
-    "postal_code": "6700",
-    "region": null,
-    "latitude": 49.6832056,
-    "longitude": 5.8155871999999995,
-    "phone": "063 21 79 55",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Luxfood%20Amd&query_place_id=ChIJDyeJAEKw6kcR9BCGU65MIBI",
-    "open_hours_json": {
-      "Monday": [
-        "10 am–6 pm"
-      ],
-      "Tuesday": [
-        "10 am–6 pm"
-      ],
-      "Wednesday": [
-        "10 am–6 pm"
-      ],
-      "Thursday": [
-        "10 am–6 pm"
-      ],
-      "Friday": [
-        "10 am–6 pm"
-      ],
-      "Saturday": [
-        "10 am–6 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 18,
-    "rating": 3.9,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=AuwRCDPSaAjk_9LccNPK2A&cb_client=search.gws-prod.grass&w=80&h=92&yaw=16.045803&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=AuwRCDPSaAjk_9LccNPK2A&cb_client=search.gws-prod.grass&w=80&h=92&yaw=16.045803&pitch=0&thumbfov=w1000-h750-no",
-    "source_query": "Halal restaurant in Arlon, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJBQC3Lmqw6kcRSXFbKhMFJ0Q",
-    "name": "Maad Kebab - Arlon",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Arlon",
-    "address": "Maad Kebab - Arlon, Marché aux Légumes 9, 6700 Arlon",
-    "street": "Marché aux Légumes 9",
-    "postal_code": "6700",
-    "region": null,
-    "latitude": 49.6838361,
-    "longitude": 5.8130061,
-    "phone": "063 36 03 04",
-    "website": "https://qr.wwwcafe.de/2025/08/12/maad-kebab/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Maad%20Kebab%20-%20Arlon&query_place_id=ChIJBQC3Lmqw6kcRSXFbKhMFJ0Q",
-    "open_hours_json": {
-      "Monday": [
-        "11 am–1 am"
-      ],
-      "Tuesday": [
-        "11 am–1 am"
-      ],
-      "Wednesday": [
-        "11 am–1 am"
-      ],
-      "Thursday": [
-        "11 am–1 am"
-      ],
-      "Friday": [
-        "11 am–2 am"
-      ],
-      "Saturday": [
-        "11 am–2 am"
-      ],
-      "Sunday": [
-        "11 am–1 am"
-      ]
-    },
-    "review_count": 144,
-    "rating": 4.0,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcd8rKouIE1De5dBulRHFGKM2E1Uv-KFP3R3JcbttpZ8CNzZHimTYPgHj7n7qq_ClEJeON674q90Kmo113UOPZNj279TRZr0Omy4njbki862Fpz8EgsdkExOiEBgNdLStm7eigfh19lBtc=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcd8rKouIE1De5dBulRHFGKM2E1Uv-KFP3R3JcbttpZ8CNzZHimTYPgHj7n7qq_ClEJeON674q90Kmo113UOPZNj279TRZr0Omy4njbki862Fpz8EgsdkExOiEBgNdLStm7eigfh19lBtc=w1000-h750-no",
     "source_query": "Halal restaurant in Arlon, Wallonia, BE",
     "moderation_status": "approved",
     "is_active": true,
