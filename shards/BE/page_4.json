@@ -1,5 +1,105 @@
 [
   {
+    "place_id": "ChIJ38H5Vmmx6kcREMslZhKZNjA",
+    "name": "O'Tacos Arlon",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Arlon",
+    "address": "O'Tacos Arlon, Pl. Didier 39, 6700 Arlon",
+    "street": "Pl. Didier 39",
+    "postal_code": "6700",
+    "region": null,
+    "latitude": 49.685043799999995,
+    "longitude": 5.8130748,
+    "phone": "063 57 85 81",
+    "website": "https://restaurants.o-tacos.com/belgium/region-wallonne/luxembourg/arlon/arlon-marche-aux-legumes?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=O%27Tacos%20Arlon&query_place_id=ChIJ38H5Vmmx6kcREMslZhKZNjA",
+    "open_hours_json": {
+      "Monday": [
+        "11 am–10 pm"
+      ],
+      "Tuesday": [
+        "11 am–10 pm"
+      ],
+      "Wednesday": [
+        "11 am–10 pm"
+      ],
+      "Thursday": [
+        "11 am–10 pm"
+      ],
+      "Friday": [
+        "11 am–11 pm"
+      ],
+      "Saturday": [
+        "11 am–11 pm"
+      ],
+      "Sunday": [
+        "11 am–10 pm"
+      ]
+    },
+    "review_count": 828,
+    "rating": 4.1,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdE67qBSrcTpvK0D0fvBdmyMt7Yowh3Pu4B9urAyRUTUUgKTRMFPK-b5qWqX5Y1foGI4c0-qMa3JRgKaJZmSdYo-p0lOvI_GziZavXOlza9lcUCBj-vUpdxL_v5OqIaCc75RCE7=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdE67qBSrcTpvK0D0fvBdmyMt7Yowh3Pu4B9urAyRUTUUgKTRMFPK-b5qWqX5Y1foGI4c0-qMa3JRgKaJZmSdYo-p0lOvI_GziZavXOlza9lcUCBj-vUpdxL_v5OqIaCc75RCE7=w1000-h750-no",
+    "source_query": "Halal restaurant in Arlon, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata"
+  },
+  {
+    "place_id": "ChIJuShpLmqw6kcRqr0WXeoEtKI",
+    "name": "Paluca",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Arlon",
+    "address": "Paluca, Marché aux Légumes 21, 6700 Arlon",
+    "street": "Marché aux Légumes 21",
+    "postal_code": "6700",
+    "region": null,
+    "latitude": 49.6839975,
+    "longitude": 5.8133531,
+    "phone": "063 22 27 68",
+    "website": "http://fritzy.be/la-paluca",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Paluca&query_place_id=ChIJuShpLmqw6kcRqr0WXeoEtKI",
+    "open_hours_json": {
+      "Monday": [
+        "11 am–11:30 pm"
+      ],
+      "Tuesday": [
+        "11 am–11:30 pm"
+      ],
+      "Wednesday": [
+        "11 am–11:30 pm"
+      ],
+      "Thursday": [
+        "11 am–11:30 pm"
+      ],
+      "Friday": [
+        "11 am–2 am"
+      ],
+      "Saturday": [
+        "11 am–2 am"
+      ],
+      "Sunday": [
+        "5–10 pm"
+      ]
+    },
+    "review_count": 112,
+    "rating": 4.0,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdaWVVWTE-ezRLbE4N37gtnexak6m2_ebgCBCK55J3hxL7XchvOfB3u-_OfJTjQ1fpSadN2JX_cmpbDsmYALxi4ZlE1fXofuty7r0jbzWNpYgz5SNmceOZhr7gYtxTWfJ1r6Q58=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdaWVVWTE-ezRLbE4N37gtnexak6m2_ebgCBCK55J3hxL7XchvOfB3u-_OfJTjQ1fpSadN2JX_cmpbDsmYALxi4ZlE1fXofuty7r0jbzWNpYgz5SNmceOZhr7gYtxTWfJ1r6Q58=w1000-h750-no",
+    "source_query": "Halal restaurant in Arlon, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJRxP8ZFWx6kcRMX20Bdny2pc",
     "name": "Pause Gourmande",
     "type": "restaurant",
@@ -11854,84 +11954,6 @@
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf-GP-p_MebYIEfdwRy7WiOUt-e8EVuc6DcyroZRUU6dWKV8IFRXqqJV-ulnh1AGYWJ2TAbGZbYQVmt_WPf0nBkSeSE4lAFotnX5niXx3BOfjlEmiP6-d-8hNeZIJaW-sgUnFU=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf-GP-p_MebYIEfdwRy7WiOUt-e8EVuc6DcyroZRUU6dWKV8IFRXqqJV-ulnh1AGYWJ2TAbGZbYQVmt_WPf0nBkSeSE4lAFotnX5niXx3BOfjlEmiP6-d-8hNeZIJaW-sgUnFU=w1000-h750-no",
     "source_query": "Halal restaurant in Bilzen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ41LCfkHnwEcR90pM_d7-ZDA",
-    "name": "Nour & Eek",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Bilzen-Hoeselt",
-    "address": "Nour & Eek, Daalstraat 6, 3740 Bilzen-Hoeselt",
-    "street": "Daalstraat 6",
-    "postal_code": "3740",
-    "region": null,
-    "latitude": 50.843885,
-    "longitude": 5.577317,
-    "phone": "0470 35 79 29",
-    "website": "http://www.korianderfoods.com/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Nour%20%26%20Eek&query_place_id=ChIJ41LCfkHnwEcR90pM_d7-ZDA",
-    "open_hours_json": null,
-    "review_count": 52,
-    "rating": 4.9,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdby7qnyo8dYqW5xD2ZzJPnzVbcId5jH3ELjxkyuxREMbmnQ5vmGF8x_cjcV5LNouAF1Hm4Is04q12kAJw1mwQ2mNe5YbUMZw7sklqR4YbvNWMIQz7uJUppzsNxaACvBzNH8jBv=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdby7qnyo8dYqW5xD2ZzJPnzVbcId5jH3ELjxkyuxREMbmnQ5vmGF8x_cjcV5LNouAF1Hm4Is04q12kAJw1mwQ2mNe5YbUMZw7sklqR4YbvNWMIQz7uJUppzsNxaACvBzNH8jBv=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Bilzen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJJdXNmKTgwEcRL4CmHZCLGug",
-    "name": "Okay Bilzen",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Bilzen-Hoeselt",
-    "address": "Okay Bilzen, Nieuwstraat 1A, 3740 Bilzen-Hoeselt",
-    "street": "Nieuwstraat 1A",
-    "postal_code": "3740",
-    "region": null,
-    "latitude": 50.8732513,
-    "longitude": 5.508007999999999,
-    "phone": "089 30 80 71",
-    "website": "https://www.okay.be/nl/onze-winkels/Okay-bilzen",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Okay%20Bilzen&query_place_id=ChIJJdXNmKTgwEcRL4CmHZCLGug",
-    "open_hours_json": {
-      "Monday": [
-        "8 am–7:30 pm"
-      ],
-      "Tuesday": [
-        "8 am–7:30 pm"
-      ],
-      "Wednesday": [
-        "8 am–7:30 pm"
-      ],
-      "Thursday": [
-        "8 am–7:30 pm"
-      ],
-      "Friday": [
-        "8 am–7:30 pm"
-      ],
-      "Saturday": [
-        "8 am–7:30 pm"
-      ],
-      "Sunday": [
-        "8 am–12:30 pm"
-      ]
-    },
-    "review_count": 399,
-    "rating": 4.2,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfjdCqm-CjpkXm01sdTd3qpRwRc2DwrwFFBeKd_2MTB1RGaphiDY_w3EiTMTzt3x7p18jd6vY5xv-6d2-BgY4sPCUenzLN_ML_lQ0EX3RADzZBsZ8S8Uy8NLCpDMiZuAGyJYxZhHQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfjdCqm-CjpkXm01sdTd3qpRwRc2DwrwFFBeKd_2MTB1RGaphiDY_w3EiTMTzt3x7p18jd6vY5xv-6d2-BgY4sPCUenzLN_ML_lQ0EX3RADzZBsZ8S8Uy8NLCpDMiZuAGyJYxZhHQ=w1000-h750-no",
-    "source_query": "Hypermarket in Bilzen, Flanders, BE",
     "moderation_status": "approved",
     "is_active": true,
     "verification_status": "UNVERIFIED",

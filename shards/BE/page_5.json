@@ -1,5 +1,83 @@
 [
   {
+    "place_id": "ChIJ41LCfkHnwEcR90pM_d7-ZDA",
+    "name": "Nour & Eek",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Bilzen-Hoeselt",
+    "address": "Nour & Eek, Daalstraat 6, 3740 Bilzen-Hoeselt",
+    "street": "Daalstraat 6",
+    "postal_code": "3740",
+    "region": null,
+    "latitude": 50.843885,
+    "longitude": 5.577317,
+    "phone": "0470 35 79 29",
+    "website": "http://www.korianderfoods.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Nour%20%26%20Eek&query_place_id=ChIJ41LCfkHnwEcR90pM_d7-ZDA",
+    "open_hours_json": null,
+    "review_count": 52,
+    "rating": 4.9,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdby7qnyo8dYqW5xD2ZzJPnzVbcId5jH3ELjxkyuxREMbmnQ5vmGF8x_cjcV5LNouAF1Hm4Is04q12kAJw1mwQ2mNe5YbUMZw7sklqR4YbvNWMIQz7uJUppzsNxaACvBzNH8jBv=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdby7qnyo8dYqW5xD2ZzJPnzVbcId5jH3ELjxkyuxREMbmnQ5vmGF8x_cjcV5LNouAF1Hm4Is04q12kAJw1mwQ2mNe5YbUMZw7sklqR4YbvNWMIQz7uJUppzsNxaACvBzNH8jBv=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Bilzen, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJJdXNmKTgwEcRL4CmHZCLGug",
+    "name": "Okay Bilzen",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Bilzen-Hoeselt",
+    "address": "Okay Bilzen, Nieuwstraat 1A, 3740 Bilzen-Hoeselt",
+    "street": "Nieuwstraat 1A",
+    "postal_code": "3740",
+    "region": null,
+    "latitude": 50.8732513,
+    "longitude": 5.508007999999999,
+    "phone": "089 30 80 71",
+    "website": "https://www.okay.be/nl/onze-winkels/Okay-bilzen",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Okay%20Bilzen&query_place_id=ChIJJdXNmKTgwEcRL4CmHZCLGug",
+    "open_hours_json": {
+      "Monday": [
+        "8 am–7:30 pm"
+      ],
+      "Tuesday": [
+        "8 am–7:30 pm"
+      ],
+      "Wednesday": [
+        "8 am–7:30 pm"
+      ],
+      "Thursday": [
+        "8 am–7:30 pm"
+      ],
+      "Friday": [
+        "8 am–7:30 pm"
+      ],
+      "Saturday": [
+        "8 am–7:30 pm"
+      ],
+      "Sunday": [
+        "8 am–12:30 pm"
+      ]
+    },
+    "review_count": 399,
+    "rating": 4.2,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfjdCqm-CjpkXm01sdTd3qpRwRc2DwrwFFBeKd_2MTB1RGaphiDY_w3EiTMTzt3x7p18jd6vY5xv-6d2-BgY4sPCUenzLN_ML_lQ0EX3RADzZBsZ8S8Uy8NLCpDMiZuAGyJYxZhHQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfjdCqm-CjpkXm01sdTd3qpRwRc2DwrwFFBeKd_2MTB1RGaphiDY_w3EiTMTzt3x7p18jd6vY5xv-6d2-BgY4sPCUenzLN_ML_lQ0EX3RADzZBsZ8S8Uy8NLCpDMiZuAGyJYxZhHQ=w1000-h750-no",
+    "source_query": "Hypermarket in Bilzen, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJR1WJaz3hwEcRb1sNHs8_Cr0",
     "name": "Okay Hoeselt",
     "type": "hypermarket",
@@ -6160,32 +6238,6 @@
     "verification_evidence": null
   },
   {
-    "place_id": "ChIJYw1gzehZwkcRoZpnayM4nFo",
-    "name": "La Nouvelle Boucherie d'Hornu",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Boussu",
-    "address": "La Nouvelle Boucherie d'Hornu, Rue de Mons 216, 7301 Boussu",
-    "street": "Rue de Mons 216",
-    "postal_code": "7301",
-    "region": null,
-    "latitude": 50.4383333,
-    "longitude": 3.835,
-    "phone": "065 65 25 38",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Nouvelle%20Boucherie%20d%27Hornu&query_place_id=ChIJYw1gzehZwkcRoZpnayM4nFo",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfbPEIEBRfrix9adM8gMH5ypDGOwek4M_CV1Iv5jh6udsNPP8-o5x54EE4sv3g6QyRwxU8T1EUaTWHl-NxNz5nZNKD26OTQzYa2-xmF2YhpUmv2tsraEj5pvBugIgmA3ZzGd8Qw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfbPEIEBRfrix9adM8gMH5ypDGOwek4M_CV1Iv5jh6udsNPP8-o5x54EE4sv3g6QyRwxU8T1EUaTWHl-NxNz5nZNKD26OTQzYa2-xmF2YhpUmv2tsraEj5pvBugIgmA3ZzGd8Qw=w1000-h750-no",
-    "rating": 4.4,
-    "review_count": 111,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
     "place_id": "ChIJH0sgejFYwkcRfYQDTktZjmA",
     "name": "Le Minaret",
     "type": "restaurant",
@@ -11881,56 +11933,6 @@
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc2_OMkHi8_6nRlP832fxSQ0EaEL3Wg1NDQJAYA9d53N23OhSzu0MgwdrIY2yHBrR2x681Lo631ocCIH5k-5kh6cr40owMtNTo7HzkpPHMNaeVAIwEHhDXYylFjxqas4nCzxTgF=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc2_OMkHi8_6nRlP832fxSQ0EaEL3Wg1NDQJAYA9d53N23OhSzu0MgwdrIY2yHBrR2x681Lo631ocCIH5k-5kh6cr40owMtNTo7HzkpPHMNaeVAIwEHhDXYylFjxqas4nCzxTgF=w1000-h750-no",
     "source_query": "Hypermarket in Brugge, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJeWC7YedQw0cRb5yEe9WISgU",
-    "name": "Domino's Pizza Brugge",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Bruges",
-    "address": "Domino's Pizza Brugge, Stationsplein 8, 8000 Brugge",
-    "street": "Stationsplein 8",
-    "postal_code": "8000",
-    "region": null,
-    "latitude": 51.1975765,
-    "longitude": 3.2195329,
-    "phone": "050 30 03 15",
-    "website": "https://www.dominos.be/?utm_source=google&utm_medium=local&utm_campaign=yext",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domino%27s%20Pizza%20Brugge&query_place_id=ChIJeWC7YedQw0cRb5yEe9WISgU",
-    "open_hours_json": {
-      "Monday": [
-        "11 am–10 pm"
-      ],
-      "Tuesday": [
-        "11 am–10 pm"
-      ],
-      "Wednesday": [
-        "11 am–10 pm"
-      ],
-      "Thursday": [
-        "11 am–10 pm"
-      ],
-      "Friday": [
-        "11 am–10 pm"
-      ],
-      "Saturday": [
-        "11 am–10 pm"
-      ],
-      "Sunday": [
-        "11 am–10 pm"
-      ]
-    },
-    "review_count": 1112,
-    "rating": 3.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeKMqua7bUHRal98-pEBEzqnp2nC4KsCDmn1GKZ6JZ9N_ngDOdvqGHcNez_HjmhVqDBbtBIEyiZV_LsCeIs1pwWbeKlW0aI7_i4PtVthyT-X4SCZ9_FNYJOMLBYme-TFW3aNLal_Q=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeKMqua7bUHRal98-pEBEzqnp2nC4KsCDmn1GKZ6JZ9N_ngDOdvqGHcNez_HjmhVqDBbtBIEyiZV_LsCeIs1pwWbeKlW0aI7_i4PtVthyT-X4SCZ9_FNYJOMLBYme-TFW3aNLal_Q=w1000-h750-no",
-    "source_query": "Halal restaurant in Brugge, Flanders, BE",
     "moderation_status": "approved",
     "is_active": true,
     "verification_status": "UNVERIFIED",
