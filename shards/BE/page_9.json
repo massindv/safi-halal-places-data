@@ -1,5 +1,109 @@
 [
   {
+    "place_id": "ChIJy6ZSmjGQ6kcRZueW4PjLldM",
+    "name": "Spar Jamoigne",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Chiny",
+    "address": "Spar Jamoigne, Rue de Virton 6, 6810 Chiny",
+    "street": "Rue de Virton 6",
+    "postal_code": "6810",
+    "region": null,
+    "latitude": 49.6922151,
+    "longitude": 5.4132083,
+    "phone": "061 58 70 86",
+    "website": "https://www.monspar.be/magasins/spar-jamoigne",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Spar%20Jamoigne&query_place_id=ChIJy6ZSmjGQ6kcRZueW4PjLldM",
+    "open_hours_json": {
+      "Monday": [
+        "8 am–7 pm"
+      ],
+      "Tuesday": [
+        "8 am–7 pm"
+      ],
+      "Wednesday": [
+        "8 am–7 pm"
+      ],
+      "Thursday": [
+        "8 am–7 pm"
+      ],
+      "Friday": [
+        "8 am–7 pm"
+      ],
+      "Saturday": [
+        "8 am–7 pm"
+      ],
+      "Sunday": [
+        "8 am–1 pm"
+      ]
+    },
+    "review_count": 315,
+    "rating": 3.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLffZ6Ai5wxg0mgSJZ3FXoxHfJX2rGXLxPq6lJtxg0r8F-a0uxQT3_xl1hlVGTlbkkm1NaN90tWIKOyIbr6dpckKXxmWvFxoxUaGqohOpgXFse-IJ6MmerU3PKku4mGcB2pbund2kAXRhGBD=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLffZ6Ai5wxg0mgSJZ3FXoxHfJX2rGXLxPq6lJtxg0r8F-a0uxQT3_xl1hlVGTlbkkm1NaN90tWIKOyIbr6dpckKXxmWvFxoxUaGqohOpgXFse-IJ6MmerU3PKku4mGcB2pbund2kAXRhGBD=w1000-h750-no",
+    "source_query": "Hypermarket in Chiny, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJoX4f_4snwkcRYApL1v6KI_k",
+    "name": "Agadir",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Châtelet",
+    "address": "Agadir, Rue des Sablières 7, 6200 Châtelet",
+    "street": "Rue des Sablières 7",
+    "postal_code": "6200",
+    "region": null,
+    "latitude": 50.3998499,
+    "longitude": 4.5301941,
+    "phone": "071 39 31 02",
+    "website": "http://www.agadir.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Agadir&query_place_id=ChIJoX4f_4snwkcRYApL1v6KI_k",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "12–2:30 pm",
+        "6–10:30 pm"
+      ],
+      "Thursday": [
+        "12–2:30 pm",
+        "6–10:30 pm"
+      ],
+      "Friday": [
+        "6–10:30 pm"
+      ],
+      "Saturday": [
+        "12–2:30 pm",
+        "6–11 pm"
+      ],
+      "Sunday": [
+        "12–2:30 pm",
+        "6–11 pm"
+      ]
+    },
+    "review_count": 794,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcn_coq4QFxxJlqvdAiAJP-5gORPOpDdeZCCRp0lU10a4Bw1UDonHFcur8Oj8yTokXPSNHET-tvj5FWT11GG0PaPGCUQE47iSwnNXRk5_pqRKKIsDUnPvUgQbpHUxxtBounT4_s=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcn_coq4QFxxJlqvdAiAJP-5gORPOpDdeZCCRp0lU10a4Bw1UDonHFcur8Oj8yTokXPSNHET-tvj5FWT11GG0PaPGCUQE47iSwnNXRk5_pqRKKIsDUnPvUgQbpHUxxtBounT4_s=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Fleurus, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJ84LMW-knwkcRsZKQ4_zdSKI",
     "name": "Anatolia",
     "type": "restaurant",
@@ -412,6 +516,32 @@
     "is_active": true,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJSeLmbOwnwkcR0xheRsuxiZw",
+    "name": "Mosquee et centre culturel et sportif de diyanet",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Châtelet",
+    "address": "Mosquee et centre culturel et sportif de diyanet, Rue de la Poste 47, 6200 Châtelet",
+    "street": "Rue de la Poste 47",
+    "postal_code": "6200",
+    "region": null,
+    "latitude": 50.4088645,
+    "longitude": 4.5201154,
+    "phone": "071 40 04 06",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mosquee%20et%20centre%20culturel%20et%20sportif%20de%20diyanet&query_place_id=ChIJSeLmbOwnwkcR0xheRsuxiZw",
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gUPgTwVrbAHYeYbh5gmK1Q&cb_client=search.gws-prod.grass&w=80&h=92&yaw=113.825905&pitch=0.5985058&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gUPgTwVrbAHYeYbh5gmK1Q&cb_client=search.gws-prod.grass&w=80&h=92&yaw=113.825905&pitch=0.5985058&thumbfov=w1000-h750-no",
+    "rating": 5.0,
+    "review_count": 20,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
   },
   {
     "place_id": "ChIJZ0PN84UnwkcRYHCIaOI31og",
@@ -2553,32 +2683,6 @@
     "is_active": true,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJy9RJtixawkcRd3mFJFlT1JM",
-    "name": "Mosquée Emir Abdelkader",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Colfontaine",
-    "address": "Mosquée Emir Abdelkader, Rue du Temple 7, 7340 Colfontaine",
-    "street": "Rue du Temple 7",
-    "postal_code": "7340",
-    "region": null,
-    "latitude": 50.408820399999996,
-    "longitude": 3.8571573,
-    "phone": "065 63 21 15",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mosqu%C3%A9e%20Emir%20Abdelkader&query_place_id=ChIJy9RJtixawkcRd3mFJFlT1JM",
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QtwAVCAkEjBgqIsOR41M0Q&cb_client=search.gws-prod.grass&w=80&h=92&yaw=186.53912&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QtwAVCAkEjBgqIsOR41M0Q&cb_client=search.gws-prod.grass&w=80&h=92&yaw=186.53912&pitch=0&thumbfov=w1000-h750-no",
-    "rating": 4.8,
-    "review_count": 19,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
   },
   {
     "place_id": "ChIJy9RJtixawkcReJwhCqgPYac",
@@ -11735,82 +11839,6 @@
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdJHEDqzV6DHZLKGsdx4QWlhB93KsQW2rXb4FJuH4lnWF_uA_7FeZGwTUP4tAdfG5NiC73nUO5ubvuDOskAZJ7v4ohONGgX65LSKES_iYGPGUMF6zYqYc3zLflDwSM9sRoaSQGu=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdJHEDqzV6DHZLKGsdx4QWlhB93KsQW2rXb4FJuH4lnWF_uA_7FeZGwTUP4tAdfG5NiC73nUO5ubvuDOskAZJ7v4ohONGgX65LSKES_iYGPGUMF6zYqYc3zLflDwSM9sRoaSQGu=w1000-h750-no",
     "source_query": "Halal restaurant in Diest, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJq5JCf-s_wUcRNhTHPXDTOUE",
-    "name": "Elite Slagerij Diest (Halal)",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Diest",
-    "address": "Elite Slagerij Diest (Halal), Hasseltsestraat 81, 3290 Diest",
-    "street": "Hasseltsestraat 81",
-    "postal_code": "3290",
-    "region": null,
-    "latitude": 50.979898899999995,
-    "longitude": 5.054863999999999,
-    "phone": "0465 85 84 84",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Elite%20Slagerij%20Diest%20%28Halal%29&query_place_id=ChIJq5JCf-s_wUcRNhTHPXDTOUE",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdBc5Tm1K3WIdjX66m5sQZh41DmIbvJrYbCucfbu7ctWLkkRRGQPW9RAPPmcAEAJVvEam7TA3xqlYKeE-kz8eg3sLZuZKELCquTCpCfHYpUYHjLw7x6s57_EYScaf01FN7QqeZc=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdBc5Tm1K3WIdjX66m5sQZh41DmIbvJrYbCucfbu7ctWLkkRRGQPW9RAPPmcAEAJVvEam7TA3xqlYKeE-kz8eg3sLZuZKELCquTCpCfHYpUYHjLw7x6s57_EYScaf01FN7QqeZc=w1000-h750-no",
-    "rating": 4.7,
-    "review_count": 19,
-    "verification_status": "VERIFIED",
-    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJYZbQjvE5wUcRqHxYc0UWA04",
-    "name": "Garlic",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Diest",
-    "address": "Garlic, Koning Albertstraat 74, 3290 Diest",
-    "street": "Koning Albertstraat 74",
-    "postal_code": "3290",
-    "region": null,
-    "latitude": 50.987199499999996,
-    "longitude": 5.055132599999999,
-    "phone": "0465 14 70 26",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Garlic&query_place_id=ChIJYZbQjvE5wUcRqHxYc0UWA04",
-    "open_hours_json": {
-      "Monday": [
-        "10 am–3 pm"
-      ],
-      "Tuesday": [
-        "10 am–7 pm"
-      ],
-      "Wednesday": [
-        "10 am–7 pm"
-      ],
-      "Thursday": [
-        "10 am–7 pm"
-      ],
-      "Friday": [
-        "10 am–7 pm"
-      ],
-      "Saturday": [
-        "10 am–7 pm"
-      ],
-      "Sunday": [
-        "10 am–3 pm"
-      ]
-    },
-    "review_count": 1,
-    "rating": 5.0,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeZyrhHGE0ierXQPKWbNoP1QueJbKpsbUNgpi30iAQnBv5dYw_qan_3_oZl_ZE0vLVHjl6wOfskpvXkbaAKfydZJmjRYkFS1h8oaTlGC0b9c0vy4AM2BdwSEw5lObMVnaHSt4SU3oXMfcmB=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeZyrhHGE0ierXQPKWbNoP1QueJbKpsbUNgpi30iAQnBv5dYw_qan_3_oZl_ZE0vLVHjl6wOfskpvXkbaAKfydZJmjRYkFS1h8oaTlGC0b9c0vy4AM2BdwSEw5lObMVnaHSt4SU3oXMfcmB=w1000-h750-no",
-    "source_query": "Hypermarket in Diest, Flanders, BE",
     "moderation_status": "approved",
     "is_active": true,
     "verification_status": "UNVERIFIED",
