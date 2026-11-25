@@ -14,11 +14,11 @@
     },
     "LU": {
       "name": "Luxembourg",
-      "count": 447,
+      "count": 448,
       "total_shards": 2,
       "shards_dir": "shards/LU",
       "cities_file": "shards/LU/cities.json",
-      "updated_at": "2026-11-25T06:48:49.057582+00:00"
+      "updated_at": "2026-11-25T09:19:40.916101+00:00"
     },
     "NL": {
       "name": "Netherlands",
@@ -141,6 +141,6 @@
       "updated_at": "2026-11-25T09:10:47.470772+00:00"
     }
   },
-  "updated_at": "2026-11-25T09:10:47.470772+00:00",
-  "total_places": 38629
+  "updated_at": "2026-11-25T09:19:40.916101+00:00",
+  "total_places": 38630
 }
