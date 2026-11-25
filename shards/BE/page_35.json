@@ -1,5 +1,356 @@
 [
   {
+    "place_id": "ChIJuwrnEjO93EcR7vDunYP0iZ8",
+    "name": "Dona CGV",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Veurne",
+    "address": "Dona CGV, Pannestraat 2, 8630 Veurne",
+    "street": "Pannestraat 2",
+    "postal_code": "8630",
+    "region": null,
+    "latitude": 51.073887899999995,
+    "longitude": 2.6618752,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Dona%20CGV&query_place_id=ChIJuwrnEjO93EcR7vDunYP0iZ8",
+    "open_hours_json": {
+      "Monday": [
+        "7 am–9 pm"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "7 am–9 pm"
+      ],
+      "Thursday": [
+        "7 am–9 pm"
+      ],
+      "Friday": [
+        "7 am–9 pm"
+      ],
+      "Saturday": [
+        "7 am–9 pm"
+      ],
+      "Sunday": [
+        "7 am–9 pm"
+      ]
+    },
+    "review_count": 3,
+    "rating": 2.3,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0EYYSyy5flJQsrsAkRjlSw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=297.79633&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0EYYSyy5flJQsrsAkRjlSw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=297.79633&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Hypermarket in Veurne, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJCaIi6_y93EcRXVVIp7EY6tA",
+    "name": "DreamLand Veurne",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Veurne",
+    "address": "DreamLand Veurne, Monnikshoekstraat 6c, 8630 Veurne",
+    "street": "Monnikshoekstraat 6c",
+    "postal_code": "8630",
+    "region": null,
+    "latitude": 51.073676999999996,
+    "longitude": 2.6873416,
+    "phone": "058 29 87 69",
+    "website": "https://www.dreamland.be/nl/winkels/dreamland-veurne",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=DreamLand%20Veurne&query_place_id=ChIJCaIi6_y93EcRXVVIp7EY6tA",
+    "open_hours_json": {
+      "Monday": [
+        "10 am–6:30 pm"
+      ],
+      "Tuesday": [
+        "10 am–6:30 pm"
+      ],
+      "Wednesday": [
+        "10 am–6:30 pm"
+      ],
+      "Thursday": [
+        "10 am–6:30 pm"
+      ],
+      "Friday": [
+        "10 am–7 pm"
+      ],
+      "Saturday": [
+        "9:30 am–6:30 pm"
+      ],
+      "Sunday": [
+        "10 am–5 pm"
+      ]
+    },
+    "review_count": 787,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfm2_Hnr0dZ1tWx644J-X7y2BBJbSQvi_4bSq3opYMlsF-cMntwKu9pBr9OmORkqZCxVuRfpusYfVV7Yu3181ZrNaWz-d-shxGG_Oo624QjWi_19rdvhpfDMR1oVMqgVvGU95o1=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfm2_Hnr0dZ1tWx644J-X7y2BBJbSQvi_4bSq3opYMlsF-cMntwKu9pBr9OmORkqZCxVuRfpusYfVV7Yu3181ZrNaWz-d-shxGG_Oo624QjWi_19rdvhpfDMR1oVMqgVvGU95o1=w1000-h750-no",
+    "source_query": "Hypermarket in Veurne, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJdVNoAiC83EcR4jdkD65fADM",
+    "name": "Eetcafé De Reygaerd",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Veurne",
+    "address": "Eetcafé De Reygaerd, Reygaerdijkstraat 23, 8630 Veurne",
+    "street": "Reygaerdijkstraat 23",
+    "postal_code": "8630",
+    "region": null,
+    "latitude": 51.0647145,
+    "longitude": 2.7307581,
+    "phone": "058 31 73 31",
+    "website": "http://www.dereygaerd.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Eetcaf%C3%A9%20De%20Reygaerd&query_place_id=ChIJdVNoAiC83EcR4jdkD65fADM",
+    "open_hours_json": {
+      "Monday": [
+        "11:30 am–9:30 pm"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "11:30 am–9:30 pm"
+      ],
+      "Friday": [
+        "11:30 am–9:30 pm"
+      ],
+      "Saturday": [
+        "11:30 am–9:30 pm"
+      ],
+      "Sunday": [
+        "11:30 am–9:30 pm"
+      ]
+    },
+    "review_count": 366,
+    "rating": 4.4,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLekBh_5IZQOyq_Wt2ScVGIG8pUydOm-nSMlYxmsRcZtTzIrD3_0MK4psAKGbUnrrjWp13OtchmSc073Z3I-xwNxE7H8wNQWgFBeRNZ1fZAWSkSAzaXmp51nRPg65A0YTn4qB86ReQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLekBh_5IZQOyq_Wt2ScVGIG8pUydOm-nSMlYxmsRcZtTzIrD3_0MK4psAKGbUnrrjWp13OtchmSc073Z3I-xwNxE7H8wNQWgFBeRNZ1fZAWSkSAzaXmp51nRPg65A0YTn4qB86ReQ=w1000-h750-no",
+    "source_query": "Fish restaurant in Veurne, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJp-OeI_m93EcRnien0_AdTQM",
+    "name": "Grill De Vette Os",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Veurne",
+    "address": "Grill De Vette Os, Zuidstraat 1, 8630 Veurne",
+    "street": "Zuidstraat 1",
+    "postal_code": "8630",
+    "region": null,
+    "latitude": 51.071817499999995,
+    "longitude": 2.6613838,
+    "phone": "058 31 31 10",
+    "website": "http://www.grilldevetteos.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Grill%20De%20Vette%20Os&query_place_id=ChIJp-OeI_m93EcRnien0_AdTQM",
+    "open_hours_json": {
+      "Monday": [
+        "6 pm–1 am"
+      ],
+      "Tuesday": [
+        "6 pm–1 am"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "Closed"
+      ],
+      "Friday": [
+        "6 pm–1 am"
+      ],
+      "Saturday": [
+        "6 pm–1 am"
+      ],
+      "Sunday": [
+        "12–2:30 pm",
+        "6 pm–1 am"
+      ]
+    },
+    "review_count": 1341,
+    "rating": 4.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdpIJm5LmAwCDXxznAlHDLsKhy3XyLl34cxq6wVOzkUZXVqJWPNM6pQQhljNT_ZZnR3LUNVATPm357KMssZ1oZCdweeTTO43zcKNy5KCXQ_BBq34lLZokn2QH0etOUH4bCq1PTr=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdpIJm5LmAwCDXxznAlHDLsKhy3XyLl34cxq6wVOzkUZXVqJWPNM6pQQhljNT_ZZnR3LUNVATPm357KMssZ1oZCdweeTTO43zcKNy5KCXQ_BBq34lLZokn2QH0etOUH4bCq1PTr=w1000-h750-no",
+    "source_query": "Halal restaurant in Veurne, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ0-ztrfm93EcRgH4AdA8Q4pI",
+    "name": "Grill Valentino",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Veurne",
+    "address": "Grill Valentino, Pannestraat 12, 8630 Veurne",
+    "street": "Pannestraat 12",
+    "postal_code": "8630",
+    "region": null,
+    "latitude": 51.0738725,
+    "longitude": 2.6613016999999997,
+    "phone": "0499 31 38 89",
+    "website": "https://grillvalentino.my.canva.site/steakhouse#home",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Grill%20Valentino&query_place_id=ChIJ0-ztrfm93EcRgH4AdA8Q4pI",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "6–9 pm"
+      ],
+      "Wednesday": [
+        "6–9 pm"
+      ],
+      "Thursday": [
+        "6–9 pm"
+      ],
+      "Friday": [
+        "6–9 pm"
+      ],
+      "Saturday": [
+        "6–9 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 162,
+    "rating": 4.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfgvOfWkQpXocqQg6CkEtF5lcMMiNLsyNoH-cBAHpKGEXlIDSK5PshGKzhB5urcv14Rw3boEjvTvJcrQ7PaP_jYCI9D6ZSqrKLkZTBsRyzH1Kr1BFeuUmL0Tk9YEHxe7oHVY4Ps=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfgvOfWkQpXocqQg6CkEtF5lcMMiNLsyNoH-cBAHpKGEXlIDSK5PshGKzhB5urcv14Rw3boEjvTvJcrQ7PaP_jYCI9D6ZSqrKLkZTBsRyzH1Kr1BFeuUmL0Tk9YEHxe7oHVY4Ps=w1000-h750-no",
+    "source_query": "Halal restaurant in Veurne, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJW7wcqE693EcR6PJXdKyzXnw",
+    "name": "Grote Markt",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Veurne",
+    "address": "Grote Markt, 8630 Veurne",
+    "street": "Grote Markt",
+    "postal_code": "8630",
+    "region": null,
+    "latitude": 51.0723987,
+    "longitude": 2.6620106999999997,
+    "phone": null,
+    "website": "http://www.veurne.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Grote%20Markt&query_place_id=ChIJW7wcqE693EcR6PJXdKyzXnw",
+    "open_hours_json": {
+      "Monday": [
+        "Open 24 hours"
+      ],
+      "Tuesday": [
+        "Open 24 hours"
+      ],
+      "Wednesday": [
+        "Open 24 hours"
+      ],
+      "Thursday": [
+        "Open 24 hours"
+      ],
+      "Friday": [
+        "Open 24 hours"
+      ],
+      "Saturday": [
+        "Open 24 hours"
+      ],
+      "Sunday": [
+        "Open 24 hours"
+      ]
+    },
+    "review_count": 805,
+    "rating": 4.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfEQ7oTHvCkrlYJAQbprgaNngCuZCI2RoGlQ4hXJ25ThsDjBxrSs2CSbW3w-Xgdm5Sqg4x9OyUQWeeSH2yuye399r4fRp0wuzC5ZXQfgXsm9Jned0TQbrXpiha_QH5zu6Noa40z=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfEQ7oTHvCkrlYJAQbprgaNngCuZCI2RoGlQ4hXJ25ThsDjBxrSs2CSbW3w-Xgdm5Sqg4x9OyUQWeeSH2yuye399r4fRp0wuzC5ZXQfgXsm9Jned0TQbrXpiha_QH5zu6Noa40z=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Veurne, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJU6-rdAq-3EcRb065HE35HgQ",
+    "name": "IDS Veurne",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Veurne",
+    "address": "IDS Veurne, Welvaartstraat 7, 8630 Veurne",
+    "street": "Welvaartstraat 7",
+    "postal_code": "8630",
+    "region": null,
+    "latitude": 51.064776099999996,
+    "longitude": 2.6767912,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=IDS%20Veurne&query_place_id=ChIJU6-rdAq-3EcRb065HE35HgQ",
+    "open_hours_json": {
+      "Monday": [
+        "Open 24 hours"
+      ],
+      "Tuesday": [
+        "Open 24 hours"
+      ],
+      "Wednesday": [
+        "Open 24 hours"
+      ],
+      "Thursday": [
+        "Open 24 hours"
+      ],
+      "Friday": [
+        "Open 24 hours"
+      ],
+      "Saturday": [
+        "Open 24 hours"
+      ],
+      "Sunday": [
+        "Open 24 hours"
+      ]
+    },
+    "review_count": 281,
+    "rating": 4.1,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdP6s_gHENc6LohOAl7eDju0IDyfSUDE8pdFrkU4n1fdu1PVnfOSTbxYC5dMCPN6BXj21MXnN_QNIaMGobscPS0HyaKEYkN0F79cXQy6OV_St1ZosIxCPdtyi9DHNw7uh7hiVFt=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdP6s_gHENc6LohOAl7eDju0IDyfSUDE8pdFrkU4n1fdu1PVnfOSTbxYC5dMCPN6BXj21MXnN_QNIaMGobscPS0HyaKEYkN0F79cXQy6OV_St1ZosIxCPdtyi9DHNw7uh7hiVFt=w1000-h750-no",
+    "source_query": "Hypermarket in Veurne, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJhRmOgRuW3EcR1OvPzAmZzoc",
     "name": "JBC",
     "type": "restaurant",
@@ -2077,8 +2428,8 @@
     "phone": "0484 54 30 57",
     "website": "https://www.facebook.com/kasapmehmetbelcika/?locale=fr_FR",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kasap%20Mehmet&query_place_id=ChIJCX8j0P_nw0cR9OooaTdxDLc",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdWqQM5jlr_lz1-xG6t_C_nRhIZF46uvInC72ZbE-jT5UJsWtP5Sxv5rwBGScoeKRLMX1iHXK83kEE2yTDG78XFrOZ_LUxDUaap9YVYKH6iAEFJPmvqkSX7f1uo94TNfahIlZY=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdWqQM5jlr_lz1-xG6t_C_nRhIZF46uvInC72ZbE-jT5UJsWtP5Sxv5rwBGScoeKRLMX1iHXK83kEE2yTDG78XFrOZ_LUxDUaap9YVYKH6iAEFJPmvqkSX7f1uo94TNfahIlZY=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLck1RHiz-JBjSK_MDDGXJKG1b08sqnC-Pnepvz6mjA2Z8WLPvESqV7RIqMAOqveC-yALDyjRgmFCKxmnHyer_i320lzKcRQbRkfKLYGeYDTe0GAWjGSHeHq87DlPc8NvAHlSQb97_PRsxM=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLck1RHiz-JBjSK_MDDGXJKG1b08sqnC-Pnepvz6mjA2Z8WLPvESqV7RIqMAOqveC-yALDyjRgmFCKxmnHyer_i320lzKcRQbRkfKLYGeYDTe0GAWjGSHeHq87DlPc8NvAHlSQb97_PRsxM=w1000-h750-no",
     "rating": 4.3,
     "review_count": 74,
     "verification_status": "UNVERIFIED",
@@ -7766,7 +8117,7 @@
     "latitude": 50.8212081,
     "longitude": 4.3425997,
     "phone": "0478 02 46 42",
-    "website": "http://www.sina-pasta.com/",
+    "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=SINA%20PASTA%20-%20FOREST&query_place_id=ChIJ5c7gi13Fw0cRCM5Xg95F2BA",
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd24ZQ-pV1lzzqOINhjC5Kk-4wNlX_v6KxVU-5zWK4PgBd_pyo2BahGrK-0WcHvgsw-0wTIsrCXVhTFdUquM34s5hrZYgT2d-jR6PdLp8DZqGbbwkazsQrv3eo-9LcX1lZB6-Celw=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd24ZQ-pV1lzzqOINhjC5Kk-4wNlX_v6KxVU-5zWK4PgBd_pyo2BahGrK-0WcHvgsw-0wTIsrCXVhTFdUquM34s5hrZYgT2d-jR6PdLp8DZqGbbwkazsQrv3eo-9LcX1lZB6-Celw=w1000-h750-no",
@@ -10947,320 +11298,6 @@
     "rating": 4.5,
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdAy1r0USPatrIHdijv2dA0lZv3ov0RXQ8Bq28hGMKzznW9VPvHwzCLycI2sWfMEzLo5qigx27fCYeoGyuIpC53076FqAyEX1yvjvYH4FI7aigfOq8q2h-dSpRFAs9Lpiq79DwJ=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdAy1r0USPatrIHdijv2dA0lZv3ov0RXQ8Bq28hGMKzznW9VPvHwzCLycI2sWfMEzLo5qigx27fCYeoGyuIpC53076FqAyEX1yvjvYH4FI7aigfOq8q2h-dSpRFAs9Lpiq79DwJ=w1000-h750-no",
-    "source_query": "Fish restaurant in Waregem, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJs2aA83A9w0cRULXk893nO9k",
-    "name": "Restaurant Sinfonia",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Waregem",
-    "address": "Restaurant Sinfonia, Kortrijkseweg 215, 8791 Waregem",
-    "street": "Kortrijkseweg 215",
-    "postal_code": "8791",
-    "region": null,
-    "latitude": 50.8744874,
-    "longitude": 3.3470475,
-    "phone": "056 60 99 60",
-    "website": "https://restaurant-sinfonia.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20Sinfonia&query_place_id=ChIJs2aA83A9w0cRULXk893nO9k",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "12–1:30 pm",
-        "6:30–9:30 pm"
-      ],
-      "Thursday": [
-        "12–1:30 pm",
-        "6:30–9:30 pm"
-      ],
-      "Friday": [
-        "12–1:30 pm",
-        "6:30–9:30 pm"
-      ],
-      "Saturday": [
-        "12–1:30 pm",
-        "6:30–9:30 pm"
-      ],
-      "Sunday": [
-        "12–1:30 pm",
-        "6:30–9:30 pm"
-      ]
-    },
-    "review_count": 340,
-    "rating": 4.5,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdTzyvdRkdcC5nE-9-bdABDY-gDa3cPiRszWIhyt0md-PQbkXGVjMju9FJrTDZZPY8wbGLcU8maMpS7PUakcsKs-0vD8rPfdH3apzCipV76-b5fBfNm6wGxOt8yrjfLLL4MMCI7Ow=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdTzyvdRkdcC5nE-9-bdABDY-gDa3cPiRszWIhyt0md-PQbkXGVjMju9FJrTDZZPY8wbGLcU8maMpS7PUakcsKs-0vD8rPfdH3apzCipV76-b5fBfNm6wGxOt8yrjfLLL4MMCI7Ow=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Waregem, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ360Gk_MVw0cRcIQR7DF3mb8",
-    "name": "Restaurant Wonderland",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Waregem",
-    "address": "Restaurant Wonderland, Stationsstraat 195, 8790 Waregem",
-    "street": "Stationsstraat 195",
-    "postal_code": "8790",
-    "region": null,
-    "latitude": 50.8923841,
-    "longitude": 3.4267714,
-    "phone": "0475 34 31 36",
-    "website": "https://wonderland.restaurant/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20Wonderland&query_place_id=ChIJ360Gk_MVw0cRcIQR7DF3mb8",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "6–10 pm"
-      ],
-      "Thursday": [
-        "6–10 pm"
-      ],
-      "Friday": [
-        "12–2 pm",
-        "6–10 pm"
-      ],
-      "Saturday": [
-        "6–10 pm"
-      ],
-      "Sunday": [
-        "12–2 pm",
-        "6–10 pm"
-      ]
-    },
-    "review_count": 159,
-    "rating": 4.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe647BijK0rYXEwbJ1VVxzgVAQiVXd755iDb2uYemyj56DHDuyeyUzvg1n2z3ntaLjKioI_lC3NxHYSELz0vcSkWOk73P3Dd2fYBL7EhoParK6UHV9ZHirjnp-WT1M90LyKgLr9=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe647BijK0rYXEwbJ1VVxzgVAQiVXd755iDb2uYemyj56DHDuyeyUzvg1n2z3ntaLjKioI_lC3NxHYSELz0vcSkWOk73P3Dd2fYBL7EhoParK6UHV9ZHirjnp-WT1M90LyKgLr9=w1000-h750-no",
-    "source_query": "Halal restaurant in Waregem, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJWXSauXYWw0cRskuYAh47R10",
-    "name": "Robuust",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Waregem",
-    "address": "Robuust, Wortegemseweg 115, 8790 Waregem",
-    "street": "Wortegemseweg 115",
-    "postal_code": "8790",
-    "region": null,
-    "latitude": 50.873720299999995,
-    "longitude": 3.4519218,
-    "phone": "056 61 64 74",
-    "website": "http://www.restaurantrobuust.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Robuust&query_place_id=ChIJWXSauXYWw0cRskuYAh47R10",
-    "open_hours_json": {
-      "Monday": [
-        "12–2 pm"
-      ],
-      "Tuesday": [
-        "12–2 pm"
-      ],
-      "Wednesday": [
-        "12–2 pm"
-      ],
-      "Thursday": [
-        "12–2 pm",
-        "6:30–9:30 pm"
-      ],
-      "Friday": [
-        "12–2 pm"
-      ],
-      "Saturday": [
-        "Closed"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 212,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfR4Qs81vZWAq9iibGuTkJMYNZaONJDUGLl9TqdSnsvRZka3ueAb7WsPQOWVjvdecS8RrpzwvjPiiuDgKD7ROa5OmuHpCv2DnRHABy_M7bk15qj_Jx0I2R1Rlm60V2T1cHbzRqO=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfR4Qs81vZWAq9iibGuTkJMYNZaONJDUGLl9TqdSnsvRZka3ueAb7WsPQOWVjvdecS8RrpzwvjPiiuDgKD7ROa5OmuHpCv2DnRHABy_M7bk15qj_Jx0I2R1Rlm60V2T1cHbzRqO=w1000-h750-no",
-    "source_query": "Fish restaurant in Waregem, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ0SC-ZtUVw0cRrnsyXlBzukE",
-    "name": "SPRS KINE I Waregem",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Waregem",
-    "address": "SPRS KINE I Waregem, Zuiderlaan 29, 8790 Waregem",
-    "street": "Zuiderlaan 29",
-    "postal_code": "8790",
-    "region": null,
-    "latitude": 50.882382299999996,
-    "longitude": 3.4293310999999997,
-    "phone": "0476 52 15 11",
-    "website": "https://www.sprskine.be/waregem/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=SPRS%20KINE%20I%20Waregem&query_place_id=ChIJ0SC-ZtUVw0cRrnsyXlBzukE",
-    "open_hours_json": {
-      "Monday": [
-        "8 am–9:30 pm"
-      ],
-      "Tuesday": [
-        "8 am–9:30 pm"
-      ],
-      "Wednesday": [
-        "8 am–9:30 pm"
-      ],
-      "Thursday": [
-        "8 am–9:30 pm"
-      ],
-      "Friday": [
-        "8 am–9:30 pm"
-      ],
-      "Saturday": [
-        "8 am–1 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 21,
-    "rating": 5.0,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeHRWlJAT5g3b53FmKokxQR-5Yn_16AkyFQa1MPGA8FrrDySagHKUxdwbPQZcQ2Hr9KHLHzW9X-2eSzcvfzNc0OK48VCbgYWgwvc9danH8s_Nmq9PdIBBJ6HN1lN0Il9d8DrAcURM5MsWIO=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeHRWlJAT5g3b53FmKokxQR-5Yn_16AkyFQa1MPGA8FrrDySagHKUxdwbPQZcQ2Hr9KHLHzW9X-2eSzcvfzNc0OK48VCbgYWgwvc9danH8s_Nmq9PdIBBJ6HN1lN0Il9d8DrAcURM5MsWIO=w1000-h750-no",
-    "source_query": "Pharmacy in Waregem, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJrz25CPsVw0cRkJXOO80iRko",
-    "name": "Shopping Centre Het Pand",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Waregem",
-    "address": "Shopping Centre Het Pand, Pand 312, 8790 Waregem",
-    "street": "Pand 312",
-    "postal_code": "8790",
-    "region": null,
-    "latitude": 50.8864236,
-    "longitude": 3.4321761,
-    "phone": "056 62 13 92",
-    "website": "https://www.hetpandwaregem.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Shopping%20Centre%20Het%20Pand&query_place_id=ChIJrz25CPsVw0cRkJXOO80iRko",
-    "open_hours_json": null,
-    "review_count": 865,
-    "rating": 3.9,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdfJBnlGK-TS99PZiNXNxe0e6DNUcvXSMrvMna55ni5xBEtI-iJciNIVc6YxW-sBNMYBjJtFyYpQcgBEACEkdz0Jyx_M3xUYrGUbNkBx2XkTKREaWogwbgsT7R2RtLCD-BNBRoZ8g=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdfJBnlGK-TS99PZiNXNxe0e6DNUcvXSMrvMna55ni5xBEtI-iJciNIVc6YxW-sBNMYBjJtFyYpQcgBEACEkdz0Jyx_M3xUYrGUbNkBx2XkTKREaWogwbgsT7R2RtLCD-BNBRoZ8g=w1000-h750-no",
-    "source_query": "Hypermarket in Waregem, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJO5gf_eMVw0cRs1PZcjeEErk",
-    "name": "Spar Waregem Holstraat",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Waregem",
-    "address": "Spar Waregem Holstraat, Holstraat 78, 8790 Waregem",
-    "street": "Holstraat 78",
-    "postal_code": "8790",
-    "region": null,
-    "latitude": 50.8829925,
-    "longitude": 3.4390199,
-    "phone": "056 60 32 39",
-    "website": "https://www.mijnspar.be/winkels/spar-waregem-holstraat",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Spar%20Waregem%20Holstraat&query_place_id=ChIJO5gf_eMVw0cRs1PZcjeEErk",
-    "open_hours_json": {
-      "Monday": [
-        "10 am–7 pm"
-      ],
-      "Tuesday": [
-        "8 am–7 pm"
-      ],
-      "Wednesday": [
-        "8 am–7 pm"
-      ],
-      "Thursday": [
-        "8 am–7 pm"
-      ],
-      "Friday": [
-        "8 am–7 pm"
-      ],
-      "Saturday": [
-        "8 am–6 pm"
-      ],
-      "Sunday": [
-        "8 am–12 pm"
-      ]
-    },
-    "review_count": 183,
-    "rating": 4.2,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdDsMGFxw5RVT3dHzFKiO395dVte7oOTcxWW9TCZJj6BmnIErjIbrfuCqt9uSkLMQ0j6fDnSTzI8ia2eSG3_qXdwVe6mEnXF3cIlgba135nPeAOmOq-r8hHU2TZYKqkph54kB5OCw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdDsMGFxw5RVT3dHzFKiO395dVte7oOTcxWW9TCZJj6BmnIErjIbrfuCqt9uSkLMQ0j6fDnSTzI8ia2eSG3_qXdwVe6mEnXF3cIlgba135nPeAOmOq-r8hHU2TZYKqkph54kB5OCw=w1000-h750-no",
-    "source_query": "Hypermarket in Waregem, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ6aoJ7vwVw0cRoT6DFEVq_r4",
-    "name": "Stadionvijvers",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Waregem",
-    "address": "Stadionvijvers, Zuiderlaan, 8790 Waregem",
-    "street": "Zuiderlaan",
-    "postal_code": "8790",
-    "region": null,
-    "latitude": 50.8838121,
-    "longitude": 3.4308859999999997,
-    "phone": null,
-    "website": "https://www.waregem.be/vrije-tijd/cultuur/onroerend-erfgoed/sport-en-spel/stadionvijvers",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Stadionvijvers&query_place_id=ChIJ6aoJ7vwVw0cRoT6DFEVq_r4",
-    "open_hours_json": null,
-    "review_count": 152,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdODdVmwbbBO9rGVZ9N_ASnxZqXRnAtLwr3nn5982NtdlvB96wFFJXHcYONW8NlgNpTBC9Jjnw4r5BIijtICne-yRCtKyaSh39f8awFuyTEaghpc9eg8bzyYAii_EQGqyylGM1u=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdODdVmwbbBO9rGVZ9N_ASnxZqXRnAtLwr3nn5982NtdlvB96wFFJXHcYONW8NlgNpTBC9Jjnw4r5BIijtICne-yRCtKyaSh39f8awFuyTEaghpc9eg8bzyYAii_EQGqyylGM1u=w1000-h750-no",
     "source_query": "Fish restaurant in Waregem, Flanders, BE",
     "moderation_status": "approved",
     "is_active": true,
