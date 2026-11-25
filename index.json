@@ -30,11 +30,11 @@
     },
     "FR": {
       "name": "France",
-      "count": 3598,
+      "count": 3614,
       "total_shards": 15,
       "shards_dir": "shards/FR",
       "cities_file": "shards/FR/cities.json",
-      "updated_at": "2026-11-25T09:50:40.988968+00:00"
+      "updated_at": "2026-11-25T12:23:53.157896+00:00"
     },
     "DE": {
       "name": "Germany",
@@ -141,6 +141,6 @@
       "updated_at": "2026-11-25T11:43:03.930051+00:00"
     }
   },
-  "updated_at": "2026-11-25T12:14:27.390848+00:00",
-  "total_places": 38768
+  "updated_at": "2026-11-25T12:23:53.157896+00:00",
+  "total_places": 38784
 }
