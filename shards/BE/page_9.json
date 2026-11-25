@@ -2685,6 +2685,32 @@
     "verification_evidence": null
   },
   {
+    "place_id": "ChIJy9RJtixawkcRd3mFJFlT1JM",
+    "name": "Mosquée Emir Abdelkader",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Colfontaine",
+    "address": "Mosquée Emir Abdelkader, Rue du Temple 7, 7340 Colfontaine",
+    "street": "Rue du Temple 7",
+    "postal_code": "7340",
+    "region": null,
+    "latitude": 50.408820399999996,
+    "longitude": 3.8571573,
+    "phone": "065 63 21 15",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mosqu%C3%A9e%20Emir%20Abdelkader&query_place_id=ChIJy9RJtixawkcRd3mFJFlT1JM",
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QtwAVCAkEjBgqIsOR41M0Q&cb_client=search.gws-prod.grass&w=80&h=92&yaw=186.53912&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QtwAVCAkEjBgqIsOR41M0Q&cb_client=search.gws-prod.grass&w=80&h=92&yaw=186.53912&pitch=0&thumbfov=w1000-h750-no",
+    "rating": 4.8,
+    "review_count": 19,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
     "place_id": "ChIJy9RJtixawkcReJwhCqgPYac",
     "name": "Mosquée de Colfontaine",
     "type": "mosque",
@@ -11788,56 +11814,6 @@
     "rating": 4.5,
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfNsIWH9sbKvOx8N_tr2oVIq79oCcUscr1QxvYUyIzVEbfjbC4H5zjK2anhZ7Is-0KM9Vax7hRm2QzHygFiaNJ3JqD8-sRmnshWQ1EkGCPddZjzbBvTdmwx33dLDxFwA_FRO2aC=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfNsIWH9sbKvOx8N_tr2oVIq79oCcUscr1QxvYUyIzVEbfjbC4H5zjK2anhZ7Is-0KM9Vax7hRm2QzHygFiaNJ3JqD8-sRmnshWQ1EkGCPddZjzbBvTdmwx33dLDxFwA_FRO2aC=w1000-h750-no",
-    "source_query": "Halal restaurant in Diest, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJafGUx04_wUcRz7Fp6CUlvHs",
-    "name": "EFES KEBAP DIEST",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Diest",
-    "address": "EFES KEBAP DIEST, Hasseltsestraat 83, 3290 Diest",
-    "street": "Hasseltsestraat 83",
-    "postal_code": "3290",
-    "region": null,
-    "latitude": 50.9798504,
-    "longitude": 5.0549479999999996,
-    "phone": "013 31 57 52",
-    "website": "https://efeskebabdiest.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=EFES%20KEBAP%20DIEST&query_place_id=ChIJafGUx04_wUcRz7Fp6CUlvHs",
-    "open_hours_json": {
-      "Monday": [
-        "11 am–11:30 pm"
-      ],
-      "Tuesday": [
-        "10:30 am–11:30 pm"
-      ],
-      "Wednesday": [
-        "10:30 am–11:30 pm"
-      ],
-      "Thursday": [
-        "10:45 am–11:30 pm"
-      ],
-      "Friday": [
-        "10:45 am–11:30 pm"
-      ],
-      "Saturday": [
-        "10:45 am–11:30 pm"
-      ],
-      "Sunday": [
-        "10:45 am–11:30 pm"
-      ]
-    },
-    "review_count": 366,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdJHEDqzV6DHZLKGsdx4QWlhB93KsQW2rXb4FJuH4lnWF_uA_7FeZGwTUP4tAdfG5NiC73nUO5ubvuDOskAZJ7v4ohONGgX65LSKES_iYGPGUMF6zYqYc3zLflDwSM9sRoaSQGu=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdJHEDqzV6DHZLKGsdx4QWlhB93KsQW2rXb4FJuH4lnWF_uA_7FeZGwTUP4tAdfG5NiC73nUO5ubvuDOskAZJ7v4ohONGgX65LSKES_iYGPGUMF6zYqYc3zLflDwSM9sRoaSQGu=w1000-h750-no",
     "source_query": "Halal restaurant in Diest, Flanders, BE",
     "moderation_status": "approved",
     "is_active": true,
