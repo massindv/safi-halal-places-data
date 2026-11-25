@@ -1,5 +1,1421 @@
 [
   {
+    "place_id": "ChIJzXNkV8a5wUcR1skIJi_hhow",
+    "name": "Il Capriccio",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Ciney",
+    "address": "Il Capriccio, Rue du Commerce 143, 5590 Ciney",
+    "street": "Rue du Commerce 143",
+    "postal_code": "5590",
+    "region": null,
+    "latitude": 50.2909641,
+    "longitude": 5.0929499,
+    "phone": "083 21 61 60",
+    "website": "https://www.ilcapricciociney.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Il%20Capriccio&query_place_id=ChIJzXNkV8a5wUcR1skIJi_hhow",
+    "open_hours_json": {
+      "Monday": [
+        "12–9 pm"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "Closed"
+      ],
+      "Friday": [
+        "12–9 pm"
+      ],
+      "Saturday": [
+        "12–9 pm"
+      ],
+      "Sunday": [
+        "12–9 pm"
+      ]
+    },
+    "review_count": 842,
+    "rating": 4.2,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfEWWbmqNdhbdyDhHyKkNsZgit3hSCUp7--wzNMjbdBewEDFuBdcxtBfgGUhGV7mULbdkiYpwFQO4g-gtRUKB2eS6chmWZFMV9U0_-pl2USSi6sHFUP1urZSGUOoYGGPETCbOgC=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfEWWbmqNdhbdyDhHyKkNsZgit3hSCUp7--wzNMjbdBewEDFuBdcxtBfgGUhGV7mULbdkiYpwFQO4g-gtRUKB2eS6chmWZFMV9U0_-pl2USSi6sHFUP1urZSGUOoYGGPETCbOgC=w1000-h750-no",
+    "source_query": "Halal restaurant in Ciney, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJxQQxWMa5wUcRrtYqcmM-FY8",
+    "name": "Il San Marino",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Ciney",
+    "address": "Il San Marino, Rue du Commerce 160, 5590 Ciney",
+    "street": "Rue du Commerce 160",
+    "postal_code": "5590",
+    "region": null,
+    "latitude": 50.2911,
+    "longitude": 5.0927999999999995,
+    "phone": "083 21 17 81",
+    "website": "http://sanmarino.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Il%20San%20Marino&query_place_id=ChIJxQQxWMa5wUcRrtYqcmM-FY8",
+    "open_hours_json": {
+      "Monday": [
+        "12–2 pm"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "12–1:45 pm",
+        "6–9:30 pm"
+      ],
+      "Friday": [
+        "12–1:45 pm",
+        "6–9:30 pm"
+      ],
+      "Saturday": [
+        "12–1:45 pm",
+        "6–9:30 pm"
+      ],
+      "Sunday": [
+        "12–1:45 pm",
+        "6–9:30 pm"
+      ]
+    },
+    "review_count": 1905,
+    "rating": 4.4,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcd_4qAH4RvUpnVn8M-G5WtFguRfo5OJfWIF2LtU3oeB9Huif4tTdxMOlvK6Lz5EvEA08uNrcDnZXxuaD6f3BvWO75curJ5h2eC33WFx7ifA28q8OJMR7h0PGeaQeX_UJAMeiwgyA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcd_4qAH4RvUpnVn8M-G5WtFguRfo5OJfWIF2LtU3oeB9Huif4tTdxMOlvK6Lz5EvEA08uNrcDnZXxuaD6f3BvWO75curJ5h2eC33WFx7ifA28q8OJMR7h0PGeaQeX_UJAMeiwgyA=w1000-h750-no",
+    "source_query": "Halal restaurant in Ciney, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJEf2HKDu5wUcRzevYQaP9G1w",
+    "name": "Intermarché Ciney",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Ciney",
+    "address": "Intermarché Ciney, Rue du Commerce 79, 5590 Ciney",
+    "street": "Rue du Commerce 79",
+    "postal_code": "5590",
+    "region": null,
+    "latitude": 50.2919753,
+    "longitude": 5.097546299999999,
+    "phone": "083 21 69 25",
+    "website": "https://www.intermarche.be/magasins/intermarche-ciney/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Intermarch%C3%A9%20Ciney&query_place_id=ChIJEf2HKDu5wUcRzevYQaP9G1w",
+    "open_hours_json": {
+      "Monday": [
+        "8 am–8 pm"
+      ],
+      "Tuesday": [
+        "8 am–8 pm"
+      ],
+      "Wednesday": [
+        "8 am–8 pm"
+      ],
+      "Thursday": [
+        "8 am–8 pm"
+      ],
+      "Friday": [
+        "8 am–8 pm"
+      ],
+      "Saturday": [
+        "8 am–8 pm"
+      ],
+      "Sunday": [
+        "8 am–8 pm"
+      ]
+    },
+    "review_count": 199,
+    "rating": 4.1,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfX4sOxe9b3YJbQKIWBzYc4dYDJGOQCDyg5tWGFtL6PQiHqgeRWK-8F2invH3lCFcTgl9kbugnRo3F7awWWjZJY3iZsYA5gatMfXHYNdSPMLBzteo_9uUC8rjbcOND4Va6g12Z7bg=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfX4sOxe9b3YJbQKIWBzYc4dYDJGOQCDyg5tWGFtL6PQiHqgeRWK-8F2invH3lCFcTgl9kbugnRo3F7awWWjZJY3iZsYA5gatMfXHYNdSPMLBzteo_9uUC8rjbcOND4Va6g12Z7bg=w1000-h750-no",
+    "source_query": "Hypermarket in Ciney, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJl6-07DTIwUcRIGO5UMmDpgY",
+    "name": "L'aquarium",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Ciney",
+    "address": "L'aquarium, Rue des Pîrchamps 1, 5590 Ciney",
+    "street": "Rue des Pîrchamps 1",
+    "postal_code": "5590",
+    "region": null,
+    "latitude": 50.224483199999995,
+    "longitude": 5.1401828,
+    "phone": "083 68 72 10",
+    "website": "http://www.aquarium-chevetogne.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=L%27aquarium&query_place_id=ChIJl6-07DTIwUcRIGO5UMmDpgY",
+    "open_hours_json": {
+      "Monday": [
+        "11 am–9 pm"
+      ],
+      "Tuesday": [
+        "11 am–9 pm"
+      ],
+      "Wednesday": [
+        "11 am–9 pm"
+      ],
+      "Thursday": [
+        "11 am–9 pm"
+      ],
+      "Friday": [
+        "11 am–9 pm"
+      ],
+      "Saturday": [
+        "11 am–9 pm"
+      ],
+      "Sunday": [
+        "11 am–9 pm"
+      ]
+    },
+    "review_count": 523,
+    "rating": 3.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdHOaIGtGlvqTkd8CZtJT2iTn7jV-9tSZo9U0f-dVDQD-uANUqiNOg-dQFqvb3Uc6CVeox5YxDvrFwGwE9KojLBUkj2vfbU5MRp9ZwANNoK9YQSKSY3RDtZeIQVbiJ8bufU1hfZrg=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdHOaIGtGlvqTkd8CZtJT2iTn7jV-9tSZo9U0f-dVDQD-uANUqiNOg-dQFqvb3Uc6CVeox5YxDvrFwGwE9KojLBUkj2vfbU5MRp9ZwANNoK9YQSKSY3RDtZeIQVbiJ8bufU1hfZrg=w1000-h750-no",
+    "source_query": "Fish restaurant in Wavreille, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJJ8e128K5wUcRtVOYi5jlGzk",
+    "name": "La Boucherie du Centre",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Ciney",
+    "address": "La Boucherie du Centre, Rue du Ctre 36, 5590 Ciney",
+    "street": "Rue du Ctre 36",
+    "postal_code": "5590",
+    "region": null,
+    "latitude": 50.2962188,
+    "longitude": 5.1010843999999995,
+    "phone": "083 68 96 57",
+    "website": "http://www.boucherieducentre-ciney.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Boucherie%20du%20Centre&query_place_id=ChIJJ8e128K5wUcRtVOYi5jlGzk",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "9 am–6:30 pm"
+      ],
+      "Wednesday": [
+        "9 am–6:30 pm"
+      ],
+      "Thursday": [
+        "9 am–6:30 pm"
+      ],
+      "Friday": [
+        "9 am–6:30 pm"
+      ],
+      "Saturday": [
+        "9 am–6 pm"
+      ],
+      "Sunday": [
+        "9 am–12 pm"
+      ]
+    },
+    "review_count": 61,
+    "rating": 4.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcW02IsRCANBglJ0hyYbVBbHooEtlhduI4QFpqRdNVjE4xnrQtbYXPkU65WCh4jajb6SAMO3WbiWC5A5lSdIbtUiirpCIW8tLwyU2FbyQiplkYmvxC41C0XIpXa1OYq-jVY0BRkCrj-i4xw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcW02IsRCANBglJ0hyYbVBbHooEtlhduI4QFpqRdNVjE4xnrQtbYXPkU65WCh4jajb6SAMO3WbiWC5A5lSdIbtUiirpCIW8tLwyU2FbyQiplkYmvxC41C0XIpXa1OYq-jVY0BRkCrj-i4xw=w1000-h750-no",
+    "source_query": "Halal restaurant in Ciney, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ672PdVe3wUcRBoEskWu2a38",
+    "name": "La Gaillarde - Ciney",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Ciney",
+    "address": "La Gaillarde - Ciney, Rue, Saint-Gilles 59, 5590 Ciney",
+    "street": "Rue, Saint-Gilles 59",
+    "postal_code": "5590",
+    "region": null,
+    "latitude": 50.309250999999996,
+    "longitude": 5.1206074,
+    "phone": "0472 86 29 54",
+    "website": "http://www.lagaillardeciney.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Gaillarde%20-%20Ciney&query_place_id=ChIJ672PdVe3wUcRBoEskWu2a38",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "9 am–6:30 pm"
+      ],
+      "Wednesday": [
+        "9 am–6:30 pm"
+      ],
+      "Thursday": [
+        "9 am–6:30 pm"
+      ],
+      "Friday": [
+        "9 am–6:30 pm"
+      ],
+      "Saturday": [
+        "9 am–6:30 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 70,
+    "rating": 4.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLclC_iSbHdGzvpYgnCntOuQMmKWJFb0jM9mb38xT8nqAC5EbFVM256kwKn4n9_cJ3gVvkkW6qoW4-gHVF2XmDa-kCqugejdZbMZAl8voJ5QQYtPBWQWOHMquPBZE8xAAYXczB3g-A=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLclC_iSbHdGzvpYgnCntOuQMmKWJFb0jM9mb38xT8nqAC5EbFVM256kwKn4n9_cJ3gVvkkW6qoW4-gHVF2XmDa-kCqugejdZbMZAl8voJ5QQYtPBWQWOHMquPBZE8xAAYXczB3g-A=w1000-h750-no",
+    "source_query": "Hypermarket in Ciney, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJT8Hui8a5wUcRedoiJZe0Axc",
+    "name": "Lai-Lai",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Ciney",
+    "address": "Lai-Lai, Rue du Commerce 127, 5590 Ciney",
+    "street": "Rue du Commerce 127",
+    "postal_code": "5590",
+    "region": null,
+    "latitude": 50.2912002,
+    "longitude": 5.0936539,
+    "phone": "083 21 66 99",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Lai-Lai&query_place_id=ChIJT8Hui8a5wUcRedoiJZe0Axc",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "12–2:30 pm",
+        "6–10 pm"
+      ],
+      "Thursday": [
+        "12–2:30 pm",
+        "6–10 pm"
+      ],
+      "Friday": [
+        "12–2:30 pm",
+        "6–10 pm"
+      ],
+      "Saturday": [
+        "12–2:30 pm",
+        "6–10 pm"
+      ],
+      "Sunday": [
+        "12–2:30 pm",
+        "6–10 pm"
+      ]
+    },
+    "review_count": 414,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf5WNHzr8nrAlV7kLpro0FYXPZ1vFmZ_uIODCIvCE1uuHi5cw6dqOVwho7I4NDBOIE8IaFJvX4XAk1fcOuTb-H9I_P2E8my5FV4JjygEufW6v8M-XwSB9mkCCN-PLNI9w8xhPMJ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf5WNHzr8nrAlV7kLpro0FYXPZ1vFmZ_uIODCIvCE1uuHi5cw6dqOVwho7I4NDBOIE8IaFJvX4XAk1fcOuTb-H9I_P2E8my5FV4JjygEufW6v8M-XwSB9mkCCN-PLNI9w8xhPMJ=w1000-h750-no",
+    "source_query": "Halal restaurant in Ciney, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJdyoOPN25wUcRM2Nqf0YSiNg",
+    "name": "Le Creta",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Ciney",
+    "address": "Le Creta, Rue du Condroz 3, 5590 Ciney",
+    "street": "Rue du Condroz 3",
+    "postal_code": "5590",
+    "region": null,
+    "latitude": 50.2973025,
+    "longitude": 5.102847,
+    "phone": "083 21 65 25",
+    "website": "https://le-creta.be/restaurant-ciney/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Creta&query_place_id=ChIJdyoOPN25wUcRM2Nqf0YSiNg",
+    "open_hours_json": {
+      "Monday": [
+        "6–9 pm"
+      ],
+      "Tuesday": [
+        "6–9 pm"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "Closed"
+      ],
+      "Friday": [
+        "12–1:45 pm",
+        "6–9 pm"
+      ],
+      "Saturday": [
+        "6–9 pm"
+      ],
+      "Sunday": [
+        "12–1:45 pm",
+        "6–9 pm"
+      ]
+    },
+    "review_count": 404,
+    "rating": 4.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdx6L4Nbn9K0ivua3At74tuvKCLtOTVsLetyR2KF69JyxkFpHYx-gUVO1-BoNMPV9vMkdKc8xnnF34K9oXu9VgM3b93yHZSAnHFIrTqhTLhryFvtr2sMTXqf0246pqHPcRInGY=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdx6L4Nbn9K0ivua3At74tuvKCLtOTVsLetyR2KF69JyxkFpHYx-gUVO1-BoNMPV9vMkdKc8xnnF34K9oXu9VgM3b93yHZSAnHFIrTqhTLhryFvtr2sMTXqf0246pqHPcRInGY=w1000-h750-no",
+    "source_query": "Halal restaurant in Ciney, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJQx7J4sK5wUcRbDzVFfLxJbM",
+    "name": "Mets Gabon",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Ciney",
+    "address": "Mets Gabon, Pl. Monseu, 5590 Ciney",
+    "street": "Pl. Monseu",
+    "postal_code": "5590",
+    "region": null,
+    "latitude": 50.295998,
+    "longitude": 5.0991769,
+    "phone": "083 21 86 96",
+    "website": "http://www.la-carte.be/fr/restaurants/belgique/namur/5590_ciney/mets-gabon/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mets%20Gabon&query_place_id=ChIJQx7J4sK5wUcRbDzVFfLxJbM",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "6–9 pm"
+      ],
+      "Wednesday": [
+        "6–9 pm"
+      ],
+      "Thursday": [
+        "Closed"
+      ],
+      "Friday": [
+        "6–9 pm"
+      ],
+      "Saturday": [
+        "6–9 pm"
+      ],
+      "Sunday": [
+        "12–3 pm"
+      ]
+    },
+    "review_count": 237,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdUS8Etsr4xrsZeJQT04AA7TvLUtua4jqCklnLNlJkyG7TjyQx0jD2J2qf4gk9KvYjSujsN1eD-4g3-zdLYovQANa6FKMS9lnbQ6eSnPTYGADGjo5lsrHOg0zqiFWCjWXI7E_oE=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdUS8Etsr4xrsZeJQT04AA7TvLUtua4jqCklnLNlJkyG7TjyQx0jD2J2qf4gk9KvYjSujsN1eD-4g3-zdLYovQANa6FKMS9lnbQ6eSnPTYGADGjo5lsrHOg0zqiFWCjWXI7E_oE=w1000-h750-no",
+    "source_query": "Halal restaurant in Ciney, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJLwcRlc25wUcR1wPaIjjK4Ts",
+    "name": "Neva Sultan",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Ciney",
+    "address": "Neva Sultan, Rue du 11 Février 11, 5590 Ciney",
+    "street": "Rue du 11 Février 11",
+    "postal_code": "5590",
+    "region": null,
+    "latitude": 50.295634299999996,
+    "longitude": 5.0995991,
+    "phone": "083 66 88 62",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Neva%20Sultan&query_place_id=ChIJLwcRlc25wUcR1wPaIjjK4Ts",
+    "open_hours_json": {
+      "Monday": [
+        "11 am–11 pm"
+      ],
+      "Tuesday": [
+        "11 am–11 pm"
+      ],
+      "Wednesday": [
+        "11 am–11 pm"
+      ],
+      "Thursday": [
+        "11 am–11 pm"
+      ],
+      "Friday": [
+        "11 am–11 pm"
+      ],
+      "Saturday": [
+        "11 am–11 pm"
+      ],
+      "Sunday": [
+        "11 am–11 pm"
+      ]
+    },
+    "review_count": 32,
+    "rating": 4.4,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfxXPv2yvp0RPNow0BYjKYa6x1a1Evybl7gDDLFg-8DJdYp2gc5UraegpLuCacrMsxEkXCR5eTHqV5sPV0LDzyh4E9Y6zR3pW-x2G8sdf4kkLZ8tpMnYvhEKbux5ltR0MLoRZJlPA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfxXPv2yvp0RPNow0BYjKYa6x1a1Evybl7gDDLFg-8DJdYp2gc5UraegpLuCacrMsxEkXCR5eTHqV5sPV0LDzyh4E9Y6zR3pW-x2G8sdf4kkLZ8tpMnYvhEKbux5ltR0MLoRZJlPA=w1000-h750-no",
+    "source_query": "Halal restaurant in Ciney, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ-yDkreK5wUcRB7ZfUoonjMg",
+    "name": "Palais Safran",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Ciney",
+    "address": "Palais Safran, Rue du Ctre 40, 5590 Ciney",
+    "street": "Rue du Ctre 40",
+    "postal_code": "5590",
+    "region": null,
+    "latitude": 50.296207599999995,
+    "longitude": 5.1012784,
+    "phone": "0470 12 32 70",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Palais%20Safran&query_place_id=ChIJ-yDkreK5wUcRB7ZfUoonjMg",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "12–2 pm",
+        "6:30–9 pm"
+      ],
+      "Wednesday": [
+        "12–2 pm",
+        "6:30–9 pm"
+      ],
+      "Thursday": [
+        "Closed"
+      ],
+      "Friday": [
+        "12–2 pm",
+        "6:30–9 pm"
+      ],
+      "Saturday": [
+        "12–3 pm",
+        "6:30–9 pm"
+      ],
+      "Sunday": [
+        "12–3 pm"
+      ]
+    },
+    "review_count": 55,
+    "rating": 4.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdJAEpz1yGRzAYhFE07WPjD-muiXZD5oD5T4SQlFPzyyTYBwGBvhuidZgGunE-zSrktOCbl-SJpfigTrQFyytu8C3I3uZHvBkUkTH2HaU1ttGzG7s--qrlej8uw9nRMGMcCxUflnIQV6NAQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdJAEpz1yGRzAYhFE07WPjD-muiXZD5oD5T4SQlFPzyyTYBwGBvhuidZgGunE-zSrktOCbl-SJpfigTrQFyytu8C3I3uZHvBkUkTH2HaU1ttGzG7s--qrlej8uw9nRMGMcCxUflnIQV6NAQ=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Wavreille, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJJ7WQ-zS5wUcRBOyLTwkFPOU",
+    "name": "Peuplier",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Ciney",
+    "address": "Peuplier, Rue du Commerce 47, 5590 Ciney",
+    "street": "Rue du Commerce 47",
+    "postal_code": "5590",
+    "region": null,
+    "latitude": 50.293654,
+    "longitude": 5.0983826,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Peuplier&query_place_id=ChIJJ7WQ-zS5wUcRBOyLTwkFPOU",
+    "open_hours_json": {
+      "Monday": [
+        "9:30 am–6:30 pm"
+      ],
+      "Tuesday": [
+        "9:30 am–6:30 pm"
+      ],
+      "Wednesday": [
+        "9:30 am–6:30 pm"
+      ],
+      "Thursday": [
+        "9:30 am–6:30 pm"
+      ],
+      "Friday": [
+        "9:30 am–6:30 pm"
+      ],
+      "Saturday": [
+        "9:30 am–6:30 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 0,
+    "rating": null,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Is1u8Bx5YvUiiyMtf_YJ6Q&cb_client=search.gws-prod.grass&w=80&h=92&yaw=103.80081&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Is1u8Bx5YvUiiyMtf_YJ6Q&cb_client=search.gws-prod.grass&w=80&h=92&yaw=103.80081&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Hypermarket in Ciney, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJrcqH4MK5wUcR5_6CLy-YB-w",
+    "name": "Point Nature",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Ciney",
+    "address": "Point Nature, Rue du Ctre 17, 5590 Ciney",
+    "street": "Rue du Ctre 17",
+    "postal_code": "5590",
+    "region": null,
+    "latitude": 50.2960828,
+    "longitude": 5.1004463,
+    "phone": "083 21 65 68",
+    "website": "https://pointnature.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Point%20Nature&query_place_id=ChIJrcqH4MK5wUcR5_6CLy-YB-w",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "9 am–6 pm"
+      ],
+      "Thursday": [
+        "9 am–6 pm"
+      ],
+      "Friday": [
+        "9 am–6 pm"
+      ],
+      "Saturday": [
+        "9 am–1 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 30,
+    "rating": 4.9,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcQ3j2gRLhDNkrhkczKJ5bXDdqNO-ry9MRm26oYwRKZc_V0xE_pYcWBHGOMfMaM23-v-1turMvkSIw5_eoZmGQgRozXg6PUMgwvl5hY421wlX7zjahE5d6iPgi2NE4FtayRK8_BFA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcQ3j2gRLhDNkrhkczKJ5bXDdqNO-ry9MRm26oYwRKZc_V0xE_pYcWBHGOMfMaM23-v-1turMvkSIw5_eoZmGQgRozXg6PUMgwvl5hY421wlX7zjahE5d6iPgi2NE4FtayRK8_BFA=w1000-h750-no",
+    "source_query": "Hypermarket in Ciney, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJsRcp4-C5wUcRDv7YOLbWlgA",
+    "name": "Pointcarré Ciney",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Ciney",
+    "address": "Pointcarré Ciney, Parking Mr Bricolage, Av. Schlogel 97E, 5590 Ciney",
+    "street": "Parking Mr Bricolage, Av. Schlogel 97E",
+    "postal_code": "5590",
+    "region": null,
+    "latitude": 50.3005941,
+    "longitude": 5.1087805,
+    "phone": "083 61 30 23",
+    "website": "https://www.pointcarre.be/fr/stores/pointcarre-ciney-avenue-schlogel",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pointcarr%C3%A9%20Ciney&query_place_id=ChIJsRcp4-C5wUcRDv7YOLbWlgA",
+    "open_hours_json": {
+      "Monday": [
+        "10 am–6:30 pm"
+      ],
+      "Tuesday": [
+        "10 am–6:30 pm"
+      ],
+      "Wednesday": [
+        "10 am–6:30 pm"
+      ],
+      "Thursday": [
+        "10 am–6:30 pm"
+      ],
+      "Friday": [
+        "10 am–6:30 pm"
+      ],
+      "Saturday": [
+        "10 am–6:30 pm"
+      ],
+      "Sunday": [
+        "10 am–1 pm"
+      ]
+    },
+    "review_count": 200,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeeeY_qlf9XjerD_Dy6hkU-4ALAmfsD1zPbZSNGN_DqpsxKQGiUEqBq0lgem46MT3i92hlNQDBI7GK1tykxTuj4MkJ_giPbYyzamC6C1_t-tIIINMqODggosCzvaZkZaNgOAIbo=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeeeY_qlf9XjerD_Dy6hkU-4ALAmfsD1zPbZSNGN_DqpsxKQGiUEqBq0lgem46MT3i92hlNQDBI7GK1tykxTuj4MkJ_giPbYyzamC6C1_t-tIIINMqODggosCzvaZkZaNgOAIbo=w1000-h750-no",
+    "source_query": "Hypermarket in Ciney, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJsXfZ8dy5wUcR933Rvd3KXuQ",
+    "name": "RectoVerso - Restaurant",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Ciney",
+    "address": "RectoVerso - Restaurant, Av. de Namur 29, 5590 Ciney",
+    "street": "Av. de Namur 29",
+    "postal_code": "5590",
+    "region": null,
+    "latitude": 50.2992509,
+    "longitude": 5.101073599999999,
+    "phone": "083 33 00 47",
+    "website": "https://www.recto-verso.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=RectoVerso%20-%20Restaurant&query_place_id=ChIJsXfZ8dy5wUcR933Rvd3KXuQ",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "12–2 pm",
+        "7–8:30 pm"
+      ],
+      "Thursday": [
+        "12–2 pm",
+        "7–8:30 pm"
+      ],
+      "Friday": [
+        "12–2 pm",
+        "7–8:30 pm"
+      ],
+      "Saturday": [
+        "7–8:30 pm"
+      ],
+      "Sunday": [
+        "12–2 pm",
+        "7–8:30 pm"
+      ]
+    },
+    "review_count": 296,
+    "rating": 4.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcZhZjTzalw_eJxaXAoYWqVsbalRzqWtK0ojsDsEYjt7wAO-sSW9FS2ABqF9367Aki_W6tPfhSC-kf7tTUdiv_XNx9KU8nlp2xqnw_mkE123I4TKy5qnO5Bu8fuPH1m4ALKe6dd=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcZhZjTzalw_eJxaXAoYWqVsbalRzqWtK0ojsDsEYjt7wAO-sSW9FS2ABqF9367Aki_W6tPfhSC-kf7tTUdiv_XNx9KU8nlp2xqnw_mkE123I4TKy5qnO5Bu8fuPH1m4ALKe6dd=w1000-h750-no",
+    "source_query": "Halal restaurant in Ciney, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJBb-aBgC5wUcR98WX6kgJrdA",
+    "name": "Smoke Deli",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Ciney",
+    "address": "Smoke Deli, Rue du Ctre 21, 5590 Ciney",
+    "street": "Rue du Ctre 21",
+    "postal_code": "5590",
+    "region": null,
+    "latitude": 50.296159499999995,
+    "longitude": 5.1005943,
+    "phone": "0495 54 12 36",
+    "website": "https://www.smokegrill.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Smoke%20Deli&query_place_id=ChIJBb-aBgC5wUcR98WX6kgJrdA",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "12–2 pm",
+        "6–8:30 pm"
+      ],
+      "Wednesday": [
+        "12–2 pm",
+        "6–8:30 pm"
+      ],
+      "Thursday": [
+        "12–2 pm",
+        "6–8:30 pm"
+      ],
+      "Friday": [
+        "12–2 pm",
+        "6–9 pm"
+      ],
+      "Saturday": [
+        "12–2 pm",
+        "6–9 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 80,
+    "rating": 4.9,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLce4he7st4X-hqhkhiFIPrQpoR0kQzo3hAxKc0HND-YU-nozB1BPKvC_9wD7iKuq6d1klE1mskgZuksDQfFC3U40NV8OSwqNYX63YT9Iul5PN0hbi2dwclMJhnMtBbDIDFXVpSGuz4kJukz=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLce4he7st4X-hqhkhiFIPrQpoR0kQzo3hAxKc0HND-YU-nozB1BPKvC_9wD7iKuq6d1klE1mskgZuksDQfFC3U40NV8OSwqNYX63YT9Iul5PN0hbi2dwclMJhnMtBbDIDFXVpSGuz4kJukz=w1000-h750-no",
+    "source_query": "Halal restaurant in Ciney, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ9Vydlb-5wUcR0D6Rm5NzbFg",
+    "name": "T'emballe pas",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Ciney",
+    "address": "T'emballe pas, Rue du Commerce 93B, 5590 Ciney",
+    "street": "Rue du Commerce 93B",
+    "postal_code": "5590",
+    "region": null,
+    "latitude": 50.2919883,
+    "longitude": 5.095838,
+    "phone": "083 21 79 88",
+    "website": "http://www.temballepas.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=T%27emballe%20pas&query_place_id=ChIJ9Vydlb-5wUcR0D6Rm5NzbFg",
+    "open_hours_json": {
+      "Monday": [
+        "9:30 am–6 pm"
+      ],
+      "Tuesday": [
+        "9:30 am–6 pm"
+      ],
+      "Wednesday": [
+        "9:30 am–6 pm"
+      ],
+      "Thursday": [
+        "9:30 am–6 pm"
+      ],
+      "Friday": [
+        "9:30 am–6 pm"
+      ],
+      "Saturday": [
+        "9:30 am–6 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 35,
+    "rating": 4.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcodCLcgOZ1nfsoQYAHhRykt-aVJfBBq851sckuajeGURZdvonezUuo1qfqY6loZfvNVbCl2yRyiBlGUiQkBuGX9gCn1ubObTal3Io3gcIflX736DVzYLiP-D0-zuYAVpFid6oY=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcodCLcgOZ1nfsoQYAHhRykt-aVJfBBq851sckuajeGURZdvonezUuo1qfqY6loZfvNVbCl2yRyiBlGUiQkBuGX9gCn1ubObTal3Io3gcIflX736DVzYLiP-D0-zuYAVpFid6oY=w1000-h750-no",
+    "source_query": "Hypermarket in Ciney, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJPxZKMcO5wUcRaq38V3pRTig",
+    "name": "TRAFIC CINEY",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Ciney",
+    "address": "TRAFIC CINEY, Chem. de Crahiat 20, 5590 Ciney",
+    "street": "Chem. de Crahiat 20",
+    "postal_code": "5590",
+    "region": null,
+    "latitude": 50.2886002,
+    "longitude": 5.0911576,
+    "phone": "083 21 66 30",
+    "website": "https://www.trafic.com/fr_BE/magasins/trafic-ciney",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=TRAFIC%20CINEY&query_place_id=ChIJPxZKMcO5wUcRaq38V3pRTig",
+    "open_hours_json": {
+      "Monday": [
+        "9:30 am–6:30 pm"
+      ],
+      "Tuesday": [
+        "9:30 am–6:30 pm"
+      ],
+      "Wednesday": [
+        "9:30 am–6:30 pm"
+      ],
+      "Thursday": [
+        "9:30 am–6:30 pm"
+      ],
+      "Friday": [
+        "9:30 am–6:30 pm"
+      ],
+      "Saturday": [
+        "9:30 am–6:30 pm"
+      ],
+      "Sunday": [
+        "9:30 am–12:30 pm"
+      ]
+    },
+    "review_count": 450,
+    "rating": 4.0,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfRwzgnjfbpXnjOQLFGcdWFUKNxG-McGCzGPrXebg0nmuuKdXTj5NRcnRPhWrx-uo32S8FU0nSlfOJsUEKBTj-TDyKL72JXohJjUurCoLQNN_v_3WMRFvYDwDXBhR2upvVDtS6jKQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfRwzgnjfbpXnjOQLFGcdWFUKNxG-McGCzGPrXebg0nmuuKdXTj5NRcnRPhWrx-uo32S8FU0nSlfOJsUEKBTj-TDyKL72JXohJjUurCoLQNN_v_3WMRFvYDwDXBhR2upvVDtS6jKQ=w1000-h750-no",
+    "source_query": "Hypermarket in Ciney, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJjYIfkeG5wUcRGhd7Om4b1kY",
+    "name": "Vanden Borre Ciney",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Ciney",
+    "address": "Vanden Borre Ciney, Av. Schlogel 117, 5590 Ciney",
+    "street": "Av. Schlogel 117",
+    "postal_code": "5590",
+    "region": null,
+    "latitude": 50.3012927,
+    "longitude": 5.1107689,
+    "phone": "02 334 01 35",
+    "website": "https://www.vandenborre.be/fr/magasins/detail/ciney?utm_source=google_my_business&utm_medium=organic&utm_campaign=local_search&utm_content=235",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Vanden%20Borre%20Ciney&query_place_id=ChIJjYIfkeG5wUcRGhd7Om4b1kY",
+    "open_hours_json": {
+      "Monday": [
+        "10 am–6:30 pm"
+      ],
+      "Tuesday": [
+        "10 am–6:30 pm"
+      ],
+      "Wednesday": [
+        "10 am–6:30 pm"
+      ],
+      "Thursday": [
+        "10 am–6:30 pm"
+      ],
+      "Friday": [
+        "10 am–6:30 pm"
+      ],
+      "Saturday": [
+        "10 am–6:30 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 529,
+    "rating": 4.0,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeBvEyv-A7j7nXwMK6re1ft8IT5lTytp-D1LyyYGWesICLjyt-TaXnLx0SqfGvaNjA5mclTbMp5B0GMHpKHvxytpiyqFOHIiDXfg2R3DG8YZ-Mmmy8IL7YocTsJD3EAaGjqd6EF=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeBvEyv-A7j7nXwMK6re1ft8IT5lTytp-D1LyyYGWesICLjyt-TaXnLx0SqfGvaNjA5mclTbMp5B0GMHpKHvxytpiyqFOHIiDXfg2R3DG8YZ-Mmmy8IL7YocTsJD3EAaGjqd6EF=w1000-h750-no",
+    "source_query": "Hypermarket in Ciney, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJd4QgE1e3wUcRQYluKLS4aSc",
+    "name": "Vivaco Grill",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Ciney",
+    "address": "Vivaco Grill, Saint-Gilles 67, 5590 Ciney",
+    "street": "Saint-Gilles 67",
+    "postal_code": "5590",
+    "region": null,
+    "latitude": 50.3112066,
+    "longitude": 5.122271,
+    "phone": "083 21 25 54",
+    "website": "https://www.vivaco-grill.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Vivaco%20Grill&query_place_id=ChIJd4QgE1e3wUcRQYluKLS4aSc",
+    "open_hours_json": {
+      "Monday": [
+        "11 am–3 pm",
+        "6 pm–12 am"
+      ],
+      "Tuesday": [
+        "11 am–3 pm",
+        "6 pm–12 am"
+      ],
+      "Wednesday": [
+        "11 am–3 pm",
+        "6 pm–12 am"
+      ],
+      "Thursday": [
+        "11 am–3 pm",
+        "6 pm–12 am"
+      ],
+      "Friday": [
+        "11 am–3 pm",
+        "6 pm–12 am"
+      ],
+      "Saturday": [
+        "6 pm–12 am"
+      ],
+      "Sunday": [
+        "11 am–3 pm",
+        "6 pm–12 am"
+      ]
+    },
+    "review_count": 721,
+    "rating": 4.2,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcxtwPHwQWBax3P6SLStkcIWeDxrnx_TJ0OLwXMElL8o9dIpST0lvXMgsT-AfRAYLWWksNYM5gePrbntMr5qXJ7yB88AzxHMi7i0iQOq5t2r0tTeqVQtylLwxpyc9D-_w8RmDE=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcxtwPHwQWBax3P6SLStkcIWeDxrnx_TJ0OLwXMElL8o9dIpST0lvXMgsT-AfRAYLWWksNYM5gePrbntMr5qXJ7yB88AzxHMi7i0iQOq5t2r0tTeqVQtylLwxpyc9D-_w8RmDE=w1000-h750-no",
+    "source_query": "Halal restaurant in Ciney, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ7fVCU_u5wUcRgRfemDBH3mY",
+    "name": "Wama Beef Scrl",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Ciney",
+    "address": "Wama Beef Scrl, All. des Abattoirs 1, 5590 Ciney",
+    "street": "All. des Abattoirs 1",
+    "postal_code": "5590",
+    "region": null,
+    "latitude": 50.308546,
+    "longitude": 5.1089167,
+    "phone": "083 21 72 17",
+    "website": "http://www.wamabeef.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Wama%20Beef%20Scrl&query_place_id=ChIJ7fVCU_u5wUcRgRfemDBH3mY",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "8 am–6 pm"
+      ],
+      "Thursday": [
+        "8 am–6 pm"
+      ],
+      "Friday": [
+        "8 am–6 pm"
+      ],
+      "Saturday": [
+        "Closed"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 60,
+    "rating": 4.5,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CEeQzpcL_es-KJlb8kVjjw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=92.838905&pitch=4.988711&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CEeQzpcL_es-KJlb8kVjjw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=92.838905&pitch=4.988711&thumbfov=w1000-h750-no",
+    "source_query": "Halal restaurant in Ciney, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJWyHOLiStwUcRR2DMThWR_ng",
+    "name": "Spar Clavier",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Clavier",
+    "address": "Spar Clavier, Rue de la Gendarmerie 70, 4560 Clavier",
+    "street": "Rue de la Gendarmerie 70",
+    "postal_code": "4560",
+    "region": null,
+    "latitude": 50.4278714,
+    "longitude": 5.3227655,
+    "phone": "085 21 12 77",
+    "website": "https://www.monspar.be/magasins/spar-clavier",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Spar%20Clavier&query_place_id=ChIJWyHOLiStwUcRR2DMThWR_ng",
+    "open_hours_json": {
+      "Monday": [
+        "8:30 am–7 pm"
+      ],
+      "Tuesday": [
+        "8:30 am–7 pm"
+      ],
+      "Wednesday": [
+        "8:30 am–7 pm"
+      ],
+      "Thursday": [
+        "8:30 am–7 pm"
+      ],
+      "Friday": [
+        "8:30 am–7 pm"
+      ],
+      "Saturday": [
+        "8:30 am–7 pm"
+      ],
+      "Sunday": [
+        "8:30 am–12:30 pm"
+      ]
+    },
+    "review_count": 442,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcolJwCPNAp9L3ouHdbH-5tNFthJFhangfOMuz2Bo7qYAhaV09FzxLiU3iiBttWXrxfjwBmXVE_YZqta3wGeIUmz4fjqnceOH9gaFfoRV0dMGLkyzN9iCRxdsJ0z6cf0EUSuGq0=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcolJwCPNAp9L3ouHdbH-5tNFthJFhangfOMuz2Bo7qYAhaV09FzxLiU3iiBttWXrxfjwBmXVE_YZqta3wGeIUmz4fjqnceOH9gaFfoRV0dMGLkyzN9iCRxdsJ0z6cf0EUSuGq0=w1000-h750-no",
+    "source_query": "Hypermarket in Durbuy, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ4Yq4K9JZwkcRquA16uvJGlY",
+    "name": "Chhiwate Amoudo",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Colfontaine",
+    "address": "Chhiwate Amoudo, Av. Dr Schweitzer 16, 7340 Colfontaine",
+    "street": "Av. Dr Schweitzer 16",
+    "postal_code": "7340",
+    "region": null,
+    "latitude": 50.4245836,
+    "longitude": 3.8462473,
+    "phone": "0471 91 85 27",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chhiwate%20Amoudo&query_place_id=ChIJ4Yq4K9JZwkcRquA16uvJGlY",
+    "open_hours_json": {
+      "Monday": [
+        "9 am–8:30 pm"
+      ],
+      "Tuesday": [
+        "9 am–8:30 pm"
+      ],
+      "Wednesday": [
+        "9 am–8:30 pm"
+      ],
+      "Thursday": [
+        "9 am–8:30 pm"
+      ],
+      "Friday": [
+        "9 am–8:30 pm"
+      ],
+      "Saturday": [
+        "9 am–8:30 pm"
+      ],
+      "Sunday": [
+        "9 am–8:30 pm"
+      ]
+    },
+    "review_count": 0,
+    "rating": null,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ioCR9xrCPTgdQz3BTWrLeQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=303.74774&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ioCR9xrCPTgdQz3BTWrLeQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=303.74774&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Saint-Ghislain, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJy9RJtixawkcRd3mFJFlT1JM",
+    "name": "Mosquée Emir Abdelkader",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Colfontaine",
+    "address": "Mosquée Emir Abdelkader, Rue du Temple 7, 7340 Colfontaine",
+    "street": "Rue du Temple 7",
+    "postal_code": "7340",
+    "region": null,
+    "latitude": 50.408820399999996,
+    "longitude": 3.8571573,
+    "phone": "065 63 21 15",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mosqu%C3%A9e%20Emir%20Abdelkader&query_place_id=ChIJy9RJtixawkcRd3mFJFlT1JM",
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QtwAVCAkEjBgqIsOR41M0Q&cb_client=search.gws-prod.grass&w=80&h=92&yaw=186.53912&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QtwAVCAkEjBgqIsOR41M0Q&cb_client=search.gws-prod.grass&w=80&h=92&yaw=186.53912&pitch=0&thumbfov=w1000-h750-no",
+    "rating": 4.8,
+    "review_count": 19,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJy9RJtixawkcReJwhCqgPYac",
+    "name": "Mosquée de Colfontaine",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Colfontaine",
+    "address": "Mosquée de Colfontaine, Rue du Temple 7, 7340 Colfontaine",
+    "street": "Rue du Temple 7",
+    "postal_code": "7340",
+    "region": null,
+    "latitude": 50.4088268,
+    "longitude": 3.8570449,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mosqu%C3%A9e%20de%20Colfontaine&query_place_id=ChIJy9RJtixawkcReJwhCqgPYac",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeKsjUU13EsWx3373QWS8AJwpiyl08XzdydOnk4cPZkPxhCL2BbrBIrdQNFRbu5pX-l1y4yuu7GkHcg2HqszYmrP00K8G3-px1a1-Fi_1GmpyjzRNE-IKOAEcG5hcDzsR51v1-yjEzhMy9F=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeKsjUU13EsWx3373QWS8AJwpiyl08XzdydOnk4cPZkPxhCL2BbrBIrdQNFRbu5pX-l1y4yuu7GkHcg2HqszYmrP00K8G3-px1a1-Fi_1GmpyjzRNE-IKOAEcG5hcDzsR51v1-yjEzhMy9F=w1000-h750-no",
+    "rating": 4.4,
+    "review_count": 22,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJM16olTlZwkcRj_t7rTiCz34",
+    "name": "SnackFamily2",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Colfontaine",
+    "address": "SnackFamily2, Pl. de Wasmes 7, 7340 Colfontaine",
+    "street": "Pl. de Wasmes 7",
+    "postal_code": "7340",
+    "region": null,
+    "latitude": 50.4223728,
+    "longitude": 3.8439216999999997,
+    "phone": "0465 67 18 93",
+    "website": "https://snackfamily2.eu/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=SnackFamily2&query_place_id=ChIJM16olTlZwkcRj_t7rTiCz34",
+    "open_hours_json": null,
+    "review_count": 0,
+    "rating": null,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2p0T4BUAlwmAYlxX006piQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=90.750206&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2p0T4BUAlwmAYlxX006piQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=90.750206&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Halal restaurant in Saint-Ghislain, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata"
+  },
+  {
+    "place_id": "ChIJ0fMmG5NZwEcR0ahxbJNbXu8",
+    "name": "Spar Comblain",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Comblain-au-Pont",
+    "address": "Spar Comblain, Quai de l'Ourthe 14, 4170 Comblain-au-Pont",
+    "street": "Quai de l'Ourthe 14",
+    "postal_code": "4170",
+    "region": null,
+    "latitude": 50.476577299999995,
+    "longitude": 5.577699399999999,
+    "phone": "04 369 29 90",
+    "website": "https://www.monspar.be/magasins/spar-comblain",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Spar%20Comblain&query_place_id=ChIJ0fMmG5NZwEcR0ahxbJNbXu8",
+    "open_hours_json": {
+      "Monday": [
+        "8:30 am–8 pm"
+      ],
+      "Tuesday": [
+        "8:30 am–8 pm"
+      ],
+      "Wednesday": [
+        "8:30 am–8 pm"
+      ],
+      "Thursday": [
+        "8:30 am–8 pm"
+      ],
+      "Friday": [
+        "8:30 am–8 pm"
+      ],
+      "Saturday": [
+        "8:30 am–8 pm"
+      ],
+      "Sunday": [
+        "8:30 am–6 pm"
+      ]
+    },
+    "review_count": 711,
+    "rating": 4.1,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdg7PSp_9eR367SlfzbrQrzEeIAVxiKDXZ2ZHDh508wIgG5-1o_9SG0Egr1tOt2MgLLhMBf5n4Gs7NTBUuKYZfJvJGwnbDQCzB6u1IcsFmQMlVHR82TmYtWW16ocKS93UmY1WqfLg=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdg7PSp_9eR367SlfzbrQrzEeIAVxiKDXZ2ZHDh508wIgG5-1o_9SG0Egr1tOt2MgLLhMBf5n4Gs7NTBUuKYZfJvJGwnbDQCzB6u1IcsFmQMlVHR82TmYtWW16ocKS93UmY1WqfLg=w1000-h750-no",
+    "source_query": "Hypermarket in Durbuy, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJP46YYRjT3EcR4nogYCnp6SU",
+    "name": "Andiamo Pizza Comines",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "FR",
+    "country_code": "FR",
+    "city": "Comines",
+    "address": "Andiamo Pizza Comines, 42 Rue de la République, 59560 Comines, France",
+    "street": "42 Rue de la République",
+    "postal_code": "59560",
+    "region": null,
+    "latitude": 50.7631692,
+    "longitude": 3.0032316999999997,
+    "phone": "+33 3 20 13 62 03",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Andiamo%20Pizza%20Comines&query_place_id=ChIJP46YYRjT3EcR4nogYCnp6SU",
+    "open_hours_json": {
+      "Monday": [
+        "11 am–2:30 pm",
+        "6–10:30 pm"
+      ],
+      "Tuesday": [
+        "11 am–2:30 pm",
+        "6–10:30 pm"
+      ],
+      "Wednesday": [
+        "11 am–2:30 pm",
+        "6–10:30 pm"
+      ],
+      "Thursday": [
+        "11 am–2:30 pm",
+        "6–10:30 pm"
+      ],
+      "Friday": [
+        "11 am–2:30 pm",
+        "6–11 pm"
+      ],
+      "Saturday": [
+        "11 am–2:30 pm",
+        "6–11 pm"
+      ],
+      "Sunday": [
+        "6–10:30 pm"
+      ]
+    },
+    "review_count": 47,
+    "rating": 4.4,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdBSTQxtdR6iua81FhaeDOhpM1PL6suJefxin5aqNmfACUDYV1wtEehoRbLUeFp9RLJtJNR453qQ74Ug33crJBBmu_o619vjNtCoMmVvasHvLqVi702ykHJlq-AcOOBVPo1IHEjVpPG_2fB=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdBSTQxtdR6iua81FhaeDOhpM1PL6suJefxin5aqNmfACUDYV1wtEehoRbLUeFp9RLJtJNR453qQ74Ug33crJBBmu_o619vjNtCoMmVvasHvLqVi702ykHJlq-AcOOBVPo1IHEjVpPG_2fB=w1000-h750-no",
+    "source_query": "Halal restaurant in Warneton, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJVyN6di7T3EcR8CmhCcOrqJo",
+    "name": "Boucherie Halal Les Palmiers",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "FR",
+    "country_code": "FR",
+    "city": "Comines",
+    "address": "Boucherie Halal Les Palmiers, 53 Rue de la Victoire, 59560 Comines, France",
+    "street": "53 Rue de la Victoire",
+    "postal_code": "59560",
+    "region": null,
+    "latitude": 50.7565507,
+    "longitude": 3.0091216,
+    "phone": "+33 7 60 74 19 18",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boucherie%20Halal%20Les%20Palmiers&query_place_id=ChIJVyN6di7T3EcR8CmhCcOrqJo",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "9 am–7 pm"
+      ],
+      "Wednesday": [
+        "9 am–7 pm"
+      ],
+      "Thursday": [
+        "9 am–7 pm"
+      ],
+      "Friday": [
+        "9 am–7 pm"
+      ],
+      "Saturday": [
+        "9 am–7 pm"
+      ],
+      "Sunday": [
+        "9 am–4 pm"
+      ]
+    },
+    "review_count": 30,
+    "rating": 4.5,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yp4qVvYWiZC5eBfCKsgRsA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=222.68372&pitch=-17.41345&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yp4qVvYWiZC5eBfCKsgRsA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=222.68372&pitch=-17.41345&thumbfov=w1000-h750-no",
+    "source_query": "Halal restaurant in Wervik, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata"
+  },
+  {
     "place_id": "ChIJ5cprf5PT3EcRZGa-X5ns5x4",
     "name": "Casa Saudade",
     "type": "restaurant",
@@ -10415,1378 +11831,6 @@
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeS7xg-tdfpwBGr78NTMleOhvJ61UGMHhkMAp6NtwNnjidrdb26L02vIoY7ePYKCsLFZuQFG6ZbT5Fm4xpKDbRyGj0jc9C2dbA1cVu9tlmkIraUKog7OrSOGnoVTFXRuqUqmFrWlJ7okC4=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeS7xg-tdfpwBGr78NTMleOhvJ61UGMHhkMAp6NtwNnjidrdb26L02vIoY7ePYKCsLFZuQFG6ZbT5Fm4xpKDbRyGj0jc9C2dbA1cVu9tlmkIraUKog7OrSOGnoVTFXRuqUqmFrWlJ7okC4=w1000-h750-no",
     "source_query": "Hypermarket in Diksmuide, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJE_AEpea53EcRpbfdQWCXEVM",
-    "name": "Bayo Eet- en Sfeerhuis",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Diksmuide",
-    "address": "Bayo Eet- en Sfeerhuis, IJzerdijk 62, 8600 Diksmuide",
-    "street": "IJzerdijk 62",
-    "postal_code": "8600",
-    "region": null,
-    "latitude": 51.044569499999994,
-    "longitude": 2.8440022999999997,
-    "phone": "0499 26 10 06",
-    "website": "http://www.debayo.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bayo%20Eet-%20en%20Sfeerhuis&query_place_id=ChIJE_AEpea53EcRpbfdQWCXEVM",
-    "open_hours_json": {
-      "Monday": [
-        "10:30 am–6 pm"
-      ],
-      "Tuesday": [
-        "10:30 am–6 pm"
-      ],
-      "Wednesday": [
-        "10:30 am–6 pm"
-      ],
-      "Thursday": [
-        "10:30 am–6 pm"
-      ],
-      "Friday": [
-        "10:30 am–8 pm"
-      ],
-      "Saturday": [
-        "10:30 am–10 pm"
-      ],
-      "Sunday": [
-        "10:30 am–11 pm"
-      ]
-    },
-    "review_count": 213,
-    "rating": 3.9,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdCqa1PYVPpmP-xyhMTgqfIK9hMxO53GNSnDta4Z5inzx9PV0HZsRJlZyHWmVs9lX9LP6bSwnSBCYa__p2WcKOFKGemlUYAqosxW7VS3A7C8S2cQ_Tb4tMiVueZUfV-eAYQEiQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdCqa1PYVPpmP-xyhMTgqfIK9hMxO53GNSnDta4Z5inzx9PV0HZsRJlZyHWmVs9lX9LP6bSwnSBCYa__p2WcKOFKGemlUYAqosxW7VS3A7C8S2cQ_Tb4tMiVueZUfV-eAYQEiQ=w1000-h750-no",
-    "source_query": "Fish restaurant in Reninge, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJX4UsPm-33EcRVmEK7QDt_pc",
-    "name": "Bellas Foodbar",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Diksmuide",
-    "address": "Bellas Foodbar, Generaal Baron Jacquesstraat 5a, 8600 Diksmuide",
-    "street": "Generaal Baron Jacquesstraat 5a",
-    "postal_code": "8600",
-    "region": null,
-    "latitude": 51.033496299999996,
-    "longitude": 2.8631648,
-    "phone": "0474 37 17 70",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bellas%20Foodbar&query_place_id=ChIJX4UsPm-33EcRVmEK7QDt_pc",
-    "open_hours_json": {
-      "Monday": [
-        "9 am–3 pm"
-      ],
-      "Tuesday": [
-        "9 am–3 pm"
-      ],
-      "Wednesday": [
-        "9 am–3 pm"
-      ],
-      "Thursday": [
-        "9 am–3 pm"
-      ],
-      "Friday": [
-        "9 am–3 pm"
-      ],
-      "Saturday": [
-        "Closed"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 43,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLco5ifasX_06T7dPaxKVe3c0p6x6HDwt7mc-u7sSMUlNhrCn1rmqAQPE0CXnkn4vlAomPdPHJZWSXTd7h6A7Mc_KoilJbybBMozvG5-nyz29VrHFXloYbvmEcfDXMpeexaiKefG=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLco5ifasX_06T7dPaxKVe3c0p6x6HDwt7mc-u7sSMUlNhrCn1rmqAQPE0CXnkn4vlAomPdPHJZWSXTd7h6A7Mc_KoilJbybBMozvG5-nyz29VrHFXloYbvmEcfDXMpeexaiKefG=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Diksmuide, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJLaQVZki33EcRwphpmn8sw6s",
-    "name": "Bourgondisch Schild",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Diksmuide",
-    "address": "Bourgondisch Schild, Oostendestraat 36/A, 8600 Diksmuide",
-    "street": "Oostendestraat 36/A",
-    "postal_code": "8600",
-    "region": null,
-    "latitude": 51.0421165,
-    "longitude": 2.8682999,
-    "phone": "0491 64 00 13",
-    "website": "https://www.bourgondischschild.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bourgondisch%20Schild&query_place_id=ChIJLaQVZki33EcRwphpmn8sw6s",
-    "open_hours_json": {
-      "Monday": [
-        "11:30 am–4 pm"
-      ],
-      "Tuesday": [
-        "11:30 am–3 pm"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "11:30 am–3 pm"
-      ],
-      "Friday": [
-        "11:30 am–10 pm"
-      ],
-      "Saturday": [
-        "11:30 am–10 pm"
-      ],
-      "Sunday": [
-        "11:30 am–10 pm"
-      ]
-    },
-    "review_count": 220,
-    "rating": 4.4,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeaTMZG2S772sw-Hr5i0U7qhvQlUfS8T9GIMPPmEPZ1MOTCK5tls-JEsZoQP1bEKlyOh6kN-pqLJT5Nl25GCnk37p79koxnlHT9U670-O6b7pscGdx5SsQNgOvLrcyla_Jlot80zyCQ60rA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeaTMZG2S772sw-Hr5i0U7qhvQlUfS8T9GIMPPmEPZ1MOTCK5tls-JEsZoQP1bEKlyOh6kN-pqLJT5Nl25GCnk37p79koxnlHT9U670-O6b7pscGdx5SsQNgOvLrcyla_Jlot80zyCQ60rA=w1000-h750-no",
-    "source_query": "Halal restaurant in Diksmuide, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJOa1lDm233EcRU0SIxfOiYmM",
-    "name": "Collect&Go Diksmuide",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Diksmuide",
-    "address": "Collect&Go Diksmuide, Rijkswachtstraat 1, 8600 Diksmuide",
-    "street": "Rijkswachtstraat 1",
-    "postal_code": "8600",
-    "region": null,
-    "latitude": 51.0317004,
-    "longitude": 2.8709145,
-    "phone": "02 363 50 05",
-    "website": "https://www.collectandgo.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Collect%26Go%20Diksmuide&query_place_id=ChIJOa1lDm233EcRU0SIxfOiYmM",
-    "open_hours_json": {
-      "Monday": [
-        "8 am–8 pm"
-      ],
-      "Tuesday": [
-        "8 am–8 pm"
-      ],
-      "Wednesday": [
-        "8 am–8 pm"
-      ],
-      "Thursday": [
-        "8 am–8 pm"
-      ],
-      "Friday": [
-        "8 am–9 pm"
-      ],
-      "Saturday": [
-        "8 am–8 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 38,
-    "rating": 4.5,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=SK8DkHGHMX7D6DJxYKKnuw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=269.4453&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=SK8DkHGHMX7D6DJxYKKnuw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=269.4453&pitch=0&thumbfov=w1000-h750-no",
-    "source_query": "Hypermarket in Diksmuide, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJIQ_DQW-33EcR9doA1OxWAgU",
-    "name": "De Brooderie",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Diksmuide",
-    "address": "De Brooderie, Generaal Baron Jacquesstraat 11, 8600 Diksmuide",
-    "street": "Generaal Baron Jacquesstraat 11",
-    "postal_code": "8600",
-    "region": null,
-    "latitude": 51.0334899,
-    "longitude": 2.8629015,
-    "phone": "051 50 59 98",
-    "website": "https://www.debrooderie.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=De%20Brooderie&query_place_id=ChIJIQ_DQW-33EcR9doA1OxWAgU",
-    "open_hours_json": {
-      "Monday": [
-        "7 am–2:30 pm"
-      ],
-      "Tuesday": [
-        "7 am–2:30 pm"
-      ],
-      "Wednesday": [
-        "7 am–2:30 pm"
-      ],
-      "Thursday": [
-        "7 am–2:30 pm"
-      ],
-      "Friday": [
-        "7 am–2:30 pm"
-      ],
-      "Saturday": [
-        "8 am–2 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 328,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeN8sWAP3dZmyv4lxprm-O2OblpAAq5fqc5vCexMozMHcu0ZGvnprDxjJsJZRhXVC-Ck5X_FikbwSmqjNYQG0DJDbZH_0ZDlvvK7rr41Yt0PW3oorSwhztBgrKke3ko7osV8mV4RA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeN8sWAP3dZmyv4lxprm-O2OblpAAq5fqc5vCexMozMHcu0ZGvnprDxjJsJZRhXVC-Ck5X_FikbwSmqjNYQG0DJDbZH_0ZDlvvK7rr41Yt0PW3oorSwhztBgrKke3ko7osV8mV4RA=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Diksmuide, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJjz7_D2-33EcRSBP5DmUj6YU",
-    "name": "De Mane",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Diksmuide",
-    "address": "De Mane, Grote Markt 20, 8600 Diksmuide",
-    "street": "Grote Markt 20",
-    "postal_code": "8600",
-    "region": null,
-    "latitude": 51.0327439,
-    "longitude": 2.8637680999999997,
-    "phone": "0492 07 81 86",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=De%20Mane&query_place_id=ChIJjz7_D2-33EcRSBP5DmUj6YU",
-    "open_hours_json": {
-      "Monday": [
-        "9 am–8 pm"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "10:30 am–11 pm"
-      ],
-      "Friday": [
-        "10:30 am–11 pm"
-      ],
-      "Saturday": [
-        "10:30 am–11 pm"
-      ],
-      "Sunday": [
-        "10:30 am–11 pm"
-      ]
-    },
-    "review_count": 200,
-    "rating": 4.4,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdAQ2PR4qtL_W0W7X-BkYBKm1RfM4PTwzaDacCR-P_kGH5g3qwwBv39KiLZ5tkDX8g8_PwHSiLuEVFgPAWjYtc77sZnNkLg0HxatAIdszaKO1t0VWZjtLO82azy4AqnMoZ5fHM=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdAQ2PR4qtL_W0W7X-BkYBKm1RfM4PTwzaDacCR-P_kGH5g3qwwBv39KiLZ5tkDX8g8_PwHSiLuEVFgPAWjYtc77sZnNkLg0HxatAIdszaKO1t0VWZjtLO82azy4AqnMoZ5fHM=w1000-h750-no",
-    "source_query": "Fish restaurant in Reninge, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJHQtfnUmx3EcR9Eq4oUq389I",
-    "name": "De Wikkelaar",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Diksmuide",
-    "address": "De Wikkelaar, Wijnendalestraat 215, 8600 Diksmuide",
-    "street": "Wijnendalestraat 215",
-    "postal_code": "8600",
-    "region": null,
-    "latitude": 51.066351,
-    "longitude": 2.935327,
-    "phone": "051 58 06 98",
-    "website": "http://www.dewikkelaar.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=De%20Wikkelaar&query_place_id=ChIJHQtfnUmx3EcR9Eq4oUq389I",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "Closed"
-      ],
-      "Friday": [
-        "Closed"
-      ],
-      "Saturday": [
-        "11 am–10 pm"
-      ],
-      "Sunday": [
-        "11 am–10 pm"
-      ]
-    },
-    "review_count": 456,
-    "rating": 4.5,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdL6xTUd-mkOZbceFpZFv1qBLFOqsb3mWWWgGkXY0W-fuq-ifrJjbaOK6nB8dZnCkmlsgwXHNSzmXGncaVxYkJyxtvASrB4sXVHK-TkCjRS3n32LDBx77N2tLvNdGgj-MTvKZ0=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdL6xTUd-mkOZbceFpZFv1qBLFOqsb3mWWWgGkXY0W-fuq-ifrJjbaOK6nB8dZnCkmlsgwXHNSzmXGncaVxYkJyxtvASrB4sXVHK-TkCjRS3n32LDBx77N2tLvNdGgj-MTvKZ0=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Diksmuide, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJs0y0Fm-33EcRHi-6s0o94qk",
-    "name": "De Yserpoort",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Diksmuide",
-    "address": "De Yserpoort, Grote Markt 13, 8600 Diksmuide",
-    "street": "Grote Markt 13",
-    "postal_code": "8600",
-    "region": null,
-    "latitude": 51.0331133,
-    "longitude": 2.8636019999999998,
-    "phone": "051 50 54 05",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=De%20Yserpoort&query_place_id=ChIJs0y0Fm-33EcRHi-6s0o94qk",
-    "open_hours_json": {
-      "Monday": [
-        "9 am–9 pm"
-      ],
-      "Tuesday": [
-        "9 am–9 pm"
-      ],
-      "Wednesday": [
-        "9 am–9 pm"
-      ],
-      "Thursday": [
-        "Closed"
-      ],
-      "Friday": [
-        "Closed"
-      ],
-      "Saturday": [
-        "9 am–9 pm"
-      ],
-      "Sunday": [
-        "9 am–9 pm"
-      ]
-    },
-    "review_count": 145,
-    "rating": 3.1,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdkN0xuz5u5wdDUzNJ44Ccy1fobshOAOz0XXAHDyFjac2FN02vlsTAgy6Rq7qb8FQ0kTkvYHTcMUtKCdmy1dVudumP_ouiKKrf2jsmq7s0vSDEC6_wkfq0vzBNaXWeg8yOhqGEmBQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdkN0xuz5u5wdDUzNJ44Ccy1fobshOAOz0XXAHDyFjac2FN02vlsTAgy6Rq7qb8FQ0kTkvYHTcMUtKCdmy1dVudumP_ouiKKrf2jsmq7s0vSDEC6_wkfq0vzBNaXWeg8yOhqGEmBQ=w1000-h750-no",
-    "source_query": "Halal restaurant in Diksmuide, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJTd5zEG-33EcRqwoSSIvcPqA",
-    "name": "Fijnbakkerij Vandooren",
-    "type": "bakery",
-    "category": "bakery",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Diksmuide",
-    "address": "Fijnbakkerij Vandooren, Grote Markt 17, 8600 Diksmuide",
-    "street": "Grote Markt 17",
-    "postal_code": "8600",
-    "region": null,
-    "latitude": 51.0328946,
-    "longitude": 2.863511,
-    "phone": "051 50 01 84",
-    "website": "http://www.fijnbakkerijvandooren.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Fijnbakkerij%20Vandooren&query_place_id=ChIJTd5zEG-33EcRqwoSSIvcPqA",
-    "open_hours_json": {
-      "Monday": [
-        "6:30 am–6 pm"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "6:30 am–6 pm"
-      ],
-      "Friday": [
-        "6:30 am–6 pm"
-      ],
-      "Saturday": [
-        "6:30 am–6 pm"
-      ],
-      "Sunday": [
-        "6:30 am–12:30 pm"
-      ]
-    },
-    "review_count": 175,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdyWNWthwfvdOGkwi-5umaObwDutV2WS-i08pSMSl3iQ327Dtkkfw-puDL3QSbZXbTAz9qTKan5nSNxsrd-ybUN-fJMuto-6G2kUWRfLhQ_RoLx8Z50CJUIO8Ah6qIsQnUnxp_E=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdyWNWthwfvdOGkwi-5umaObwDutV2WS-i08pSMSl3iQ327Dtkkfw-puDL3QSbZXbTAz9qTKan5nSNxsrd-ybUN-fJMuto-6G2kUWRfLhQ_RoLx8Z50CJUIO8Ah6qIsQnUnxp_E=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Diksmuide, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJVWSo6G633EcRZ4qw0_olRss",
-    "name": "Hotel Restaurant De Vrede",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Diksmuide",
-    "address": "Hotel Restaurant De Vrede, Grote Markt 35, 8600 Diksmuide",
-    "street": "Grote Markt 35",
-    "postal_code": "8600",
-    "region": null,
-    "latitude": 51.0330954,
-    "longitude": 2.8654650999999998,
-    "phone": "051 50 00 38",
-    "website": "https://hotel-de-vrede.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Hotel%20Restaurant%20De%20Vrede&query_place_id=ChIJVWSo6G633EcRZ4qw0_olRss",
-    "open_hours_json": null,
-    "review_count": 375,
-    "rating": 4.2,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW2VF69qFsJKYow7z855VM9f3Sx_sx186m_FH_02gO5ApGn17wn4poerd99r-dzIYjflHQYPqo-m7XXIuy-beBvjG_husYRbEefRXFaTaUVvvKKUMQXC2dlbDqbpkVJcCD_TqLJ8d-x6sHk03aTU6zTwWPE0bC7bKRFd5vs1uZuoFl3iikaUypcd=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW2VF69qFsJKYow7z855VM9f3Sx_sx186m_FH_02gO5ApGn17wn4poerd99r-dzIYjflHQYPqo-m7XXIuy-beBvjG_husYRbEefRXFaTaUVvvKKUMQXC2dlbDqbpkVJcCD_TqLJ8d-x6sHk03aTU6zTwWPE0bC7bKRFd5vs1uZuoFl3iikaUypcd=w1000-h750-no",
-    "source_query": "Fish restaurant in Reninge, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJXeJcefmw3EcRgLcwAeviuyQ",
-    "name": "Onder De Molen",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Diksmuide",
-    "address": "Onder De Molen, Kruiskalsijdestraat 7, 8600 Diksmuide",
-    "street": "Kruiskalsijdestraat 7",
-    "postal_code": "8600",
-    "region": null,
-    "latitude": 51.097151499999995,
-    "longitude": 2.8961957999999997,
-    "phone": "051 50 17 40",
-    "website": "http://www.termolen.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Onder%20De%20Molen&query_place_id=ChIJXeJcefmw3EcRgLcwAeviuyQ",
-    "open_hours_json": {
-      "Monday": [
-        "8 am–6 pm"
-      ],
-      "Tuesday": [
-        "8 am–12:30 pm"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "8 am–6 pm"
-      ],
-      "Friday": [
-        "8 am–6 pm"
-      ],
-      "Saturday": [
-        "8 am–6 pm"
-      ],
-      "Sunday": [
-        "9 am–12 pm"
-      ]
-    },
-    "review_count": 473,
-    "rating": 4.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdwkaEjmGyil0dhYljFLAvyzhT1R2Fw8q_6EDRxhM0uY1m4iGA3TE3bU_r3vxEJdH3VwihLOFGsy9fzhQWlFy7ce3TAvcp9J6r0qW3uxSLPQNl4uBD9SMp_0vLF-JH4CVETDvdu8g=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdwkaEjmGyil0dhYljFLAvyzhT1R2Fw8q_6EDRxhM0uY1m4iGA3TE3bU_r3vxEJdH3VwihLOFGsy9fzhQWlFy7ce3TAvcp9J6r0qW3uxSLPQNl4uBD9SMp_0vLF-JH4CVETDvdu8g=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Diksmuide, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJIXZ13m633EcRTXw4ruJCT8I",
-    "name": "P.S. Thai",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Diksmuide",
-    "address": "P.S. Thai, Generaal Baron Jacquesstraat 10, 8600 Diksmuide",
-    "street": "Generaal Baron Jacquesstraat 10",
-    "postal_code": "8600",
-    "region": null,
-    "latitude": 51.033347299999996,
-    "longitude": 2.8631811,
-    "phone": "0472 86 75 68",
-    "website": "http://www.psthai.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=P.S.%20Thai&query_place_id=ChIJIXZ13m633EcRTXw4ruJCT8I",
-    "open_hours_json": {
-      "Monday": [
-        "12–1:45 pm",
-        "5:30–8:30 pm"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "5:30–8:30 pm"
-      ],
-      "Friday": [
-        "5:30–9 pm"
-      ],
-      "Saturday": [
-        "5:30–9 pm"
-      ],
-      "Sunday": [
-        "5:30–8:30 pm"
-      ]
-    },
-    "review_count": 131,
-    "rating": 4.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdb4gvUXg_pzPwPtddzk_Dux3DMldGrtx7ulS6v-KMz3uN5EgD_QtjVsvzNtVfIIPkVrmntvA9OKM0-5aQN49rBM0xmoxlPsVOvHF4RtslT2lZs3izs8439XvOCvjdSDdo5Ya837Qu2a5_X=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdb4gvUXg_pzPwPtddzk_Dux3DMldGrtx7ulS6v-KMz3uN5EgD_QtjVsvzNtVfIIPkVrmntvA9OKM0-5aQN49rBM0xmoxlPsVOvHF4RtslT2lZs3izs8439XvOCvjdSDdo5Ya837Qu2a5_X=w1000-h750-no",
-    "source_query": "Halal restaurant in Diksmuide, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJybKvSgC33EcR1wTQb6vuQO4",
-    "name": "Perruche",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Diksmuide",
-    "address": "Perruche, IJzerlaan 91, 8600 Diksmuide",
-    "street": "IJzerlaan 91",
-    "postal_code": "8600",
-    "region": null,
-    "latitude": 51.0334795,
-    "longitude": 2.8554302,
-    "phone": "0485 13 90 14",
-    "website": "https://perruche-diksmuide.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Perruche&query_place_id=ChIJybKvSgC33EcR1wTQb6vuQO4",
-    "open_hours_json": {
-      "Monday": [
-        "11 am–11 pm"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "11 am–11 pm"
-      ],
-      "Friday": [
-        "11 am–11 pm"
-      ],
-      "Saturday": [
-        "11 am–11 pm"
-      ],
-      "Sunday": [
-        "11 am–11 pm"
-      ]
-    },
-    "review_count": 12,
-    "rating": 4.9,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdi_JfU6aNyhMudaByMUPQ1PWGIXsjqc2vg2AUERQ0W_YUeocouEYgZiPxvw14bSqnSCRrPZOdj284SmVJEGLuouiFERW_9LdJhavGA3MMe7IHaIBh1LBvkws3vTaCupkK86PtIqw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdi_JfU6aNyhMudaByMUPQ1PWGIXsjqc2vg2AUERQ0W_YUeocouEYgZiPxvw14bSqnSCRrPZOdj284SmVJEGLuouiFERW_9LdJhavGA3MMe7IHaIBh1LBvkws3vTaCupkK86PtIqw=w1000-h750-no",
-    "source_query": "Halal restaurant in Diksmuide, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJqw5kAAC33EcRF1Xz1zYC7yU",
-    "name": "Pizza service",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Diksmuide",
-    "address": "Pizza service, Bortierlaan 3, 8600 Diksmuide",
-    "street": "Bortierlaan 3",
-    "postal_code": "8600",
-    "region": null,
-    "latitude": 51.0326338,
-    "longitude": 2.868331,
-    "phone": "051 81 42 92",
-    "website": "https://diksmuide.pizza-service.be/Menu",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pizza%20service&query_place_id=ChIJqw5kAAC33EcRF1Xz1zYC7yU",
-    "open_hours_json": {
-      "Monday": [
-        "5–10 pm"
-      ],
-      "Tuesday": [
-        "5–10 pm"
-      ],
-      "Wednesday": [
-        "5–10 pm"
-      ],
-      "Thursday": [
-        "11 am–2 pm",
-        "5–10 pm"
-      ],
-      "Friday": [
-        "11 am–2 pm",
-        "5–11 pm"
-      ],
-      "Saturday": [
-        "11 am–2 pm",
-        "5–11 pm"
-      ],
-      "Sunday": [
-        "11 am–2 pm",
-        "5–10 pm"
-      ]
-    },
-    "review_count": 59,
-    "rating": 4.4,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcKx5ikALQzSXZmBUCeFKOL_WtR1S3cw9aMyZ90Ljr-zx2r6BblziMM7A-i5y8sNLYUo4eNylRP55bds4yV7CEG_m_S8V63PLmV5uSgDsIFsD8YNDl0bElQdK-ZP9ql-3POI2qCgDMj3Wfp=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcKx5ikALQzSXZmBUCeFKOL_WtR1S3cw9aMyZ90Ljr-zx2r6BblziMM7A-i5y8sNLYUo4eNylRP55bds4yV7CEG_m_S8V63PLmV5uSgDsIFsD8YNDl0bElQdK-ZP9ql-3POI2qCgDMj3Wfp=w1000-h750-no",
-    "source_query": "Halal restaurant in Diksmuide, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJLyP6FW-33EcRaIVQqrQwsEw",
-    "name": "Pizzeria Roma uno Eel",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Diksmuide",
-    "address": "Pizzeria Roma uno Eel, Generaal Baron Jacquesstraat 6, 8600 Diksmuide",
-    "street": "Generaal Baron Jacquesstraat 6",
-    "postal_code": "8600",
-    "region": null,
-    "latitude": 51.0333432,
-    "longitude": 2.863339,
-    "phone": "051 62 67 26",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Roma%20uno%20Eel&query_place_id=ChIJLyP6FW-33EcRaIVQqrQwsEw",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "5–9 pm"
-      ],
-      "Friday": [
-        "12–2 pm",
-        "5–9 pm"
-      ],
-      "Saturday": [
-        "12–2 pm",
-        "5–9 pm"
-      ],
-      "Sunday": [
-        "12–2 pm",
-        "5–9 pm"
-      ]
-    },
-    "review_count": 165,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdhbvqxEgd4IiImISXHGQiCWzAl_nhY3mf0uKa1StpNc9EMYrxJMqumHChRPU1Kfsk2G-Y-xNICwnswEgk9GIvSKGFfCqPTXcSBCRsKidAHBpJm-G068_aSLb4lnsjLjfWNkVmm=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdhbvqxEgd4IiImISXHGQiCWzAl_nhY3mf0uKa1StpNc9EMYrxJMqumHChRPU1Kfsk2G-Y-xNICwnswEgk9GIvSKGFfCqPTXcSBCRsKidAHBpJm-G068_aSLb4lnsjLjfWNkVmm=w1000-h750-no",
-    "source_query": "Halal restaurant in Diksmuide, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJhcO2w2633EcRg0fbatZk4No",
-    "name": "PÈRE ET MÈRE",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Diksmuide",
-    "address": "PÈRE ET MÈRE, Grote Markt 43, 8600 Diksmuide",
-    "street": "Grote Markt 43",
-    "postal_code": "8600",
-    "region": null,
-    "latitude": 51.033564299999995,
-    "longitude": 2.8661167,
-    "phone": "0473 59 00 58",
-    "website": "http://www.pere-et-mere.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=P%C3%88RE%20ET%20M%C3%88RE&query_place_id=ChIJhcO2w2633EcRg0fbatZk4No",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "12–2 pm",
-        "6:30–9 pm"
-      ],
-      "Wednesday": [
-        "12–2 pm",
-        "6:30–9 pm"
-      ],
-      "Thursday": [
-        "12–2 pm",
-        "6:30–9 pm"
-      ],
-      "Friday": [
-        "12–2 pm",
-        "6:30–9 pm"
-      ],
-      "Saturday": [
-        "12–2 pm",
-        "7–9 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 523,
-    "rating": 4.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcmQLOC8mDiyZOtTYQ4IR9YbiRibdP8aWXwrWrh7ZjZxm0mMwDKc_OelmgV3mx7FcSoGPGf6JYJhc5lEU4-RHf7hYu8AuMSfDGKvfTpomczZvhtJko2mUyUyepOXqEFSABYI6Tc=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcmQLOC8mDiyZOtTYQ4IR9YbiRibdP8aWXwrWrh7ZjZxm0mMwDKc_OelmgV3mx7FcSoGPGf6JYJhc5lEU4-RHf7hYu8AuMSfDGKvfTpomczZvhtJko2mUyUyepOXqEFSABYI6Tc=w1000-h750-no",
-    "source_query": "Halal restaurant in Diksmuide, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJAVpTo6233EcRTWktfOBJYVk",
-    "name": "Restaurant Commerce 82",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Diksmuide",
-    "address": "Restaurant Commerce 82, Generaal Baron Jacquesstraat 82/01, 8600 Diksmuide",
-    "street": "Generaal Baron Jacquesstraat 82/01",
-    "postal_code": "8600",
-    "region": null,
-    "latitude": 51.0330133,
-    "longitude": 2.8594885999999997,
-    "phone": "051 50 05 47",
-    "website": "https://commerce82.weebly.com/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20Commerce%2082&query_place_id=ChIJAVpTo6233EcRTWktfOBJYVk",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "12–1:30 pm",
-        "6–8:30 pm"
-      ],
-      "Friday": [
-        "12–1:30 pm",
-        "6–8:30 pm"
-      ],
-      "Saturday": [
-        "12–1:30 pm",
-        "6–8:30 pm"
-      ],
-      "Sunday": [
-        "12–1:30 pm",
-        "6–8 pm"
-      ]
-    },
-    "review_count": 129,
-    "rating": 4.8,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfhq8BQ3hAaCmq2qRGnBftRZfqZGfWxaW4XvL89uT1paxmm7bOOnKfjkU_hgmgyBjx0qEjupvt-MURK9sH4vk0pAm84ikLq_gWKSIlTbiE1oDOcXrmVgDZbZ3WT6BJDFlRPVshifA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfhq8BQ3hAaCmq2qRGnBftRZfqZGfWxaW4XvL89uT1paxmm7bOOnKfjkU_hgmgyBjx0qEjupvt-MURK9sH4vk0pAm84ikLq_gWKSIlTbiE1oDOcXrmVgDZbZ3WT6BJDFlRPVshifA=w1000-h750-no",
-    "source_query": "Halal restaurant in Diksmuide, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJtWo9M5q53EcRmpwrBgC8ZRE",
-    "name": "Restaurant Lettenburg",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Diksmuide",
-    "address": "Restaurant Lettenburg, Lettenburgstraat 15, 8600 Diksmuide",
-    "street": "Lettenburgstraat 15",
-    "postal_code": "8600",
-    "region": null,
-    "latitude": 51.047192499999994,
-    "longitude": 2.8110703999999997,
-    "phone": "051 55 57 83",
-    "website": "http://www.restaurantlettenburg.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20Lettenburg&query_place_id=ChIJtWo9M5q53EcRmpwrBgC8ZRE",
-    "open_hours_json": {
-      "Monday": [
-        "11:30 am–10 pm"
-      ],
-      "Tuesday": [
-        "11:30 am–10 pm"
-      ],
-      "Wednesday": [
-        "11:30 am–10 pm"
-      ],
-      "Thursday": [
-        "Closed"
-      ],
-      "Friday": [
-        "11:30 am–10 pm"
-      ],
-      "Saturday": [
-        "11:30 am–10 pm"
-      ],
-      "Sunday": [
-        "11:30 am–10 pm"
-      ]
-    },
-    "review_count": 1417,
-    "rating": 4.4,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdfBSyyUqaxAZPfQsaryqp8blCeJ5pvT6tU6J7_gfrFl8XBOq3x-7js5eSvZZSGidTEUNisdxZ5QXYBIGnkp0am16NyrEjvdZ9VoGzLEMjFozidTF8a0QVcovFC91WTIxoPg8RJ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdfBSyyUqaxAZPfQsaryqp8blCeJ5pvT6tU6J7_gfrFl8XBOq3x-7js5eSvZZSGidTEUNisdxZ5QXYBIGnkp0am16NyrEjvdZ9VoGzLEMjFozidTF8a0QVcovFC91WTIxoPg8RJ=w1000-h750-no",
-    "source_query": "Fish restaurant in Reninge, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ1V9Br8O33EcRmdBA6f5B7EU",
-    "name": "Restaurant Marck",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Diksmuide",
-    "address": "Restaurant Marck, Kruisstraat 29, 8600 Diksmuide",
-    "street": "Kruisstraat 29",
-    "postal_code": "8600",
-    "region": null,
-    "latitude": 51.0161891,
-    "longitude": 2.8969563999999997,
-    "phone": "0469 63 66 58",
-    "website": "https://www.restaurantmarck.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20Marck&query_place_id=ChIJ1V9Br8O33EcRmdBA6f5B7EU",
-    "open_hours_json": {
-      "Monday": [
-        "12–1 pm",
-        "7–8 pm"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "7–8 pm"
-      ],
-      "Friday": [
-        "12–1 pm",
-        "7–8 pm"
-      ],
-      "Saturday": [
-        "7–8 pm"
-      ],
-      "Sunday": [
-        "12–1 pm",
-        "7–8 pm"
-      ]
-    },
-    "review_count": 51,
-    "rating": 5.0,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdsn_G578dXaciovwMqRpOKtFkJXv3tAtVkcCrFwmnNF9-U0s5NCVqckhPEdVcToryAfsh__vcMFMtAIvm75pHDDDRiGeBrzhKingCVT6bZEtMJ0C7uCfFoqQ7lWAJPEST9ARBr-8fUq1kb=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdsn_G578dXaciovwMqRpOKtFkJXv3tAtVkcCrFwmnNF9-U0s5NCVqckhPEdVcToryAfsh__vcMFMtAIvm75pHDDDRiGeBrzhKingCVT6bZEtMJ0C7uCfFoqQ7lWAJPEST9ARBr-8fUq1kb=w1000-h750-no",
-    "source_query": "Halal restaurant in Diksmuide, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJJUIbN3q53EcRw1uxbVFRQ2A",
-    "name": "Restaurant Scheeweghe",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Diksmuide",
-    "address": "Restaurant Scheeweghe, Oostkerkestraat 36, 8600 Diksmuide",
-    "street": "Oostkerkestraat 36",
-    "postal_code": "8600",
-    "region": null,
-    "latitude": 51.0548576,
-    "longitude": 2.7959188,
-    "phone": "051 69 62 77",
-    "website": "http://www.restaurantscheeweghe.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20Scheeweghe&query_place_id=ChIJJUIbN3q53EcRw1uxbVFRQ2A",
-    "open_hours_json": {
-      "Monday": [
-        "12–2 pm",
-        "6–10 pm"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "12–2 pm",
-        "6–10 pm"
-      ],
-      "Friday": [
-        "12–2 pm",
-        "6–10 pm"
-      ],
-      "Saturday": [
-        "6–10 pm"
-      ],
-      "Sunday": [
-        "12–2 pm",
-        "6–10 pm"
-      ]
-    },
-    "review_count": 323,
-    "rating": 4.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLemSlBHS_uWob9UVc96ftkSSK4Hl37JKIPq2m73Waua3cv4xa3V1b5igKBFKmOX4Jyh-Xx6N5WTF4B-TkAcVjTcOtQqRa-WHrgkHs2I5yGzFHsQu-eriJ_YT7Iw5pIQ8lCUP11RPQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLemSlBHS_uWob9UVc96ftkSSK4Hl37JKIPq2m73Waua3cv4xa3V1b5igKBFKmOX4Jyh-Xx6N5WTF4B-TkAcVjTcOtQqRa-WHrgkHs2I5yGzFHsQu-eriJ_YT7Iw5pIQ8lCUP11RPQ=w1000-h750-no",
-    "source_query": "Fish restaurant in Reninge, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJJ5FUw9pQw0cRxauzBY8CxBA",
-    "name": "Restaurant Verthé",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Diksmuide",
-    "address": "Restaurant Verthé, Nieuwkapellestraat 21, 8600 Diksmuide",
-    "street": "Nieuwkapellestraat 21",
-    "postal_code": "8600",
-    "region": null,
-    "latitude": 51.000498,
-    "longitude": 2.800923,
-    "phone": "0498 60 34 60",
-    "website": "https://restaurantverthe.be/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20Verth%C3%A9&query_place_id=ChIJJ5FUw9pQw0cRxauzBY8CxBA",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "6–10 pm"
-      ],
-      "Thursday": [
-        "6–10 pm"
-      ],
-      "Friday": [
-        "6–10 pm"
-      ],
-      "Saturday": [
-        "6–10 pm"
-      ],
-      "Sunday": [
-        "12–3 pm",
-        "6–9 pm"
-      ]
-    },
-    "review_count": 425,
-    "rating": 4.8,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLehtDKv749AHb-ZMm5PY5Z-R7Ju0992FBFC2NecKFiTeq1UyBDJTYiShiJCwlLC9b963o9oEV94bXgXJeSjUK6u2oCnYuqDnyIQtoMBuRshwyqMAQYFdJvmrGB_eB5I30qryxLE=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLehtDKv749AHb-ZMm5PY5Z-R7Ju0992FBFC2NecKFiTeq1UyBDJTYiShiJCwlLC9b963o9oEV94bXgXJeSjUK6u2oCnYuqDnyIQtoMBuRshwyqMAQYFdJvmrGB_eB5I30qryxLE=w1000-h750-no",
-    "source_query": "Fish restaurant in Reninge, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJnVT7vmW33EcRG6AK7dyvf9M",
-    "name": "Shanghai",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Diksmuide",
-    "address": "Shanghai, Generaal Baron Jacquesstraat 65, 8600 Diksmuide",
-    "street": "Generaal Baron Jacquesstraat 65",
-    "postal_code": "8600",
-    "region": null,
-    "latitude": 51.0333463,
-    "longitude": 2.8598564,
-    "phone": "051 51 08 50",
-    "website": "https://www.bezoekdiksmuide.be/shanghai",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Shanghai&query_place_id=ChIJnVT7vmW33EcRG6AK7dyvf9M",
-    "open_hours_json": {
-      "Monday": [
-        "11:30 am–1:30 pm",
-        "6–9:30 pm"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "11:30 am–1:30 pm",
-        "6–9:30 pm"
-      ],
-      "Friday": [
-        "12–2 pm",
-        "6–9:30 pm"
-      ],
-      "Saturday": [
-        "12–2 pm",
-        "6–9:30 pm"
-      ],
-      "Sunday": [
-        "12–2 pm",
-        "6–9:30 pm"
-      ]
-    },
-    "review_count": 123,
-    "rating": 4.2,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfE2kIS2oqhhK0GXBlk70M1RZ4NkNgz0z6WxcP7DVckW8BrLke7-JlYtgjqck4_MYXABSCF7fLWG6IdYHvSpNVsPSOgTTA-qWZgcUdn_n5Ci-a1pch8OGjbw8hQIExVLROTk92xCA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfE2kIS2oqhhK0GXBlk70M1RZ4NkNgz0z6WxcP7DVckW8BrLke7-JlYtgjqck4_MYXABSCF7fLWG6IdYHvSpNVsPSOgTTA-qWZgcUdn_n5Ci-a1pch8OGjbw8hQIExVLROTk92xCA=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Diksmuide, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJU0FWj2O33EcRndP7WFzimF0",
-    "name": "Sint-Jan",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Diksmuide",
-    "address": "Sint-Jan, Bloemmolenkaai 1, 8600 Diksmuide",
-    "street": "Bloemmolenkaai 1",
-    "postal_code": "8600",
-    "region": null,
-    "latitude": 51.0330698,
-    "longitude": 2.8553577,
-    "phone": "051 50 02 74",
-    "website": "https://mymenuweb.com/bel/restaurants/2056916/?utm_source=google_profile&utm_medium=google_profile&utm_campaign=admin",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Sint-Jan&query_place_id=ChIJU0FWj2O33EcRndP7WFzimF0",
-    "open_hours_json": {
-      "Monday": [
-        "10 am–6 pm"
-      ],
-      "Tuesday": [
-        "10 am–6 pm"
-      ],
-      "Wednesday": [
-        "10 am–6 pm"
-      ],
-      "Thursday": [
-        "10 am–6 pm"
-      ],
-      "Friday": [
-        "10 am–3 pm"
-      ],
-      "Saturday": [
-        "Closed"
-      ],
-      "Sunday": [
-        "12–6 pm"
-      ]
-    },
-    "review_count": 339,
-    "rating": 4.4,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcTVzsS5wD6z9WLW2VvuNDQHy-f35NYseVQDBbu-hG9WzWEhfF0Mp1JCL8mBtuwvesNcMY9rYUgcofprvZrI8A1Da02lDjUPxsEdG_EwpquxYhZ8mh_3lqozktAI_r-p8iZg9ZQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcTVzsS5wD6z9WLW2VvuNDQHy-f35NYseVQDBbu-hG9WzWEhfF0Mp1JCL8mBtuwvesNcMY9rYUgcofprvZrI8A1Da02lDjUPxsEdG_EwpquxYhZ8mh_3lqozktAI_r-p8iZg9ZQ=w1000-h750-no",
-    "source_query": "Fish restaurant in Reninge, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ0fdYuKS33EcRsIcVSO00Vjs",
-    "name": "Sushi Mix",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Diksmuide",
-    "address": "Sushi Mix, De Breyne Peellaertstraat 20, 8600 Diksmuide",
-    "street": "De Breyne Peellaertstraat 20",
-    "postal_code": "8600",
-    "region": null,
-    "latitude": 51.0341932,
-    "longitude": 2.8658763,
-    "phone": "051 80 89 70",
-    "website": "https://www.sushimix.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Sushi%20Mix&query_place_id=ChIJ0fdYuKS33EcRsIcVSO00Vjs",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "5–9 pm"
-      ],
-      "Wednesday": [
-        "5–9 pm"
-      ],
-      "Thursday": [
-        "5–9 pm"
-      ],
-      "Friday": [
-        "5–9 pm"
-      ],
-      "Saturday": [
-        "5–9 pm"
-      ],
-      "Sunday": [
-        "5–9 pm"
-      ]
-    },
-    "review_count": 35,
-    "rating": 4.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcRe7YakpzIWob81hZCDEwkaN5m1S9enACZ4J-iMG2zQvhmTy9Uh5pYxAboHSiapvlfG5YxaK2gR1US6hx6kJVbLo0ci_QJVXXZ-SQI_4jA8N1Omjiz-hzCju0lCmfxyIOhIg0g=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcRe7YakpzIWob81hZCDEwkaN5m1S9enACZ4J-iMG2zQvhmTy9Uh5pYxAboHSiapvlfG5YxaK2gR1US6hx6kJVbLo0ci_QJVXXZ-SQI_4jA8N1Omjiz-hzCju0lCmfxyIOhIg0g=w1000-h750-no",
-    "source_query": "Halal restaurant in Diksmuide, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJdxmKRX633EcRfugEQlztKW0",
-    "name": "Water and Fire",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Diksmuide",
-    "address": "Water and Fire, Grote Dijk 6, 8600 Diksmuide",
-    "street": "Grote Dijk 6",
-    "postal_code": "8600",
-    "region": null,
-    "latitude": 51.0370255,
-    "longitude": 2.8602752,
-    "phone": "051 51 15 11",
-    "website": "http://waterenvuur.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Water%20and%20Fire&query_place_id=ChIJdxmKRX633EcRfugEQlztKW0",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "Closed"
-      ],
-      "Friday": [
-        "6–11 pm"
-      ],
-      "Saturday": [
-        "12–2:30 pm",
-        "6–11 pm"
-      ],
-      "Sunday": [
-        "12–2:30 pm",
-        "6–11 pm"
-      ]
-    },
-    "review_count": 345,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLebSdlnzJQ18qRjMik567qjM8nd2K2r1-g25rSI_U4jvQbA019dWita8RrEy0bHzlzzLmqeARdz81zfHC8PILx0SaG894LjpeZKkefDCY7tHGK1t6KNaPQr2EoKCA_b53Q_--ki=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLebSdlnzJQ18qRjMik567qjM8nd2K2r1-g25rSI_U4jvQbA019dWita8RrEy0bHzlzzLmqeARdz81zfHC8PILx0SaG894LjpeZKkefDCY7tHGK1t6KNaPQr2EoKCA_b53Q_--ki=w1000-h750-no",
-    "source_query": "Fish restaurant in Reninge, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJk1GuIgC33EcRkQfgZeRdWfU",
-    "name": "diksmuide",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Diksmuide",
-    "address": "diksmuide, Gasthuisstraat 18, 8600 Diksmuide",
-    "street": "Gasthuisstraat 18",
-    "postal_code": "8600",
-    "region": null,
-    "latitude": 51.031887999999995,
-    "longitude": 2.8615334999999997,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=diksmuide&query_place_id=ChIJk1GuIgC33EcRkQfgZeRdWfU",
-    "open_hours_json": null,
-    "review_count": 0,
-    "rating": null,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=iqf7mMy9_xWYbTU3x8dJKA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=208.35349&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=iqf7mMy9_xWYbTU3x8dJKA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=208.35349&pitch=0&thumbfov=w1000-h750-no",
-    "source_query": "Hypermarket in Diksmuide, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ90ipHuvAw0cRSo00mM-Q0E0",
-    "name": "Bait-us-Salam",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Dilbeek",
-    "address": "Bait-us-Salam, Brusselstraat 445, 1700 Dilbeek",
-    "street": "Brusselstraat 445",
-    "postal_code": "1700",
-    "region": null,
-    "latitude": 50.875935299999995,
-    "longitude": 4.239480299999999,
-    "phone": null,
-    "website": "http://www.ahmadiyya-islam.org/be-nl/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bait-us-Salam&query_place_id=ChIJ90ipHuvAw0cRSo00mM-Q0E0",
-    "open_hours_json": null,
-    "review_count": 86,
-    "rating": 4.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcUXhjSQ3-atDcfqGdD1Pde_pRnW4OrnTPsywYHws9yAB9048lfmqiAmnOpaFHCzYkJ-EO3xCG0FcdrGZToCuHasmMBuzf2W-zzhPPEIaVX8pfKjUUf0c9jThfuQD5WGTPeAt13=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcUXhjSQ3-atDcfqGdD1Pde_pRnW4OrnTPsywYHws9yAB9048lfmqiAmnOpaFHCzYkJ-EO3xCG0FcdrGZToCuHasmMBuzf2W-zzhPPEIaVX8pfKjUUf0c9jThfuQD5WGTPeAt13=w1000-h750-no",
-    "source_query": "Mosque in Veurne, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJve9fVjfJwEcR1p8pKuTWaM4",
-    "name": "'t Pure Genot",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Dilsen-Stokkem",
-    "address": "'t Pure Genot, Stationsstraat 138, 3650 Dilsen-Stokkem",
-    "street": "Stationsstraat 138",
-    "postal_code": "3650",
-    "region": null,
-    "latitude": 51.0684068,
-    "longitude": 5.7285973,
-    "phone": "0475 21 57 33",
-    "website": "http://www.tpuregenot.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%27t%20Pure%20Genot&query_place_id=ChIJve9fVjfJwEcR1p8pKuTWaM4",
-    "open_hours_json": null,
-    "review_count": 168,
-    "rating": 4.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd0hqbgQmW8VlD7P4i8FE7oKgoLpINnqh9alez096f0ArFRPg-b08Nw12E27raDOxYmbTFSGnUVI-MKNhUN8q0xaUtJQJg4408a5vKNVnNi1fHQqGQllrKm3QdSLw6oTTRIyBKQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd0hqbgQmW8VlD7P4i8FE7oKgoLpINnqh9alez096f0ArFRPg-b08Nw12E27raDOxYmbTFSGnUVI-MKNhUN8q0xaUtJQJg4408a5vKNVnNi1fHQqGQllrKm3QdSLw6oTTRIyBKQ=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Dilsen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJK6OAP2nPwEcRk_Fy4bWkiIk",
-    "name": "'t Winkelke Rotem bvba",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Dilsen-Stokkem",
-    "address": "'t Winkelke Rotem bvba, Hoogbaan 140, 3650 Dilsen-Stokkem",
-    "street": "Hoogbaan 140",
-    "postal_code": "3650",
-    "region": null,
-    "latitude": 51.0532541,
-    "longitude": 5.7383299,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%27t%20Winkelke%20Rotem%20bvba&query_place_id=ChIJK6OAP2nPwEcRk_Fy4bWkiIk",
-    "open_hours_json": null,
-    "review_count": 17,
-    "rating": 4.8,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLePv9irg5uf4RW-nzA2g3szUsVU1-jfyBjfNeIJVujiVXT7SIfaniJ52yzIXSE_hn_tLsQzLktmUy-19dVcMDlhKsMAltmhwGn6bz5d0nqlqFpuOqsZyYviotVqthkRoEbNVAo=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLePv9irg5uf4RW-nzA2g3szUsVU1-jfyBjfNeIJVujiVXT7SIfaniJ52yzIXSE_hn_tLsQzLktmUy-19dVcMDlhKsMAltmhwGn6bz5d0nqlqFpuOqsZyYviotVqthkRoEbNVAo=w1000-h750-no",
-    "source_query": "Hypermarket in Stokkem, Flanders, BE",
     "moderation_status": "approved",
     "is_active": true,
     "verification_status": "UNVERIFIED",

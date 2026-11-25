@@ -1,5 +1,648 @@
 [
   {
+    "place_id": "ChIJudx_KtpgwUcRi982CrUKAHM",
+    "name": "Optimist",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Leuven",
+    "address": "Optimist, Vismarkt 7, 3000 Leuven",
+    "street": "Vismarkt 7",
+    "postal_code": "3000",
+    "region": null,
+    "latitude": 50.8814133,
+    "longitude": 4.7001669,
+    "phone": "016 25 85 81",
+    "website": "http://www.deoptimist.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Optimist&query_place_id=ChIJudx_KtpgwUcRi982CrUKAHM",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "11 am–1 am"
+      ],
+      "Wednesday": [
+        "11 am–1 am"
+      ],
+      "Thursday": [
+        "11 am–1 am"
+      ],
+      "Friday": [
+        "11 am–1 am"
+      ],
+      "Saturday": [
+        "11 am–1 am"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 1121,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLetHxcNoT75KQyP19tC4v_MZOx-8n34cuElgc_xntagqAiVjEPZfS9bRFMT_jekXTk3ag44ehJEgWBeKdaH2NdTyyCwDWxpTQMFXJNlJYUGHW82Q1gy4v8ljqPFf5mIATmT8MuM=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLetHxcNoT75KQyP19tC4v_MZOx-8n34cuElgc_xntagqAiVjEPZfS9bRFMT_jekXTk3ag44ehJEgWBeKdaH2NdTyyCwDWxpTQMFXJNlJYUGHW82Q1gy4v8ljqPFf5mIATmT8MuM=w1000-h750-no",
+    "source_query": "Fish restaurant in Leuven, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJWZ3z0t1gwUcRUwxXD_mRs9I",
+    "name": "Osteopathie Leuven",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Leuven",
+    "address": "Osteopathie Leuven, Tessenstraat 3a, 3000 Leuven",
+    "street": "Tessenstraat 3a",
+    "postal_code": "3000",
+    "region": null,
+    "latitude": 50.881251899999995,
+    "longitude": 4.6933199,
+    "phone": "016 23 82 43",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Osteopathie%20Leuven&query_place_id=ChIJWZ3z0t1gwUcRUwxXD_mRs9I",
+    "open_hours_json": {
+      "Monday": [
+        "8:30 am–9 pm"
+      ],
+      "Tuesday": [
+        "8:30 am–9 pm"
+      ],
+      "Wednesday": [
+        "8:30 am–9 pm"
+      ],
+      "Thursday": [
+        "8:30 am–9 pm"
+      ],
+      "Friday": [
+        "8:30 am–5 pm"
+      ],
+      "Saturday": [
+        "Closed"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 3,
+    "rating": 4.7,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ra63JP_qJX9JBoarT5MSXQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=293.95724&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ra63JP_qJX9JBoarT5MSXQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=293.95724&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Pharmacy in Leuven, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJQxnhIqJhwUcRPVkbSvKQOGY",
+    "name": "Osteopathie den Wyngaert Leuven",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Leuven",
+    "address": "Osteopathie den Wyngaert Leuven, Kolonel Begaultlaan 79, 3012 Leuven",
+    "street": "Kolonel Begaultlaan 79",
+    "postal_code": "3012",
+    "region": null,
+    "latitude": 50.897069099999996,
+    "longitude": 4.7053783,
+    "phone": "0456 09 01 77",
+    "website": "https://denwyngaertleuven.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Osteopathie%20den%20Wyngaert%20Leuven&query_place_id=ChIJQxnhIqJhwUcRPVkbSvKQOGY",
+    "open_hours_json": null,
+    "review_count": 12,
+    "rating": 5.0,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8cOcmkXVheFOGyRE_U7eKg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=268.52487&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8cOcmkXVheFOGyRE_U7eKg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=268.52487&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Pharmacy in Leuven, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJazFNosphwUcRPuxVo13MGpk",
+    "name": "P95 BV",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Leuven",
+    "address": "P95 BV, Diestsevest 125, 3000 Leuven",
+    "street": "Diestsevest 125",
+    "postal_code": "3000",
+    "region": null,
+    "latitude": 50.8858569,
+    "longitude": 4.7095556,
+    "phone": "016 23 50 13",
+    "website": "https://p-95.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=P95%20BV&query_place_id=ChIJazFNosphwUcRPuxVo13MGpk",
+    "open_hours_json": {
+      "Monday": [
+        "Open 24 hours"
+      ],
+      "Tuesday": [
+        "Open 24 hours"
+      ],
+      "Wednesday": [
+        "Open 24 hours"
+      ],
+      "Thursday": [
+        "Open 24 hours"
+      ],
+      "Friday": [
+        "Open 24 hours"
+      ],
+      "Saturday": [
+        "Closed"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 0,
+    "rating": null,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeWyrGsOwHWUD3LdLT_AWwaV6c0SsyFBDCtMK7-0iLf5Db_qBRbcw83wCFgJqU-3tdLwYrU-qHuByuGY0tfXha8aKgHOot-gFc6pBHZWvn8TgBkVbtocwh77DIti6U4_wfgKSN1nrClMfb_=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeWyrGsOwHWUD3LdLT_AWwaV6c0SsyFBDCtMK7-0iLf5Db_qBRbcw83wCFgJqU-3tdLwYrU-qHuByuGY0tfXha8aKgHOot-gFc6pBHZWvn8TgBkVbtocwh77DIti6U4_wfgKSN1nrClMfb_=w1000-h750-no",
+    "source_query": "Pharmacy in Leuven, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ53zV6g9hwUcRBsbHCBVF3VQ",
+    "name": "PRS Winkel",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Leuven",
+    "address": "PRS Winkel, N3, 3000 Leuven",
+    "street": "N3",
+    "postal_code": "3000",
+    "region": null,
+    "latitude": 50.8693526,
+    "longitude": 4.707261,
+    "phone": "0485 30 66 59",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=PRS%20Winkel&query_place_id=ChIJ53zV6g9hwUcRBsbHCBVF3VQ",
+    "open_hours_json": {
+      "Monday": [
+        "10 am–8 pm"
+      ],
+      "Tuesday": [
+        "10 am–8 pm"
+      ],
+      "Wednesday": [
+        "10 am–8 pm"
+      ],
+      "Thursday": [
+        "10 am–8 pm"
+      ],
+      "Friday": [
+        "10 am–8 pm"
+      ],
+      "Saturday": [
+        "10 am–8 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 98,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLchyfP8wA78QZQdlasjUlIepYROfUCyueUB0kvQRMnrvdMiSswN8uJVKJpSLkt2liHPDv4mAJWNUcC333wMJJq3nPfisqKBRDDDMOlEswyOCSjyuYYHo9bI8zB5K59iugSmyF0z=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLchyfP8wA78QZQdlasjUlIepYROfUCyueUB0kvQRMnrvdMiSswN8uJVKJpSLkt2liHPDv4mAJWNUcC333wMJJq3nPfisqKBRDDDMOlEswyOCSjyuYYHo9bI8zB5K59iugSmyF0z=w1000-h750-no",
+    "source_query": "Hypermarket in Leuven, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ3auyqlFhwUcRLjmaDas1MO4",
+    "name": "PSI CRO Leuven",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Leuven",
+    "address": "PSI CRO Leuven, Diestsevest 14, 3000 Leuven",
+    "street": "Diestsevest 14",
+    "postal_code": "3000",
+    "region": null,
+    "latitude": 50.8831645,
+    "longitude": 4.7134439,
+    "phone": null,
+    "website": "https://www.psi-cro.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=PSI%20CRO%20Leuven&query_place_id=ChIJ3auyqlFhwUcRLjmaDas1MO4",
+    "open_hours_json": null,
+    "review_count": 0,
+    "rating": null,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=y__z8cM_M2rGFqwoZyi7tg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=60.002846&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=y__z8cM_M2rGFqwoZyi7tg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=60.002846&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Pharmacy in Leuven, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJWQ7TYSdhwUcRdxjTkMaVFQI",
+    "name": "Palmyra Restaurant - Syrisch En Libanees",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Leuven",
+    "address": "Palmyra Restaurant - Syrisch En Libanees, Parijsstraat 49, 3000 Leuven",
+    "street": "Parijsstraat 49",
+    "postal_code": "3000",
+    "region": null,
+    "latitude": 50.878201,
+    "longitude": 4.6989697999999995,
+    "phone": "016 90 38 84",
+    "website": "https://www.palmyra-restaurant.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Palmyra%20Restaurant%20-%20Syrisch%20En%20Libanees&query_place_id=ChIJWQ7TYSdhwUcRdxjTkMaVFQI",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLemGDaACRZSeH2dXLDS9atR6Je7zPL663VdQEA30e2TlOYV2omri6_TYJISpJTOYYakWPVeF9kTLHWHlOeUbyA3muucCvE1yNv6KSA7HgxOkvdibdRay7pJrHbM8Q-CiI4NaEGH=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLemGDaACRZSeH2dXLDS9atR6Je7zPL663VdQEA30e2TlOYV2omri6_TYJISpJTOYYakWPVeF9kTLHWHlOeUbyA3muucCvE1yNv6KSA7HgxOkvdibdRay7pJrHbM8Q-CiI4NaEGH=w1000-h750-no",
+    "rating": 4.5,
+    "review_count": 1318,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJYxmpNthgwUcRDoB9fq5Pdtg",
+    "name": "PepeNero",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Leuven",
+    "address": "PepeNero, Muntstraat 19, 3000 Leuven",
+    "street": "Muntstraat 19",
+    "postal_code": "3000",
+    "region": null,
+    "latitude": 50.878141199999995,
+    "longitude": 4.7028631999999995,
+    "phone": "016 22 24 25",
+    "website": "http://www.pepenero.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=PepeNero&query_place_id=ChIJYxmpNthgwUcRDoB9fq5Pdtg",
+    "open_hours_json": {
+      "Monday": [
+        "5:30–9:45 pm"
+      ],
+      "Tuesday": [
+        "5:30–9:45 pm"
+      ],
+      "Wednesday": [
+        "5:30–9:45 pm"
+      ],
+      "Thursday": [
+        "5:30–9:45 pm"
+      ],
+      "Friday": [
+        "5:30–9:45 pm"
+      ],
+      "Saturday": [
+        "12–2:30 pm",
+        "5:30–9:45 pm"
+      ],
+      "Sunday": [
+        "12–2:30 pm",
+        "5:30–9:45 pm"
+      ]
+    },
+    "review_count": 1071,
+    "rating": 4.2,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfDjft3pP_0-E6wK3FjY2NuX3TGFqMiCOp6liTiClzyxV7GLNWByqgcyXn8mFKZtBfQOkdLJQdT6kAIx1x6qwFBOfLTsV8Iz5dJ3b29Tpa7FSBr_lTq_9OxOF3kiyhfKXKL8l19=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfDjft3pP_0-E6wK3FjY2NuX3TGFqMiCOp6liTiClzyxV7GLNWByqgcyXn8mFKZtBfQOkdLJQdT6kAIx1x6qwFBOfLTsV8Iz5dJ3b29Tpa7FSBr_lTq_9OxOF3kiyhfKXKL8l19=w1000-h750-no",
+    "source_query": "Fish restaurant in Leuven, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ9Ud3odlgwUcRqQ3jI8O7vQ8",
+    "name": "Pizzeria La Vecchia Napoli",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Leuven",
+    "address": "Pizzeria La Vecchia Napoli, Pensstraat 6, 3000 Leuven",
+    "street": "Pensstraat 6",
+    "postal_code": "3000",
+    "region": null,
+    "latitude": 50.8797694,
+    "longitude": 4.6999685,
+    "phone": "016 29 29 00",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20La%20Vecchia%20Napoli&query_place_id=ChIJ9Ud3odlgwUcRqQ3jI8O7vQ8",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "5:30–9:30 pm"
+      ],
+      "Wednesday": [
+        "5:30–9:30 pm"
+      ],
+      "Thursday": [
+        "5:30–9:30 pm"
+      ],
+      "Friday": [
+        "5:30–9:30 pm"
+      ],
+      "Saturday": [
+        "5:30–10 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 429,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLffo6ZM6Zvr0d08mFLx94jA8-vWDpCxj6a-RKkZNWjSUN8ZDoKHeBdhToa-PnA32oBXYqQaQofZh4BXb47AqzFFGUd2C4RZRWFUSzjH_L85JSzbt_H5tFk_8EBMAcq4FYdnCtqi=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLffo6ZM6Zvr0d08mFLx94jA8-vWDpCxj6a-RKkZNWjSUN8ZDoKHeBdhToa-PnA32oBXYqQaQofZh4BXb47AqzFFGUd2C4RZRWFUSzjH_L85JSzbt_H5tFk_8EBMAcq4FYdnCtqi=w1000-h750-no",
+    "source_query": "Fish restaurant in Leuven, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ_-IcT9hgwUcRe_czE3pY0Wo",
+    "name": "Portogalo",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Leuven",
+    "address": "Portogalo, Zeelstraat 4, 3000 Leuven",
+    "street": "Zeelstraat 4",
+    "postal_code": "3000",
+    "region": null,
+    "latitude": 50.8783434,
+    "longitude": 4.7004952,
+    "phone": "0456 63 53 51",
+    "website": "https://portogaloleuven.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Portogalo&query_place_id=ChIJ_-IcT9hgwUcRe_czE3pY0Wo",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "12–2 pm",
+        "5:30–10 pm"
+      ],
+      "Thursday": [
+        "12–2 pm",
+        "5:30–10 pm"
+      ],
+      "Friday": [
+        "12–2 pm",
+        "5:30–10 pm"
+      ],
+      "Saturday": [
+        "12–2 pm",
+        "5:30–10 pm"
+      ],
+      "Sunday": [
+        "12–2 pm",
+        "5:30–10 pm"
+      ]
+    },
+    "review_count": 305,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeZ_DdjwsfHvH7dT6PaL0yUiiOHOmoRBiqmp1V8p9ReIQV0YWZitr6OQzDyxxDe0A0AojSSFfaLCY5KF9miluKWD03OXxxd1M4b6oKNzAgvOWBiKxF-Wh8DADducY7n1myK1dtI=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeZ_DdjwsfHvH7dT6PaL0yUiiOHOmoRBiqmp1V8p9ReIQV0YWZitr6OQzDyxxDe0A0AojSSFfaLCY5KF9miluKWD03OXxxd1M4b6oKNzAgvOWBiKxF-Wh8DADducY7n1myK1dtI=w1000-h750-no",
+    "source_query": "Fish restaurant in Leuven, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJr-3OYb5hwUcR7zqzDhKS80c",
+    "name": "Poule & Poulette Leuven",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Leuven",
+    "address": "Poule & Poulette Leuven, Tiensestraat 15, 3000 Leuven",
+    "street": "Tiensestraat 15",
+    "postal_code": "3000",
+    "region": null,
+    "latitude": 50.8783755,
+    "longitude": 4.7035406,
+    "phone": "016 79 21 52",
+    "website": "https://poulepoulette.com/locaties/leuven/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Poule%20%26%20Poulette%20Leuven&query_place_id=ChIJr-3OYb5hwUcR7zqzDhKS80c",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeDEncBE2RxNar_V3Y_mEr0g3qVSS2uEJ7XPds2FQTSp1Qojqmh-3oFontA6g5DMMHFQrJJm78yJUY-TY1l_vVgSEJcJD5Z-JVJnjSBb0WdbUZGeL5Nllmpbgr0foXRNYaQlEB8tuBfvmj_=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeDEncBE2RxNar_V3Y_mEr0g3qVSS2uEJ7XPds2FQTSp1Qojqmh-3oFontA6g5DMMHFQrJJm78yJUY-TY1l_vVgSEJcJD5Z-JVJnjSBb0WdbUZGeL5Nllmpbgr0foXRNYaQlEB8tuBfvmj_=w1000-h750-no",
+    "rating": 4.5,
+    "review_count": 1455,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJS3NlciRhwUcRp7_8SsdqEW0",
+    "name": "Q8",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Leuven",
+    "address": "Q8, Tervuursevest 58, 3000 Leuven",
+    "street": "Tervuursevest 58",
+    "postal_code": "3000",
+    "region": null,
+    "latitude": 50.869761999999994,
+    "longitude": 4.695824,
+    "phone": "03 241 35 35",
+    "website": "https://www.q8.be/stations/q8-leuven",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Q8&query_place_id=ChIJS3NlciRhwUcRp7_8SsdqEW0",
+    "open_hours_json": {
+      "Monday": [
+        "Open 24 hours"
+      ],
+      "Tuesday": [
+        "Open 24 hours"
+      ],
+      "Wednesday": [
+        "Open 24 hours"
+      ],
+      "Thursday": [
+        "Open 24 hours"
+      ],
+      "Friday": [
+        "Open 24 hours"
+      ],
+      "Saturday": [
+        "Open 24 hours"
+      ],
+      "Sunday": [
+        "Open 24 hours"
+      ]
+    },
+    "review_count": 117,
+    "rating": 3.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf99n6KtZgjP7ZYVYG-7u3ZF6g_7CzFs0JgYreunThZh33AC68hDdxQQdBVnbblm6ztBgij-aXvhF4T2h7WI6sHWurf1lvqGGkC_9m8aBskdEW2JF6ucEFyKeIhySooKLWDiePgTVGAnH6X=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf99n6KtZgjP7ZYVYG-7u3ZF6g_7CzFs0JgYreunThZh33AC68hDdxQQdBVnbblm6ztBgij-aXvhF4T2h7WI6sHWurf1lvqGGkC_9m8aBskdEW2JF6ucEFyKeIhySooKLWDiePgTVGAnH6X=w1000-h750-no",
+    "source_query": "Hypermarket in Leuven, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJCX4eT7NhwUcRwx8KGTxMCAs",
+    "name": "RUBA Leuven - Rector de Somersplein",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Leuven",
+    "address": "RUBA Leuven - Rector de Somersplein, Rector de Somerplein 16, 3000 Leuven",
+    "street": "Rector de Somerplein 16",
+    "postal_code": "3000",
+    "region": null,
+    "latitude": 50.878777299999996,
+    "longitude": 4.7026234,
+    "phone": "016 67 18 20",
+    "website": "https://www.rubafood.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=RUBA%20Leuven%20-%20Rector%20de%20Somersplein&query_place_id=ChIJCX4eT7NhwUcRwx8KGTxMCAs",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcibNBoz1lNR8odikc_PAlweHsMqDosfCSx0Ihdo5AeqH0caXExsZcYevR4K2IXH7EkrjZNeuot9E5-J9jOV_kepvUZGFSCwGjR0lWRvknATV3cNC-oyUkTgrg3xv4r5Wzdqy4x=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcibNBoz1lNR8odikc_PAlweHsMqDosfCSx0Ihdo5AeqH0caXExsZcYevR4K2IXH7EkrjZNeuot9E5-J9jOV_kepvUZGFSCwGjR0lWRvknATV3cNC-oyUkTgrg3xv4r5Wzdqy4x=w1000-h750-no",
+    "rating": 4.5,
+    "review_count": 237,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJyeGRAkRhwUcRpJLCGmIDoHg",
+    "name": "RUBA Leuven - Tiensestraat",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Leuven",
+    "address": "RUBA Leuven - Tiensestraat, Tiensestraat 71, 3000 Leuven",
+    "street": "Tiensestraat 71",
+    "postal_code": "3000",
+    "region": null,
+    "latitude": 50.8770295,
+    "longitude": 4.7053575,
+    "phone": "016 41 40 14",
+    "website": "http://www.rubafood.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=RUBA%20Leuven%20-%20Tiensestraat&query_place_id=ChIJyeGRAkRhwUcRpJLCGmIDoHg",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdsbazxyEzVHAbLQcsaBak6jF5wjF7DdABmElb5CHHJLqQ28Zxf1H8kSKE9wzYCImWqMKAP7WrtjDAaaDaciAV-H7z9WmXTMR89m9fhnr_XQ5z94mHMae31t3LhrFY7UpnJU4Gj=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdsbazxyEzVHAbLQcsaBak6jF5wjF7DdABmElb5CHHJLqQ28Zxf1H8kSKE9wzYCImWqMKAP7WrtjDAaaDaciAV-H7z9WmXTMR89m9fhnr_XQ5z94mHMae31t3LhrFY7UpnJU4Gj=w1000-h750-no",
+    "rating": 4.5,
+    "review_count": 451,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJ0a_ClXRhwUcRyle2Ysj4Ho8",
+    "name": "Raffat",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Leuven",
+    "address": "Raffat, Naamsestraat 45, 3000 Leuven",
+    "street": "Naamsestraat 45",
+    "postal_code": "3000",
+    "region": null,
+    "latitude": 50.8767962,
+    "longitude": 4.7006192,
+    "phone": "0485 94 57 54",
+    "website": "https://www.raffat.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Raffat&query_place_id=ChIJ0a_ClXRhwUcRyle2Ysj4Ho8",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcmRQ5udBvJa9kYUIUlflj5DlSCz_8tlOGFLtkSuYJjaBqHiWW3twhZ988_OIUzLh8lIFMUlCV6k-QSM_JDfN6NbExSsN6iNaxlpsZfzSI29BLfo6bo6zVvXxY29kZawlJZf3AWul8TcQA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcmRQ5udBvJa9kYUIUlflj5DlSCz_8tlOGFLtkSuYJjaBqHiWW3twhZ988_OIUzLh8lIFMUlCV6k-QSM_JDfN6NbExSsN6iNaxlpsZfzSI29BLfo6bo6zVvXxY29kZawlJZf3AWul8TcQA=w1000-h750-no",
+    "rating": 4.7,
+    "review_count": 2045,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJd4Jn9CthwUcR0wjujNR6Q3U",
+    "name": "Relieve Clinic Leuven Centrum",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Leuven",
+    "address": "Relieve Clinic Leuven Centrum, P.J. Verhaghenstraat 12, 3000 Leuven",
+    "street": "P.J. Verhaghenstraat 12",
+    "postal_code": "3000",
+    "region": null,
+    "latitude": 50.8697446,
+    "longitude": 4.7020852,
+    "phone": "016 79 58 00",
+    "website": "https://www.relieveclinic.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Relieve%20Clinic%20Leuven%20Centrum&query_place_id=ChIJd4Jn9CthwUcR0wjujNR6Q3U",
+    "open_hours_json": {
+      "Monday": [
+        "9 am–4:30 pm"
+      ],
+      "Tuesday": [
+        "9 am–4:30 pm"
+      ],
+      "Wednesday": [
+        "9 am–4:30 pm"
+      ],
+      "Thursday": [
+        "9 am–4:30 pm"
+      ],
+      "Friday": [
+        "9 am–4:30 pm"
+      ],
+      "Saturday": [
+        "Closed"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 23,
+    "rating": 4.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdSqj_beN70U8-M-l2kwNHbu5yQlgh_trHjZyPa4oiMaWx8hLmwTpvK3CPXhb9AtReqcfcrNaTMuMBcTUeT44fGDjX4vimTXkRjpTdZpPfUanpUYeZrY8eJxGmCtJUrnzSjBnDYTQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdSqj_beN70U8-M-l2kwNHbu5yQlgh_trHjZyPa4oiMaWx8hLmwTpvK3CPXhb9AtReqcfcrNaTMuMBcTUeT44fGDjX4vimTXkRjpTdZpPfUanpUYeZrY8eJxGmCtJUrnzSjBnDYTQ=w1000-h750-no",
+    "source_query": "Pharmacy in Leuven, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJvzbXulthwUcR1jOlyxgPdTg",
     "name": "Restaurant CumLaude",
     "type": "restaurant",
@@ -8804,7 +9447,7 @@
     "latitude": 50.640526,
     "longitude": 5.5937845,
     "phone": "04 267 86 30",
-    "website": "https://boucherie-alitihad.be/",
+    "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Itihad&query_place_id=ChIJl0zYFqXwwEcRQRJ84dE3n6M",
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcPT7OEchM38VmnnU0ROCfCXgzrtitXk19VKMH7KCgMlO8r2ciBItjeSGAirqb7O_Ybmwo1Ziosuk40EGP9Kq7EfU00DoHk1EfvZTz5DIBxo6HXBrta2bj2zwW_30CqpKgtBVoa=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcPT7OEchM38VmnnU0ROCfCXgzrtitXk19VKMH7KCgMlO8r2ciBItjeSGAirqb7O_Ybmwo1Ziosuk40EGP9Kq7EfU00DoHk1EfvZTz5DIBxo6HXBrta2bj2zwW_30CqpKgtBVoa=w1000-h750-no",
@@ -9278,7 +9921,7 @@
     "region": null,
     "latitude": 50.6446025,
     "longitude": 5.5751164,
-    "phone": "0474 12 21 21",
+    "phone": null,
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=BOUCHERIE%20MARHABA%203%20Halal&query_place_id=ChIJCTDpBQD7wEcRJU6wUeCJXnY",
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdqjnobswO8XKMWOgdGghP4oPSjjdq8_p_lPT0hTBMVH1zFDmuKZRNQIx19ODxt0cp4i2MuzmoLGmR7G3pPixkgzkgf1ec0KO-pfFSoAVfATbct9VgNQ6jivw7JxwkoZKnzt70V6Q-jHtr1=w1000-h750-no",
@@ -9874,8 +10517,8 @@
     "phone": "04 224 33 43",
     "website": "https://boucherie-el-kamel-express.be/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boucherie%20El%20Kamel&query_place_id=ChIJtY19Yy76wEcRkanHBx-q7rI",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcqvN_4iXXFXvhFSvDAZvmriFtO6TrwNN8GLll0b4KORkqcUbffHoflvULxEFx6H8CVJXCAO3Zcsxqkc5m9iPsE-cbG0d1yldee41l6urITnTvq7Ro5izEe2XLFkGogyU0I_mUDjw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcqvN_4iXXFXvhFSvDAZvmriFtO6TrwNN8GLll0b4KORkqcUbffHoflvULxEFx6H8CVJXCAO3Zcsxqkc5m9iPsE-cbG0d1yldee41l6urITnTvq7Ro5izEe2XLFkGogyU0I_mUDjw=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdcN7-i9bE5LPvfMSL83Q_lPDDnGrF7tV1qcK9bwj2TxEJC8QzGTGUokOcKor3rz1r-cAykK1oEls_BmaQ0p_bLy6bZXHZMYopPSKXUN_ufLHugPgF3ixHzMzsF_zKxcrHCVpAOrQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdcN7-i9bE5LPvfMSL83Q_lPDDnGrF7tV1qcK9bwj2TxEJC8QzGTGUokOcKor3rz1r-cAykK1oEls_BmaQ0p_bLy6bZXHZMYopPSKXUN_ufLHugPgF3ixHzMzsF_zKxcrHCVpAOrQ=w1000-h750-no",
     "rating": 4.5,
     "review_count": 197,
     "verification_status": "UNVERIFIED",
@@ -10058,8 +10701,8 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boucherie%20boushaba&query_place_id=ChIJwY0--ar5wEcRRsk063x3LJw",
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdFuR0TXkVVI7lBBn-PcDb7PSY-kbQ_Xoew6FPPoCEK-MuGRDhfMrp96uqSdAYs1U0c8tcmPUIk_EM43mtdcGubQO0jyjGjAhC2zTWZza4NjUxICx12x8zslfv5wHlV3fLXdFs5Lw=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdFuR0TXkVVI7lBBn-PcDb7PSY-kbQ_Xoew6FPPoCEK-MuGRDhfMrp96uqSdAYs1U0c8tcmPUIk_EM43mtdcGubQO0jyjGjAhC2zTWZza4NjUxICx12x8zslfv5wHlV3fLXdFs5Lw=w1000-h750-no",
-    "rating": 4.1,
-    "review_count": 41,
+    "rating": null,
+    "review_count": 0,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null,
     "is_active": true,
@@ -10216,699 +10859,6 @@
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc3SeQGfJl70j5CeXaSq6QVK6OMLL84VKvp5xAfbM-24PwkfC32M2vvhOkfV7oGGCxVYelWSSVsTjI4fhjRxTJ13ye8SQFX1QgVzEIuA5pEmREFxk82vk4R1ME0_jftdxPKIUg=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc3SeQGfJl70j5CeXaSq6QVK6OMLL84VKvp5xAfbM-24PwkfC32M2vvhOkfV7oGGCxVYelWSSVsTjI4fhjRxTJ13ye8SQFX1QgVzEIuA5pEmREFxk82vk4R1ME0_jftdxPKIUg=w1000-h750-no",
     "source_query": "Fish restaurant in Liège, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJDZ34IUz7wEcRxvnrZ_Ahs2k",
-    "name": "Bro’s Burger Kitchen",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Liège",
-    "address": "Bro’s Burger Kitchen, Rue Pont d'Avroy 25, 4000 Liège",
-    "street": "Rue Pont d'Avroy 25",
-    "postal_code": "4000",
-    "region": null,
-    "latitude": 50.6404974,
-    "longitude": 5.5699612,
-    "phone": "0478 15 29 51",
-    "website": "https://www.facebook.com/BrosBurgerLiege/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bro%E2%80%99s%20Burger%20Kitchen&query_place_id=ChIJDZ34IUz7wEcRxvnrZ_Ahs2k",
-    "open_hours_json": {
-      "Monday": [
-        "11:30 am–12 am"
-      ],
-      "Tuesday": [
-        "11:30 am–12 am"
-      ],
-      "Wednesday": [
-        "11:30 am–12 am"
-      ],
-      "Thursday": [
-        "11:30 am–12 am"
-      ],
-      "Friday": [
-        "11:30 am–2 am"
-      ],
-      "Saturday": [
-        "11:30 am–2 am"
-      ],
-      "Sunday": [
-        "11:30 am–12 am"
-      ]
-    },
-    "review_count": 520,
-    "rating": 4.0,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd0ylJ0fyBRmObcp-pGXKawlaRv6L2mokrlFPqMRQ7ZNBSXhomwMnhILchGUc0CtRhth0w-4ER9BwKk4CLbHszFST0olE0QBeXLJ5bynX-56DkVAa9AopdwyjTT3SVukw5fsOg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd0ylJ0fyBRmObcp-pGXKawlaRv6L2mokrlFPqMRQ7ZNBSXhomwMnhILchGUc0CtRhth0w-4ER9BwKk4CLbHszFST0olE0QBeXLJ5bynX-56DkVAa9AopdwyjTT3SVukw5fsOg=w1000-h750-no",
-    "source_query": "Halal restaurant in Liège, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ9UKUlBr6wEcRtFYTf6YAWG4",
-    "name": "CHEZ SULTAN",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Liège",
-    "address": "CHEZ SULTAN, Bd d'Avroy 34, 4000 Liège",
-    "street": "Bd d'Avroy 34",
-    "postal_code": "4000",
-    "region": null,
-    "latitude": 50.638728,
-    "longitude": 5.5678652,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=CHEZ%20SULTAN&query_place_id=ChIJ9UKUlBr6wEcRtFYTf6YAWG4",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "11 am–12 am"
-      ],
-      "Wednesday": [
-        "11 am–12 am"
-      ],
-      "Thursday": [
-        "Closed"
-      ],
-      "Friday": [
-        "11 am–12 am"
-      ],
-      "Saturday": [
-        "Open 24 hours"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 7,
-    "rating": 3.9,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd_WF8rn_yL_cLv_ld882cPxeEspST2hk9L84DxWw7OsYNVm8tisO1rB5f6YNZ-3tbPXF-L-s_Y2oh7j5J_DhKlm8Q6MjmpAeuWa2sAHJt0jOI2VBdN6ViMRSYiSvEF46vtQFSPe3Ug9bff=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd_WF8rn_yL_cLv_ld882cPxeEspST2hk9L84DxWw7OsYNVm8tisO1rB5f6YNZ-3tbPXF-L-s_Y2oh7j5J_DhKlm8Q6MjmpAeuWa2sAHJt0jOI2VBdN6ViMRSYiSvEF46vtQFSPe3Ug9bff=w1000-h750-no",
-    "source_query": "Hypermarket in Liège, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJn1U3WDn7wEcROYec-ydlwd4",
-    "name": "CHEZ YAYA EN ROTURE",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Liège",
-    "address": "CHEZ YAYA EN ROTURE, Rue Roture 27, 4020 Liège",
-    "street": "Rue Roture 27",
-    "postal_code": "4020",
-    "region": null,
-    "latitude": 50.639810399999995,
-    "longitude": 5.582614899999999,
-    "phone": "04 343 17 07",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=CHEZ%20YAYA%20EN%20ROTURE&query_place_id=ChIJn1U3WDn7wEcROYec-ydlwd4",
-    "open_hours_json": {
-      "Monday": [
-        "6–10 pm"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "6–10 pm"
-      ],
-      "Thursday": [
-        "6–10 pm"
-      ],
-      "Friday": [
-        "6–10 pm"
-      ],
-      "Saturday": [
-        "6–10 pm"
-      ],
-      "Sunday": [
-        "12–3 pm",
-        "6–10 pm"
-      ]
-    },
-    "review_count": 35,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdO4JoX7a1DsSNNDkJL5taPq5tB0p__XQMdG_izCSZSowxBvrFthnz5cftd0uiiH15sBHnzjzjFr3-nt0JJPm4cBFQfePhT95Ew70rlZR4rdRJO8OSWN9rPz9rXHakVNq6L4ssf=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdO4JoX7a1DsSNNDkJL5taPq5tB0p__XQMdG_izCSZSowxBvrFthnz5cftd0uiiH15sBHnzjzjFr3-nt0JJPm4cBFQfePhT95Ew70rlZR4rdRJO8OSWN9rPz9rXHakVNq6L4ssf=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Seraing, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJdUz6Hxf7wEcRQTGiHRy99B8",
-    "name": "CHINGOO - Asian Street Food",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Liège",
-    "address": "CHINGOO - Asian Street Food, Rue Sur-la-Fontaine 116, 4000 Liège",
-    "street": "Rue Sur-la-Fontaine 116",
-    "postal_code": "4000",
-    "region": null,
-    "latitude": 50.6400966,
-    "longitude": 5.5679321999999996,
-    "phone": "04 223 59 88",
-    "website": "http://chingoo.squarespace.com/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=CHINGOO%20-%20Asian%20Street%20Food&query_place_id=ChIJdUz6Hxf7wEcRQTGiHRy99B8",
-    "open_hours_json": {
-      "Monday": [
-        "12–9:30 pm"
-      ],
-      "Tuesday": [
-        "12–3 pm",
-        "4–9:30 pm"
-      ],
-      "Wednesday": [
-        "12–3 pm",
-        "4–9:30 pm"
-      ],
-      "Thursday": [
-        "12–9:30 pm"
-      ],
-      "Friday": [
-        "12–9:30 pm"
-      ],
-      "Saturday": [
-        "12:30–3:15 pm",
-        "4:30–9:30 pm"
-      ],
-      "Sunday": [
-        "12:30–3:15 pm",
-        "4:30–9:30 pm"
-      ]
-    },
-    "review_count": 222,
-    "rating": 4.5,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfYLfty7nO3UVAqg4-CegqUTZC4KZLK3TW2kAvT07JofMOpjQsIKhDBd03C9QqT5a_x6FevZ2yB3VtpMBPwCajkQenC2G_YpmzM9cqMpJZ2gS_3bL3heIZ_A9vAgvEoElFY4esD=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfYLfty7nO3UVAqg4-CegqUTZC4KZLK3TW2kAvT07JofMOpjQsIKhDBd03C9QqT5a_x6FevZ2yB3VtpMBPwCajkQenC2G_YpmzM9cqMpJZ2gS_3bL3heIZ_A9vAgvEoElFY4esD=w1000-h750-no",
-    "source_query": "Halal restaurant in Liège, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJicMPrBH6wEcRoSHGLDNDjSI",
-    "name": "COURT-CIRCUIT, le marché des producteurs locaux",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Liège",
-    "address": "COURT-CIRCUIT, le marché des producteurs locaux, Pl. de la Cathédrale, 4000 Liège",
-    "street": "Pl. de la Cathédrale",
-    "postal_code": "4000",
-    "region": null,
-    "latitude": 50.6408707,
-    "longitude": 5.571936099999999,
-    "phone": "04 221 92 29",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=COURT-CIRCUIT%2C%20le%20march%C3%A9%20des%20producteurs%20locaux&query_place_id=ChIJicMPrBH6wEcRoSHGLDNDjSI",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "12–6 pm"
-      ],
-      "Friday": [
-        "Closed"
-      ],
-      "Saturday": [
-        "Closed"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 15,
-    "rating": 4.5,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeGiFkM71LdyJ5GLIQiX-YO4_R9nv7EcteUv0ehy3hCOShwrGXpjGVE6d_6eNPXTiMlm2kV0eWdEyHZHCba1eXI4crpjkOESDjTYHGJUs_SsPfiDzefBCm2asuNEsO22Ofzt3fqXw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeGiFkM71LdyJ5GLIQiX-YO4_R9nv7EcteUv0ehy3hCOShwrGXpjGVE6d_6eNPXTiMlm2kV0eWdEyHZHCba1eXI4crpjkOESDjTYHGJUs_SsPfiDzefBCm2asuNEsO22Ofzt3fqXw=w1000-h750-no",
-    "source_query": "Hypermarket in Liège, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJB5Ftgrv5wEcR0OhYXGmQiVM",
-    "name": "Casta",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Liège",
-    "address": "Casta, Ave Blonden 72, 4000 Liège",
-    "street": "Ave Blonden 72",
-    "postal_code": "4000",
-    "region": null,
-    "latitude": 50.628047699999996,
-    "longitude": 5.5713706,
-    "phone": "02 502 20 16",
-    "website": "http://thelobsterhouse.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Casta&query_place_id=ChIJB5Ftgrv5wEcR0OhYXGmQiVM",
-    "open_hours_json": null,
-    "review_count": 0,
-    "rating": null,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vlxDs_bbJQwN_Y4OR40-sg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=221.59494&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vlxDs_bbJQwN_Y4OR40-sg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=221.59494&pitch=0&thumbfov=w1000-h750-no",
-    "source_query": "Fish restaurant in Liège, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJL-7nrTP6wEcR3AS6KBxRbrs",
-    "name": "Centre Culturel Bilal Liege",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Liège",
-    "address": "Centre Culturel Bilal Liege, Rue Emile Vandervelde 292, 4000 Liège",
-    "street": "Rue Emile Vandervelde 292",
-    "postal_code": "4000",
-    "region": null,
-    "latitude": 50.6452574,
-    "longitude": 5.5394494,
-    "phone": "04 225 07 59",
-    "website": "https://ccbl.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Centre%20Culturel%20Bilal%20Liege&query_place_id=ChIJL-7nrTP6wEcR3AS6KBxRbrs",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcw0mpzs_huASBRCDb6HmlWun6ylBGShQ_vo0xt8lZ8WNP0X5mCvjy4gMhWHWqarR23_KUbrhi6XLUKMEMHQCnBB3uqfU02mE5iIPWk059ZcspjwbGCeQ_gZJTk7SgEMGMQAsSHbHSI5EA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcw0mpzs_huASBRCDb6HmlWun6ylBGShQ_vo0xt8lZ8WNP0X5mCvjy4gMhWHWqarR23_KUbrhi6XLUKMEMHQCnBB3uqfU02mE5iIPWk059ZcspjwbGCeQ_gZJTk7SgEMGMQAsSHbHSI5EA=w1000-h750-no",
-    "rating": 4.8,
-    "review_count": 92,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJWwGkrHHxwEcRAKHa7Inzjgw",
-    "name": "Centre culturel pakistanais - mosquée Ya Rassulullah",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Liège",
-    "address": "Centre culturel pakistanais - mosquée Ya Rassulullah, Rue aux Chevaux 35a, 4000 Liège",
-    "street": "Rue aux Chevaux 35a",
-    "postal_code": "4000",
-    "region": null,
-    "latitude": 50.652665,
-    "longitude": 5.604887,
-    "phone": "0489 87 18 68",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Centre%20culturel%20pakistanais%20-%20mosqu%C3%A9e%20Ya%20Rassulullah&query_place_id=ChIJWwGkrHHxwEcRAKHa7Inzjgw",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLejF7GGuq6p10y_qvvFnf6OekXmUJYwg53ylLlARAkO2YUT0jyIM2QErvbtTxyrMNQWG_QSq7ht5bLLFiYUBbSvwtYC3l32KQ-BSohi3Sf9FbL0RpUTeGWJS3MMkxIFaQZCEcEB=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLejF7GGuq6p10y_qvvFnf6OekXmUJYwg53ylLlARAkO2YUT0jyIM2QErvbtTxyrMNQWG_QSq7ht5bLLFiYUBbSvwtYC3l32KQ-BSohi3Sf9FbL0RpUTeGWJS3MMkxIFaQZCEcEB=w1000-h750-no",
-    "rating": 4.3,
-    "review_count": 4,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJ-X3XBBD6wEcRgFgXpMitHNk",
-    "name": "Chamas Tacos Liège",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Liège",
-    "address": "Chamas Tacos Liège, Rue Pont d'Avroy 32, 4000 Liège",
-    "street": "Rue Pont d'Avroy 32",
-    "postal_code": "4000",
-    "region": null,
-    "latitude": 50.640623,
-    "longitude": 5.569755,
-    "phone": "04 341 33 39",
-    "website": "http://www.chamas-tacos.com/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chamas%20Tacos%20Li%C3%A8ge&query_place_id=ChIJ-X3XBBD6wEcRgFgXpMitHNk",
-    "open_hours_json": {
-      "Monday": [
-        "11 am–11 pm"
-      ],
-      "Tuesday": [
-        "11 am–11 pm"
-      ],
-      "Wednesday": [
-        "11 am–11 pm"
-      ],
-      "Thursday": [
-        "11 am–11 pm"
-      ],
-      "Friday": [
-        "11 am–12 am"
-      ],
-      "Saturday": [
-        "11 am–12 am"
-      ],
-      "Sunday": [
-        "12–11 pm"
-      ]
-    },
-    "review_count": 1498,
-    "rating": 3.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfb7Ax6RnG7UdXWph0QLFMVJZ2YgXeYmUql6i84gXhARtqSi8X1pQvJ5BLTEhAZegRzPKUGqy6V3O_zs6ViY_ceXHAC23zwjZIvP34LUvqcqvUOGtpzXWvUHuL1rX3BVhOJ80In=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfb7Ax6RnG7UdXWph0QLFMVJZ2YgXeYmUql6i84gXhARtqSi8X1pQvJ5BLTEhAZegRzPKUGqy6V3O_zs6ViY_ceXHAC23zwjZIvP34LUvqcqvUOGtpzXWvUHuL1rX3BVhOJ80In=w1000-h750-no",
-    "source_query": "Halal restaurant in Liers, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "VERIFIED",
-    "verification_evidence": "Explicit Halal keyword indicators in listing metadata"
-  },
-  {
-    "place_id": "ChIJAX3KATnxwEcRy8lLDK5hFXo",
-    "name": "Chef City Liège",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Liège",
-    "address": "Chef City Liège, Rue Grétry 129, 4020 Liège",
-    "street": "Rue Grétry 129",
-    "postal_code": "4020",
-    "region": null,
-    "latitude": 50.6334972,
-    "longitude": 5.5829338,
-    "phone": "0465 56 80 63",
-    "website": "https://www.takeaway.com/be/menu/chef-city-snack?sharingId=i1668729737808",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chef%20City%20Li%C3%A8ge&query_place_id=ChIJAX3KATnxwEcRy8lLDK5hFXo",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc7q4UtkUokAXf1pR67xPcCeH96nBHo-Eqkbl1pv2m8OSoBhb7OvlWIemhV4m0RTUmn631vMwpMgtrYY7P4-uX792v8_SMLSK0cp3hGGjrAFbUlxvqEeS7euIq48ZzwyMlCiLD7=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc7q4UtkUokAXf1pR67xPcCeH96nBHo-Eqkbl1pv2m8OSoBhb7OvlWIemhV4m0RTUmn631vMwpMgtrYY7P4-uX792v8_SMLSK0cp3hGGjrAFbUlxvqEeS7euIq48ZzwyMlCiLD7=w1000-h750-no",
-    "rating": 4.5,
-    "review_count": 286,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJ0SU2uh37wEcR0DU_j66N5F4",
-    "name": "Chez Bouba traiteur",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Liège",
-    "address": "Chez Bouba traiteur, Chau. de Tongres 31, 4000 Liège",
-    "street": "Chau. de Tongres 31",
-    "postal_code": "4000",
-    "region": null,
-    "latitude": 50.6647555,
-    "longitude": 5.560364799999999,
-    "phone": "04 226 29 36",
-    "website": "http://www.chezboubatraiteur.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chez%20Bouba%20traiteur&query_place_id=ChIJ0SU2uh37wEcR0DU_j66N5F4",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "5–9 pm"
-      ],
-      "Wednesday": [
-        "11 am–2 pm",
-        "5–9 pm"
-      ],
-      "Thursday": [
-        "11 am–2 pm",
-        "5–9 pm"
-      ],
-      "Friday": [
-        "11 am–2 pm",
-        "5–9 pm"
-      ],
-      "Saturday": [
-        "11 am–2 pm",
-        "5–9 pm"
-      ],
-      "Sunday": [
-        "5–9 pm"
-      ]
-    },
-    "review_count": 230,
-    "rating": 4.5,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcaORfsX03bsFtI6kQxOGjUmwuw2rWpe5lPQf62oZPP_YrBrzu3S2TynCSiCWtxbJkuV4WkCXUeUnsVAt2ZE1fag20Kyeh4ERza7dPO1WVxs9rNMixOROCZw3qxDE6S-X0IfDM=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcaORfsX03bsFtI6kQxOGjUmwuw2rWpe5lPQf62oZPP_YrBrzu3S2TynCSiCWtxbJkuV4WkCXUeUnsVAt2ZE1fag20Kyeh4ERza7dPO1WVxs9rNMixOROCZw3qxDE6S-X0IfDM=w1000-h750-no",
-    "source_query": "Halal restaurant in Liers, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJcd4o-gv6wEcRAy3-4a2kCVA",
-    "name": "Chez Nathalie",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Liège",
-    "address": "Chez Nathalie, Rue de la Goffe 12, 4000 Liège",
-    "street": "Rue de la Goffe 12",
-    "postal_code": "4000",
-    "region": null,
-    "latitude": 50.6452794,
-    "longitude": 5.577951,
-    "phone": "04 222 16 57",
-    "website": "https://m.facebook.com/restaurantcheznathalieliege/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chez%20Nathalie&query_place_id=ChIJcd4o-gv6wEcRAy3-4a2kCVA",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "Closed"
-      ],
-      "Friday": [
-        "6–11 pm"
-      ],
-      "Saturday": [
-        "6–11 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 252,
-    "rating": 4.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdZQdDcJ-sIM2g0VZPTnFUsmHxvXoGBw28zZDo_8sBPVYQj2SI391Wpz6ijOWAn82e7VFCyvvGUyWKrhoZLQdwyTXy599crs0MKK_I7jnQlqcswtX0Elu5vX3RziYMQ0HBcxrAcZg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdZQdDcJ-sIM2g0VZPTnFUsmHxvXoGBw28zZDo_8sBPVYQj2SI391Wpz6ijOWAn82e7VFCyvvGUyWKrhoZLQdwyTXy599crs0MKK_I7jnQlqcswtX0Elu5vX3RziYMQ0HBcxrAcZg=w1000-h750-no",
-    "source_query": "Fish restaurant in Liège, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJmTZHkg76wEcRQIwW7rsrTzA",
-    "name": "Chez Tasso",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Liège",
-    "address": "Chez Tasso, Rue Souverain Pont 5, 4000 Liège",
-    "street": "Rue Souverain Pont 5",
-    "postal_code": "4000",
-    "region": null,
-    "latitude": 50.6445945,
-    "longitude": 5.5746443,
-    "phone": "0497 06 08 29",
-    "website": "https://m.facebook.com/Chez-Tasso-127486450600377/?locale2=fr_FR",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chez%20Tasso&query_place_id=ChIJmTZHkg76wEcRQIwW7rsrTzA",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "6–11 pm"
-      ],
-      "Thursday": [
-        "6–11 pm"
-      ],
-      "Friday": [
-        "6–11 pm"
-      ],
-      "Saturday": [
-        "6–11 pm"
-      ],
-      "Sunday": [
-        "12–11 pm"
-      ]
-    },
-    "review_count": 244,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd4ChGeoh9GoJAamapAT_lajLTtcHMtkDtyWSXULXW4MQ65WhPoOikEOqsKdp-c4E8Eir9L1CjI4_4SXYXHLuQc2UxruriWIku-N_ztn9c2x1mf_0Omr_o3RKn1rP9xBXrcBV24ljJOScY=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd4ChGeoh9GoJAamapAT_lajLTtcHMtkDtyWSXULXW4MQ65WhPoOikEOqsKdp-c4E8Eir9L1CjI4_4SXYXHLuQc2UxruriWIku-N_ztn9c2x1mf_0Omr_o3RKn1rP9xBXrcBV24ljJOScY=w1000-h750-no",
-    "source_query": "Fish restaurant in Liège, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJbctDPMXxwEcRTlbIXmStXf4",
-    "name": "Chez les amis",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Liège",
-    "address": "Chez les amis, Bd de la Constitution 64, 4020 Liège",
-    "street": "Bd de la Constitution 64",
-    "postal_code": "4020",
-    "region": null,
-    "latitude": 50.6436457,
-    "longitude": 5.5868952,
-    "phone": "0466 37 85 21",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chez%20les%20amis&query_place_id=ChIJbctDPMXxwEcRTlbIXmStXf4",
-    "open_hours_json": {
-      "Monday": [
-        "11:30 am–11 pm"
-      ],
-      "Tuesday": [
-        "11:30 am–11 pm"
-      ],
-      "Wednesday": [
-        "12–11 pm"
-      ],
-      "Thursday": [
-        "11:30 am–11 pm"
-      ],
-      "Friday": [
-        "11:30 am–11 pm"
-      ],
-      "Saturday": [
-        "12–11 pm"
-      ],
-      "Sunday": [
-        "12–11 pm"
-      ]
-    },
-    "review_count": 151,
-    "rating": 4.2,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLch_4tbsXkCMjwp5Aspbqm9MhDsRLt6pL_gfRacIRTrLux0KpF8_Av2eaRFADnA1AEHnZOQ9xQCNJYviYO_4n-n-IxpkfOiGax6IrDIVq9MlSqsV9mtee4KXBfmKAUH8znN3D0t=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLch_4tbsXkCMjwp5Aspbqm9MhDsRLt6pL_gfRacIRTrLux0KpF8_Av2eaRFADnA1AEHnZOQ9xQCNJYviYO_4n-n-IxpkfOiGax6IrDIVq9MlSqsV9mtee4KXBfmKAUH8znN3D0t=w1000-h750-no",
-    "source_query": "Fish restaurant in Liège, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJG-JXIDX7wEcRtbu6E4v1xHo",
-    "name": "Chicken Mood liege",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Liège",
-    "address": "Chicken Mood liege, Rue Grétry 97, 4020 Liège",
-    "street": "Rue Grétry 97",
-    "postal_code": "4020",
-    "region": null,
-    "latitude": 50.6346171,
-    "longitude": 5.5818157,
-    "phone": "04 378 39 22",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chicken%20Mood%20liege&query_place_id=ChIJG-JXIDX7wEcRtbu6E4v1xHo",
-    "open_hours_json": null,
-    "review_count": 15,
-    "rating": 4.2,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd_suEBMtUrqCHkG6X6MlkPcDX-g5S2oM-u4bOvjY3NoLspfIPTWbY2mpMHVKdqjOV2lGX9mKieJFwGDWFMMvnshVrhLihTUNe_eeUX75tjVs6ive8-9KD7YkyXg5io4rCosXaIDA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd_suEBMtUrqCHkG6X6MlkPcDX-g5S2oM-u4bOvjY3NoLspfIPTWbY2mpMHVKdqjOV2lGX9mKieJFwGDWFMMvnshVrhLihTUNe_eeUX75tjVs6ive8-9KD7YkyXg5io4rCosXaIDA=w1000-h750-no",
-    "source_query": "Halal restaurant in Seraing, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "VERIFIED",
-    "verification_evidence": "Explicit Halal keyword indicators in listing metadata"
-  },
-  {
-    "place_id": "ChIJwZbAEwD7wEcRw8bgI47bXUg",
-    "name": "Comandan SuperMarket",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Liège",
-    "address": "Comandan SuperMarket, Rue Gérardrie 21, 4000 Liège",
-    "street": "Rue Gérardrie 21",
-    "postal_code": "4000",
-    "region": null,
-    "latitude": 50.644295199999995,
-    "longitude": 5.5742435,
-    "phone": "0465 10 04 64",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Comandan%20SuperMarket&query_place_id=ChIJwZbAEwD7wEcRw8bgI47bXUg",
-    "open_hours_json": {
-      "Monday": [
-        "12 pm–1 am"
-      ],
-      "Tuesday": [
-        "12 pm–1 am"
-      ],
-      "Wednesday": [
-        "12 pm–1 am"
-      ],
-      "Thursday": [
-        "12 pm–1 am"
-      ],
-      "Friday": [
-        "1 pm–1 am"
-      ],
-      "Saturday": [
-        "12 pm–1 am"
-      ],
-      "Sunday": [
-        "12 pm–1 am"
-      ]
-    },
-    "review_count": 1,
-    "rating": 5.0,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe44Am6I21wrlZlB-cu3zKCvVpwlGaJleP9vwKKCtGcsJ-_GVk6o68F9lWZbStID7liwIY2IjMjvwC3OySThMMvP3FVw6i5yeEsphqUrXcvpJZPy37zqiqMZHt3ENAhYA_Sfw2JLoBb71Ge=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe44Am6I21wrlZlB-cu3zKCvVpwlGaJleP9vwKKCtGcsJ-_GVk6o68F9lWZbStID7liwIY2IjMjvwC3OySThMMvP3FVw6i5yeEsphqUrXcvpJZPy37zqiqMZHt3ENAhYA_Sfw2JLoBb71Ge=w1000-h750-no",
-    "source_query": "Hypermarket in Liège, Wallonia, BE",
     "moderation_status": "approved",
     "is_active": true,
     "verification_status": "UNVERIFIED",

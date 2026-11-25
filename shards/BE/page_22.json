@@ -1,5 +1,828 @@
 [
   {
+    "place_id": "ChIJfy-_BAx8wEcRiLSXFyCctJE",
+    "name": "Le Marie-Catherine",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Malmedy",
+    "address": "Le Marie-Catherine, Rte de la Frm Libert 33, 4960 Malmedy",
+    "street": "Rte de la Frm Libert 33",
+    "postal_code": "4960",
+    "region": null,
+    "latitude": 50.446111099999996,
+    "longitude": 6.0325,
+    "phone": "080 78 51 69",
+    "website": "http://www.lemariecatherine.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Marie-Catherine&query_place_id=ChIJfy-_BAx8wEcRiLSXFyCctJE",
+    "open_hours_json": null,
+    "review_count": 262,
+    "rating": 4.2,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe2TSAlWw1zRqsWLW7MgNYvVZXoPZr-TN01hRtmwi1EBwrjtKyI_tW58yD-j2GoWMMwxNaxGcvvXmdSIHXoBbf92I2elDGwu6vbyW1HRmhJie0iQqBl8I9t4R-BxeAsJE8PnYP_7ehIrQXf=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe2TSAlWw1zRqsWLW7MgNYvVZXoPZr-TN01hRtmwi1EBwrjtKyI_tW58yD-j2GoWMMwxNaxGcvvXmdSIHXoBbf92I2elDGwu6vbyW1HRmhJie0iQqBl8I9t4R-BxeAsJE8PnYP_7ehIrQXf=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Malmédy, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJyUv8ypV7wEcRv57Fr6GPWh0",
+    "name": "Le Sparta",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Malmedy",
+    "address": "Le Sparta, Av. des Alliés 23, 4960 Malmedy",
+    "street": "Av. des Alliés 23",
+    "postal_code": "4960",
+    "region": null,
+    "latitude": 50.4244324,
+    "longitude": 6.021411,
+    "phone": "080 33 91 11",
+    "website": "https://ausparta.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Sparta&query_place_id=ChIJyUv8ypV7wEcRv57Fr6GPWh0",
+    "open_hours_json": {
+      "Monday": [
+        "5:30–10 pm"
+      ],
+      "Tuesday": [
+        "5:30–10 pm"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "Closed"
+      ],
+      "Friday": [
+        "5:30–10:30 pm"
+      ],
+      "Saturday": [
+        "5:30–10:30 pm"
+      ],
+      "Sunday": [
+        "11:30 am–3 pm",
+        "5:30–10:30 pm"
+      ]
+    },
+    "review_count": 1180,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd3u8ZbdGMmuIhYwczFhpEcymgI42fzWavqpaeb2A0uCLMn9zKrVD5Ssc-qKpNs2GqIPSq9jtfS-BtKakTxznUU1VqO91YLM25Ky-fa4s5fy8D0T4VHuEx3fPdbZcAzRAguxiuvQw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd3u8ZbdGMmuIhYwczFhpEcymgI42fzWavqpaeb2A0uCLMn9zKrVD5Ssc-qKpNs2GqIPSq9jtfS-BtKakTxznUU1VqO91YLM25Ky-fa4s5fy8D0T4VHuEx3fPdbZcAzRAguxiuvQw=w1000-h750-no",
+    "source_query": "Halal restaurant in Malmédy, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJFeRL3uZ7wEcR47nnF6GU22c",
+    "name": "Le Wok",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Malmedy",
+    "address": "Le Wok, Av. Monbijou 53, 4960 Malmedy",
+    "street": "Av. Monbijou 53",
+    "postal_code": "4960",
+    "region": null,
+    "latitude": 50.422054599999996,
+    "longitude": 6.0389678,
+    "phone": "080 86 26 86",
+    "website": "https://www.facebook.com/profile.php?id=61565614751907",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Wok&query_place_id=ChIJFeRL3uZ7wEcR47nnF6GU22c",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "12–2:30 pm",
+        "6–10 pm"
+      ],
+      "Wednesday": [
+        "12–2:30 pm",
+        "6–10 pm"
+      ],
+      "Thursday": [
+        "12–2:30 pm",
+        "6–10 pm"
+      ],
+      "Friday": [
+        "12–2:30 pm",
+        "6–10 pm"
+      ],
+      "Saturday": [
+        "12–2:30 pm",
+        "6–10 pm"
+      ],
+      "Sunday": [
+        "12–2:30 pm",
+        "6–10 pm"
+      ]
+    },
+    "review_count": 716,
+    "rating": 3.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd03U4LoikXOjHwgOol4EPvFQmzZp4cPdhRiESv4ccSQlkQotd7y0lpLFCncD5JcNZwmv4leGOZlfC_Er8ax71sYRewzCmYjfDgM2tFzIDFeX8PXYzFDavVjsUzVC7pkqZ57BpxVA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd03U4LoikXOjHwgOol4EPvFQmzZp4cPdhRiESv4ccSQlkQotd7y0lpLFCncD5JcNZwmv4leGOZlfC_Er8ax71sYRewzCmYjfDgM2tFzIDFeX8PXYzFDavVjsUzVC7pkqZ57BpxVA=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Malmédy, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJdQkq2q17wEcRIYxH314OXWg",
+    "name": "MY Restaurant",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Malmedy",
+    "address": "MY Restaurant, Rue Devant les Grands Moulins 25, 4960 Malmedy",
+    "street": "Rue Devant les Grands Moulins 25",
+    "postal_code": "4960",
+    "region": null,
+    "latitude": 50.429534,
+    "longitude": 6.0260814,
+    "phone": "080 78 00 00",
+    "website": "http://www.myhotel.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=MY%20Restaurant&query_place_id=ChIJdQkq2q17wEcRIYxH314OXWg",
+    "open_hours_json": {
+      "Monday": [
+        "12–2 pm",
+        "6:30–9:30 pm"
+      ],
+      "Tuesday": [
+        "12–2 pm",
+        "6:30–9:30 pm"
+      ],
+      "Wednesday": [
+        "12–2 pm",
+        "6:30–9:30 pm"
+      ],
+      "Thursday": [
+        "12–2 pm",
+        "6:30–9:30 pm"
+      ],
+      "Friday": [
+        "12–2 pm",
+        "6:30–10:30 pm"
+      ],
+      "Saturday": [
+        "12–2 pm",
+        "6:30–10:30 pm"
+      ],
+      "Sunday": [
+        "12–2 pm",
+        "6:30–9:30 pm"
+      ]
+    },
+    "review_count": 235,
+    "rating": 4.4,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdla9hRwvTZfD7DNiR-nATS6EOJboZDi0VAEKwm0bMDSfNOw4jA0E44bpejnk-myKOPn1TCcEv38uloH80x0I6LUL9mDR3IuHyu0nQ0davdL4oD_porbnF_WylgkUhj6n0kSXMF-Q=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdla9hRwvTZfD7DNiR-nATS6EOJboZDi0VAEKwm0bMDSfNOw4jA0E44bpejnk-myKOPn1TCcEv38uloH80x0I6LUL9mDR3IuHyu0nQ0davdL4oD_porbnF_WylgkUhj6n0kSXMF-Q=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Malmédy, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJHV6mSe97wEcRg1tEAqltho4",
+    "name": "Maison Adam animalerie pèche Malmedy",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Malmedy",
+    "address": "Maison Adam animalerie pèche Malmedy, Rue Neuve 9, 4960 Malmedy",
+    "street": "Rue Neuve 9",
+    "postal_code": "4960",
+    "region": null,
+    "latitude": 50.424988299999995,
+    "longitude": 6.033363,
+    "phone": "080 33 08 34",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Maison%20Adam%20animalerie%20p%C3%A8che%20Malmedy&query_place_id=ChIJHV6mSe97wEcRg1tEAqltho4",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "9 am–12:30 pm",
+        "1:30–6:30 pm"
+      ],
+      "Wednesday": [
+        "9 am–12:30 pm",
+        "1:30–6:30 pm"
+      ],
+      "Thursday": [
+        "9 am–12:30 pm",
+        "1:30–6:30 pm"
+      ],
+      "Friday": [
+        "9 am–12:30 pm",
+        "1:30–6:30 pm"
+      ],
+      "Saturday": [
+        "9 am–12:30 pm",
+        "1:30–6 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 136,
+    "rating": 4.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLchQdTRHtJWzUCwRYEMO8TrbdOa7Kaxc4YuPcdci-JtGMkpPeJ3rmq7sTPpcAo6zOHgWfizud59UbGQtP7NmRDlBGX7WIDSggdKS4PfxHntGhii9-k4Kie4U63RtCtxqaBBbLer=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLchQdTRHtJWzUCwRYEMO8TrbdOa7Kaxc4YuPcdci-JtGMkpPeJ3rmq7sTPpcAo6zOHgWfizud59UbGQtP7NmRDlBGX7WIDSggdKS4PfxHntGhii9-k4Kie4U63RtCtxqaBBbLer=w1000-h750-no",
+    "source_query": "Fish restaurant in Malmédy, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJwVg6Vux7wEcRpHakcJVVSgM",
+    "name": "Micha Boucherie",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Malmedy",
+    "address": "Micha Boucherie, Pl. Albert Ier 26, 4960 Malmedy",
+    "street": "Pl. Albert Ier 26",
+    "postal_code": "4960",
+    "region": null,
+    "latitude": 50.4252852,
+    "longitude": 6.029699099999999,
+    "phone": "080 33 03 24",
+    "website": "https://www.micha-malmedy.be/fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Micha%20Boucherie&query_place_id=ChIJwVg6Vux7wEcRpHakcJVVSgM",
+    "open_hours_json": {
+      "Monday": [
+        "8 am–6:30 pm"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "8 am–6:30 pm"
+      ],
+      "Thursday": [
+        "8 am–6:30 pm"
+      ],
+      "Friday": [
+        "8 am–6:30 pm"
+      ],
+      "Saturday": [
+        "8 am–6:30 pm"
+      ],
+      "Sunday": [
+        "8 am–6 pm"
+      ]
+    },
+    "review_count": 106,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLftksO-56RpbEMB93wMf4kp1wOam42f4VhU3Lqs9qEj1zeFfVn4i4-eXX0a06vrrl4xE2mPnNbrruZ8f74Pqy4WThLOThPVdCeCxdEFOYejo96XTqdJjSzfi7s2AGPdGpdqR92r=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLftksO-56RpbEMB93wMf4kp1wOam42f4VhU3Lqs9qEj1zeFfVn4i4-eXX0a06vrrl4xE2mPnNbrruZ8f74Pqy4WThLOThPVdCeCxdEFOYejo96XTqdJjSzfi7s2AGPdGpdqR92r=w1000-h750-no",
+    "source_query": "Fish restaurant in Malmédy, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJQ0Wn4-J7wEcR37h5VnDz4hM",
+    "name": "Nice Pizza",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Malmedy",
+    "address": "Nice Pizza, Rue du Commerce 3, 4960 Malmedy",
+    "street": "Rue du Commerce 3",
+    "postal_code": "4960",
+    "region": null,
+    "latitude": 50.425399299999995,
+    "longitude": 6.0304058,
+    "phone": "080 39 90 89",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Nice%20Pizza&query_place_id=ChIJQ0Wn4-J7wEcR37h5VnDz4hM",
+    "open_hours_json": {
+      "Monday": [
+        "5–10 pm"
+      ],
+      "Tuesday": [
+        "5–10 pm"
+      ],
+      "Wednesday": [
+        "5–10 pm"
+      ],
+      "Thursday": [
+        "5–10 pm"
+      ],
+      "Friday": [
+        "5–10 pm"
+      ],
+      "Saturday": [
+        "5–10 pm"
+      ],
+      "Sunday": [
+        "5–10 pm"
+      ]
+    },
+    "review_count": 83,
+    "rating": 3.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeQrc_5rjtKsvxcsKKikn6ev1NQsosNeygyY5m6XF_EkDfm-FxMRQ3eXZGiNuo3SYkFHTr7ZeJWvM2NdoN-70DFPdj6X6xyYhtvs13VSZIcbE0mLpiNecrJh_BcS7s_TmmYAh5C=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeQrc_5rjtKsvxcsKKikn6ev1NQsosNeygyY5m6XF_EkDfm-FxMRQ3eXZGiNuo3SYkFHTr7ZeJWvM2NdoN-70DFPdj6X6xyYhtvs13VSZIcbE0mLpiNecrJh_BcS7s_TmmYAh5C=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Malmédy, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJD_StiRt6wEcRweCr9Inwpio",
+    "name": "Pisciculture Mathonet-Gabriel",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Malmedy",
+    "address": "Pisciculture Mathonet-Gabriel, Borgueuse Hé, 4960 Malmedy",
+    "street": "Borgueuse Hé",
+    "postal_code": "4960",
+    "region": null,
+    "latitude": 50.3713389,
+    "longitude": 6.0300272,
+    "phone": "080 57 00 40",
+    "website": "http://www.pisciculture-mathonet.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pisciculture%20Mathonet-Gabriel&query_place_id=ChIJD_StiRt6wEcRweCr9Inwpio",
+    "open_hours_json": {
+      "Monday": [
+        "8:30 am–12 pm",
+        "1–4:30 pm"
+      ],
+      "Tuesday": [
+        "8:30 am–12 pm",
+        "1–4:30 pm"
+      ],
+      "Wednesday": [
+        "8:30 am–12 pm",
+        "1–4:30 pm"
+      ],
+      "Thursday": [
+        "8:30 am–12 pm",
+        "1–4:30 pm"
+      ],
+      "Friday": [
+        "8:30 am–12 pm",
+        "1–4:30 pm"
+      ],
+      "Saturday": [
+        "Closed"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 56,
+    "rating": 4.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdOV_pYX-ZhkJlz8HBAjdYu-C4Mi1NZjMTXpJlumLSof9qGJimMy_Ao5Bfo9PB-rjI3XXsVDjnCbwdiEMo4zJa9gwBJGRxxgx1LGZPVCnT2vnTFWfz5RxpXxcS6l-2P10FpzElQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdOV_pYX-ZhkJlz8HBAjdYu-C4Mi1NZjMTXpJlumLSof9qGJimMy_Ao5Bfo9PB-rjI3XXsVDjnCbwdiEMo4zJa9gwBJGRxxgx1LGZPVCnT2vnTFWfz5RxpXxcS6l-2P10FpzElQ=w1000-h750-no",
+    "source_query": "Fish restaurant in Malmédy, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJBx8Spe57wEcRWuZS4hhEUjA",
+    "name": "Poco Pazzo",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Malmedy",
+    "address": "Poco Pazzo, Pl. Albert Ier 24, 4960 Malmedy",
+    "street": "Pl. Albert Ier 24",
+    "postal_code": "4960",
+    "region": null,
+    "latitude": 50.425281899999995,
+    "longitude": 6.029875199999999,
+    "phone": "080 33 84 26",
+    "website": "https://www.pocopazzo.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Poco%20Pazzo&query_place_id=ChIJBx8Spe57wEcRWuZS4hhEUjA",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "12–2 pm",
+        "6–9 pm"
+      ],
+      "Thursday": [
+        "12–2 pm",
+        "6–9 pm"
+      ],
+      "Friday": [
+        "12–2 pm",
+        "6–9 pm"
+      ],
+      "Saturday": [
+        "12–2 pm",
+        "6–9 pm"
+      ],
+      "Sunday": [
+        "12–2 pm",
+        "6–9 pm"
+      ]
+    },
+    "review_count": 573,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdmnIwa8Sxb1xUg9_DHhS-o3aECNsBV8LyjfhbKvEXc_44JXGyks-bbqDDeq6XrcK7KzGQI7GRkFlY3E7hSGUzcQxZ2cQnEEA2kB8D97B4Aae9xqhXlHkMNt-IYs6BVh8qEhNiS=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdmnIwa8Sxb1xUg9_DHhS-o3aECNsBV8LyjfhbKvEXc_44JXGyks-bbqDDeq6XrcK7KzGQI7GRkFlY3E7hSGUzcQxZ2cQnEEA2kB8D97B4Aae9xqhXlHkMNt-IYs6BVh8qEhNiS=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Malmédy, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJVURrbux7wEcRFV3e-LFlAWs",
+    "name": "Poissonnerie Du Petit Pêcheur",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Malmedy",
+    "address": "Poissonnerie Du Petit Pêcheur, Chemin-Rue 51, 4960 Malmedy",
+    "street": "Chemin-Rue 51",
+    "postal_code": "4960",
+    "region": null,
+    "latitude": 50.425686,
+    "longitude": 6.0263839,
+    "phone": "080 77 00 20",
+    "website": "http://www.horaires-societe.be/Poissonnerie-du-Petit-Pecheur/Poissonnerie/Malmedy/28419",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Poissonnerie%20Du%20Petit%20P%C3%AAcheur&query_place_id=ChIJVURrbux7wEcRFV3e-LFlAWs",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "8:30 am–1 pm",
+        "2–6 pm"
+      ],
+      "Wednesday": [
+        "8:30 am–1 pm",
+        "2–6 pm"
+      ],
+      "Thursday": [
+        "8:30 am–1 pm",
+        "2–6 pm"
+      ],
+      "Friday": [
+        "8:30 am–6 pm"
+      ],
+      "Saturday": [
+        "9 am–5:30 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 2,
+    "rating": 5.0,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=AVIGvXXnqTqaP3DJrSclnA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=204.76701&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=AVIGvXXnqTqaP3DJrSclnA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=204.76701&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Fish restaurant in Malmédy, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJlShx2JV7wEcRwshbLH_qh3E",
+    "name": "Péché Mignon",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Malmedy",
+    "address": "Péché Mignon, Av. des Alliés 95, 4960 Malmedy",
+    "street": "Av. des Alliés 95",
+    "postal_code": "4960",
+    "region": null,
+    "latitude": 50.4223036,
+    "longitude": 6.0156718,
+    "phone": "080 64 26 82",
+    "website": "https://www.peche-mignon.com/pages/salon-de-the-malmedy-reservation?v=compact-hero",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=P%C3%A9ch%C3%A9%20Mignon&query_place_id=ChIJlShx2JV7wEcRwshbLH_qh3E",
+    "open_hours_json": {
+      "Monday": [
+        "6 am–6 pm"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "6 am–6 pm"
+      ],
+      "Friday": [
+        "6 am–6 pm"
+      ],
+      "Saturday": [
+        "6 am–6 pm"
+      ],
+      "Sunday": [
+        "6 am–6 pm"
+      ]
+    },
+    "review_count": 652,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeRZiCFy8uaeMeI4YU_HRcQz1q22WbZlBcgwERWPqkmVrMP75nhDIg3gvOHtFiZtgOjfBerCRVvT7gMFTl0tNs3CTCANmSVljOsKLrL2xzONNh3D0hhHWSe0xIOxXXBLu9VkSiv=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeRZiCFy8uaeMeI4YU_HRcQz1q22WbZlBcgwERWPqkmVrMP75nhDIg3gvOHtFiZtgOjfBerCRVvT7gMFTl0tNs3CTCANmSVljOsKLrL2xzONNh3D0hhHWSe0xIOxXXBLu9VkSiv=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Malmédy, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJGce0sZR5wEcRMXrL_XKkyp0",
+    "name": "Pêcherie du Roba",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Malmedy",
+    "address": "Pêcherie du Roba, Rte du Rôba, 4960 Malmedy",
+    "street": "Rte du Rôba",
+    "postal_code": "4960",
+    "region": null,
+    "latitude": 50.3636109,
+    "longitude": 6.0499754999999995,
+    "phone": "080 57 01 93",
+    "website": "https://fr.ardennes-etape.be/vacances-ardenne-Peche-en-etang-103/Val-du-Roba-143.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=P%C3%AAcherie%20du%20Roba&query_place_id=ChIJGce0sZR5wEcRMXrL_XKkyp0",
+    "open_hours_json": {
+      "Monday": [
+        "Open 24 hours"
+      ],
+      "Tuesday": [
+        "Open 24 hours"
+      ],
+      "Wednesday": [
+        "Open 24 hours"
+      ],
+      "Thursday": [
+        "Open 24 hours"
+      ],
+      "Friday": [
+        "Open 24 hours"
+      ],
+      "Saturday": [
+        "Open 24 hours"
+      ],
+      "Sunday": [
+        "Open 24 hours"
+      ]
+    },
+    "review_count": 58,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdqTgmUw4i7tzGDK74XBG4kbSEbth16Qk2LMok0VmtANdx3R0309O_MOrZ33tVOhbKO_BfbpE_o_NREo1Dmxuqx0onWqmvAFUEcoO69eAoEIi7DketV526IH4d8K7svR76AWRxC=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdqTgmUw4i7tzGDK74XBG4kbSEbth16Qk2LMok0VmtANdx3R0309O_MOrZ33tVOhbKO_BfbpE_o_NREo1Dmxuqx0onWqmvAFUEcoO69eAoEIi7DketV526IH4d8K7svR76AWRxC=w1000-h750-no",
+    "source_query": "Fish restaurant in Malmédy, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJI-AGy5V7wEcR8YPioZn3sFw",
+    "name": "Quick Malmédy",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Malmedy",
+    "address": "Quick Malmédy, Av. des Alliés 102, 4960 Malmedy",
+    "street": "Av. des Alliés 102",
+    "postal_code": "4960",
+    "region": null,
+    "latitude": 50.4225309,
+    "longitude": 6.0136014,
+    "phone": "080 77 04 64",
+    "website": "http://www.quick.be/fr/restaurant/malm%C3%A9dy",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Quick%20Malm%C3%A9dy&query_place_id=ChIJI-AGy5V7wEcR8YPioZn3sFw",
+    "open_hours_json": {
+      "Monday": [
+        "10:30 am–11 pm"
+      ],
+      "Tuesday": [
+        "10:30 am–11 pm"
+      ],
+      "Wednesday": [
+        "10:30 am–11 pm"
+      ],
+      "Thursday": [
+        "10:30 am–11 pm"
+      ],
+      "Friday": [
+        "10:30 am–12 am"
+      ],
+      "Saturday": [
+        "10:30 am–12 am"
+      ],
+      "Sunday": [
+        "10:30 am–11 pm"
+      ]
+    },
+    "review_count": 2236,
+    "rating": 3.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc9t4RaEwmsWTCvQGug7FvJvAT6odfImq5XcF7GwiXAsQtgCHX-apmTzwv4rqqHmXS85MSGHG3SzKUPHd_9nbc6Akr8gSDLoPjqsYrqqv3la84nZit0ne0M7YDVYFqMw38jT1y7bw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc9t4RaEwmsWTCvQGug7FvJvAT6odfImq5XcF7GwiXAsQtgCHX-apmTzwv4rqqHmXS85MSGHG3SzKUPHd_9nbc6Akr8gSDLoPjqsYrqqv3la84nZit0ne0M7YDVYFqMw38jT1y7bw=w1000-h750-no",
+    "source_query": "Fish restaurant in Malmédy, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJeaPwu-57wEcRkY2ZDdfg95o",
+    "name": "Restaurant Mama Mia",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Malmedy",
+    "address": "Restaurant Mama Mia, Pl. Albert Ier 14, 4960 Malmedy",
+    "street": "Pl. Albert Ier 14",
+    "postal_code": "4960",
+    "region": null,
+    "latitude": 50.4257646,
+    "longitude": 6.0295247,
+    "phone": "080 77 12 57",
+    "website": "https://www.facebook.com/profile.php?id=61553261767358",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20Mama%20Mia&query_place_id=ChIJeaPwu-57wEcRkY2ZDdfg95o",
+    "open_hours_json": {
+      "Monday": [
+        "11:30 am–2:30 pm",
+        "5:30–10:30 pm"
+      ],
+      "Tuesday": [
+        "11:30 am–2:30 pm",
+        "5:30–10:30 pm"
+      ],
+      "Wednesday": [
+        "11:30 am–3 pm",
+        "5:30–10:30 pm"
+      ],
+      "Thursday": [
+        "Closed"
+      ],
+      "Friday": [
+        "11:30 am–3 pm",
+        "5:30–10:30 pm"
+      ],
+      "Saturday": [
+        "11:30 am–3 pm",
+        "5:30–10:30 pm"
+      ],
+      "Sunday": [
+        "11:30 am–3 pm",
+        "5:30–10:30 pm"
+      ]
+    },
+    "review_count": 786,
+    "rating": 3.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeBXsGpAqOmKvkIYM0w7RCIQTNlWBLMG7LL3k06PrZfjx_Qh7zjbC4v1YJpnEIAjT4CSG8yw0kIJu-Q54qhq7bVl9gJXlNY8r9ov3K6LlGFsP57F-TeuOUEpD1rYA56sN88Rkw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeBXsGpAqOmKvkIYM0w7RCIQTNlWBLMG7LL3k06PrZfjx_Qh7zjbC4v1YJpnEIAjT4CSG8yw0kIJu-Q54qhq7bVl9gJXlNY8r9ov3K6LlGFsP57F-TeuOUEpD1rYA56sN88Rkw=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Malmédy, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJwx8Spe57wEcRCScqAj3P-zY",
+    "name": "Restaurant Â Vî Mâm'dî",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Malmedy",
+    "address": "Restaurant Â Vî Mâm'dî, Pl. Albert Ier 41, 4960 Malmedy",
+    "street": "Pl. Albert Ier 41",
+    "postal_code": "4960",
+    "region": null,
+    "latitude": 50.4256481,
+    "longitude": 6.0283435999999995,
+    "phone": "080 33 96 36",
+    "website": "https://www.avimamdi-malmedy.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20%C3%82%20V%C3%AE%20M%C3%A2m%27d%C3%AE&query_place_id=ChIJwx8Spe57wEcRCScqAj3P-zY",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "Closed"
+      ],
+      "Friday": [
+        "Closed"
+      ],
+      "Saturday": [
+        "Closed"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 555,
+    "rating": 3.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcPrwJelN7oeIwqoK1ZZYnA5fU_iDUnCS3VPp-h3aJZqf-aQr8v_LnWFiRa3tNcUYaTFukbku9KdHPrPTCT0Gut7M6L162E4a3qL1uglnitNHhlVtdTewOLQQAFnMbwZXltmfdY=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcPrwJelN7oeIwqoK1ZZYnA5fU_iDUnCS3VPp-h3aJZqf-aQr8v_LnWFiRa3tNcUYaTFukbku9KdHPrPTCT0Gut7M6L162E4a3qL1uglnitNHhlVtdTewOLQQAFnMbwZXltmfdY=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Malmédy, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJN_xOyO57wEcRFXFXcz2-evA",
+    "name": "Snack Pita Calimero",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Malmedy",
+    "address": "Snack Pita Calimero, Rue du Commerce 2 A, 4960 Malmedy",
+    "street": "Rue du Commerce 2 A",
+    "postal_code": "4960",
+    "region": null,
+    "latitude": 50.425304,
+    "longitude": 6.0297795999999995,
+    "phone": "0466 36 71 57",
+    "website": "https://www.auxgrilladesducalimero.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Snack%20Pita%20Calimero&query_place_id=ChIJN_xOyO57wEcRFXFXcz2-evA",
+    "open_hours_json": {
+      "Monday": [
+        "11 am–2:30 pm",
+        "5–11 pm"
+      ],
+      "Tuesday": [
+        "11 am–2:30 pm",
+        "5–11 pm"
+      ],
+      "Wednesday": [
+        "11 am–2:30 pm",
+        "5–11 pm"
+      ],
+      "Thursday": [
+        "11 am–2:30 pm",
+        "5–11 pm"
+      ],
+      "Friday": [
+        "11 am–2 pm",
+        "3 pm–12 am"
+      ],
+      "Saturday": [
+        "11 am–2:30 pm",
+        "5–11 pm"
+      ],
+      "Sunday": [
+        "11 am–2:30 pm",
+        "5–11 pm"
+      ]
+    },
+    "review_count": 89,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf36kRQngvN8KU75OJtnMt8aYewI6oHIuap2dtYuD3J7vP0Deenf7O_ZC7_6-jDGBXepHqaRYFS6GF5ZWFpbGs0UNtPYToglDFk4H-A2QytLX2KTb3sbn3874-4J9Q3tXPPsno=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf36kRQngvN8KU75OJtnMt8aYewI6oHIuap2dtYuD3J7vP0Deenf7O_ZC7_6-jDGBXepHqaRYFS6GF5ZWFpbGs0UNtPYToglDFk4H-A2QytLX2KTb3sbn3874-4J9Q3tXPPsno=w1000-h750-no",
+    "source_query": "Halal restaurant in Malmédy, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJVURrbux7wEcRN7vHl91tuLg",
     "name": "Sprl Exo7 - Poissonneries",
     "type": "restaurant",
@@ -2419,8 +3242,8 @@
     "phone": "0483 49 44 74",
     "website": "http://www.arax.be/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Arax&query_place_id=ChIJMWeBx4nlw0cRzeWf3FPG1vA",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc-WFL-I5a98MR3x5wXJevsG1_5-ihOJyt1DQX-2LcTUJs-WWn9LGO2rZmK88zi4EOXq4At2rz1J8ZDy5YKeRp7WH1uhqKipOksBjRzmdXYiLoMJwEDffG7dHCRz0pS8AESFQWZtg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc-WFL-I5a98MR3x5wXJevsG1_5-ihOJyt1DQX-2LcTUJs-WWn9LGO2rZmK88zi4EOXq4At2rz1J8ZDy5YKeRp7WH1uhqKipOksBjRzmdXYiLoMJwEDffG7dHCRz0pS8AESFQWZtg=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfxXQCJ8f_D8VwgRg4YRKBcUjs5XtWhAap-tXlNhIwGkEoNUUnzCb0IIv2mLKapq3TJDBI7UYnL1se75FUyWHHqVD0-NCkQPnxKtdCMjew4cPDq-0v_v-gjLLo7xA8Td5c_tEE9wA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfxXQCJ8f_D8VwgRg4YRKBcUjs5XtWhAap-tXlNhIwGkEoNUUnzCb0IIv2mLKapq3TJDBI7UYnL1se75FUyWHHqVD0-NCkQPnxKtdCMjew4cPDq-0v_v-gjLLo7xA8Td5c_tEE9wA=w1000-h750-no",
     "rating": 4.6,
     "review_count": 496,
     "verification_status": "UNVERIFIED",
@@ -2652,7 +3475,7 @@
     "region": null,
     "latitude": 51.018763799999995,
     "longitude": 4.4822556,
-    "phone": "0483 42 96 37",
+    "phone": null,
     "website": "https://beirutpalacerestaurant.be/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Beirut%20Palace%20-%20Libanees%20Restaurant&query_place_id=ChIJgTfzot3lw0cR2t0L8iSzEMQ",
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeLeDyj-xSQkD7EHh7Pl5RWc-bSRae5NEDh5H_4k_YrHyrp3Jrd1LSbCzpdRcI6NkMRrxdnhBncrpUqebDTNTywkYKDfdZefgNCsxRcAhaoB6uvs6nUpEDGZbKR7_6_NzgeWEloTQ=w1000-h750-no",
@@ -4065,8 +4888,8 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Eethuis%20Mechelen%20Noord&query_place_id=ChIJ5aBrnZ3lw0cRuw-pfE4RJxg",
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdlJVixiE_zr5WVhh9JFUuMeT97P6X617POilgOZh205LHhow3s2S9gupEbX2Hy_4lPd5_aAZktgMImWLTA-YbcBuHBDSvdIxqwhhFwK9ayYY3AwSVJ992bYru9Z2RbIe0QGRxhXlG_5dkn=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdlJVixiE_zr5WVhh9JFUuMeT97P6X617POilgOZh205LHhow3s2S9gupEbX2Hy_4lPd5_aAZktgMImWLTA-YbcBuHBDSvdIxqwhhFwK9ayYY3AwSVJ992bYru9Z2RbIe0QGRxhXlG_5dkn=w1000-h750-no",
-    "rating": 5.0,
-    "review_count": 10,
+    "rating": null,
+    "review_count": 0,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null,
     "is_active": true,
@@ -4749,8 +5572,8 @@
     "phone": "015 20 54 05",
     "website": "http://www.jida.be/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Jida%20bvba&query_place_id=ChIJu2k8AZnlw0cRKX0cMpXRgFM",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdLzsHC_gLVwzZptkrMMmQqrzUZhQCIKZJLQd61qlVTlyUbgHZ0lRtQiyWd2EqWsMvkgX7bl4Vk0SkOVBgoGtYzBmf73Wxfs936jb9BrIuVBwBQxcmekK-plby0ZF8JlAK0_BK07w=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdLzsHC_gLVwzZptkrMMmQqrzUZhQCIKZJLQd61qlVTlyUbgHZ0lRtQiyWd2EqWsMvkgX7bl4Vk0SkOVBgoGtYzBmf73Wxfs936jb9BrIuVBwBQxcmekK-plby0ZF8JlAK0_BK07w=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeqd8DdnKgHcGwO6DR4HHitFHsyw8DAqwSeNrUEAjPAUytX8jlf9IttfmBbuRqHAO1KhH8YKsW-yhS9imvf776AlmKc-G93xwdFoDn8z5kTaarjIXA4Nxbl6FM5Y7XF_sYYFT85PA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeqd8DdnKgHcGwO6DR4HHitFHsyw8DAqwSeNrUEAjPAUytX8jlf9IttfmBbuRqHAO1KhH8YKsW-yhS9imvf776AlmKc-G93xwdFoDn8z5kTaarjIXA4Nxbl6FM5Y7XF_sYYFT85PA=w1000-h750-no",
     "rating": 3.8,
     "review_count": 4,
     "verification_status": "UNVERIFIED",
@@ -5704,32 +6527,6 @@
     "verification_evidence": null
   },
   {
-    "place_id": "ChIJe5xFPsflw0cRK1ndH6T7sP0",
-    "name": "Mechelse Moskee",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Mechelen",
-    "address": "Mechelse Moskee, Olivetenvest 6, 2800 Mechelen",
-    "street": "Olivetenvest 6",
-    "postal_code": "2800",
-    "region": null,
-    "latitude": 51.0300152,
-    "longitude": 4.4702436,
-    "phone": "015 20 40 89",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mechelse%20Moskee&query_place_id=ChIJe5xFPsflw0cRK1ndH6T7sP0",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeXI3hALHwOdtXK_ZtnsJ7oXZodSomL2-9J8bVMG6RWT5zOEn0y4aH7FlmHQiq4WmmsNSBLZvi-FfU6qIJT_T1NtFWSzRN4gSAuZq4ztaTtpRwqSUDNrmL0gVhXIRvjGtiF2k3B=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeXI3hALHwOdtXK_ZtnsJ7oXZodSomL2-9J8bVMG6RWT5zOEn0y4aH7FlmHQiq4WmmsNSBLZvi-FfU6qIJT_T1NtFWSzRN4gSAuZq4ztaTtpRwqSUDNrmL0gVhXIRvjGtiF2k3B=w1000-h750-no",
-    "rating": 4.7,
-    "review_count": 169,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
     "place_id": "ChIJSQf1nurlw0cRiV6umNFNMwI",
     "name": "Mercator Gcv",
     "type": "restaurant",
@@ -5822,7 +6619,7 @@
     "latitude": 51.0194736,
     "longitude": 4.4822218,
     "phone": "015 42 38 36",
-    "website": "https://miran-bzd6excueha9d9hr.westeurope-01.azurewebsites.net/",
+    "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Miran%20restaurant&query_place_id=ChIJ87PgXwDlw0cRkS5TrtjP43w",
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe8dNG_b4LcZr11wP1Fw394CcKX5VSXJflNO9jsc8_zVJkbBmmERFVSoN0IcMHvxUQrJxzVZ1bG2zegUuvN1V9P5lzI6kVTLXEJLQOtA7Mf-bCZ2-fYUrQIDO-iWrjAhbUS4aHc2Sd3EuHL=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe8dNG_b4LcZr11wP1Fw394CcKX5VSXJflNO9jsc8_zVJkbBmmERFVSoN0IcMHvxUQrJxzVZ1bG2zegUuvN1V9P5lzI6kVTLXEJLQOtA7Mf-bCZ2-fYUrQIDO-iWrjAhbUS4aHc2Sd3EuHL=w1000-h750-no",
@@ -5960,32 +6757,6 @@
     "is_active": true,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJky5Hobblw0cRt6gFN-zyQ0Q",
-    "name": "Moskee Al Buraq",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Mechelen",
-    "address": "Moskee Al Buraq, Generaal de Ceuninckstraat 7, 2800 Mechelen",
-    "street": "Generaal de Ceuninckstraat 7",
-    "postal_code": "2800",
-    "region": null,
-    "latitude": 51.0350987,
-    "longitude": 4.4820193999999995,
-    "phone": "0465 04 03 70",
-    "website": "http://www.alburaq.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Al%20Buraq&query_place_id=ChIJky5Hobblw0cRt6gFN-zyQ0Q",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcVMVEh5JN86U8y9w4CgSp8_eXFFtuKJLOMEj4Uw-p16lq-acGRR62wXLX__M1HCdZKNqKrgi2irrAr9uvz_MXeSMZ4yDFFvDwMylsx8TjU01bjC5_4FYPmJGBLKmA8hkCuIstB=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcVMVEh5JN86U8y9w4CgSp8_eXFFtuKJLOMEj4Uw-p16lq-acGRR62wXLX__M1HCdZKNqKrgi2irrAr9uvz_MXeSMZ4yDFFvDwMylsx8TjU01bjC5_4FYPmJGBLKmA8hkCuIstB=w1000-h750-no",
-    "rating": 4.7,
-    "review_count": 135,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
   },
   {
     "place_id": "ChIJb3l6IVHlw0cR8tp4aQAML_c",
@@ -7006,13 +7777,13 @@
     "region": null,
     "latitude": 51.026493099999996,
     "longitude": 4.4768744,
-    "phone": "015 34 88 03",
+    "phone": null,
     "website": "https://ronda.eatbu.com/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ronda&query_place_id=ChIJm08Kz8jlw0cRONjds0aHOQQ",
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcYgQFwQfDLagwLOrEHr6BvjW81BU3SVbLfPYiIG9V6qC1rysKGIDBz5-euZVEgMeRtuGyoTmWhgge3bfGbGj2QHv70ciGo4KYMEWF6jxqT3e7kZ-tU_vXS-snviHZ_URS0zZH9SQ=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcYgQFwQfDLagwLOrEHr6BvjW81BU3SVbLfPYiIG9V6qC1rysKGIDBz5-euZVEgMeRtuGyoTmWhgge3bfGbGj2QHv70ciGo4KYMEWF6jxqT3e7kZ-tU_vXS-snviHZ_URS0zZH9SQ=w1000-h750-no",
-    "rating": 4.2,
-    "review_count": 1103,
+    "rating": null,
+    "review_count": 0,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null,
     "is_active": true,
@@ -7185,8 +7956,8 @@
     "phone": "0485 86 24 62",
     "website": "https://www.sababa.be/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Sababa%20-%20Vleeshalle%20Mechelen&query_place_id=ChIJHxNZVvPlw0cRINQUAGlf6GY",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc8fg0UipKEbi4lIItk2udbMUC4FTjfKWWUYXAHUdK3nU2ZYbzXn9EYXJO5XLCNc0xxZzEl3bsNgTl9RV45pjR5GqJuwwusUNgzLLiDU05qs7cS212rdWCIFE_LNs3zJIHISv9Y_Q=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc8fg0UipKEbi4lIItk2udbMUC4FTjfKWWUYXAHUdK3nU2ZYbzXn9EYXJO5XLCNc0xxZzEl3bsNgTl9RV45pjR5GqJuwwusUNgzLLiDU05qs7cS212rdWCIFE_LNs3zJIHISv9Y_Q=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdwVPwcyx5GOVt_xFIll7YWgSreuiQva9RP6ML9d6-BJItYPqPcEhVQsO01e_ehQoQWLotVvniw6o9qR-hfLuhMnl0oWUvF1rItT7rYIY9I5p1D221i_a3zZYkiZgdvZcUV6ldiDg=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdwVPwcyx5GOVt_xFIll7YWgSreuiQva9RP6ML9d6-BJItYPqPcEhVQsO01e_ehQoQWLotVvniw6o9qR-hfLuhMnl0oWUvF1rItT7rYIY9I5p1D221i_a3zZYkiZgdvZcUV6ldiDg=w1000-h750-no",
     "rating": 3.8,
     "review_count": 19,
     "verification_status": "UNVERIFIED",
@@ -10014,712 +10785,6 @@
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcuuETuv9kBegNgkQJPKYRfZgYwaxZt4o_kfyXpx1zmqYxZ6_acKu9Ie2QYS1c0aA3mgLch5DQmbvXmrXgJGYJrQU1bFb6qrSj3c7_C2BHTunQHBT-Xa7WSS1VANInz2d5MRiuHQ2PPYhE8=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcuuETuv9kBegNgkQJPKYRfZgYwaxZt4o_kfyXpx1zmqYxZ6_acKu9Ie2QYS1c0aA3mgLch5DQmbvXmrXgJGYJrQU1bFb6qrSj3c7_C2BHTunQHBT-Xa7WSS1VANInz2d5MRiuHQ2PPYhE8=w1000-h750-no",
     "source_query": "Pharmacy in Menen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJM50q9wQyw0cRrb4J6dDICm0",
-    "name": "Landhuis Den Haezewind",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Menen",
-    "address": "Landhuis Den Haezewind, Dadizelestraat 147, 8930 Menen",
-    "street": "Dadizelestraat 147",
-    "postal_code": "8930",
-    "region": null,
-    "latitude": 50.8150322,
-    "longitude": 3.1110461,
-    "phone": "056 49 77 56",
-    "website": "http://www.landhuisdenhaezewind.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Landhuis%20Den%20Haezewind&query_place_id=ChIJM50q9wQyw0cRrb4J6dDICm0",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "11:30 am–2 pm",
-        "6–9 pm"
-      ],
-      "Thursday": [
-        "11:30 am–2 pm"
-      ],
-      "Friday": [
-        "11:30 am–2 pm",
-        "6–9 pm"
-      ],
-      "Saturday": [
-        "11:30 am–2 pm",
-        "6–9 pm"
-      ],
-      "Sunday": [
-        "11:30 am–9 pm"
-      ]
-    },
-    "review_count": 430,
-    "rating": 4.4,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdSzTAMCKJkzlv2lsLDLBjMVth46rHRTCuah6t6EkiVLadAsi1aYkfA_KpdyFpo20eAH1jRhkbZoWdtd2FwmIJ60O9sLZy6qYbAmhK6_jnqC1d8fFpx6k7GEuH44CdU5K5981zf=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdSzTAMCKJkzlv2lsLDLBjMVth46rHRTCuah6t6EkiVLadAsi1aYkfA_KpdyFpo20eAH1jRhkbZoWdtd2FwmIJ60O9sLZy6qYbAmhK6_jnqC1d8fFpx6k7GEuH44CdU5K5981zf=w1000-h750-no",
-    "source_query": "Halal restaurant in Menen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJDQrEkW8vw0cRHxcNaE5jdSs",
-    "name": "MARKET GAZA EL HABIBEH-ماركت غزة الحبيبة",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Menen",
-    "address": "MARKET GAZA EL HABIBEH-ماركت غزة الحبيبة, Rijselstraat 81, 8930 Menen",
-    "street": "Rijselstraat 81",
-    "postal_code": "8930",
-    "region": null,
-    "latitude": 50.7921617,
-    "longitude": 3.1234897999999998,
-    "phone": "0465 88 77 44",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=MARKET%20GAZA%20EL%20HABIBEH-%D9%85%D8%A7%D8%B1%D9%83%D8%AA%20%D8%BA%D8%B2%D8%A9%20%D8%A7%D9%84%D8%AD%D8%A8%D9%8A%D8%A8%D8%A9&query_place_id=ChIJDQrEkW8vw0cRHxcNaE5jdSs",
-    "open_hours_json": {
-      "Monday": [
-        "9 am–9 pm"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "9 am–9 pm"
-      ],
-      "Thursday": [
-        "9 am–9 pm"
-      ],
-      "Friday": [
-        "9 am–9 pm"
-      ],
-      "Saturday": [
-        "9 am–9 pm"
-      ],
-      "Sunday": [
-        "9 am–9 pm"
-      ]
-    },
-    "review_count": 7,
-    "rating": 4.4,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe-i3ZHMUxaDfTUNK1ppcn94aWZOVnXPzuzxyFmWdLFbuLZ1afxUAKuVj8e4o3DLRo-e4AhOv_y1QDtQNfXWjdq8n_NkOPW9LGo6OLJrVsR-scZaik4SqragM5e8n8r-TPhZtVyVIZR_TtT=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe-i3ZHMUxaDfTUNK1ppcn94aWZOVnXPzuzxyFmWdLFbuLZ1afxUAKuVj8e4o3DLRo-e4AhOv_y1QDtQNfXWjdq8n_NkOPW9LGo6OLJrVsR-scZaik4SqragM5e8n8r-TPhZtVyVIZR_TtT=w1000-h750-no",
-    "source_query": "Hypermarket in Menen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ9YsLnFAvw0cR5WjM2N3CXWk",
-    "name": "Niam Miam",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Menen",
-    "address": "Niam Miam, Ooststraat 8930, Rijselstraat 300/bus 1, 8930 Menen",
-    "street": "Ooststraat 8930, Rijselstraat 300/bus 1",
-    "postal_code": "8930",
-    "region": null,
-    "latitude": 50.7869245,
-    "longitude": 3.1269962,
-    "phone": "0472 96 46 61",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Niam%20Miam&query_place_id=ChIJ9YsLnFAvw0cR5WjM2N3CXWk",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "10 am–7 pm"
-      ],
-      "Friday": [
-        "2–8 pm"
-      ],
-      "Saturday": [
-        "9 am–7 pm"
-      ],
-      "Sunday": [
-        "9 am–7 pm"
-      ]
-    },
-    "review_count": 42,
-    "rating": 5.0,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeB_3kfY36rut-iLm5IcNG2G-PBdyxzd_8ioMHzsdw86H-UOJ5K3_4nnIBXft7KII-LCK-0-XcXB7BkevGh4Pai7poQYf699ChypoSWAlvwrC6NDqJpSzTOizPLQYPqq2kEMjXxvg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeB_3kfY36rut-iLm5IcNG2G-PBdyxzd_8ioMHzsdw86H-UOJ5K3_4nnIBXft7KII-LCK-0-XcXB7BkevGh4Pai7poQYf699ChypoSWAlvwrC6NDqJpSzTOizPLQYPqq2kEMjXxvg=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Menen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJW1udMfwtw0cRhRgQ2b52Y3o",
-    "name": "Nieuw Centrum",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Menen",
-    "address": "Nieuw Centrum, Ieperstraat 225, 8930 Menen",
-    "street": "Ieperstraat 225",
-    "postal_code": "8930",
-    "region": null,
-    "latitude": 50.7981645,
-    "longitude": 3.1137558,
-    "phone": "056 51 30 95",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Nieuw%20Centrum&query_place_id=ChIJW1udMfwtw0cRhRgQ2b52Y3o",
-    "open_hours_json": null,
-    "review_count": 1,
-    "rating": 1.0,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdy04vW52W4rWK6LTmcg7b9e2DVgacS09txrq7DzfAjOyz1eskGJdaAu22spwZzrMfAOlcQ5cFRzH3AZrbQzyj-bYmtWXropoNu34zQBtYH9qkxfZ5G0uovzqEUOwwJEcCrjzJGqesaQYeS=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdy04vW52W4rWK6LTmcg7b9e2DVgacS09txrq7DzfAjOyz1eskGJdaAu22spwZzrMfAOlcQ5cFRzH3AZrbQzyj-bYmtWXropoNu34zQBtYH9qkxfZ5G0uovzqEUOwwJEcCrjzJGqesaQYeS=w1000-h750-no",
-    "source_query": "Mosque in Menen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJkU6GYAYuw0cR9htflUqXd2c",
-    "name": "O'Hazar",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Menen",
-    "address": "O'Hazar, Rijselstraat 3, 8930 Menen",
-    "street": "Rijselstraat 3",
-    "postal_code": "8930",
-    "region": null,
-    "latitude": 50.7956643,
-    "longitude": 3.1216725999999997,
-    "phone": "0465 07 04 85",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=O%27Hazar&query_place_id=ChIJkU6GYAYuw0cR9htflUqXd2c",
-    "open_hours_json": {
-      "Monday": [
-        "11:30 am–2:30 pm",
-        "6:30–10:30 pm"
-      ],
-      "Tuesday": [
-        "6:30–10:30 pm"
-      ],
-      "Wednesday": [
-        "11:30 am–3 pm",
-        "6:30–10 pm"
-      ],
-      "Thursday": [
-        "11:30 am–2:30 pm",
-        "6:30–10:30 pm"
-      ],
-      "Friday": [
-        "11:30 am–2:30 pm",
-        "6:30–10:30 pm"
-      ],
-      "Saturday": [
-        "11:30 am–3 pm",
-        "6:30–10 pm"
-      ],
-      "Sunday": [
-        "11:30 am–3 pm",
-        "6:30–10 pm"
-      ]
-    },
-    "review_count": 488,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf5FacUd8HzHBLRKqV3K01EVZomIoK1U_K4RHqBxEPUVlRqjpaBqunZchQMYu81wFUTn7PeCrFEPobyXXFynGeWvJeiuSHoQZ0WE1F73Z8kWI6TolRByhmpmC-jNnfrbiN0igo=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf5FacUd8HzHBLRKqV3K01EVZomIoK1U_K4RHqBxEPUVlRqjpaBqunZchQMYu81wFUTn7PeCrFEPobyXXFynGeWvJeiuSHoQZ0WE1F73Z8kWI6TolRByhmpmC-jNnfrbiN0igo=w1000-h750-no",
-    "source_query": "Halal restaurant in Menen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJyc8J4Q0uw0cRJ9PY2uvtcHg",
-    "name": "Oznur. Y - Menen",
-    "type": "bakery",
-    "category": "bakery",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Menen",
-    "address": "Oznur. Y - Menen, Rijselstraat 221, 8930 Menen",
-    "street": "Rijselstraat 221",
-    "postal_code": "8930",
-    "region": null,
-    "latitude": 50.7880914,
-    "longitude": 3.1270085,
-    "phone": "0499 78 60 13",
-    "website": "https://yellow.pages.wwwcafe.de/oznur-y/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Oznur.%20Y%20-%20Menen&query_place_id=ChIJyc8J4Q0uw0cRJ9PY2uvtcHg",
-    "open_hours_json": {
-      "Monday": [
-        "6 am–8 pm"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "6 am–8 pm"
-      ],
-      "Thursday": [
-        "6 am–8 pm"
-      ],
-      "Friday": [
-        "6 am–8 pm"
-      ],
-      "Saturday": [
-        "6 am–8 pm"
-      ],
-      "Sunday": [
-        "6 am–8 pm"
-      ]
-    },
-    "review_count": 213,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeZG5onP0auJCVEmDVexk-yuvYPbWLmp8-qsdlFcmv7fnVH1_7q6Ely32vht65RHCS7LG4dkRb2ZduuRUz4JPH8Er51-FYYEXhqZsbar0_dEoyqxc6mHjVb6SYTIodyHnmxlF9JHA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeZG5onP0auJCVEmDVexk-yuvYPbWLmp8-qsdlFcmv7fnVH1_7q6Ely32vht65RHCS7LG4dkRb2ZduuRUz4JPH8Er51-FYYEXhqZsbar0_dEoyqxc6mHjVb6SYTIodyHnmxlF9JHA=w1000-h750-no",
-    "source_query": "Hypermarket in Menen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJzWESRwAvw0cR6naqsbJW8Eg",
-    "name": "Pasha Restaurant",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Menen",
-    "address": "Pasha Restaurant, Rijselstraat 259، 8930 Menen",
-    "street": "Rijselstraat 259",
-    "postal_code": "8930",
-    "region": null,
-    "latitude": 50.7871659,
-    "longitude": 3.1267468,
-    "phone": null,
-    "website": "https://sites.google.com/view/pasharestaurant/home?authuser=0",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pasha%20Restaurant&query_place_id=ChIJzWESRwAvw0cR6naqsbJW8Eg",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "11 am–10 pm"
-      ],
-      "Wednesday": [
-        "11 am–10 pm"
-      ],
-      "Thursday": [
-        "11 am–10 pm"
-      ],
-      "Friday": [
-        "11 am–10 pm"
-      ],
-      "Saturday": [
-        "11 am–10 pm"
-      ],
-      "Sunday": [
-        "11 am–10 pm"
-      ]
-    },
-    "review_count": 55,
-    "rating": 4.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLePAd6NKehn4bfTT5C5Fya1RHxvtL1J93DAHf7xfFqaP9zQRzyQE8QoaC4pIzjY3zL_ieS6M7DSDGQeXNVR3vXtFcJaLBSq822AHmQmp3nJEE-PCe3Wm0S8PsOFASuii4hSyhD8behOwELh=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLePAd6NKehn4bfTT5C5Fya1RHxvtL1J93DAHf7xfFqaP9zQRzyQE8QoaC4pIzjY3zL_ieS6M7DSDGQeXNVR3vXtFcJaLBSq822AHmQmp3nJEE-PCe3Wm0S8PsOFASuii4hSyhD8behOwELh=w1000-h750-no",
-    "source_query": "Halal restaurant in Wervik, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ4buv-Ngvw0cRgU9R8QGRBYU",
-    "name": "Pasta Amestra",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Menen",
-    "address": "Pasta Amestra, Rijselstraat 51, 8930 Menen",
-    "street": "Rijselstraat 51",
-    "postal_code": "8930",
-    "region": null,
-    "latitude": 50.7940178,
-    "longitude": 3.1222613,
-    "phone": "0472 38 62 49",
-    "website": "https://pasta-amestra.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pasta%20Amestra&query_place_id=ChIJ4buv-Ngvw0cRgU9R8QGRBYU",
-    "open_hours_json": {
-      "Monday": [
-        "11:30 am–1:30 pm",
-        "5:30–9:30 pm"
-      ],
-      "Tuesday": [
-        "11:30 am–1:30 pm",
-        "5:30–9:30 pm"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "11:30 am–1:30 pm",
-        "5:30–9:30 pm"
-      ],
-      "Friday": [
-        "11:30 am–1:30 pm",
-        "5:30–9:30 pm"
-      ],
-      "Saturday": [
-        "5:30–9:30 pm"
-      ],
-      "Sunday": [
-        "5:30–9:30 pm"
-      ]
-    },
-    "review_count": 70,
-    "rating": 4.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdblfHYby4Zvk8hyFZQbwJRf4kamYmAYYAiluXSS7g0R0Imkzur4qHuEIDol2FO4PiPUsI0pjKZVJVVHHLqt5CzrwzSWJmeRIsloUua3BaV6vG5jpCYH5MJTR2nmQgkxq6s2ZUCU5rASLSG=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdblfHYby4Zvk8hyFZQbwJRf4kamYmAYYAiluXSS7g0R0Imkzur4qHuEIDol2FO4PiPUsI0pjKZVJVVHHLqt5CzrwzSWJmeRIsloUua3BaV6vG5jpCYH5MJTR2nmQgkxq6s2ZUCU5rASLSG=w1000-h750-no",
-    "source_query": "Halal restaurant in Menen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJgeXkbgYuw0cRkbg8jfK6zAM",
-    "name": "Peking City",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Menen",
-    "address": "Peking City, Rijselstraat 19, 8930 Menen",
-    "street": "Rijselstraat 19",
-    "postal_code": "8930",
-    "region": null,
-    "latitude": 50.7952036,
-    "longitude": 3.1217793,
-    "phone": "056 51 82 68",
-    "website": "http://pekingcity-menen.be/menu.html",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Peking%20City&query_place_id=ChIJgeXkbgYuw0cRkbg8jfK6zAM",
-    "open_hours_json": {
-      "Monday": [
-        "12–2 pm",
-        "6–10 pm"
-      ],
-      "Tuesday": [
-        "12–2 pm",
-        "6–10 pm"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "12–2 pm",
-        "6–10 pm"
-      ],
-      "Friday": [
-        "12–2 pm",
-        "6–10 pm"
-      ],
-      "Saturday": [
-        "12–2 pm",
-        "6–10 pm"
-      ],
-      "Sunday": [
-        "12–10 pm"
-      ]
-    },
-    "review_count": 155,
-    "rating": 3.9,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfGnFVh7rfRuPyQAkfE9KFuCLGSjQOs9kRkUwUxLwD-L8WbXz7cA0JxXm1RyY1h12TbO_X1M3hWS1mowfvmyyYOhhBE-DQzMqZgbNA8kEMAigDfnmYf6xOF1JFZ2zBImXyrcgI=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfGnFVh7rfRuPyQAkfE9KFuCLGSjQOs9kRkUwUxLwD-L8WbXz7cA0JxXm1RyY1h12TbO_X1M3hWS1mowfvmyyYOhhBE-DQzMqZgbNA8kEMAigDfnmYf6xOF1JFZ2zBImXyrcgI=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Menen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJE99V98Uxw0cRTAq2oAQNP-I",
-    "name": "Pinoys Best Asian Food Market",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Menen",
-    "address": "Pinoys Best Asian Food Market, Bruggestraat 552, 8930 Menen",
-    "street": "Bruggestraat 552",
-    "postal_code": "8930",
-    "region": null,
-    "latitude": 50.811882399999995,
-    "longitude": 3.1210665,
-    "phone": "0472 33 02 04",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pinoys%20Best%20Asian%20Food%20Market&query_place_id=ChIJE99V98Uxw0cRTAq2oAQNP-I",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "10 am–6 pm"
-      ],
-      "Thursday": [
-        "10 am–6 pm"
-      ],
-      "Friday": [
-        "10 am–6 pm"
-      ],
-      "Saturday": [
-        "10 am–6 pm"
-      ],
-      "Sunday": [
-        "10 am–6 pm"
-      ]
-    },
-    "review_count": 0,
-    "rating": null,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfH5YmDanzsPBMQeXqVqQbfF5vM3smSYF9bulvN2fpXiwkRhNMGSP84iU_px3o4y7xIS8Oo5qN7TD79tSdmJlsiYA-7q-r5l-T8zDwLKISyMtpsnwauTKKNW374P16VOSHpTZkDiB4n1W1W=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfH5YmDanzsPBMQeXqVqQbfF5vM3smSYF9bulvN2fpXiwkRhNMGSP84iU_px3o4y7xIS8Oo5qN7TD79tSdmJlsiYA-7q-r5l-T8zDwLKISyMtpsnwauTKKNW374P16VOSHpTZkDiB4n1W1W=w1000-h750-no",
-    "source_query": "Hypermarket in Menen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ1Tid0IYvw0cRFlyeR2xNka0",
-    "name": "Pitta antalya",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Menen",
-    "address": "Pitta antalya, Rijselstraat 83, 8930 Menen",
-    "street": "Rijselstraat 83",
-    "postal_code": "8930",
-    "region": null,
-    "latitude": 50.792045599999994,
-    "longitude": 3.1235654999999998,
-    "phone": "0471 80 55 41",
-    "website": "https://www.menen.be/bedrijvengids/snack-antalya",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pitta%20antalya&query_place_id=ChIJ1Tid0IYvw0cRFlyeR2xNka0",
-    "open_hours_json": {
-      "Monday": [
-        "11:30 am–11 pm"
-      ],
-      "Tuesday": [
-        "11:30 am–11 pm"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "11:30 am–11 pm"
-      ],
-      "Friday": [
-        "11:30 am–12 am"
-      ],
-      "Saturday": [
-        "11:30 am–12 am"
-      ],
-      "Sunday": [
-        "11:30 am–11 pm"
-      ]
-    },
-    "review_count": 121,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcH60n0zl-a27q36tMOMlLxLfik7Jew2AJIlu4lk-644gAIFu4erqLVfTIlHFsgQXpSHRhn94ib_fmiJ-jeYsg0sz3-trwAZki5QklOtjIou44CEhvYyUfrBcqiis9ikXd8maG5=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcH60n0zl-a27q36tMOMlLxLfik7Jew2AJIlu4lk-644gAIFu4erqLVfTIlHFsgQXpSHRhn94ib_fmiJ-jeYsg0sz3-trwAZki5QklOtjIou44CEhvYyUfrBcqiis9ikXd8maG5=w1000-h750-no",
-    "source_query": "Halal restaurant in Menen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJuag4_QQuw0cR8fZRj7jpLdk",
-    "name": "Politiezone Grensleie - Commissariaat Menen",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Menen",
-    "address": "Politiezone Grensleie - Commissariaat Menen, Leopoldplein 12, 8930 Menen",
-    "street": "Leopoldplein 12",
-    "postal_code": "8930",
-    "region": null,
-    "latitude": 50.7959265,
-    "longitude": 3.1268816999999998,
-    "phone": "056 51 01 11",
-    "website": "https://www.pzgrensleie.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Politiezone%20Grensleie%20-%20Commissariaat%20Menen&query_place_id=ChIJuag4_QQuw0cR8fZRj7jpLdk",
-    "open_hours_json": {
-      "Monday": [
-        "Open 24 hours"
-      ],
-      "Tuesday": [
-        "Open 24 hours"
-      ],
-      "Wednesday": [
-        "Open 24 hours"
-      ],
-      "Thursday": [
-        "Open 24 hours"
-      ],
-      "Friday": [
-        "Open 24 hours"
-      ],
-      "Saturday": [
-        "Open 24 hours"
-      ],
-      "Sunday": [
-        "Open 24 hours"
-      ]
-    },
-    "review_count": 0,
-    "rating": null,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4iAkPyXJ8pGuQOo5XuSilw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=120.42013&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4iAkPyXJ8pGuQOo5XuSilw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=120.42013&pitch=0&thumbfov=w1000-h750-no",
-    "source_query": "Pharmacy in Menen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJmahg-gEuw0cRyOFUw10GTxc",
-    "name": "Restaurant Royale Axkit",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Menen",
-    "address": "Restaurant Royale Axkit, Bruggestraat 246A, 8930 Menen",
-    "street": "Bruggestraat 246A",
-    "postal_code": "8930",
-    "region": null,
-    "latitude": 50.8031169,
-    "longitude": 3.1232682,
-    "phone": "056 53 06 07",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20Royale%20Axkit&query_place_id=ChIJmahg-gEuw0cRyOFUw10GTxc",
-    "open_hours_json": {
-      "Monday": [
-        "12–2 pm",
-        "7–9 pm"
-      ],
-      "Tuesday": [
-        "12–2 pm"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "12–2 pm",
-        "7–9 pm"
-      ],
-      "Friday": [
-        "12–2 pm",
-        "7–9 pm"
-      ],
-      "Saturday": [
-        "12–2 pm",
-        "7–9 pm"
-      ],
-      "Sunday": [
-        "12–2 pm",
-        "7–9 pm"
-      ]
-    },
-    "review_count": 298,
-    "rating": 4.4,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLePbPJxQr0Etle_8fC_3wZ8Y6S0fUiS2imzL1UTZ2KYJ2wohXSV7XKny21HaHj_F2L7f_64duJvC6NmPD3F_fKX95taNyhlYHhPf4-1HrBHG3ikINpn6kX8KFfR4lsSBIh_aoaK=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLePbPJxQr0Etle_8fC_3wZ8Y6S0fUiS2imzL1UTZ2KYJ2wohXSV7XKny21HaHj_F2L7f_64duJvC6NmPD3F_fKX95taNyhlYHhPf4-1HrBHG3ikINpn6kX8KFfR4lsSBIh_aoaK=w1000-h750-no",
-    "source_query": "Halal restaurant in Menen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJzx25LgQuw0cR74QeqEtcibE",
-    "name": "Ristorante da Dino al Ghiottone",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Menen",
-    "address": "Ristorante da Dino al Ghiottone, Kortrijkstraat 56, 8930 Menen",
-    "street": "Kortrijkstraat 56",
-    "postal_code": "8930",
-    "region": null,
-    "latitude": 50.7965519,
-    "longitude": 3.1236261,
-    "phone": "0499 18 03 95",
-    "website": "http://restaurant-menen.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20da%20Dino%20al%20Ghiottone&query_place_id=ChIJzx25LgQuw0cR74QeqEtcibE",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "12–2 pm",
-        "6:30–9:30 pm"
-      ],
-      "Thursday": [
-        "12–2 pm",
-        "6:30–9:30 pm"
-      ],
-      "Friday": [
-        "12–2 pm",
-        "6:30–9:30 pm"
-      ],
-      "Saturday": [
-        "12–2 pm",
-        "6:30–9:30 pm"
-      ],
-      "Sunday": [
-        "12–2 pm",
-        "6:30–9:30 pm"
-      ]
-    },
-    "review_count": 244,
-    "rating": 4.5,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfWZyIL7vToV_t-2BomU02asOJAR1AGbuxzI0DwJrCk-_SkQjvDfE4tNgRZoWNoTi77x7O0fJ5gA1zTx-Mrt6MpPPwOJaDetq5qnphZVVswAn8TfjhKjvm5AiBulvrVuOvZKL9E4w=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfWZyIL7vToV_t-2BomU02asOJAR1AGbuxzI0DwJrCk-_SkQjvDfE4tNgRZoWNoTi77x7O0fJ5gA1zTx-Mrt6MpPPwOJaDetq5qnphZVVswAn8TfjhKjvm5AiBulvrVuOvZKL9E4w=w1000-h750-no",
-    "source_query": "Halal restaurant in Menen, Flanders, BE",
     "moderation_status": "approved",
     "is_active": true,
     "verification_status": "UNVERIFIED",
