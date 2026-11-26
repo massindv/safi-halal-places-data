@@ -62,11 +62,11 @@
     },
     "GB": {
       "name": "United Kingdom",
-      "count": 3992,
-      "total_shards": 16,
+      "count": 4006,
+      "total_shards": 17,
       "shards_dir": "shards/GB",
       "cities_file": "shards/GB/cities.json",
-      "updated_at": "2026-11-26T12:47:06.094954+00:00"
+      "updated_at": "2026-11-26T15:28:55.995593+00:00"
     },
     "CH": {
       "name": "Switzerland",
@@ -141,6 +141,6 @@
       "updated_at": "2026-11-26T14:12:00.039256+00:00"
     }
   },
-  "updated_at": "2026-11-26T15:18:29.083694+00:00",
-  "total_places": 39836
+  "updated_at": "2026-11-26T15:28:55.995593+00:00",
+  "total_places": 39850
 }
