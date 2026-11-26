@@ -1,5 +1,500 @@
 [
   {
+    "place_id": "ChIJbQnFL1Avw0cR1Gg7_8O_0GI",
+    "name": "Boucherie Naturelle",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Mouscron",
+    "address": "Boucherie Naturelle, Grand-Rue 75, 7700 Mouscron",
+    "street": "Grand-Rue 75",
+    "postal_code": "7700",
+    "region": null,
+    "latitude": 50.727028999999995,
+    "longitude": 3.1951779,
+    "phone": "056 33 19 33",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boucherie%20Naturelle&query_place_id=ChIJbQnFL1Avw0cR1Gg7_8O_0GI",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "8:15 am–12:15 pm",
+        "2–7 pm"
+      ],
+      "Thursday": [
+        "8:15 am–12:15 pm",
+        "2–7 pm"
+      ],
+      "Friday": [
+        "8:15 am–12:15 pm",
+        "2–7 pm"
+      ],
+      "Saturday": [
+        "8:15 am–7 pm"
+      ],
+      "Sunday": [
+        "8:30 am–12:30 pm"
+      ]
+    },
+    "review_count": 67,
+    "rating": 4.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfmrQx-23a8l5EGdqk8O9fCok-soqZYHq4uovUpukmIVLQY-TTVkKNCeP2IDEfdpg_7Ygy1yiPGOylhDsKkXv37skopH0FPrJJ4NueAhUKu4xIuwsxp26u4_m3qRSuKjRV0we0=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfmrQx-23a8l5EGdqk8O9fCok-soqZYHq4uovUpukmIVLQY-TTVkKNCeP2IDEfdpg_7Ygy1yiPGOylhDsKkXv37skopH0FPrJJ4NueAhUKu4xIuwsxp26u4_m3qRSuKjRV0we0=w1000-h750-no",
+    "source_query": "Halal restaurant in Mouscron, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJM7AkmYklw0cRe7z6IfO2w9E",
+    "name": "Burger Queen",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Mouscron",
+    "address": "Burger Queen, Rue de Tourcoing 14, 7700 Mouscron",
+    "street": "Rue de Tourcoing 14",
+    "postal_code": "7700",
+    "region": null,
+    "latitude": 50.743524,
+    "longitude": 3.2132609,
+    "phone": "056 48 94 38",
+    "website": "http://www.burgerqueen.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Burger%20Queen&query_place_id=ChIJM7AkmYklw0cRe7z6IfO2w9E",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "12–2 pm",
+        "7–9:30 pm"
+      ],
+      "Wednesday": [
+        "12–2 pm",
+        "7–9:30 pm"
+      ],
+      "Thursday": [
+        "12–2 pm",
+        "7–9:30 pm"
+      ],
+      "Friday": [
+        "12–2 pm",
+        "7–10 pm"
+      ],
+      "Saturday": [
+        "12–2 pm",
+        "7–10 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 677,
+    "rating": 4.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdTz0xyeOrCqeBEk8b8XMx7FKSxS_gV5jmunOOGmXGvKsLxOz9CSbGAOmvfkqaNiMjVWtjSqhnG2HLR1ZcTEciUnmw3xBDaFn4z09vf0QLfRNvBkZS81BFMle5ZoueCrjBMpG0f=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdTz0xyeOrCqeBEk8b8XMx7FKSxS_gV5jmunOOGmXGvKsLxOz9CSbGAOmvfkqaNiMjVWtjSqhnG2HLR1ZcTEciUnmw3xBDaFn4z09vf0QLfRNvBkZS81BFMle5ZoueCrjBMpG0f=w1000-h750-no",
+    "source_query": "Halal restaurant in Mouscron, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJhQfub2cvw0cRxFHP5Own_NE",
+    "name": "Café Des Sports",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Mouscron",
+    "address": "Café Des Sports, Rue de la Marlière 204, 7700 Mouscron",
+    "street": "Rue de la Marlière 204",
+    "postal_code": "7700",
+    "region": null,
+    "latitude": 50.740308,
+    "longitude": 3.1999038,
+    "phone": "056 34 00 42",
+    "website": "https://fr.restaurantguru.com/Cafe-Des-Sports-Mouscron",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Des%20Sports&query_place_id=ChIJhQfub2cvw0cRxFHP5Own_NE",
+    "open_hours_json": {
+      "Monday": [
+        "11 am–2 am"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "11 am–2 am"
+      ],
+      "Thursday": [
+        "11 am–2 am"
+      ],
+      "Friday": [
+        "11 am–5 am"
+      ],
+      "Saturday": [
+        "11 am–5 am"
+      ],
+      "Sunday": [
+        "11 am–5 am"
+      ]
+    },
+    "review_count": 127,
+    "rating": 4.4,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfU89Td2SkJSp-k8OYCm1yq09Q4-x4RlEdVI3dD4PCIHD4Nl5voZBDTj5s-XwGsUGAAJ6_AroPR0yNytWxwcHfUPOjAID4JjuKQEzhzVNDzwiEStakuha1Fp8uJTsNqTXT11s0a_g=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfU89Td2SkJSp-k8OYCm1yq09Q4-x4RlEdVI3dD4PCIHD4Nl5voZBDTj5s-XwGsUGAAJ6_AroPR0yNytWxwcHfUPOjAID4JjuKQEzhzVNDzwiEStakuha1Fp8uJTsNqTXT11s0a_g=w1000-h750-no",
+    "source_query": "Halal restaurant in Mouscron, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJiVgKl44lw0cRguk2kLecxBg",
+    "name": "Capitol - Mouscron",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Mouscron",
+    "address": "Capitol - Mouscron, Rue de Courtrai 15, 7700 Mouscron",
+    "street": "Rue de Courtrai 15",
+    "postal_code": "7700",
+    "region": null,
+    "latitude": 50.7449276,
+    "longitude": 3.216386,
+    "phone": "056 33 76 85",
+    "website": "https://qr.wwwcafe.de/2025/08/12/capitol/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Capitol%20-%20Mouscron&query_place_id=ChIJiVgKl44lw0cRguk2kLecxBg",
+    "open_hours_json": {
+      "Monday": [
+        "11 am–2 pm",
+        "6–11 pm"
+      ],
+      "Tuesday": [
+        "11 am–2 pm",
+        "6–11 pm"
+      ],
+      "Wednesday": [
+        "11 am–2 pm",
+        "6–11 pm"
+      ],
+      "Thursday": [
+        "11 am–2 pm",
+        "6–11 pm"
+      ],
+      "Friday": [
+        "11 am–2 pm",
+        "6 pm–1 am"
+      ],
+      "Saturday": [
+        "11 am–2 pm",
+        "6 pm–1 am"
+      ],
+      "Sunday": [
+        "11 am–2 pm",
+        "6–11 pm"
+      ]
+    },
+    "review_count": 555,
+    "rating": 4.1,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc30O98fVnx8-K5CE71RMFIcAplyO3_EidseNYK8afwfqONlRoe1nB4dAeGugIJ_NtmlclO8vBciLdsx0wdlRvsNzGM5SiCyH4f9UWaQSY9BedTm9Pi190SNmydb9lBBxYcvqo=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc30O98fVnx8-K5CE71RMFIcAplyO3_EidseNYK8afwfqONlRoe1nB4dAeGugIJ_NtmlclO8vBciLdsx0wdlRvsNzGM5SiCyH4f9UWaQSY9BedTm9Pi190SNmydb9lBBxYcvqo=w1000-h750-no",
+    "source_query": "Halal restaurant in Mouscron, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJAbL-gWQvw0cRdTcsfYzYYPo",
+    "name": "Chez Donat",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Mouscron",
+    "address": "Chez Donat, Rue du Nouveau Monde 148, 7700 Mouscron",
+    "street": "Rue du Nouveau Monde 148",
+    "postal_code": "7700",
+    "region": null,
+    "latitude": 50.747510899999995,
+    "longitude": 3.202952,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chez%20Donat&query_place_id=ChIJAbL-gWQvw0cRdTcsfYzYYPo",
+    "open_hours_json": null,
+    "review_count": 0,
+    "rating": null,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XsXixCYYsUt3pZRqsiBk7w&cb_client=search.gws-prod.grass&w=80&h=92&yaw=351.85904&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XsXixCYYsUt3pZRqsiBk7w&cb_client=search.gws-prod.grass&w=80&h=92&yaw=351.85904&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Hypermarket in Mouscron, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJueOQh2Avw0cRhhIUKyzRH0k",
+    "name": "Chez charlotte",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Mouscron",
+    "address": "Chez charlotte, Rue Roland Vanoverschelde 99, 7700 Mouscron",
+    "street": "Rue Roland Vanoverschelde 99",
+    "postal_code": "7700",
+    "region": null,
+    "latitude": 50.748111699999995,
+    "longitude": 3.1990838999999998,
+    "phone": "056 58 82 23",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chez%20charlotte&query_place_id=ChIJueOQh2Avw0cRhhIUKyzRH0k",
+    "open_hours_json": {
+      "Monday": [
+        "6:30 am–1:30 pm"
+      ],
+      "Tuesday": [
+        "6:30 am–6:30 pm"
+      ],
+      "Wednesday": [
+        "6:30 am–6:30 pm"
+      ],
+      "Thursday": [
+        "6:30 am–6:30 pm"
+      ],
+      "Friday": [
+        "6:30 am–6:30 pm"
+      ],
+      "Saturday": [
+        "6:30 am–6:30 pm"
+      ],
+      "Sunday": [
+        "9 am–4 pm"
+      ]
+    },
+    "review_count": 103,
+    "rating": 4.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdM8WsC-uEWIlyUjEbz4ohQ9kM155YmT-A-jPqw1PgyONxKPQCZ-n9mkCEhv3fgDl7XIfLBviD2-hDjrH981m13H_ndnMHyCNZqLZmf8DlYf-UPd_Q2Fvt3fJT2YwoKn4u74M59MA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdM8WsC-uEWIlyUjEbz4ohQ9kM155YmT-A-jPqw1PgyONxKPQCZ-n9mkCEhv3fgDl7XIfLBviD2-hDjrH981m13H_ndnMHyCNZqLZmf8DlYf-UPd_Q2Fvt3fJT2YwoKn4u74M59MA=w1000-h750-no",
+    "source_query": "Hypermarket in Mouscron, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJVej6R38kw0cRo3kKom-t0hc",
+    "name": "Claeys / Gérard",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Mouscron",
+    "address": "Claeys / Gérard, Karperstraat 71, 7700 Moeskroen",
+    "street": "Rue de la Carpe 71",
+    "postal_code": "7700",
+    "region": null,
+    "latitude": 50.740719999999996,
+    "longitude": 3.23094,
+    "phone": "056 33 00 04",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Claeys%20%2F%20G%C3%A9rard&query_place_id=ChIJVej6R38kw0cRo3kKom-t0hc",
+    "open_hours_json": {
+      "Monday": [
+        "8:30 am–7 pm"
+      ],
+      "Tuesday": [
+        "8:30 am–7 pm"
+      ],
+      "Wednesday": [
+        "8:30 am–7 pm"
+      ],
+      "Thursday": [
+        "8:30 am–7 pm"
+      ],
+      "Friday": [
+        "8:30 am–7 pm"
+      ],
+      "Saturday": [
+        "8:30 am–7 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 0,
+    "rating": null,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Jjo5abV5fiWyEqbkkZs-1Q&cb_client=search.gws-prod.grass&w=80&h=92&yaw=233.2929&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Jjo5abV5fiWyEqbkkZs-1Q&cb_client=search.gws-prod.grass&w=80&h=92&yaw=233.2929&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Hypermarket in Mouscron, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ-ZGjgXkvw0cRvP3U9ZJu18g",
+    "name": "Collect&Go Moeskroen",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Mouscron",
+    "address": "Collect&Go Moeskroen, Menenstraat 136, 7700 Moeskroen",
+    "street": "Rue de Menin 136",
+    "postal_code": "7700",
+    "region": null,
+    "latitude": 50.749293599999994,
+    "longitude": 3.2133965,
+    "phone": "02 363 50 05",
+    "website": "https://www.collectandgo.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Collect%26Go%20Moeskroen&query_place_id=ChIJ-ZGjgXkvw0cRvP3U9ZJu18g",
+    "open_hours_json": {
+      "Monday": [
+        "8 am–8 pm"
+      ],
+      "Tuesday": [
+        "8 am–8 pm"
+      ],
+      "Wednesday": [
+        "8 am–8 pm"
+      ],
+      "Thursday": [
+        "8 am–8 pm"
+      ],
+      "Friday": [
+        "8 am–9 pm"
+      ],
+      "Saturday": [
+        "8 am–8 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 4,
+    "rating": 3.8,
+    "thumbnail_url": null,
+    "image_url": null,
+    "source_query": "Hypermarket in Mouscron, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJlUcOCo0lw0cRq5rytcfeKfY",
+    "name": "Court-circuit",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Mouscron",
+    "address": "Court-circuit, Rue des Brasseurs 21b, 7700 Mouscron",
+    "street": "Rue des Brasseurs 21b",
+    "postal_code": "7700",
+    "region": null,
+    "latitude": 50.741483699999996,
+    "longitude": 3.2186980999999997,
+    "phone": "056 48 01 78",
+    "website": "https://www.courtcircuitmouscron.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Court-circuit&query_place_id=ChIJlUcOCo0lw0cRq5rytcfeKfY",
+    "open_hours_json": {
+      "Monday": [
+        "12–2 pm"
+      ],
+      "Tuesday": [
+        "12–2 pm"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "12–2 pm",
+        "6:30–10 pm"
+      ],
+      "Friday": [
+        "12–2 pm",
+        "6:30–10 pm"
+      ],
+      "Saturday": [
+        "6:30–10 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 278,
+    "rating": 4.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLewODGvUjbus-M7hUv31QVPU58i601hFQhYfmVxIuFFXU8byOl5jrOcXl6jpz5Rn12KziuDJr2ImP5Ruk0DK3ghFFd93I1CEQ1I9g1a4zZJpVgsteRIdgWZN6cRd6Sz1zH-a9JmBA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLewODGvUjbus-M7hUv31QVPU58i601hFQhYfmVxIuFFXU8byOl5jrOcXl6jpz5Rn12KziuDJr2ImP5Ruk0DK3ghFFd93I1CEQ1I9g1a4zZJpVgsteRIdgWZN6cRd6Sz1zH-a9JmBA=w1000-h750-no",
+    "source_query": "Halal restaurant in Mouscron, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJP4GRVQ0vw0cR2Ts928KDEXs",
+    "name": "D'Hantschotter / Jean-Claude",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Mouscron",
+    "address": "D'Hantschotter / Jean-Claude, Chau. de Lille 302, 7700 Mouscron",
+    "street": "Chau. de Lille 302",
+    "postal_code": "7700",
+    "region": null,
+    "latitude": 50.7503471,
+    "longitude": 3.1847828999999996,
+    "phone": "056 33 69 16",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=D%27Hantschotter%20%2F%20Jean-Claude&query_place_id=ChIJP4GRVQ0vw0cR2Ts928KDEXs",
+    "open_hours_json": {
+      "Monday": [
+        "9 am–7:30 pm"
+      ],
+      "Tuesday": [
+        "9 am–7:30 pm"
+      ],
+      "Wednesday": [
+        "9 am–7:30 pm"
+      ],
+      "Thursday": [
+        "9 am–7:30 pm"
+      ],
+      "Friday": [
+        "9 am–7:30 pm"
+      ],
+      "Saturday": [
+        "9 am–7:30 pm"
+      ],
+      "Sunday": [
+        "9 am–12:30 pm"
+      ]
+    },
+    "review_count": 8,
+    "rating": 3.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeWo2oZ21LYQZ1kAFS43HusdgE3IuYgD-UPTQI9DmYv8wLGpZF6ce_zj8HGomJtrDF-AyscH8QmbmvLFPgr_xvW2a8J3OacmZ7c-JatAXJJMNiYDditqMCq6J2k82HsZnLd5690fg=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeWo2oZ21LYQZ1kAFS43HusdgE3IuYgD-UPTQI9DmYv8wLGpZF6ce_zj8HGomJtrDF-AyscH8QmbmvLFPgr_xvW2a8J3OacmZ7c-JatAXJJMNiYDditqMCq6J2k82HsZnLd5690fg=w1000-h750-no",
+    "source_query": "Hypermarket in Mouscron, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJ2UOv87clw0cRE_WycwRfG7A",
     "name": "Dar El Siam",
     "type": "restaurant",
@@ -5977,10 +6472,10 @@
     "phone": "0465 10 77 93",
     "website": "http://eastsidestory.be/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=East%20Side%20Story&query_place_id=ChIJVe6xH1GZwUcRX5-IexPtqKw",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd7U6uWPnT6W9si24VCD7O-KSI4yOdDyWDeBa_ivR0zoIMNUM8POB2aTQgUcbrY1AVuPdd4R01m2da_3U26OUvTJkO-Mjx7bAWA-MG5y3hY5gcrRA-QXiuTO_RWwfvce41QnejWmg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd7U6uWPnT6W9si24VCD7O-KSI4yOdDyWDeBa_ivR0zoIMNUM8POB2aTQgUcbrY1AVuPdd4R01m2da_3U26OUvTJkO-Mjx7bAWA-MG5y3hY5gcrRA-QXiuTO_RWwfvce41QnejWmg=w1000-h750-no",
-    "rating": null,
-    "review_count": 0,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe5PUfRdPYH48RF0fiZkbt43vadicwEqIIARydg_RxRkmnVpL_z6G7Va8LDiJtUubQryV6c3ZNa8suWljXEBbwxjxEEaPDvTiD59CqCVK7JneLq1ZDAhsN98N8yN1bB1HHKBr5JbQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe5PUfRdPYH48RF0fiZkbt43vadicwEqIIARydg_RxRkmnVpL_z6G7Va8LDiJtUubQryV6c3ZNa8suWljXEBbwxjxEEaPDvTiD59CqCVK7JneLq1ZDAhsN98N8yN1bB1HHKBr5JbQ=w1000-h750-no",
+    "rating": 4.7,
+    "review_count": 458,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null,
     "is_active": true,
@@ -7105,7 +7600,7 @@
     "region": null,
     "latitude": 50.476572,
     "longitude": 4.8764620999999995,
-    "phone": "0494 91 33 42",
+    "phone": null,
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Boucherie%20Kizi&query_place_id=ChIJpby8N_eZwUcRiltkr5lscz4",
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfMN_7I_Xl-vRMvkSzzkWu4S8OtZrg3VrfnQGboqLdmkdGKQQzBEmPXnmije079HG_6heDU-9kmTkab7hKdrM2QKSoQsQK3k5E3IeTMUp6RcZZnVBMfLJTCWk0kUzulyrhoWFs7T3va3StQ=w1000-h750-no",
@@ -7132,10 +7627,10 @@
     "latitude": 50.488689099999995,
     "longitude": 4.8930259,
     "phone": "081 21 19 89",
-    "website": "http://www.valfrais.com/",
+    "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Boucherie%20de%20l%27Abattoir&query_place_id=ChIJneb6VSmZwUcR3uLhae0nwCs",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd1twWB_4WV7cU3q4qhiQhSiQaHHEbtbFyI9CMXnYQzn2zNrQuoAjT-tiZbrXZZv2lAoOXBhhNLK9Kc-veQnbHlZ6mCNJUfbte8hHvtmDyDGcLDqciFLRZL3fqyzXZvC4UfTSnj=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd1twWB_4WV7cU3q4qhiQhSiQaHHEbtbFyI9CMXnYQzn2zNrQuoAjT-tiZbrXZZv2lAoOXBhhNLK9Kc-veQnbHlZ6mCNJUfbte8hHvtmDyDGcLDqciFLRZL3fqyzXZvC4UfTSnj=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf7MN7RVhC2_v0TnL_6EMpaC60xAi7ViFQuyElRLj2OUw5rlzYXAOWYAo13vNEReB_F8OuL8mh7bNxQhuiS1woB15F68_75Tgz4GGFD0P-a65Wt1Efn8iAHYc6k4PP8tW4-Y4bw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf7MN7RVhC2_v0TnL_6EMpaC60xAi7ViFQuyElRLj2OUw5rlzYXAOWYAo13vNEReB_F8OuL8mh7bNxQhuiS1woB15F68_75Tgz4GGFD0P-a65Wt1Efn8iAHYc6k4PP8tW4-Y4bw=w1000-h750-no",
     "rating": 4.3,
     "review_count": 12,
     "verification_status": "UNVERIFIED",
@@ -9512,8 +10007,8 @@
     "phone": "0495 78 79 05",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Shiraz%20Grill&query_place_id=ChIJp4iwXQCZwUcR-nRoUsqqGNs",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdTGajdRvaLnHMLnikmLz1Ke4mIrHHxNDIZfndJyURWE_wG4mst4IOhk_FhTvoxBw-9z7dWbKrgl_OhhACLLpMM_hkCHJtwc4p0zdZWQpRuG-ATri8nFyFXpivFepk7TXUmYsXWzw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdTGajdRvaLnHMLnikmLz1Ke4mIrHHxNDIZfndJyURWE_wG4mst4IOhk_FhTvoxBw-9z7dWbKrgl_OhhACLLpMM_hkCHJtwc4p0zdZWQpRuG-ATri8nFyFXpivFepk7TXUmYsXWzw=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcKZ5QYi87KsaX-C9AtwtJSSQBnKCt8uxXjeeHPprXC9Utfx0RYZIHqZxnTw8b8Qe1Mca2yzYNQCANbyn1kJ6WODJnGNt1uBic8UgzZJ76T46NdXHaiLufxo6barPYwNzsNf16Dlw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcKZ5QYi87KsaX-C9AtwtJSSQBnKCt8uxXjeeHPprXC9Utfx0RYZIHqZxnTw8b8Qe1Mca2yzYNQCANbyn1kJ6WODJnGNt1uBic8UgzZJ76T46NdXHaiLufxo6barPYwNzsNf16Dlw=w1000-h750-no",
     "rating": 4.7,
     "review_count": 230,
     "verification_status": "UNVERIFIED",
@@ -10517,502 +11012,6 @@
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcp2GFnrs1AueZXslcrV07XDocbldfHoYbqCyMbEl0CNs06OR227jpIdy1VBW5um-90F-vLqQ3swsjNhTvPR53_guijVV00N-llqHru-jXDCrOYZbUvE4FIvMI_KEKSKb1oDLbmuw=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcp2GFnrs1AueZXslcrV07XDocbldfHoYbqCyMbEl0CNs06OR227jpIdy1VBW5um-90F-vLqQ3swsjNhTvPR53_guijVV00N-llqHru-jXDCrOYZbUvE4FIvMI_KEKSKb1oDLbmuw=w1000-h750-no",
     "source_query": "Halal restaurant in Neufchâteau, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ13Wg7Smd6kcRotetvft4WJc",
-    "name": "DEMA - Neufchâteau",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Neufchâteau",
-    "address": "DEMA - Neufchâteau, Chau. de Recogne 130, 6840 Neufchâteau",
-    "street": "Chau. de Recogne 130",
-    "postal_code": "6840",
-    "region": null,
-    "latitude": 49.8544464,
-    "longitude": 5.4363231999999995,
-    "phone": "061 27 74 99",
-    "website": "https://www.dema.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=DEMA%20-%20Neufch%C3%A2teau&query_place_id=ChIJ13Wg7Smd6kcRotetvft4WJc",
-    "open_hours_json": {
-      "Monday": [
-        "8:30 am–6:30 pm"
-      ],
-      "Tuesday": [
-        "8:30 am–6:30 pm"
-      ],
-      "Wednesday": [
-        "8:30 am–6:30 pm"
-      ],
-      "Thursday": [
-        "8:30 am–6:30 pm"
-      ],
-      "Friday": [
-        "8:30 am–6:30 pm"
-      ],
-      "Saturday": [
-        "8:30 am–6:30 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 83,
-    "rating": 4.0,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcPXaJ5s_k9a4DDn2nXHQnGfxYTuFu3jYCVAR4bY3KyoLkzFXnTzYmVBuj82SBU-oyfbzPNjKLG24XW43A48Khajcg2CVYo-Utzs9s3ytF0IgOnp7f6RRK8VFTl-5kqrCEHqqI=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcPXaJ5s_k9a4DDn2nXHQnGfxYTuFu3jYCVAR4bY3KyoLkzFXnTzYmVBuj82SBU-oyfbzPNjKLG24XW43A48Khajcg2CVYo-Utzs9s3ytF0IgOnp7f6RRK8VFTl-5kqrCEHqqI=w1000-h750-no",
-    "source_query": "Hypermarket in Neufchâteau, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ13Wg7Smd6kcRWdAA7ZJxXIg",
-    "name": "Ets Schnongs",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Neufchâteau",
-    "address": "Ets Schnongs, Chau. de Recogne 88, 6840 Neufchâteau",
-    "street": "Chau. de Recogne 88",
-    "postal_code": "6840",
-    "region": null,
-    "latitude": 49.855126999999996,
-    "longitude": 5.435232699999999,
-    "phone": "061 27 83 88",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ets%20Schnongs&query_place_id=ChIJ13Wg7Smd6kcRWdAA7ZJxXIg",
-    "open_hours_json": {
-      "Monday": [
-        "8:30 am–7 pm"
-      ],
-      "Tuesday": [
-        "8:30 am–7 pm"
-      ],
-      "Wednesday": [
-        "8:30 am–7 pm"
-      ],
-      "Thursday": [
-        "8:30 am–7 pm"
-      ],
-      "Friday": [
-        "8:30 am–7 pm"
-      ],
-      "Saturday": [
-        "8:30 am–7 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 1,
-    "rating": 3.0,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7Ri0L1IdqrWOhnL96180Dg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=348.2564&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7Ri0L1IdqrWOhnL96180Dg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=348.2564&pitch=0&thumbfov=w1000-h750-no",
-    "source_query": "Hypermarket in Neufchâteau, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJz6cV1NCc6kcR8ZEVLIBKv58",
-    "name": "Euro Boissons",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Neufchâteau",
-    "address": "Euro Boissons, Chau. de Recogne 22, 6840 Neufchâteau",
-    "street": "Chau. de Recogne 22",
-    "postal_code": "6840",
-    "region": null,
-    "latitude": 49.8512074,
-    "longitude": 5.4361131,
-    "phone": "061 27 90 02",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Euro%20Boissons&query_place_id=ChIJz6cV1NCc6kcR8ZEVLIBKv58",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "9:30 am–12:30 pm",
-        "1–6:30 pm"
-      ],
-      "Wednesday": [
-        "9:30 am–12:30 pm",
-        "1–6:30 pm"
-      ],
-      "Thursday": [
-        "9:30 am–12:30 pm",
-        "1–6:30 pm"
-      ],
-      "Friday": [
-        "9:30 am–6:30 pm"
-      ],
-      "Saturday": [
-        "9 am–6:30 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 69,
-    "rating": 4.4,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcWvRBEBjM08Q_Rh8A73dlV8SVi5f9H0F7xPZDolUSgnEskuiaID62gssjw6OnUYt6Sswk4bWHhp19qW26t96bJkkDfylPXkiPm1QimKbjrF-fYGl3L4lmHneyFSc5JXP0wdnlX=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcWvRBEBjM08Q_Rh8A73dlV8SVi5f9H0F7xPZDolUSgnEskuiaID62gssjw6OnUYt6Sswk4bWHhp19qW26t96bJkkDfylPXkiPm1QimKbjrF-fYGl3L4lmHneyFSc5JXP0wdnlX=w1000-h750-no",
-    "source_query": "Hypermarket in Neufchâteau, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJZ9GYpdCc6kcR3loBfP85o14",
-    "name": "Eurospar",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Neufchâteau",
-    "address": "Eurospar, Rue Jules Poncelet, 6840 Neufchâteau",
-    "street": "Rue Jules Poncelet",
-    "postal_code": "6840",
-    "region": null,
-    "latitude": 49.8444254,
-    "longitude": 5.4386076,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Eurospar&query_place_id=ChIJZ9GYpdCc6kcR3loBfP85o14",
-    "open_hours_json": {
-      "Monday": [
-        "9 am–6:30 pm"
-      ],
-      "Tuesday": [
-        "9 am–6:30 pm"
-      ],
-      "Wednesday": [
-        "9 am–6:30 pm"
-      ],
-      "Thursday": [
-        "9 am–6:30 pm"
-      ],
-      "Friday": [
-        "9 am–6:30 pm"
-      ],
-      "Saturday": [
-        "9 am–6:30 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 1,
-    "rating": 5.0,
-    "thumbnail_url": null,
-    "image_url": null,
-    "source_query": "Hypermarket in Neufchâteau, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ7dna6Mqd6kcRRB3ktE41H_g",
-    "name": "HouMousse",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Neufchâteau",
-    "address": "HouMousse, Rue Lucien Burnotte 2, 6840 Neufchâteau",
-    "street": "Rue Lucien Burnotte 2",
-    "postal_code": "6840",
-    "region": null,
-    "latitude": 49.840596,
-    "longitude": 5.4359914,
-    "phone": "0497 62 86 28",
-    "website": "https://www.facebook.com/HouMousse",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=HouMousse&query_place_id=ChIJ7dna6Mqd6kcRRB3ktE41H_g",
-    "open_hours_json": {
-      "Monday": [
-        "12–2 pm",
-        "6–9 pm"
-      ],
-      "Tuesday": [
-        "12–2 pm"
-      ],
-      "Wednesday": [
-        "12–2 pm"
-      ],
-      "Thursday": [
-        "12–2 pm"
-      ],
-      "Friday": [
-        "12–2 pm",
-        "6–9 pm"
-      ],
-      "Saturday": [
-        "Closed"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 60,
-    "rating": 5.0,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc6_Qso4eM_snOynMIl_DbzueONTNiFhuI0UNbTVUQNxq-e4iZmDjFquFyPK5lgrx5YHbeQvorkHvXHRWX4HTwegI0w62VYMbVn2-Td1jgfDgOAoqrTImH1RyyFqY7RuPGDLOOZvIu-MNP7=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc6_Qso4eM_snOynMIl_DbzueONTNiFhuI0UNbTVUQNxq-e4iZmDjFquFyPK5lgrx5YHbeQvorkHvXHRWX4HTwegI0w62VYMbVn2-Td1jgfDgOAoqrTImH1RyyFqY7RuPGDLOOZvIu-MNP7=w1000-h750-no",
-    "source_query": "Halal restaurant in Neufchâteau, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJzfSvMNCc6kcR3b7fuBaJSLg",
-    "name": "L'Epicerie Du Center",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Neufchâteau",
-    "address": "L'Epicerie Du Center, Rue Lucien Burnotte 13, 6840 Neufchâteau",
-    "street": "Rue Lucien Burnotte 13",
-    "postal_code": "6840",
-    "region": null,
-    "latitude": 49.8407948,
-    "longitude": 5.4356273999999996,
-    "phone": "061 27 04 27",
-    "website": "http://epicerieducentre.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=L%27Epicerie%20Du%20Center&query_place_id=ChIJzfSvMNCc6kcR3b7fuBaJSLg",
-    "open_hours_json": {
-      "Monday": [
-        "2–6:30 pm"
-      ],
-      "Tuesday": [
-        "8:30 am–6:30 pm"
-      ],
-      "Wednesday": [
-        "8:30 am–6:30 pm"
-      ],
-      "Thursday": [
-        "8:30 am–6:30 pm"
-      ],
-      "Friday": [
-        "8:30 am–6:30 pm"
-      ],
-      "Saturday": [
-        "9:30 am–5:30 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 95,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf0PmdgUSezzv0Qgr4kCudVgLdNsrTvZMzdg-hTXMEwiIFaN4aBxXx_ShYQD_AEBNGfmMboxev-53A2L-8edpx6hps6H84K-Yydfaa4IUhd-4qzN8aNWdcyZNamf_AJi9mxMb9SHw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf0PmdgUSezzv0Qgr4kCudVgLdNsrTvZMzdg-hTXMEwiIFaN4aBxXx_ShYQD_AEBNGfmMboxev-53A2L-8edpx6hps6H84K-Yydfaa4IUhd-4qzN8aNWdcyZNamf_AJi9mxMb9SHw=w1000-h750-no",
-    "source_query": "Hypermarket in Neufchâteau, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJQ2_zKNGc6kcRFB972f9nn00",
-    "name": "La Frégate",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Neufchâteau",
-    "address": "La Frégate, Av. de la Victoire 56, 6840 Neufchâteau",
-    "street": "Av. de la Victoire 56",
-    "postal_code": "6840",
-    "region": null,
-    "latitude": 49.844589799999994,
-    "longitude": 5.4353248999999995,
-    "phone": "0474 76 50 12",
-    "website": "http://www.lafregateneufchateau.wordpress.com/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Fr%C3%A9gate&query_place_id=ChIJQ2_zKNGc6kcRFB972f9nn00",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "12–3 pm",
-        "6:45–11:45 pm"
-      ],
-      "Thursday": [
-        "12–3 pm",
-        "6:45–11:45 pm"
-      ],
-      "Friday": [
-        "12–3 pm",
-        "6:45–11:45 pm"
-      ],
-      "Saturday": [
-        "12–3:30 pm",
-        "6:45–11:45 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 434,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeu4asjeCiPJ0Y9OsPhm6IaZf1MtB_2D8t-0i_4ohiCbm9gOyVbaIqN9jBz_BHvMIs1kPSnz-wEyoniXxPpEBP4K5500_8iZ4OfeDY1JeeOv3joPulFdmKUO_uUSwE36Eh4zX-TnA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeu4asjeCiPJ0Y9OsPhm6IaZf1MtB_2D8t-0i_4ohiCbm9gOyVbaIqN9jBz_BHvMIs1kPSnz-wEyoniXxPpEBP4K5500_8iZ4OfeDY1JeeOv3joPulFdmKUO_uUSwE36Eh4zX-TnA=w1000-h750-no",
-    "source_query": "Halal restaurant in Neufchâteau, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJO_sLxdGc6kcRQRPW0s2cEAE",
-    "name": "La Grande Muraille",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Neufchâteau",
-    "address": "La Grande Muraille, Rue Franklin Roosevelt 9, 6840 Neufchâteau",
-    "street": "Rue Franklin Roosevelt 9",
-    "postal_code": "6840",
-    "region": null,
-    "latitude": 49.840704099999996,
-    "longitude": 5.4348056,
-    "phone": "061 27 13 93",
-    "website": "https://localhours.top/la-grande-muraille-257923-be",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Grande%20Muraille&query_place_id=ChIJO_sLxdGc6kcRQRPW0s2cEAE",
-    "open_hours_json": {
-      "Monday": [
-        "12–2 pm",
-        "6–10 pm"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "12–2 pm",
-        "6–10 pm"
-      ],
-      "Friday": [
-        "12–2 pm",
-        "6–10 pm"
-      ],
-      "Saturday": [
-        "12–2 pm",
-        "6–10 pm"
-      ],
-      "Sunday": [
-        "12–2 pm",
-        "6–10 pm"
-      ]
-    },
-    "review_count": 176,
-    "rating": 4.2,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcHQV-kjkaEWPve-18xHevsXtsR-6yKPr4bp_cQ1flqS1tdAMzWBWW_JeFN-az71HVu8-WC1TRhZ0Q5WllnFt_Zyv1ZHz33VEcm51LDsrf7nC-nn_-q7j53CfaxQ54KTrU5uS5ZcQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcHQV-kjkaEWPve-18xHevsXtsR-6yKPr4bp_cQ1flqS1tdAMzWBWW_JeFN-az71HVu8-WC1TRhZ0Q5WllnFt_Zyv1ZHz33VEcm51LDsrf7nC-nn_-q7j53CfaxQ54KTrU5uS5ZcQ=w1000-h750-no",
-    "source_query": "Halal restaurant in Neufchâteau, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJiTblOdCc6kcRh_Sv9h84aPU",
-    "name": "Le P'tit 13",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Neufchâteau",
-    "address": "Le P'tit 13, Rue Lucien Burnotte 15, 6840 Neufchâteau",
-    "street": "Rue Lucien Burnotte 15",
-    "postal_code": "6840",
-    "region": null,
-    "latitude": 49.8407808,
-    "longitude": 5.4356751,
-    "phone": "061 40 16 72",
-    "website": "https://www.leptit13.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20P%27tit%2013&query_place_id=ChIJiTblOdCc6kcRh_Sv9h84aPU",
-    "open_hours_json": {
-      "Monday": [
-        "12–2:30 pm"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "12–2:30 pm",
-        "6:30–9 pm"
-      ],
-      "Thursday": [
-        "12–2:30 pm",
-        "6:30–9 pm"
-      ],
-      "Friday": [
-        "12–2:30 pm",
-        "6:30–9 pm"
-      ],
-      "Saturday": [
-        "6:30–9 pm"
-      ],
-      "Sunday": [
-        "12–2:30 pm",
-        "6:30–9 pm"
-      ]
-    },
-    "review_count": 252,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcVa84Sr4Hn5NIVKK91nIjjM05z7bbuO5NNlfePY4a8F0KgCzI2haagIqjTStLWv-yqw96xscz6FL6MhhhbQZZ2sERJAVSPojwRssXcsXeL5zoreaKu2dsf1Pb0JvFj2BOupc8=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcVa84Sr4Hn5NIVKK91nIjjM05z7bbuO5NNlfePY4a8F0KgCzI2haagIqjTStLWv-yqw96xscz6FL6MhhhbQZZ2sERJAVSPojwRssXcsXeL5zoreaKu2dsf1Pb0JvFj2BOupc8=w1000-h750-no",
-    "source_query": "Halal restaurant in Neufchâteau, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ_____yid6kcRdjbpE-v4OwQ",
-    "name": "Les Ateliers de la Mer",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Neufchâteau",
-    "address": "Les Ateliers de la Mer, Chau. de Recogne 54, 6840 Neufchâteau",
-    "street": "Chau. de Recogne 54",
-    "postal_code": "6840",
-    "region": null,
-    "latitude": 49.854015499999996,
-    "longitude": 5.4354607,
-    "phone": "061 55 01 62",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les%20Ateliers%20de%20la%20Mer&query_place_id=ChIJ_____yid6kcRdjbpE-v4OwQ",
-    "open_hours_json": null,
-    "review_count": 98,
-    "rating": 4.5,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeat7d_cCC3e36YSqCjuhLl2FoPXOKN-N-47g2b2M_TWZgkwKfyqmPqtBu491b7ahSlHLdfIM0a7lG5-5E57rZhQVWo5wrv-02UOQR_kucGEdxGlq_A5CUt28PvS6nnlz9UZ8mA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeat7d_cCC3e36YSqCjuhLl2FoPXOKN-N-47g2b2M_TWZgkwKfyqmPqtBu491b7ahSlHLdfIM0a7lG5-5E57rZhQVWo5wrv-02UOQR_kucGEdxGlq_A5CUt28PvS6nnlz9UZ8mA=w1000-h750-no",
-    "source_query": "Fish restaurant in Neufchâteau, Wallonia, BE",
     "moderation_status": "approved",
     "is_active": true,
     "verification_status": "UNVERIFIED",

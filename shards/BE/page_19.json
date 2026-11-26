@@ -1,5 +1,339 @@
 [
   {
+    "place_id": "ChIJdXV9MCthwUcRmaqYOSR-tLY",
+    "name": "Het land aan de overkant",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Leuven",
+    "address": "Het land aan de overkant, Léon Schreursvest 85, 3001 Leuven",
+    "street": "Léon Schreursvest 85",
+    "postal_code": "3001",
+    "region": null,
+    "latitude": 50.870928799999994,
+    "longitude": 4.7123495,
+    "phone": "016 22 61 81",
+    "website": "http://www.hetlandaandeoverkant.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Het%20land%20aan%20de%20overkant&query_place_id=ChIJdXV9MCthwUcRmaqYOSR-tLY",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "7–11 pm"
+      ],
+      "Wednesday": [
+        "12–1:30 pm",
+        "7–11 pm"
+      ],
+      "Thursday": [
+        "12–1:30 pm",
+        "7–11 pm"
+      ],
+      "Friday": [
+        "12–1:30 pm",
+        "7–11 pm"
+      ],
+      "Saturday": [
+        "7–11 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 381,
+    "rating": 4.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe_pxzWVrF44UHTSmy7l42Ro_Yxc-NGGjVbwfrrQKrTk8KBplbkHenzFmmAd79Lai5nGc6RrJl8D6224uDS6dqVopj6AKtn6YLwD95bOre2itdmytNrGzNJQANv2554lbHz-ZB6tg=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe_pxzWVrF44UHTSmy7l42Ro_Yxc-NGGjVbwfrrQKrTk8KBplbkHenzFmmAd79Lai5nGc6RrJl8D6224uDS6dqVopj6AKtn6YLwD95bOre2itdmytNrGzNJQANv2554lbHz-ZB6tg=w1000-h750-no",
+    "source_query": "Fish restaurant in Leuven, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJVWS4bzhhwUcRriz60loFpoA",
+    "name": "Holland & Barrett",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Leuven",
+    "address": "Holland & Barrett, Diestsestraat 29/31, 3000 Leuven",
+    "street": "Diestsestraat 29/31",
+    "postal_code": "3000",
+    "region": null,
+    "latitude": 50.880089999999996,
+    "longitude": 4.70285,
+    "phone": "09 282 29 68",
+    "website": "https://www.hollandandbarrett.be/winkels/leuven-diestsestraat-9023/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Holland%20%26%20Barrett&query_place_id=ChIJVWS4bzhhwUcRriz60loFpoA",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "9:30 am–6:30 pm"
+      ],
+      "Wednesday": [
+        "9:30 am–6:30 pm"
+      ],
+      "Thursday": [
+        "9:30 am–6:30 pm"
+      ],
+      "Friday": [
+        "9:30 am–6:30 pm"
+      ],
+      "Saturday": [
+        "9:30 am–6:30 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 76,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcSXTAIChC8ACo6uGvfqKenNc_mP5kpUD-VkCf0uh00k2O6t0av3amzPA47yGZqTFi4DknEnqM-O0fxN6Xp2tPWQzpdWSGsuPBBjsSCJRLsw5mZWD2hBZCiRzfdFWYykPlCRIqx=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcSXTAIChC8ACo6uGvfqKenNc_mP5kpUD-VkCf0uh00k2O6t0av3amzPA47yGZqTFi4DknEnqM-O0fxN6Xp2tPWQzpdWSGsuPBBjsSCJRLsw5mZWD2hBZCiRzfdFWYykPlCRIqx=w1000-h750-no",
+    "source_query": "Hypermarket in Leuven, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ71kNIsVgwUcRwArO8rnk4ZE",
+    "name": "Hop - gastrobar",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Leuven",
+    "address": "Hop - gastrobar, Vaartkom 1a, 3000 Leuven",
+    "street": "Vaartkom 1a",
+    "postal_code": "3000",
+    "region": null,
+    "latitude": 50.8879403,
+    "longitude": 4.7004998,
+    "phone": "016 35 61 53",
+    "website": "http://www.hopgastrobar.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Hop%20-%20gastrobar&query_place_id=ChIJ71kNIsVgwUcRwArO8rnk4ZE",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "7–11 pm"
+      ],
+      "Wednesday": [
+        "7–11 pm"
+      ],
+      "Thursday": [
+        "7–11 pm"
+      ],
+      "Friday": [
+        "12–2 pm",
+        "7–11 pm"
+      ],
+      "Saturday": [
+        "7–11 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 393,
+    "rating": 4.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcJwhLd-YXnfDOyXaa2JutlAcv_kUSZy3xBtsLdqBGiqv3Rza6dlbqZiDTRx0XUNQ-OER_0EWwwW2bxCgZBnCzfW3eNjGHfg9kTx9ukC4JSOnRVlj71dAR-Ygk1lBO2L9IU2a0=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcJwhLd-YXnfDOyXaa2JutlAcv_kUSZy3xBtsLdqBGiqv3Rza6dlbqZiDTRx0XUNQ-OER_0EWwwW2bxCgZBnCzfW3eNjGHfg9kTx9ukC4JSOnRVlj71dAR-Ygk1lBO2L9IU2a0=w1000-h750-no",
+    "source_query": "Fish restaurant in Leuven, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJfTUq_0dhwUcRsz9Df6sUMGY",
+    "name": "Indian Aroma",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Leuven",
+    "address": "Indian Aroma, Brusselsestraat 116, 3000 Leuven",
+    "street": "Brusselsestraat 116",
+    "postal_code": "3000",
+    "region": null,
+    "latitude": 50.880581299999996,
+    "longitude": 4.6951396999999995,
+    "phone": "016 41 86 77",
+    "website": "http://www.indianaroma.eu/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Indian%20Aroma&query_place_id=ChIJfTUq_0dhwUcRsz9Df6sUMGY",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLey1GWNVE4tE1ubC3b43alwrmizS2NIEHnvpGpxCWBqyh_5BBuIYHWdm2C7YhrllhkVCBldjo4e2SXUKtiLOF4U6qt9906Ysyb4jHs3HbBkiea21-VCOqwoUvkqe2WgyvJWIWmBbu8R5Clu=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLey1GWNVE4tE1ubC3b43alwrmizS2NIEHnvpGpxCWBqyh_5BBuIYHWdm2C7YhrllhkVCBldjo4e2SXUKtiLOF4U6qt9906Ysyb4jHs3HbBkiea21-VCOqwoUvkqe2WgyvJWIWmBbu8R5Clu=w1000-h750-no",
+    "rating": 4.5,
+    "review_count": 205,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJy4g3athgwUcRS6E-SooxJS4",
+    "name": "Indian Royal Food | Indian Restaurant in Leuven 🇮🇳",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Leuven",
+    "address": "Indian Royal Food | Indian Restaurant in Leuven 🇮🇳, Kapucijnenvoer 5, 3000 Leuven",
+    "street": "Kapucijnenvoer 5",
+    "postal_code": "3000",
+    "region": null,
+    "latitude": 50.8803457,
+    "longitude": 4.6937454,
+    "phone": null,
+    "website": "http://indianroyalfood.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Indian%20Royal%20Food%20%7C%20Indian%20Restaurant%20in%20Leuven%20%F0%9F%87%AE%F0%9F%87%B3&query_place_id=ChIJy4g3athgwUcRS6E-SooxJS4",
+    "open_hours_json": null,
+    "review_count": 416,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdRVsSHEhGc_3XSkVbFnomKDCCsEDta1Usebr-H-fScFB7Rwwsf-1_vDWNZLNUwDxvrVxehMy3UUBb63c1GvgaAu_2BEE6yb_aAEGrx6tnlWXXAMd1CGuvGEJxvXLgYGP1f1CW9ig=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdRVsSHEhGc_3XSkVbFnomKDCCsEDta1Usebr-H-fScFB7Rwwsf-1_vDWNZLNUwDxvrVxehMy3UUBb63c1GvgaAu_2BEE6yb_aAEGrx6tnlWXXAMd1CGuvGEJxvXLgYGP1f1CW9ig=w1000-h750-no",
+    "source_query": "Halal restaurant in Leuven, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ2Whz1GlhwUcRqUhllWNbez0",
+    "name": "Inge Haeyaert",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Leuven",
+    "address": "Inge Haeyaert, Lei 15, 3000 Leuven",
+    "street": "Lei 15",
+    "postal_code": "3000",
+    "region": null,
+    "latitude": 50.881228,
+    "longitude": 4.6964038,
+    "phone": null,
+    "website": "http://www.ingehaeyaert.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Inge%20Haeyaert&query_place_id=ChIJ2Whz1GlhwUcRqUhllWNbez0",
+    "open_hours_json": {
+      "Monday": [
+        "9:30 am–9 pm"
+      ],
+      "Tuesday": [
+        "9:30 am–6 pm"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "9:30 am–6 pm"
+      ],
+      "Friday": [
+        "9:30 am–3 pm"
+      ],
+      "Saturday": [
+        "Closed"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 0,
+    "rating": null,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe6tuts8YQ9-8_H_xFiNAfsfjCSFlf3O73Yzd8-2L8EQLEAzrkzsvs9Um8CTPdSRTWH5OfDg81SJ-oIxfWkcYGhqo_RC73ToTCwCv0dpPbKnrGlWW_zBCk_UhxA_P3pzCB7pI4=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe6tuts8YQ9-8_H_xFiNAfsfjCSFlf3O73Yzd8-2L8EQLEAzrkzsvs9Um8CTPdSRTWH5OfDg81SJ-oIxfWkcYGhqo_RC73ToTCwCv0dpPbKnrGlWW_zBCk_UhxA_P3pzCB7pI4=w1000-h750-no",
+    "source_query": "Pharmacy in Leuven, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJW99sKghhwUcRFcCR0FIFd6A",
+    "name": "Istanbul bites",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Leuven",
+    "address": "Istanbul bites, Tiensevest 14, 3000 Leuven",
+    "street": "Tiensevest 14",
+    "postal_code": "3000",
+    "region": null,
+    "latitude": 50.881867299999996,
+    "longitude": 4.713926799999999,
+    "phone": "0470 56 75 38",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Istanbul%20bites&query_place_id=ChIJW99sKghhwUcRFcCR0FIFd6A",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW2BriXosQmFJrxqjsaPA2B2ddkdd4OqEl-qms41jkWfLiNOhl_v-5ypn8UQV5BOh6jOWW51i94SeDI6xF6mYltAGcyatYYpYfhEXET7qnEYH8iybfD0xcEnouvJvFUqaxJ-b0mWFClGX-nIAcOtRzn2h06wWa5HHr-TWxAHQrbLv-1YoA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW2BriXosQmFJrxqjsaPA2B2ddkdd4OqEl-qms41jkWfLiNOhl_v-5ypn8UQV5BOh6jOWW51i94SeDI6xF6mYltAGcyatYYpYfhEXET7qnEYH8iybfD0xcEnouvJvFUqaxJ-b0mWFClGX-nIAcOtRzn2h06wWa5HHr-TWxAHQrbLv-1YoA=w1000-h750-no",
+    "rating": 3.9,
+    "review_count": 210,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJU-qYx_xhwUcRkbqFtSrqf3U",
+    "name": "Jacky's Night Shop",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Leuven",
+    "address": "Jacky's Night Shop, Sint-Jacobsplein 9, 3000 Leuven",
+    "street": "Sint-Jacobsplein 9",
+    "postal_code": "3000",
+    "region": null,
+    "latitude": 50.8791284,
+    "longitude": 4.6914554,
+    "phone": "0466 06 62 80",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Jacky%27s%20Night%20Shop&query_place_id=ChIJU-qYx_xhwUcRkbqFtSrqf3U",
+    "open_hours_json": {
+      "Monday": [
+        "6 pm–3:30 am"
+      ],
+      "Tuesday": [
+        "6 pm–3:30 am"
+      ],
+      "Wednesday": [
+        "6 pm–3:30 am"
+      ],
+      "Thursday": [
+        "6 pm–3:30 am"
+      ],
+      "Friday": [
+        "6 pm–4 am"
+      ],
+      "Saturday": [
+        "6 pm–4 am"
+      ],
+      "Sunday": [
+        "6 pm–3 am"
+      ]
+    },
+    "review_count": 12,
+    "rating": 3.9,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcGhaZyCp9w0785F8mFSOk5J9rku0nKQtC4qHulaU4l8Lx4DMcpqlGXcY_IDSDTbeE5qRRDiZJKXNGBCu7S4qib1idCh_mVjZhiGFpCFAZOzHH7H5cD-g2YxhalPXIXO1Zi5hNj=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcGhaZyCp9w0785F8mFSOk5J9rku0nKQtC4qHulaU4l8Lx4DMcpqlGXcY_IDSDTbeE5qRRDiZJKXNGBCu7S4qib1idCh_mVjZhiGFpCFAZOzHH7H5cD-g2YxhalPXIXO1Zi5hNj=w1000-h750-no",
+    "source_query": "Hypermarket in Leuven, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJGSl1dSFhwUcRat5If7YJlXE",
     "name": "KFC",
     "type": "restaurant",
@@ -98,58 +432,6 @@
     "is_active": true,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJt6bq3xBhwUcRRD-4fbEd-Dg",
-    "name": "KUL Multi-faith prayer room - Students' Mosque",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Leuven",
-    "address": "KUL Multi-faith prayer room - Students' Mosque, Celestijnenlaan 200, 3001 Leuven",
-    "street": "Celestijnenlaan 200",
-    "postal_code": "3001",
-    "region": null,
-    "latitude": 50.863446499999995,
-    "longitude": 4.6794626,
-    "phone": null,
-    "website": "https://www.kuleuven.be/english/studentservices/religion/reflection",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=KUL%20Multi-faith%20prayer%20room%20-%20Students%27%20Mosque&query_place_id=ChIJt6bq3xBhwUcRRD-4fbEd-Dg",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdq0Yok2VGjjVRxM6oJvXuR1wywkf4Muu5g0Nh_ULuzIw48e9SZXT2UwD5gZnNzo_oFYd4BlsDWDJEjIRVX_lXLFo0dITGaz8E1WwXwkE4kniP6Wv0Ae4LLagmsCcRspA6p0Ma-aw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdq0Yok2VGjjVRxM6oJvXuR1wywkf4Muu5g0Nh_ULuzIw48e9SZXT2UwD5gZnNzo_oFYd4BlsDWDJEjIRVX_lXLFo0dITGaz8E1WwXwkE4kniP6Wv0Ae4LLagmsCcRspA6p0Ma-aw=w1000-h750-no",
-    "rating": 4.6,
-    "review_count": 14,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJB4strNBgwUcRvtbHsv1jc1I",
-    "name": "KULeuven Students Mosque (IMSAL)",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Leuven",
-    "address": "KULeuven Students Mosque (IMSAL), Rijschoolstraat 23, 3000 Leuven",
-    "street": "Rijschoolstraat 23",
-    "postal_code": "3000",
-    "region": null,
-    "latitude": 50.8815819,
-    "longitude": 4.7037622,
-    "phone": null,
-    "website": "https://www.imsal.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=KULeuven%20Students%20Mosque%20%28IMSAL%29&query_place_id=ChIJB4strNBgwUcRvtbHsv1jc1I",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcGH2h9jNYAI9Z28Yf15jcaHRdWnlwIECDGN7n-iyu0I1kFpMhPL-sXSEgg1q7ygw-nyO1BFqlBXcwYs4TPybbC_yaJd4XcaIXwz9s4dNu1t67pfL_v_Iz_a9vp70qIGgVTRQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcGH2h9jNYAI9Z28Yf15jcaHRdWnlwIECDGN7n-iyu0I1kFpMhPL-sXSEgg1q7ygw-nyO1BFqlBXcwYs4TPybbC_yaJd4XcaIXwz9s4dNu1t67pfL_v_Iz_a9vp70qIGgVTRQ=w1000-h750-no",
-    "rating": 4.8,
-    "review_count": 173,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
   },
   {
     "place_id": "ChIJqdyIadlgwUcR7LSTmOkWu1I",
@@ -803,6 +1085,32 @@
     "moderation_status": "approved"
   },
   {
+    "place_id": "ChIJLSaW2odhwUcRH8WvNd11bzY",
+    "name": "Leuvense Slagerij 100% Halal",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Leuven",
+    "address": "Leuvense Slagerij 100% Halal, Brusselsestraat 85, 3000 Leuven",
+    "street": "Brusselsestraat 85",
+    "postal_code": "3000",
+    "region": null,
+    "latitude": 50.8805933,
+    "longitude": 4.6939718,
+    "phone": "0465 68 70 49",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Leuvense%20Slagerij%20100%25%20Halal&query_place_id=ChIJLSaW2odhwUcRH8WvNd11bzY",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdrzCkdgPr5wwKgIDHZ5wE-HsXMUwFxvCjM3v-bTo7_GFuhmfP_Smfv0ydKhzRpIWzJ8dth6uN9PUihNwukNEKeqSVdGkQMtf5iCPQhvGPnSiNhl_DNdLl0UnS7YhcA8aBOwkM=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdrzCkdgPr5wwKgIDHZ5wE-HsXMUwFxvCjM3v-bTo7_GFuhmfP_Smfv0ydKhzRpIWzJ8dth6uN9PUihNwukNEKeqSVdGkQMtf5iCPQhvGPnSiNhl_DNdLl0UnS7YhcA8aBOwkM=w1000-h750-no",
+    "rating": 4.1,
+    "review_count": 36,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "100% Halal",
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
     "place_id": "ChIJ51W25dlhwUcRL2IjZy0-Sf8",
     "name": "Levant's",
     "type": "restaurant",
@@ -1105,6 +1413,32 @@
     "verification_evidence": null
   },
   {
+    "place_id": "ChIJQ437rtVgwUcRW19EIWCsh2o",
+    "name": "Mediterranee Bada",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Leuven",
+    "address": "Mediterranee Bada, Maria Theresiastraat 52, 3000 Leuven",
+    "street": "Maria Theresiastraat 52",
+    "postal_code": "3000",
+    "region": null,
+    "latitude": 50.8778605,
+    "longitude": 4.7113732,
+    "phone": "0485 75 69 24",
+    "website": "https://www.leuvensgenieter.com/genieten-in-leuven-oud.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mediterranee%20Bada&query_place_id=ChIJQ437rtVgwUcRW19EIWCsh2o",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc-x2kOfHXNOembAcvb57jcGixPRNE0Lmqz1Q7Rz6LqmVuUvvdo8Rapt4n0aEFAkySLP58aEFu9k-NhXd0RR2ARioh0Y3wyouZ1XxFY24E6OOG82SWIN-N6XczHFD6W6QGFHdKo=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc-x2kOfHXNOembAcvb57jcGixPRNE0Lmqz1Q7Rz6LqmVuUvvdo8Rapt4n0aEFAkySLP58aEFu9k-NhXd0RR2ARioh0Y3wyouZ1XxFY24E6OOG82SWIN-N6XczHFD6W6QGFHdKo=w1000-h750-no",
+    "rating": 4.6,
+    "review_count": 199,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
     "place_id": "ChIJBchjLn5hwUcRvIWFv4YlifM",
     "name": "Mellek Market",
     "type": "restaurant",
@@ -1251,84 +1585,6 @@
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcN60-8FS93RlIIWLBctOkj5q-y1b_GXFo1gVf4BUTpOntiDQeVl_UYbarn7FNdCnlH6JcGp4GRsDGoe1dqZWjpN4SBZVs0TYodIaeZgE_dVl1Cw8IuMgaFhZlsl4PTp3owQEXMz9AbBdE=w1000-h750-no",
     "rating": 4.4,
     "review_count": 28,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJldHB7dxgwUcRcE14Dw68MGk",
-    "name": "Moskee Al Fath🕌",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Leuven",
-    "address": "Moskee Al Fath🕌, Penitentienenstraat 33, 3000 Leuven",
-    "street": "Penitentienenstraat 33",
-    "postal_code": "3000",
-    "region": null,
-    "latitude": 50.8846402,
-    "longitude": 4.695162799999999,
-    "phone": "0486 82 20 67",
-    "website": "http://www.alfath.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Al%20Fath%F0%9F%95%8C&query_place_id=ChIJldHB7dxgwUcRcE14Dw68MGk",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd9BwTldHonWUEtCtFi7RhzLT3-0kUqrTHHkOz5-36rToHrdRWIOUvZXB2NqfHXLAnzXu6kLrrAGyFw79yN5IkIAjAC_yr59ceyLU6pizwvV9CsXagz6Sd7yX7v8gUqLEF_GW_N=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd9BwTldHonWUEtCtFi7RhzLT3-0kUqrTHHkOz5-36rToHrdRWIOUvZXB2NqfHXLAnzXu6kLrrAGyFw79yN5IkIAjAC_yr59ceyLU6pizwvV9CsXagz6Sd7yX7v8gUqLEF_GW_N=w1000-h750-no",
-    "rating": 4.8,
-    "review_count": 114,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJ-dFyJsZgwUcRZjGXz3Svhm8",
-    "name": "Moskee Al Ihsaan",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Leuven",
-    "address": "Moskee Al Ihsaan, Kolonel Begaultlaan 45, 3012 Leuven",
-    "street": "Kolonel Begaultlaan 45",
-    "postal_code": "3012",
-    "region": null,
-    "latitude": 50.8935211,
-    "longitude": 4.7046066,
-    "phone": "016 58 28 97",
-    "website": "http://www.alihsaan.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Al%20Ihsaan&query_place_id=ChIJ-dFyJsZgwUcRZjGXz3Svhm8",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcxERmSF0zMlOCV6ZKCKyj_jJmZCZa71S1AZ7WvXrJ_G3deg-TRRPekhD8syRrZBK2tXVqiWNezV8GTdcKTX6CsvuM7g713O5pQNQ-3EDMHtYggEnvOo3jodG0ycQvOrNaLvruKRdw1_NrS=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcxERmSF0zMlOCV6ZKCKyj_jJmZCZa71S1AZ7WvXrJ_G3deg-TRRPekhD8syRrZBK2tXVqiWNezV8GTdcKTX6CsvuM7g713O5pQNQ-3EDMHtYggEnvOo3jodG0ycQvOrNaLvruKRdw1_NrS=w1000-h750-no",
-    "rating": 4.8,
-    "review_count": 113,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJS6oyQ0pnwUcRhubqPNFXGuM",
-    "name": "Moskee Al salam 🕌",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Leuven",
-    "address": "Moskee Al salam 🕌, Diestsesteenweg 72C, 3010 Leuven",
-    "street": "Diestsesteenweg 72C",
-    "postal_code": "3010",
-    "region": null,
-    "latitude": 50.883609199999995,
-    "longitude": 4.718992699999999,
-    "phone": "0488 87 09 83",
-    "website": "https://mawaqit.net/ar/m/assalam-namur",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Al%20salam%20%F0%9F%95%8C&query_place_id=ChIJS6oyQ0pnwUcRhubqPNFXGuM",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfbOAD3T1-sQuhrWGciYcYoI9Ycnb-kWIOMBmMgjvpYlb2hCiaU0sSCX9N_vfl-ocalcC3uXhKTnzp0mnuE-esx7hJ6Gno9AjVa5vpBqbG3Cbi9Ug1J8RFZ7llS3NtSdn5ppu8=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfbOAD3T1-sQuhrWGciYcYoI9Ycnb-kWIOMBmMgjvpYlb2hCiaU0sSCX9N_vfl-ocalcC3uXhKTnzp0mnuE-esx7hJ6Gno9AjVa5vpBqbG3Cbi9Ug1J8RFZ7llS3NtSdn5ppu8=w1000-h750-no",
-    "rating": 4.8,
-    "review_count": 24,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null,
     "is_active": true,
@@ -3104,6 +3360,58 @@
     "is_active": true,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJcZZOCDlhwUcRvRqMSFmV-FE",
+    "name": "Slagerij Babylon",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Leuven",
+    "address": "Slagerij Babylon, Brusselsestraat 83, 3000 Leuven",
+    "street": "Brusselsestraat 83",
+    "postal_code": "3000",
+    "region": null,
+    "latitude": 50.8805854,
+    "longitude": 4.6940079,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Slagerij%20Babylon&query_place_id=ChIJcZZOCDlhwUcRvRqMSFmV-FE",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfYxaYo8ob48SujAET8KMqGEq83NiEWsEPUiLvHQqG_XKwLq7bjumvM4wkuzPtrBxqHSOMcuRI486zUS_LqtZDMhwiNDLg0JXY--CNH8C4V33hpw9GYOSyJNY0IHHHsT5_3ag1U=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfYxaYo8ob48SujAET8KMqGEq83NiEWsEPUiLvHQqG_XKwLq7bjumvM4wkuzPtrBxqHSOMcuRI486zUS_LqtZDMhwiNDLg0JXY--CNH8C4V33hpw9GYOSyJNY0IHHHsT5_3ag1U=w1000-h750-no",
+    "rating": 4.8,
+    "review_count": 11,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJYfYVodlgwUcRH-Ye_8HJl8Q",
+    "name": "Slagerij Rondou",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Leuven",
+    "address": "Slagerij Rondou, Pensstraat 5, 3000 Leuven",
+    "street": "Pensstraat 5",
+    "postal_code": "3000",
+    "region": null,
+    "latitude": 50.8797977,
+    "longitude": 4.6998014999999995,
+    "phone": "016 22 28 27",
+    "website": "https://www.slagerijrondou.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Slagerij%20Rondou&query_place_id=ChIJYfYVodlgwUcRH-Ye_8HJl8Q",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLemTfpC-yjbkmcVZ5VkzcPpxUoI3XTQoQlWloBsmWJrhnvF0BnhubstCxpo4cfoxtnBmozy4hleyjdAjUZZU1Qcq1v2CVCQCbHJiqXJmBUxI8n7_Qjc8ih8t7N5p0CykxoVSXSvmg=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLemTfpC-yjbkmcVZ5VkzcPpxUoI3XTQoQlWloBsmWJrhnvF0BnhubstCxpo4cfoxtnBmozy4hleyjdAjUZZU1Qcq1v2CVCQCbHJiqXJmBUxI8n7_Qjc8ih8t7N5p0CykxoVSXSvmg=w1000-h750-no",
+    "rating": 4.5,
+    "review_count": 102,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
   },
   {
     "place_id": "ChIJ5xrV1OBnwUcRo3k16p0Ss_c",
@@ -10814,374 +11122,6 @@
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeKryTmg3ffFVMF4mP8Nm-Rff7fimomjdvlDGVcBZq34cTJ4rYXe6hQ2P0W14iOV7anHxayMFbJ0aS4DiB34PEY73gBiLJUB3YFeNHNIGzhExBnLG4pU9jZHqYv3Aw9D0_RLGGF=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeKryTmg3ffFVMF4mP8Nm-Rff7fimomjdvlDGVcBZq34cTJ4rYXe6hQ2P0W14iOV7anHxayMFbJ0aS4DiB34PEY73gBiLJUB3YFeNHNIGzhExBnLG4pU9jZHqYv3Aw9D0_RLGGF=w1000-h750-no",
     "source_query": "Fish restaurant in Nivelles, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJwWPFSy-PwEcRG_-4KjIElRg",
-    "name": "Au p'tit marché",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Limbourg",
-    "address": "Au p'tit marché, Rue des Ecoles 8, 4830 Limbourg",
-    "street": "Rue des Ecoles 8",
-    "postal_code": "4830",
-    "region": null,
-    "latitude": 50.620266099999995,
-    "longitude": 5.9423274,
-    "phone": "087 76 32 06",
-    "website": "https://www.facebook.com/share/12LxoNzkDBj/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Au%20p%27tit%20march%C3%A9&query_place_id=ChIJwWPFSy-PwEcRG_-4KjIElRg",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "8:30 am–6 pm"
-      ],
-      "Wednesday": [
-        "8:30 am–6 pm"
-      ],
-      "Thursday": [
-        "8:30 am–6 pm"
-      ],
-      "Friday": [
-        "8:30 am–6 pm"
-      ],
-      "Saturday": [
-        "8:30 am–3 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 25,
-    "rating": 4.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdnWtcqQTMqzTSiHbIwzwBIBrPQHn-p-rGWgORQQUWdb__8_xz5HikGvgjJDAdOWgsege1Q0aNaUoiA4tifzoEwRxuK8By-pHYXOKZbjC07iDR11PXBvQGgD0BPbQHUaQ42Auhq=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdnWtcqQTMqzTSiHbIwzwBIBrPQHn-p-rGWgORQQUWdb__8_xz5HikGvgjJDAdOWgsege1Q0aNaUoiA4tifzoEwRxuK8By-pHYXOKZbjC07iDR11PXBvQGgD0BPbQHUaQ42Auhq=w1000-h750-no",
-    "source_query": "Hypermarket in Limbourg, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ6yhyFQCPwEcR8yfmqLeYaHA",
-    "name": "Le Tamarin",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Limbourg",
-    "address": "Le Tamarin, Av. Victor David 9, 4830 Limbourg",
-    "street": "Av. Victor David 9",
-    "postal_code": "4830",
-    "region": null,
-    "latitude": 50.6200009,
-    "longitude": 5.9421231,
-    "phone": "0492 07 57 37",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Tamarin&query_place_id=ChIJ6yhyFQCPwEcR8yfmqLeYaHA",
-    "open_hours_json": {
-      "Monday": [
-        "12–2 pm"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "6:30–11 pm"
-      ],
-      "Friday": [
-        "12–11 pm"
-      ],
-      "Saturday": [
-        "6:30–11 pm"
-      ],
-      "Sunday": [
-        "12–2 pm"
-      ]
-    },
-    "review_count": 131,
-    "rating": 5.0,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc0Q1TBSqxpr-oy98Vftv7xa96OYIskkB4GDskr7s_I7mF8T6a7ZCIHrSQce7Wa284JA2TKTpdVmoQJU5Jfko7G4mHpzG04E3PWpZOgfKA6727DlGIJXmEX_FwhkSdiwNmi6GmcFGb_a0A=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc0Q1TBSqxpr-oy98Vftv7xa96OYIskkB4GDskr7s_I7mF8T6a7ZCIHrSQce7Wa284JA2TKTpdVmoQJU5Jfko7G4mHpzG04E3PWpZOgfKA6727DlGIJXmEX_FwhkSdiwNmi6GmcFGb_a0A=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Limbourg, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJdQMy-A2PwEcR2GWiptZ9U28",
-    "name": "Restaurant Domaine de Bilstain",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Limbourg",
-    "address": "Restaurant Domaine de Bilstain, Au Pairon 67, 4831 Limbourg",
-    "street": "Au Pairon 67",
-    "postal_code": "4831",
-    "region": null,
-    "latitude": 50.6324968,
-    "longitude": 5.9155074,
-    "phone": "087 76 51 79",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20Domaine%20de%20Bilstain&query_place_id=ChIJdQMy-A2PwEcR2GWiptZ9U28",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "12–2 pm"
-      ],
-      "Wednesday": [
-        "12–2 pm"
-      ],
-      "Thursday": [
-        "12–2 pm"
-      ],
-      "Friday": [
-        "12–2 pm",
-        "6–9 pm"
-      ],
-      "Saturday": [
-        "12–2 pm",
-        "6–8 pm"
-      ],
-      "Sunday": [
-        "12–2 pm",
-        "6–8 pm"
-      ]
-    },
-    "review_count": 53,
-    "rating": 4.2,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeojsVVbBylh-viCh5Pg-EOsO03BatajLIVJM_a-zwicMjbj_KJJdC87ze6BtBcJw3t7E0BLi2ThDelap9Qfb30HVRb3J9EAO4d0b4flT_3FV5sWI9XStmIKrK9FXqCzQbr26QcEQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeojsVVbBylh-viCh5Pg-EOsO03BatajLIVJM_a-zwicMjbj_KJJdC87ze6BtBcJw3t7E0BLi2ThDelap9Qfb30HVRb3J9EAO4d0b4flT_3FV5sWI9XStmIKrK9FXqCzQbr26QcEQ=w1000-h750-no",
-    "source_query": "Fish restaurant in Limbourg, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJg5BBDADFw0cRXNX6nNL5qE4",
-    "name": "Burgerito (Burgers & more)",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Linkebeek",
-    "address": "Burgerito (Burgers & more), Chau. d'Alsemberg 59, 1630 Linkebeek",
-    "street": "Steenweg op Alsemberg 59",
-    "postal_code": "1630",
-    "region": null,
-    "latitude": 50.7749862,
-    "longitude": 4.3265858,
-    "phone": "0470 98 37 31",
-    "website": "http://burgerito.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Burgerito%20%28Burgers%20%26%20more%29&query_place_id=ChIJg5BBDADFw0cRXNX6nNL5qE4",
-    "open_hours_json": {
-      "Monday": [
-        "11:30 am–2 pm",
-        "5:30–10:30 pm"
-      ],
-      "Tuesday": [
-        "11:30 am–2 pm",
-        "5:30–10:30 pm"
-      ],
-      "Wednesday": [
-        "11:30 am–2 pm",
-        "5:30–10:30 pm"
-      ],
-      "Thursday": [
-        "11:30 am–2 pm",
-        "5:30–10:30 pm"
-      ],
-      "Friday": [
-        "11:30 am–2 pm",
-        "5:30–10:30 pm"
-      ],
-      "Saturday": [
-        "11:30 am–2 pm",
-        "5:30–10:30 pm"
-      ],
-      "Sunday": [
-        "11:30 am–2 pm",
-        "5:30–10:30 pm"
-      ]
-    },
-    "review_count": 118,
-    "rating": 4.8,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf8jWCaI6lF6-sZpbCwVS2tos6C7hDE9he5gieh2rKCyS8fao7Nqq9WGakBHa287QjlRY_U2jo3HSjKk7OfOrKyAUN7cqohYIVBA-mwCwoEfmmudJ4gN955xxSv-E8aEF8T-7b6c7Kg90A=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf8jWCaI6lF6-sZpbCwVS2tos6C7hDE9he5gieh2rKCyS8fao7Nqq9WGakBHa287QjlRY_U2jo3HSjKk7OfOrKyAUN7cqohYIVBA-mwCwoEfmmudJ4gN955xxSv-E8aEF8T-7b6c7Kg90A=w1000-h750-no",
-    "source_query": "Halal restaurant in Sint-Genesius-Rode, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJiT4izW4sw0cRvy_M8nlT8aw",
-    "name": "Auchan Supermarché AUCHAN SUPERMARCHÉ LINSELLES",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "FR",
-    "country_code": "FR",
-    "city": "Linselles",
-    "address": "Auchan Supermarché AUCHAN SUPERMARCHÉ LINSELLES, Pl. de la Victoire, 59126 Linselles, France",
-    "street": "Pl. de la Victoire",
-    "postal_code": "59126",
-    "region": null,
-    "latitude": 50.737167,
-    "longitude": 3.078852,
-    "phone": "+33 3 20 03 07 43",
-    "website": "https://www.auchan.fr/magasins/supermarche/auchan-supermarche-linselles/s-1190?utm_source=gmb",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Auchan%20Supermarch%C3%A9%20AUCHAN%20SUPERMARCH%C3%89%20LINSELLES&query_place_id=ChIJiT4izW4sw0cRvy_M8nlT8aw",
-    "open_hours_json": {
-      "Monday": [
-        "8:30 am–8 pm"
-      ],
-      "Tuesday": [
-        "8:30 am–8 pm"
-      ],
-      "Wednesday": [
-        "8:30 am–8 pm"
-      ],
-      "Thursday": [
-        "8:30 am–8 pm"
-      ],
-      "Friday": [
-        "8:30 am–8 pm"
-      ],
-      "Saturday": [
-        "8:30 am–8 pm"
-      ],
-      "Sunday": [
-        "9 am–12:30 pm",
-        "1–7:30 pm"
-      ]
-    },
-    "review_count": 730,
-    "rating": 3.8,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcUoW9ci9_jwWSLSxuvPqWHC1MzP1zrX7nLhNJWM7pepDXWQ4eovRkaDdvcMGqgd6fZRp5n9iyG8ub2ewaTeM9cBWvnxjExlysWEzxtoBEBsBE9sh5NnaDJV_aeUcXCqKC8JuQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcUoW9ci9_jwWSLSxuvPqWHC1MzP1zrX7nLhNJWM7pepDXWQ4eovRkaDdvcMGqgd6fZRp5n9iyG8ub2ewaTeM9cBWvnxjExlysWEzxtoBEBsBE9sh5NnaDJV_aeUcXCqKC8JuQ=w1000-h750-no",
-    "source_query": "Hypermarket in Comines, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJbZoWdhD6wEcRRBLT4XEJM88",
-    "name": "7 Express",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Liège",
-    "address": "7 Express, Bd de la Sauvenière 186, 4000 Liège",
-    "street": "Bd de la Sauvenière 186",
-    "postal_code": "4000",
-    "region": null,
-    "latitude": 50.6401415,
-    "longitude": 5.5683507,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=7%20Express&query_place_id=ChIJbZoWdhD6wEcRRBLT4XEJM88",
-    "open_hours_json": {
-      "Monday": [
-        "12–7 am",
-        "11 am–12 am"
-      ],
-      "Tuesday": [
-        "12–7 am",
-        "11 am–12 am"
-      ],
-      "Wednesday": [
-        "12–7 am",
-        "11 am–12 am"
-      ],
-      "Thursday": [
-        "12–7 am",
-        "11 am–12 am"
-      ],
-      "Friday": [
-        "12–7 am",
-        "11 am–12 am"
-      ],
-      "Saturday": [
-        "12–7 am",
-        "11 am–12 am"
-      ],
-      "Sunday": [
-        "12–7 am",
-        "11 am–12 am"
-      ]
-    },
-    "review_count": 16,
-    "rating": 3.1,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe9-nR-Qx4BplCvFtMPWlwlerl7Tg7eSCD7Q4gGgraxbeAuZfyP0Kitf98-gk02i2zcZ7qJKLgvVALoKGQaenR9uAZFM-KScEz4yEY--PJLT9gTLKSgoGfijsXBXsK5yaJiVncjpA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe9-nR-Qx4BplCvFtMPWlwlerl7Tg7eSCD7Q4gGgraxbeAuZfyP0Kitf98-gk02i2zcZ7qJKLgvVALoKGQaenR9uAZFM-KScEz4yEY--PJLT9gTLKSgoGfijsXBXsK5yaJiVncjpA=w1000-h750-no",
-    "source_query": "Hypermarket in Liège, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJaRxO2KfwwEcRWyWmk09uTkM",
-    "name": "ASKO épicerie asiatique",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Liège",
-    "address": "ASKO épicerie asiatique, Rue Puits-en-Sock 95, 4020 Liège",
-    "street": "Rue Puits-en-Sock 95",
-    "postal_code": "4020",
-    "region": null,
-    "latitude": 50.6393658,
-    "longitude": 5.5850611,
-    "phone": "04 343 32 68",
-    "website": "https://www.facebook.com/xuanduyen.nguyen.7564",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=ASKO%20%C3%A9picerie%20asiatique&query_place_id=ChIJaRxO2KfwwEcRWyWmk09uTkM",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "9:30 am–6:30 pm"
-      ],
-      "Wednesday": [
-        "9 am–6:30 pm"
-      ],
-      "Thursday": [
-        "9:30 am–6:30 pm"
-      ],
-      "Friday": [
-        "9:30 am–6:30 pm"
-      ],
-      "Saturday": [
-        "9:30 am–6:30 pm"
-      ],
-      "Sunday": [
-        "9:30 am–5 pm"
-      ]
-    },
-    "review_count": 143,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe4Gb_hxbqGqprDGkJlrQvMalHPM3F9PZQIVvRJLIv72G5ol7OvK5BAZ8lEF08hViVPXPsZPdY4ushadJWNn8leAnnuuzUlS2QkHZBrDW1tLD8dqZSYHi8QFOcsABQAeM8fxNCPfQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe4Gb_hxbqGqprDGkJlrQvMalHPM3F9PZQIVvRJLIv72G5ol7OvK5BAZ8lEF08hViVPXPsZPdY4ushadJWNn8leAnnuuzUlS2QkHZBrDW1tLD8dqZSYHi8QFOcsABQAeM8fxNCPfQ=w1000-h750-no",
-    "source_query": "Hypermarket in Liège, Wallonia, BE",
     "moderation_status": "approved",
     "is_active": true,
     "verification_status": "UNVERIFIED",
