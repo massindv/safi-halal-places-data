@@ -1,5 +1,58 @@
 [
   {
+    "place_id": "ChIJk5kc-FPjwEcRA3TWLclQE3o",
+    "name": "Restaurant Hēdonē",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tongeren-Borgloon",
+    "address": "Restaurant Hēdonē, Stationslaan 6, 3700 Tongeren-Borgloon",
+    "street": "Stationslaan 6",
+    "postal_code": "3700",
+    "region": null,
+    "latitude": 50.7834115,
+    "longitude": 5.4709978999999995,
+    "phone": "012 67 10 16",
+    "website": "https://www.restauranthedone.be/nl",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20H%C4%93don%C4%93&query_place_id=ChIJk5kc-FPjwEcRA3TWLclQE3o",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "7–8:30 pm"
+      ],
+      "Wednesday": [
+        "12–2 pm",
+        "7–8:30 pm"
+      ],
+      "Thursday": [
+        "12–2 pm",
+        "7–8:30 pm"
+      ],
+      "Friday": [
+        "12–2 pm",
+        "7–8:30 pm"
+      ],
+      "Saturday": [
+        "7–8:30 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 74,
+    "rating": 4.9,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLejjW9BByJuNocdTf78Br4j1ZTWkfA2GWSotdJF9snbgAnTiTuwbReaoCJE3knw68rqarQC3UkR4vLE8keX2vkfQxWFdDHYYXhUYLQWetqqEhVARpE7ULYGQq6caM2EJO_jzNhl4w=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLejjW9BByJuNocdTf78Br4j1ZTWkfA2GWSotdJF9snbgAnTiTuwbReaoCJE3knw68rqarQC3UkR4vLE8keX2vkfQxWFdDHYYXhUYLQWetqqEhVARpE7ULYGQq6caM2EJO_jzNhl4w=w1000-h750-no",
+    "source_query": "Halal restaurant in Tongeren, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJeT675DniwEcRImJpIXTbNZ8",
     "name": "Restaurant Konings",
     "type": "restaurant",
@@ -902,8 +955,8 @@
     "phone": "+33 3 20 25 41 72",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Centre%20Culturel%20et%20Mosqu%C3%A9e%20des%20Musulmans%20de%20Tourcoing&query_place_id=ChIJnZ87rikvw0cREY46iEQ3PY4",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdx-1HyB7rMfPsjIHyZjztcBL9EGfqC0fYhLbTOs1z7-uYaPygWEPWtzd4Scsn5e8zUnVOvtq1bYsc_jzeTsW2rXxiSzj-z0yRMaKtQdzxG06sQ5AwINlW1Mxtrk6TBFHTHBVZs-S5_F9Ta=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdx-1HyB7rMfPsjIHyZjztcBL9EGfqC0fYhLbTOs1z7-uYaPygWEPWtzd4Scsn5e8zUnVOvtq1bYsc_jzeTsW2rXxiSzj-z0yRMaKtQdzxG06sQ5AwINlW1Mxtrk6TBFHTHBVZs-S5_F9Ta=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf3hZPZB1e4HZPrnOq37Fb8X3N6J-iRjamCKpeH7A0q2_vSSLgYVwK5P_UImzc-amwcCE5_GSYr_zrtXJKeqP9vvA9GqSSRRKriEQPFeb1inN9ZuClDGqooOLl8MUPRWRIrVeYxjcwibOBI=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf3hZPZB1e4HZPrnOq37Fb8X3N6J-iRjamCKpeH7A0q2_vSSLgYVwK5P_UImzc-amwcCE5_GSYr_zrtXJKeqP9vvA9GqSSRRKriEQPFeb1inN9ZuClDGqooOLl8MUPRWRIrVeYxjcwibOBI=w1000-h750-no",
     "rating": 4.7,
     "review_count": 84,
     "verification_status": "UNVERIFIED",
@@ -1168,8 +1221,8 @@
     "phone": "+33 3 20 03 82 33",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mosqu%C3%A9e%20Ibn%20Taymiya&query_place_id=ChIJP9aLWswuw0cRuuGH3mbnO08",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc66cGzDPvKSYCg264ykQm6wZXf9w9rg6fqsR8gpawJEGJDxqxK3GIOypTB226zfCLDg34ZT9KA20fOMITjIEdaEYyzGhr4C_EY_Jm22GFbTJ9NlYdDxJefK4GTjggl7WRzHEhbpI_qcU1B=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc66cGzDPvKSYCg264ykQm6wZXf9w9rg6fqsR8gpawJEGJDxqxK3GIOypTB226zfCLDg34ZT9KA20fOMITjIEdaEYyzGhr4C_EY_Jm22GFbTJ9NlYdDxJefK4GTjggl7WRzHEhbpI_qcU1B=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLee4p3eiV2F3ONUM_UjyFFrtJKpdQqFiHFUgfUcO109BnlaERE2mBMBfRICMsdWz7ytINBIWb5LT5GWUyeAski99wfeInAHxxCC9_oM9P8rRlswUNfC94Ij8Ytb-dupdK58JPpPZYJPRx-f=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLee4p3eiV2F3ONUM_UjyFFrtJKpdQqFiHFUgfUcO109BnlaERE2mBMBfRICMsdWz7ytINBIWb5LT5GWUyeAski99wfeInAHxxCC9_oM9P8rRlswUNfC94Ij8Ytb-dupdK58JPpPZYJPRx-f=w1000-h750-no",
     "rating": 4.8,
     "review_count": 87,
     "verification_status": "UNVERIFIED",
@@ -3726,8 +3779,8 @@
     "phone": "0489 65 54 95",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=GRILL%20HOUSE&query_place_id=ChIJWcz4qCDhwkcRNg8hH4T98Q0",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfq6nDXUsyDfe6sdrZuGBJSP1C_-NAEYCOhT5rgemdRlwEWRNWSRLIDMejMRKF2KeQ8pDRTCPb3mbYDPBRGxboJORA7PnaoOV39lDfr1FEgwjhsDLXLd0C2nDYd9g9qNiLxPw0jsdlBoGGz=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfq6nDXUsyDfe6sdrZuGBJSP1C_-NAEYCOhT5rgemdRlwEWRNWSRLIDMejMRKF2KeQ8pDRTCPb3mbYDPBRGxboJORA7PnaoOV39lDfr1FEgwjhsDLXLd0C2nDYd9g9qNiLxPw0jsdlBoGGz=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLej7IRRiyR-oqse98z6B5l_GgyXDxmWH3iva3Y0VBWBTHKwK8NKuHjMw1dEsv0kV47AfQw94ft2chpgHrlmSJvvxYZl-cypYZjgXN-DeQjwzbkRbSisvbjtG2YbbFTZtkIfzoR6DSwq2E1T=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLej7IRRiyR-oqse98z6B5l_GgyXDxmWH3iva3Y0VBWBTHKwK8NKuHjMw1dEsv0kV47AfQw94ft2chpgHrlmSJvvxYZl-cypYZjgXN-DeQjwzbkRbSisvbjtG2YbbFTZtkIfzoR6DSwq2E1T=w1000-h750-no",
     "rating": 4.8,
     "review_count": 271,
     "verification_status": "UNVERIFIED",
@@ -6138,8 +6191,8 @@
     "phone": "0487 96 56 72",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=O%E2%80%99break&query_place_id=ChIJ1QCIHinhwkcRlEJFvHZ2ZIY",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW0r9MskdMiiUTImdXT91mJiMocMZIElatTpinLZkP5pQkyTP9aZywEKjAY0HzJ_tU1O0LhvpPKL9Zd3hIDG1onjZcj-46URJL5rQigr3x_kHBUmn0LeWu79kY96M8p-fS5ilktVLxS2DuAuJvg_RXlafJzwGNawR4zQUgLRPeQSJ7_KHIDwOSfTUQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW0r9MskdMiiUTImdXT91mJiMocMZIElatTpinLZkP5pQkyTP9aZywEKjAY0HzJ_tU1O0LhvpPKL9Zd3hIDG1onjZcj-46URJL5rQigr3x_kHBUmn0LeWu79kY96M8p-fS5ilktVLxS2DuAuJvg_RXlafJzwGNawR4zQUgLRPeQSJ7_KHIDwOSfTUQ=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW1QsNTAu06eLl46q7ojK9VMPkKkxJc-z0lAPcSF26eKFqAnYgaVbjZVxlVCpg4DJ_fz9L-8sOCIxE6pMjD5r-HTpK5H_SCrDk6UiqyvMLlOyYxw7Z66AMC1aPRUzl2JBR1cPsZWhn9n-cZtce34Lwo5YNXya3rpTu8nsnJjjKWLsiN0tLX8ynh7EA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW1QsNTAu06eLl46q7ojK9VMPkKkxJc-z0lAPcSF26eKFqAnYgaVbjZVxlVCpg4DJ_fz9L-8sOCIxE6pMjD5r-HTpK5H_SCrDk6UiqyvMLlOyYxw7Z66AMC1aPRUzl2JBR1cPsZWhn9n-cZtce34Lwo5YNXya3rpTu8nsnJjjKWLsiN0tLX8ynh7EA=w1000-h750-no",
     "rating": 5.0,
     "review_count": 156,
     "verification_status": "VERIFIED",
@@ -10472,56 +10525,6 @@
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfrqhxAe3sWWndqGIe1ztWvOmYm2cG-DL3BuRZxUXOj1RVnWH9uhK2R9lZMUgRUyaoqRASXCEdI1IlJk35oBIZi947RjRiyAb17gAf4cuxfbxUWaQh2yqW35iULl1xh4_nxIOdnYA=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfrqhxAe3sWWndqGIe1ztWvOmYm2cG-DL3BuRZxUXOj1RVnWH9uhK2R9lZMUgRUyaoqRASXCEdI1IlJk35oBIZi947RjRiyAb17gAf4cuxfbxUWaQh2yqW35iULl1xh4_nxIOdnYA=w1000-h750-no",
     "source_query": "Hypermarket in Turnhout, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJczq4HwCzxkcR2c2I2WUZ6wI",
-    "name": "Calamero",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Turnhout",
-    "address": "Calamero, Otterstraat 30, 2300 Turnhout",
-    "street": "Otterstraat 30",
-    "postal_code": "2300",
-    "region": null,
-    "latitude": 51.322183499999994,
-    "longitude": 4.9515714,
-    "phone": "014 87 41 63",
-    "website": "http://www.calamero.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Calamero&query_place_id=ChIJczq4HwCzxkcR2c2I2WUZ6wI",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "12:30–9 pm"
-      ],
-      "Wednesday": [
-        "12:30–9 pm"
-      ],
-      "Thursday": [
-        "12:30–9 pm"
-      ],
-      "Friday": [
-        "12:30–10 pm"
-      ],
-      "Saturday": [
-        "12:30–10 pm"
-      ],
-      "Sunday": [
-        "12:30–9 pm"
-      ]
-    },
-    "review_count": 61,
-    "rating": 4.8,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeUYabIqnrTrIyoTYUTQs1ukjKBZ8-YbBWgjTIB8Jn3Wo066eR5kUX2xYEiVOiTwTz4LxiraNjo0sZaHHX8ySxcWo4cg0gu0Sc_q1hE8ScUFmS9AWGrjAsH9_q26Tph9vDGHVEbaA4ECkg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeUYabIqnrTrIyoTYUTQs1ukjKBZ8-YbBWgjTIB8Jn3Wo066eR5kUX2xYEiVOiTwTz4LxiraNjo0sZaHHX8ySxcWo4cg0gu0Sc_q1hE8ScUFmS9AWGrjAsH9_q26Tph9vDGHVEbaA4ECkg=w1000-h750-no",
-    "source_query": "Halal restaurant in Turnhout, Flanders, BE",
     "moderation_status": "approved",
     "is_active": true,
     "verification_status": "UNVERIFIED",
