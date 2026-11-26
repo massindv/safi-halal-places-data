@@ -1,5 +1,628 @@
 [
   {
+    "place_id": "ChIJNUwVvJjPw0cRXvDWtJiKljM",
+    "name": "New Start",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Sint-Genesius-Rode",
+    "address": "New Start, Zoniënwoudlaan 333, 1640 Sint-Genesius-Rode",
+    "street": "Zoniënwoudlaan 333",
+    "postal_code": "1640",
+    "region": null,
+    "latitude": 50.7569862,
+    "longitude": 4.378983799999999,
+    "phone": "02 358 63 60",
+    "website": "https://www.newstart.nl/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=New%20Start&query_place_id=ChIJNUwVvJjPw0cRXvDWtJiKljM",
+    "open_hours_json": {
+      "Monday": [
+        "8:30 am–7 pm"
+      ],
+      "Tuesday": [
+        "8:30 am–7 pm"
+      ],
+      "Wednesday": [
+        "8:30 am–7 pm"
+      ],
+      "Thursday": [
+        "8:30 am–7 pm"
+      ],
+      "Friday": [
+        "8:30 am–7 pm"
+      ],
+      "Saturday": [
+        "8:30 am–7 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 2,
+    "rating": 2.5,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0VV6ugYs8Q7iAUqqzO02OQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=346.29688&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0VV6ugYs8Q7iAUqqzO02OQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=346.29688&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Hypermarket in Sint-Genesius-Rode, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJlcN9cB_Pw0cRfC_8MKxoKMU",
+    "name": "Rhino Sint-Genesius-Rode",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Sint-Genesius-Rode",
+    "address": "Rhino Sint-Genesius-Rode, Zoniënwoudlaan 322, 1640 Sint-Genesius-Rode",
+    "street": "Zoniënwoudlaan 322",
+    "postal_code": "1640",
+    "region": null,
+    "latitude": 50.7573595,
+    "longitude": 4.3804872999999995,
+    "phone": "02 882 19 68",
+    "website": "https://www.rhino.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Rhino%20Sint-Genesius-Rode&query_place_id=ChIJlcN9cB_Pw0cRfC_8MKxoKMU",
+    "open_hours_json": null,
+    "review_count": 18,
+    "rating": 4.1,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLePkWOWDSfcuT9QitLd_u31WChcfq4zGvNLn6tUXtZGQP19VYJKbNA6-JZQhygc0UDOjJeDYBruVb2hOUrxKLUbQsgRGfpibGTtno53SOIP2R-ORm0DM8u9-BPPqVOzFwLHsWeR=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLePkWOWDSfcuT9QitLd_u31WChcfq4zGvNLn6tUXtZGQP19VYJKbNA6-JZQhygc0UDOjJeDYBruVb2hOUrxKLUbQsgRGfpibGTtno53SOIP2R-ORm0DM8u9-BPPqVOzFwLHsWeR=w1000-h750-no",
+    "source_query": "Hypermarket in Sint-Genesius-Rode, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJO8cAFhDPw0cROks6MhuWJRk",
+    "name": "SPAR Sint-Genesius-Rode",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Sint-Genesius-Rode",
+    "address": "SPAR Sint-Genesius-Rode, Hallesesteenweg 215, 1640 Sint-Genesius-Rode",
+    "street": "Hallesesteenweg 215",
+    "postal_code": "1640",
+    "region": null,
+    "latitude": 50.7349136,
+    "longitude": 4.3268572,
+    "phone": "02 380 32 27",
+    "website": "https://www.mijnspar.be/winkels/spar-sint-genesius-rode",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=SPAR%20Sint-Genesius-Rode&query_place_id=ChIJO8cAFhDPw0cROks6MhuWJRk",
+    "open_hours_json": {
+      "Monday": [
+        "8 am–8 pm"
+      ],
+      "Tuesday": [
+        "8 am–8 pm"
+      ],
+      "Wednesday": [
+        "8 am–8 pm"
+      ],
+      "Thursday": [
+        "8 am–8 pm"
+      ],
+      "Friday": [
+        "8 am–8 pm"
+      ],
+      "Saturday": [
+        "8 am–8 pm"
+      ],
+      "Sunday": [
+        "8 am–8 pm"
+      ]
+    },
+    "review_count": 445,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfC_meD45R2mnOa1L2u-RAHhsyH3ozGefICWdBiZYFmXbLMvdlf_j8Bsas6kiSqrMcUfNoddxmzD9WAzOs3v33aMBdbJL3alVtoXiQk2H5SYswlceuaVX7voLwhOIR8V0-Iu3VLeg=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfC_meD45R2mnOa1L2u-RAHhsyH3ozGefICWdBiZYFmXbLMvdlf_j8Bsas6kiSqrMcUfNoddxmzD9WAzOs3v33aMBdbJL3alVtoXiQk2H5SYswlceuaVX7voLwhOIR8V0-Iu3VLeg=w1000-h750-no",
+    "source_query": "Hypermarket in Sint-Genesius-Rode, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ84PKPQDPw0cRAUsBlmmBqS0",
+    "name": "Spar",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Sint-Genesius-Rode",
+    "address": "Spar, 1640 Sint-Genesius-Rode",
+    "street": null,
+    "postal_code": null,
+    "region": null,
+    "latitude": 50.743260299999996,
+    "longitude": 4.3465049,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Spar&query_place_id=ChIJ84PKPQDPw0cRAUsBlmmBqS0",
+    "open_hours_json": null,
+    "review_count": 0,
+    "rating": null,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=azRZTm83LiMPmiRTs-7J3w&cb_client=search.gws-prod.grass&w=80&h=92&yaw=185.05252&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=azRZTm83LiMPmiRTs-7J3w&cb_client=search.gws-prod.grass&w=80&h=92&yaw=185.05252&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Hypermarket in Sint-Genesius-Rode, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJFTR90tPRw0cRZZJkGVWRpks",
+    "name": "Stonemanor - Sint-Genesius-Rode",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Sint-Genesius-Rode",
+    "address": "Stonemanor - Sint-Genesius-Rode, Waterloosesteenweg 41, 1640 Sint-Genesius-Rode",
+    "street": "Waterloosesteenweg 41",
+    "postal_code": "1640",
+    "region": null,
+    "latitude": 50.745179699999994,
+    "longitude": 4.3951356,
+    "phone": "02 351 63 53",
+    "website": "http://www.stonemanor.uk.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Stonemanor%20-%20Sint-Genesius-Rode&query_place_id=ChIJFTR90tPRw0cRZZJkGVWRpks",
+    "open_hours_json": {
+      "Monday": [
+        "10 am–7 pm"
+      ],
+      "Tuesday": [
+        "10 am–7 pm"
+      ],
+      "Wednesday": [
+        "10 am–7 pm"
+      ],
+      "Thursday": [
+        "10 am–7 pm"
+      ],
+      "Friday": [
+        "10 am–7 pm"
+      ],
+      "Saturday": [
+        "10 am–7 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 370,
+    "rating": 4.4,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcOCyEvne7vHOf1vc8sR2vf4ROiJ27bXpyUXIXyFCSKSOu9fa_Vl4m_5mahvPXrSzvGc5IJm2dzXTR5vqoIZKQfoL5gje58qITIDTH1_grFYB_AyrOxKdBT4WMlf43w1h83rRe2=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcOCyEvne7vHOf1vc8sR2vf4ROiJ27bXpyUXIXyFCSKSOu9fa_Vl4m_5mahvPXrSzvGc5IJm2dzXTR5vqoIZKQfoL5gje58qITIDTH1_grFYB_AyrOxKdBT4WMlf43w1h83rRe2=w1000-h750-no",
+    "source_query": "Hypermarket in Sint-Genesius-Rode, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ7UK8xpnPw0cRJHuIMB-5NqI",
+    "name": "Thai spice",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Sint-Genesius-Rode",
+    "address": "Thai spice, Termeulenstraat 44, 1640 Sint-Genesius-Rode",
+    "street": "Termeulenstraat 44",
+    "postal_code": "1640",
+    "region": null,
+    "latitude": 50.747122,
+    "longitude": 4.354092,
+    "phone": "02 372 22 34",
+    "website": "http://www.thaispice.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Thai%20spice&query_place_id=ChIJ7UK8xpnPw0cRJHuIMB-5NqI",
+    "open_hours_json": {
+      "Monday": [
+        "6–9:30 pm"
+      ],
+      "Tuesday": [
+        "12–2 pm",
+        "6–9:30 pm"
+      ],
+      "Wednesday": [
+        "12–2 pm",
+        "6–9:30 pm"
+      ],
+      "Thursday": [
+        "12–2 pm",
+        "6–9:30 pm"
+      ],
+      "Friday": [
+        "12–2 pm",
+        "6–9:30 pm"
+      ],
+      "Saturday": [
+        "6–9:30 pm"
+      ],
+      "Sunday": [
+        "6–9:30 pm"
+      ]
+    },
+    "review_count": 98,
+    "rating": 3.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfoI_ZC5fXXquN40wFyOVrz0cHVGFpCH9URXvCBo0j1cbHm5qrxfeDsOsNlMEgSU-Bqw-rW9yDuBEdG0QD_poCUp2lDBfdekb_6O_UfPoTC56vErphr3On21JvsPiey_xw5tt3O=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfoI_ZC5fXXquN40wFyOVrz0cHVGFpCH9URXvCBo0j1cbHm5qrxfeDsOsNlMEgSU-Bqw-rW9yDuBEdG0QD_poCUp2lDBfdekb_6O_UfPoTC56vErphr3On21JvsPiey_xw5tt3O=w1000-h750-no",
+    "source_query": "Halal restaurant in Sint-Genesius-Rode, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJw9AkRFHPw0cRog2Cc5LtwL8",
+    "name": "Tra Amici",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Sint-Genesius-Rode",
+    "address": "Tra Amici, Rue du Hameau 182, 1640 Rhode-Saint-Genèse",
+    "street": "Rue du Hameau 182",
+    "postal_code": "1640",
+    "region": null,
+    "latitude": 50.7388987,
+    "longitude": 4.3723695,
+    "phone": "02 537 89 00",
+    "website": "http://www.tra-amici.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Tra%20Amici&query_place_id=ChIJw9AkRFHPw0cRog2Cc5LtwL8",
+    "open_hours_json": {
+      "Monday": [
+        "6–10 pm"
+      ],
+      "Tuesday": [
+        "6–10 pm"
+      ],
+      "Wednesday": [
+        "6–10 pm"
+      ],
+      "Thursday": [
+        "6–10 pm"
+      ],
+      "Friday": [
+        "6–10 pm"
+      ],
+      "Saturday": [
+        "6–10 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 257,
+    "rating": 4.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcy99Wpix2CEwomlE-XEgxVMbxvJazdVIwVSFvO-nAfAVasznegR1WflfmYyq9YQLXzilRjPXsXlO03ETRtBEN1oFTP1rWAIvi-XUycJGu9im5s2-jtDyxmWiaoQxGbGrMpknFsaA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcy99Wpix2CEwomlE-XEgxVMbxvJazdVIwVSFvO-nAfAVasznegR1WflfmYyq9YQLXzilRjPXsXlO03ETRtBEN1oFTP1rWAIvi-XUycJGu9im5s2-jtDyxmWiaoQxGbGrMpknFsaA=w1000-h750-no",
+    "source_query": "Halal restaurant in Sint-Genesius-Rode, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJC3QjxPDPw0cRU8dYMXE7bRo",
+    "name": "Yi Jiang Nan • Restaurant",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Sint-Genesius-Rode",
+    "address": "Yi Jiang Nan • Restaurant, Av. de la Forêt de Soignes 359, 1640 Rhode-Saint-Genèse",
+    "street": "Zoniënwoudlaan 359",
+    "postal_code": "1640",
+    "region": null,
+    "latitude": 50.757473999999995,
+    "longitude": 4.379983,
+    "phone": "02 380 30 38",
+    "website": "http://www.yijiangnanrestaurant.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Yi%20Jiang%20Nan%20%E2%80%A2%20Restaurant&query_place_id=ChIJC3QjxPDPw0cRU8dYMXE7bRo",
+    "open_hours_json": {
+      "Monday": [
+        "7–10 pm"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "7–10 pm"
+      ],
+      "Friday": [
+        "7–10 pm"
+      ],
+      "Saturday": [
+        "7–10 pm"
+      ],
+      "Sunday": [
+        "12–2 pm",
+        "7–10 pm"
+      ]
+    },
+    "review_count": 221,
+    "rating": 4.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcrKkx5haIllRW0uig1_-fbmSmCkZBHhWlv9PRoaSJEuNuPW32Jo4QAISbnC4xJOZLzjBQ-sXpMtIz7j8ukPX1GGevWw0r2SGGJ5W0v1gwmeBJPpMTWmED2Q793oHKjlaAY3Qo=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcrKkx5haIllRW0uig1_-fbmSmCkZBHhWlv9PRoaSJEuNuPW32Jo4QAISbnC4xJOZLzjBQ-sXpMtIz7j8ukPX1GGevWw0r2SGGJ5W0v1gwmeBJPpMTWmED2Q793oHKjlaAY3Qo=w1000-h750-no",
+    "source_query": "Halal restaurant in Sint-Genesius-Rode, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJn2mct0zPw0cRu_fJcXZVPa0",
+    "name": "marlu",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Sint-Genesius-Rode",
+    "address": "marlu, Onze-Lieve-Vrouw-Voorplein 3, 1640 Sint-Genesius-Rode",
+    "street": "Onze-Lieve-Vrouw-Voorplein 3",
+    "postal_code": "1640",
+    "region": null,
+    "latitude": 50.756585099999995,
+    "longitude": 4.3812126,
+    "phone": "02 380 44 51",
+    "website": "https://restaurantmarlu.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=marlu&query_place_id=ChIJn2mct0zPw0cRu_fJcXZVPa0",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "12–2 pm",
+        "7–9 pm"
+      ],
+      "Wednesday": [
+        "12–2 pm",
+        "7–9 pm"
+      ],
+      "Thursday": [
+        "12–2 pm",
+        "7–9 pm"
+      ],
+      "Friday": [
+        "12–2 pm",
+        "7–9 pm"
+      ],
+      "Saturday": [
+        "Closed"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 98,
+    "rating": 4.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcvit0FbZmIWNW9tvNV7qywkD3wOFblpI-dq2AtC-Mzx-yonqDZiQwTL38v2YMTrZmR015SPY8SjWoHK1XLIdU3NJcJeLOu0Xwshg5f5dm-2kinzVIRllC-U3XCjU_zIWU2X0zI1A=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcvit0FbZmIWNW9tvNV7qywkD3wOFblpI-dq2AtC-Mzx-yonqDZiQwTL38v2YMTrZmR015SPY8SjWoHK1XLIdU3NJcJeLOu0Xwshg5f5dm-2kinzVIRllC-U3XCjU_zIWU2X0zI1A=w1000-h750-no",
+    "source_query": "Halal restaurant in Sint-Genesius-Rode, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJhbbtFmrEw0cRgu-WIWOz1UE",
+    "name": "Aharchi Ali",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Sint-Gillis",
+    "address": "Aharchi Ali, Fernand Bernierstraat 59, 1060 Sint-Gillis",
+    "street": "Fernand Bernierstraat 59",
+    "postal_code": "1060",
+    "region": null,
+    "latitude": 50.828764799999995,
+    "longitude": 4.3358907,
+    "phone": "02 537 75 24",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Aharchi%20Ali&query_place_id=ChIJhbbtFmrEw0cRgu-WIWOz1UE",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeb6tZ7gdD--LfA5tO4SQ71E3K7Utz68bl3vIYHeIw9TP2255InumQFm-qsyBoWn8MepLkBYr20RMM2cycSraVf7KStfDq9Oe_70X2PaoXC1rRIfCTg4t9YRvhsbfDiez-mkgo=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeb6tZ7gdD--LfA5tO4SQ71E3K7Utz68bl3vIYHeIw9TP2255InumQFm-qsyBoWn8MepLkBYr20RMM2cycSraVf7KStfDq9Oe_70X2PaoXC1rRIfCTg4t9YRvhsbfDiez-mkgo=w1000-h750-no",
+    "rating": 4.4,
+    "review_count": 108,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJkxtpsmjEw0cRpxifZ6-aLuQ",
+    "name": "Atia",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Sint-Gillis",
+    "address": "Atia, Jean Volderslaan 7, 1060 Sint-Gillis",
+    "street": "Jean Volderslaan 7",
+    "postal_code": "1060",
+    "region": null,
+    "latitude": 50.8324365,
+    "longitude": 4.3428357,
+    "phone": "02 534 35 80",
+    "website": "https://www.localservices.be/boutique/boucherie-porte-de-hal-atia-boucheries-saint-gilles/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Atia&query_place_id=ChIJkxtpsmjEw0cRpxifZ6-aLuQ",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfYJN8h9rOHsrnqbTUNzmglvZs4bAYgz4AcxsxaOWH5E7VEheDNmfJD7vWOX-qydMOV3dPDHaoATKMJ9RptZEVwK8ydn-2dZqLhaZOyjZhlfk-Ny4hZixNWMDbbzoDv-mG5yDwo3g=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfYJN8h9rOHsrnqbTUNzmglvZs4bAYgz4AcxsxaOWH5E7VEheDNmfJD7vWOX-qydMOV3dPDHaoATKMJ9RptZEVwK8ydn-2dZqLhaZOyjZhlfk-Ny4hZixNWMDbbzoDv-mG5yDwo3g=w1000-h750-no",
+    "rating": 4.0,
+    "review_count": 49,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJv1PudYrEw0cRpk7sMPRtapw",
+    "name": "Bab dar",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Sint-Gillis",
+    "address": "Bab dar, Charleroise Steenweg 85, 1060 Sint-Gillis",
+    "street": "Charleroise Steenweg 85",
+    "postal_code": "1060",
+    "region": null,
+    "latitude": 50.830586,
+    "longitude": 4.3559686,
+    "phone": "02 534 96 49",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bab%20dar&query_place_id=ChIJv1PudYrEw0cRpk7sMPRtapw",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcu9pfvqBV-tNzT0zKSf7qLmhnbhAAS8uKRpq26dPOz2w5_wBoeqMwD60SioHGw-Nv1EYJ-7KVPkODYG4TRND-pN8bdxgJji9Qh_929BPj1jRt3Y9WHGvAFc_Zv5-_f0nNge84=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcu9pfvqBV-tNzT0zKSf7qLmhnbhAAS8uKRpq26dPOz2w5_wBoeqMwD60SioHGw-Nv1EYJ-7KVPkODYG4TRND-pN8bdxgJji9Qh_929BPj1jRt3Y9WHGvAFc_Zv5-_f0nNge84=w1000-h750-no",
+    "rating": 4.3,
+    "review_count": 788,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJgU_7cS3Fw0cRx7fjwubxYHY",
+    "name": "Beenhouwerij Assima",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Sint-Gillis",
+    "address": "Beenhouwerij Assima, Waterloosesteenweg 146, 1060 Sint-Gillis",
+    "street": "Waterloosesteenweg 146",
+    "postal_code": "1060",
+    "region": null,
+    "latitude": 50.828164,
+    "longitude": 4.3445645,
+    "phone": "0488 39 51 49",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Beenhouwerij%20Assima&query_place_id=ChIJgU_7cS3Fw0cRx7fjwubxYHY",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeE2kFk2khnZyd-JW-1VHms_IuPlm_fVATvDyQjb1YDxsFERQz1C11UUUe5yslFhA_LVg02umT6vlEzDR7S1yVzyutHQSMg1dN4jnkcaa4FKtWKEBC2OJwwT_bSzm_Rq6l24s62=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeE2kFk2khnZyd-JW-1VHms_IuPlm_fVATvDyQjb1YDxsFERQz1C11UUUe5yslFhA_LVg02umT6vlEzDR7S1yVzyutHQSMg1dN4jnkcaa4FKtWKEBC2OJwwT_bSzm_Rq6l24s62=w1000-h750-no",
+    "rating": null,
+    "review_count": 0,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJWbi0QF_Ew0cRhz1TtbDteGc",
+    "name": "Boucherie Ma Campagne",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Sint-Gillis",
+    "address": "Boucherie Ma Campagne, Waterloosesteenweg 357, 1060 Sint-Gillis",
+    "street": "Waterloosesteenweg 357",
+    "postal_code": "1060",
+    "region": null,
+    "latitude": 50.8228309,
+    "longitude": 4.3532268,
+    "phone": "02 537 92 91",
+    "website": "https://www.instagram.com/boucherie.ma.campagne?stkn=dWRhMzI4ZXBibWdn&utm_source=qr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boucherie%20Ma%20Campagne&query_place_id=ChIJWbi0QF_Ew0cRhz1TtbDteGc",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfTiJfZkhfgVyXI4ae8KXeWTnFKuORqwJrblNX17MPHEFM-tCRDZsNhKJe6WLQcTSGzZJMSv-HLfcx3ltQhPjeyneuiW9XoM3-k81SJPpgkkZpXRN-VeSTL2cq8225or_dOKrxA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfTiJfZkhfgVyXI4ae8KXeWTnFKuORqwJrblNX17MPHEFM-tCRDZsNhKJe6WLQcTSGzZJMSv-HLfcx3ltQhPjeyneuiW9XoM3-k81SJPpgkkZpXRN-VeSTL2cq8225or_dOKrxA=w1000-h750-no",
+    "rating": 4.1,
+    "review_count": 143,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJZXpDp1nFw0cRECb1VWETA6Y",
+    "name": "Boucherie-Moutonnerie Tanger",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Sint-Gillis",
+    "address": "Boucherie-Moutonnerie Tanger, Chau. de Forest 89, 1060 Saint-Gilles",
+    "street": "Vorstse Steenweg 89",
+    "postal_code": "1060",
+    "region": null,
+    "latitude": 50.8310195,
+    "longitude": 4.338868,
+    "phone": "0486 35 28 74",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boucherie-Moutonnerie%20Tanger&query_place_id=ChIJZXpDp1nFw0cRECb1VWETA6Y",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfy2r_cPB-SK-yN33B0pEilEDdc6MEBRxCQSXu5rPlSszlSJkEBa1Lul4CM8CMK-0VsJXc-u5FJmyxuenhQwqqQzvz4HRbx-16-ER-jJLrPO-d0_ZVtvgKaDMQ6pUpX6wA8tkNz=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfy2r_cPB-SK-yN33B0pEilEDdc6MEBRxCQSXu5rPlSszlSJkEBa1Lul4CM8CMK-0VsJXc-u5FJmyxuenhQwqqQzvz4HRbx-16-ER-jJLrPO-d0_ZVtvgKaDMQ6pUpX6wA8tkNz=w1000-h750-no",
+    "rating": 3.9,
+    "review_count": 14,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJQzj8EGnEw0cRwS4l_IKxGB4",
+    "name": "Costela",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Sint-Gillis",
+    "address": "Costela, Chau. de Forest 94, 1060 Saint-Gilles",
+    "street": "Vorstse Steenweg 94",
+    "postal_code": "1060",
+    "region": null,
+    "latitude": 50.831027,
+    "longitude": 4.3394015999999995,
+    "phone": "02 534 34 35",
+    "website": "http://www.costela.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Costela&query_place_id=ChIJQzj8EGnEw0cRwS4l_IKxGB4",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfSMYgkSqm6oNPPMwHJXTCPzfGMt4JtGKftU_pdluqMedzENCyFb5CZ3kcXNi4kb0dYTT-LC8AE_Hbklqd_z-8_rBkVvU3xUH9c_837WKIeIJejh8XspCBcCorGPHtFRwzhLTHL=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfSMYgkSqm6oNPPMwHJXTCPzfGMt4JtGKftU_pdluqMedzENCyFb5CZ3kcXNi4kb0dYTT-LC8AE_Hbklqd_z-8_rBkVvU3xUH9c_837WKIeIJejh8XspCBcCorGPHtFRwzhLTHL=w1000-h750-no",
+    "rating": 4.6,
+    "review_count": 743,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJx4-OlXHEw0cRV3WdshUHmDA",
+    "name": "De Korf Steak & Ribbetjes - Sint-Gillis",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Sint-Gillis",
+    "address": "De Korf Steak & Ribbetjes - Sint-Gillis, Jamarlaan 1B, 1060 Sint-Gillis",
+    "street": "Jamarlaan 1B",
+    "postal_code": "1060",
+    "region": null,
+    "latitude": 50.839405799999994,
+    "longitude": 4.340075,
+    "phone": "02 347 77 61",
+    "website": "https://larucherestaurant.com/restaurants/la-ruche-saint-gilles/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=De%20Korf%20Steak%20%26%20Ribbetjes%20-%20Sint-Gillis&query_place_id=ChIJx4-OlXHEw0cRV3WdshUHmDA",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdGaW3jn22eL4i__vKJenxBLf9HrhfJsbBTmq2seoOqODGQHVfEicpnVfmtOtMLZQDgPF8rtYQJKlznJYQFTuGDOCbyZxDD3SsNKaJtpvvkPT4fU-8Z4eFLosKzy1D0vHBuwGM=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdGaW3jn22eL4i__vKJenxBLf9HrhfJsbBTmq2seoOqODGQHVfEicpnVfmtOtMLZQDgPF8rtYQJKlznJYQFTuGDOCbyZxDD3SsNKaJtpvvkPT4fU-8Z4eFLosKzy1D0vHBuwGM=w1000-h750-no",
+    "rating": 4.3,
+    "review_count": 3226,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
     "place_id": "ChIJQU4nuW7Ew0cRP13hgvZmlRA",
     "name": "El Mouhsinin Islamitisch Centrum",
     "type": "mosque",
@@ -1336,12 +1959,38 @@
     "phone": null,
     "website": "https://restaurants.bnwburger.com/bruxelles-gare-de-louest/?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Black%20%26%20White%20Burger%20Bruxelles%20Gare%20de%20l%27Ouest&query_place_id=ChIJkbH0_S7Dw0cRpsD0dv0gJSk",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcoHE74Nbgop_aLBzmutgHa-mvYW5MYCir67DphudxFmTqzYsZAr2NUEUQTnyIVOOJDkB-aye2dm2fD4Usw2JArFJVGmOCFcGmtz8q1W5K8-MBIe45YRYTeNXVz5Ilo5uA6ge-nYrhycWXB=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcoHE74Nbgop_aLBzmutgHa-mvYW5MYCir67DphudxFmTqzYsZAr2NUEUQTnyIVOOJDkB-aye2dm2fD4Usw2JArFJVGmOCFcGmtz8q1W5K8-MBIe45YRYTeNXVz5Ilo5uA6ge-nYrhycWXB=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeh_dgNOUVfe-pbU9Vr0nGBTQSPgCWfq8HFJ8hy71FwbA1OfZOj4e6V9qeW6s3MxPoHm0tK9yZPdl0VDbLKnPirgrsHq0zyzlft3eQAsI7-Ds21sTaeriwNu4OzYaaelS-QvmK46RIlYq_K=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeh_dgNOUVfe-pbU9Vr0nGBTQSPgCWfq8HFJ8hy71FwbA1OfZOj4e6V9qeW6s3MxPoHm0tK9yZPdl0VDbLKnPirgrsHq0zyzlft3eQAsI7-Ds21sTaeriwNu4OzYaaelS-QvmK46RIlYq_K=w1000-h750-no",
     "rating": 4.6,
     "review_count": 842,
     "verification_status": "VERIFIED",
     "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJmw_scP3Dw0cRDvoxlLnEfcQ",
+    "name": "Boucherie",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Sint-Jans-Molenbeek",
+    "address": "Boucherie, Louis Mettewielaan 48, 1080 Sint-Jans-Molenbeek",
+    "street": "Louis Mettewielaan 48",
+    "postal_code": "1080",
+    "region": null,
+    "latitude": 50.8577057,
+    "longitude": 4.3109982,
+    "phone": null,
+    "website": "https://www.localservices.be/boutique/boucherie-aziz-boucheries-molenbeek-saint-jean/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boucherie&query_place_id=ChIJmw_scP3Dw0cRDvoxlLnEfcQ",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfqG14uuLCOTuq4D-HVTYtsbeokamkVSDnmEopBYBEZD4cdkWkoCq1wJzIMbyxfDnCu5xVQBSfVXq3SrFpX0dkPufIcE8wk9kk0y6rO1obLzLO7FTEgykdGQnGCDTZfkRd2zIi6=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfqG14uuLCOTuq4D-HVTYtsbeokamkVSDnmEopBYBEZD4cdkWkoCq1wJzIMbyxfDnCu5xVQBSfVXq3SrFpX0dkPufIcE8wk9kk0y6rO1obLzLO7FTEgykdGQnGCDTZfkRd2zIi6=w1000-h750-no",
+    "rating": 4.0,
+    "review_count": 32,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
     "is_active": true,
     "moderation_status": "approved"
   },
@@ -1440,8 +2089,8 @@
     "phone": "0466 32 08 49",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boucherie%20De%20l%E2%80%99Ouest&query_place_id=ChIJb1elC9HFw0cRfLZJP-GshHk",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLemOygYwRluT43QddC0TKk4gtVphSyrxgK9LveB-3Bf_gHhIjsCyA4MOcZpXQV1Jp2mTAo6U6CTkVYEBAuO4PASMLPU1UzAbCDFLD_sJSriUKUKXmDyVslzB6ih1f5t69H3I90=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLemOygYwRluT43QddC0TKk4gtVphSyrxgK9LveB-3Bf_gHhIjsCyA4MOcZpXQV1Jp2mTAo6U6CTkVYEBAuO4PASMLPU1UzAbCDFLD_sJSriUKUKXmDyVslzB6ih1f5t69H3I90=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcXYOwyowYgk62cDhj4eER34f_4fRhUj842xyOR8-hmY3Tx_7K6gTq1wubQSXdZ6qR3R6vBMaVhTQuSfR30n5vso5slaeHyfhuyqX-5DPeoYhjJgsyny2Lsej1krWpO-LKbkvZJ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcXYOwyowYgk62cDhj4eER34f_4fRhUj842xyOR8-hmY3Tx_7K6gTq1wubQSXdZ6qR3R6vBMaVhTQuSfR30n5vso5slaeHyfhuyqX-5DPeoYhjJgsyny2Lsej1krWpO-LKbkvZJ=w1000-h750-no",
     "rating": 4.8,
     "review_count": 188,
     "verification_status": "UNVERIFIED",
@@ -1494,8 +2143,34 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boucherie%20Hassan&query_place_id=ChIJS3_rJFLDw0cRHYT-M_eoYo8",
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdvGKdQAMUYZjMT-HNxTMBoX3n_It1r1HCeQCwnifbMNJ4Lg6p3aBwuUe8ZAESFuSjAbSUPbVYXXqQd3GqRgZemzf1Mz7j-csbgeo3V3P-4Hc7Ul42Sub4k606nB4ZT2AaH5sgZgA=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdvGKdQAMUYZjMT-HNxTMBoX3n_It1r1HCeQCwnifbMNJ4Lg6p3aBwuUe8ZAESFuSjAbSUPbVYXXqQd3GqRgZemzf1Mz7j-csbgeo3V3P-4Hc7Ul42Sub4k606nB4ZT2AaH5sgZgA=w1000-h750-no",
-    "rating": 2.1,
-    "review_count": 18,
+    "rating": null,
+    "review_count": 0,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJORAaHQDDw0cRg982yTbSUhY",
+    "name": "Boucherie fellah",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Sint-Jans-Molenbeek",
+    "address": "Boucherie fellah, Chau. de Gand 399, 1080 Molenbeek-Saint-Jean",
+    "street": "Gentsesteenweg 399",
+    "postal_code": "1080",
+    "region": null,
+    "latitude": 50.857668999999994,
+    "longitude": 4.3204319,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boucherie%20fellah&query_place_id=ChIJORAaHQDDw0cRg982yTbSUhY",
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-wyiZmvZkgAJLDHvpW5csw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=24.087023&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-wyiZmvZkgAJLDHvpW5csw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=24.087023&pitch=0&thumbfov=w1000-h750-no",
+    "rating": 5.0,
+    "review_count": 1,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null,
     "is_active": true,
@@ -1671,7 +2346,7 @@
     "region": null,
     "latitude": 50.862867099999995,
     "longitude": 4.3429626,
-    "phone": null,
+    "phone": "0495 04 30 50",
     "website": "https://ghostkitchen.be/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ghost%20Kitchen&query_place_id=ChIJhTAx_4XDw0cREKefOd9a-X4",
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLePURG6T4uDPVQpOENYQ3Bsxi0sQVBMKndBtlcGJyjx0Q-h7tNIH1zn-SDTOJIRzIbZlgcX5AwY-Wb-22D7ytohTE7UdlS-5NdYd_OTchHoHwRUc0wGSfV1xBE7gUGUn-s9fkWCOhRl-OFo=w1000-h750-no",
@@ -1726,8 +2401,8 @@
     "phone": null,
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Islamitische%20beenhouwerij&query_place_id=ChIJ2yKN-pbDw0cRUYq2DSG5ldU",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcHGSMD-mvR1f6VWGpxMDEt6YfCUul9nQKjb3vjpFWQAvFiViy3yiiIxRYXhny_QBNJcT0AWAembPtqfWfDUwRXDLoQS5NfWM94LxI5pi88sB6aorDKhK0tejCVtffZQrhorYF0=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcHGSMD-mvR1f6VWGpxMDEt6YfCUul9nQKjb3vjpFWQAvFiViy3yiiIxRYXhny_QBNJcT0AWAembPtqfWfDUwRXDLoQS5NfWM94LxI5pi88sB6aorDKhK0tejCVtffZQrhorYF0=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfQHBNwKvc7pFVYTBx4NdpSiQ05xQXvqGN8GQc2eNIg4-d9OE0ue_ygI5d3xYb2d0YZsEUCH09OdfP5fpSAb4SqO40LveiZFmLcOQ33OaIUJxskDzUY1xO5Br_dvTv4tlrSSIzR=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfQHBNwKvc7pFVYTBx4NdpSiQ05xQXvqGN8GQc2eNIg4-d9OE0ue_ygI5d3xYb2d0YZsEUCH09OdfP5fpSAb4SqO40LveiZFmLcOQ33OaIUJxskDzUY1xO5Br_dvTv4tlrSSIzR=w1000-h750-no",
     "rating": 3.2,
     "review_count": 11,
     "verification_status": "UNVERIFIED",
@@ -1778,8 +2453,8 @@
     "phone": "0485 50 81 62",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Bonne%20Adresse&query_place_id=ChIJcy5N-uTDw0cRJUHfvZvZWwM",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcMD6z2ZbyTGelLPvJo83cKlq59aTynYdt-TD7bjteR9dDnQP136W6K5EGofofI8aaoTqAyMKCLGmU92ZKlQbzegUshKBjSMtgaVOeDxozWgx7d8yB_OwA8uGT7JPSmgEAvfosDM-8qVVs=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcMD6z2ZbyTGelLPvJo83cKlq59aTynYdt-TD7bjteR9dDnQP136W6K5EGofofI8aaoTqAyMKCLGmU92ZKlQbzegUshKBjSMtgaVOeDxozWgx7d8yB_OwA8uGT7JPSmgEAvfosDM-8qVVs=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd4uyfVnaKNkTD0cjwOQLeo9IGmm5Uo6IZwUCiH4d0Zuttsj78cYJKuoD4qxa6urxCQnBEP7MSPM-H2Nw6MPV-cjlHPEIO1JlqDpWQ5WBPxcIaeX1uZmjAm3Ah_PjDOABLMgred6eVABPA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd4uyfVnaKNkTD0cjwOQLeo9IGmm5Uo6IZwUCiH4d0Zuttsj78cYJKuoD4qxa6urxCQnBEP7MSPM-H2Nw6MPV-cjlHPEIO1JlqDpWQ5WBPxcIaeX1uZmjAm3Ah_PjDOABLMgred6eVABPA=w1000-h750-no",
     "rating": 3.7,
     "review_count": 182,
     "verification_status": "UNVERIFIED",
@@ -1827,7 +2502,7 @@
     "region": null,
     "latitude": 50.8573011,
     "longitude": 4.3331200999999995,
-    "phone": null,
+    "phone": "0470 98 88 56",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20go%C3%BBt%20oriental&query_place_id=ChIJVUnKzBnDw0cRGC9MA2cqtz0",
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfYuuap4y6da041OVQdqcPOUOvehg_a5NPpouO8U7YAf3XzKA0NQD35QcrFXBH5wtP_xgsDBbJVKXhrLezgSHNApCr-SKZWpTymHuhEoB3woPQgMve24zSIyQ-2pnBtP8WyRlgACRn3CeJK=w1000-h750-no",
@@ -1858,8 +2533,8 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les%204%20Saisons&query_place_id=ChIJz6eVhezDw0cRIvRYdQEy_oM",
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLccWirVBOFBPVkgdoEeasxs9DW52w7ClWMSs9Z2YKxHzoBFI8Wg79REiXwyAT8M7VlPEZMWwm_UZhJEZEBreJkzV-sV0CtHYITtiQtGAQPozycrYQMUv3Cg0G4l4_U1VcjAg6F4Uw=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLccWirVBOFBPVkgdoEeasxs9DW52w7ClWMSs9Z2YKxHzoBFI8Wg79REiXwyAT8M7VlPEZMWwm_UZhJEZEBreJkzV-sV0CtHYITtiQtGAQPozycrYQMUv3Cg0G4l4_U1VcjAg6F4Uw=w1000-h750-no",
-    "rating": null,
-    "review_count": 0,
+    "rating": 4.6,
+    "review_count": 792,
     "verification_status": "VERIFIED",
     "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
     "is_active": true,
@@ -2246,8 +2921,8 @@
     "phone": null,
     "website": "https://restaurantguru.com/Noisette-Halal-Restaurant-Sint-Jans-Molenbeek",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Noisette%20Halal%20Restaurant&query_place_id=ChIJWf3ONdzDw0cRHG_Gnc0Q1A4",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc1NBro4ASq6b4FEDEF08GVu4NrBmn5vSprLFQ1mlXea6YKOMMKCvu6L993_zWGRMd549Ph5SorOvL2Mvot6y1on6z7l3oDRAeur1m2vUXksOXQNG_94wkx_Rg-znG2HwkUiS0uDt8PgJpj=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc1NBro4ASq6b4FEDEF08GVu4NrBmn5vSprLFQ1mlXea6YKOMMKCvu6L993_zWGRMd549Ph5SorOvL2Mvot6y1on6z7l3oDRAeur1m2vUXksOXQNG_94wkx_Rg-znG2HwkUiS0uDt8PgJpj=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLek-nSUyFWUGhTbZBTwQOIRLgEYIKIEUwZav2_ItO_Df18oHYkKizleoHMeTn9-hWIEdUOXr53y3mHqb-Db3rE85n_6G9bi6aBjoCW8uAAWqff7r6cKlWNoBwYtXylP6LWu2AMs7UEavMvs=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLek-nSUyFWUGhTbZBTwQOIRLgEYIKIEUwZav2_ItO_Df18oHYkKizleoHMeTn9-hWIEdUOXr53y3mHqb-Db3rE85n_6G9bi6aBjoCW8uAAWqff7r6cKlWNoBwYtXylP6LWu2AMs7UEavMvs=w1000-h750-no",
     "rating": 4.1,
     "review_count": 220,
     "verification_status": "VERIFIED",
@@ -2327,8 +3002,8 @@
     "phone": "0489 31 68 06",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Omar%20Amir&query_place_id=ChIJ2_39ZvTDw0cRudFEmziJFDk",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeld7OcooXLZgoJLPR7S4MLRF04xbqAIbMBfMbxJPPDr_DgPdbjfVXAgO-k1V3PkySbWvna4Es7OaPak3BMsN5jML1PbEOBfLFUiXaBjNzb1pLCIDN0NMoFgARnbElq86gNmBFjinlaasU=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeld7OcooXLZgoJLPR7S4MLRF04xbqAIbMBfMbxJPPDr_DgPdbjfVXAgO-k1V3PkySbWvna4Es7OaPak3BMsN5jML1PbEOBfLFUiXaBjNzb1pLCIDN0NMoFgARnbElq86gNmBFjinlaasU=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLePGVz52o7qOeQsykYGdyhQ-_cjzGbEpZ1z07b_d7HH24kiBHIue1xkAZq3GKxcNX-L21-ctHjIWApi5FYGjstFDjpkkQDVOlRwiY2L2refdrD2NP6fZyQQ96a-UQY-7DoDciXsHnA9P24=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLePGVz52o7qOeQsykYGdyhQ-_cjzGbEpZ1z07b_d7HH24kiBHIue1xkAZq3GKxcNX-L21-ctHjIWApi5FYGjstFDjpkkQDVOlRwiY2L2refdrD2NP6fZyQQ96a-UQY-7DoDciXsHnA9P24=w1000-h750-no",
     "rating": 4.2,
     "review_count": 53,
     "verification_status": "UNVERIFIED",
@@ -2353,8 +3028,8 @@
     "phone": null,
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=O%E2%80%99karreveld&query_place_id=ChIJ-76OFPvDw0cRSMX1faERyNU",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc8gcTCdsgOZFA4z9uQ429ZE9u9w9vAE5WIJUHNclZZQftM0eR9qV8-7-BDtZLToBhcgeU-xp31o8RRBLLhODl1QOzCUCgDi0uVpYvOHa3dYyWidVXqOKSvEj5Lvw-8QCy1N5Ss=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc8gcTCdsgOZFA4z9uQ429ZE9u9w9vAE5WIJUHNclZZQftM0eR9qV8-7-BDtZLToBhcgeU-xp31o8RRBLLhODl1QOzCUCgDi0uVpYvOHa3dYyWidVXqOKSvEj5Lvw-8QCy1N5Ss=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLer5OPD1PEEr5zlV84zF1-4qt6ATqUpA28aKjEWcFff-DRvG3OdAhc1mMxCezeAvbDnlcdXraBNhbXghzFxkZSw-yY07h24ET4dcuGtpFQT53AIFhkj-f4SY7sQ9U9fhuAA2CKRxysHH261=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLer5OPD1PEEr5zlV84zF1-4qt6ATqUpA28aKjEWcFff-DRvG3OdAhc1mMxCezeAvbDnlcdXraBNhbXghzFxkZSw-yY07h24ET4dcuGtpFQT53AIFhkj-f4SY7sQ9U9fhuAA2CKRxysHH261=w1000-h750-no",
     "rating": 4.2,
     "review_count": 129,
     "verification_status": "UNVERIFIED",
@@ -2869,8 +3544,8 @@
     "phone": "02 446 10 82",
     "website": "http://www.tangermarkt.nl/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Tanger%20Markt&query_place_id=ChIJ8ycQb8bDw0cREqvgrsDJfvQ",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfmEEW9BVmiayLDVyG-9RPA4qgG4jJ1plMa6nV5n4SongHYI1Z2t4tzM-8DeoLa92WEUBd_P3tQdfYeEzbIvAnZ5PSMR4R5Lx6jKRrm7tViMFGhoUwOY3dpbIVcA3WB8_rW32TO=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfmEEW9BVmiayLDVyG-9RPA4qgG4jJ1plMa6nV5n4SongHYI1Z2t4tzM-8DeoLa92WEUBd_P3tQdfYeEzbIvAnZ5PSMR4R5Lx6jKRrm7tViMFGhoUwOY3dpbIVcA3WB8_rW32TO=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfHFqPmMXJg9fs1WV1xGeIELRsn5qsJU0SjzsIoOHWH0i8b9P58ybXciQ2NENwQwgDxUKaXZZyG8T4knoRL3sPwp8ftZT5gIiSKvFMcQvbYL52VAFPlHybOyjl7wMfWbf95P6cp=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfHFqPmMXJg9fs1WV1xGeIELRsn5qsJU0SjzsIoOHWH0i8b9P58ybXciQ2NENwQwgDxUKaXZZyG8T4knoRL3sPwp8ftZT5gIiSKvFMcQvbYL52VAFPlHybOyjl7wMfWbf95P6cp=w1000-h750-no",
     "rating": 3.9,
     "review_count": 809,
     "verification_status": "UNVERIFIED",
@@ -2971,8 +3646,8 @@
     "phone": "0487 25 11 11",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=boucherie%20Hamza%20slagerij&query_place_id=ChIJNwGUjwXDw0cRmHnuGyfczYU",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLetja3e-ZRDwB5Q00sewyWx8aoUvqyU86cZQskmt8weY7kzKs6YAyYng9DH8CMIIMn8P9DNv4BmsIYWVFoKmhS9V4RSXMxDigvqOBEgjlEwA-Gl6G1QQEk-uNaaLbFq5myegYEH9g=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLetja3e-ZRDwB5Q00sewyWx8aoUvqyU86cZQskmt8weY7kzKs6YAyYng9DH8CMIIMn8P9DNv4BmsIYWVFoKmhS9V4RSXMxDigvqOBEgjlEwA-Gl6G1QQEk-uNaaLbFq5myegYEH9g=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdi87pRxuPmTZ7-sDDBpW6jEEB--ZBJtsZQq30MEPMWK38x4xcK_RaTeycUFJIWzzKJdUtaor2sjELvgBYuMIUTAlqV1GEe5tUdIMsSx55V7ufMYk-lA9APGMuFMeTa8ZU1523HvA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdi87pRxuPmTZ7-sDDBpW6jEEB--ZBJtsZQq30MEPMWK38x4xcK_RaTeycUFJIWzzKJdUtaor2sjELvgBYuMIUTAlqV1GEe5tUdIMsSx55V7ufMYk-lA9APGMuFMeTa8ZU1523HvA=w1000-h750-no",
     "rating": 4.1,
     "review_count": 217,
     "verification_status": "UNVERIFIED",
@@ -3389,8 +4064,8 @@
     "phone": "0491 14 16 18",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20Le%20Royal&query_place_id=ChIJVYc0VCbDw0cR4hxyOIpDJDk",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLclOq-ofjmoRZKXmHZhXlItifyZkcV64UjXj-4_iXqRBowwAVSAXfXI5d_ByEbivQ2pPvm1dA9bz5MlawVDRqyMOAELdy2D0CpWD-iJsU72_uVXbyFgbU1pw-lZfOqCzaLkchu_=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLclOq-ofjmoRZKXmHZhXlItifyZkcV64UjXj-4_iXqRBowwAVSAXfXI5d_ByEbivQ2pPvm1dA9bz5MlawVDRqyMOAELdy2D0CpWD-iJsU72_uVXbyFgbU1pw-lZfOqCzaLkchu_=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLezQ68FTAdrNvlRM7i-0BwBrfAD4wrT9afEs8Fue-WfILV11h64JTlJtl4HgQ3MZoVoLgzn9-ujxTia3ZJho8tQ0s4nonDej6auKH8CMKvYgo3U6-6-J7jFj1FilwfFiX7S2gip=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLezQ68FTAdrNvlRM7i-0BwBrfAD4wrT9afEs8Fue-WfILV11h64JTlJtl4HgQ3MZoVoLgzn9-ujxTia3ZJho8tQ0s4nonDej6auKH8CMKvYgo3U6-6-J7jFj1FilwfFiX7S2gip=w1000-h750-no",
     "rating": 4.6,
     "review_count": 467,
     "verification_status": "UNVERIFIED",
@@ -5011,8 +5686,8 @@
     "phone": "02 770 15 71",
     "website": "https://upwoluwe.be/3d-saint-lambert/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Sint-Lambertuskerk&query_place_id=ChIJnUC8m2Dbw0cR2iz5oLLl-IM",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLekA7By572GeDmKDqSfny793Z4zVC87GQMEe9y4zL03UrZJjadYU8g7Lf-vr62QWSqZr3oA4so6XExL_u_6LwzzsvuOrMOW-A9cZAMDPbP5b-yp4wTSTPNXxKVMGntNnOjmjSMn=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLekA7By572GeDmKDqSfny793Z4zVC87GQMEe9y4zL03UrZJjadYU8g7Lf-vr62QWSqZr3oA4so6XExL_u_6LwzzsvuOrMOW-A9cZAMDPbP5b-yp4wTSTPNXxKVMGntNnOjmjSMn=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdNG79_7zLZ1foFosTpu38yfNAbBthoHM9uF0BBMQO0HivQ5ocgXg8AhCr1AJ9oEwoOTWq5cm2ikrUeGLFGdwUN-37CikRzD9ixvlLUBdj_37GHUSI5J74JdPaa_ufz2X2c6Mp4=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdNG79_7zLZ1foFosTpu38yfNAbBthoHM9uF0BBMQO0HivQ5ocgXg8AhCr1AJ9oEwoOTWq5cm2ikrUeGLFGdwUN-37CikRzD9ixvlLUBdj_37GHUSI5J74JdPaa_ufz2X2c6Mp4=w1000-h750-no",
     "rating": 4.4,
     "review_count": 151,
     "verification_status": "UNVERIFIED",
@@ -8045,747 +8720,5 @@
     "verification_evidence": null,
     "is_active": true,
     "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJ1XCQr5SPw0cRWrqePZp2exE",
-    "name": "Emirdag koftecisi sint-niklaas",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Sint-Niklaas",
-    "address": "Emirdag koftecisi sint-niklaas, Plezantstraat 42, 9100 Sint-Niklaas",
-    "street": "Plezantstraat 42",
-    "postal_code": "9100",
-    "region": null,
-    "latitude": 51.1666119,
-    "longitude": 4.1341941,
-    "phone": "0488 48 85 48",
-    "website": "http://emirdagkoftecisi-sintniklaas.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Emirdag%20koftecisi%20sint-niklaas&query_place_id=ChIJ1XCQr5SPw0cRWrqePZp2exE",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfGEPTtgAevrekwogP6dGttI31IY0bkTBO2P4Ab8cKKh55Xx88nt4_cvqm35DD3CO4qoj0nXh34z2sYQ20VMzdW793RjaTeKSFbmh-OYSzpW71TkLzc-yq-fU6NW1WVRZoHH8BH=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfGEPTtgAevrekwogP6dGttI31IY0bkTBO2P4Ab8cKKh55Xx88nt4_cvqm35DD3CO4qoj0nXh34z2sYQ20VMzdW793RjaTeKSFbmh-OYSzpW71TkLzc-yq-fU6NW1WVRZoHH8BH=w1000-h750-no",
-    "rating": 4.6,
-    "review_count": 105,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJ_eCilCuMw0cRJbTGlybu0xc",
-    "name": "Euro Shop Sint-Niklaas",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Sint-Niklaas",
-    "address": "Euro Shop Sint-Niklaas, Puitvoetstraat 3, 9100 Sint-Niklaas",
-    "street": "Puitvoetstraat 3",
-    "postal_code": "9100",
-    "region": null,
-    "latitude": 51.150710399999994,
-    "longitude": 4.1575641999999995,
-    "phone": "03 766 49 01",
-    "website": "https://www.euroshop.be/nl/winkels/sint-niklaas",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Euro%20Shop%20Sint-Niklaas&query_place_id=ChIJ_eCilCuMw0cRJbTGlybu0xc",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "9 am–6:30 pm"
-      ],
-      "Wednesday": [
-        "9 am–6:30 pm"
-      ],
-      "Thursday": [
-        "9 am–6:30 pm"
-      ],
-      "Friday": [
-        "9 am–6:30 pm"
-      ],
-      "Saturday": [
-        "9 am–6 pm"
-      ],
-      "Sunday": [
-        "9 am–6 pm"
-      ]
-    },
-    "review_count": 5097,
-    "rating": 4.2,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd5M1RUfo2ws5dTBjsyqSBgVkvniYXj4cJ9NYzt8__2Lgyu-l0YyEfXaXP9Hop4n7N3I3nEpJse6D9Qc3Oc8PN3am3gjNgdun8PTUoXHXkAfqDPYowk-7vHc9dW9ZZLRf5t-kA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd5M1RUfo2ws5dTBjsyqSBgVkvniYXj4cJ9NYzt8__2Lgyu-l0YyEfXaXP9Hop4n7N3I3nEpJse6D9Qc3Oc8PN3am3gjNgdun8PTUoXHXkAfqDPYowk-7vHc9dW9ZZLRf5t-kA=w1000-h750-no",
-    "source_query": "Hypermarket in Sint-Niklaas, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJuVl6taKOw0cRe524joJg5a4",
-    "name": "FAMILY CHICKEN",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Sint-Niklaas",
-    "address": "FAMILY CHICKEN, Mercatorstraat 15, 9100 Sint-Niklaas",
-    "street": "Mercatorstraat 15",
-    "postal_code": "9100",
-    "region": null,
-    "latitude": 51.1702635,
-    "longitude": 4.1442505,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=FAMILY%20CHICKEN&query_place_id=ChIJuVl6taKOw0cRe524joJg5a4",
-    "open_hours_json": null,
-    "review_count": 2,
-    "rating": 5.0,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcG76GSH1KV__OeEshByj_OM1rQSJ7NtGyH8OUVNz4-lc7W75mBBE5It1jJQxTsRwAbFoKp0Y8Y9H-kHm9lTHDWgMSzZxS09X4UdFqw-OkL9d1BdmeepUowBlRzwuP0mGcZC9qfkJsg-eM=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcG76GSH1KV__OeEshByj_OM1rQSJ7NtGyH8OUVNz4-lc7W75mBBE5It1jJQxTsRwAbFoKp0Y8Y9H-kHm9lTHDWgMSzZxS09X4UdFqw-OkL9d1BdmeepUowBlRzwuP0mGcZC9qfkJsg-eM=w1000-h750-no",
-    "source_query": "Hypermarket in Sint-Niklaas, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJqb3-y5mPw0cRaPDiiQk2B5E",
-    "name": "Family Home",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Sint-Niklaas",
-    "address": "Family Home, Mercatorstraat 46, 9100 Sint-Niklaas",
-    "street": "Mercatorstraat 46",
-    "postal_code": "9100",
-    "region": null,
-    "latitude": 51.1699395,
-    "longitude": 4.1460263,
-    "phone": "0488 92 73 50",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Family%20Home&query_place_id=ChIJqb3-y5mPw0cRaPDiiQk2B5E",
-    "open_hours_json": {
-      "Monday": [
-        "Open 24 hours"
-      ],
-      "Tuesday": [
-        "10 am–8 pm"
-      ],
-      "Wednesday": [
-        "10 am–8 pm"
-      ],
-      "Thursday": [
-        "Closed"
-      ],
-      "Friday": [
-        "10 am–8 pm"
-      ],
-      "Saturday": [
-        "10 am–8 pm"
-      ],
-      "Sunday": [
-        "10 am–8 pm"
-      ]
-    },
-    "review_count": 41,
-    "rating": 4.2,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=c-3gi6NpHATqLvVy3dGfrQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=78.93443&pitch=1.1492224&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=c-3gi6NpHATqLvVy3dGfrQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=78.93443&pitch=1.1492224&thumbfov=w1000-h750-no",
-    "source_query": "Hypermarket in Sint-Niklaas, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJW0-wMQCPw0cRX8ER5jIIGBI",
-    "name": "Family Market Winkel",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Sint-Niklaas",
-    "address": "Family Market Winkel, Mercatorstraat 13، 9100 Sint-Niklaas",
-    "street": "Mercatorstraat 13",
-    "postal_code": "9100",
-    "region": null,
-    "latitude": 51.1702406,
-    "longitude": 4.1441108,
-    "phone": "0488 92 73 50",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Family%20Market%20Winkel&query_place_id=ChIJW0-wMQCPw0cRX8ER5jIIGBI",
-    "open_hours_json": {
-      "Monday": [
-        "10 am–8 pm"
-      ],
-      "Tuesday": [
-        "10 am–8 pm"
-      ],
-      "Wednesday": [
-        "10 am–8 pm"
-      ],
-      "Thursday": [
-        "10 am–8 pm"
-      ],
-      "Friday": [
-        "10 am–9 pm"
-      ],
-      "Saturday": [
-        "10 am–8 pm"
-      ],
-      "Sunday": [
-        "10 am–8 pm"
-      ]
-    },
-    "review_count": 37,
-    "rating": 4.2,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcg8as4LzqKk6129mefIhLNVv_KlzALiORFLC3UyumNUUFPlj4zVWjlLMXU2t3DX1MKsIDL-NkjX_c1KWuPQbABre0ouaH2Glkfk2-KgwkuL8yCSoShcKylBJ-rsvYzE_uNdoHd=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcg8as4LzqKk6129mefIhLNVv_KlzALiORFLC3UyumNUUFPlj4zVWjlLMXU2t3DX1MKsIDL-NkjX_c1KWuPQbABre0ouaH2Glkfk2-KgwkuL8yCSoShcKylBJ-rsvYzE_uNdoHd=w1000-h750-no",
-    "source_query": "Hypermarket in Sint-Niklaas, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJQVDzzZaOw0cRLvdyZonZx2U",
-    "name": "Fortune Garden",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Sint-Niklaas",
-    "address": "Fortune Garden, Grote Markt 10, 9100 Sint-Niklaas",
-    "street": "Grote Markt 10",
-    "postal_code": "9100",
-    "region": null,
-    "latitude": 51.1640704,
-    "longitude": 4.1391545999999995,
-    "phone": "03 778 06 26",
-    "website": "http://www.fortunegarden.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Fortune%20Garden&query_place_id=ChIJQVDzzZaOw0cRLvdyZonZx2U",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdSLIbVTp8Lga_vLszf0brN07V6xc6rLPT5gPS1hGVq7jMfIhsuG1KSSy49k0coHkzGuaRipgrAXg4jCvF2_eKP3AvZG9LYlAR90Kx59yuXTcZ1zxCniIhHodgi2YqSPJKr-AtE_A=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdSLIbVTp8Lga_vLszf0brN07V6xc6rLPT5gPS1hGVq7jMfIhsuG1KSSy49k0coHkzGuaRipgrAXg4jCvF2_eKP3AvZG9LYlAR90Kx59yuXTcZ1zxCniIhHodgi2YqSPJKr-AtE_A=w1000-h750-no",
-    "rating": 4.1,
-    "review_count": 372,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJZ0B7swePw0cRYx-mMojLvIU",
-    "name": "GRILL KING",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Sint-Niklaas",
-    "address": "GRILL KING, Houtbriel 21B, 9100 Sint-Niklaas",
-    "street": "Houtbriel 21B",
-    "postal_code": "9100",
-    "region": null,
-    "latitude": 51.164915799999996,
-    "longitude": 4.1429822,
-    "phone": "0469 66 58 07",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=GRILL%20KING&query_place_id=ChIJZ0B7swePw0cRYx-mMojLvIU",
-    "open_hours_json": {
-      "Monday": [
-        "11 am–9 pm"
-      ],
-      "Tuesday": [
-        "11 am–9 pm"
-      ],
-      "Wednesday": [
-        "11 am–9 pm"
-      ],
-      "Thursday": [
-        "11 am–9 pm"
-      ],
-      "Friday": [
-        "11 am–10 pm"
-      ],
-      "Saturday": [
-        "11 am–10 pm"
-      ],
-      "Sunday": [
-        "4–9 pm"
-      ]
-    },
-    "review_count": 54,
-    "rating": 3.9,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeDGpRQ8fiHpdgLF-o0GHNG6gHYMyPL_jDLcKO9exTNMjIqDF6RPAbP8ZdI11LXtSfdCRCIUJrXLseAGnjCTlwduncFM5_Xotx0LcvfyQxEwzQXyB0dpFxeSlTTLDeQriyPif-ZeMlQHy8=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeDGpRQ8fiHpdgLF-o0GHNG6gHYMyPL_jDLcKO9exTNMjIqDF6RPAbP8ZdI11LXtSfdCRCIUJrXLseAGnjCTlwduncFM5_Xotx0LcvfyQxEwzQXyB0dpFxeSlTTLDeQriyPif-ZeMlQHy8=w1000-h750-no",
-    "source_query": "Fish restaurant in Sint-Niklaas, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJdYUW0JCOw0cRGhXhMnkglV4",
-    "name": "Garry Supermarkt",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Sint-Niklaas",
-    "address": "Garry Supermarkt, Grote Markt 29, 9100 Sint-Niklaas",
-    "street": "Grote Markt 29",
-    "postal_code": "9100",
-    "region": null,
-    "latitude": 51.163255899999996,
-    "longitude": 4.140658999999999,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Garry%20Supermarkt&query_place_id=ChIJdYUW0JCOw0cRGhXhMnkglV4",
-    "open_hours_json": {
-      "Monday": [
-        "6 pm–4 am"
-      ],
-      "Tuesday": [
-        "6 pm–4 am"
-      ],
-      "Wednesday": [
-        "6 pm–4 am"
-      ],
-      "Thursday": [
-        "6 pm–4 am"
-      ],
-      "Friday": [
-        "6 pm–5 am"
-      ],
-      "Saturday": [
-        "6 pm–5 am"
-      ],
-      "Sunday": [
-        "6 pm–4 am"
-      ]
-    },
-    "review_count": 62,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfJy_nyNnDTAehmLsheTrcvDdbmqPlOtzBvOwtUXXI1LCokKrsuNbENnPA4kCryYFmDih74_ngDvUd89a7pnSjqf0KzSn4xkCml5XkIGdAdSPsPpEnDyDL4PiU-FE5PBwXESPc9Dw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfJy_nyNnDTAehmLsheTrcvDdbmqPlOtzBvOwtUXXI1LCokKrsuNbENnPA4kCryYFmDih74_ngDvUd89a7pnSjqf0KzSn4xkCml5XkIGdAdSPsPpEnDyDL4PiU-FE5PBwXESPc9Dw=w1000-h750-no",
-    "source_query": "Hypermarket in Sint-Niklaas, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJiT9RFPGPw0cRQKehYol62ho",
-    "name": "Golden Bite",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Sint-Niklaas",
-    "address": "Golden Bite, Vijfstraten 1، 9100 Sint-Niklaas",
-    "street": "Vijfstraten 1",
-    "postal_code": "9100",
-    "region": null,
-    "latitude": 51.172259399999994,
-    "longitude": 4.1506566,
-    "phone": "0493 86 82 33",
-    "website": "https://www.goldenbite.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Golden%20Bite&query_place_id=ChIJiT9RFPGPw0cRQKehYol62ho",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfmcCIbmfRK4GxZ-kw0fdtyGbG87-TuIDPyZguqm0effmiBvQjUi3Q4BWjiEn6iPNLuVu4Ot7cGAWrgWDa1tP2uOk4lJQQTU44AUKqcXOLDQ1w7APxeUxY1FdJzR860A-iO0NapfrMSGRA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfmcCIbmfRK4GxZ-kw0fdtyGbG87-TuIDPyZguqm0effmiBvQjUi3Q4BWjiEn6iPNLuVu4Ot7cGAWrgWDa1tP2uOk4lJQQTU44AUKqcXOLDQ1w7APxeUxY1FdJzR860A-iO0NapfrMSGRA=w1000-h750-no",
-    "rating": 4.8,
-    "review_count": 159,
-    "verification_status": "VERIFIED",
-    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJg3F1WpeOw0cRd-N3LiLSu28",
-    "name": "Het Laatste Avondmaal",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Sint-Niklaas",
-    "address": "Het Laatste Avondmaal, Sacramentsstraat 5, 9100 Sint-Niklaas",
-    "street": "Sacramentsstraat 5",
-    "postal_code": "9100",
-    "region": null,
-    "latitude": 51.164544,
-    "longitude": 4.1427562,
-    "phone": "03 776 72 69",
-    "website": "http://www.hetlaatsteavondmaal.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Het%20Laatste%20Avondmaal&query_place_id=ChIJg3F1WpeOw0cRd-N3LiLSu28",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLds5H3QyetODD-MQlOTzfkvh8fqv91z6PCx67QV28_ICVLkHr-wvrNm3TYx181I3pUCdxX6HKTYhZ7uDzNsckx5cjewO_Np0vh_9M34lDzCwApOK-y7IHP5-mAUrN2PtJESjmQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLds5H3QyetODD-MQlOTzfkvh8fqv91z6PCx67QV28_ICVLkHr-wvrNm3TYx181I3pUCdxX6HKTYhZ7uDzNsckx5cjewO_Np0vh_9M34lDzCwApOK-y7IHP5-mAUrN2PtJESjmQ=w1000-h750-no",
-    "rating": 4.3,
-    "review_count": 367,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJ6yTJYsCOw0cRHQjnPRhKDXA",
-    "name": "Hilal Cultuurcentrum",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Sint-Niklaas",
-    "address": "Hilal Cultuurcentrum, Wegvoeringsstraat 72, 9100 Sint-Niklaas",
-    "street": "Wegvoeringsstraat 72",
-    "postal_code": "9100",
-    "region": null,
-    "latitude": 51.1718304,
-    "longitude": 4.1307515,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Hilal%20Cultuurcentrum&query_place_id=ChIJ6yTJYsCOw0cRHQjnPRhKDXA",
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=eQ_e17V08m-sRk17BBckmg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=226.76811&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=eQ_e17V08m-sRk17BBckmg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=226.76811&pitch=0&thumbfov=w1000-h750-no",
-    "rating": 4.7,
-    "review_count": 6,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJ0wFgFb2Ow0cRxbw85AKI6Vw",
-    "name": "Hotel New Flanders",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Sint-Niklaas",
-    "address": "Hotel New Flanders, Stationsplein 5, 9100 Sint-Niklaas",
-    "street": "Stationsplein 5",
-    "postal_code": "9100",
-    "region": null,
-    "latitude": 51.1704818,
-    "longitude": 4.1423436,
-    "phone": "03 298 28 25",
-    "website": "http://hotelnewflanders.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Hotel%20New%20Flanders&query_place_id=ChIJ0wFgFb2Ow0cRxbw85AKI6Vw",
-    "open_hours_json": null,
-    "review_count": 243,
-    "rating": 3.0,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW0UYrqffrgvYxXwvn95Aj3zDy5A_YSGTmIMAKNFLFG3V8fcPSDDtqjIXaYRz8VOhTzOTWBiBGIQupxhCSWjYyTOr3XuS5dAn9LbXeEbplDUHYxxeWCYfB9R_5jnPO3ebROtXLm02tIMZuiZWoQFJyBCuoIWMWpP3xE2Q0nxIDBWn6eUJZ1E11GH=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW0UYrqffrgvYxXwvn95Aj3zDy5A_YSGTmIMAKNFLFG3V8fcPSDDtqjIXaYRz8VOhTzOTWBiBGIQupxhCSWjYyTOr3XuS5dAn9LbXeEbplDUHYxxeWCYfB9R_5jnPO3ebROtXLm02tIMZuiZWoQFJyBCuoIWMWpP3xE2Q0nxIDBWn6eUJZ1E11GH=w1000-h750-no",
-    "source_query": "Fish restaurant in Sint-Niklaas, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ-5BdH6COw0cRRhyXWxxSj2E",
-    "name": "ISTANBUL SUPERMARKET",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Sint-Niklaas",
-    "address": "ISTANBUL SUPERMARKET, Antwerpsesteenweg 86, 9100 Sint-Niklaas",
-    "street": "Antwerpsesteenweg 86",
-    "postal_code": "9100",
-    "region": null,
-    "latitude": 51.1688672,
-    "longitude": 4.154914499999999,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=ISTANBUL%20SUPERMARKET&query_place_id=ChIJ-5BdH6COw0cRRhyXWxxSj2E",
-    "open_hours_json": null,
-    "review_count": 2,
-    "rating": 5.0,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=WqI9Sb30iUw9tlXD9hMh0Q&cb_client=search.gws-prod.grass&w=80&h=92&yaw=337.15253&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=WqI9Sb30iUw9tlXD9hMh0Q&cb_client=search.gws-prod.grass&w=80&h=92&yaw=337.15253&pitch=0&thumbfov=w1000-h750-no",
-    "source_query": "Hypermarket in Sint-Niklaas, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJKc3dSACPw0cRtT2lMOIVgmA",
-    "name": "Iet Anders",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Sint-Niklaas",
-    "address": "Iet Anders, Hendrik Heymanplein 192, 9100 Sint-Niklaas",
-    "street": "Hendrik Heymanplein 192",
-    "postal_code": "9100",
-    "region": null,
-    "latitude": 51.161721299999996,
-    "longitude": 4.1404241,
-    "phone": "0470 12 60 30",
-    "website": "http://www.brasserieietanders.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Iet%20Anders&query_place_id=ChIJKc3dSACPw0cRtT2lMOIVgmA",
-    "open_hours_json": {
-      "Monday": [
-        "10 am–6 pm"
-      ],
-      "Tuesday": [
-        "10 am–6 pm"
-      ],
-      "Wednesday": [
-        "10 am–6 pm"
-      ],
-      "Thursday": [
-        "8 am–3 pm"
-      ],
-      "Friday": [
-        "10 am–10 pm"
-      ],
-      "Saturday": [
-        "10 am–10 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 43,
-    "rating": 5.0,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeB6MrYt3Ve4tul-ahZIRYho_UV15U2epcuWdjyijJO-_z4yPFu2K_hrfdzgnfD8TYJV3wgeJUfOCvTWJK63Ocp0sCP7J6qXHeH63kks1y3jEiW9LQi6XjlVbcRbWScHRop4iHTaxg21_4=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeB6MrYt3Ve4tul-ahZIRYho_UV15U2epcuWdjyijJO-_z4yPFu2K_hrfdzgnfD8TYJV3wgeJUfOCvTWJK63Ocp0sCP7J6qXHeH63kks1y3jEiW9LQi6XjlVbcRbWScHRop4iHTaxg21_4=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Sint-Niklaas, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJt78MZ5eOw0cRkxFHiGFCsvo",
-    "name": "Istanbul Supermarkt",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Sint-Niklaas",
-    "address": "Istanbul Supermarkt, Houtbriel 11, 9100 Sint-Niklaas",
-    "street": "Houtbriel 11",
-    "postal_code": "9100",
-    "region": null,
-    "latitude": 51.165197799999994,
-    "longitude": 4.1427154,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Istanbul%20Supermarkt&query_place_id=ChIJt78MZ5eOw0cRkxFHiGFCsvo",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "8 am–8 pm"
-      ],
-      "Wednesday": [
-        "8 am–8 pm"
-      ],
-      "Thursday": [
-        "8 am–8 pm"
-      ],
-      "Friday": [
-        "8 am–9 pm"
-      ],
-      "Saturday": [
-        "8 am–8 pm"
-      ],
-      "Sunday": [
-        "8 am–8 pm"
-      ]
-    },
-    "review_count": 21,
-    "rating": 5.0,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfyIehG4yXYzkneK6mQmp93h1f8SStUvs7KwodDOPTyGY64MzywxLHUh4_7L7tzqs7wrzoclD0Dq-T9TNq2IGzjJYZ7YLti-E6bKmYVQkptULoGHgPwLjeBr2kAuy1HSNsLHFRIeg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfyIehG4yXYzkneK6mQmp93h1f8SStUvs7KwodDOPTyGY64MzywxLHUh4_7L7tzqs7wrzoclD0Dq-T9TNq2IGzjJYZ7YLti-E6bKmYVQkptULoGHgPwLjeBr2kAuy1HSNsLHFRIeg=w1000-h750-no",
-    "source_query": "Hypermarket in Sint-Niklaas, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJK7nvw6uPw0cRceBu4ZvLL2Y",
-    "name": "Jenin market ( Alsham market)",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Sint-Niklaas",
-    "address": "Jenin market ( Alsham market), Mercatorstraat 38، 9100 Sint-Niklaas",
-    "street": "Mercatorstraat 38",
-    "postal_code": "9100",
-    "region": null,
-    "latitude": 51.170051699999995,
-    "longitude": 4.145648899999999,
-    "phone": "0465 71 02 23",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Jenin%20market%20%28%20Alsham%20market%29&query_place_id=ChIJK7nvw6uPw0cRceBu4ZvLL2Y",
-    "open_hours_json": null,
-    "review_count": 11,
-    "rating": 4.4,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdeS_NYgDLHvP6HjwTxQGytdx896rYTYC7tDMpTOOtfwKCWDoN1v4mliovyBx3JnbWQflW4IisJP9PGfcKSf9sVH0MR6CXNBOo01JwuMJBGUtyGJVmvizc4t8dyDVCI9LhWTmI=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdeS_NYgDLHvP6HjwTxQGytdx896rYTYC7tDMpTOOtfwKCWDoN1v4mliovyBx3JnbWQflW4IisJP9PGfcKSf9sVH0MR6CXNBOo01JwuMJBGUtyGJVmvizc4t8dyDVCI9LhWTmI=w1000-h750-no",
-    "source_query": "Hypermarket in Sint-Niklaas, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJj9lRfSqTw0cRSgf63myuo-Y",
-    "name": "KABUL MARKET",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Sint-Niklaas",
-    "address": "KABUL MARKET, Grote Markt 11, 9100 Sint-Niklaas",
-    "street": "Grote Markt 11",
-    "postal_code": "9100",
-    "region": null,
-    "latitude": 51.1640069,
-    "longitude": 4.1391813,
-    "phone": "0467 69 44 10",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=KABUL%20MARKET&query_place_id=ChIJj9lRfSqTw0cRSgf63myuo-Y",
-    "open_hours_json": {
-      "Monday": [
-        "8:30 am–9 pm"
-      ],
-      "Tuesday": [
-        "8:30 am–9 pm"
-      ],
-      "Wednesday": [
-        "8:30 am–9 pm"
-      ],
-      "Thursday": [
-        "8:30 am–9 pm"
-      ],
-      "Friday": [
-        "8:30 am–9 pm"
-      ],
-      "Saturday": [
-        "8:30 am–9 pm"
-      ],
-      "Sunday": [
-        "10 am–9 pm"
-      ]
-    },
-    "review_count": 14,
-    "rating": 4.1,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe0OBBP9IjD7gK7FWDbDHNG756JmcNscnEeOOp98--uzU9zXvTWLtcr-_0kMZIyjl8M06tqNn8RUP9bQuVeT6qN42KXu6jyIIVTtZZcF8ftzVsZuJwQZYpX_CVG9Cqz8Diu_2X5-g6vF3WE=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe0OBBP9IjD7gK7FWDbDHNG756JmcNscnEeOOp98--uzU9zXvTWLtcr-_0kMZIyjl8M06tqNn8RUP9bQuVeT6qN42KXu6jyIIVTtZZcF8ftzVsZuJwQZYpX_CVG9Cqz8Diu_2X5-g6vF3WE=w1000-h750-no",
-    "source_query": "Hypermarket in Sint-Niklaas, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJhatt5XCPw0cR1T511gFaN9w",
-    "name": "KARAM MARKET كرم ماركت",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Sint-Niklaas",
-    "address": "KARAM MARKET كرم ماركت, Mercatorstraat 43, 9100 Sint-Niklaas",
-    "street": "Mercatorstraat 43",
-    "postal_code": "9100",
-    "region": null,
-    "latitude": 51.1697554,
-    "longitude": 4.145969099999999,
-    "phone": "0487 66 74 86",
-    "website": "https://www.facebook.com/share/1BBHQNYUMh/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=KARAM%20MARKET%20%D9%83%D8%B1%D9%85%20%D9%85%D8%A7%D8%B1%D9%83%D8%AA&query_place_id=ChIJhatt5XCPw0cR1T511gFaN9w",
-    "open_hours_json": {
-      "Monday": [
-        "9 am–8 pm"
-      ],
-      "Tuesday": [
-        "9 am–8 pm"
-      ],
-      "Wednesday": [
-        "9 am–8 pm"
-      ],
-      "Thursday": [
-        "9 am–8 pm"
-      ],
-      "Friday": [
-        "9 am–8 pm"
-      ],
-      "Saturday": [
-        "9 am–8 pm"
-      ],
-      "Sunday": [
-        "9 am–8 pm"
-      ]
-    },
-    "review_count": 12,
-    "rating": 4.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdX0hbVVMvqm7GGPpGMUJNj8gNevm0cQ8ESifahvsPH7PO0WrK6tfusgJXU5PaefiW2pNLAz3GOOXHHY5iYzv9UWUVuj1noCOJ868UB-PHQj0TQ_xb0UEI-vSDQvvWBL6Z_SjLibAXJJrSy=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdX0hbVVMvqm7GGPpGMUJNj8gNevm0cQ8ESifahvsPH7PO0WrK6tfusgJXU5PaefiW2pNLAz3GOOXHHY5iYzv9UWUVuj1noCOJ868UB-PHQj0TQ_xb0UEI-vSDQvvWBL6Z_SjLibAXJJrSy=w1000-h750-no",
-    "source_query": "Hypermarket in Sint-Niklaas, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ9VSrHD6Pw0cReBIjIluQ1lw",
-    "name": "Kaas & Peper bvba",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Sint-Niklaas",
-    "address": "Kaas & Peper bvba, Hendrik Heymanplein 108, 9100 Sint-Niklaas",
-    "street": "Hendrik Heymanplein 108",
-    "postal_code": "9100",
-    "region": null,
-    "latitude": 51.1619472,
-    "longitude": 4.1414044,
-    "phone": "0484 27 40 22",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kaas%20%26%20Peper%20bvba&query_place_id=ChIJ9VSrHD6Pw0cReBIjIluQ1lw",
-    "open_hours_json": {
-      "Monday": [
-        "12–8 pm"
-      ],
-      "Tuesday": [
-        "11 am–8 pm"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "11 am–8 pm"
-      ],
-      "Friday": [
-        "11 am–8 pm"
-      ],
-      "Saturday": [
-        "11 am–8 pm"
-      ],
-      "Sunday": [
-        "11 am–6 pm"
-      ]
-    },
-    "review_count": 2,
-    "rating": 4.0,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3q7zABletz7VXRivVMGBXQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=117.38396&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3q7zABletz7VXRivVMGBXQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=117.38396&pitch=0&thumbfov=w1000-h750-no",
-    "source_query": "Hypermarket in Sint-Niklaas, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
   }
 ]

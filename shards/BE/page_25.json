@@ -1,5 +1,773 @@
 [
   {
+    "place_id": "ChIJnY6eydCc6kcR8FK7OF4UURY",
+    "name": "Mosquée Essalam de Neufchâteau",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Neufchâteau",
+    "address": "Mosquée Essalam de Neufchâteau, Rue Jules Poncelet 1, 6840 Neufchâteau",
+    "street": "Rue Jules Poncelet 1",
+    "postal_code": "6840",
+    "region": null,
+    "latitude": 49.844873,
+    "longitude": 5.4377698,
+    "phone": "0496 92 75 46",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mosqu%C3%A9e%20Essalam%20de%20Neufch%C3%A2teau&query_place_id=ChIJnY6eydCc6kcR8FK7OF4UURY",
+    "open_hours_json": null,
+    "review_count": 26,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeO4nAma1vJPl9YpeB2lexeRUQG_MKC_MQIrOK1TwTkxjxNrF5-zlSQ6J3UzBltf0u0qG3iPJWIE7nQu_Y9NOi0TV3h_q-jXkhWRVv6JgEJhVe-uQSfXdP4MBettHwlNGus5r2X=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeO4nAma1vJPl9YpeB2lexeRUQG_MKC_MQIrOK1TwTkxjxNrF5-zlSQ6J3UzBltf0u0qG3iPJWIE7nQu_Y9NOi0TV3h_q-jXkhWRVv6JgEJhVe-uQSfXdP4MBettHwlNGus5r2X=w1000-h750-no",
+    "source_query": "Mosque in Libramont, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ6ZgH0NGc6kcRJ9xThW8OFok",
+    "name": "SUN 7",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Neufchâteau",
+    "address": "SUN 7, Rue Franklin Roosevelt 14, 6840 Neufchâteau",
+    "street": "Rue Franklin Roosevelt 14",
+    "postal_code": "6840",
+    "region": null,
+    "latitude": 49.8411711,
+    "longitude": 5.4348475999999994,
+    "phone": null,
+    "website": "http://www.sun7presse.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=SUN%207&query_place_id=ChIJ6ZgH0NGc6kcRJ9xThW8OFok",
+    "open_hours_json": {
+      "Monday": [
+        "6 am–10 pm"
+      ],
+      "Tuesday": [
+        "6 am–11 pm"
+      ],
+      "Wednesday": [
+        "6 am–11 pm"
+      ],
+      "Thursday": [
+        "6 am–11 pm"
+      ],
+      "Friday": [
+        "6 am–12 am"
+      ],
+      "Saturday": [
+        "8 am–12 am"
+      ],
+      "Sunday": [
+        "9 am–10 pm"
+      ]
+    },
+    "review_count": 104,
+    "rating": 4.0,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeha7Ao3BvScsJSkTWehnn89vzx1p5E-j6ZL7xPXkU_ivJ0cZUWJ0tW-7IK96q98XjVqmhMRRKRoXPXBIZ2vhaX0PoIPZZ7L04x6KOY_g6Y7jpP2b654d81l5edC7vkIvgaN4mMHg=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeha7Ao3BvScsJSkTWehnn89vzx1p5E-j6ZL7xPXkU_ivJ0cZUWJ0tW-7IK96q98XjVqmhMRRKRoXPXBIZ2vhaX0PoIPZZ7L04x6KOY_g6Y7jpP2b654d81l5edC7vkIvgaN4mMHg=w1000-h750-no",
+    "source_query": "Hypermarket in Neufchâteau, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJUXUZwdGc6kcRt7vvqOOtXZ8",
+    "name": "Snack Pita Antalya",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Neufchâteau",
+    "address": "Snack Pita Antalya, Rue Franklin Roosevelt 23, 6840 Neufchâteau",
+    "street": "Rue Franklin Roosevelt 23",
+    "postal_code": "6840",
+    "region": null,
+    "latitude": 49.841347,
+    "longitude": 5.434385799999999,
+    "phone": "061 21 98 18",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Snack%20Pita%20Antalya&query_place_id=ChIJUXUZwdGc6kcRt7vvqOOtXZ8",
+    "open_hours_json": {
+      "Monday": [
+        "11:30 am–1 am"
+      ],
+      "Tuesday": [
+        "11:30 am–1 am"
+      ],
+      "Wednesday": [
+        "11:30 am–1 am"
+      ],
+      "Thursday": [
+        "11:30 am–1 am"
+      ],
+      "Friday": [
+        "11:30 am–2 am"
+      ],
+      "Saturday": [
+        "11:30 am–2 am"
+      ],
+      "Sunday": [
+        "11:30 am–1 am"
+      ]
+    },
+    "review_count": 382,
+    "rating": 4.1,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLespNxkv1Pn5Ycz2bD_YiSDUibPVlJaT5azmAlpqoRjiEGYbmDpFtShiwdvWe89TT2GUuYM3gS18ta8gnlfWxUxT65q4De2_ObM76_uL4ykPR0B5cbgVx69He5QmT1tYRFiRC1bNw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLespNxkv1Pn5Ycz2bD_YiSDUibPVlJaT5azmAlpqoRjiEGYbmDpFtShiwdvWe89TT2GUuYM3gS18ta8gnlfWxUxT65q4De2_ObM76_uL4ykPR0B5cbgVx69He5QmT1tYRFiRC1bNw=w1000-h750-no",
+    "source_query": "Halal restaurant in Neufchâteau, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJqyhoytmc6kcR0tV1uf9LK0Q",
+    "name": "Spar Neufchâteau",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Neufchâteau",
+    "address": "Spar Neufchâteau, Av. de la Gare 45, 6840 Neufchâteau",
+    "street": "Av. de la Gare 45",
+    "postal_code": "6840",
+    "region": null,
+    "latitude": 49.8444352,
+    "longitude": 5.4386344,
+    "phone": "061 27 14 34",
+    "website": "https://www.monspar.be/magasins/spar-neufchateau",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Spar%20Neufch%C3%A2teau&query_place_id=ChIJqyhoytmc6kcR0tV1uf9LK0Q",
+    "open_hours_json": {
+      "Monday": [
+        "8 am–7 pm"
+      ],
+      "Tuesday": [
+        "8 am–7 pm"
+      ],
+      "Wednesday": [
+        "8 am–7 pm"
+      ],
+      "Thursday": [
+        "8 am–7 pm"
+      ],
+      "Friday": [
+        "8 am–7 pm"
+      ],
+      "Saturday": [
+        "8 am–7 pm"
+      ],
+      "Sunday": [
+        "8 am–12:30 pm"
+      ]
+    },
+    "review_count": 387,
+    "rating": 4.0,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd-lWQhgSujbpgMQ3RFMDRTcZYoEiJqjPBo3K9w__ikvr2QN7EPQ-iAC9ApAnUL6QzL-WYQBdLmGxDrAVFOeCdGBpi5uuNWG7WGM29NQMM937eRM5pklf9doTA7bHvtlhuhJMav=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd-lWQhgSujbpgMQ3RFMDRTcZYoEiJqjPBo3K9w__ikvr2QN7EPQ-iAC9ApAnUL6QzL-WYQBdLmGxDrAVFOeCdGBpi5uuNWG7WGM29NQMM937eRM5pklf9doTA7bHvtlhuhJMav=w1000-h750-no",
+    "source_query": "Hypermarket in Neufchâteau, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJmW5LLtCc6kcRAgPUL3ESov4",
+    "name": "Vendetta Neufchâteau",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Neufchâteau",
+    "address": "Vendetta Neufchâteau, Rue Lucien Burnotte 6, 6840 Neufchâteau",
+    "street": "Rue Lucien Burnotte 6",
+    "postal_code": "6840",
+    "region": null,
+    "latitude": 49.840688799999995,
+    "longitude": 5.4360531,
+    "phone": "061 41 20 24",
+    "website": "https://wallux.com/la-vendetta-tre-neufchateau",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Vendetta%20Neufch%C3%A2teau&query_place_id=ChIJmW5LLtCc6kcRAgPUL3ESov4",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "12–2 pm",
+        "6–9:30 pm"
+      ],
+      "Wednesday": [
+        "12–2 pm",
+        "6–9:30 pm"
+      ],
+      "Thursday": [
+        "12–2 pm",
+        "6–9:30 pm"
+      ],
+      "Friday": [
+        "12–2 pm",
+        "6–10 pm"
+      ],
+      "Saturday": [
+        "12–2 pm",
+        "6–10 pm"
+      ],
+      "Sunday": [
+        "12–2 pm",
+        "6–10 pm"
+      ]
+    },
+    "review_count": 459,
+    "rating": 4.2,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf-f8sx0rSexQdmaPdVvTERJNioHr7SJ3YZGnGsjkbTOKZ8wwXxX1iVyawElSGhdnngSvPRgvkp9suuC6mAZCnSHtlWuHYBcqfFCIYXC5j0GiGzPl96rJBDAlBPZ1pAA-dTkBOd=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf-f8sx0rSexQdmaPdVvTERJNioHr7SJ3YZGnGsjkbTOKZ8wwXxX1iVyawElSGhdnngSvPRgvkp9suuC6mAZCnSHtlWuHYBcqfFCIYXC5j0GiGzPl96rJBDAlBPZ1pAA-dTkBOd=w1000-h750-no",
+    "source_query": "Halal restaurant in Neufchâteau, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJfWAomaDX3EcRBlv2vbj5wHM",
+    "name": "Hyper U et Drive",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "FR",
+    "country_code": "FR",
+    "city": "Nieppe",
+    "address": "Hyper U et Drive, Rle du Bailly, 59850 Nieppe, France",
+    "street": "Rle du Bailly",
+    "postal_code": "59850",
+    "region": null,
+    "latitude": 50.68626,
+    "longitude": 2.84158,
+    "phone": "+33 3 20 48 53 15",
+    "website": "https://www.coursesu.com/f-hyperu-nieppe-informations",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Hyper%20U%20et%20Drive&query_place_id=ChIJfWAomaDX3EcRBlv2vbj5wHM",
+    "open_hours_json": {
+      "Monday": [
+        "8:30 am–8 pm"
+      ],
+      "Tuesday": [
+        "8:30 am–8 pm"
+      ],
+      "Wednesday": [
+        "8:30 am–8 pm"
+      ],
+      "Thursday": [
+        "8:30 am–8 pm"
+      ],
+      "Friday": [
+        "8:30 am–8 pm"
+      ],
+      "Saturday": [
+        "8:30 am–8 pm"
+      ],
+      "Sunday": [
+        "9 am–12:30 pm"
+      ]
+    },
+    "review_count": 2591,
+    "rating": 3.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd58UKY8Sov11tpUgPdny3ouAF-BNdnbjCQzDvL2uJ2pLf6U0goDyL1OsuYBcz1-gCT5z8AgviaxYYYU68CJqI-u67sGeKv5B9EUJs6ZKdmRF8A42fPSUL3YC1TltHrc1OWYHqd=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd58UKY8Sov11tpUgPdny3ouAF-BNdnbjCQzDvL2uJ2pLf6U0goDyL1OsuYBcz1-gCT5z8AgviaxYYYU68CJqI-u67sGeKv5B9EUJs6ZKdmRF8A42fPSUL3YC1TltHrc1OWYHqd=w1000-h750-no",
+    "source_query": "Hypermarket in Warneton, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJdwHMgiuj3EcRFinlAvFa9Os",
+    "name": "'t Marmietje",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Nieuwpoort",
+    "address": "'t Marmietje, Zeedijk 28, 8620 Nieuwpoort",
+    "street": "Zeedijk 28",
+    "postal_code": "8620",
+    "region": null,
+    "latitude": 51.148855,
+    "longitude": 2.7156897,
+    "phone": "058 23 72 79",
+    "website": "https://www.tmarmietje.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%27t%20Marmietje&query_place_id=ChIJdwHMgiuj3EcRFinlAvFa9Os",
+    "open_hours_json": null,
+    "review_count": 1127,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcJ-2aKfYVLEPSGBLQ-mwrPqt-odHtd5eGAQpiubl9_g9IvT-liG3ydLqkWJ--jI6MQkasnE9Q2lfrEs6Y683jlUI38IZAFBj0zmVLPv900PND98XhEuBHApxKcGE-N3t0d0wOuuQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcJ-2aKfYVLEPSGBLQ-mwrPqt-odHtd5eGAQpiubl9_g9IvT-liG3ydLqkWJ--jI6MQkasnE9Q2lfrEs6Y683jlUI38IZAFBj0zmVLPv900PND98XhEuBHApxKcGE-N3t0d0wOuuQ=w1000-h750-no",
+    "source_query": "Halal restaurant in Nieuwpoort, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJoy3qUKS83EcRk7wNZ-PrwiY",
+    "name": "'t Ponton",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Nieuwpoort",
+    "address": "'t Ponton, Havenstraat 1, 8620 Nieuwpoort",
+    "street": "Havenstraat 1",
+    "postal_code": "8620",
+    "region": null,
+    "latitude": 51.1330556,
+    "longitude": 2.7486110999999998,
+    "phone": "058 62 68 72",
+    "website": "http://www.tponton.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%27t%20Ponton&query_place_id=ChIJoy3qUKS83EcRk7wNZ-PrwiY",
+    "open_hours_json": null,
+    "review_count": 488,
+    "rating": 4.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeyl7ouUuxkI5R3J-bq3GQTi7RmQpVPCNttXRT0rvg8V4xYM27TZOxisjsY7spkgUsYUQNLUcjBRJlyc4V_0UFDbo3RMZp4BiLbLrZmVunoyy7eObMDon_qKva0X9vINDidstFw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeyl7ouUuxkI5R3J-bq3GQTi7RmQpVPCNttXRT0rvg8V4xYM27TZOxisjsY7spkgUsYUQNLUcjBRJlyc4V_0UFDbo3RMZp4BiLbLrZmVunoyy7eObMDon_qKva0X9vINDidstFw=w1000-h750-no",
+    "source_query": "Halal restaurant in Nieuwpoort, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJC5p06KS83EcR6uzAxjC1Eq0",
+    "name": "Au Bistro",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Nieuwpoort",
+    "address": "Au Bistro, Kaai 23, 8620 Nieuwpoort",
+    "street": "Kaai 23",
+    "postal_code": "8620",
+    "region": null,
+    "latitude": 51.133299699999995,
+    "longitude": 2.7509327999999997,
+    "phone": "058 24 14 84",
+    "website": "https://www.aubistro.be/nl/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Au%20Bistro&query_place_id=ChIJC5p06KS83EcR6uzAxjC1Eq0",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "12–2 pm",
+        "6–9 pm"
+      ],
+      "Thursday": [
+        "12–2 pm",
+        "6–9 pm"
+      ],
+      "Friday": [
+        "12–2 pm",
+        "6–9 pm"
+      ],
+      "Saturday": [
+        "12–2 pm",
+        "6–9 pm"
+      ],
+      "Sunday": [
+        "12–2 pm",
+        "6–9 pm"
+      ]
+    },
+    "review_count": 330,
+    "rating": 4.2,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfW--QT6BYphb4j3-Mwxspvm6abDV36WPcMWCMrH8MU4yUESuu81jKZrGJsOSYICWd355stRw9V8xGwvSAzBGgw6RbfVRgLQztF-ayj_21jk1XI1ww3ubFXv3Y3OZVqLzP_1RBN=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfW--QT6BYphb4j3-Mwxspvm6abDV36WPcMWCMrH8MU4yUESuu81jKZrGJsOSYICWd355stRw9V8xGwvSAzBGgw6RbfVRgLQztF-ayj_21jk1XI1ww3ubFXv3Y3OZVqLzP_1RBN=w1000-h750-no",
+    "source_query": "Fish restaurant in Nieuwpoort, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJjYOqgKS83EcR3D_-Rssklag",
+    "name": "B & B 't Ponton",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Nieuwpoort",
+    "address": "B & B 't Ponton, Havenstraat 1, 8620 Nieuwpoort",
+    "street": "Havenstraat 1",
+    "postal_code": "8620",
+    "region": null,
+    "latitude": 51.133078,
+    "longitude": 2.7485307,
+    "phone": "0499 75 62 46",
+    "website": "http://www.tponton.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=B%20%26%20B%20%27t%20Ponton&query_place_id=ChIJjYOqgKS83EcR3D_-Rssklag",
+    "open_hours_json": null,
+    "review_count": 54,
+    "rating": 4.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcU8pEloRVNfLXZpq3cseoinzwyLZP8j08C77IF8s3RBb0fO83QDh3XlUVkLb8hW9VcgNbzx4GvU45wvvNyo9CnWqTmK1A5CvTmpIN7MYnyoSxlGxybR9pJfBMdwejXWhiOcQY=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcU8pEloRVNfLXZpq3cseoinzwyLZP8j08C77IF8s3RBb0fO83QDh3XlUVkLb8hW9VcgNbzx4GvU45wvvNyo9CnWqTmK1A5CvTmpIN7MYnyoSxlGxybR9pJfBMdwejXWhiOcQY=w1000-h750-no",
+    "source_query": "Fish restaurant in Nieuwpoort, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJT9ksPLu83EcRI2ac5mFPBn4",
+    "name": "Barbouni",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Nieuwpoort",
+    "address": "Barbouni, Kaai 39, 8620 Nieuwpoort",
+    "street": "Kaai 39",
+    "postal_code": "8620",
+    "region": null,
+    "latitude": 51.133114799999994,
+    "longitude": 2.7485814,
+    "phone": "058 59 65 14",
+    "website": "http://www.barbouni.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Barbouni&query_place_id=ChIJT9ksPLu83EcRI2ac5mFPBn4",
+    "open_hours_json": {
+      "Monday": [
+        "11:30 am–2 pm",
+        "5:30–9 pm"
+      ],
+      "Tuesday": [
+        "11:30 am–2 pm",
+        "5:30–9 pm"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "12–2 pm",
+        "5:30–9 pm"
+      ],
+      "Friday": [
+        "11:30 am–2 pm",
+        "5:30–9 pm"
+      ],
+      "Saturday": [
+        "11:30 am–2 pm",
+        "5:30–9 pm"
+      ],
+      "Sunday": [
+        "11:30 am–2 pm",
+        "5:30–9 pm"
+      ]
+    },
+    "review_count": 892,
+    "rating": 4.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdk130LDHvJwqqXLhbk8l20C5sHCxc_rDWEy96-NxbIgcp_489OJffXe9vzyJhYx_gV89MHreU9UkaQ0Z-QEEc4UrGHvcysxy4kAzWP58r-66O72jXDMV7V7vHsxva5D3XlhJ8=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdk130LDHvJwqqXLhbk8l20C5sHCxc_rDWEy96-NxbIgcp_489OJffXe9vzyJhYx_gV89MHreU9UkaQ0Z-QEEc4UrGHvcysxy4kAzWP58r-66O72jXDMV7V7vHsxva5D3XlhJ8=w1000-h750-no",
+    "source_query": "Halal restaurant in Nieuwpoort, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJERqnlTOj3EcRmJhw9592FGI",
+    "name": "Belgo Restaurant",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Nieuwpoort",
+    "address": "Belgo Restaurant, Zeedijk 45, 8620 Nieuwpoort",
+    "street": "Zeedijk 45",
+    "postal_code": "8620",
+    "region": null,
+    "latitude": 51.148013999999996,
+    "longitude": 2.7138259,
+    "phone": "058 62 42 33",
+    "website": "http://www.belgorestaurant.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Belgo%20Restaurant&query_place_id=ChIJERqnlTOj3EcRmJhw9592FGI",
+    "open_hours_json": null,
+    "review_count": 689,
+    "rating": 4.4,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf_ZCL3l60eYDH8Cd8obyKUkqrHZWi4lLt_TABBrBHLhU2fBHHsSELbpWzueb1BRYCwMXYGNZP4YqiNi4qwRjWiJ8kjv_5ZzxTUnA-ALJnKyHjeGi98_jcbdpyTBBitks_XJQsV=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf_ZCL3l60eYDH8Cd8obyKUkqrHZWi4lLt_TABBrBHLhU2fBHHsSELbpWzueb1BRYCwMXYGNZP4YqiNi4qwRjWiJ8kjv_5ZzxTUnA-ALJnKyHjeGi98_jcbdpyTBBitks_XJQsV=w1000-h750-no",
+    "source_query": "Halal restaurant in Nieuwpoort, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ6WnFW1u93EcR40dSK9Aytvo",
+    "name": "Bistro Partizaan",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Nieuwpoort",
+    "address": "Bistro Partizaan, Kaai 22, 8620 Nieuwpoort",
+    "street": "Kaai 22",
+    "postal_code": "8620",
+    "region": null,
+    "latitude": 51.1332531,
+    "longitude": 2.7513772,
+    "phone": "058 62 63 83",
+    "website": "https://www.partizaannieuwpoort.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bistro%20Partizaan&query_place_id=ChIJ6WnFW1u93EcR40dSK9Aytvo",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "11:30 am–2 pm",
+        "6–9 pm"
+      ],
+      "Wednesday": [
+        "11:30 am–2 pm",
+        "6–9 pm"
+      ],
+      "Thursday": [
+        "11:30 am–2 pm",
+        "6–9 pm"
+      ],
+      "Friday": [
+        "11:30 am–2 pm",
+        "6–9 pm"
+      ],
+      "Saturday": [
+        "11:30 am–2 pm",
+        "6–9 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 361,
+    "rating": 4.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLef0-ZNNKwBzOxbc-4xAsZL00UXX6hkBhMUXd6c0DVT-2upQDZ69y5mPGvhcXfKHxjuzVGqEvYrNZcldoVkbIthxTuSqMagXqieBD3SLpfYePkfkNrRL_lwxAd3HONfDEXpetDsVw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLef0-ZNNKwBzOxbc-4xAsZL00UXX6hkBhMUXd6c0DVT-2upQDZ69y5mPGvhcXfKHxjuzVGqEvYrNZcldoVkbIthxTuSqMagXqieBD3SLpfYePkfkNrRL_lwxAd3HONfDEXpetDsVw=w1000-h750-no",
+    "source_query": "Fish restaurant in Nieuwpoort, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJHYZSTqS83EcRUw_1644NQoQ",
+    "name": "Bistro du Port",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Nieuwpoort",
+    "address": "Bistro du Port, Kaai 8, 8620 Nieuwpoort",
+    "street": "Kaai 8",
+    "postal_code": "8620",
+    "region": null,
+    "latitude": 51.133578799999995,
+    "longitude": 2.7533851,
+    "phone": "058 24 12 44",
+    "website": "http://www.bistroduport.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bistro%20du%20Port&query_place_id=ChIJHYZSTqS83EcRUw_1644NQoQ",
+    "open_hours_json": {
+      "Monday": [
+        "12–2 pm",
+        "6–9 pm"
+      ],
+      "Tuesday": [
+        "12–2 pm",
+        "6–9 pm"
+      ],
+      "Wednesday": [
+        "12–2 pm",
+        "6–9 pm"
+      ],
+      "Thursday": [
+        "Closed"
+      ],
+      "Friday": [
+        "12–2 pm",
+        "6–9 pm"
+      ],
+      "Saturday": [
+        "12–2 pm",
+        "6–9 pm"
+      ],
+      "Sunday": [
+        "12–2 pm",
+        "6–9 pm"
+      ]
+    },
+    "review_count": 339,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfOyuF8kd2mD3CD_Xm8lgvuDyluYOVhpt0kbD-KPWbs6acD6g1nKRLfciSt472RWgyKzlgzq5JL0hThsL8j30WWuFgPtj32pFeHS1XSLdYsLwTOCyZAaoUhmrigjrN4hGJe_zYzxQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfOyuF8kd2mD3CD_Xm8lgvuDyluYOVhpt0kbD-KPWbs6acD6g1nKRLfciSt472RWgyKzlgzq5JL0hThsL8j30WWuFgPtj32pFeHS1XSLdYsLwTOCyZAaoUhmrigjrN4hGJe_zYzxQ=w1000-h750-no",
+    "source_query": "Halal restaurant in Nieuwpoort, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ7WNajyyj3EcRCYBxT7-SJ8s",
+    "name": "Butchery Dierendonck",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Nieuwpoort",
+    "address": "Butchery Dierendonck, Albert I laan 106, 8620 Nieuwpoort",
+    "street": "Albert I laan 106",
+    "postal_code": "8620",
+    "region": null,
+    "latitude": 51.150182,
+    "longitude": 2.7213757,
+    "phone": "058 24 20 12",
+    "website": "http://www.dierendonck.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Butchery%20Dierendonck&query_place_id=ChIJ7WNajyyj3EcRCYBxT7-SJ8s",
+    "open_hours_json": {
+      "Monday": [
+        "9 am–6 pm"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "9 am–6 pm"
+      ],
+      "Friday": [
+        "9 am–6 pm"
+      ],
+      "Saturday": [
+        "9 am–6 pm"
+      ],
+      "Sunday": [
+        "9 am–6 pm"
+      ]
+    },
+    "review_count": 168,
+    "rating": 4.2,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeQT_5l9h0KnsU1gf2KRv74UeO127dlWqX2sEJ9Ak0OtbZBJsJ90he-SlsUI_kZiuvip_Rk81QeoWr6fsqjiFDFVl_EHEVYo_NH2Qk5MYl5mfuDuxwgWCXR5Mgf6A7WHIO6zJz9=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeQT_5l9h0KnsU1gf2KRv74UeO127dlWqX2sEJ9Ak0OtbZBJsJ90he-SlsUI_kZiuvip_Rk81QeoWr6fsqjiFDFVl_EHEVYo_NH2Qk5MYl5mfuDuxwgWCXR5Mgf6A7WHIO6zJz9=w1000-h750-no",
+    "source_query": "Halal restaurant in Nieuwpoort, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ04k23ee93EcRxyF-5GNiXLQ",
+    "name": "Closté",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Nieuwpoort",
+    "address": "Closté, Langestraat 115, 8620 Nieuwpoort",
+    "street": "Langestraat 115",
+    "postal_code": "8620",
+    "region": null,
+    "latitude": 51.1323534,
+    "longitude": 2.7504744999999997,
+    "phone": "058 62 76 48",
+    "website": "http://restaurantcloste.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Clost%C3%A9&query_place_id=ChIJ04k23ee93EcRxyF-5GNiXLQ",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "7–11:30 pm"
+      ],
+      "Friday": [
+        "12–9:30 pm"
+      ],
+      "Saturday": [
+        "12–9:30 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 132,
+    "rating": 4.9,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfqHfgDiRlVhDmRJXDKPIaUE8yGFDdLi9SOWZtxaKxqbZV_OI4_cymQotZHEWMrYKnyRg3m61GKqb4S2qjdys1q_1_cRP8lQCeSWORWWPq-BERQGfkJNkC2NGdUKOlSWxBv8_VAEnp2gnU=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfqHfgDiRlVhDmRJXDKPIaUE8yGFDdLi9SOWZtxaKxqbZV_OI4_cymQotZHEWMrYKnyRg3m61GKqb4S2qjdys1q_1_cRP8lQCeSWORWWPq-BERQGfkJNkC2NGdUKOlSWxBv8_VAEnp2gnU=w1000-h750-no",
+    "source_query": "Halal restaurant in Nieuwpoort, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ90oOh7e83EcRwlmZZm80h5c",
+    "name": "Collect&Go Nieuwpoort",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Nieuwpoort",
+    "address": "Collect&Go Nieuwpoort, Jozef Cardijnlaan 33-A, 8620 Nieuwpoort",
+    "street": "Jozef Cardijnlaan 33-A",
+    "postal_code": "8620",
+    "region": null,
+    "latitude": 51.1371427,
+    "longitude": 2.7409657999999997,
+    "phone": "02 363 50 05",
+    "website": "https://www.collectandgo.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Collect%26Go%20Nieuwpoort&query_place_id=ChIJ90oOh7e83EcRwlmZZm80h5c",
+    "open_hours_json": {
+      "Monday": [
+        "8 am–8 pm"
+      ],
+      "Tuesday": [
+        "8 am–8 pm"
+      ],
+      "Wednesday": [
+        "8 am–8 pm"
+      ],
+      "Thursday": [
+        "8 am–8 pm"
+      ],
+      "Friday": [
+        "8 am–9 pm"
+      ],
+      "Saturday": [
+        "8 am–8 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 15,
+    "rating": 4.6,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NSq1GY2A2KePhEvaLv-awA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=350.7776&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NSq1GY2A2KePhEvaLv-awA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=350.7776&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Hypermarket in Nieuwpoort, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJs4PMYZC93EcR4dukU3fd8Dk",
     "name": "De Blauwe Vogel",
     "type": "restaurant",
@@ -7392,8 +8160,8 @@
     "phone": "059 41 14 48",
     "website": "https://www.facebook.com/p/Antwerp-fried-chicken-oostende-100082846586925/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Antwerp%20Fried%20Chicken%20Oostende&query_place_id=ChIJYVcrtcqv3EcRMR5uwF5OcDs",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd3sH-ri82HLhfTzTlznelHNidZMl4y-BczS48hYJsV-af1qWbRSjcQro9Ok-yZ80Y8CpEAb-EiMIKYc_-2MG5DB-NEpZQCzlXx6SNe9MMHGioziSkOJNIAVhRPNcqX__vrKQ29=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd3sH-ri82HLhfTzTlznelHNidZMl4y-BczS48hYJsV-af1qWbRSjcQro9Ok-yZ80Y8CpEAb-EiMIKYc_-2MG5DB-NEpZQCzlXx6SNe9MMHGioziSkOJNIAVhRPNcqX__vrKQ29=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLewj2OGlYg4zuXahiEOGsdWuBQbQwblgt0oL6jezmNWM_71zZ6UgFSdquIubIv_5KN9blE94AIc2CPlH9ALa3RRVMSwUMi_97hdJ3l0MjPsPKOtItJaNQY6O64FgcHYVVxhMKiJ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLewj2OGlYg4zuXahiEOGsdWuBQbQwblgt0oL6jezmNWM_71zZ6UgFSdquIubIv_5KN9blE94AIc2CPlH9ALa3RRVMSwUMi_97hdJ3l0MjPsPKOtItJaNQY6O64FgcHYVVxhMKiJ=w1000-h750-no",
     "rating": 4.3,
     "review_count": 334,
     "verification_status": "VERIFIED",
@@ -7496,8 +8264,8 @@
     "phone": "0468 33 05 75",
     "website": "https://citysnacks.framer.website/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=CITY%20SNACKS%20HALAL&query_place_id=ChIJOV7Sumuv3EcR1rmVolqNGEw",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdqU4wJJHAdVHnHNJH-HFk8IfFBY3whrYgcWsiAAOSaAgmIJYgTxOyvNnp091p0R9Wsa0oFWrGHSfAXAlAkWABIiivrqEQoiUnOCWklxJ3mkoEjGIxsL4UNpW5flruA--f0pbJR-A=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdqU4wJJHAdVHnHNJH-HFk8IfFBY3whrYgcWsiAAOSaAgmIJYgTxOyvNnp091p0R9Wsa0oFWrGHSfAXAlAkWABIiivrqEQoiUnOCWklxJ3mkoEjGIxsL4UNpW5flruA--f0pbJR-A=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe3PU0sFg9yVY2G0DxpkZmu2TqmPV2PBzw7a1i2YmNwr4xUDjD3nB_wJPHMfCQR8jHcf1JJlFWyO-1QneRuDVjrMLeRYwiZN6MqZ0rO1cpMdecOcA0OotJZGApp7sEEzvrCLaFi=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe3PU0sFg9yVY2G0DxpkZmu2TqmPV2PBzw7a1i2YmNwr4xUDjD3nB_wJPHMfCQR8jHcf1JJlFWyO-1QneRuDVjrMLeRYwiZN6MqZ0rO1cpMdecOcA0OotJZGApp7sEEzvrCLaFi=w1000-h750-no",
     "rating": 4.6,
     "review_count": 159,
     "verification_status": "VERIFIED",
@@ -7766,6 +8534,32 @@
     "moderation_status": "approved"
   },
   {
+    "place_id": "ChIJaVfSpCWv3EcR4vOTSGvjZ9Y",
+    "name": "Hazrat Bilal Jami Masjid Mosque Cami",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Oostende",
+    "address": "Hazrat Bilal Jami Masjid Mosque Cami, Stuiverstraat 210, 8400 Oostende",
+    "street": "Stuiverstraat 210",
+    "postal_code": "8400",
+    "region": null,
+    "latitude": 51.2148782,
+    "longitude": 2.9086713,
+    "phone": "0466 48 75 85",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Hazrat%20Bilal%20Jami%20Masjid%20Mosque%20Cami&query_place_id=ChIJaVfSpCWv3EcR4vOTSGvjZ9Y",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLckRHAEZBi3BgdjBFYD317FiuEuq4WVS43V4zXZ-0-bJ0ivqR2KdJ79Of6FuzetY4maajDSRq3li76NINJRgkURwMdUSnogyeS35D8TmR7FYix1ovv1zbvTTuG1BS-088pBUAEx=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLckRHAEZBi3BgdjBFYD317FiuEuq4WVS43V4zXZ-0-bJ0ivqR2KdJ79Of6FuzetY4maajDSRq3li76NINJRgkURwMdUSnogyeS35D8TmR7FYix1ovv1zbvTTuG1BS-088pBUAEx=w1000-h750-no",
+    "rating": 4.6,
+    "review_count": 16,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
     "place_id": "ChIJk5QAXyOv3EcR3r3E0PR6Y-0",
     "name": "Himalayan restaurant",
     "type": "restaurant",
@@ -7942,6 +8736,58 @@
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdyjhrQsQ4pM8T0v1IsZQKnrYXk-_UdQ8mjcc_3GDkkEXLVZqIap89UjrvRdLflnEVAil57mQWD8TBmot8A-LC41DAFSwbMVzZx4-tw9l8xXx34JEn_1ssJ4tDelEfOgH3wNMPgm2Ox6b8g=w1000-h750-no",
     "rating": 4.3,
     "review_count": 74,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJq8jeezCv3EcR_VzhA8FUIfU",
+    "name": "Moskee Aisja 🕌",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Oostende",
+    "address": "Moskee Aisja 🕌, Hendrik Conscienceplein 5, 8400 Oostende",
+    "street": "Hendrik Conscienceplein 5",
+    "postal_code": "8400",
+    "region": null,
+    "latitude": 51.217107999999996,
+    "longitude": 2.9025502999999997,
+    "phone": "0477 22 09 36",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Aisja%20%F0%9F%95%8C&query_place_id=ChIJq8jeezCv3EcR_VzhA8FUIfU",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfQh8D91Uj3fBfMymYly073DU9H8nE_QOqhrzNNNhi47HQX0mEV7LMKq8ouprVPakyIbRIaG0BIj9Ms2jxryMMwnabOFDfNo3rsBPFm6qiu7j0g1KRxMTSbdb-kUrUiHY9dKC3u=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfQh8D91Uj3fBfMymYly073DU9H8nE_QOqhrzNNNhi47HQX0mEV7LMKq8ouprVPakyIbRIaG0BIj9Ms2jxryMMwnabOFDfNo3rsBPFm6qiu7j0g1KRxMTSbdb-kUrUiHY9dKC3u=w1000-h750-no",
+    "rating": 4.7,
+    "review_count": 198,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJ8VeQZyqv3EcRd9VW32HTTFo",
+    "name": "Moskee Jamia Islamia🕌",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Oostende",
+    "address": "Moskee Jamia Islamia🕌, Romestraat 85, 8400 Oostende",
+    "street": "Romestraat 85",
+    "postal_code": "8400",
+    "region": null,
+    "latitude": 51.223759,
+    "longitude": 2.9165332,
+    "phone": "0465 80 25 13",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Jamia%20Islamia%F0%9F%95%8C&query_place_id=ChIJ8VeQZyqv3EcRd9VW32HTTFo",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf2FReSCUCkanbv4_3sVFaLSDfoq7NxXicjvjgUzW6sYnIZ80eoPKuXwO_j778E0nTsOFPtih5k_Txnl1aggiBocXYQEfbXwPZAkc2lIEUxsnT3V7U706sjHnT7F1sCtaugvHvljA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf2FReSCUCkanbv4_3sVFaLSDfoq7NxXicjvjgUzW6sYnIZ80eoPKuXwO_j778E0nTsOFPtih5k_Txnl1aggiBocXYQEfbXwPZAkc2lIEUxsnT3V7U706sjHnT7F1sCtaugvHvljA=w1000-h750-no",
+    "rating": 4.4,
+    "review_count": 43,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null,
     "is_active": true,
@@ -8169,11 +9015,11 @@
     "region": null,
     "latitude": 51.2251051,
     "longitude": 2.9094520999999998,
-    "phone": "0492 61 51 27",
+    "phone": null,
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Royal%20House&query_place_id=ChIJYxCNEXOv3EcREpT3x-hrEJA",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeSsP4XKAzvfELEcJBHS1v8LG3gwpKEgcOttOZLKrbaUCBwg6iJ9_4NKpY0C7B58CJ8wlrPkLOuR3mexeyEn2VJQx3JbnIjTI_8hWGeeSUmDqMpHez_Mo4YzZJeePi3qiU1Y8QmFN0aDAXO=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeSsP4XKAzvfELEcJBHS1v8LG3gwpKEgcOttOZLKrbaUCBwg6iJ9_4NKpY0C7B58CJ8wlrPkLOuR3mexeyEn2VJQx3JbnIjTI_8hWGeeSUmDqMpHez_Mo4YzZJeePi3qiU1Y8QmFN0aDAXO=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLefzrRNcWf5NE3e7bWq27whZbT-V_8R8Vz3sj1-NCr9rzbS4iMYs-r1TjOJkRJXU8vh7Lsnm5cbhGRlWQr3gbRmDPLm-4qEXgrH39Wu241Q3DNUuDHrW99vWjMl3V6eOXxhWOUXIDqq6IM_=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLefzrRNcWf5NE3e7bWq27whZbT-V_8R8Vz3sj1-NCr9rzbS4iMYs-r1TjOJkRJXU8vh7Lsnm5cbhGRlWQr3gbRmDPLm-4qEXgrH39Wu241Q3DNUuDHrW99vWjMl3V6eOXxhWOUXIDqq6IM_=w1000-h750-no",
     "rating": 4.5,
     "review_count": 312,
     "verification_status": "UNVERIFIED",
@@ -8276,8 +9122,8 @@
     "phone": "0465 24 51 48",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Slagerij%20Badr%20%F0%9F%A5%A9&query_place_id=ChIJF07x-lqv3EcRDczVL9QU948",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcz3IljLDL5k3DdXGtUxWw9h4O_Vdh4WLUpY9WseZX3cCz7X2vjspSLMVjhdZQVHM-y9D7KWh7UVoHsNlFEhrg0SQK9a8lzDD-H9P65wqsYXmh4iyc-O-MDXmP7AwlWd3yvFmllbwb9VQ8=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcz3IljLDL5k3DdXGtUxWw9h4O_Vdh4WLUpY9WseZX3cCz7X2vjspSLMVjhdZQVHM-y9D7KWh7UVoHsNlFEhrg0SQK9a8lzDD-H9P65wqsYXmh4iyc-O-MDXmP7AwlWd3yvFmllbwb9VQ8=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe_Pu9kqdhZxYBGkRO7DGB_mhEIfC29aGYwfhn5jMocdhSqphNxXwQjjdm80NlWZYr_UT0pbQ_gOgr4vDa5feDXwe4Jus3ZwwcND7JEmvgOvHwh_LwtwhTp78nQqhNAbLeOgFtioFbLY8A=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe_Pu9kqdhZxYBGkRO7DGB_mhEIfC29aGYwfhn5jMocdhSqphNxXwQjjdm80NlWZYr_UT0pbQ_gOgr4vDa5feDXwe4Jus3ZwwcND7JEmvgOvHwh_LwtwhTp78nQqhNAbLeOgFtioFbLY8A=w1000-h750-no",
     "rating": 4.9,
     "review_count": 49,
     "verification_status": "UNVERIFIED",
@@ -10061,994 +10907,6 @@
     "rating": 4.8,
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf4vwkkmNVtWvkY2QDlrsUjcjqOov2h4gHLTNzqPw3L1dLvSRLeFhb6RadOVBcMpfHl0E7m87CGWkUU2lsw948rE2LzKLpbbqQIHyywULouTZDNto0p-nmRXkCDf2rpvvNOWq59fw6O7qWT=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf4vwkkmNVtWvkY2QDlrsUjcjqOov2h4gHLTNzqPw3L1dLvSRLeFhb6RadOVBcMpfHl0E7m87CGWkUU2lsw948rE2LzKLpbbqQIHyywULouTZDNto0p-nmRXkCDf2rpvvNOWq59fw6O7qWT=w1000-h750-no",
-    "source_query": "Hypermarket in Ostend, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJJ_LZoymp3EcRMMGLatwzq4o",
-    "name": "De Amandine",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Ostend",
-    "address": "De Amandine, Visserskaai 38, 8400 Oostende",
-    "street": "Visserskaai 38",
-    "postal_code": "8400",
-    "region": null,
-    "latitude": 51.2336044,
-    "longitude": 2.9215288,
-    "phone": "0487 85 67 67",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=De%20Amandine&query_place_id=ChIJJ_LZoymp3EcRMMGLatwzq4o",
-    "open_hours_json": {
-      "Monday": [
-        "12–2:30 pm",
-        "5:30–8:30 pm"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "12–2:30 pm",
-        "5:30–8:30 pm"
-      ],
-      "Thursday": [
-        "12–2:30 pm",
-        "5:30–8:30 pm"
-      ],
-      "Friday": [
-        "12–2:30 pm",
-        "5:30–8:30 pm"
-      ],
-      "Saturday": [
-        "12–2:30 pm",
-        "5:30–9 pm"
-      ],
-      "Sunday": [
-        "12–2:30 pm",
-        "5:30–8:30 pm"
-      ]
-    },
-    "review_count": 774,
-    "rating": 4.2,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcKNG18Y-hFMhI7Gohdl8qdZeJqjK2uGBY7bMv9sKY-NudzGBc1nQos26BVgie6FnlPSxsEy5XathN-6xtRueL2bnjz8Z1SrBuv71nvM8NGxwOgwHlU3GYWSyHGPPWZPbsNNrkM=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcKNG18Y-hFMhI7Gohdl8qdZeJqjK2uGBY7bMv9sKY-NudzGBc1nQos26BVgie6FnlPSxsEy5XathN-6xtRueL2bnjz8Z1SrBuv71nvM8NGxwOgwHlU3GYWSyHGPPWZPbsNNrkM=w1000-h750-no",
-    "source_query": "Fish restaurant in Ostend, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ_exoy-iu3EcR0N-JrgV8UnM",
-    "name": "De Biopluktuin",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Ostend",
-    "address": "De Biopluktuin, Stuiverstraat 599, 8400 Oostende",
-    "street": "Stuiverstraat 599",
-    "postal_code": "8400",
-    "region": null,
-    "latitude": 51.2023009,
-    "longitude": 2.9127935,
-    "phone": "0472 61 90 81",
-    "website": "http://www.biopluktuin.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=De%20Biopluktuin&query_place_id=ChIJ_exoy-iu3EcR0N-JrgV8UnM",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "2–6 pm"
-      ],
-      "Thursday": [
-        "Closed"
-      ],
-      "Friday": [
-        "3–6 pm"
-      ],
-      "Saturday": [
-        "Closed"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 6,
-    "rating": 4.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdr7YD5Mvtr4anuBVfPU70d_l8FA8kxp4vD1e0Y4a2EjZn1ywG2kN419tLqP_vQZXkBTej7lP-0qJ-5CM8Ame11qCreKOfdnpjfVH-2EpnIEcKGUYGWBC0ijNeLy9M3zW2vrILx=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdr7YD5Mvtr4anuBVfPU70d_l8FA8kxp4vD1e0Y4a2EjZn1ywG2kN419tLqP_vQZXkBTej7lP-0qJ-5CM8Ame11qCreKOfdnpjfVH-2EpnIEcKGUYGWBC0ijNeLy9M3zW2vrILx=w1000-h750-no",
-    "source_query": "Hypermarket in Ostend, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ74CeOC6p3EcRmVpikWVa7sk",
-    "name": "De Cierk",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Ostend",
-    "address": "De Cierk, Maritiem Plein 10, 8400 Oostende",
-    "street": "Maritiem Plein 10",
-    "postal_code": "8400",
-    "region": null,
-    "latitude": 51.233969599999995,
-    "longitude": 2.9295967,
-    "phone": "0475 80 63 03",
-    "website": "https://www.decierk.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=De%20Cierk&query_place_id=ChIJ74CeOC6p3EcRmVpikWVa7sk",
-    "open_hours_json": {
-      "Monday": [
-        "9:30 am–6:30 pm"
-      ],
-      "Tuesday": [
-        "9:30 am–6:30 pm"
-      ],
-      "Wednesday": [
-        "9:30 am–6:30 pm"
-      ],
-      "Thursday": [
-        "9:30 am–6:30 pm"
-      ],
-      "Friday": [
-        "9:30 am–6:30 pm"
-      ],
-      "Saturday": [
-        "9:30 am–6:30 pm"
-      ],
-      "Sunday": [
-        "9:30 am–6:30 pm"
-      ]
-    },
-    "review_count": 422,
-    "rating": 4.4,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLef1zQc1YnL4SYEtvit-pvPbHqzeJ6bvBDyowfQO5OXZmOMdQ0gEtUVmM_TQlPE7OZMqDSA4tg4nqdctDusmJydtu0dabyhs8MVHlCGT9u_2x8U_93VUhdyG8IULaXtQBnZ9jo=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLef1zQc1YnL4SYEtvit-pvPbHqzeJ6bvBDyowfQO5OXZmOMdQ0gEtUVmM_TQlPE7OZMqDSA4tg4nqdctDusmJydtu0dabyhs8MVHlCGT9u_2x8U_93VUhdyG8IULaXtQBnZ9jo=w1000-h750-no",
-    "source_query": "Fish restaurant in Oudenburg, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJHRfk1iup3EcRHvGMTcnV7n4",
-    "name": "De Maalboot",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Ostend",
-    "address": "De Maalboot, Visserskaai 23, 8400 Oostende",
-    "street": "Visserskaai 23",
-    "postal_code": "8400",
-    "region": null,
-    "latitude": 51.2318369,
-    "longitude": 2.9225252,
-    "phone": "059 51 62 65",
-    "website": "https://www.facebook.com/De-Maalboot-Oostende-101541171217536/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=De%20Maalboot&query_place_id=ChIJHRfk1iup3EcRHvGMTcnV7n4",
-    "open_hours_json": {
-      "Monday": [
-        "9 am–8:30 pm"
-      ],
-      "Tuesday": [
-        "9 am–4 pm",
-        "6–8:30 pm"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "Closed"
-      ],
-      "Friday": [
-        "9 am–4 pm",
-        "6–8:30 pm"
-      ],
-      "Saturday": [
-        "9 am–9 pm"
-      ],
-      "Sunday": [
-        "9 am–9 pm"
-      ]
-    },
-    "review_count": 517,
-    "rating": 4.1,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe3jV72juyUHXbRuzWcUxf_bUkNRc_lOXQQN3n26yzDXxR4U1l96fjRwo8P1zxmsxS95VnaX23kK-fVt1UB7RFtnG5FOpDiUdkJTX4AvI_SGuYuxeCd0bEk0fE_0Qp8DP5074pC=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe3jV72juyUHXbRuzWcUxf_bUkNRc_lOXQQN3n26yzDXxR4U1l96fjRwo8P1zxmsxS95VnaX23kK-fVt1UB7RFtnG5FOpDiUdkJTX4AvI_SGuYuxeCd0bEk0fE_0Qp8DP5074pC=w1000-h750-no",
-    "source_query": "Fish restaurant in Ostend, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJRVrzLSip3EcR11oP_xaDwbU",
-    "name": "De Mangerie",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Ostend",
-    "address": "De Mangerie, Albert I-promenade 10, 8400 Oostende",
-    "street": "Albert I-promenade 10",
-    "postal_code": "8400",
-    "region": null,
-    "latitude": 51.2349338,
-    "longitude": 2.9199753999999998,
-    "phone": "059 50 18 27",
-    "website": "http://www.mangerieoostende.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=De%20Mangerie&query_place_id=ChIJRVrzLSip3EcR11oP_xaDwbU",
-    "open_hours_json": {
-      "Monday": [
-        "12–2:30 pm",
-        "6–9:30 pm"
-      ],
-      "Tuesday": [
-        "12–2:30 pm",
-        "6–9:30 pm"
-      ],
-      "Wednesday": [
-        "12–2:30 pm",
-        "6–9:30 pm"
-      ],
-      "Thursday": [
-        "12–2:30 pm",
-        "6–9:30 pm"
-      ],
-      "Friday": [
-        "12–2:30 pm",
-        "6–9:30 pm"
-      ],
-      "Saturday": [
-        "12–2:30 pm",
-        "6–9:30 pm"
-      ],
-      "Sunday": [
-        "12–2:30 pm",
-        "6–9:30 pm"
-      ]
-    },
-    "review_count": 1465,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdZ9FO_iltVWZ__olE6jfIfFocpUHhp6bs0f81cZSemFbOyGZWmkTTAKnq6AL8m85n-FAKrgFkfBd5nU5BTsoAUdkycamr-DIpRa5UgV8rFMg2rNZH05onlno1feAvVZY3rXPxy2Q=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdZ9FO_iltVWZ__olE6jfIfFocpUHhp6bs0f81cZSemFbOyGZWmkTTAKnq6AL8m85n-FAKrgFkfBd5nU5BTsoAUdkycamr-DIpRa5UgV8rFMg2rNZH05onlno1feAvVZY3rXPxy2Q=w1000-h750-no",
-    "source_query": "Fish restaurant in Ostend, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJL8Ktrk6p3EcRFQmV80bw78Q",
-    "name": "De Oesterput",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Ostend",
-    "address": "De Oesterput, Schietbaanstraat 84/86, 8400 Oostende",
-    "street": "Schietbaanstraat 84/86",
-    "postal_code": "8400",
-    "region": null,
-    "latitude": 51.2320388,
-    "longitude": 2.9507787,
-    "phone": "059 33 08 73",
-    "website": "http://www.de-oesterput.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=De%20Oesterput&query_place_id=ChIJL8Ktrk6p3EcRFQmV80bw78Q",
-    "open_hours_json": {
-      "Monday": [
-        "9 am–5 pm"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "9 am–5 pm"
-      ],
-      "Thursday": [
-        "9 am–5 pm"
-      ],
-      "Friday": [
-        "9 am–5 pm"
-      ],
-      "Saturday": [
-        "9 am–5 pm"
-      ],
-      "Sunday": [
-        "9 am–12 pm"
-      ]
-    },
-    "review_count": 482,
-    "rating": 4.4,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfekPuQcbq14p4gFFpaTxMT9VgNh1L4AD0CSyqlJNTC0_ZorCQnOch4_AORo27f6u7vWuudJH_cRpIZ7IZTjPSlzpjdZAUGTKTVyZD6KMXJqtyidagZt0gUwve28E41OIfK-deZ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfekPuQcbq14p4gFFpaTxMT9VgNh1L4AD0CSyqlJNTC0_ZorCQnOch4_AORo27f6u7vWuudJH_cRpIZ7IZTjPSlzpjdZAUGTKTVyZD6KMXJqtyidagZt0gUwve28E41OIfK-deZ=w1000-h750-no",
-    "source_query": "Fish restaurant in Oudenburg, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJWXFstC2v3EcRbdHT2ipee0o",
-    "name": "Diwan Brothers",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Ostend",
-    "address": "Diwan Brothers, Torhoutsesteenweg 89, 8400 Oostende",
-    "street": "Torhoutsesteenweg 89",
-    "postal_code": "8400",
-    "region": null,
-    "latitude": 51.2234151,
-    "longitude": 2.9086667999999998,
-    "phone": "059 51 83 01",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Diwan%20Brothers&query_place_id=ChIJWXFstC2v3EcRbdHT2ipee0o",
-    "open_hours_json": {
-      "Monday": [
-        "10 am–8 pm"
-      ],
-      "Tuesday": [
-        "10 am–8 pm"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "10 am–8 pm"
-      ],
-      "Friday": [
-        "10 am–8 pm"
-      ],
-      "Saturday": [
-        "10 am–8 pm"
-      ],
-      "Sunday": [
-        "10 am–8 pm"
-      ]
-    },
-    "review_count": 28,
-    "rating": 4.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcDOoNQti0NoYpnBiVEb_vbY48yEaj_Ai70GediwFSeq-5gdjDB7iAtagnjzp-eC23LtKDU7SaE66bTt_iyTdqhCdslN8oiVji52mVaIJIuOILkM8d74FbHUZzdiZP6DD3SgDjH=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcDOoNQti0NoYpnBiVEb_vbY48yEaj_Ai70GediwFSeq-5gdjDB7iAtagnjzp-eC23LtKDU7SaE66bTt_iyTdqhCdslN8oiVji52mVaIJIuOILkM8d74FbHUZzdiZP6DD3SgDjH=w1000-h750-no",
-    "source_query": "Hypermarket in Ostend, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJR9NkUpup3EcRbR-QvwyQvZI",
-    "name": "Dolce Mare",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Ostend",
-    "address": "Dolce Mare, Visserskaai 19/20, 8400 Oostende",
-    "street": "Visserskaai 19/20",
-    "postal_code": "8400",
-    "region": null,
-    "latitude": 51.2315354,
-    "longitude": 2.9226741,
-    "phone": "0485 96 21 58",
-    "website": "https://restodolcemare.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Dolce%20Mare&query_place_id=ChIJR9NkUpup3EcRbR-QvwyQvZI",
-    "open_hours_json": {
-      "Monday": [
-        "12–2 pm",
-        "6–8:30 pm"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "12–2 pm",
-        "6–8:30 pm"
-      ],
-      "Thursday": [
-        "12–2 pm",
-        "6–8:30 pm"
-      ],
-      "Friday": [
-        "12–2 pm",
-        "6–8:30 pm"
-      ],
-      "Saturday": [
-        "12–2 pm",
-        "6–8:30 pm"
-      ],
-      "Sunday": [
-        "12–2 pm",
-        "6–8:30 pm"
-      ]
-    },
-    "review_count": 639,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd0ahrY4_Wj4pjNDlGv7dkW-4kkMsIuh6AYmWPNOvpCR0Z-jbUEuJRf3ekSbtPgD32JYQZxCKZOMYOW6uA8Zuli44hj-Fp7_S1GQ9uY9fGulpESa3RzPQqXBJlObs6qiMvuRn6dJA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd0ahrY4_Wj4pjNDlGv7dkW-4kkMsIuh6AYmWPNOvpCR0Z-jbUEuJRf3ekSbtPgD32JYQZxCKZOMYOW6uA8Zuli44hj-Fp7_S1GQ9uY9fGulpESa3RzPQqXBJlObs6qiMvuRn6dJA=w1000-h750-no",
-    "source_query": "Fish restaurant in Ostend, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJrxRGzKep3EcR9jAVJkQeg6I",
-    "name": "Eaust",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Ostend",
-    "address": "Eaust, Vuurtorendok-Zuid 29, 8400 Oostende",
-    "street": "Vuurtorendok-Zuid 29",
-    "postal_code": "8400",
-    "region": null,
-    "latitude": 51.2362683,
-    "longitude": 2.932452,
-    "phone": "0472 49 52 05",
-    "website": "https://www.eaust.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Eaust&query_place_id=ChIJrxRGzKep3EcR9jAVJkQeg6I",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "12–1:30 pm",
-        "6:30–8 pm"
-      ],
-      "Thursday": [
-        "12–1:30 pm",
-        "6:30–8 pm"
-      ],
-      "Friday": [
-        "12–1:30 pm",
-        "6:30–8 pm"
-      ],
-      "Saturday": [
-        "12–1:30 pm",
-        "6:30–8 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 35,
-    "rating": 4.9,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdvMpoL5WIx5pU3dXzWslu-xhracE7kjjbfKSnKy5KujBYYGnEj7EvLFXyKOckAvHIfs8xH8e3t0ldCI1ng-CoJTlPj1KRbDVl3eISdRWzdlThWY53vyCs87N7e04rWp-45AcYiXVlZq2s=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdvMpoL5WIx5pU3dXzWslu-xhracE7kjjbfKSnKy5KujBYYGnEj7EvLFXyKOckAvHIfs8xH8e3t0ldCI1ng-CoJTlPj1KRbDVl3eISdRWzdlThWY53vyCs87N7e04rWp-45AcYiXVlZq2s=w1000-h750-no",
-    "source_query": "Fish restaurant in Oudenburg, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJLYa8o9ao3EcR2VnbP2wmXTY",
-    "name": "Eetkaffee Poseidon",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Ostend",
-    "address": "Eetkaffee Poseidon, Hertstraat 11, 8400 Oostende",
-    "street": "Hertstraat 11",
-    "postal_code": "8400",
-    "region": null,
-    "latitude": 51.2325897,
-    "longitude": 2.914094,
-    "phone": "059 43 90 69",
-    "website": "https://www.poseidonoostende.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Eetkaffee%20Poseidon&query_place_id=ChIJLYa8o9ao3EcR2VnbP2wmXTY",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "9:30 am–8:30 pm"
-      ],
-      "Friday": [
-        "9:30 am–8:30 pm"
-      ],
-      "Saturday": [
-        "9:30 am–9 pm"
-      ],
-      "Sunday": [
-        "9:30 am–9 pm"
-      ]
-    },
-    "review_count": 568,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLejct7RaSBzoSY9qbYhuFJvrXYl9vomkzuKJlT-T0CK-vg3Tp8vSlPTNnxKm36G6lcX4LhR9zSseORpOfHcHZbCxmz5aARqsyGyeUbANXabttAgPlIlTpu_zWRnP41OcwPk7h-tEA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLejct7RaSBzoSY9qbYhuFJvrXYl9vomkzuKJlT-T0CK-vg3Tp8vSlPTNnxKm36G6lcX4LhR9zSseORpOfHcHZbCxmz5aARqsyGyeUbANXabttAgPlIlTpu_zWRnP41OcwPk7h-tEA=w1000-h750-no",
-    "source_query": "Fish restaurant in Ostend, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJlxrTxiup3EcRyzE5pIglLpA",
-    "name": "Entre Terre et Mer Restaurant",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Ostend",
-    "address": "Entre Terre et Mer Restaurant, Visserskaai 9, 8400 Oostende",
-    "street": "Visserskaai 9",
-    "postal_code": "8400",
-    "region": null,
-    "latitude": 51.230899699999995,
-    "longitude": 2.9230828,
-    "phone": "059 51 33 96",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Entre%20Terre%20et%20Mer%20Restaurant&query_place_id=ChIJlxrTxiup3EcRyzE5pIglLpA",
-    "open_hours_json": {
-      "Monday": [
-        "11 am–8 pm"
-      ],
-      "Tuesday": [
-        "11 am–8 pm"
-      ],
-      "Wednesday": [
-        "11 am–8 pm"
-      ],
-      "Thursday": [
-        "11 am–8 pm"
-      ],
-      "Friday": [
-        "11 am–8 pm"
-      ],
-      "Saturday": [
-        "11 am–8 pm"
-      ],
-      "Sunday": [
-        "11 am–8 pm"
-      ]
-    },
-    "review_count": 260,
-    "rating": 3.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfRY3hu3grOI2dw257J8kAkozMiG2o2uaQsUqmyG7Q8mr9moweurxHPCmB-TzlCgrZgjQY2oNoQnxHknMSxhCb_InyPeRDfrPj15JCrUhv6aYlYhLoqfyYS9uxe_7jaGZCdkegp=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfRY3hu3grOI2dw257J8kAkozMiG2o2uaQsUqmyG7Q8mr9moweurxHPCmB-TzlCgrZgjQY2oNoQnxHknMSxhCb_InyPeRDfrPj15JCrUhv6aYlYhLoqfyYS9uxe_7jaGZCdkegp=w1000-h750-no",
-    "source_query": "Fish restaurant in Ostend, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJL0svYS6v3EcR6ZW38yeJj08",
-    "name": "Exotic Supermarket",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Ostend",
-    "address": "Exotic Supermarket, Torhoutsesteenweg 150, 8400 Oostende",
-    "street": "Torhoutsesteenweg 150",
-    "postal_code": "8400",
-    "region": null,
-    "latitude": 51.2208196,
-    "longitude": 2.9083286999999998,
-    "phone": "059 44 67 19",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Exotic%20Supermarket&query_place_id=ChIJL0svYS6v3EcR6ZW38yeJj08",
-    "open_hours_json": {
-      "Monday": [
-        "10 am–10 pm"
-      ],
-      "Tuesday": [
-        "10 am–10 pm"
-      ],
-      "Wednesday": [
-        "10 am–10 pm"
-      ],
-      "Thursday": [
-        "10 am–10 pm"
-      ],
-      "Friday": [
-        "10 am–10 pm"
-      ],
-      "Saturday": [
-        "10 am–10 pm"
-      ],
-      "Sunday": [
-        "10 am–10 pm"
-      ]
-    },
-    "review_count": 15,
-    "rating": 4.1,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfzRNxkNQLRSopZiSu-SFqqC5C-dy7EQV1heWvakscS6B6w7An46FBDxlc6s6ron03WKyRwQQwvEgFHeitUTqaYdl8YXHijFb8DdQAmzJ7smUt0mRj12bmGPmmLj__FV7mh8yY_Ww=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfzRNxkNQLRSopZiSu-SFqqC5C-dy7EQV1heWvakscS6B6w7An46FBDxlc6s6ron03WKyRwQQwvEgFHeitUTqaYdl8YXHijFb8DdQAmzJ7smUt0mRj12bmGPmmLj__FV7mh8yY_Ww=w1000-h750-no",
-    "source_query": "Hypermarket in Ostend, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJKeHJDtao3EcRrZuEma6xoXM",
-    "name": "Fifth Avenue 🇫🇷",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Ostend",
-    "address": "Fifth Avenue 🇫🇷, Wapenplein, 8400 Oostende",
-    "street": "Wapenplein",
-    "postal_code": "8400",
-    "region": null,
-    "latitude": 51.232341,
-    "longitude": 2.9181515,
-    "phone": "059 44 08 84",
-    "website": "http://www.fifthavenueoostende.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Fifth%20Avenue%20%F0%9F%87%AB%F0%9F%87%B7&query_place_id=ChIJKeHJDtao3EcRrZuEma6xoXM",
-    "open_hours_json": {
-      "Monday": [
-        "11 am–9:30 pm"
-      ],
-      "Tuesday": [
-        "11 am–9:30 pm"
-      ],
-      "Wednesday": [
-        "11 am–9:30 pm"
-      ],
-      "Thursday": [
-        "11 am–9:30 pm"
-      ],
-      "Friday": [
-        "11 am–9:30 pm"
-      ],
-      "Saturday": [
-        "11 am–9:30 pm"
-      ],
-      "Sunday": [
-        "11 am–9:30 pm"
-      ]
-    },
-    "review_count": 679,
-    "rating": 4.0,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfU6Gbhq7IL--m2jXD-2XyCyvT3_WwwAtXsIROeEmoxzurp4xKTxxFo_gNmbUikGIpJ-8it6tx6CrTGNkgcb2GWkdiQUCC9ZmKPPG_1PyWxpCIjSE1J-kBqi2Dwq0h8YTWUigx0=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfU6Gbhq7IL--m2jXD-2XyCyvT3_WwwAtXsIROeEmoxzurp4xKTxxFo_gNmbUikGIpJ-8it6tx6CrTGNkgcb2GWkdiQUCC9ZmKPPG_1PyWxpCIjSE1J-kBqi2Dwq0h8YTWUigx0=w1000-h750-no",
-    "source_query": "Fish restaurant in Ostend, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJUf9lQCuv3EcRClvg0cIQSyE",
-    "name": "Fish Store Mercator",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Ostend",
-    "address": "Fish Store Mercator, Ieperstraat 16, 8400 Oostende",
-    "street": "Ieperstraat 16",
-    "postal_code": "8400",
-    "region": null,
-    "latitude": 51.2262698,
-    "longitude": 2.9156861999999997,
-    "phone": "059 70 47 81",
-    "website": "https://www.vishandelmercator.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Fish%20Store%20Mercator&query_place_id=ChIJUf9lQCuv3EcRClvg0cIQSyE",
-    "open_hours_json": {
-      "Monday": [
-        "9 am–6 pm"
-      ],
-      "Tuesday": [
-        "9 am–6 pm"
-      ],
-      "Wednesday": [
-        "9 am–6 pm"
-      ],
-      "Thursday": [
-        "9 am–6 pm"
-      ],
-      "Friday": [
-        "9 am–6 pm"
-      ],
-      "Saturday": [
-        "9 am–2 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 268,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc5mMmSsd8hAOBI0AK6RbKzFDcz1fllMH1CqtYwu43G5JvLWQfkz_hsZYr0spD60hunWENbI44a1kMPLAv6TU9LXO2QzM5IaorhyDCyP62MUKNzUnfVe4JXSHFf6CqdxltxniF8nA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc5mMmSsd8hAOBI0AK6RbKzFDcz1fllMH1CqtYwu43G5JvLWQfkz_hsZYr0spD60hunWENbI44a1kMPLAv6TU9LXO2QzM5IaorhyDCyP62MUKNzUnfVe4JXSHFf6CqdxltxniF8nA=w1000-h750-no",
-    "source_query": "Hypermarket in Ostend, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJAQDLKyev3EcR-uKRyoD0cLc",
-    "name": "Flow Aan Zee",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Ostend",
-    "address": "Flow Aan Zee, Stuiverstraat 354, 8400 Oostende",
-    "street": "Stuiverstraat 354",
-    "postal_code": "8400",
-    "region": null,
-    "latitude": 51.211441699999995,
-    "longitude": 2.9140956,
-    "phone": "059 70 70 19",
-    "website": "https://www.flowaanzee.be/contact",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Flow%20Aan%20Zee&query_place_id=ChIJAQDLKyev3EcR-uKRyoD0cLc",
-    "open_hours_json": null,
-    "review_count": 1,
-    "rating": 5.0,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pzIIqehGrwDdWzR0JIWmLw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=39.058083&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pzIIqehGrwDdWzR0JIWmLw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=39.058083&pitch=0&thumbfov=w1000-h750-no",
-    "source_query": "Pharmacy in Ostend, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJhSVcBiOs3EcRKsualdAFGjw",
-    "name": "Frescana",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Ostend",
-    "address": "Frescana, Zandvoordedorpstraat 2, 8400 Oostende",
-    "street": "Zandvoordedorpstraat 2",
-    "postal_code": "8400",
-    "region": null,
-    "latitude": 51.2014013,
-    "longitude": 2.9749242,
-    "phone": "059 26 81 08",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Frescana&query_place_id=ChIJhSVcBiOs3EcRKsualdAFGjw",
-    "open_hours_json": {
-      "Monday": [
-        "8:30 am–12 pm",
-        "1:45–6 pm"
-      ],
-      "Tuesday": [
-        "8:30 am–12 pm",
-        "1:45–6 pm"
-      ],
-      "Wednesday": [
-        "8:30 am–12 pm",
-        "1:45–6 pm"
-      ],
-      "Thursday": [
-        "8:30 am–12 pm",
-        "1:45–6 pm"
-      ],
-      "Friday": [
-        "8:30 am–12 pm",
-        "1:45–6 pm"
-      ],
-      "Saturday": [
-        "8:30 am–12 pm",
-        "1:45–6 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 56,
-    "rating": 4.4,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6hXQJ_BU46hdzgKUO-6nxQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=323.9181&pitch=0.38940176&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6hXQJ_BU46hdzgKUO-6nxQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=323.9181&pitch=0.38940176&thumbfov=w1000-h750-no",
-    "source_query": "Hypermarket in Ostend, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJUTQV0W6p3EcRiemflNPai-I",
-    "name": "Gastrobar SAM",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Ostend",
-    "address": "Gastrobar SAM, Van Iseghemlaan 60, 8400 Oostende",
-    "street": "Van Iseghemlaan 60",
-    "postal_code": "8400",
-    "region": null,
-    "latitude": 51.2317532,
-    "longitude": 2.9134899,
-    "phone": "0473 55 59 38",
-    "website": "https://mymenuweb.com/bel/restaurants/2054782/?utm_source=google_profile&utm_medium=google_profile&utm_campaign=admin",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Gastrobar%20SAM&query_place_id=ChIJUTQV0W6p3EcRiemflNPai-I",
-    "open_hours_json": {
-      "Monday": [
-        "6 pm–12 am"
-      ],
-      "Tuesday": [
-        "6 pm–12 am"
-      ],
-      "Wednesday": [
-        "6 pm–12 am"
-      ],
-      "Thursday": [
-        "6 pm–12 am"
-      ],
-      "Friday": [
-        "12–2 pm",
-        "6 pm–12 am"
-      ],
-      "Saturday": [
-        "6 pm–12 am"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 315,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfWgxI5gT7_z_bEC82Op3LlPhjCYtAxlqeTYPfiZlZpRmzvBF9XU5nWz527TBvjd0uwbTvz5nb_T6oV4poK3I7M9UzBOmte7x516yLMPDHNH-8fFGgJWJS01HoSximzoSZe7y2-sg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfWgxI5gT7_z_bEC82Op3LlPhjCYtAxlqeTYPfiZlZpRmzvBF9XU5nWz527TBvjd0uwbTvz5nb_T6oV4poK3I7M9UzBOmte7x516yLMPDHNH-8fFGgJWJS01HoSximzoSZe7y2-sg=w1000-h750-no",
-    "source_query": "Fish restaurant in Ostend, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ37JDzCyv3EcR4BnK4PqFzYg",
-    "name": "Gerry Fruit",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Ostend",
-    "address": "Gerry Fruit, Euphrosina Beernaertstraat 75a, 8400 Oostende",
-    "street": "Euphrosina Beernaertstraat 75a",
-    "postal_code": "8400",
-    "region": null,
-    "latitude": 51.226867899999995,
-    "longitude": 2.9102139,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Gerry%20Fruit&query_place_id=ChIJ37JDzCyv3EcR4BnK4PqFzYg",
-    "open_hours_json": null,
-    "review_count": 0,
-    "rating": null,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=eDzMImx09fOcjmbYDJjkrw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=16.941269&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=eDzMImx09fOcjmbYDJjkrw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=16.941269&pitch=0&thumbfov=w1000-h750-no",
-    "source_query": "Hypermarket in Ostend, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ59aIUXuv3EcR3F5ehL_n4Ic",
-    "name": "Groepspraktijk Oostende",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Ostend",
-    "address": "Groepspraktijk Oostende, Mimosalaan 37, 8400 Oostende",
-    "street": "Mimosalaan 37",
-    "postal_code": "8400",
-    "region": null,
-    "latitude": 51.2125364,
-    "longitude": 2.9243175999999997,
-    "phone": "0477 66 80 89",
-    "website": "http://www.groepspraktijkmimosa.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Groepspraktijk%20Oostende&query_place_id=ChIJ59aIUXuv3EcR3F5ehL_n4Ic",
-    "open_hours_json": {
-      "Monday": [
-        "9 am–6 pm"
-      ],
-      "Tuesday": [
-        "9 am–6 pm"
-      ],
-      "Wednesday": [
-        "9 am–6 pm"
-      ],
-      "Thursday": [
-        "9 am–6 pm"
-      ],
-      "Friday": [
-        "9 am–6 pm"
-      ],
-      "Saturday": [
-        "Closed"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 14,
-    "rating": 5.0,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcil7P3gRwFoINIwoOEdTVtnLFkAsdc6IBbvGgX1z7OGn38ls7xgwvh7KzfJs72f66FUkTFqaMg-agpRi74ZaTFFaadVAeEwh8M3IZL2k26B4nIqAlv5CgwI4q6Nj0nLTGh9j8rJwYpKb7u=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcil7P3gRwFoINIwoOEdTVtnLFkAsdc6IBbvGgX1z7OGn38ls7xgwvh7KzfJs72f66FUkTFqaMg-agpRi74ZaTFFaadVAeEwh8M3IZL2k26B4nIqAlv5CgwI4q6Nj0nLTGh9j8rJwYpKb7u=w1000-h750-no",
-    "source_query": "Pharmacy in Ostend, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJyV7i7dWo3EcRSAQdX6KyShw",
-    "name": "HEMA",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Ostend",
-    "address": "HEMA, Kapellestraat 56, 8400 Oostende",
-    "street": "Kapellestraat 56",
-    "postal_code": "8400",
-    "region": null,
-    "latitude": 51.2296133,
-    "longitude": 2.9197002,
-    "phone": "059 55 60 11",
-    "website": "https://be-winkels.hema.com/nl/oostende/hema-oostende-408?y_source=1_MTU0NTY3NTItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=HEMA&query_place_id=ChIJyV7i7dWo3EcRSAQdX6KyShw",
-    "open_hours_json": {
-      "Monday": [
-        "9:30 am–6 pm"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "Closed"
-      ],
-      "Friday": [
-        "9:30 am–6 pm"
-      ],
-      "Saturday": [
-        "9:30 am–6 pm"
-      ],
-      "Sunday": [
-        "9:30 am–6 pm"
-      ]
-    },
-    "review_count": 744,
-    "rating": 4.0,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeXwtcg1iJk7F1ohTH4ExTwdRYr88U3Z7Z-HLYnsFl0vvzk15i96y94cttOvi6b45R4V9zdUA31QE363znH1GyskpsWVeRAZ_JvT4yPlvbxzAdZRvwPw2o7RyVl62Gk3_YvwESP=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeXwtcg1iJk7F1ohTH4ExTwdRYr88U3Z7Z-HLYnsFl0vvzk15i96y94cttOvi6b45R4V9zdUA31QE363znH1GyskpsWVeRAZ_JvT4yPlvbxzAdZRvwPw2o7RyVl62Gk3_YvwESP=w1000-h750-no",
     "source_query": "Hypermarket in Ostend, Flanders, BE",
     "moderation_status": "approved",
     "is_active": true,

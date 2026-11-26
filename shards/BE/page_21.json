@@ -1,5 +1,545 @@
 [
   {
+    "place_id": "ChIJqQ_MG6b7wEcRpgkwiUzHpmM",
+    "name": "Tasty Chicken 2",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Liège",
+    "address": "Tasty Chicken 2, Rue Saint-Gilles 180, 4000 Liège",
+    "street": "Rue Saint-Gilles 180",
+    "postal_code": "4000",
+    "region": null,
+    "latitude": 50.6379405,
+    "longitude": 5.5626802,
+    "phone": "0451 01 99 46",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Tasty%20Chicken%202&query_place_id=ChIJqQ_MG6b7wEcRpgkwiUzHpmM",
+    "open_hours_json": {
+      "Monday": [
+        "11:30 am–10:30 pm"
+      ],
+      "Tuesday": [
+        "11:30 am–10:30 pm"
+      ],
+      "Wednesday": [
+        "11:30 am–10:30 pm"
+      ],
+      "Thursday": [
+        "11:30 am–10:30 pm"
+      ],
+      "Friday": [
+        "11:30 am–10:30 pm"
+      ],
+      "Saturday": [
+        "11:30 am–10:30 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 65,
+    "rating": 3.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc2-_2ZeH6C4zKhIyuXQ2EIVNc531AL2KjYExsKhth2f-CXszq9zHH9-G9Sht04otb882WlOm2DXi0wGXMZdToYQU34ExNcfQMKxYav2B4Dpgi00fhiBCF4iXp9ixvcBJLjB8smnQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc2-_2ZeH6C4zKhIyuXQ2EIVNc531AL2KjYExsKhth2f-CXszq9zHH9-G9Sht04otb882WlOm2DXi0wGXMZdToYQU34ExNcfQMKxYav2B4Dpgi00fhiBCF4iXp9ixvcBJLjB8smnQ=w1000-h750-no",
+    "source_query": "Halal restaurant in Liège, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJT9uRLh33wEcRuagQSvB9zAo",
+    "name": "Tasty Food Angleur",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Liège",
+    "address": "Tasty Food Angleur, Rue Vaudrée 100, 4031 Liège",
+    "street": "Rue Vaudrée 100",
+    "postal_code": "4031",
+    "region": null,
+    "latitude": 50.612642799999996,
+    "longitude": 5.5948649999999995,
+    "phone": "0493 18 36 57",
+    "website": "https://www.tastyfoodangleur.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Tasty%20Food%20Angleur&query_place_id=ChIJT9uRLh33wEcRuagQSvB9zAo",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfMaZ5DGhpg79-Yq975NnKXMnzTPtpMp58i7j2Bh3UIBirEPGH-Stht2TNY-T3HR7T3giYp93w5MKQl0ue2rHuJOeretYwn89qTBhJjd1NTYAvRSc_yU3_q6dT2piZTr-wy7YfJ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfMaZ5DGhpg79-Yq975NnKXMnzTPtpMp58i7j2Bh3UIBirEPGH-Stht2TNY-T3HR7T3giYp93w5MKQl0ue2rHuJOeretYwn89qTBhJjd1NTYAvRSc_yU3_q6dT2piZTr-wy7YfJ=w1000-h750-no",
+    "rating": 4.4,
+    "review_count": 461,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJy1FPf-b7wEcRmNv5kmi_MRg",
+    "name": "Tasty Food Saint-Gilles",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Liège",
+    "address": "Tasty Food Saint-Gilles, Rue Saint-Gilles 58, 4000 Liège",
+    "street": "Rue Saint-Gilles 58",
+    "postal_code": "4000",
+    "region": null,
+    "latitude": 50.6392361,
+    "longitude": 5.566118299999999,
+    "phone": "0470 94 56 94",
+    "website": "https://tastyfoodstgilles.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Tasty%20Food%20Saint-Gilles&query_place_id=ChIJy1FPf-b7wEcRmNv5kmi_MRg",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW1BvsjEyVf7yfOTNnu1cW_BcpZ_S1KgQBQx3ocKoLketrSSWoxq7D9vTgH0Xsy-IbUQzsh5CsWTNhB1gKGcvWsij2rqB1w1EK6tBPD3XO9S_jjaUCLPjYxWqQZDSkYeZeQFPF-J8m5DQpAyVrOYu_xbZHbV2Dq8r6oJnDlkWwJWH-ZGadHmrAYe=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW1BvsjEyVf7yfOTNnu1cW_BcpZ_S1KgQBQx3ocKoLketrSSWoxq7D9vTgH0Xsy-IbUQzsh5CsWTNhB1gKGcvWsij2rqB1w1EK6tBPD3XO9S_jjaUCLPjYxWqQZDSkYeZeQFPF-J8m5DQpAyVrOYu_xbZHbV2Dq8r6oJnDlkWwJWH-ZGadHmrAYe=w1000-h750-no",
+    "rating": 4.4,
+    "review_count": 225,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJX-_Z8x_6wEcRR2IB_DQOvIw",
+    "name": "Tepemok Épicerie Russe",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Liège",
+    "address": "Tepemok Épicerie Russe, Rue du Laveu 46, 4000 Liège",
+    "street": "Rue du Laveu 46",
+    "postal_code": "4000",
+    "region": null,
+    "latitude": 50.631181299999994,
+    "longitude": 5.5563028,
+    "phone": "04 225 12 33",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Tepemok%20%C3%89picerie%20Russe&query_place_id=ChIJX-_Z8x_6wEcRR2IB_DQOvIw",
+    "open_hours_json": {
+      "Monday": [
+        "10 am–8 pm"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "10 am–8 pm"
+      ],
+      "Thursday": [
+        "10 am–8 pm"
+      ],
+      "Friday": [
+        "10 am–8 pm"
+      ],
+      "Saturday": [
+        "10 am–8 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 74,
+    "rating": 4.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe0nPFmJKEGTgD4UryB8gDcV02kbbUFRlc0bZBDDRjo4FskEN9PQN4u4s9H7KfRmdq7ntXjU1mNHX5GUQObuHFC5WG0eOGKAMPJmy3PD24Cu5tMLaZdxTZUbUJQRXFvgXLH-nHq=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe0nPFmJKEGTgD4UryB8gDcV02kbbUFRlc0bZBDDRjo4FskEN9PQN4u4s9H7KfRmdq7ntXjU1mNHX5GUQObuHFC5WG0eOGKAMPJmy3PD24Cu5tMLaZdxTZUbUJQRXFvgXLH-nHq=w1000-h750-no",
+    "source_query": "Hypermarket in Liège, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJoRkMmiH6wEcRPpHXh-tPKeA",
+    "name": "The Sea Farm",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Liège",
+    "address": "The Sea Farm, Rue Saint-Gilles 422, 4000 Liège",
+    "street": "Rue Saint-Gilles 422",
+    "postal_code": "4000",
+    "region": null,
+    "latitude": 50.6345854,
+    "longitude": 5.5540240999999995,
+    "phone": "0474 21 77 34",
+    "website": "http://www.theseafarm.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=The%20Sea%20Farm&query_place_id=ChIJoRkMmiH6wEcRPpHXh-tPKeA",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "3–6 pm"
+      ],
+      "Wednesday": [
+        "3–6 pm"
+      ],
+      "Thursday": [
+        "3–6 pm"
+      ],
+      "Friday": [
+        "Closed"
+      ],
+      "Saturday": [
+        "3–6 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 101,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLekuq0G_9zxNFH9NhmH-0aLaO9QHmGYrN19YCE_rz9-HcaI25OynVwKdM7bXUtyWLwRu_f8o96Cd-OPVN94SBE4AG0zShuD6bGXP4ub-nnsG8Bvg5KjL8nUdqBCz3bMov95gGcEkPrPS04_=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLekuq0G_9zxNFH9NhmH-0aLaO9QHmGYrN19YCE_rz9-HcaI25OynVwKdM7bXUtyWLwRu_f8o96Cd-OPVN94SBE4AG0zShuD6bGXP4ub-nnsG8Bvg5KjL8nUdqBCz3bMov95gGcEkPrPS04_=w1000-h750-no",
+    "source_query": "Fish restaurant in Liège, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJBRpl2gL6wEcR-fOPtk7VSFc",
+    "name": "Therascience",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Liège",
+    "address": "Therascience, Ave Blonden 52, 4000 Liège",
+    "street": "Ave Blonden 52",
+    "postal_code": "4000",
+    "region": null,
+    "latitude": 50.6287399,
+    "longitude": 5.57046,
+    "phone": "04 254 23 03",
+    "website": "http://www.therascience.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Therascience&query_place_id=ChIJBRpl2gL6wEcR-fOPtk7VSFc",
+    "open_hours_json": {
+      "Monday": [
+        "9 am–6 pm"
+      ],
+      "Tuesday": [
+        "9 am–6 pm"
+      ],
+      "Wednesday": [
+        "9 am–6 pm"
+      ],
+      "Thursday": [
+        "9 am–6 pm"
+      ],
+      "Friday": [
+        "9 am–6 pm"
+      ],
+      "Saturday": [
+        "9 am–1 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 566,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf6W__6gQq_WXQNJbiepFekJkiONf-h-Bd4fY0xaHcVBJ0PtOsHO3EAn7BVP-HEgwef30BGBFv-Sbl4X5siQHv1YDOEPf31KipqUxh10ZGt0QAVszddAMgtjdyHy4P5nx-LMbU8=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf6W__6gQq_WXQNJbiepFekJkiONf-h-Bd4fY0xaHcVBJ0PtOsHO3EAn7BVP-HEgwef30BGBFv-Sbl4X5siQHv1YDOEPf31KipqUxh10ZGt0QAVszddAMgtjdyHy4P5nx-LMbU8=w1000-h750-no",
+    "source_query": "Pharmacy in Liège, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJNQoeWwXxwEcRG1YHIA-6XTs",
+    "name": "Top Chicken Liège",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Liège",
+    "address": "Top Chicken Liège, Rue Grétry 98, 4020 Liège",
+    "street": "Rue Grétry 98",
+    "postal_code": "4020",
+    "region": null,
+    "latitude": 50.6336644,
+    "longitude": 5.5824527999999995,
+    "phone": "0451 08 51 22",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Top%20Chicken%20Li%C3%A8ge&query_place_id=ChIJNQoeWwXxwEcRG1YHIA-6XTs",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW1CevLH9UZDhlTf0K24-bnVe-9B7JjusrLk1oiM3qnaVfDv3svElEEPJgrYIsFsB7BZ9IhHuhBgFacW057SYBxlLEH8vOfWZHWZmkaB8YYboDXUbO1LOGv25k4NWUaa22DysteMlTkxeVv6qvzTGUMXnCYrtUgFecAEjdcFYtTNQVxfsyY2OKi_=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW1CevLH9UZDhlTf0K24-bnVe-9B7JjusrLk1oiM3qnaVfDv3svElEEPJgrYIsFsB7BZ9IhHuhBgFacW057SYBxlLEH8vOfWZHWZmkaB8YYboDXUbO1LOGv25k4NWUaa22DysteMlTkxeVv6qvzTGUMXnCYrtUgFecAEjdcFYtTNQVxfsyY2OKi_=w1000-h750-no",
+    "rating": 3.9,
+    "review_count": 44,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJK5JTvAX6wEcRMZg0h5ajYlE",
+    "name": "TotalEnergies",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Liège",
+    "address": "TotalEnergies, Rue des Prémontrés 2, 4000 Liège",
+    "street": "Rue des Prémontrés 2",
+    "postal_code": "4000",
+    "region": null,
+    "latitude": 50.638391999999996,
+    "longitude": 5.574305,
+    "phone": "04 222 90 54",
+    "website": "https://www.circlek.be/fr/station/liege-kennedy?utm_source=google&utm_medium=local&utm_campaign=google-local",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=TotalEnergies&query_place_id=ChIJK5JTvAX6wEcRMZg0h5ajYlE",
+    "open_hours_json": {
+      "Monday": [
+        "6:30 am–10 pm"
+      ],
+      "Tuesday": [
+        "6:30 am–10 pm"
+      ],
+      "Wednesday": [
+        "6:30 am–10 pm"
+      ],
+      "Thursday": [
+        "6:30 am–10 pm"
+      ],
+      "Friday": [
+        "6:30 am–10 pm"
+      ],
+      "Saturday": [
+        "7 am–11 pm"
+      ],
+      "Sunday": [
+        "8 am–9 pm"
+      ]
+    },
+    "review_count": 515,
+    "rating": 4.2,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf7JkMd4iHHDCf0-_Fm2FEisJnRB_ktN3O3WiTvM2MRak0BjrbqYr_-VgfFHuBi3UdO-vFrCQiFC6Zs4dE5JcBcuqcPNvq8skyqo1h3fVOZVKIVajh1K2SJWCmQ4AGZ6i0yNmknEw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf7JkMd4iHHDCf0-_Fm2FEisJnRB_ktN3O3WiTvM2MRak0BjrbqYr_-VgfFHuBi3UdO-vFrCQiFC6Zs4dE5JcBcuqcPNvq8skyqo1h3fVOZVKIVajh1K2SJWCmQ4AGZ6i0yNmknEw=w1000-h750-no",
+    "source_query": "Hypermarket in Liège, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJDbmJL7r7wEcRnm726pUaxyE",
+    "name": "Tropical Food",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Liège",
+    "address": "Tropical Food, n°42 ou PARKING OPÉRA ASCENSEUR B (1ère étage) APPELEZ 📞DÈS QUE VOUS ÊTES DEVANT LA PORTE, Pl. de la République Française 35/21 (Galerie Opéra APRÈS 18h, entrée, Rue Pont d'île, 4000 Liège",
+    "street": "n°42 ou PARKING OPÉRA ASCENSEUR B (1ère étage) APPELEZ 📞DÈS QUE VOUS ÊTES DEVANT LA PORTE, Pl. de la République Française 35/21 (Galerie Opéra APRÈS 18h, entrée, Rue Pont d'île",
+    "postal_code": "4000",
+    "region": null,
+    "latitude": 50.642443,
+    "longitude": 5.571228,
+    "phone": "0470 62 54 83",
+    "website": "https://www.tropicalfood.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Tropical%20Food&query_place_id=ChIJDbmJL7r7wEcRnm726pUaxyE",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "12–2:30 pm",
+        "5–10 pm"
+      ],
+      "Wednesday": [
+        "12–2:30 pm",
+        "5–10 pm"
+      ],
+      "Thursday": [
+        "12–2:30 pm",
+        "5–10 pm"
+      ],
+      "Friday": [
+        "12–2:30 pm",
+        "5–10 pm"
+      ],
+      "Saturday": [
+        "12–2:30 pm",
+        "5–10 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 49,
+    "rating": 4.4,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdkc8jBfOYhwAdDRnIgz4qWwxiB9XUnjvvLJrbz2xeOCdAfxV0RY16vJBCdeRC1Ajar8UxCmbVyPnGB6Vae8dLbslFlCR3xLTbmzCqaVuXfEkrcRaV0vCt69RrDjzzf5vnoQme-=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdkc8jBfOYhwAdDRnIgz4qWwxiB9XUnjvvLJrbz2xeOCdAfxV0RY16vJBCdeRC1Ajar8UxCmbVyPnGB6Vae8dLbslFlCR3xLTbmzCqaVuXfEkrcRaV0vCt69RrDjzzf5vnoQme-=w1000-h750-no",
+    "source_query": "Halal restaurant in Liers, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJWdYO_w76wEcRQNoDd2mwLjU",
+    "name": "Tung Y",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Liège",
+    "address": "Tung Y, Rue de la Régence 18, 4000 Liège",
+    "street": "Rue de la Régence 18",
+    "postal_code": "4000",
+    "region": null,
+    "latitude": 50.6424959,
+    "longitude": 5.5738617,
+    "phone": "0484 79 40 52",
+    "website": "https://www.facebook.com/TUNG-Y-118349751532411/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Tung%20Y&query_place_id=ChIJWdYO_w76wEcRQNoDd2mwLjU",
+    "open_hours_json": {
+      "Monday": [
+        "10 am–7 pm"
+      ],
+      "Tuesday": [
+        "10 am–7 pm"
+      ],
+      "Wednesday": [
+        "10 am–7 pm"
+      ],
+      "Thursday": [
+        "10 am–7 pm"
+      ],
+      "Friday": [
+        "10 am–7 pm"
+      ],
+      "Saturday": [
+        "10 am–7 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 235,
+    "rating": 4.2,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeT-IsucvpHXyMYp6JzkxmPnzaoFZhTFsYmqIrgxkcwRsHeYp9EqCy8Z3sBrQ3ex5v1VMiFBzFh9X-heQ9_xx8HPqo008vyXwhpgyB7ltBo-thgMS7oLJKrEwfZBi4uBFmB2BGp=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeT-IsucvpHXyMYp6JzkxmPnzaoFZhTFsYmqIrgxkcwRsHeYp9EqCy8Z3sBrQ3ex5v1VMiFBzFh9X-heQ9_xx8HPqo008vyXwhpgyB7ltBo-thgMS7oLJKrEwfZBi4uBFmB2BGp=w1000-h750-no",
+    "source_query": "Hypermarket in Liège, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJYX8A14v7wEcRDTakXbOMyaQ",
+    "name": "VOLAILLERIE BOUYAARA",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Liège",
+    "address": "VOLAILLERIE BOUYAARA, Rue Puits-en-Sock 38, 4020 Liège",
+    "street": "Rue Puits-en-Sock 38",
+    "postal_code": "4020",
+    "region": null,
+    "latitude": 50.640581399999995,
+    "longitude": 5.5829775,
+    "phone": "0499 20 86 60",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=VOLAILLERIE%20BOUYAARA&query_place_id=ChIJYX8A14v7wEcRDTakXbOMyaQ",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdZ4Ffgnj-pL_P3RcMNIf05uN-OAzN6lpipCoYiG0JUH2wTp5B8yn9Iy__JPSF1MCuunSWcDajB_-W8WBJim6uxdAKv3VVpXNsphGrxX0u8Y_qFSboHhTc0eOhfEbJwfIY9lCnY=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdZ4Ffgnj-pL_P3RcMNIf05uN-OAzN6lpipCoYiG0JUH2wTp5B8yn9Iy__JPSF1MCuunSWcDajB_-W8WBJim6uxdAKv3VVpXNsphGrxX0u8Y_qFSboHhTc0eOhfEbJwfIY9lCnY=w1000-h750-no",
+    "rating": 4.6,
+    "review_count": 16,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJq9RbdoP7wEcRK8vIK5yrkD4",
+    "name": "Vice Versa",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Liège",
+    "address": "Vice Versa, Pl. Xavier Neujean 29, 4000 Liège",
+    "street": "Pl. Xavier Neujean 29",
+    "postal_code": "4000",
+    "region": null,
+    "latitude": 50.6428136,
+    "longitude": 5.5676467,
+    "phone": "0470 65 34 26",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Vice%20Versa&query_place_id=ChIJq9RbdoP7wEcRK8vIK5yrkD4",
+    "open_hours_json": {
+      "Monday": [
+        "6 pm–1 am"
+      ],
+      "Tuesday": [
+        "12–2 pm",
+        "6–10 pm"
+      ],
+      "Wednesday": [
+        "12–2 pm",
+        "6–10 pm"
+      ],
+      "Thursday": [
+        "12–2 pm",
+        "6–10 pm"
+      ],
+      "Friday": [
+        "12–2 pm",
+        "6–10 pm"
+      ],
+      "Saturday": [
+        "12–2 pm",
+        "6–10 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 143,
+    "rating": 4.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfq5syXumKQsaeHuxT3_QTx_ub09jIB1g21w7uy2d6aFJGdoWo20DbIAQdUg6m45UQoC2i9cTeJxxsYjOq22PW1kqm9vle-5AyoncT2JQCHsMDrk6HnndGgh0eueSMGjV8OsWli38ttLadU=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfq5syXumKQsaeHuxT3_QTx_ub09jIB1g21w7uy2d6aFJGdoWo20DbIAQdUg6m45UQoC2i9cTeJxxsYjOq22PW1kqm9vle-5AyoncT2JQCHsMDrk6HnndGgh0eueSMGjV8OsWli38ttLadU=w1000-h750-no",
+    "source_query": "Fish restaurant in Liège, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJu9FZDHb7wEcRG7MH-rkkS4o",
+    "name": "Vienna Coffee & Brunch",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Liège",
+    "address": "Vienna Coffee & Brunch, Pl. Cockerill 8, 4000 Liège",
+    "street": "Pl. Cockerill 8",
+    "postal_code": "4000",
+    "region": null,
+    "latitude": 50.6417017,
+    "longitude": 5.5753664999999994,
+    "phone": "04 358 99 75",
+    "website": "https://viennaliege.be/reserver/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Vienna%20Coffee%20%26%20Brunch&query_place_id=ChIJu9FZDHb7wEcRG7MH-rkkS4o",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeeUthalIrMbkNiPA_lrTXFb_kOZegEtPb8EjQtd_dya7QzsxQtrs1tK5oeWezEt6fKk43g9O9ol68AMk6EtReFWkzsJNtgpbVdQJKyzQG5IteFi0pQIKq3vY4f19i162qed4u91LlyqAS6=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeeUthalIrMbkNiPA_lrTXFb_kOZegEtPb8EjQtd_dya7QzsxQtrs1tK5oeWezEt6fKk43g9O9ol68AMk6EtReFWkzsJNtgpbVdQJKyzQG5IteFi0pQIKq3vY4f19i162qed4u91LlyqAS6=w1000-h750-no",
+    "rating": 4.8,
+    "review_count": 212,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
     "place_id": "ChIJ6e1FNc37wEcRslCGsAvIGoE",
     "name": "Vol(e) au-dessus",
     "type": "restaurant",
@@ -7151,32 +7691,6 @@
     "verification_evidence": null
   },
   {
-    "place_id": "ChIJnbFNbd1gwUcRLn-Kp-Us6to",
-    "name": "Vleesgroothandel",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Lubbeek",
-    "address": "Vleesgroothandel, Ambachtenstraat 7, 3210 Lubbeek",
-    "street": "Ambachtenstraat 7",
-    "postal_code": "3210",
-    "region": null,
-    "latitude": 50.8939314,
-    "longitude": 4.7978916,
-    "phone": "016 22 18 31",
-    "website": "https://atelierlong.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Vleesgroothandel&query_place_id=ChIJnbFNbd1gwUcRLn-Kp-Us6to",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfgwgPEutjpdXSDECVTA2DSsJEiBLxL2p_KK-Gi7TymNNBUuSuOzSk9d14CHqQWI18Yb-NtlK-qoOT-YO5RwZygpuRPwes8wtWRsflEfH2YE5DurgMoTzw9ccqgYKQWJERawslx=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfgwgPEutjpdXSDECVTA2DSsJEiBLxL2p_KK-Gi7TymNNBUuSuOzSk9d14CHqQWI18Yb-NtlK-qoOT-YO5RwZygpuRPwes8wtWRsflEfH2YE5DurgMoTzw9ccqgYKQWJERawslx=w1000-h750-no",
-    "rating": 4.0,
-    "review_count": 1,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
     "place_id": "ChIJ3UO_YZ9nwUcR5eTPcfIlXdc",
     "name": "depot voedselteam linden",
     "type": "restaurant",
@@ -10887,565 +11401,6 @@
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfatWbczqll99yZwvAcRReRbQ_Lt2bBhP2DRhCdOZp_AKfu2RZ4C7J8V88lynTVqwebGRwk9nmfBXnftohjoM8GwmTD48KCooLVvhJuZV2H_zt2W9iUJkL-ce2TOh08k_gRkgo=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfatWbczqll99yZwvAcRReRbQ_Lt2bBhP2DRhCdOZp_AKfu2RZ4C7J8V88lynTVqwebGRwk9nmfBXnftohjoM8GwmTD48KCooLVvhJuZV2H_zt2W9iUJkL-ce2TOh08k_gRkgo=w1000-h750-no",
     "source_query": "Moroccan restaurant in Mechelen-aan-de-Maas, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJYbGN4SHFwEcR15he2BdFcFM",
-    "name": "RAAZ",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Maasmechelen",
-    "address": "RAAZ, Oude Baan 54, 3630 Maasmechelen",
-    "street": "Oude Baan 54",
-    "postal_code": "3630",
-    "region": null,
-    "latitude": 50.986780499999995,
-    "longitude": 5.6936804,
-    "phone": "0492 71 72 58",
-    "website": "https://raaz.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=RAAZ&query_place_id=ChIJYbGN4SHFwEcR15he2BdFcFM",
-    "open_hours_json": {
-      "Monday": [
-        "4–10 pm"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "4–10 pm"
-      ],
-      "Thursday": [
-        "4–10 pm"
-      ],
-      "Friday": [
-        "4–10 pm"
-      ],
-      "Saturday": [
-        "4–10 pm"
-      ],
-      "Sunday": [
-        "4–10 pm"
-      ]
-    },
-    "review_count": 98,
-    "rating": 4.2,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeEgWsy8hfo2l0j5_kZcjD-Pniv-aZSe32QjtRWFtvqnHC0Oh86_zVlP87K-H4QysnEmUCzPdOsgLrn9nLP4dPzvHXjV2ca5RMWl57pM0nhztDg2reY3o0MB6jckI8SKII-Zixffeg4KXk=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeEgWsy8hfo2l0j5_kZcjD-Pniv-aZSe32QjtRWFtvqnHC0Oh86_zVlP87K-H4QysnEmUCzPdOsgLrn9nLP4dPzvHXjV2ca5RMWl57pM0nhztDg2reY3o0MB6jckI8SKII-Zixffeg4KXk=w1000-h750-no",
-    "source_query": "Halal restaurant in Stokkem, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "VERIFIED",
-    "verification_evidence": "Explicit Halal keyword indicators in listing metadata"
-  },
-  {
-    "place_id": "ChIJoZoWgPrEwEcRfFv4ezrIpy0",
-    "name": "Restaurant Aladdin",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Maasmechelen",
-    "address": "Restaurant Aladdin, Pauwengraaf 56, 3630 Maasmechelen",
-    "street": "Pauwengraaf 56",
-    "postal_code": "3630",
-    "region": null,
-    "latitude": 50.988653,
-    "longitude": 5.6947345,
-    "phone": "089 73 38 33",
-    "website": "https://fr.restaurantguru.com/Aladdin-Maasmechelen",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20Aladdin&query_place_id=ChIJoZoWgPrEwEcRfFv4ezrIpy0",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "12–10 pm"
-      ],
-      "Wednesday": [
-        "12–10 pm"
-      ],
-      "Thursday": [
-        "12–10 pm"
-      ],
-      "Friday": [
-        "12–10 pm"
-      ],
-      "Saturday": [
-        "12–10 pm"
-      ],
-      "Sunday": [
-        "12–10 pm"
-      ]
-    },
-    "review_count": 355,
-    "rating": 4.5,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLckpHTXALH109gIOm71y8-q8qiUxWbL3l4iSxMGY99xivWuWWq8OHVdafVtFGR3legjwBDj-d1lPug003wmjipL4BpIUCtS3SV9YySAnOZtLVw5V6NSWMQnW7GNPlisLFdkXRck=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLckpHTXALH109gIOm71y8-q8qiUxWbL3l4iSxMGY99xivWuWWq8OHVdafVtFGR3legjwBDj-d1lPug003wmjipL4BpIUCtS3SV9YySAnOZtLVw5V6NSWMQnW7GNPlisLFdkXRck=w1000-h750-no",
-    "source_query": "Halal restaurant in Stokkem, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJf3S9-e_EwEcRT9g0ZFV7BtM",
-    "name": "Restaurant Alexandria - Maasmechelen",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Maasmechelen",
-    "address": "Restaurant Alexandria - Maasmechelen, Pauwengraaf 126, 3630 Maasmechelen",
-    "street": "Pauwengraaf 126",
-    "postal_code": "3630",
-    "region": null,
-    "latitude": 50.988683599999995,
-    "longitude": 5.6910086,
-    "phone": "089 46 75 31",
-    "website": "https://qr.wwwcafe.de/2025/08/12/restaurant-alexandria/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20Alexandria%20-%20Maasmechelen&query_place_id=ChIJf3S9-e_EwEcRT9g0ZFV7BtM",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "5–10 pm"
-      ],
-      "Thursday": [
-        "5–10 pm"
-      ],
-      "Friday": [
-        "5–10 pm"
-      ],
-      "Saturday": [
-        "5–10 pm"
-      ],
-      "Sunday": [
-        "5–10 pm"
-      ]
-    },
-    "review_count": 294,
-    "rating": 4.4,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfq3DuC_QmdUVahGplL10noO2vJ-7PwM7Pm_RGOVCTZhkBQeV2WWb-eEC4EQB1ES-l0K8fMxc95pgv6hLDyKf-rEx0OMn76-pzpKGjkg2I8Ap0RACWjhpxaFSGlrt8Auiq5TNQO=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfq3DuC_QmdUVahGplL10noO2vJ-7PwM7Pm_RGOVCTZhkBQeV2WWb-eEC4EQB1ES-l0K8fMxc95pgv6hLDyKf-rEx0OMn76-pzpKGjkg2I8Ap0RACWjhpxaFSGlrt8Auiq5TNQO=w1000-h750-no",
-    "source_query": "Halal restaurant in Stokkem, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ73ke4vnEwEcRq1-bQOiN-X8",
-    "name": "Restaurant Concordia",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Maasmechelen",
-    "address": "Restaurant Concordia, Nijverheidslaan 43, 3630 Maasmechelen",
-    "street": "Nijverheidslaan 43",
-    "postal_code": "3630",
-    "region": null,
-    "latitude": 50.988263599999996,
-    "longitude": 5.7000328,
-    "phone": "089 76 61 40",
-    "website": "http://www.eetcafeconcordia.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20Concordia&query_place_id=ChIJ73ke4vnEwEcRq1-bQOiN-X8",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "5–10 pm"
-      ],
-      "Thursday": [
-        "5–10 pm"
-      ],
-      "Friday": [
-        "5–10 pm"
-      ],
-      "Saturday": [
-        "5–10 pm"
-      ],
-      "Sunday": [
-        "12–2 pm",
-        "5–10 pm"
-      ]
-    },
-    "review_count": 318,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdnzMPQa9pZehD3Fs4vUQfQOIa8xUe5XHc2gIt6vn2lhT8RbOGhFy3twMhyNL15N0kriQjsaGmVyvRd12ICy-TH31zd-PhCMA__HC9iyTjtNc5DoUjm6G0R3iOyvuvXOWnhr44=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdnzMPQa9pZehD3Fs4vUQfQOIa8xUe5XHc2gIt6vn2lhT8RbOGhFy3twMhyNL15N0kriQjsaGmVyvRd12ICy-TH31zd-PhCMA__HC9iyTjtNc5DoUjm6G0R3iOyvuvXOWnhr44=w1000-h750-no",
-    "source_query": "Fish restaurant in Mechelen-aan-de-Maas, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJe3DDrnXDwEcRjfuJKJ_XIs0",
-    "name": "Restaurant La Strada",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Maasmechelen",
-    "address": "Restaurant La Strada, Rijksweg 634, 3630 Maasmechelen",
-    "street": "Rijksweg 634",
-    "postal_code": "3630",
-    "region": null,
-    "latitude": 50.9392892,
-    "longitude": 5.691433399999999,
-    "phone": "089 76 69 12",
-    "website": "http://www.restaurantlastrada.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20La%20Strada&query_place_id=ChIJe3DDrnXDwEcRjfuJKJ_XIs0",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "12–2:30 pm",
-        "6–10 pm"
-      ],
-      "Friday": [
-        "12–2:30 pm",
-        "6–10 pm"
-      ],
-      "Saturday": [
-        "6–10 pm"
-      ],
-      "Sunday": [
-        "12–10 pm"
-      ]
-    },
-    "review_count": 261,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd9la6ZMzeZfXvSyJmVLyAtohaW57qgeDu-5TTjFsyamkVno3Wfqu9EQ50c3qnZhDFwhrddKrArjA_6ETy5MNuc7BLCx-5F0Q19KCGY8oLvMsKtyiajXCI4DB9KpsafbmyzNdK3Fg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd9la6ZMzeZfXvSyJmVLyAtohaW57qgeDu-5TTjFsyamkVno3Wfqu9EQ50c3qnZhDFwhrddKrArjA_6ETy5MNuc7BLCx-5F0Q19KCGY8oLvMsKtyiajXCI4DB9KpsafbmyzNdK3Fg=w1000-h750-no",
-    "source_query": "Fish restaurant in Mechelen-aan-de-Maas, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ6dMbhInEwEcRE-ySo_oIkrw",
-    "name": "Restaurant Marathon",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Maasmechelen",
-    "address": "Restaurant Marathon, Rijksweg 264, 3630 Maasmechelen",
-    "street": "Rijksweg 264",
-    "postal_code": "3630",
-    "region": null,
-    "latitude": 50.972373999999995,
-    "longitude": 5.6984362,
-    "phone": "089 45 06 46",
-    "website": "https://mapz5.com/restaurant-marathon-558363-be",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20Marathon&query_place_id=ChIJ6dMbhInEwEcRE-ySo_oIkrw",
-    "open_hours_json": {
-      "Monday": [
-        "5–9:30 pm"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "5–9:30 pm"
-      ],
-      "Friday": [
-        "5–9:30 pm"
-      ],
-      "Saturday": [
-        "5–9:30 pm"
-      ],
-      "Sunday": [
-        "5–9:30 pm"
-      ]
-    },
-    "review_count": 298,
-    "rating": 4.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdIfEdAnsx5RKb6hcwBzbh5-Z1Yp0gIFQwiLa5bf6hJNSTWVa4-RIpmkqfwDpzAng9R21qP2H6ZHuzhNyw8u2P1GzXopYMKXV2dRfEFkiQS3hUwOSDCPhGq4CkB5gsifenOYdRxIg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdIfEdAnsx5RKb6hcwBzbh5-Z1Yp0gIFQwiLa5bf6hJNSTWVa4-RIpmkqfwDpzAng9R21qP2H6ZHuzhNyw8u2P1GzXopYMKXV2dRfEFkiQS3hUwOSDCPhGq4CkB5gsifenOYdRxIg=w1000-h750-no",
-    "source_query": "Halal restaurant in Mechelen-aan-de-Maas, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJvb5Lhu_EwEcRvlEW_1ZbL44",
-    "name": "Restaurant Rodos 2.0",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Maasmechelen",
-    "address": "Restaurant Rodos 2.0, Europaplein 24, 3630 Maasmechelen",
-    "street": "Europaplein 24",
-    "postal_code": "3630",
-    "region": null,
-    "latitude": 50.9886998,
-    "longitude": 5.6891177,
-    "phone": "089 77 61 37",
-    "website": "http://rodos2.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20Rodos%202.0&query_place_id=ChIJvb5Lhu_EwEcRvlEW_1ZbL44",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "6–10 pm"
-      ],
-      "Wednesday": [
-        "6–10 pm"
-      ],
-      "Thursday": [
-        "Closed"
-      ],
-      "Friday": [
-        "6–10 pm"
-      ],
-      "Saturday": [
-        "6–10 pm"
-      ],
-      "Sunday": [
-        "6–10 pm"
-      ]
-    },
-    "review_count": 334,
-    "rating": 4.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfc56g0pvNbxFRkiFauYyrEh1yirnTuCKcb5SbChOunhTfsCzU06WHmbiv8035ykQAko8tk1V27d3itqRJkdPoyDMFpy2_hZjZLzX_YDHkcMoNbUurhs0vT1weNx48QFylaCM8=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfc56g0pvNbxFRkiFauYyrEh1yirnTuCKcb5SbChOunhTfsCzU06WHmbiv8035ykQAko8tk1V27d3itqRJkdPoyDMFpy2_hZjZLzX_YDHkcMoNbUurhs0vT1weNx48QFylaCM8=w1000-h750-no",
-    "source_query": "Fish restaurant in Mechelen-aan-de-Maas, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJiZfBOoHEwEcRnVpbwIlifMA",
-    "name": "Sapori Del Mediterraneo",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Maasmechelen",
-    "address": "Sapori Del Mediterraneo, Heirstraat 220, 3630 Maasmechelen",
-    "street": "Heirstraat 220",
-    "postal_code": "3630",
-    "region": null,
-    "latitude": 50.961694599999994,
-    "longitude": 5.6948862,
-    "phone": "089 71 13 37",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Sapori%20Del%20Mediterraneo&query_place_id=ChIJiZfBOoHEwEcRnVpbwIlifMA",
-    "open_hours_json": null,
-    "review_count": 2,
-    "rating": 3.0,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=IN0j4whyDlqHjCowammYaQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=299.8191&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=IN0j4whyDlqHjCowammYaQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=299.8191&pitch=0&thumbfov=w1000-h750-no",
-    "source_query": "Hypermarket in Mechelen-aan-de-Maas, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ428JNkvFwEcRD-QHGlBJ3F0",
-    "name": "Shaam Maasmechelen",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Maasmechelen",
-    "address": "Shaam Maasmechelen, Oude Baan 1, 3630 Maasmechelen",
-    "street": "Oude Baan 1",
-    "postal_code": "3630",
-    "region": null,
-    "latitude": 50.988262299999995,
-    "longitude": 5.694710499999999,
-    "phone": "0491 30 00 13",
-    "website": "https://m.facebook.com/shaammaasmechelen/?tsid=0.5560529422634015&source=result",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Shaam%20Maasmechelen&query_place_id=ChIJ428JNkvFwEcRD-QHGlBJ3F0",
-    "open_hours_json": {
-      "Monday": [
-        "3:30–10 pm"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "3:30–10 pm"
-      ],
-      "Thursday": [
-        "3:30–10 pm"
-      ],
-      "Friday": [
-        "3:30–10 pm"
-      ],
-      "Saturday": [
-        "12–10 pm"
-      ],
-      "Sunday": [
-        "12–10 pm"
-      ]
-    },
-    "review_count": 640,
-    "rating": 4.8,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdPUA5RO5jmWHjFkhOs20YOAG_gISTXaQUKtuxz1wQMzhPIn6OWhIcvqjDeUi0Z4AmuwjfLUkmCMiMFrrIrihZEa5WX2vQr642r4sf8-SrpY7m3rT1vJ_0cM8V_aBza7PgdjfU3dw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdPUA5RO5jmWHjFkhOs20YOAG_gISTXaQUKtuxz1wQMzhPIn6OWhIcvqjDeUi0Z4AmuwjfLUkmCMiMFrrIrihZEa5WX2vQr642r4sf8-SrpY7m3rT1vJ_0cM8V_aBza7PgdjfU3dw=w1000-h750-no",
-    "source_query": "Halal restaurant in Stokkem, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "VERIFIED",
-    "verification_evidence": "Explicit Halal keyword indicators in listing metadata"
-  },
-  {
-    "place_id": "ChIJh8oAcprFwEcR2DDAErz3zvk",
-    "name": "Slagerij Uniek",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Maasmechelen",
-    "address": "Slagerij Uniek, Pauwengraaf 94, 3630 Maasmechelen",
-    "street": "Pauwengraaf 94",
-    "postal_code": "3630",
-    "region": null,
-    "latitude": 50.9886613,
-    "longitude": 5.6929409,
-    "phone": "089 21 47 30",
-    "website": "https://slagerij-uniek.eatbu.com/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Slagerij%20Uniek&query_place_id=ChIJh8oAcprFwEcR2DDAErz3zvk",
-    "open_hours_json": {
-      "Monday": [
-        "9 am–7 pm"
-      ],
-      "Tuesday": [
-        "9 am–7 pm"
-      ],
-      "Wednesday": [
-        "9 am–7 pm"
-      ],
-      "Thursday": [
-        "Closed"
-      ],
-      "Friday": [
-        "9 am–7 pm"
-      ],
-      "Saturday": [
-        "9 am–7 pm"
-      ],
-      "Sunday": [
-        "9 am–7 pm"
-      ]
-    },
-    "review_count": 109,
-    "rating": 4.8,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf5YqHcgkqMPXqgZJGMnn1Lx7cAKBl7OY6M0apFmXEW5Z21nvfka7ROrsJVU_WCE7btH84cmUxUW7JWghtC4wNiL6NqC82wzAtFu2wqgUmx75klAUnYtfeO41FGAbU3a3lL_kODFg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf5YqHcgkqMPXqgZJGMnn1Lx7cAKBl7OY6M0apFmXEW5Z21nvfka7ROrsJVU_WCE7btH84cmUxUW7JWghtC4wNiL6NqC82wzAtFu2wqgUmx75klAUnYtfeO41FGAbU3a3lL_kODFg=w1000-h750-no",
-    "source_query": "Halal restaurant in Stokkem, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "VERIFIED",
-    "verification_evidence": "Explicit Halal keyword indicators in listing metadata"
-  },
-  {
-    "place_id": "ChIJYW25O2rFwEcRzd0WUSMKvNA",
-    "name": "Snack El Medina",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Maasmechelen",
-    "address": "Snack El Medina, Pauwengraaf 113, 3630 Maasmechelen",
-    "street": "Pauwengraaf 113",
-    "postal_code": "3630",
-    "region": null,
-    "latitude": 50.988418499999995,
-    "longitude": 5.6923432,
-    "phone": "0480 61 74 90",
-    "website": "https://snack-el-medina-maasmechelen.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Snack%20El%20Medina&query_place_id=ChIJYW25O2rFwEcRzd0WUSMKvNA",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "4 pm–12 am"
-      ],
-      "Wednesday": [
-        "4 pm–12 am"
-      ],
-      "Thursday": [
-        "4 pm–12 am"
-      ],
-      "Friday": [
-        "4 pm–12 am"
-      ],
-      "Saturday": [
-        "4 pm–12 am"
-      ],
-      "Sunday": [
-        "4–11 pm"
-      ]
-    },
-    "review_count": 161,
-    "rating": 4.9,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc2-UEvRL72NzEdItX3KInIVFvTsZTc7ns5MQKqYxLx5D2xOU2z2-dMvF47ES6rPH1LkNEjaJSk41QDvV1WIsQOoGzUM8WjysJR7P8fVxast5M0wRNhCzWRuUhdGAkeCInKj7hU2A=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc2-UEvRL72NzEdItX3KInIVFvTsZTc7ns5MQKqYxLx5D2xOU2z2-dMvF47ES6rPH1LkNEjaJSk41QDvV1WIsQOoGzUM8WjysJR7P8fVxast5M0wRNhCzWRuUhdGAkeCInKj7hU2A=w1000-h750-no",
-    "source_query": "Halal restaurant in Stokkem, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJZ1iB5YbEwEcR4oSiD7SMCJ4",
-    "name": "Solidaris Mechelen-aan-de-Maas",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Maasmechelen",
-    "address": "Solidaris Mechelen-aan-de-Maas, Rijksweg 426, 3630 Maasmechelen",
-    "street": "Rijksweg 426",
-    "postal_code": "3630",
-    "region": null,
-    "latitude": 50.9644668,
-    "longitude": 5.6954619,
-    "phone": "011 24 99 11",
-    "website": "https://www.solidaris-vlaanderen.be/kantoren/detail?kantoorid=4000087&regio=322&kn=Mechelen-aan-de-Maas",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Solidaris%20Mechelen-aan-de-Maas&query_place_id=ChIJZ1iB5YbEwEcR4oSiD7SMCJ4",
-    "open_hours_json": null,
-    "review_count": 25,
-    "rating": 4.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfA0kF3o6hWTHgQPQ1ZsP7VFaJdftnEwQEppEClVx9G1fmuFRKjhJMbsppN7O_1dCyIO874swy6dlRptocYacqJ4hDui-JTLTRMaQH-FMR5zi3e3dd3Sktyury5o8z-_KQptJOjLg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfA0kF3o6hWTHgQPQ1ZsP7VFaJdftnEwQEppEClVx9G1fmuFRKjhJMbsppN7O_1dCyIO874swy6dlRptocYacqJ4hDui-JTLTRMaQH-FMR5zi3e3dd3Sktyury5o8z-_KQptJOjLg=w1000-h750-no",
-    "source_query": "Pharmacy in Mechelen-aan-de-Maas, Flanders, BE",
     "moderation_status": "approved",
     "is_active": true,
     "verification_status": "UNVERIFIED",

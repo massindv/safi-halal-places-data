@@ -1,5 +1,205 @@
 [
   {
+    "place_id": "ChIJP5vKrBlLZTURDeCGNaTeZkw",
+    "name": "Lotte Mart",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "KR",
+    "country_code": "KR",
+    "city": "Yuseong District",
+    "address": "Lotte Mart, 206 Bugyuseong-daero, Yuseong District, Daejeon",
+    "street": "206 Bugyuseong-daero",
+    "postal_code": "34098",
+    "region": "Daejeon",
+    "latitude": 36.3842,
+    "longitude": 127.32168539999999,
+    "phone": "042-525-2500",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Lotte%20Mart&query_place_id=ChIJP5vKrBlLZTURDeCGNaTeZkw",
+    "open_hours_json": {
+      "Monday": [
+        "10 AM–11 PM"
+      ],
+      "Tuesday": [
+        "10 AM–11 PM"
+      ],
+      "Wednesday": [
+        "10 AM–11 PM"
+      ],
+      "Thursday": [
+        "10 AM–11 PM"
+      ],
+      "Friday": [
+        "10 AM–11 PM"
+      ],
+      "Saturday": [
+        "10 AM–11 PM"
+      ],
+      "Sunday": [
+        "10 AM–11 PM"
+      ]
+    },
+    "review_count": 1243,
+    "rating": 3.9,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfAmOtNTQfaQmvvBx6Ac1aT7FfMHOgIEb3E7Ifux8u49pA0RNLPXphMc5L57PoGJkNHDvUYKpTQAiGiDSXd9lCHhnTBgtgeFKCTRb0EnFatKUqjmucW8qBvZsGm-0g7D6DrvNdS=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfAmOtNTQfaQmvvBx6Ac1aT7FfMHOgIEb3E7Ifux8u49pA0RNLPXphMc5L57PoGJkNHDvUYKpTQAiGiDSXd9lCHhnTBgtgeFKCTRb0EnFatKUqjmucW8qBvZsGm-0g7D6DrvNdS=w1000-h750-no",
+    "source_query": "Hypermarket in Sintansin, Daejeon, KR",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJBzxVab1LZTUR8rQJEo-blBs",
+    "name": "Taj Mahal Resturant (Halal)",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "KR",
+    "country_code": "KR",
+    "city": "Yuseong District",
+    "address": "3 층 Taj Mahal Resturant (Halal), 27 Daehak-ro 151beon-gil, Yuseong District, Daejeon",
+    "street": "Daehak-ro 151beon-gil, 27 3 층",
+    "postal_code": "34137",
+    "region": "Daejeon",
+    "latitude": 36.3619548,
+    "longitude": 127.35000439999999,
+    "phone": "050-71313-7861",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Taj%20Mahal%20Resturant%20%28Halal%29&query_place_id=ChIJBzxVab1LZTUR8rQJEo-blBs",
+    "open_hours_json": {
+      "Monday": [
+        "11 AM–11 PM"
+      ],
+      "Tuesday": [
+        "11 AM–11 PM"
+      ],
+      "Wednesday": [
+        "11 AM–11 PM"
+      ],
+      "Thursday": [
+        "11 AM–11 PM"
+      ],
+      "Friday": [
+        "11 AM–11 PM"
+      ],
+      "Saturday": [
+        "11 AM–11 PM"
+      ],
+      "Sunday": [
+        "11 AM–11 PM"
+      ]
+    },
+    "review_count": 157,
+    "rating": 4.0,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd7XC_L2WwOeQUVujSZrPWPfqQDx-nRRthRAqHE0W7afopu4cIm9u5AiGaUQSVM9axj-ZVNLB9wzqTSg_1pj-YkYh3XGuiVvMRljD0jdT0Pi5BRuVjsatSzHlb1Bss0WRHQFCc4=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd7XC_L2WwOeQUVujSZrPWPfqQDx-nRRthRAqHE0W7afopu4cIm9u5AiGaUQSVM9axj-ZVNLB9wzqTSg_1pj-YkYh3XGuiVvMRljD0jdT0Pi5BRuVjsatSzHlb1Bss0WRHQFCc4=w1000-h750-no",
+    "source_query": "Halal restaurant in Sintansin, Daejeon, KR",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata"
+  },
+  {
+    "place_id": "ChIJewzEWQBLZTURs_XqkRT_Fqo",
+    "name": "World Mart & Halal Pizza Chicken",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "KR",
+    "country_code": "KR",
+    "city": "Yuseong District",
+    "address": "Daejeon, Yuseong District, 대학로 191-1 World Mart & Halal Pizza Chicken",
+    "street": "191-1 대학로",
+    "postal_code": "34139",
+    "region": "Daejeon",
+    "latitude": 36.361015099999996,
+    "longitude": 127.3545343,
+    "phone": "010-5848-2119",
+    "website": "https://www.facebook.com/profile.php?id=61564770358098&mibextid=ZbWKwL",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=World%20Mart%20%26%20Halal%20Pizza%20Chicken&query_place_id=ChIJewzEWQBLZTURs_XqkRT_Fqo",
+    "open_hours_json": {
+      "Monday": [
+        "Open 24 hours"
+      ],
+      "Tuesday": [
+        "Open 24 hours"
+      ],
+      "Wednesday": [
+        "Open 24 hours"
+      ],
+      "Thursday": [
+        "Open 24 hours"
+      ],
+      "Friday": [
+        "Open 24 hours"
+      ],
+      "Saturday": [
+        "Open 24 hours"
+      ],
+      "Sunday": [
+        "Open 24 hours"
+      ]
+    },
+    "review_count": 3,
+    "rating": 5.0,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLefoWzhfhcyPfk5OJ52f3tTDZyMSyiLIGoU_tnPGpYoqne3deGdjGMifaruU2pVmp44a50AEYP9YHfbyGuj7nLnCL0sP3aQdQRAi9rTitnZ7UpPCrT_beFAIPZhzmyGliWA8nMU3OgFhgg=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLefoWzhfhcyPfk5OJ52f3tTDZyMSyiLIGoU_tnPGpYoqne3deGdjGMifaruU2pVmp44a50AEYP9YHfbyGuj7nLnCL0sP3aQdQRAi9rTitnZ7UpPCrT_beFAIPZhzmyGliWA8nMU3OgFhgg=w1000-h750-no",
+    "source_query": "Halal restaurant in Sintansin, Daejeon, KR",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata"
+  },
+  {
+    "place_id": "ChIJtVUa7zxLZTUR8YckPpUvLqY",
+    "name": "발리레스토 BALI RESTO",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "KR",
+    "country_code": "KR",
+    "city": "Yuseong District",
+    "address": "Daejeon, Yuseong District, Gung-dong, 410-12 발리레스토 BALI RESTO",
+    "street": "410-12 Gung-dong",
+    "postal_code": "34137",
+    "region": "Daejeon",
+    "latitude": 36.3619509,
+    "longitude": 127.3499889,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%EB%B0%9C%EB%A6%AC%EB%A0%88%EC%8A%A4%ED%86%A0%20BALI%20RESTO&query_place_id=ChIJtVUa7zxLZTUR8YckPpUvLqY",
+    "open_hours_json": {
+      "Monday": [
+        "10 AM–10 PM"
+      ],
+      "Tuesday": [
+        "10 AM–10 PM"
+      ],
+      "Wednesday": [
+        "10 AM–10 PM"
+      ],
+      "Thursday": [
+        "10 AM–10 PM"
+      ],
+      "Friday": [
+        "10 AM–10 PM"
+      ],
+      "Saturday": [
+        "10 AM–10 PM"
+      ],
+      "Sunday": [
+        "10 AM–10 PM"
+      ]
+    },
+    "review_count": 12,
+    "rating": 4.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdR3abQiz4_hqLY_UQ8iJ5JdkTSUr6vWcAbGJw6ekloT6ni03gMVyh3-hNZj4dvd8pEB_OuCC0dqEjEvMF6-MTiGptNXwQkX4FNjeFy_fgyND1vQJW8Ka-ErIbe2gEIDrXAOAU=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdR3abQiz4_hqLY_UQ8iJ5JdkTSUr6vWcAbGJw6ekloT6ni03gMVyh3-hNZj4dvd8pEB_OuCC0dqEjEvMF6-MTiGptNXwQkX4FNjeFy_fgyND1vQJW8Ka-ErIbe2gEIDrXAOAU=w1000-h750-no",
+    "source_query": "Halal restaurant in Sintansin, Daejeon, KR",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJ_x2ia6zdw0cRcYqH5ADUuz8",
     "name": "Algemene Voeding Kross Market",
     "type": "restaurant",

@@ -1,55 +1,5 @@
 [
   {
-    "place_id": "ChIJb-jCTQBnwUcRIhPrZ55qDI8",
-    "name": "Mantra Market",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Bierbeek",
-    "address": "Mantra Market, Tiensesteenweg 114, 3360 Bierbeek",
-    "street": "Tiensesteenweg 114",
-    "postal_code": "3360",
-    "region": null,
-    "latitude": 50.8623061,
-    "longitude": 4.7626794,
-    "phone": "016 22 77 80",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mantra%20Market&query_place_id=ChIJb-jCTQBnwUcRIhPrZ55qDI8",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "9 am–6:30 pm"
-      ],
-      "Wednesday": [
-        "9 am–6:30 pm"
-      ],
-      "Thursday": [
-        "9 am–6:30 pm"
-      ],
-      "Friday": [
-        "9 am–6:30 pm"
-      ],
-      "Saturday": [
-        "9 am–7 pm"
-      ],
-      "Sunday": [
-        "9 am–7 pm"
-      ]
-    },
-    "review_count": 12,
-    "rating": 4.9,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfCCMvbg3NsN2g7k1QsznWxlTirRM51xAcOtxKJHb_Kqnp23Oq5heIJns2Tz5Zel2Nzg009WtHI6e03ESzjIn9-a79ofqXCh83MRecndvOUWRkVZUpVNaTG7zWuE6rAs5qC6SoWUddGLRFt=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfCCMvbg3NsN2g7k1QsznWxlTirRM51xAcOtxKJHb_Kqnp23Oq5heIJns2Tz5Zel2Nzg009WtHI6e03ESzjIn9-a79ofqXCh83MRecndvOUWRkVZUpVNaTG7zWuE6rAs5qC6SoWUddGLRFt=w1000-h750-no",
-    "source_query": "Hypermarket in Kortrijk-Dutsel, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
     "place_id": "ChIJ8d07IABnwUcR4ZH1OVTl8eo",
     "name": "Supermarkt Stop",
     "type": "hypermarket",
@@ -1894,6 +1844,32 @@
     "is_active": true,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJq_ymtLvgwEcR01zQxbz1LwI",
+    "name": "Zengin Slagerij & Supermarkt | Bilzen",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Bilzen-Hoeselt",
+    "address": "Zengin Slagerij & Supermarkt | Bilzen, Stationlaan 50, 3740 Bilzen-Hoeselt",
+    "street": "Stationlaan 50",
+    "postal_code": "3740",
+    "region": null,
+    "latitude": 50.8684503,
+    "longitude": 5.5101645,
+    "phone": "089 35 54 15",
+    "website": "https://www.instagram.com/zenginslagerijsupermarkt/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Zengin%20Slagerij%20%26%20Supermarkt%20%7C%20Bilzen&query_place_id=ChIJq_ymtLvgwEcR01zQxbz1LwI",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfjQgZZl6KSTL2Pv60mWLyvKK9tfojnNLuikdwhwlHAFmG0ag-jgT8b7V3BSjh_rgaQzLJL01ut5Cmrc_CaX5PrN3h-zOW5sUpfQgc8cdJshljzV9hGq-eq4QFnp3hkD1wF-vhEuw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfjQgZZl6KSTL2Pv60mWLyvKK9tfojnNLuikdwhwlHAFmG0ag-jgT8b7V3BSjh_rgaQzLJL01ut5Cmrc_CaX5PrN3h-zOW5sUpfQgc8cdJshljzV9hGq-eq4QFnp3hkD1wF-vhEuw=w1000-h750-no",
+    "rating": 4.5,
+    "review_count": 89,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
   },
   {
     "place_id": "ChIJSbicJuXgwEcRxQrDiEt3JIY",
@@ -7695,8 +7671,8 @@
     "phone": "0484 14 53 19",
     "website": "http://snackroyaltacos.be/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Royal%20Tacos&query_place_id=ChIJqZc5b6NZwkcRUZemHbnCi8o",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLebAraIUwsvRyw2yiqirlTg2nd4YNT-AJ1lSx_oyys9t9IS7cY_trseCt7ct58nMHQaMdfq69e3zmgCU-BEmYHMpCmCICz4d8kTavuTa9O8RKp855ws1EKqeCLnHiVfzHEWNCxf1d5Uo_mV=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLebAraIUwsvRyw2yiqirlTg2nd4YNT-AJ1lSx_oyys9t9IS7cY_trseCt7ct58nMHQaMdfq69e3zmgCU-BEmYHMpCmCICz4d8kTavuTa9O8RKp855ws1EKqeCLnHiVfzHEWNCxf1d5Uo_mV=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfWofVEzPw3kepw3VKxh7Q8_yEgGbduT1TPgJi7OCXN6HlJtKROVfwu5pm_mCApGUkkdOG0GZ4W0L4pJkQZVKXeWPasqvDRGv9CKHXSrZO8Ct6gr0OvWBbTyoOx1jXZ0PPCEyln__oP2iKZ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfWofVEzPw3kepw3VKxh7Q8_yEgGbduT1TPgJi7OCXN6HlJtKROVfwu5pm_mCApGUkkdOG0GZ4W0L4pJkQZVKXeWPasqvDRGv9CKHXSrZO8Ct6gr0OvWBbTyoOx1jXZ0PPCEyln__oP2iKZ=w1000-h750-no",
     "rating": 4.6,
     "review_count": 16,
     "verification_status": "VERIFIED",
@@ -7731,32 +7707,6 @@
     "is_active": true,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJL-EOLYpZwkcRNHqMfeIckVs",
-    "name": "المجزرة الإسلامية boucherie halal",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Boussu",
-    "address": "المجزرة الإسلامية boucherie halal, Rue de Valenciennes 487, 7300 Boussu",
-    "street": "Rue de Valenciennes 487",
-    "postal_code": "7300",
-    "region": null,
-    "latitude": 50.4322689,
-    "longitude": 3.8047535,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%D8%A7%D9%84%D9%85%D8%AC%D8%B2%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A9%20boucherie%20halal&query_place_id=ChIJL-EOLYpZwkcRNHqMfeIckVs",
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rdOttK0nk0eBYjRSg2biFQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=57.635277&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rdOttK0nk0eBYjRSg2biFQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=57.635277&pitch=0&thumbfov=w1000-h750-no",
-    "rating": null,
-    "review_count": 0,
-    "verification_status": "VERIFIED",
-    "verification_evidence": "boucherie halal",
-    "is_active": true,
-    "moderation_status": "approved"
   },
   {
     "place_id": "ChIJ85K2Nd5pwUcRHhxYRSR5QOk",
@@ -11798,6 +11748,59 @@
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeMT9zP6UY4OhL-brfNt84SDyOoDQg_9Cuzd28EmRUtsDy012dDhYnKIuGG9crNbg32onscxlcYsvEYe7ZLCFjzDiAsRGQi5V2lICHPGT_VGXOSOYZ00nfmyPCpbHWp-kIgNR4=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeMT9zP6UY4OhL-brfNt84SDyOoDQg_9Cuzd28EmRUtsDy012dDhYnKIuGG9crNbg32onscxlcYsvEYe7ZLCFjzDiAsRGQi5V2lICHPGT_VGXOSOYZ00nfmyPCpbHWp-kIgNR4=w1000-h750-no",
     "source_query": "Hypermarket in Brugge, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJadTHeNBQw0cRbpaegj3DBhA",
+    "name": "Bohemian Burgers Brugge",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Bruges",
+    "address": "Bohemian Burgers Brugge, Sint-Amandsstraat 22, 8000 Brugge",
+    "street": "Sint-Amandsstraat 22",
+    "postal_code": "8000",
+    "region": null,
+    "latitude": 51.208534099999994,
+    "longitude": 3.222492,
+    "phone": "050 73 74 11",
+    "website": "https://www.bohemianburgers.be/en/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bohemian%20Burgers%20Brugge&query_place_id=ChIJadTHeNBQw0cRbpaegj3DBhA",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "12–3:30 pm",
+        "5:30–9 pm"
+      ],
+      "Wednesday": [
+        "12–3:30 pm",
+        "5:30–9 pm"
+      ],
+      "Thursday": [
+        "12–3:30 pm",
+        "5:30–9 pm"
+      ],
+      "Friday": [
+        "12–9 pm"
+      ],
+      "Saturday": [
+        "12–9 pm"
+      ],
+      "Sunday": [
+        "12–4 pm"
+      ]
+    },
+    "review_count": 2167,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcj5atNvEZ2Opa9sYZmdf8enQHJQ7kFMo_pex7HUBMFGAxcBDcajP3UvIh37UM9pd4xAVYj0hB2gwRpPyz2ZUIa0OyG-UlgAh-IBfKxONifWrdL9iYivXc3Q9VVRXsRbu2xVpU=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcj5atNvEZ2Opa9sYZmdf8enQHJQ7kFMo_pex7HUBMFGAxcBDcajP3UvIh37UM9pd4xAVYj0hB2gwRpPyz2ZUIa0OyG-UlgAh-IBfKxONifWrdL9iYivXc3Q9VVRXsRbu2xVpU=w1000-h750-no",
+    "source_query": "Halal restaurant in Brugge, Flanders, BE",
     "moderation_status": "approved",
     "is_active": true,
     "verification_status": "UNVERIFIED",
