@@ -1,135 +1,5 @@
 [
   {
-    "place_id": "ChIJ47oyRlz6wEcRvlckhiuDdRQ",
-    "name": "Au Rendez-vous Du Couscous",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Liège",
-    "address": "Au Rendez-vous Du Couscous, Chau. de Tongres 63, 4000 Liège",
-    "street": "Chau. de Tongres 63",
-    "postal_code": "4000",
-    "region": null,
-    "latitude": 50.665065299999995,
-    "longitude": 5.558418199999999,
-    "phone": "04 247 43 54",
-    "website": "http://www.aurendezvousducouscous.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Au%20Rendez-vous%20Du%20Couscous&query_place_id=ChIJ47oyRlz6wEcRvlckhiuDdRQ",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "6–9 pm"
-      ],
-      "Thursday": [
-        "11 am–2 pm",
-        "6–9 pm"
-      ],
-      "Friday": [
-        "11 am–2 pm",
-        "6–9 pm"
-      ],
-      "Saturday": [
-        "11 am–2 pm",
-        "6–9 pm"
-      ],
-      "Sunday": [
-        "11 am–2 pm",
-        "6–9 pm"
-      ]
-    },
-    "review_count": 312,
-    "rating": 4.5,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcFfeObE752Req5uhqN0g_BgsTn8e75oHYbTkiIn1lXKdyjidMhuDr-KFpWQWx6CcdSAevI9jjRBlIM7RlNTxyBjUU-OdUaqfqSKBfyI13WT597SBudIEZve-lWv4tTRLwjTJDf=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcFfeObE752Req5uhqN0g_BgsTn8e75oHYbTkiIn1lXKdyjidMhuDr-KFpWQWx6CcdSAevI9jjRBlIM7RlNTxyBjUU-OdUaqfqSKBfyI13WT597SBudIEZve-lWv4tTRLwjTJDf=w1000-h750-no",
-    "source_query": "Halal restaurant in Liers, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJZXdbXKfwwEcRsgtqkdsMtw4",
-    "name": "Aux Délices du Maroc",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Liège",
-    "address": "Aux Délices du Maroc, Bd de la Constitution 29, 4020 Liège",
-    "street": "Bd de la Constitution 29",
-    "postal_code": "4020",
-    "region": null,
-    "latitude": 50.643341,
-    "longitude": 5.5841302,
-    "phone": "04 343 73 43",
-    "website": "https://www.facebook.com/pages/Au-D%C3%A9lice-Du-Maroc/314975491936269",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Aux%20D%C3%A9lices%20du%20Maroc&query_place_id=ChIJZXdbXKfwwEcRsgtqkdsMtw4",
-    "open_hours_json": {
-      "Monday": [
-        "12–11 pm"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "12–11 pm"
-      ],
-      "Thursday": [
-        "12–11 pm"
-      ],
-      "Friday": [
-        "11:30 am–11 pm"
-      ],
-      "Saturday": [
-        "12–11 pm"
-      ],
-      "Sunday": [
-        "12–11 pm"
-      ]
-    },
-    "review_count": 489,
-    "rating": 4.2,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLev68rx8hN5qCvHnfTDzE39jXijqIwtJ5QUGzNdYQme4ya-GZkhcx2LAUAZJrQpC5-BVVOt6FOLbwC8wDg5R8xajupUJfK7xj6BpCFS8zHrD8FhlhtlsuMHucH35tRMuW9GXRly2g=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLev68rx8hN5qCvHnfTDzE39jXijqIwtJ5QUGzNdYQme4ya-GZkhcx2LAUAZJrQpC5-BVVOt6FOLbwC8wDg5R8xajupUJfK7xj6BpCFS8zHrD8FhlhtlsuMHucH35tRMuW9GXRly2g=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Wavreille, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJv1gNuC36wEcRXpiwWAe6c6Q",
-    "name": "Ayhan Market/Besir SRL",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Liège",
-    "address": "Ayhan Market/Besir SRL, Rue St Nicolas 462, 4000 Liège",
-    "street": "Rue St Nicolas 462",
-    "postal_code": "4000",
-    "region": null,
-    "latitude": 50.639649899999995,
-    "longitude": 5.5367391999999995,
-    "phone": "0483 38 43 75",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ayhan%20Market%2FBesir%20SRL&query_place_id=ChIJv1gNuC36wEcRXpiwWAe6c6Q",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeFRDK1CJvwcig71mZgEnCZtsYIleD9RBGvkAmemZHkgdb3ZMQGjVX9AqQuHOlAscUg9CzRHnuiDN_EkX1jDnhjHOuRy6DJJIJfaLGOCrCbvqKEokk0uUgpSnDcOvhP_RNSB0gF=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeFRDK1CJvwcig71mZgEnCZtsYIleD9RBGvkAmemZHkgdb3ZMQGjVX9AqQuHOlAscUg9CzRHnuiDN_EkX1jDnhjHOuRy6DJJIJfaLGOCrCbvqKEokk0uUgpSnDcOvhP_RNSB0gF=w1000-h750-no",
-    "rating": 3.9,
-    "review_count": 372,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
     "place_id": "ChIJK4tgLx3xwEcRaHn4u7ERQAU",
     "name": "BOUCHERIE ARGANA HALAL",
     "type": "butcher",
@@ -765,8 +635,8 @@
     "phone": "04 224 33 43",
     "website": "https://boucherie-el-kamel-express.be/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boucherie%20El%20Kamel&query_place_id=ChIJtY19Yy76wEcRkanHBx-q7rI",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdcN7-i9bE5LPvfMSL83Q_lPDDnGrF7tV1qcK9bwj2TxEJC8QzGTGUokOcKor3rz1r-cAykK1oEls_BmaQ0p_bLy6bZXHZMYopPSKXUN_ufLHugPgF3ixHzMzsF_zKxcrHCVpAOrQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdcN7-i9bE5LPvfMSL83Q_lPDDnGrF7tV1qcK9bwj2TxEJC8QzGTGUokOcKor3rz1r-cAykK1oEls_BmaQ0p_bLy6bZXHZMYopPSKXUN_ufLHugPgF3ixHzMzsF_zKxcrHCVpAOrQ=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdpqDGvEYTJ4qxFE4m5h-9Eeb8c8dWnqGNDnSodyXUDt6F2MHgIsZX43q2ifLQDhuIRBfuAWuTmzlMKRfbibG7fpwPT3ibUODg1Cst-_LqaJnS3rJPacObE7tj58mOg89q_HJzY5Q=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdpqDGvEYTJ4qxFE4m5h-9Eeb8c8dWnqGNDnSodyXUDt6F2MHgIsZX43q2ifLQDhuIRBfuAWuTmzlMKRfbibG7fpwPT3ibUODg1Cst-_LqaJnS3rJPacObE7tj58mOg89q_HJzY5Q=w1000-h750-no",
     "rating": 4.5,
     "review_count": 197,
     "verification_status": "UNVERIFIED",
@@ -2927,8 +2797,8 @@
     "phone": "0470 81 40 98",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Halal%20centrum%20bressoux&query_place_id=ChIJSZGP91rxwEcRcqTretuYNes",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdz7SXyDdSGPODpac6xtt5MoiFxpfKLS91-X_XwYG0v-PtH9CI5K106rLqOcIYOYo8bwDptaLB-RROjP8YsZLnUU5dUtE1gzHA2IZNYgebBPpg9Y-MrXZbawLiK1KJu8uvz1KzK6vX5I06j=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdz7SXyDdSGPODpac6xtt5MoiFxpfKLS91-X_XwYG0v-PtH9CI5K106rLqOcIYOYo8bwDptaLB-RROjP8YsZLnUU5dUtE1gzHA2IZNYgebBPpg9Y-MrXZbawLiK1KJu8uvz1KzK6vX5I06j=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe__yOT-Jz10ogJ8Om2UN1fCSBGvZnjApE0VYxmD9zCoI8X4PVNX49qYTcZjPaGsK_c1OASWmCyRQnJgsjJ9MpkfYes5zc4JQbacBkrDFIFbw96q0OppCpUCj4mDSWlQEX4VX0dD7QM6W9Z=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe__yOT-Jz10ogJ8Om2UN1fCSBGvZnjApE0VYxmD9zCoI8X4PVNX49qYTcZjPaGsK_c1OASWmCyRQnJgsjJ9MpkfYes5zc4JQbacBkrDFIFbw96q0OppCpUCj4mDSWlQEX4VX0dD7QM6W9Z=w1000-h750-no",
     "rating": null,
     "review_count": 0,
     "verification_status": "VERIFIED",
@@ -3723,8 +3593,8 @@
     "phone": "0478 29 83 89",
     "website": "https://www.pagesdor.be/entreprise/Li%C3%A8ge/L12332892/KAHRAMAN+MARKET/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kahraman%20market&query_place_id=ChIJ6erS-EnxwEcR5_FTJcSAQC0",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe4u1kED6Gg__lF67EJjj-bMTY919sWt-WAHYBH6oRWsU3DopedBn6XKRd4l6YZyOI7SH8jSNUsOQ5YlRGzfI-qI5NpIZ35ZICLOsdpUbVnprlk0JINT_tVkuPIPHLD-iAx_c9M=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe4u1kED6Gg__lF67EJjj-bMTY919sWt-WAHYBH6oRWsU3DopedBn6XKRd4l6YZyOI7SH8jSNUsOQ5YlRGzfI-qI5NpIZ35ZICLOsdpUbVnprlk0JINT_tVkuPIPHLD-iAx_c9M=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcU7f4YLLmMXHT3UPVLjGPtvJjmJhGcagU_Qb6wn_gI_gVOBc-C7u2pTbO1252cMV2v8j7ygPjIGUIcXFG7T_LpzIwKeV4yFCYuudtPLN4dOBmY65iC9XHNuhjWrgG5Ck4y6l4F=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcU7f4YLLmMXHT3UPVLjGPtvJjmJhGcagU_Qb6wn_gI_gVOBc-C7u2pTbO1252cMV2v8j7ygPjIGUIcXFG7T_LpzIwKeV4yFCYuudtPLN4dOBmY65iC9XHNuhjWrgG5Ck4y6l4F=w1000-h750-no",
     "rating": 3.9,
     "review_count": 80,
     "verification_status": "UNVERIFIED",
@@ -4553,7 +4423,7 @@
     "region": null,
     "latitude": 50.645824999999995,
     "longitude": 5.5754459,
-    "phone": null,
+    "phone": "0470 93 87 36",
     "website": "https://lazeez.eu/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Lazeez&query_place_id=ChIJp4YYEQz6wEcRCoyBOkP-ofQ",
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdNKagJQzAACTgV73M6SHGOs6-vBoqZh8ewYA61aDln4guJWI-W4wAIaiQs8Fty55wD_PZU-qsanRpIrtJASib8faFvGHKJhG6jU-tKGa_96bLMJGCq5actCboCZLe6WWEpB0ia=w1000-h750-no",
@@ -8495,6 +8365,32 @@
     "verification_evidence": null
   },
   {
+    "place_id": "ChIJ9cnAktr7wEcRFXGdZkiirlQ",
+    "name": "Sandwicherie et Restaurant AFRICAIN MHK KIP",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Liège",
+    "address": "Sandwicherie et Restaurant AFRICAIN MHK KIP, Rue Saint-Gilles 236, 4000 Liège",
+    "street": "Rue Saint-Gilles 236",
+    "postal_code": "4000",
+    "region": null,
+    "latitude": 50.637567999999995,
+    "longitude": 5.5612241,
+    "phone": "0493 81 78 64",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Sandwicherie%20et%20Restaurant%20AFRICAIN%20MHK%20KIP&query_place_id=ChIJ9cnAktr7wEcRFXGdZkiirlQ",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeba8mqeUt7EgU8pGNFBsxamekNnz_u03MEEWDh1S-1SjS946vw7tNMTvB6ubT_TR19l4t2o02swFlwbpnTnr8pKe-e_oxYFuz9tfQZsKjx9UZJ0o22egXWoWQwPbUqs9UStNqao0pk3z69=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeba8mqeUt7EgU8pGNFBsxamekNnz_u03MEEWDh1S-1SjS946vw7tNMTvB6ubT_TR19l4t2o02swFlwbpnTnr8pKe-e_oxYFuz9tfQZsKjx9UZJ0o22egXWoWQwPbUqs9UStNqao0pk3z69=w1000-h750-no",
+    "rating": 4.8,
+    "review_count": 53,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
     "place_id": "ChIJddWZKFf7wEcRetDuuG-hbO8",
     "name": "Saperlipopette a la patate - La cuisine",
     "type": "restaurant",
@@ -8921,7 +8817,7 @@
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd9ogDKbmLvEC2E20ub-DMeiRPxUHALo-PbzFCxvmW3VVMjJsulhVH-e5ucke_-5ibXh4GnwJQK6wW2c2gc6gW2WHC_h6QU70ycmNxVvaZq4tO111dkzKFkd9OItytz4Sk67qvd=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd9ogDKbmLvEC2E20ub-DMeiRPxUHALo-PbzFCxvmW3VVMjJsulhVH-e5ucke_-5ibXh4GnwJQK6wW2c2gc6gW2WHC_h6QU70ycmNxVvaZq4tO111dkzKFkd9OItytz4Sk67qvd=w1000-h750-no",
     "rating": 4.3,
-    "review_count": 232,
+    "review_count": 231,
     "verification_status": "VERIFIED",
     "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
     "is_active": true,
@@ -9576,8 +9472,8 @@
     "phone": "0493 86 08 69",
     "website": "https://instagram.com/tandoori_liege?utm_medium=copy_link",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Tandoori&query_place_id=ChIJ40icEJj7wEcR8SHWEYPu3Po",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeV4nKXGnTLdXn1zZPtR8lUt0cRJ0XVVyENnXXiJ-_YzAqBm5EsqVctvsdw-kz9Rb8fWDlIzvTxMPP-uy4eiGyGOZepiBWYwCyqt7iHmIG2-InHy6CnBR976p9InLzSD5K_8eIC=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeV4nKXGnTLdXn1zZPtR8lUt0cRJ0XVVyENnXXiJ-_YzAqBm5EsqVctvsdw-kz9Rb8fWDlIzvTxMPP-uy4eiGyGOZepiBWYwCyqt7iHmIG2-InHy6CnBR976p9InLzSD5K_8eIC=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeS1V15pTisv4fklxxtxDOCXVn2wZNzVBpTQp_G6ET0vPOhaBZmk553PiqlmMSbneG-d6EFTVAVNiMdIrkw0ZgW7gA_d9YbnZDCXjnzvbrJg1EMwfM5Ozvo_X5udbtAIEHcX1oB=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeS1V15pTisv4fklxxtxDOCXVn2wZNzVBpTQp_G6ET0vPOhaBZmk553PiqlmMSbneG-d6EFTVAVNiMdIrkw0ZgW7gA_d9YbnZDCXjnzvbrJg1EMwfM5Ozvo_X5udbtAIEHcX1oB=w1000-h750-no",
     "rating": 4.2,
     "review_count": 358,
     "verification_status": "VERIFIED",
@@ -10139,6 +10035,87 @@
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdZ4Ffgnj-pL_P3RcMNIf05uN-OAzN6lpipCoYiG0JUH2wTp5B8yn9Iy__JPSF1MCuunSWcDajB_-W8WBJim6uxdAKv3VVpXNsphGrxX0u8Y_qFSboHhTc0eOhfEbJwfIY9lCnY=w1000-h750-no",
     "rating": 4.6,
     "review_count": 16,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJq9RbdoP7wEcRK8vIK5yrkD4",
+    "name": "Vice Versa",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Liège",
+    "address": "Vice Versa, Pl. Xavier Neujean 29, 4000 Liège",
+    "street": "Pl. Xavier Neujean 29",
+    "postal_code": "4000",
+    "region": null,
+    "latitude": 50.6428136,
+    "longitude": 5.5676467,
+    "phone": "0470 65 34 26",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Vice%20Versa&query_place_id=ChIJq9RbdoP7wEcRK8vIK5yrkD4",
+    "open_hours_json": {
+      "Monday": [
+        "6 pm–1 am"
+      ],
+      "Tuesday": [
+        "12–2 pm",
+        "6–10 pm"
+      ],
+      "Wednesday": [
+        "12–2 pm",
+        "6–10 pm"
+      ],
+      "Thursday": [
+        "12–2 pm",
+        "6–10 pm"
+      ],
+      "Friday": [
+        "12–2 pm",
+        "6–10 pm"
+      ],
+      "Saturday": [
+        "12–2 pm",
+        "6–10 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 143,
+    "rating": 4.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfq5syXumKQsaeHuxT3_QTx_ub09jIB1g21w7uy2d6aFJGdoWo20DbIAQdUg6m45UQoC2i9cTeJxxsYjOq22PW1kqm9vle-5AyoncT2JQCHsMDrk6HnndGgh0eueSMGjV8OsWli38ttLadU=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfq5syXumKQsaeHuxT3_QTx_ub09jIB1g21w7uy2d6aFJGdoWo20DbIAQdUg6m45UQoC2i9cTeJxxsYjOq22PW1kqm9vle-5AyoncT2JQCHsMDrk6HnndGgh0eueSMGjV8OsWli38ttLadU=w1000-h750-no",
+    "source_query": "Fish restaurant in Liège, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJu9FZDHb7wEcRG7MH-rkkS4o",
+    "name": "Vienna Coffee & Brunch",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Liège",
+    "address": "Vienna Coffee & Brunch, Pl. Cockerill 8, 4000 Liège",
+    "street": "Pl. Cockerill 8",
+    "postal_code": "4000",
+    "region": null,
+    "latitude": 50.6417017,
+    "longitude": 5.5753664999999994,
+    "phone": "04 358 99 75",
+    "website": "https://viennaliege.be/reserver/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Vienna%20Coffee%20%26%20Brunch&query_place_id=ChIJu9FZDHb7wEcRG7MH-rkkS4o",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeeUthalIrMbkNiPA_lrTXFb_kOZegEtPb8EjQtd_dya7QzsxQtrs1tK5oeWezEt6fKk43g9O9ol68AMk6EtReFWkzsJNtgpbVdQJKyzQG5IteFi0pQIKq3vY4f19i162qed4u91LlyqAS6=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeeUthalIrMbkNiPA_lrTXFb_kOZegEtPb8EjQtd_dya7QzsxQtrs1tK5oeWezEt6fKk43g9O9ol68AMk6EtReFWkzsJNtgpbVdQJKyzQG5IteFi0pQIKq3vY4f19i162qed4u91LlyqAS6=w1000-h750-no",
+    "rating": 4.8,
+    "review_count": 212,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null,
     "is_active": true,
