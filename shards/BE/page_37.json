@@ -1,5 +1,111 @@
 [
   {
+    "place_id": "ChIJw82uLavdw0cRDZpl2YOISBU",
+    "name": "Chifuri Woluwe-Saint-Etienne",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Zaventem",
+    "address": "Chifuri Woluwe-Saint-Etienne, Leuvensesteenweg 179, 1932 Zaventem",
+    "street": "Leuvensesteenweg 179",
+    "postal_code": "1932",
+    "region": null,
+    "latitude": 50.8672359,
+    "longitude": 4.4466584,
+    "phone": null,
+    "website": "http://chifuri.io/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chifuri%20Woluwe-Saint-Etienne&query_place_id=ChIJw82uLavdw0cRDZpl2YOISBU",
+    "open_hours_json": {
+      "Monday": [
+        "11 am–2:30 pm",
+        "5:30–11 pm"
+      ],
+      "Tuesday": [
+        "11 am–2:30 pm",
+        "5:30–11 pm"
+      ],
+      "Wednesday": [
+        "11 am–2:30 pm",
+        "5:30–11 pm"
+      ],
+      "Thursday": [
+        "11 am–2:30 pm",
+        "5:30–11 pm"
+      ],
+      "Friday": [
+        "11 am–2:30 pm",
+        "5:30–11 pm"
+      ],
+      "Saturday": [
+        "11 am–2:30 pm",
+        "5:30–11 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 10,
+    "rating": 2.1,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfZFrlT61RvJ15dSbuzUZgttwzGPJxqYNio2CgvLdVYJgVVmMNFVtk-nh0acvVzeGKrq9XnTvrvMdgxdyUQ7WL3PLSUXGVq040hBll6UCSRyVmUfDsfu6lEtSVOO-LdIy-zspDW=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfZFrlT61RvJ15dSbuzUZgttwzGPJxqYNio2CgvLdVYJgVVmMNFVtk-nh0acvVzeGKrq9XnTvrvMdgxdyUQ7WL3PLSUXGVq040hBll6UCSRyVmUfDsfu6lEtSVOO-LdIy-zspDW=w1000-h750-no",
+    "source_query": "Halal restaurant in Sint-Stevens-Woluwe, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJY97wGVncw0cRmt0SfS9u_UU",
+    "name": "Collect&Go Zaventem",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Zaventem",
+    "address": "Collect&Go Zaventem, Leuvensesteenweg 375, 1930 Zaventem",
+    "street": "Leuvensesteenweg 375",
+    "postal_code": "1930",
+    "region": null,
+    "latitude": 50.8722217,
+    "longitude": 4.4643423,
+    "phone": "02 363 50 05",
+    "website": "https://www.collectandgo.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Collect%26Go%20Zaventem&query_place_id=ChIJY97wGVncw0cRmt0SfS9u_UU",
+    "open_hours_json": {
+      "Monday": [
+        "8:30 am–7 pm"
+      ],
+      "Tuesday": [
+        "8:30 am–7 pm"
+      ],
+      "Wednesday": [
+        "8:30 am–7 pm"
+      ],
+      "Thursday": [
+        "8:30 am–7 pm"
+      ],
+      "Friday": [
+        "8:30 am–7 pm"
+      ],
+      "Saturday": [
+        "8:30 am–7 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 85,
+    "rating": 4.2,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdLa2guYRXqEsg_CLn8XRlc4N4d4XTlzMn3gQeUGonkkmPKe5poqxW9WsotbUzS-zd-vQngy6dyuoR25LkeVWZLOV4Nd2KtP-84hSqMaw1OrVhCXhR8yxyW-onfiChEHFdPoCw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdLa2guYRXqEsg_CLn8XRlc4N4d4XTlzMn3gQeUGonkkmPKe5poqxW9WsotbUzS-zd-vQngy6dyuoR25LkeVWZLOV4Nd2KtP-84hSqMaw1OrVhCXhR8yxyW-onfiChEHFdPoCw=w1000-h750-no",
+    "source_query": "Hypermarket in Sint-Stevens-Woluwe, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJw9Ajxfvcw0cRU8ABOZMA9yQ",
     "name": "Cosmopolite",
     "type": "restaurant",
@@ -784,8 +890,8 @@
     "phone": "0467 87 81 98",
     "website": "https://www.facebook.com/PureHetVlees",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Slagerij%20Elif%20Zaventem%20%28%20The%20Halal%20Butcher%20%26%20The%20Helal%20Kasap%20%29&query_place_id=ChIJW1-tLsXdw0cR9dPgwn7sge4",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd-iHDUzWLXS-WPx8W8izDO-QQkwuWi267-zieONrPqzdynrwmLKNrZdUOIsHfkt5DSJgV2JkPjvWemGcRZm_LHsTEGAjgvRxQAyYAy_G2pJ9_DDqUeph6WSlb3-ASdIbdBCz_5Cg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd-iHDUzWLXS-WPx8W8izDO-QQkwuWi267-zieONrPqzdynrwmLKNrZdUOIsHfkt5DSJgV2JkPjvWemGcRZm_LHsTEGAjgvRxQAyYAy_G2pJ9_DDqUeph6WSlb3-ASdIbdBCz_5Cg=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdKZ6ay_o-OJtgBLeMszc2qqJAKByvL3-yj_0DWohhsxWnJwTu6LeHSFU_beoTXElViuO8eIamT2pCCYcAWfnCYGetw2x5ktFgjpcJJxLK0FBinKMxq22UQcazMV1iQDPaCOqhs=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdKZ6ay_o-OJtgBLeMszc2qqJAKByvL3-yj_0DWohhsxWnJwTu6LeHSFU_beoTXElViuO8eIamT2pCCYcAWfnCYGetw2x5ktFgjpcJJxLK0FBinKMxq22UQcazMV1iQDPaCOqhs=w1000-h750-no",
     "rating": 4.3,
     "review_count": 118,
     "verification_status": "VERIFIED",
@@ -1201,7 +1307,7 @@
     "region": null,
     "latitude": 51.001531799999995,
     "longitude": 4.4876764,
-    "phone": null,
+    "phone": "0477 98 09 76",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Beenhouwerij%20Rif&query_place_id=ChIJO5XDWYbmw0cRjHyOG5jRKY0",
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdnOPf3EKNngUhm-dNMu6bn1XSI8VtzS7iYWXtqPGvoRIbrtlVHsRx5nK6acra26shnSCT6tu4zoqBx2BCmfahIFfsbZlGsCr8tF2nL3I22IvqmvC6XSR0K4ltulUUhJzFlJPas=w1000-h750-no",
