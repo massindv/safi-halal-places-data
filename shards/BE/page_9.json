@@ -1,5 +1,793 @@
 [
   {
+    "place_id": "ChIJk-0ZjbQFwkcRbT1rJHEV73Q",
+    "name": "Meet Wok",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Chimay",
+    "address": "Meet Wok, Chau. de Couvin 118, 6460 Chimay",
+    "street": "Chau. de Couvin 118",
+    "postal_code": "6460",
+    "region": null,
+    "latitude": 50.0443992,
+    "longitude": 4.3309492999999994,
+    "phone": "060 21 95 88",
+    "website": "https://meet-wok.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Meet%20Wok&query_place_id=ChIJk-0ZjbQFwkcRbT1rJHEV73Q",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "12–2:30 pm",
+        "6–9:30 pm"
+      ],
+      "Thursday": [
+        "12–2:30 pm",
+        "6–9:30 pm"
+      ],
+      "Friday": [
+        "12–2:30 pm",
+        "6–9:30 pm"
+      ],
+      "Saturday": [
+        "12–2:30 pm",
+        "6–9:30 pm"
+      ],
+      "Sunday": [
+        "12–2:30 pm",
+        "6–9:30 pm"
+      ]
+    },
+    "review_count": 575,
+    "rating": 3.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdGbtvS_EmsOecIEEdqpFruEA2TIYb3PAm1kHTc3eM_1zK8mtNBIRTWOX9Z7lX_MPOtRXELxjz2LqHk78PwEuRhsq6GTc4R7uGikFP4ggWa_gxHm4vqJuPNAmHabMABTGooH9tz=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdGbtvS_EmsOecIEEdqpFruEA2TIYb3PAm1kHTc3eM_1zK8mtNBIRTWOX9Z7lX_MPOtRXELxjz2LqHk78PwEuRhsq6GTc4R7uGikFP4ggWa_gxHm4vqJuPNAmHabMABTGooH9tz=w1000-h750-no",
+    "source_query": "Halal restaurant in Chimay, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJDyxvSZoFwkcRStgciVBc8zg",
+    "name": "RecyParc de Chimay - Ipalle",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Chimay",
+    "address": "RecyParc de Chimay - Ipalle, Rue du Grand Prix des Frontières 5, 6460 Chimay",
+    "street": "Rue du Grand Prix des Frontières 5",
+    "postal_code": "6460",
+    "region": null,
+    "latitude": 50.054023699999995,
+    "longitude": 4.3014943,
+    "phone": "060 21 54 40",
+    "website": "https://www.ipalle.be/localisation-et-horaires/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=RecyParc%20de%20Chimay%20-%20Ipalle&query_place_id=ChIJDyxvSZoFwkcRStgciVBc8zg",
+    "open_hours_json": {
+      "Monday": [
+        "12:30–5:45 pm"
+      ],
+      "Tuesday": [
+        "9–11:45 am",
+        "12:30–5:45 pm"
+      ],
+      "Wednesday": [
+        "9–11:45 am",
+        "12:30–5:45 pm"
+      ],
+      "Thursday": [
+        "9–11:45 am",
+        "12:30–5:45 pm"
+      ],
+      "Friday": [
+        "9–11:45 am",
+        "12:30–5:45 pm"
+      ],
+      "Saturday": [
+        "8–11:45 am",
+        "12:30–4:45 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 96,
+    "rating": 4.4,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcC6vloRfalf-RWKdl-w_M1_0Q_jNFh_n73duor0Z8jvndqxx5DHfy79ah7aYaeXKyAT8FVkWOvqv7awHGMQ-aUJhc6G_XaAGz6JxsGRyniwmEQCfmAn1NCMC5WAPtnE8FC_0Y=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcC6vloRfalf-RWKdl-w_M1_0Q_jNFh_n73duor0Z8jvndqxx5DHfy79ah7aYaeXKyAT8FVkWOvqv7awHGMQ-aUJhc6G_XaAGz6JxsGRyniwmEQCfmAn1NCMC5WAPtnE8FC_0Y=w1000-h750-no",
+    "source_query": "Hypermarket in Chimay, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJPx0wCQAFwkcRRxarD4yJCZ0",
+    "name": "Royal Kebab Chimay",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Chimay",
+    "address": "Royal Kebab Chimay, Rue de Virelles 20g, 6460 Chimay",
+    "street": "Rue de Virelles 20g",
+    "postal_code": "6460",
+    "region": null,
+    "latitude": 50.049710399999995,
+    "longitude": 4.321663,
+    "phone": null,
+    "website": "http://www.royalkebabchimay.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Royal%20Kebab%20Chimay&query_place_id=ChIJPx0wCQAFwkcRRxarD4yJCZ0",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "11 am–9 pm"
+      ],
+      "Wednesday": [
+        "11 am–9 pm"
+      ],
+      "Thursday": [
+        "11 am–9 pm"
+      ],
+      "Friday": [
+        "11 am–9 pm"
+      ],
+      "Saturday": [
+        "11 am–9 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 51,
+    "rating": 4.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLemWQnSihEM4MgP0JSR6prealBAm-1grFN38DM6v6fGdpcEhcxzAEC64tpGKu6GqibV3sI5ELeWtY3JxmWYNDxVEOExM0r6OjYxBtIM67pCYYbDZVMXvAhqsMonPp13oftlHkKTLRh0j452=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLemWQnSihEM4MgP0JSR6prealBAm-1grFN38DM6v6fGdpcEhcxzAEC64tpGKu6GqibV3sI5ELeWtY3JxmWYNDxVEOExM0r6OjYxBtIM67pCYYbDZVMXvAhqsMonPp13oftlHkKTLRh0j452=w1000-h750-no",
+    "source_query": "Halal restaurant in Chimay, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJY3PucZYFwkcRIlHR2jiGMIo",
+    "name": "Super Tounet",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Chimay",
+    "address": "Super Tounet, Rue Trieu Godin 33, 6460 Chimay",
+    "street": "Rue Trieu Godin 33",
+    "postal_code": "6460",
+    "region": null,
+    "latitude": 50.047495,
+    "longitude": 4.3071345999999995,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Super%20Tounet&query_place_id=ChIJY3PucZYFwkcRIlHR2jiGMIo",
+    "open_hours_json": null,
+    "review_count": 0,
+    "rating": null,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vXiL-5AzHlCQ6OnCtLFSuQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=178.19942&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vXiL-5AzHlCQ6OnCtLFSuQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=178.19942&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Hypermarket in Chimay, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJy1Pj50cFwkcRlxPQER0I0Ac",
+    "name": "TRAFIC CHIMAY",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Chimay",
+    "address": "TRAFIC CHIMAY, Chau. de Mons 16, 6460 Chimay",
+    "street": "Chau. de Mons 16",
+    "postal_code": "6460",
+    "region": null,
+    "latitude": 50.0521232,
+    "longitude": 4.3094119,
+    "phone": "060 30 36 08",
+    "website": "https://www.trafic.com/fr_BE/magasins/trafic-chimay",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=TRAFIC%20CHIMAY&query_place_id=ChIJy1Pj50cFwkcRlxPQER0I0Ac",
+    "open_hours_json": {
+      "Monday": [
+        "9 am–6:30 pm"
+      ],
+      "Tuesday": [
+        "9 am–6:30 pm"
+      ],
+      "Wednesday": [
+        "9 am–6:30 pm"
+      ],
+      "Thursday": [
+        "9 am–6:30 pm"
+      ],
+      "Friday": [
+        "9 am–6:30 pm"
+      ],
+      "Saturday": [
+        "9 am–6:30 pm"
+      ],
+      "Sunday": [
+        "10 am–1 pm"
+      ]
+    },
+    "review_count": 364,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeHROlg0y6bvUWuZ94VM95dcCxf9jGgvTbs1hg3WEiA5aFXfMi1ZXJYF7FDxuyiKzn0NaZk9baRgWrMjhNhgwrqp1m-FX4TxNRPDc1zYKTuEqLxhesAEjUj-2GU2O-ZI1p6zOha=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeHROlg0y6bvUWuZ94VM95dcCxf9jGgvTbs1hg3WEiA5aFXfMi1ZXJYF7FDxuyiKzn0NaZk9baRgWrMjhNhgwrqp1m-FX4TxNRPDc1zYKTuEqLxhesAEjUj-2GU2O-ZI1p6zOha=w1000-h750-no",
+    "source_query": "Hypermarket in Chimay, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ5YxzB18FwkcRfVcVHU_qCJM",
+    "name": "Taverne-restaurant du Circuit",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Chimay",
+    "address": "Taverne-restaurant du Circuit, Chau. de Mons 74, 6460 Chimay",
+    "street": "Chau. de Mons 74",
+    "postal_code": "6460",
+    "region": null,
+    "latitude": 50.0611835,
+    "longitude": 4.300888,
+    "phone": "060 21 37 41",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Taverne-restaurant%20du%20Circuit&query_place_id=ChIJ5YxzB18FwkcRfVcVHU_qCJM",
+    "open_hours_json": {
+      "Monday": [
+        "11 am–2 pm"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "6:30–9 pm"
+      ],
+      "Friday": [
+        "11 am–2 pm",
+        "6:30–9:30 pm"
+      ],
+      "Saturday": [
+        "11 am–2 pm",
+        "6:30–9 pm"
+      ],
+      "Sunday": [
+        "11 am–2 pm",
+        "6:30–9 pm"
+      ]
+    },
+    "review_count": 249,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcGPUJ8p_IjGgrjFbFoc67K6AKnPMIrPva-FP0oiHaIEsSba2wjf3-tpMw2IFW2XitwvvXzYGf4ka13ZJQDqum-KmtG83PqAFtTXSF3-Q5GRM9d7kw2tKeIIU0_2IvTkrfDfPWE=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcGPUJ8p_IjGgrjFbFoc67K6AKnPMIrPva-FP0oiHaIEsSba2wjf3-tpMw2IFW2XitwvvXzYGf4ka13ZJQDqum-KmtG83PqAFtTXSF3-Q5GRM9d7kw2tKeIIU0_2IvTkrfDfPWE=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Chimay, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJUef5D4YFwkcRwpexk9zk5VE",
+    "name": "maCaro'n Co",
+    "type": "bakery",
+    "category": "bakery",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Chimay",
+    "address": "maCaro'n Co, Rue de l'Athénée 32, 6460 Chimay",
+    "street": "Rue de l'Athénée 32",
+    "postal_code": "6460",
+    "region": null,
+    "latitude": 50.0482187,
+    "longitude": 4.3149394,
+    "phone": "060 21 42 52",
+    "website": "https://order.macaro-n.co/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=maCaro%27n%20Co&query_place_id=ChIJUef5D4YFwkcRwpexk9zk5VE",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "7:30 am–6:30 pm"
+      ],
+      "Thursday": [
+        "7:30 am–6:30 pm"
+      ],
+      "Friday": [
+        "7:30 am–6:30 pm"
+      ],
+      "Saturday": [
+        "7:30 am–6:30 pm"
+      ],
+      "Sunday": [
+        "7:30 am–5:30 pm"
+      ]
+    },
+    "review_count": 277,
+    "rating": 4.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfNVzbbB2jWKBWSU5aOTBPQ1oXQf6qAgmjg_riJpcJUhPD4YJU-LsQTtdvolyfajrdWkemqytM52Pc-Ixx47MrDYgJnaANsp67E2lOIlhpNh8xnNdQaOjeLPvNh7wfYbN2Wp-at=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfNVzbbB2jWKBWSU5aOTBPQ1oXQf6qAgmjg_riJpcJUhPD4YJU-LsQTtdvolyfajrdWkemqytM52Pc-Ixx47MrDYgJnaANsp67E2lOIlhpNh8xnNdQaOjeLPvNh7wfYbN2Wp-at=w1000-h750-no",
+    "source_query": "Hypermarket in Chimay, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJt-0bU46F6kcR0SdocfJ1kAU",
+    "name": "Epi-cerise Chiny",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Chiny",
+    "address": "Epi-cerise Chiny, Rue du Millénaire 8, 6810 Chiny",
+    "street": "Rue du Millénaire 8",
+    "postal_code": "6810",
+    "region": null,
+    "latitude": 49.73881,
+    "longitude": 5.3412551,
+    "phone": "061 58 92 89",
+    "website": "https://epicerise.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Epi-cerise%20Chiny&query_place_id=ChIJt-0bU46F6kcR0SdocfJ1kAU",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "8 am–12 pm",
+        "2–6 pm"
+      ],
+      "Wednesday": [
+        "8 am–12 pm",
+        "2–6 pm"
+      ],
+      "Thursday": [
+        "8 am–12 pm",
+        "2–6 pm"
+      ],
+      "Friday": [
+        "8 am–12 pm",
+        "2–6 pm"
+      ],
+      "Saturday": [
+        "8 am–12 pm"
+      ],
+      "Sunday": [
+        "8 am–12 pm"
+      ]
+    },
+    "review_count": 77,
+    "rating": 4.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfgjiEkcbAiASdT7fLjs5R1jWBZy6GKcH-4mAdQBjO6AthDYUMU4Ywjrt8kB_iOVj8eHOMRiSHFD6tCi3CcZVy3wMN-lGDyivP6Q4m5OKD3JzAbhIYzHrHXjRczOBOUBJVR5jTHhuG4XvCG=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfgjiEkcbAiASdT7fLjs5R1jWBZy6GKcH-4mAdQBjO6AthDYUMU4Ywjrt8kB_iOVj8eHOMRiSHFD6tCi3CcZVy3wMN-lGDyivP6Q4m5OKD3JzAbhIYzHrHXjRczOBOUBJVR5jTHhuG4XvCG=w1000-h750-no",
+    "source_query": "Hypermarket in Chiny, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJCxunG7GR6kcRj-0MGk3F0Oc",
+    "name": "Ferme de l'Esperance",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Chiny",
+    "address": "Ferme de l'Esperance, Voie d'Orval 27, 6810 Chiny",
+    "street": "Voie d'Orval 27",
+    "postal_code": "6810",
+    "region": null,
+    "latitude": 49.678880899999996,
+    "longitude": 5.434429,
+    "phone": "0498 22 20 48",
+    "website": "https://fermedelesperance.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ferme%20de%20l%27Esperance&query_place_id=ChIJCxunG7GR6kcRj-0MGk3F0Oc",
+    "open_hours_json": null,
+    "review_count": 25,
+    "rating": 4.9,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfmiNz47kFwYF5h4rf3cKDv5v3kGUlM39PkDhK0FGSAp96SMmQjxgYhC0WK1Y_WGYo8VqgPKh29bQm1FghidYV2az-QtixZQR32b3eMroErpAN5eHEkgMee4vj7Vea7eJGuWfLw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfmiNz47kFwYF5h4rf3cKDv5v3kGUlM39PkDhK0FGSAp96SMmQjxgYhC0WK1Y_WGYo8VqgPKh29bQm1FghidYV2az-QtixZQR32b3eMroErpAN5eHEkgMee4vj7Vea7eJGuWfLw=w1000-h750-no",
+    "source_query": "Hypermarket in Chiny, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJtTDYuFrYwUcRyQraB06Bass",
+    "name": "Saveurs De Fruits",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Chiny",
+    "address": "Saveurs De Fruits, Rue Grande 43, 6812 Chiny",
+    "street": "Rue Grande 43",
+    "postal_code": "6812",
+    "region": null,
+    "latitude": 49.7634347,
+    "longitude": 5.3998697,
+    "phone": "0492 16 78 87",
+    "website": "http://www.saveursdefruits.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Saveurs%20De%20Fruits&query_place_id=ChIJtTDYuFrYwUcRyQraB06Bass",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "2–6 pm"
+      ],
+      "Friday": [
+        "2–6 pm"
+      ],
+      "Saturday": [
+        "10 am–6 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 8,
+    "rating": 4.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc5zhPxJlI4PlTc5TKFneNkjbImqDhnplZTCWnyR2DKy4LrmDUDf7EKI8nOM-iiQIuO6Zmo1jpurG6PkTvJQ5e4JJzanYyhs-O8RFbBJY_ZWzSkwcw5FfSN8Cp8clo-yEA47VcLRw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc5zhPxJlI4PlTc5TKFneNkjbImqDhnplZTCWnyR2DKy4LrmDUDf7EKI8nOM-iiQIuO6Zmo1jpurG6PkTvJQ5e4JJzanYyhs-O8RFbBJY_ZWzSkwcw5FfSN8Cp8clo-yEA47VcLRw=w1000-h750-no",
+    "source_query": "Hypermarket in Chiny, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJy6ZSmjGQ6kcRZueW4PjLldM",
+    "name": "Spar Jamoigne",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Chiny",
+    "address": "Spar Jamoigne, Rue de Virton 6, 6810 Chiny",
+    "street": "Rue de Virton 6",
+    "postal_code": "6810",
+    "region": null,
+    "latitude": 49.6922151,
+    "longitude": 5.4132083,
+    "phone": "061 58 70 86",
+    "website": "https://www.monspar.be/magasins/spar-jamoigne",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Spar%20Jamoigne&query_place_id=ChIJy6ZSmjGQ6kcRZueW4PjLldM",
+    "open_hours_json": {
+      "Monday": [
+        "8 am–7 pm"
+      ],
+      "Tuesday": [
+        "8 am–7 pm"
+      ],
+      "Wednesday": [
+        "8 am–7 pm"
+      ],
+      "Thursday": [
+        "8 am–7 pm"
+      ],
+      "Friday": [
+        "8 am–7 pm"
+      ],
+      "Saturday": [
+        "8 am–7 pm"
+      ],
+      "Sunday": [
+        "8 am–1 pm"
+      ]
+    },
+    "review_count": 315,
+    "rating": 3.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLffZ6Ai5wxg0mgSJZ3FXoxHfJX2rGXLxPq6lJtxg0r8F-a0uxQT3_xl1hlVGTlbkkm1NaN90tWIKOyIbr6dpckKXxmWvFxoxUaGqohOpgXFse-IJ6MmerU3PKku4mGcB2pbund2kAXRhGBD=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLffZ6Ai5wxg0mgSJZ3FXoxHfJX2rGXLxPq6lJtxg0r8F-a0uxQT3_xl1hlVGTlbkkm1NaN90tWIKOyIbr6dpckKXxmWvFxoxUaGqohOpgXFse-IJ6MmerU3PKku4mGcB2pbund2kAXRhGBD=w1000-h750-no",
+    "source_query": "Hypermarket in Chiny, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJoX4f_4snwkcRYApL1v6KI_k",
+    "name": "Agadir",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Châtelet",
+    "address": "Agadir, Rue des Sablières 7, 6200 Châtelet",
+    "street": "Rue des Sablières 7",
+    "postal_code": "6200",
+    "region": null,
+    "latitude": 50.3998499,
+    "longitude": 4.5301941,
+    "phone": "071 39 31 02",
+    "website": "http://www.agadir.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Agadir&query_place_id=ChIJoX4f_4snwkcRYApL1v6KI_k",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "12–2:30 pm",
+        "6–10:30 pm"
+      ],
+      "Thursday": [
+        "12–2:30 pm",
+        "6–10:30 pm"
+      ],
+      "Friday": [
+        "6–10:30 pm"
+      ],
+      "Saturday": [
+        "12–2:30 pm",
+        "6–11 pm"
+      ],
+      "Sunday": [
+        "12–2:30 pm",
+        "6–11 pm"
+      ]
+    },
+    "review_count": 794,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcn_coq4QFxxJlqvdAiAJP-5gORPOpDdeZCCRp0lU10a4Bw1UDonHFcur8Oj8yTokXPSNHET-tvj5FWT11GG0PaPGCUQE47iSwnNXRk5_pqRKKIsDUnPvUgQbpHUxxtBounT4_s=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcn_coq4QFxxJlqvdAiAJP-5gORPOpDdeZCCRp0lU10a4Bw1UDonHFcur8Oj8yTokXPSNHET-tvj5FWT11GG0PaPGCUQE47iSwnNXRk5_pqRKKIsDUnPvUgQbpHUxxtBounT4_s=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Fleurus, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ84LMW-knwkcRsZKQ4_zdSKI",
+    "name": "Anatolia",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Châtelet",
+    "address": "Anatolia, Rue du Maréchal Foch 9, 6200 Châtelet",
+    "street": "Rue du Maréchal Foch 9",
+    "postal_code": "6200",
+    "region": null,
+    "latitude": 50.410686899999995,
+    "longitude": 4.5186382,
+    "phone": "071 39 67 31",
+    "website": "https://www.vlan.be/fr/hainaut/charleroi/chatelet/2A0B4C94_anatolia-supermarket.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Anatolia&query_place_id=ChIJ84LMW-knwkcRsZKQ4_zdSKI",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcXaMWXF0AI8q3UkCnQ0IWD3j3yy_Cq8w1eaK9KHAq09lujIoosIJOcpE7jHXwGtBDUM2qt4TKwUqNmA_cN9n0u4v97X1gMsgcbS5LDdkaT6Zh52isyQlIs6MC7kC7dvnunLdn6=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcXaMWXF0AI8q3UkCnQ0IWD3j3yy_Cq8w1eaK9KHAq09lujIoosIJOcpE7jHXwGtBDUM2qt4TKwUqNmA_cN9n0u4v97X1gMsgcbS5LDdkaT6Zh52isyQlIs6MC7kC7dvnunLdn6=w1000-h750-no",
+    "rating": 4.3,
+    "review_count": 218,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJJ4Wu5LAnwkcRt0KVUl3FwYc",
+    "name": "Azul",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Châtelet",
+    "address": "Azul, Place du Déversoir 10, 6200 Châtelet",
+    "street": "Place du Déversoir 10",
+    "postal_code": "6200",
+    "region": null,
+    "latitude": 50.405564899999995,
+    "longitude": 4.5197468,
+    "phone": "071 19 03 97",
+    "website": "https://www.facebook.com/profile.php?id=61565847687799&profile_tab_item_selected=about",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Azul&query_place_id=ChIJJ4Wu5LAnwkcRt0KVUl3FwYc",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "12–3 pm",
+        "6:30–9:30 pm"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "12–3 pm",
+        "6:30–9:30 pm"
+      ],
+      "Friday": [
+        "12–3 pm",
+        "6:30–10 pm"
+      ],
+      "Saturday": [
+        "12–3 pm",
+        "6:30–10 pm"
+      ],
+      "Sunday": [
+        "12–3 pm",
+        "6:30–9:30 pm"
+      ]
+    },
+    "review_count": 159,
+    "rating": 4.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe_5xQH_NhnrM4lh5EhMGENMq_gwQYQ1zvrWjsJK_4RcIpcxFKqoWSIRHoRBe5UcTPOiQp8QEm3IFx1NOpQOE0r2kL97DTU_yLA4GYQ06fIoIjjbV0qefhckTm3DfujqUrtx1uC6w=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe_5xQH_NhnrM4lh5EhMGENMq_gwQYQ1zvrWjsJK_4RcIpcxFKqoWSIRHoRBe5UcTPOiQp8QEm3IFx1NOpQOE0r2kL97DTU_yLA4GYQ06fIoIjjbV0qefhckTm3DfujqUrtx1uC6w=w1000-h750-no",
+    "source_query": "Halal restaurant in Châtelet, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJYyCoXrMnwkcRlyyBcvFTEDM",
+    "name": "Bilal habesi cami",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Châtelet",
+    "address": "Bilal habesi cami, Rue de la Poste 47, 6200 Châtelet",
+    "street": "Rue de la Poste 47",
+    "postal_code": "6200",
+    "region": null,
+    "latitude": 50.4088487,
+    "longitude": 4.520058199999999,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bilal%20habesi%20cami&query_place_id=ChIJYyCoXrMnwkcRlyyBcvFTEDM",
+    "open_hours_json": null,
+    "review_count": 2,
+    "rating": 5.0,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gUPgTwVrbAHYeYbh5gmK1Q&cb_client=search.gws-prod.grass&w=80&h=92&yaw=140.8676&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gUPgTwVrbAHYeYbh5gmK1Q&cb_client=search.gws-prod.grass&w=80&h=92&yaw=140.8676&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Mosque in Walcourt, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ6a_FGOknwkcR4Qwm9XCZlU4",
+    "name": "Boucherie Boujema",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Châtelet",
+    "address": "Boucherie Boujema, Rue de la Vallée 75, 6200 Châtelet",
+    "street": "Rue de la Vallée 75",
+    "postal_code": "6200",
+    "region": null,
+    "latitude": 50.4124754,
+    "longitude": 4.5180658,
+    "phone": "071 40 48 38",
+    "website": "http://www.boucherieboujema.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boucherie%20Boujema&query_place_id=ChIJ6a_FGOknwkcR4Qwm9XCZlU4",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeLe-XznJeGdrChUps_frdoJNUZVZqa1J99Ncosu58kI5nUuTy-YmeI0rI7JqRf19s60RE9CTxvHi4AEHWbSOs-OZTq3-A_XFKu0pnO57Xea3wFi3PBeCpaUaaEoktJ_z8Osxel=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeLe-XznJeGdrChUps_frdoJNUZVZqa1J99Ncosu58kI5nUuTy-YmeI0rI7JqRf19s60RE9CTxvHi4AEHWbSOs-OZTq3-A_XFKu0pnO57Xea3wFi3PBeCpaUaaEoktJ_z8Osxel=w1000-h750-no",
+    "rating": 4.5,
+    "review_count": 147,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJbW6rh-snwkcRYMgx81CAO0s",
+    "name": "Boucherie Ihirrou",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Châtelet",
+    "address": "Boucherie Ihirrou, Rue de la Poste 67, 6200 Châtelet",
+    "street": "Rue de la Poste 67",
+    "postal_code": "6200",
+    "region": null,
+    "latitude": 50.4083827,
+    "longitude": 4.5191726,
+    "phone": "0494 08 36 71",
+    "website": "https://www.companyweb.be/societe/boucherie-ihirrou/sprl/872833615",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boucherie%20Ihirrou&query_place_id=ChIJbW6rh-snwkcRYMgx81CAO0s",
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OCKUAWaT1fE1Jwy-9_HQpA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=140.30849&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OCKUAWaT1fE1Jwy-9_HQpA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=140.30849&pitch=0&thumbfov=w1000-h750-no",
+    "rating": 4.7,
+    "review_count": 29,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJV73X2qwnwkcRoCkzJI2Leuo",
+    "name": "CHEFDAG Cora Châtelineau | Fried Chicken & More",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Châtelet",
+    "address": "CHEFDAG Cora Châtelineau | Fried Chicken & More, Rue du, Rue Trieu Kaisin 71 bte 47, 6200 Châtelet",
+    "street": "Rue du, Rue Trieu Kaisin 71 bte 47",
+    "postal_code": "6200",
+    "region": null,
+    "latitude": 50.410882699999995,
+    "longitude": 4.494206,
+    "phone": "0486 12 09 38",
+    "website": "https://chefdag.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=CHEFDAG%20Cora%20Ch%C3%A2telineau%20%7C%20Fried%20Chicken%20%26%20More&query_place_id=ChIJV73X2qwnwkcRoCkzJI2Leuo",
+    "open_hours_json": {
+      "Monday": [
+        "11 am–7:30 pm"
+      ],
+      "Tuesday": [
+        "11 am–7:30 pm"
+      ],
+      "Wednesday": [
+        "11 am–7:30 pm"
+      ],
+      "Thursday": [
+        "11 am–7:30 pm"
+      ],
+      "Friday": [
+        "11 am–7:30 pm"
+      ],
+      "Saturday": [
+        "11 am–7:30 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 163,
+    "rating": 3.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc4zrp6Yga01q6O9jhwfShZVRcciyyjhZzk31CqUVfWiSJMhqNPMzqX0688Zy9-iZpgb0qhDV-niPB2yE7zOW2mXcO3u-Lm8Tn5223sJa8tlJZNPZGDQuvsMTet3igkJTtWc1ZoBw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc4zrp6Yga01q6O9jhwfShZVRcciyyjhZzk31CqUVfWiSJMhqNPMzqX0688Zy9-iZpgb0qhDV-niPB2yE7zOW2mXcO3u-Lm8Tn5223sJa8tlJZNPZGDQuvsMTet3igkJTtWc1ZoBw=w1000-h750-no",
+    "source_query": "Halal restaurant in Walcourt, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata"
+  },
+  {
     "place_id": "ChIJBZdGh8EnwkcRekUQcYdwNQA",
     "name": "Couscous Maison",
     "type": "restaurant",
@@ -201,6 +989,32 @@
     "is_active": true,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJSeLmbOwnwkcR0xheRsuxiZw",
+    "name": "Mosquee et centre culturel et sportif de diyanet",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Châtelet",
+    "address": "Mosquee et centre culturel et sportif de diyanet, Rue de la Poste 47, 6200 Châtelet",
+    "street": "Rue de la Poste 47",
+    "postal_code": "6200",
+    "region": null,
+    "latitude": 50.4088645,
+    "longitude": 4.5201154,
+    "phone": "071 40 04 06",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mosquee%20et%20centre%20culturel%20et%20sportif%20de%20diyanet&query_place_id=ChIJSeLmbOwnwkcR0xheRsuxiZw",
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gUPgTwVrbAHYeYbh5gmK1Q&cb_client=search.gws-prod.grass&w=80&h=92&yaw=113.825905&pitch=0.5985058&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gUPgTwVrbAHYeYbh5gmK1Q&cb_client=search.gws-prod.grass&w=80&h=92&yaw=113.825905&pitch=0.5985058&thumbfov=w1000-h750-no",
+    "rating": 5.0,
+    "review_count": 20,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
   },
   {
     "place_id": "ChIJZ0PN84UnwkcRYHCIaOI31og",
@@ -10983,833 +11797,6 @@
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLftHcyFQfD0MMuEsC42WlUgogfH-8D8YeI6yRnQu_PGL4I_N4Agy-PWiRPLJ6nLuMmU5H125tIZJSTHHRPALflfpsKRkAYuSM6vcoR8ruRpRy3eCTRCJpwg7a_hoUGKnjf75VCPZQ=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLftHcyFQfD0MMuEsC42WlUgogfH-8D8YeI6yRnQu_PGL4I_N4Agy-PWiRPLJ6nLuMmU5H125tIZJSTHHRPALflfpsKRkAYuSM6vcoR8ruRpRy3eCTRCJpwg7a_hoUGKnjf75VCPZQ=w1000-h750-no",
     "source_query": "Halal restaurant in Dendermonde, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJlcMnVRSRw0cRT_2UnoRKHg4",
-    "name": "أسواق حلب - LE Souk D'Alep",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Dendermonde",
-    "address": "أسواق حلب - LE Souk D'Alep, Oude Vest 75, 9200 Dendermonde",
-    "street": "Oude Vest 75",
-    "postal_code": "9200",
-    "region": null,
-    "latitude": 51.0295175,
-    "longitude": 4.101604399999999,
-    "phone": "0488 19 76 77",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%D8%A3%D8%B3%D9%88%D8%A7%D9%82%20%D8%AD%D9%84%D8%A8%20-%20LE%20Souk%20D%27Alep&query_place_id=ChIJlcMnVRSRw0cRT_2UnoRKHg4",
-    "open_hours_json": {
-      "Monday": [
-        "9:30 am–8 pm"
-      ],
-      "Tuesday": [
-        "9:30 pm–12 am"
-      ],
-      "Wednesday": [
-        "9:30 pm–12 am"
-      ],
-      "Thursday": [
-        "12 am–8 pm"
-      ],
-      "Friday": [
-        "9:30 am–8 pm"
-      ],
-      "Saturday": [
-        "9:30 am–8 pm"
-      ],
-      "Sunday": [
-        "9:30 am–8 pm"
-      ]
-    },
-    "review_count": 58,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeznGBVpGDu5sd7WOnB4im5dW7oSYPsB5yXysyv3UPdGQtervQbVWgwjD48sAkXgvBOWLSyRDg_PyDoynD6L8_SP7JG7ZNKbQhVOlK-Zr5tdtHnMMLK93y48dX7XC3quFtlZ3U3rg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeznGBVpGDu5sd7WOnB4im5dW7oSYPsB5yXysyv3UPdGQtervQbVWgwjD48sAkXgvBOWLSyRDg_PyDoynD6L8_SP7JG7ZNKbQhVOlK-Zr5tdtHnMMLK93y48dX7XC3quFtlZ3U3rg=w1000-h750-no",
-    "source_query": "Hypermarket in Dendermonde, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJCazyXbqWw0cREa9gI4yvD3E",
-    "name": "丽都 LITTLE CHINA",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Dendermonde",
-    "address": "丽都 LITTLE CHINA, Heirbaan 195, 9200 Dendermonde",
-    "street": "Heirbaan 195",
-    "postal_code": "9200",
-    "region": null,
-    "latitude": 51.011719,
-    "longitude": 4.1170493,
-    "phone": "052 22 55 88",
-    "website": "http://www.littlechina.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%B8%BD%E9%83%BD%20LITTLE%20CHINA&query_place_id=ChIJCazyXbqWw0cREa9gI4yvD3E",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "11:30 am–2:30 pm",
-        "5–11 pm"
-      ],
-      "Wednesday": [
-        "11:30 am–2:30 pm",
-        "5–11 pm"
-      ],
-      "Thursday": [
-        "11:30 am–2:30 pm",
-        "5–11 pm"
-      ],
-      "Friday": [
-        "11:30 am–2:30 pm",
-        "5–11 pm"
-      ],
-      "Saturday": [
-        "11:30 am–2:30 pm",
-        "5–11 pm"
-      ],
-      "Sunday": [
-        "11:30 am–10:30 pm"
-      ]
-    },
-    "review_count": 618,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfDgFpir-hoXEZ8JLmHYc08cURf7a218wBJB8JeXsfK9eWlu47eMT1A0S_nLUoZJC6X3RebLcWLkW4t0JRCWfZk4BI96SIeoXKEcS4fpUFfEiqX44uq2EIOg3XKDVzfvVBn1XWDRQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfDgFpir-hoXEZ8JLmHYc08cURf7a218wBJB8JeXsfK9eWlu47eMT1A0S_nLUoZJC6X3RebLcWLkW4t0JRCWfZk4BI96SIeoXKEcS4fpUFfEiqX44uq2EIOg3XKDVzfvVBn1XWDRQ=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Sint-Gillis-bij-Dendermonde, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ6VGqeb52w0cRqAAU9BT6oII",
-    "name": "Deny Market 2",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Destelbergen",
-    "address": "Deny Market 2, Dendermondsesteenweg 48, 9070 Destelbergen",
-    "street": "Dendermondsesteenweg 48",
-    "postal_code": "9070",
-    "region": null,
-    "latitude": 51.0514483,
-    "longitude": 3.762127,
-    "phone": null,
-    "website": "http://deny.market/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Deny%20Market%202&query_place_id=ChIJ6VGqeb52w0cRqAAU9BT6oII",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "10 am–7 pm"
-      ],
-      "Wednesday": [
-        "10 am–7 pm"
-      ],
-      "Thursday": [
-        "10 am–7 pm"
-      ],
-      "Friday": [
-        "10 am–7 pm"
-      ],
-      "Saturday": [
-        "10 am–7 pm"
-      ],
-      "Sunday": [
-        "10 am–7 pm"
-      ]
-    },
-    "review_count": 135,
-    "rating": 4.4,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcxCvE4wWEuEHkSz47c-UI8cMi69Rxt2byVAYqu_0hPLKNXntrBm1gRP_rlH8Jlu-tx-j-t5fQ-PBR56HfeWFUgLxlFE6v0IDG2mb2ZX5cnO4-rq9hXMd--vlwOP7naxn02=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcxCvE4wWEuEHkSz47c-UI8cMi69Rxt2byVAYqu_0hPLKNXntrBm1gRP_rlH8Jlu-tx-j-t5fQ-PBR56HfeWFUgLxlFE6v0IDG2mb2ZX5cnO4-rq9hXMd--vlwOP7naxn02=w1000-h750-no",
-    "source_query": "Hypermarket in Sint-Amandsberg, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJEaKCVYt2w0cRm837XYCknTE",
-    "name": "Renmans Destelbergen",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Destelbergen",
-    "address": "Renmans Destelbergen, Dendermondsesteenweg 263, 9070 Destelbergen",
-    "street": "Dendermondsesteenweg 263",
-    "postal_code": "9070",
-    "region": null,
-    "latitude": 51.054578299999996,
-    "longitude": 3.7715962999999997,
-    "phone": "09 228 88 03",
-    "website": "https://www.renmans.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Renmans%20Destelbergen&query_place_id=ChIJEaKCVYt2w0cRm837XYCknTE",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeljnfW4HQcfcKWQy0RwLKYRoJcpNsXeDcQCIxOL1SYsbO2dwteEhqWTBAP_dzwG9SMxdc--OQAfn93DCD62-fKDaZ0q_I5vMiBiSMQhAmf20YLNQ8WUTgeRjgYjAuExbGUFex-9Q=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeljnfW4HQcfcKWQy0RwLKYRoJcpNsXeDcQCIxOL1SYsbO2dwteEhqWTBAP_dzwG9SMxdc--OQAfn93DCD62-fKDaZ0q_I5vMiBiSMQhAmf20YLNQ8WUTgeRjgYjAuExbGUFex-9Q=w1000-h750-no",
-    "rating": 4.6,
-    "review_count": 46,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJQxzZZJvT3EcRLyfwBsSQNlA",
-    "name": "Supermarché Match",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "FR",
-    "country_code": "FR",
-    "city": "Deûlémont",
-    "address": "Supermarché Match, Dom. de la Bellevue, 59890 Deûlémont, France",
-    "street": "Dom. de la Bellevue",
-    "postal_code": "59890",
-    "region": null,
-    "latitude": 50.737539999999996,
-    "longitude": 2.95737,
-    "phone": "+33 3 20 42 78 78",
-    "website": "https://www.supermarchesmatch.fr/?choixMagasin=0572",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Supermarch%C3%A9%20Match&query_place_id=ChIJQxzZZJvT3EcRLyfwBsSQNlA",
-    "open_hours_json": {
-      "Monday": [
-        "8 am–8 pm"
-      ],
-      "Tuesday": [
-        "8 am–8 pm"
-      ],
-      "Wednesday": [
-        "8 am–8 pm"
-      ],
-      "Thursday": [
-        "8 am–8 pm"
-      ],
-      "Friday": [
-        "8 am–8 pm"
-      ],
-      "Saturday": [
-        "8 am–8 pm"
-      ],
-      "Sunday": [
-        "8:30 am–12:45 pm"
-      ]
-    },
-    "review_count": 908,
-    "rating": 4.1,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdqfapevAYrGOPJWw_mn8q1q8KM8vgPXX7tZuoc17gIqvhZFA6oA6ht4Spm2IeVmcsMFyZ7RQU3lAmDYvcVsB8zj-c1-NSesXZTu4kzvkUGoKdqqTtrY6RBclNfe6W61-Et4q5R=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdqfapevAYrGOPJWw_mn8q1q8KM8vgPXX7tZuoc17gIqvhZFA6oA6ht4Spm2IeVmcsMFyZ7RQU3lAmDYvcVsB8zj-c1-NSesXZTu4kzvkUGoKdqqTtrY6RBclNfe6W61-Et4q5R=w1000-h750-no",
-    "source_query": "Hypermarket in Warneton, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJX5tVXEg_wUcRmF_Wyy3EqO4",
-    "name": "B.I.F. Takva Moskee Diest",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Diest",
-    "address": "B.I.F. Takva Moskee Diest, Eduard Robeynslaan 61, 3290 Diest",
-    "street": "Eduard Robeynslaan 61",
-    "postal_code": "3290",
-    "region": null,
-    "latitude": 50.9774442,
-    "longitude": 5.059169799999999,
-    "phone": "013 30 21 82",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=B.I.F.%20Takva%20Moskee%20Diest&query_place_id=ChIJX5tVXEg_wUcRmF_Wyy3EqO4",
-    "open_hours_json": null,
-    "review_count": 3,
-    "rating": 5.0,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vR8FeJDe_yckHOK49BPDGQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=209.67554&pitch=-1.1680794&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vR8FeJDe_yckHOK49BPDGQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=209.67554&pitch=-1.1680794&thumbfov=w1000-h750-no",
-    "source_query": "Mosque in Tielt-Winge, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJayD8v0c_wUcRU1dtkOs_th0",
-    "name": "Belchicken Diest",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Diest",
-    "address": "Belchicken Diest, Hasseltsestraat 23, 3290 Diest",
-    "street": "Hasseltsestraat 23",
-    "postal_code": "3290",
-    "region": null,
-    "latitude": 50.981885,
-    "longitude": 5.0530197999999995,
-    "phone": "013 66 27 37",
-    "website": "https://belchicken.com/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Belchicken%20Diest&query_place_id=ChIJayD8v0c_wUcRU1dtkOs_th0",
-    "open_hours_json": {
-      "Monday": [
-        "11:30 am–10 pm"
-      ],
-      "Tuesday": [
-        "11:30 am–10 pm"
-      ],
-      "Wednesday": [
-        "11:30 am–10 pm"
-      ],
-      "Thursday": [
-        "11:30 am–10 pm"
-      ],
-      "Friday": [
-        "11:30 am–10 pm"
-      ],
-      "Saturday": [
-        "11:30 am–10 pm"
-      ],
-      "Sunday": [
-        "2–10 pm"
-      ]
-    },
-    "review_count": 220,
-    "rating": 4.2,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfCeeVg2GBgAa9SwQvZ9SQDVpU2uE7bShpHC9Mf3bRNOoOja59mmHyu-znfVbebETy63WDJS3NUmtNaiKexHW-vOh9FfV-TL5gdx0iccICCQE0IqGJuCwTy26kM5DwIYqOObUOf=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfCeeVg2GBgAa9SwQvZ9SQDVpU2uE7bShpHC9Mf3bRNOoOja59mmHyu-znfVbebETy63WDJS3NUmtNaiKexHW-vOh9FfV-TL5gdx0iccICCQE0IqGJuCwTy26kM5DwIYqOObUOf=w1000-h750-no",
-    "source_query": "Halal restaurant in Scherpenheuvel, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "VERIFIED",
-    "verification_evidence": "Explicit Halal keyword indicators in listing metadata"
-  },
-  {
-    "place_id": "ChIJc-v5kEk_wUcRs7QDOenQBQc",
-    "name": "Beraat Moskee Diest",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Diest",
-    "address": "Beraat Moskee Diest, Vervoortplaats 17, 3290 Diest",
-    "street": "Vervoortplaats 17",
-    "postal_code": "3290",
-    "region": null,
-    "latitude": 50.980390199999995,
-    "longitude": 5.0601234999999996,
-    "phone": "0489 28 42 83",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Beraat%20Moskee%20Diest&query_place_id=ChIJc-v5kEk_wUcRs7QDOenQBQc",
-    "open_hours_json": {
-      "Monday": [
-        "10 am–11:30 pm"
-      ],
-      "Tuesday": [
-        "10 am–11:30 pm"
-      ],
-      "Wednesday": [
-        "10 am–11:30 pm"
-      ],
-      "Thursday": [
-        "10 am–11:30 pm"
-      ],
-      "Friday": [
-        "10 am–11:30 pm"
-      ],
-      "Saturday": [
-        "10 am–11:30 pm"
-      ],
-      "Sunday": [
-        "10 am–11:30 pm"
-      ]
-    },
-    "review_count": 45,
-    "rating": 4.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfpEuYl81IGKDuFWX4kiDhaSw1l5Ij6IaMtY9ZOpNbTce6jKGjv1fZr4wq_V3VMus7-kMdWnVW7y7SxeP7B8U33_PPz2L9IonCxvyZgc7J_wJJuHz3uxHDIeIbz98SBhiIIPcIR=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfpEuYl81IGKDuFWX4kiDhaSw1l5Ij6IaMtY9ZOpNbTce6jKGjv1fZr4wq_V3VMus7-kMdWnVW7y7SxeP7B8U33_PPz2L9IonCxvyZgc7J_wJJuHz3uxHDIeIbz98SBhiIIPcIR=w1000-h750-no",
-    "source_query": "Mosque in Zoutleeuw, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJkfVQin4_wUcRklz7HWY6IBM",
-    "name": "Bima supermarkt",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Diest",
-    "address": "Bima supermarkt, Leuvensesteenweg 22, 3290 Diest",
-    "street": "Leuvensesteenweg 22",
-    "postal_code": "3290",
-    "region": null,
-    "latitude": 50.979788899999996,
-    "longitude": 5.047299499999999,
-    "phone": "013 30 14 29",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bima%20supermarkt&query_place_id=ChIJkfVQin4_wUcRklz7HWY6IBM",
-    "open_hours_json": {
-      "Monday": [
-        "9 am–8 pm"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "9 am–8 pm"
-      ],
-      "Thursday": [
-        "9 am–8 pm"
-      ],
-      "Friday": [
-        "9 am–8 pm"
-      ],
-      "Saturday": [
-        "9 am–8 pm"
-      ],
-      "Sunday": [
-        "9 am–8 pm"
-      ]
-    },
-    "review_count": 369,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLerdkWDbKTKSeLGnQFuj6paEzrfQeKPDH8pOOyfaTXXkIkNtQIrR7GE-iIi3vDZB96ib7jTChYoPrZ9NtKAbQNVQrwN3oxuexTHWYvQ94Za6o-kMnky1JOhetwUrEVwhU9glDlD=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLerdkWDbKTKSeLGnQFuj6paEzrfQeKPDH8pOOyfaTXXkIkNtQIrR7GE-iIi3vDZB96ib7jTChYoPrZ9NtKAbQNVQrwN3oxuexTHWYvQ94Za6o-kMnky1JOhetwUrEVwhU9glDlD=w1000-h750-no",
-    "source_query": "Hypermarket in Diest, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ5_zvabM4wUcR4QzRYrAci8c",
-    "name": "Bistro Wannes Raps",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Diest",
-    "address": "Bistro Wannes Raps, Schaffensestraat 17, 3290 Diest",
-    "street": "Schaffensestraat 17",
-    "postal_code": "3290",
-    "region": null,
-    "latitude": 50.988055599999996,
-    "longitude": 5.0563889,
-    "phone": "013 30 58 05",
-    "website": "http://www.wannesraps.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bistro%20Wannes%20Raps&query_place_id=ChIJ5_zvabM4wUcR4QzRYrAci8c",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "6–11 pm"
-      ],
-      "Wednesday": [
-        "12–3 pm",
-        "6–11 pm"
-      ],
-      "Thursday": [
-        "12–3 pm",
-        "6–11 pm"
-      ],
-      "Friday": [
-        "12–3 pm",
-        "6–11 pm"
-      ],
-      "Saturday": [
-        "Closed"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 518,
-    "rating": 4.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcVCh71TUBWchoG7uCDFlamN8vR-ECRTLEwI1j5J2bmGZVmDlTy2JwRpdI92QHrC1n1EeFq3nhgs_kCl1eKTa0mDk8-f466ZTC4-oiwb2FNUIbGvzP1Yg4V8IPz_I0Zr2VJmskH=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcVCh71TUBWchoG7uCDFlamN8vR-ECRTLEwI1j5J2bmGZVmDlTy2JwRpdI92QHrC1n1EeFq3nhgs_kCl1eKTa0mDk8-f466ZTC4-oiwb2FNUIbGvzP1Yg4V8IPz_I0Zr2VJmskH=w1000-h750-no",
-    "source_query": "Halal restaurant in Diest, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJPZYWO00_wUcR6A3xBhwFW8s",
-    "name": "De Goeie Kost",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Diest",
-    "address": "De Goeie Kost, Koning Albertstraat 31, 3290 Diest",
-    "street": "Koning Albertstraat 31",
-    "postal_code": "3290",
-    "region": null,
-    "latitude": 50.985780899999995,
-    "longitude": 5.0529673,
-    "phone": "013 29 78 25",
-    "website": "https://www.degoeiekost.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=De%20Goeie%20Kost&query_place_id=ChIJPZYWO00_wUcR6A3xBhwFW8s",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "12–3 pm",
-        "6–10 pm"
-      ],
-      "Wednesday": [
-        "12–3 pm",
-        "6–10 pm"
-      ],
-      "Thursday": [
-        "12–3 pm",
-        "6–10 pm"
-      ],
-      "Friday": [
-        "12–3 pm",
-        "6–10 pm"
-      ],
-      "Saturday": [
-        "12–3 pm",
-        "6–10 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 279,
-    "rating": 4.5,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfNsIWH9sbKvOx8N_tr2oVIq79oCcUscr1QxvYUyIzVEbfjbC4H5zjK2anhZ7Is-0KM9Vax7hRm2QzHygFiaNJ3JqD8-sRmnshWQ1EkGCPddZjzbBvTdmwx33dLDxFwA_FRO2aC=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfNsIWH9sbKvOx8N_tr2oVIq79oCcUscr1QxvYUyIzVEbfjbC4H5zjK2anhZ7Is-0KM9Vax7hRm2QzHygFiaNJ3JqD8-sRmnshWQ1EkGCPddZjzbBvTdmwx33dLDxFwA_FRO2aC=w1000-h750-no",
-    "source_query": "Halal restaurant in Diest, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJafGUx04_wUcRz7Fp6CUlvHs",
-    "name": "EFES KEBAP DIEST",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Diest",
-    "address": "EFES KEBAP DIEST, Hasseltsestraat 83, 3290 Diest",
-    "street": "Hasseltsestraat 83",
-    "postal_code": "3290",
-    "region": null,
-    "latitude": 50.9798504,
-    "longitude": 5.0549479999999996,
-    "phone": "013 31 57 52",
-    "website": "https://efeskebabdiest.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=EFES%20KEBAP%20DIEST&query_place_id=ChIJafGUx04_wUcRz7Fp6CUlvHs",
-    "open_hours_json": {
-      "Monday": [
-        "11 am–11:30 pm"
-      ],
-      "Tuesday": [
-        "10:30 am–11:30 pm"
-      ],
-      "Wednesday": [
-        "10:30 am–11:30 pm"
-      ],
-      "Thursday": [
-        "10:45 am–11:30 pm"
-      ],
-      "Friday": [
-        "10:45 am–11:30 pm"
-      ],
-      "Saturday": [
-        "10:45 am–11:30 pm"
-      ],
-      "Sunday": [
-        "10:45 am–11:30 pm"
-      ]
-    },
-    "review_count": 366,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdJHEDqzV6DHZLKGsdx4QWlhB93KsQW2rXb4FJuH4lnWF_uA_7FeZGwTUP4tAdfG5NiC73nUO5ubvuDOskAZJ7v4ohONGgX65LSKES_iYGPGUMF6zYqYc3zLflDwSM9sRoaSQGu=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdJHEDqzV6DHZLKGsdx4QWlhB93KsQW2rXb4FJuH4lnWF_uA_7FeZGwTUP4tAdfG5NiC73nUO5ubvuDOskAZJ7v4ohONGgX65LSKES_iYGPGUMF6zYqYc3zLflDwSM9sRoaSQGu=w1000-h750-no",
-    "source_query": "Halal restaurant in Diest, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJq5JCf-s_wUcRNhTHPXDTOUE",
-    "name": "Elite Slagerij Diest (Halal)",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Diest",
-    "address": "Elite Slagerij Diest (Halal), Hasseltsestraat 81, 3290 Diest",
-    "street": "Hasseltsestraat 81",
-    "postal_code": "3290",
-    "region": null,
-    "latitude": 50.979898899999995,
-    "longitude": 5.054863999999999,
-    "phone": "0465 85 84 84",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Elite%20Slagerij%20Diest%20%28Halal%29&query_place_id=ChIJq5JCf-s_wUcRNhTHPXDTOUE",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcHKKNv9y6Gl5EeurE9CM-tMUFh6Qo2-14vUYU7-XONmGHtynZQTgC73SjDlaT2IpW6m-fGFa9RQoRESxMF5mVylwr3AA_jHEVynx2m3eoEJNUhPNhZ1_MvxIg0HWa4SUwXsQpO=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcHKKNv9y6Gl5EeurE9CM-tMUFh6Qo2-14vUYU7-XONmGHtynZQTgC73SjDlaT2IpW6m-fGFa9RQoRESxMF5mVylwr3AA_jHEVynx2m3eoEJNUhPNhZ1_MvxIg0HWa4SUwXsQpO=w1000-h750-no",
-    "rating": 4.7,
-    "review_count": 19,
-    "verification_status": "VERIFIED",
-    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJYZbQjvE5wUcRqHxYc0UWA04",
-    "name": "Garlic",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Diest",
-    "address": "Garlic, Koning Albertstraat 74, 3290 Diest",
-    "street": "Koning Albertstraat 74",
-    "postal_code": "3290",
-    "region": null,
-    "latitude": 50.987199499999996,
-    "longitude": 5.055132599999999,
-    "phone": "0465 14 70 26",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Garlic&query_place_id=ChIJYZbQjvE5wUcRqHxYc0UWA04",
-    "open_hours_json": {
-      "Monday": [
-        "10 am–3 pm"
-      ],
-      "Tuesday": [
-        "10 am–7 pm"
-      ],
-      "Wednesday": [
-        "10 am–7 pm"
-      ],
-      "Thursday": [
-        "10 am–7 pm"
-      ],
-      "Friday": [
-        "10 am–7 pm"
-      ],
-      "Saturday": [
-        "10 am–7 pm"
-      ],
-      "Sunday": [
-        "10 am–3 pm"
-      ]
-    },
-    "review_count": 1,
-    "rating": 5.0,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeZyrhHGE0ierXQPKWbNoP1QueJbKpsbUNgpi30iAQnBv5dYw_qan_3_oZl_ZE0vLVHjl6wOfskpvXkbaAKfydZJmjRYkFS1h8oaTlGC0b9c0vy4AM2BdwSEw5lObMVnaHSt4SU3oXMfcmB=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeZyrhHGE0ierXQPKWbNoP1QueJbKpsbUNgpi30iAQnBv5dYw_qan_3_oZl_ZE0vLVHjl6wOfskpvXkbaAKfydZJmjRYkFS1h8oaTlGC0b9c0vy4AM2BdwSEw5lObMVnaHSt4SU3oXMfcmB=w1000-h750-no",
-    "source_query": "Hypermarket in Diest, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJsfRU0E4_wUcR5itdTeYjzfk",
-    "name": "Immigrand",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Diest",
-    "address": "Immigrand, Commissaris Neyskenslaan 5, 3290 Diest",
-    "street": "Commissaris Neyskenslaan 5",
-    "postal_code": "3290",
-    "region": null,
-    "latitude": 50.9794505,
-    "longitude": 5.0549589,
-    "phone": "013 77 64 00",
-    "website": "https://www.immigrand-diest.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Immigrand&query_place_id=ChIJsfRU0E4_wUcR5itdTeYjzfk",
-    "open_hours_json": null,
-    "review_count": 269,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLchfaH5t75BK1xAF8XeNkjCHG8MUdaB9GvTmpRYuVZW3GggiFzUHisA7RU-FRu_iIsMse2xZIE9P3kWPHZrt9u0qq0G1F84nOP1l2qKSrhwWcyS7vsFYHZaWPjHxwdxr3iOboY=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLchfaH5t75BK1xAF8XeNkjCHG8MUdaB9GvTmpRYuVZW3GggiFzUHisA7RU-FRu_iIsMse2xZIE9P3kWPHZrt9u0qq0G1F84nOP1l2qKSrhwWcyS7vsFYHZaWPjHxwdxr3iOboY=w1000-h750-no",
-    "source_query": "Halal restaurant in Diest, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJNbmkbU0_wUcRZIFJOAQr-Oo",
-    "name": "In De Beiaard",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Diest",
-    "address": "In De Beiaard, Koning Albertstraat 1, 3290 Diest",
-    "street": "Koning Albertstraat 1",
-    "postal_code": "3290",
-    "region": null,
-    "latitude": 50.9851294,
-    "longitude": 5.0521598,
-    "phone": "013 32 21 74",
-    "website": "http://www.indebeiaard.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=In%20De%20Beiaard&query_place_id=ChIJNbmkbU0_wUcRZIFJOAQr-Oo",
-    "open_hours_json": null,
-    "review_count": 354,
-    "rating": 4.5,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe7oe0N3kUpcvWvrQcy_99RqLKZq9CnuYpP3LA4pP4cBToydY8845BPjtMDqc7jY-EeCt_U2na9ckNm96VMu_uf7gFDf8hHT9Fq8I6hsmWZ13QHQh0Efl2hAAwS5WKJnv8z-3Y=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe7oe0N3kUpcvWvrQcy_99RqLKZq9CnuYpP3LA4pP4cBToydY8845BPjtMDqc7jY-EeCt_U2na9ckNm96VMu_uf7gFDf8hHT9Fq8I6hsmWZ13QHQh0Efl2hAAwS5WKJnv8z-3Y=w1000-h750-no",
-    "source_query": "Halal restaurant in Diest, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ86Z0cU0_wUcRoTXFuH7Nn9E",
-    "name": "In Den Zoeten Inval",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Diest",
-    "address": "In Den Zoeten Inval, Grote Markt 6, 3290 Diest",
-    "street": "Grote Markt 6",
-    "postal_code": "3290",
-    "region": null,
-    "latitude": 50.984603,
-    "longitude": 5.0515517999999995,
-    "phone": "013 32 63 51",
-    "website": "http://www.indenzoeteninval.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=In%20Den%20Zoeten%20Inval&query_place_id=ChIJ86Z0cU0_wUcRoTXFuH7Nn9E",
-    "open_hours_json": {
-      "Monday": [
-        "10 am–10 pm"
-      ],
-      "Tuesday": [
-        "10 am–10 pm"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "Closed"
-      ],
-      "Friday": [
-        "10 am–10 pm"
-      ],
-      "Saturday": [
-        "10 am–10 pm"
-      ],
-      "Sunday": [
-        "10 am–10 pm"
-      ]
-    },
-    "review_count": 267,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf7c5oyOGE3hyyzWL8mjoym-8Oe0Kp6YF71t1vFf8f_P2llwO-sd2mn7l5h5t6qwQ79VMwVuj-HgYo0UurAIuRSxTjVu75BJeR9CqRCxYtwvEll_QW8hqYoDhE4HiU2PnfvMaA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf7c5oyOGE3hyyzWL8mjoym-8Oe0Kp6YF71t1vFf8f_P2llwO-sd2mn7l5h5t6qwQ79VMwVuj-HgYo0UurAIuRSxTjVu75BJeR9CqRCxYtwvEll_QW8hqYoDhE4HiU2PnfvMaA=w1000-h750-no",
-    "source_query": "Halal restaurant in Diest, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJc_vJXUg_wUcRN-LkZuL6fc0",
-    "name": "Islamitische Federatie Van Belgié",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Diest",
-    "address": "Islamitische Federatie Van Belgié, Eduard Robeynslaan, 3290 Diest",
-    "street": "Eduard Robeynslaan",
-    "postal_code": "3290",
-    "region": null,
-    "latitude": 50.9774289,
-    "longitude": 5.0591573,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Islamitische%20Federatie%20Van%20Belgi%C3%A9&query_place_id=ChIJc_vJXUg_wUcRN-LkZuL6fc0",
-    "open_hours_json": null,
-    "review_count": 2,
-    "rating": 4.0,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vR8FeJDe_yckHOK49BPDGQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=209.67554&pitch=-1.1680794&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vR8FeJDe_yckHOK49BPDGQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=209.67554&pitch=-1.1680794&thumbfov=w1000-h750-no",
-    "source_query": "Mosque in Tielt-Winge, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJI3KMf604wUcRbOxhZVJYbnc",
-    "name": "JAS SUPERMARKET",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Diest",
-    "address": "JAS SUPERMARKET, Statiestraat 88, 3290 Diest",
-    "street": "Statiestraat 88",
-    "postal_code": "3290",
-    "region": null,
-    "latitude": 50.9894258,
-    "longitude": 5.0511452,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=JAS%20SUPERMARKET&query_place_id=ChIJI3KMf604wUcRbOxhZVJYbnc",
-    "open_hours_json": {
-      "Monday": [
-        "Open 24 hours"
-      ],
-      "Tuesday": [
-        "Open 24 hours"
-      ],
-      "Wednesday": [
-        "Open 24 hours"
-      ],
-      "Thursday": [
-        "Open 24 hours"
-      ],
-      "Friday": [
-        "Open 24 hours"
-      ],
-      "Saturday": [
-        "Open 24 hours"
-      ],
-      "Sunday": [
-        "Open 24 hours"
-      ]
-    },
-    "review_count": 0,
-    "rating": null,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ijWVa7kZV474h8M75QqdTQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=310.9125&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ijWVa7kZV474h8M75QqdTQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=310.9125&pitch=0&thumbfov=w1000-h750-no",
-    "source_query": "Hypermarket in Diest, Flanders, BE",
     "moderation_status": "approved",
     "is_active": true,
     "verification_status": "UNVERIFIED",
