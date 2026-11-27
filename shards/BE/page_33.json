@@ -1,5 +1,565 @@
 [
   {
+    "place_id": "ChIJKWpOvoYdwUcReebsFLgeYBU",
+    "name": "Barnito",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tongeren-Borgloon",
+    "address": "Barnito, Speelhof 7, 3840 Tongeren-Borgloon",
+    "street": "Speelhof 7",
+    "postal_code": "3840",
+    "region": null,
+    "latitude": 50.8018345,
+    "longitude": 5.345493299999999,
+    "phone": "012 21 94 22",
+    "website": "https://barnito.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Barnito&query_place_id=ChIJKWpOvoYdwUcReebsFLgeYBU",
+    "open_hours_json": {
+      "Monday": [
+        "5 pm–12 am"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "5 pm–12 am"
+      ],
+      "Friday": [
+        "5 pm–12 am"
+      ],
+      "Saturday": [
+        "5 pm–12 am"
+      ],
+      "Sunday": [
+        "11:30 am–12 am"
+      ]
+    },
+    "review_count": 469,
+    "rating": 4.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeDRk1WlWdHAg39A0_xUc6dGd_ZX-cM39k2mPVdYq-gkuPQgCqbDiSLYjpvNmwJ94iEF21lDl7-R9Q3m4cFLrH7h5mKanI-iQtRTboGgvKhRAo6W_MrXkC0NL1E5qemepGcNJBtWQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeDRk1WlWdHAg39A0_xUc6dGd_ZX-cM39k2mPVdYq-gkuPQgCqbDiSLYjpvNmwJ94iEF21lDl7-R9Q3m4cFLrH7h5mKanI-iQtRTboGgvKhRAo6W_MrXkC0NL1E5qemepGcNJBtWQ=w1000-h750-no",
+    "source_query": "Halal restaurant in Borgloon, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJuYfFczvhwEcRkEw6IF4iTig",
+    "name": "Bistrobelix",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tongeren-Borgloon",
+    "address": "Bistrobelix, Hasseltsesteenweg 599, 3700 Tongeren-Borgloon",
+    "street": "Hasseltsesteenweg 599",
+    "postal_code": "3700",
+    "region": null,
+    "latitude": 50.807282099999995,
+    "longitude": 5.4315386,
+    "phone": "012 21 52 94",
+    "website": "http://www.bistrobelix.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bistrobelix&query_place_id=ChIJuYfFczvhwEcRkEw6IF4iTig",
+    "open_hours_json": {
+      "Monday": [
+        "6–9 pm"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "12–1:30 pm",
+        "6–9 pm"
+      ],
+      "Friday": [
+        "12–1:30 pm",
+        "6–9 pm"
+      ],
+      "Saturday": [
+        "6–9 pm"
+      ],
+      "Sunday": [
+        "12–1:30 pm",
+        "6–9 pm"
+      ]
+    },
+    "review_count": 185,
+    "rating": 4.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeWILJQ8qX1-w49rHxVKbk6u_aOUR5EoTVEeRoWI02kM8WsGys7x6esWvvjypWJHdRYDKj-0jXW1_iSEaNCVTlmBiuSSHu1jACY3rjZ7a8H4g06k92hNJ8tUVbPJi9nugMIIiXf=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeWILJQ8qX1-w49rHxVKbk6u_aOUR5EoTVEeRoWI02kM8WsGys7x6esWvvjypWJHdRYDKj-0jXW1_iSEaNCVTlmBiuSSHu1jACY3rjZ7a8H4g06k92hNJ8tUVbPJi9nugMIIiXf=w1000-h750-no",
+    "source_query": "Fish restaurant in Tongeren, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJP6ueEx8cwUcRMoEmZuKbeyw",
+    "name": "Bogèst - Borgloon",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tongeren-Borgloon",
+    "address": "Bogèst - Borgloon, Graethempoort 33, 3840 Tongeren-Borgloon",
+    "street": "Graethempoort 33",
+    "postal_code": "3840",
+    "region": null,
+    "latitude": 50.803691,
+    "longitude": 5.333255599999999,
+    "phone": "012 21 06 90",
+    "website": "https://www.bogest.be/borgloon/overons?utm_source=google&utm_medium=bedrijfsprofiel&utm_campaign=borgloon",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bog%C3%A8st%20-%20Borgloon&query_place_id=ChIJP6ueEx8cwUcRMoEmZuKbeyw",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "5–10 pm"
+      ],
+      "Thursday": [
+        "5–10 pm"
+      ],
+      "Friday": [
+        "5–10 pm"
+      ],
+      "Saturday": [
+        "5–10 pm"
+      ],
+      "Sunday": [
+        "11:30 am–2:30 pm",
+        "5–10 pm"
+      ]
+    },
+    "review_count": 1623,
+    "rating": 4.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeEoCTvjDKOkzrPawcsHKSlcnrxMQfGzlcxX4DjqjtYF1N-3sbhb9KtlcMxKVkzwRD_u-5JSHhvGnAG6nlJvoyeZmafDxP8gvfskUImFtq6gYAmPlijnBUiXvK2Ql45sAOzdiDQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeEoCTvjDKOkzrPawcsHKSlcnrxMQfGzlcxX4DjqjtYF1N-3sbhb9KtlcMxKVkzwRD_u-5JSHhvGnAG6nlJvoyeZmafDxP8gvfskUImFtq6gYAmPlijnBUiXvK2Ql45sAOzdiDQ=w1000-h750-no",
+    "source_query": "Halal restaurant in Borgloon, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJh6rXz6rjwEcRGX6VxOLohYE",
+    "name": "BØF [Bœuf] Tongeren",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tongeren-Borgloon",
+    "address": "BØF [Bœuf] Tongeren, Grote Markt 31, 3700 Tongeren-Borgloon",
+    "street": "Grote Markt 31",
+    "postal_code": "3700",
+    "region": null,
+    "latitude": 50.780139,
+    "longitude": 5.4630908,
+    "phone": "0476 46 44 71",
+    "website": "https://www.bofgrillresto.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=B%C3%98F%20%5BB%C5%93uf%5D%20Tongeren&query_place_id=ChIJh6rXz6rjwEcRGX6VxOLohYE",
+    "open_hours_json": {
+      "Monday": [
+        "5–9 pm"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "5–9 pm"
+      ],
+      "Friday": [
+        "5–9 pm"
+      ],
+      "Saturday": [
+        "5–9 pm"
+      ],
+      "Sunday": [
+        "12–8 pm"
+      ]
+    },
+    "review_count": 367,
+    "rating": 4.9,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfO831Ux84Au2YnwX2DyFbezpYIgXzMLr4Vi1aBPeSUWVM6Up0Tv_FDdnHzPbonWWAg0B9j2slPcpWCOpwB7XMGzLoWtTqtBEAUwXBJ7ufsI20wrs7JZCWfyXp97DIsmixWcMH-BQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfO831Ux84Au2YnwX2DyFbezpYIgXzMLr4Vi1aBPeSUWVM6Up0Tv_FDdnHzPbonWWAg0B9j2slPcpWCOpwB7XMGzLoWtTqtBEAUwXBJ7ufsI20wrs7JZCWfyXp97DIsmixWcMH-BQ=w1000-h750-no",
+    "source_query": "Halal restaurant in Tongeren, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJE_OtBCYcwUcRjryJJB0cZS8",
+    "name": "Clerinx Adons nv",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tongeren-Borgloon",
+    "address": "Clerinx Adons nv, Tongersestraat 10, 3840 Tongeren-Borgloon",
+    "street": "Tongersestraat 10",
+    "postal_code": "3840",
+    "region": null,
+    "latitude": 50.801985699999996,
+    "longitude": 5.3468776,
+    "phone": "012 74 14 24",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Clerinx%20Adons%20nv&query_place_id=ChIJE_OtBCYcwUcRjryJJB0cZS8",
+    "open_hours_json": {
+      "Monday": [
+        "7 am–6 pm"
+      ],
+      "Tuesday": [
+        "7 am–6 pm"
+      ],
+      "Wednesday": [
+        "7 am–6 pm"
+      ],
+      "Thursday": [
+        "7 am–6 pm"
+      ],
+      "Friday": [
+        "7 am–6 pm"
+      ],
+      "Saturday": [
+        "7 am–5 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 59,
+    "rating": 4.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdXFpYlfudK3M08cxEKoixGm1b_7y3Y7tGkoCrDU_r44DDrPvwuCy8fFC9l8pDBKTQ4AFsugQfZdgn-ry7YezIAjbBjYjSPPYjYmCWamEEYH7sRaqt_5KbnuwHk__C8z0s8M54=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdXFpYlfudK3M08cxEKoixGm1b_7y3Y7tGkoCrDU_r44DDrPvwuCy8fFC9l8pDBKTQ4AFsugQfZdgn-ry7YezIAjbBjYjSPPYjYmCWamEEYH7sRaqt_5KbnuwHk__C8z0s8M54=w1000-h750-no",
+    "source_query": "Hypermarket in Borgloon, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJDyY7HLbjwEcRvfi0p1vF_9o",
+    "name": "De Ezel",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tongeren-Borgloon",
+    "address": "De Ezel, Piepelpoel 3, 3700 Tongeren-Borgloon",
+    "street": "Piepelpoel 3",
+    "postal_code": "3700",
+    "region": null,
+    "latitude": 50.7800446,
+    "longitude": 5.465393499999999,
+    "phone": "0479 36 16 23",
+    "website": "http://www.de-ezel.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=De%20Ezel&query_place_id=ChIJDyY7HLbjwEcRvfi0p1vF_9o",
+    "open_hours_json": {
+      "Monday": [
+        "6–11:30 pm"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "12–2 pm",
+        "6–11:30 pm"
+      ],
+      "Friday": [
+        "12–2 pm",
+        "6–11:30 pm"
+      ],
+      "Saturday": [
+        "12–2 pm",
+        "6–11:30 pm"
+      ],
+      "Sunday": [
+        "12–11:30 pm"
+      ]
+    },
+    "review_count": 231,
+    "rating": 4.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLckvM4umI4WYCisTOjLHrtKOKbWSbuiIiX6umFgmDUmUdHmn8eqreM7zcQKU-Ptj5mCvhwGrakBCWHd_M9aSRlWdgjgabVjd40VKyqxS87FyDyC8RRJ67YEg1LL_ni3q9tU5CCP=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLckvM4umI4WYCisTOjLHrtKOKbWSbuiIiX6umFgmDUmUdHmn8eqreM7zcQKU-Ptj5mCvhwGrakBCWHd_M9aSRlWdgjgabVjd40VKyqxS87FyDyC8RRJ67YEg1LL_ni3q9tU5CCP=w1000-h750-no",
+    "source_query": "Halal restaurant in Tongeren, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJBeBl3iUcwUcRhPpGlMWRUZ0",
+    "name": "De Kapelanij",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tongeren-Borgloon",
+    "address": "De Kapelanij, Padonck 10, 3840 Tongeren-Borgloon",
+    "street": "Padonck 10",
+    "postal_code": "3840",
+    "region": null,
+    "latitude": 50.8012866,
+    "longitude": 5.3452788,
+    "phone": "0475 54 61 05",
+    "website": "http://www.dekapelanij.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=De%20Kapelanij&query_place_id=ChIJBeBl3iUcwUcRhPpGlMWRUZ0",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "9 am–12 am"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "9 am–12 am"
+      ],
+      "Friday": [
+        "9 am–12 am"
+      ],
+      "Saturday": [
+        "5 pm–12 am"
+      ],
+      "Sunday": [
+        "5 pm–12 am"
+      ]
+    },
+    "review_count": 284,
+    "rating": 4.4,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdAr5Ek9JwQSl6alKhx4QJn016a073DjQkNRTFnNwPEd67Pj-xibRvgc-pDP05BH5SvAJLy9Y-d8pZQTOom_RK9QNzS_xb5v_Kbj2VQ2llUaDkBAhwIl6qxNy3mU8W7MQzLQcxd=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdAr5Ek9JwQSl6alKhx4QJn016a073DjQkNRTFnNwPEd67Pj-xibRvgc-pDP05BH5SvAJLy9Y-d8pZQTOom_RK9QNzS_xb5v_Kbj2VQ2llUaDkBAhwIl6qxNy3mU8W7MQzLQcxd=w1000-h750-no",
+    "source_query": "Halal restaurant in Borgloon, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJiVFuh7XjwEcRHfYg1SVfECs",
+    "name": "De Mijlpaal",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tongeren-Borgloon",
+    "address": "De Mijlpaal, Sint-Truiderstraat 25, 3700 Tongeren-Borgloon",
+    "street": "Sint-Truiderstraat 25",
+    "postal_code": "3700",
+    "region": null,
+    "latitude": 50.7803842,
+    "longitude": 5.4616071,
+    "phone": "012 26 42 77",
+    "website": "http://www.demijlpaal.org/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=De%20Mijlpaal&query_place_id=ChIJiVFuh7XjwEcRHfYg1SVfECs",
+    "open_hours_json": {
+      "Monday": [
+        "12–2 pm",
+        "7–9 pm"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "12–2 pm",
+        "7–9 pm"
+      ],
+      "Friday": [
+        "12–2 pm",
+        "7–9 pm"
+      ],
+      "Saturday": [
+        "7–9 pm"
+      ],
+      "Sunday": [
+        "12–2 pm"
+      ]
+    },
+    "review_count": 280,
+    "rating": 4.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc4E_gAn1ImxEAa7wcB1p2XbuZpi0LB8xf_dE88mHJ5MkjT730H6hMyLYnOGu6cKBGKwNSHFLq02VgYi004GyZzvyuhybnk_hBuy2mlO-j2XaBx7ExDnToutYONIMW6ijJir6ee3w=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc4E_gAn1ImxEAa7wcB1p2XbuZpi0LB8xf_dE88mHJ5MkjT730H6hMyLYnOGu6cKBGKwNSHFLq02VgYi004GyZzvyuhybnk_hBuy2mlO-j2XaBx7ExDnToutYONIMW6ijJir6ee3w=w1000-h750-no",
+    "source_query": "Halal restaurant in Tongeren, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJjdZavbPjwEcR9WYq6BBO5x8",
+    "name": "De Vishoeve",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tongeren-Borgloon",
+    "address": "De Vishoeve, Luikersteenweg 62, 3700 Tongeren-Borgloon",
+    "street": "Luikersteenweg 62",
+    "postal_code": "3700",
+    "region": null,
+    "latitude": 50.7739188,
+    "longitude": 5.4608152,
+    "phone": "012 67 14 69",
+    "website": "http://www.vishoevetongeren.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=De%20Vishoeve&query_place_id=ChIJjdZavbPjwEcR9WYq6BBO5x8",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "9 am–6 pm"
+      ],
+      "Wednesday": [
+        "9 am–6 pm"
+      ],
+      "Thursday": [
+        "9 am–6 pm"
+      ],
+      "Friday": [
+        "9 am–6 pm"
+      ],
+      "Saturday": [
+        "9 am–6 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 132,
+    "rating": 4.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc3Lk-QUnYYlJbgume4T_1oPSInqL9KQZQvSv1FwGGUpm10ST6MrHYSXKeHzWvTumAi9lHCS83s1AWOp1I-P_Yj2Lan1nj-ahUvVPLBBAqu_SGSOxlQ7b221OPSfkMUhp2m9EzC=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc3Lk-QUnYYlJbgume4T_1oPSInqL9KQZQvSv1FwGGUpm10ST6MrHYSXKeHzWvTumAi9lHCS83s1AWOp1I-P_Yj2Lan1nj-ahUvVPLBBAqu_SGSOxlQ7b221OPSfkMUhp2m9EzC=w1000-h750-no",
+    "source_query": "Fish restaurant in Tongeren, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJNeZVRMbjwEcRKH1pX8tdIus",
+    "name": "Eat Point Fast Food",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tongeren-Borgloon",
+    "address": "Eat Point Fast Food, Stationsplein 13, 3700 Tongeren-Borgloon",
+    "street": "Stationsplein 13",
+    "postal_code": "3700",
+    "region": null,
+    "latitude": 50.7832784,
+    "longitude": 5.4733731,
+    "phone": "012 67 11 38",
+    "website": "https://www.eatpointfastfood.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Eat%20Point%20Fast%20Food&query_place_id=ChIJNeZVRMbjwEcRKH1pX8tdIus",
+    "open_hours_json": {
+      "Monday": [
+        "12–11 pm"
+      ],
+      "Tuesday": [
+        "12–10:30 pm"
+      ],
+      "Wednesday": [
+        "12–11 pm"
+      ],
+      "Thursday": [
+        "12–10:30 pm"
+      ],
+      "Friday": [
+        "12 pm–12 am"
+      ],
+      "Saturday": [
+        "12 pm–12 am"
+      ],
+      "Sunday": [
+        "12–10:30 pm"
+      ]
+    },
+    "review_count": 71,
+    "rating": 3.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdGhIZR3C5IBee2kCECXsFL9mPifA-pghfi89m-WybVSZoyrLoTviws64VP6lMJ4Ns2qhKDCDetL9xJHkT3ipvT9G4h_oS2Rnh7hRiaRI5V25IUbJqwSGi5bh78cD_QqMdhRJBixQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdGhIZR3C5IBee2kCECXsFL9mPifA-pghfi89m-WybVSZoyrLoTviws64VP6lMJ4Ns2qhKDCDetL9xJHkT3ipvT9G4h_oS2Rnh7hRiaRI5V25IUbJqwSGi5bh78cD_QqMdhRJBixQ=w1000-h750-no",
+    "source_query": "Halal restaurant in Tongeren, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJEaWS-JMdwUcRhIQDzdwCYZU",
+    "name": "Eetcafé De Kastelein",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tongeren-Borgloon",
+    "address": "Eetcafé De Kastelein, Speelhof 9, 3840 Tongeren-Borgloon",
+    "street": "Speelhof 9",
+    "postal_code": "3840",
+    "region": null,
+    "latitude": 50.8016948,
+    "longitude": 5.3454483999999995,
+    "phone": "0468 18 93 44",
+    "website": "https://www.dekasteleinborgloon.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Eetcaf%C3%A9%20De%20Kastelein&query_place_id=ChIJEaWS-JMdwUcRhIQDzdwCYZU",
+    "open_hours_json": {
+      "Monday": [
+        "10 am–12 am"
+      ],
+      "Tuesday": [
+        "10 am–12 am"
+      ],
+      "Wednesday": [
+        "10 am–12 am"
+      ],
+      "Thursday": [
+        "Closed"
+      ],
+      "Friday": [
+        "10 am–12 am"
+      ],
+      "Saturday": [
+        "10 am–12 am"
+      ],
+      "Sunday": [
+        "10 am–12 am"
+      ]
+    },
+    "review_count": 52,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdxdbQl6baMDDhjnE4vPSbPQYvJx3iy6b62epmiWS8oUaJmtl1x8TdHC3vS5zRvmub92FQlQaYyFvvF2NjLNdXmDhuHM9GZOMctQMqI6wcsqvWbNWCkeqzozPFIt8WUtDg3GpGTn376VB3M=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdxdbQl6baMDDhjnE4vPSbPQYvJx3iy6b62epmiWS8oUaJmtl1x8TdHC3vS5zRvmub92FQlQaYyFvvF2NjLNdXmDhuHM9GZOMctQMqI6wcsqvWbNWCkeqzozPFIt8WUtDg3GpGTn376VB3M=w1000-h750-no",
+    "source_query": "Halal restaurant in Borgloon, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJO4u4kSYcwUcRLbIcBGjQMDQ",
     "name": "Eethuis Efesus",
     "type": "restaurant",
@@ -2945,10 +3505,10 @@
     "phone": "0465 17 32 54",
     "website": "https://belsytournai.com/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bel%27sy%20Restaurant&query_place_id=ChIJc_yWSXTgwkcRP0Qj8TzGBk0",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcpOIcRerNcvtMejyjEel6LZjTR3oSt_BWN31KsaE6V1j5n0u80QnkyyU_7MH5KSzo2CqaPQRd8GCls-QTnjyYVrAD6ZywBM8HgvugZ2krJJIct3n7ExrbN0yZBLs-rTDhaFb2-=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcpOIcRerNcvtMejyjEel6LZjTR3oSt_BWN31KsaE6V1j5n0u80QnkyyU_7MH5KSzo2CqaPQRd8GCls-QTnjyYVrAD6ZywBM8HgvugZ2krJJIct3n7ExrbN0yZBLs-rTDhaFb2-=w1000-h750-no",
-    "rating": null,
-    "review_count": 0,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeP5kLE_COeMQsZ2E2D59yoblWb5i3BovfB9sD4roqN10ZLaVpB3dzlm2qVdTpHuxam6rtGPP0SBY14iYHqp_ZSFq83VcN0olF5Xyg7qYVvyg9qYKpIQTPF-ypV0Vb0rArzyl-I=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeP5kLE_COeMQsZ2E2D59yoblWb5i3BovfB9sD4roqN10ZLaVpB3dzlm2qVdTpHuxam6rtGPP0SBY14iYHqp_ZSFq83VcN0olF5Xyg7qYVvyg9qYKpIQTPF-ypV0Vb0rArzyl-I=w1000-h750-no",
+    "rating": 4.9,
+    "review_count": 507,
     "verification_status": "VERIFIED",
     "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
     "is_active": true,
@@ -3023,8 +3583,8 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Black%20%26%20White%20Burger%20Tournai&query_place_id=ChIJ1YtdffbhwkcRZObDzmWfoHA",
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcLOvFXT_djyUDFu_zq_Bm3Iu0MYYIerIZOnOdmjhs_IZXsVNVmuUF7RXSuwvhsRoRPjIZvvDfwOva2y4euJSHxe4VsRasC8hmClWHVCNWku1p0czUkCtQnYlCmA8AAOXFyFsVN=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcLOvFXT_djyUDFu_zq_Bm3Iu0MYYIerIZOnOdmjhs_IZXsVNVmuUF7RXSuwvhsRoRPjIZvvDfwOva2y4euJSHxe4VsRasC8hmClWHVCNWku1p0czUkCtQnYlCmA8AAOXFyFsVN=w1000-h750-no",
-    "rating": null,
-    "review_count": 0,
+    "rating": 4.7,
+    "review_count": 3568,
     "verification_status": "VERIFIED",
     "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
     "is_active": true,
@@ -3174,7 +3734,7 @@
     "region": null,
     "latitude": 50.6110957,
     "longitude": 3.3943106999999997,
-    "phone": null,
+    "phone": "069 22 26 64",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boucherie-charcuterie%20Jean&query_place_id=ChIJnY6fngzgwkcRTh7e80Eqz5E",
     "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Xzc9vqozFYzLdAHXGTnEUA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=253.7229&pitch=0&thumbfov=w1000-h750-no",
@@ -3251,7 +3811,7 @@
     "latitude": 50.6103363,
     "longitude": 3.3933117999999998,
     "phone": "069 23 23 84",
-    "website": null,
+    "website": "https://qr.wwwcafe.de/2025/08/12/cleopatra/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=CLEOPATRA%20-%20Tournai&query_place_id=ChIJd-6cXAvgwkcRRfgqKP8Hn3I",
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeW8Sh4Pxy6c8qkpoOWGyIKmUSOGFza84eW2wvW74lxltwpZTVdrjexg7DkwnYm5CpOxKtII1rGW9svUUFy13bPL-E4Yo5L6IZDNHM5DOqtSIFgcJldi0L8CX6kxDzn9klMuz0d=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeW8Sh4Pxy6c8qkpoOWGyIKmUSOGFza84eW2wvW74lxltwpZTVdrjexg7DkwnYm5CpOxKtII1rGW9svUUFy13bPL-E4Yo5L6IZDNHM5DOqtSIFgcJldi0L8CX6kxDzn9klMuz0d=w1000-h750-no",
@@ -3361,8 +3921,8 @@
     "phone": "069 34 31 55",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Capitol&query_place_id=ChIJiR_adhXfwkcRBK7igAZP7nQ",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW0Lw8npOsU3qJklATkiLtougxTKzW8bHRg9pQeRe3dIGGSRekrVShXf4LZgu3JL6fR4Mol4m8epWz-kbTtWzqt2UoeHrUqlPXpfEKfF2mJLASO9b7Kq1esXYa57ZJzj2sGaMXX8XKcpUpHG4Dib4x94ilFoZDuLcg0HC6hKhtii5hZrHXYrhKM=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW0Lw8npOsU3qJklATkiLtougxTKzW8bHRg9pQeRe3dIGGSRekrVShXf4LZgu3JL6fR4Mol4m8epWz-kbTtWzqt2UoeHrUqlPXpfEKfF2mJLASO9b7Kq1esXYa57ZJzj2sGaMXX8XKcpUpHG4Dib4x94ilFoZDuLcg0HC6hKhtii5hZrHXYrhKM=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW03_bi0SXPFunv-BlNXP3qFj882OyiNs3QwAkiS6OznpLftheAlMLA0mP9vZrffiab3b0Fg7HeGQAfegtg9Qg-lrjAW_ILh0gJ-XWD_q-5nqiGJ2eWjF3B6DP4SS6ECXD5R-EO41MeJ7zm6BandxFv043zyM8CqFYrlGGdS_vhDiTXUTeUdC8A=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW03_bi0SXPFunv-BlNXP3qFj882OyiNs3QwAkiS6OznpLftheAlMLA0mP9vZrffiab3b0Fg7HeGQAfegtg9Qg-lrjAW_ILh0gJ-XWD_q-5nqiGJ2eWjF3B6DP4SS6ECXD5R-EO41MeJ7zm6BandxFv043zyM8CqFYrlGGdS_vhDiTXUTeUdC8A=w1000-h750-no",
     "rating": 4.3,
     "review_count": 52,
     "verification_status": "UNVERIFIED",
@@ -4108,8 +4668,8 @@
     "phone": "069 23 51 27",
     "website": "https://qr.wwwcafe.de/2025/08/12/djerba/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Djerba%20-%20Tournai&query_place_id=ChIJJTcp7d_fwkcRIiqRtVtLLcA",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfdoqUh1DZ7m5S59yu-dVcNIyaEyumnqBz87IvM-akA8bNZhjhVUuaB8UV8Igh093fdIs6YrkRrR6rO-GEdWDy0DegWag8KYfd1TSOj5kMBYQbN5ghjimrpd9F_2mYqbfRYGA5U=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfdoqUh1DZ7m5S59yu-dVcNIyaEyumnqBz87IvM-akA8bNZhjhVUuaB8UV8Igh093fdIs6YrkRrR6rO-GEdWDy0DegWag8KYfd1TSOj5kMBYQbN5ghjimrpd9F_2mYqbfRYGA5U=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcdBUbLQ3sgU0MlmY_LCMtEiRkFniA2D9V74QCtwiSdj9wgh7dRcUYsGVKjPkZo4vT96r4s47rmzWPJP-P-h61mfr2rHQbGTcWUd68omyjbzBpz1zSRua9HdqAk6LAKgvsZsNDe=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcdBUbLQ3sgU0MlmY_LCMtEiRkFniA2D9V74QCtwiSdj9wgh7dRcUYsGVKjPkZo4vT96r4s47rmzWPJP-P-h61mfr2rHQbGTcWUd68omyjbzBpz1zSRua9HdqAk6LAKgvsZsNDe=w1000-h750-no",
     "rating": 4.5,
     "review_count": 476,
     "verification_status": "UNVERIFIED",
@@ -5163,7 +5723,7 @@
     "latitude": 50.604360799999995,
     "longitude": 3.4153292,
     "phone": "069 22 12 38",
-    "website": null,
+    "website": "https://kebabstournai.be/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kebab%27s%20Tournai&query_place_id=ChIJsVUUxWHhwkcRCyXN1Oy7XUA",
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc7oa8B2o9ohR5yTpgInq7JV1E1Ans_SHNNZD_yeM7AcYFF-i6H7zlfcMKQhbKfBfoW-Zg794jUYDAnwhzUH-YUApCOM6rseKX4Uxg4U2pttWIL6rWfb5ueSayT8foUEWtLZLCgag=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc7oa8B2o9ohR5yTpgInq7JV1E1Ans_SHNNZD_yeM7AcYFF-i6H7zlfcMKQhbKfBfoW-Zg794jUYDAnwhzUH-YUApCOM6rseKX4Uxg4U2pttWIL6rWfb5ueSayT8foUEWtLZLCgag=w1000-h750-no",
@@ -9926,562 +10486,6 @@
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeWWN0CLKlncoGwphacZ7jv5XzDo6UwW2e2zx8GfkbWOJvLXeUfXPPvoMEPoHQhRs-PG60bBHJXxQvsW3-jUcBl9hJWIMQe39LMUHk2fbll00A28ZzC7TSDJHEWJXeZUlzudtxX1tfhdyo=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeWWN0CLKlncoGwphacZ7jv5XzDo6UwW2e2zx8GfkbWOJvLXeUfXPPvoMEPoHQhRs-PG60bBHJXxQvsW3-jUcBl9hJWIMQe39LMUHk2fbll00A28ZzC7TSDJHEWJXeZUlzudtxX1tfhdyo=w1000-h750-no",
     "source_query": "Fish restaurant in Tubize, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJX8tBQovJw0cRkJ-Nki1Uq-E",
-    "name": "Chez Pilato",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tubize",
-    "address": "Chez Pilato, Rue de la Déportation 155, 1480 Tubize",
-    "street": "Rue de la Déportation 155",
-    "postal_code": "1480",
-    "region": null,
-    "latitude": 50.6908187,
-    "longitude": 4.2114386999999995,
-    "phone": "02 355 57 85",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chez%20Pilato&query_place_id=ChIJX8tBQovJw0cRkJ-Nki1Uq-E",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "8 am–12:30 pm",
-        "1:30–6 pm"
-      ],
-      "Wednesday": [
-        "8 am–12:30 pm",
-        "1:30–6 pm"
-      ],
-      "Thursday": [
-        "8 am–12:30 pm",
-        "1:30–6 pm"
-      ],
-      "Friday": [
-        "8 am–12:30 pm",
-        "1:30–6 pm"
-      ],
-      "Saturday": [
-        "8 am–6 pm"
-      ],
-      "Sunday": [
-        "8 am–12 pm"
-      ]
-    },
-    "review_count": 349,
-    "rating": 4.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcHYN7tOE6g2I0nWoVI81TLwGHeKvqRE4ge1YkjKk-fUixCliso7Ma1tvaAmHhrb6mMiofM9GcWMLMZ-qn6ihn_lzmCLY5TpovqWFXjZVxKa0k7CL3TbuMbWaVb5inUgujtw3Q=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcHYN7tOE6g2I0nWoVI81TLwGHeKvqRE4ge1YkjKk-fUixCliso7Ma1tvaAmHhrb6mMiofM9GcWMLMZ-qn6ihn_lzmCLY5TpovqWFXjZVxKa0k7CL3TbuMbWaVb5inUgujtw3Q=w1000-h750-no",
-    "source_query": "Hypermarket in Tubize, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJLW-KuovJw0cRrbzy-6QF7DI",
-    "name": "Galerie Passage Champagne",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tubize",
-    "address": "Galerie Passage Champagne, Rue de la Déportation 61, 1480 Tubize",
-    "street": "Rue de la Déportation 61",
-    "postal_code": "1480",
-    "region": null,
-    "latitude": 50.692109599999995,
-    "longitude": 4.2084408,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Galerie%20Passage%20Champagne&query_place_id=ChIJLW-KuovJw0cRrbzy-6QF7DI",
-    "open_hours_json": {
-      "Monday": [
-        "8 am–8 pm"
-      ],
-      "Tuesday": [
-        "8 am–8 pm"
-      ],
-      "Wednesday": [
-        "8 am–8 pm"
-      ],
-      "Thursday": [
-        "8 am–8 pm"
-      ],
-      "Friday": [
-        "8 am–9 pm"
-      ],
-      "Saturday": [
-        "8 am–8 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 101,
-    "rating": 2.9,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeY7C67UG41Jy561wgxbZbogD5IMCsOOiGZTBwkH2d92RxlGcyau6_82yeErRkhNtkAtAnqDla3VKz2_QviVCNl8eeHrqkIOxrI3gHk2wcp3VwGU5VQAeXpI727e8m-o-jBqwnrSQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeY7C67UG41Jy561wgxbZbogD5IMCsOOiGZTBwkH2d92RxlGcyau6_82yeErRkhNtkAtAnqDla3VKz2_QviVCNl8eeHrqkIOxrI3gHk2wcp3VwGU5VQAeXpI727e8m-o-jBqwnrSQ=w1000-h750-no",
-    "source_query": "Hypermarket in Tubize, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJlXn_ZmzLw0cRenra1wWqLuw",
-    "name": "IHPO Tubize",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tubize",
-    "address": "IHPO Tubize, Chau. de Mons 311, 1480 Tubize",
-    "street": "Chau. de Mons 311",
-    "postal_code": "1480",
-    "region": null,
-    "latitude": 50.6836355,
-    "longitude": 4.193764799999999,
-    "phone": "02 883 08 00",
-    "website": "http://www.ihpo.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=IHPO%20Tubize&query_place_id=ChIJlXn_ZmzLw0cRenra1wWqLuw",
-    "open_hours_json": {
-      "Monday": [
-        "9:45 am–12:45 pm",
-        "1:45–6:30 pm"
-      ],
-      "Tuesday": [
-        "9:45 am–12:45 pm",
-        "1:45–6:30 pm"
-      ],
-      "Wednesday": [
-        "9:45 am–12:45 pm",
-        "1:45–6:30 pm"
-      ],
-      "Thursday": [
-        "9:45 am–12:45 pm",
-        "1:45–6:30 pm"
-      ],
-      "Friday": [
-        "9:45 am–12:45 pm",
-        "1:45–6:30 pm"
-      ],
-      "Saturday": [
-        "9:45 am–6:30 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 78,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdpW4uyJzw_4EIeMRzGjMcthzAKDMV9sos-sUS79HKn7pIi7GJyC4IvhcwtX3SjVehhrcIQ7GTMkcwvNlGYrcgDScsWETj2Rnpll8FbvrbTaGZNmpVc7dP9H6mk2cACFuc0eIm0yw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdpW4uyJzw_4EIeMRzGjMcthzAKDMV9sos-sUS79HKn7pIi7GJyC4IvhcwtX3SjVehhrcIQ7GTMkcwvNlGYrcgDScsWETj2Rnpll8FbvrbTaGZNmpVc7dP9H6mk2cACFuc0eIm0yw=w1000-h750-no",
-    "source_query": "Hypermarket in Tubize, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ6_odR_TJw0cRUjCgKWdViGc",
-    "name": "Il Mediterraneo",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tubize",
-    "address": "Il Mediterraneo, Rue des Frères Taymans 5, 1480 Tubize",
-    "street": "Rue des Frères Taymans 5",
-    "postal_code": "1480",
-    "region": null,
-    "latitude": 50.690093999999995,
-    "longitude": 4.2055168,
-    "phone": "02 355 40 87",
-    "website": "http://www.il-mediterraneo.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Il%20Mediterraneo&query_place_id=ChIJ6_odR_TJw0cRUjCgKWdViGc",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "12–2 pm",
-        "6:30–9 pm"
-      ],
-      "Wednesday": [
-        "12–2 pm"
-      ],
-      "Thursday": [
-        "12–2 pm",
-        "6:30–9 pm"
-      ],
-      "Friday": [
-        "12–2 pm",
-        "6:30–10 pm"
-      ],
-      "Saturday": [
-        "6:30–10 pm"
-      ],
-      "Sunday": [
-        "12–2 pm"
-      ]
-    },
-    "review_count": 428,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLewEzVpdvIs_UHZVluG2U_2VSF92bZM05tCbJn_XKIfLN2DBvRgLWx6_bWeOLeE-HWv6Tgox4AqapIjTKIxR145Qoz7Ox9W2FcnHA5C0QUyy8M-bYe16ZOGsKHNssL4dxwaC7cwwg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLewEzVpdvIs_UHZVluG2U_2VSF92bZM05tCbJn_XKIfLN2DBvRgLWx6_bWeOLeE-HWv6Tgox4AqapIjTKIxR145Qoz7Ox9W2FcnHA5C0QUyy8M-bYe16ZOGsKHNssL4dxwaC7cwwg=w1000-h750-no",
-    "source_query": "Fish restaurant in Tubize, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJP0AF-_PJw0cRrdmGYanWsXo",
-    "name": "Il Quadrifoglio",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tubize",
-    "address": "Il Quadrifoglio, Rue de Mons 7, 1480 Tubize",
-    "street": "Rue de Mons 7",
-    "postal_code": "1480",
-    "region": null,
-    "latitude": 50.69256,
-    "longitude": 4.2045069999999996,
-    "phone": "02 355 35 46",
-    "website": "https://www.il-quadrifoglio.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Il%20Quadrifoglio&query_place_id=ChIJP0AF-_PJw0cRrdmGYanWsXo",
-    "open_hours_json": {
-      "Monday": [
-        "12–2:30 pm",
-        "6:30–10 pm"
-      ],
-      "Tuesday": [
-        "12–2:30 pm",
-        "6:30–10 pm"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "12–2:30 pm",
-        "6:30–10 pm"
-      ],
-      "Friday": [
-        "12–2:30 pm",
-        "6:30–10 pm"
-      ],
-      "Saturday": [
-        "12–2:30 pm",
-        "6:30–10 pm"
-      ],
-      "Sunday": [
-        "12–2:30 pm",
-        "6:30–10 pm"
-      ]
-    },
-    "review_count": 749,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfoF0TpYyn24p1D0IoRFqIuVImxwECs5H29u0uw4jcN4JKCj92DK1VWK1eBwI21GdsVzSz8vlfjbbVqnNZbl1oQEWqYM0JYj5_k9H0pKCGPtvUnd6cwcK_L70lgYLcibNZ3_NVtMA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfoF0TpYyn24p1D0IoRFqIuVImxwECs5H29u0uw4jcN4JKCj92DK1VWK1eBwI21GdsVzSz8vlfjbbVqnNZbl1oQEWqYM0JYj5_k9H0pKCGPtvUnd6cwcK_L70lgYLcibNZ3_NVtMA=w1000-h750-no",
-    "source_query": "Fish restaurant in Tubize, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJGVc11CvKw0cR3WRWd2cZDDI",
-    "name": "Intermarché Clabecq",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tubize",
-    "address": "Intermarché Clabecq, Rue Raymond Piéret 1, 1480 Tubize",
-    "street": "Rue Raymond Piéret 1",
-    "postal_code": "1480",
-    "region": null,
-    "latitude": 50.6835163,
-    "longitude": 4.2280035,
-    "phone": "02 355 03 35",
-    "website": "https://www.intermarche.be/magasins/intermarche-clabecq/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Intermarch%C3%A9%20Clabecq&query_place_id=ChIJGVc11CvKw0cR3WRWd2cZDDI",
-    "open_hours_json": {
-      "Monday": [
-        "10 am–8 pm"
-      ],
-      "Tuesday": [
-        "8:30 am–8 pm"
-      ],
-      "Wednesday": [
-        "8:30 am–8 pm"
-      ],
-      "Thursday": [
-        "8:30 am–8 pm"
-      ],
-      "Friday": [
-        "8:30 am–8 pm"
-      ],
-      "Saturday": [
-        "8:30 am–8 pm"
-      ],
-      "Sunday": [
-        "8:30 am–7 pm"
-      ]
-    },
-    "review_count": 1453,
-    "rating": 3.9,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdL6oql51MPlyP-wjuFdPgP2vdVIpjEMBoxn82_mufcnFS3H1h66_2M6f87H38AH-C4liHBnSCgTP6eyQLbTzH6JZRkRBLNaRYPdj6pbdz19t4uIn-biwqLFx1vb8EeIEKGrF0zCA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdL6oql51MPlyP-wjuFdPgP2vdVIpjEMBoxn82_mufcnFS3H1h66_2M6f87H38AH-C4liHBnSCgTP6eyQLbTzH6JZRkRBLNaRYPdj6pbdz19t4uIn-biwqLFx1vb8EeIEKGrF0zCA=w1000-h750-no",
-    "source_query": "Hypermarket in Tubize, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJTzYgg3vJw0cR1CMDyTDgQU4",
-    "name": "Intermarché Tubize",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tubize",
-    "address": "Intermarché Tubize, Rue du Bailli 26, 1480 Tubize",
-    "street": "Rue du Bailli 26",
-    "postal_code": "1480",
-    "region": null,
-    "latitude": 50.694717999999995,
-    "longitude": 4.206669,
-    "phone": "02 355 30 26",
-    "website": "https://www.intermarche.be/magasins/intermarche-tubize/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Intermarch%C3%A9%20Tubize&query_place_id=ChIJTzYgg3vJw0cR1CMDyTDgQU4",
-    "open_hours_json": {
-      "Monday": [
-        "8:30 am–7 pm"
-      ],
-      "Tuesday": [
-        "8:30 am–7 pm"
-      ],
-      "Wednesday": [
-        "8:30 am–7 pm"
-      ],
-      "Thursday": [
-        "8:30 am–7 pm"
-      ],
-      "Friday": [
-        "8:30 am–7 pm"
-      ],
-      "Saturday": [
-        "8:30 am–7 pm"
-      ],
-      "Sunday": [
-        "8:30 am–7 pm"
-      ]
-    },
-    "review_count": 373,
-    "rating": 4.1,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeBgSh9eSy8Or54qTKe_H5j0M6BxpRFJwWYoZ4Uq2Nv7gektlfsgyeafBqo4_KhdcS_BP-ruxo4AtlTI_Evr4Cdlwp_xVf7_dyB-idaRidF4y2Zyml7R6_Az0J9uylk3HWuY6DF=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeBgSh9eSy8Or54qTKe_H5j0M6BxpRFJwWYoZ4Uq2Nv7gektlfsgyeafBqo4_KhdcS_BP-ruxo4AtlTI_Evr4Cdlwp_xVf7_dyB-idaRidF4y2Zyml7R6_Az0J9uylk3HWuY6DF=w1000-h750-no",
-    "source_query": "Hypermarket in Tubize, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJZ4_FAfTJw0cRYoMRuN09foo",
-    "name": "Knossos",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tubize",
-    "address": "Knossos, Rue de Mons 38, 1480 Tubize",
-    "street": "Rue de Mons 38",
-    "postal_code": "1480",
-    "region": null,
-    "latitude": 50.6917524,
-    "longitude": 4.2039912,
-    "phone": "02 355 80 60",
-    "website": "http://www.knossostubize.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Knossos&query_place_id=ChIJZ4_FAfTJw0cRYoMRuN09foo",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "12–2 pm",
-        "6:30–8:30 pm"
-      ],
-      "Thursday": [
-        "6:30–9 pm"
-      ],
-      "Friday": [
-        "12–1:30 pm",
-        "6:30–9 pm"
-      ],
-      "Saturday": [
-        "6:30–9 pm"
-      ],
-      "Sunday": [
-        "12–2 pm"
-      ]
-    },
-    "review_count": 351,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcNMn4p9OG0kSJHq2EHjpBhwdl43KK-lSIJlJuAooO09E_KBlwmHhE77Zq2zVY7M9iQbbK3paUto3P_MpxNNTCl70iIDlSG6vt4NKz_LOMJKwNytC83-d5-hdbEUCu-htYwn2zmXg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcNMn4p9OG0kSJHq2EHjpBhwdl43KK-lSIJlJuAooO09E_KBlwmHhE77Zq2zVY7M9iQbbK3paUto3P_MpxNNTCl70iIDlSG6vt4NKz_LOMJKwNytC83-d5-hdbEUCu-htYwn2zmXg=w1000-h750-no",
-    "source_query": "Fish restaurant in Tubize, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJiar2BhHKw0cRFNu0_xYl0tk",
-    "name": "L'Arsouille",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tubize",
-    "address": "L'Arsouille, Rue des Freres Lefort 399, 1480 Tubize",
-    "street": "Rue des Freres Lefort 399",
-    "postal_code": "1480",
-    "region": null,
-    "latitude": 50.6731687,
-    "longitude": 4.1981828,
-    "phone": "02 390 00 95",
-    "website": "https://www.facebook.com/LArsouille-mon-m-%C3%A0-moi-860079697424189/photos/?ref=page_internal",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=L%27Arsouille&query_place_id=ChIJiar2BhHKw0cRFNu0_xYl0tk",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "6–9 pm"
-      ],
-      "Thursday": [
-        "Closed"
-      ],
-      "Friday": [
-        "12–2:30 pm",
-        "6–9:30 pm"
-      ],
-      "Saturday": [
-        "12–2:30 pm",
-        "6–9:30 pm"
-      ],
-      "Sunday": [
-        "12–3 pm"
-      ]
-    },
-    "review_count": 225,
-    "rating": 4.5,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfFoIC6f82IkpLSgQRp7ClPK1bN2CzHX4CdDBmaZX4RDQ4_tNNPsutGuXvAkMR8nTV8D7vpTqF_QAYnYr9n1yze4rqdnsl2tmKPRwvaSvY_ePGFRbFgfpNEnVdyDrUi4HSjeT3Ewg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfFoIC6f82IkpLSgQRp7ClPK1bN2CzHX4CdDBmaZX4RDQ4_tNNPsutGuXvAkMR8nTV8D7vpTqF_QAYnYr9n1yze4rqdnsl2tmKPRwvaSvY_ePGFRbFgfpNEnVdyDrUi4HSjeT3Ewg=w1000-h750-no",
-    "source_query": "Fish restaurant in Tubize, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJGw3UvPbJw0cRkqgBPM2sigM",
-    "name": "L'Orchidée De Chine",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tubize",
-    "address": "L'Orchidée De Chine, Rue de Mons 66, 1480 Tubize",
-    "street": "Rue de Mons 66",
-    "postal_code": "1480",
-    "region": null,
-    "latitude": 50.6910197,
-    "longitude": 4.2032372,
-    "phone": "02 355 79 72",
-    "website": "http://www.lorchideedechine.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=L%27Orchid%C3%A9e%20De%20Chine&query_place_id=ChIJGw3UvPbJw0cRkqgBPM2sigM",
-    "open_hours_json": {
-      "Monday": [
-        "12–2:30 pm",
-        "6–10:30 pm"
-      ],
-      "Tuesday": [
-        "12–2:30 pm",
-        "6–10:30 pm"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "12–2:30 pm",
-        "6–10 pm"
-      ],
-      "Friday": [
-        "12–2:30 pm",
-        "6–10:30 pm"
-      ],
-      "Saturday": [
-        "12–2:30 pm",
-        "6–10:30 pm"
-      ],
-      "Sunday": [
-        "12–2:30 pm",
-        "6–10:30 pm"
-      ]
-    },
-    "review_count": 185,
-    "rating": 4.0,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLckCOyQ9-MEtZNck4LZUznX4vVeuA2BLywBPYrVYV-z7R-xXbXoTjNcBexfj2_6l33Qj0MndSOmGVweCZtfcIo_SfSbsh1fjhKbRhptJUGanTRJFnd_nzH_rWOqluQD3-Px9uNWUg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLckCOyQ9-MEtZNck4LZUznX4vVeuA2BLywBPYrVYV-z7R-xXbXoTjNcBexfj2_6l33Qj0MndSOmGVweCZtfcIo_SfSbsh1fjhKbRhptJUGanTRJFnd_nzH_rWOqluQD3-Px9uNWUg=w1000-h750-no",
-    "source_query": "Fish restaurant in Tubize, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJBQz6j_HJw0cR9aNnpSIBXos",
-    "name": "Le Marrakech",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tubize",
-    "address": "Le Marrakech, Rue de Bruxelles 50, 1480 Tubize",
-    "street": "Rue de Bruxelles 50",
-    "postal_code": "1480",
-    "region": null,
-    "latitude": 50.6952815,
-    "longitude": 4.203744599999999,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Marrakech&query_place_id=ChIJBQz6j_HJw0cR9aNnpSIBXos",
-    "open_hours_json": null,
-    "review_count": 0,
-    "rating": null,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fx1ue09SDoiPOofhmJg19w&cb_client=search.gws-prod.grass&w=80&h=92&yaw=278.53503&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fx1ue09SDoiPOofhmJg19w&cb_client=search.gws-prod.grass&w=80&h=92&yaw=278.53503&pitch=0&thumbfov=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Tubize, Wallonia, BE",
     "moderation_status": "approved",
     "is_active": true,
     "verification_status": "UNVERIFIED",
