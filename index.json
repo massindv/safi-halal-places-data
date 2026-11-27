@@ -22,11 +22,11 @@
     },
     "NL": {
       "name": "Netherlands",
-      "count": 3028,
+      "count": 3040,
       "total_shards": 13,
       "shards_dir": "shards/NL",
       "cities_file": "shards/NL/cities.json",
-      "updated_at": "2026-11-27T14:36:27.906022+00:00"
+      "updated_at": "2026-11-27T17:18:54.073861+00:00"
     },
     "FR": {
       "name": "France",
@@ -141,6 +141,6 @@
       "updated_at": "2026-11-27T16:44:10.593670+00:00"
     }
   },
-  "updated_at": "2026-11-27T17:06:20.825440+00:00",
-  "total_places": 40083
+  "updated_at": "2026-11-27T17:18:54.073861+00:00",
+  "total_places": 40095
 }
