@@ -1,395 +1,5 @@
 [
   {
-    "place_id": "ChIJk_BbI5Y7w0cRPe0dZpsX31g",
-    "name": "Supermarket Biedronka III",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Kuurne",
-    "address": "Supermarket Biedronka III, Brugsesteenweg 164, 8520 Kuurne",
-    "street": "Brugsesteenweg 164",
-    "postal_code": "8520",
-    "region": null,
-    "latitude": 50.8565578,
-    "longitude": 3.270618,
-    "phone": "056 41 53 73",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Supermarket%20Biedronka%20III&query_place_id=ChIJk_BbI5Y7w0cRPe0dZpsX31g",
-    "open_hours_json": {
-      "Monday": [
-        "10 am–8 pm"
-      ],
-      "Tuesday": [
-        "10 am–8 pm"
-      ],
-      "Wednesday": [
-        "10 am–8 pm"
-      ],
-      "Thursday": [
-        "9 am–8 pm"
-      ],
-      "Friday": [
-        "9 am–8 pm"
-      ],
-      "Saturday": [
-        "9 am–8 pm"
-      ],
-      "Sunday": [
-        "9 am–8 pm"
-      ]
-    },
-    "review_count": 502,
-    "rating": 4.4,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd9nqJcorrHv_X4QdtocCpUUZhzi1bcQvaDd7mGc3qq23ejlv9BVlv4M60KgohdnzEnwbMmHIM1Kzo-o5mstQ3pnJXtjsH336mCdHn-HJjTi4n5PbEbhlu-HLkHDoDPE_mnxS8=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd9nqJcorrHv_X4QdtocCpUUZhzi1bcQvaDd7mGc3qq23ejlv9BVlv4M60KgohdnzEnwbMmHIM1Kzo-o5mstQ3pnJXtjsH336mCdHn-HJjTi4n5PbEbhlu-HLkHDoDPE_mnxS8=w1000-h750-no",
-    "source_query": "Hypermarket in Kortrijk, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJi75Eh8vX3EcR9QUWtUOHZFk",
-    "name": "NAAN CRAFT",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "FR",
-    "country_code": "FR",
-    "city": "La Chapelle-d'Armentières",
-    "address": "NAAN CRAFT, 379 Rte Nationale, 59930 La Chapelle-d'Armentières, France",
-    "street": "379 Rte Nationale",
-    "postal_code": "59930",
-    "region": null,
-    "latitude": 50.6706192,
-    "longitude": 2.9034676999999998,
-    "phone": "+33 3 20 57 23 42",
-    "website": "http://naancraft.fr/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=NAAN%20CRAFT&query_place_id=ChIJi75Eh8vX3EcR9QUWtUOHZFk",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "11 am–3 pm",
-        "5:30 pm–12 am"
-      ],
-      "Wednesday": [
-        "11 am–3 pm",
-        "5:30 pm–12 am"
-      ],
-      "Thursday": [
-        "11 am–3 pm",
-        "5:30 pm–12 am"
-      ],
-      "Friday": [
-        "11 am–3 pm",
-        "5:30 pm–2 am"
-      ],
-      "Saturday": [
-        "11 am–3 pm",
-        "5:30 pm–2 am"
-      ],
-      "Sunday": [
-        "2 pm–12 am"
-      ]
-    },
-    "review_count": 213,
-    "rating": 4.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeFI6eH3NN_IEhhANXv72ljTJQZ-OWschjTf9W4dXoo0WMG_cC2DuRvJznyPvkJjlaHv4suJRvG7yO7mKz9YZNxapTOO8vQ7mx8jGfex2ILwshzrTbPmL7mGX6qUe8Hy0YnmDr54rohhTE=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeFI6eH3NN_IEhhANXv72ljTJQZ-OWschjTf9W4dXoo0WMG_cC2DuRvJznyPvkJjlaHv4suJRvG7yO7mKz9YZNxapTOO8vQ7mx8jGfex2ILwshzrTbPmL7mGX6qUe8Hy0YnmDr54rohhTE=w1000-h750-no",
-    "source_query": "Halal restaurant in Comines, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "VERIFIED",
-    "verification_evidence": "Explicit Halal keyword indicators in listing metadata"
-  },
-  {
-    "place_id": "ChIJkcUPSfnRw0cRFh5t5WaGU1M",
-    "name": "L'Epuisette - La Hulpe",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "La Hulpe",
-    "address": "L'Epuisette - La Hulpe, Rue des Combattants 83, 1310 La Hulpe",
-    "street": "Rue des Combattants 83",
-    "postal_code": "1310",
-    "region": null,
-    "latitude": 50.7309391,
-    "longitude": 4.4878057,
-    "phone": "02 315 86 55",
-    "website": "http://www.lepuisette.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=L%27Epuisette%20-%20La%20Hulpe&query_place_id=ChIJkcUPSfnRw0cRFh5t5WaGU1M",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "9:30 am–6:30 pm"
-      ],
-      "Wednesday": [
-        "9:30 am–6:30 pm"
-      ],
-      "Thursday": [
-        "9:30 am–6:30 pm"
-      ],
-      "Friday": [
-        "9:30 am–6:30 pm"
-      ],
-      "Saturday": [
-        "9:30 am–6:30 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 122,
-    "rating": 4.8,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf3d-H-uhKYEnrHmTsafMcndpb1CZHkRXW-t4ywO7uueIbmdo5hJuVGuVXuzLddC_3pp3MG9UARvbl5n7XU274yQjsgpONAt8zIRKT3Pswm0lBda8uerk8eo2XceoqbmTyWoWaW=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf3d-H-uhKYEnrHmTsafMcndpb1CZHkRXW-t4ywO7uueIbmdo5hJuVGuVXuzLddC_3pp3MG9UARvbl5n7XU274yQjsgpONAt8zIRKT3Pswm0lBda8uerk8eo2XceoqbmTyWoWaW=w1000-h750-no",
-    "source_query": "Fish restaurant in Wavreille, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ6cRvSwA3wkcRTyZ58P-7T20",
-    "name": "BFC La Louvière",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "La Louvière",
-    "address": "BFC La Louvière, Rue Albert 1 84, 7100 La Louvière",
-    "street": "Rue Albert 1 84",
-    "postal_code": "7100",
-    "region": null,
-    "latitude": 50.4753653,
-    "longitude": 4.1854162,
-    "phone": null,
-    "website": "http://www.bfcbelgium.com/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=BFC%20La%20Louvi%C3%A8re&query_place_id=ChIJ6cRvSwA3wkcRTyZ58P-7T20",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdrCFyZaOqnyqQMNFo2woktS32kLLPZ61sQPTmKvPCEpyn98uvh4qD-VFNR9h0J3RXxBL8MNKHmoNrVJVH5TFGaBqTbf87-JqOc6znadC9JW0XDXJ6ak-41GHjyaqX0t2DUzU9l=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdrCFyZaOqnyqQMNFo2woktS32kLLPZ61sQPTmKvPCEpyn98uvh4qD-VFNR9h0J3RXxBL8MNKHmoNrVJVH5TFGaBqTbf87-JqOc6znadC9JW0XDXJ6ak-41GHjyaqX0t2DUzU9l=w1000-h750-no",
-    "rating": 4.1,
-    "review_count": 180,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJcz1M57Y3wkcRbZ_MQ0fzC8w",
-    "name": "BIF La Louvière",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "La Louvière",
-    "address": "BIF La Louvière, Rue Anatole France 2, 7100 La Louvière",
-    "street": "Rue Anatole France 2",
-    "postal_code": "7100",
-    "region": null,
-    "latitude": 50.479229499999995,
-    "longitude": 4.186871099999999,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=BIF%20La%20Louvi%C3%A8re&query_place_id=ChIJcz1M57Y3wkcRbZ_MQ0fzC8w",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe6IMMmV5obx_NGpQoLpyAwHdWoaefGuzRcaKjPFduJscQT8Gap5liOB6uIxfbAAandZnSyreuVCz-qZoS7QIH349UdRKjeYU6jIsaI18jpW3Tfs9zavbpgPJeoQQ8RQGAgJpJW0w=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe6IMMmV5obx_NGpQoLpyAwHdWoaefGuzRcaKjPFduJscQT8Gap5liOB6uIxfbAAandZnSyreuVCz-qZoS7QIH349UdRKjeYU6jIsaI18jpW3Tfs9zavbpgPJeoQQ8RQGAgJpJW0w=w1000-h750-no",
-    "rating": 4.9,
-    "review_count": 7,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJc3Z7alU2wkcRabV9IPTx_wk",
-    "name": "Bella Calabria",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "La Louvière",
-    "address": "Bella Calabria, Rue de Longtain 1, 7100 La Louvière",
-    "street": "Rue de Longtain 1",
-    "postal_code": "7100",
-    "region": null,
-    "latitude": 50.480682599999994,
-    "longitude": 4.2019781,
-    "phone": "0470 10 14 65",
-    "website": "http://www.bellacalabria.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bella%20Calabria&query_place_id=ChIJc3Z7alU2wkcRabV9IPTx_wk",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "5:45–10 pm"
-      ],
-      "Thursday": [
-        "5:45–10 pm"
-      ],
-      "Friday": [
-        "5:45–10:30 pm"
-      ],
-      "Saturday": [
-        "5:45–10:30 pm"
-      ],
-      "Sunday": [
-        "5:45–10 pm"
-      ]
-    },
-    "review_count": 308,
-    "rating": 4.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLctU4FPM4eZ6dAG3Op-rjHfglX9qiUsa0Oi6uBO0JDkOjZi6TJU1E9je9EvpgTd5KnDqMWgWcg1D_ghKdPT6e05mbY7Ko9lIbHLhWvoHe_fYH2bOCMJzvSPoupzzCNKEdbDnPw2=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLctU4FPM4eZ6dAG3Op-rjHfglX9qiUsa0Oi6uBO0JDkOjZi6TJU1E9je9EvpgTd5KnDqMWgWcg1D_ghKdPT6e05mbY7Ko9lIbHLhWvoHe_fYH2bOCMJzvSPoupzzCNKEdbDnPw2=w1000-h750-no",
-    "source_query": "Fish restaurant in La Louvière, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ06zgolI2wkcRzS0Jq3bQCSQ",
-    "name": "Bispo Dos Santos / Valmiro",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "La Louvière",
-    "address": "Bispo Dos Santos / Valmiro, Rue Louis de Brouckère 97, 7100 La Louvière",
-    "street": "Rue Louis de Brouckère 97",
-    "postal_code": "7100",
-    "region": null,
-    "latitude": 50.480429699999995,
-    "longitude": 4.1911232,
-    "phone": "0498 61 17 14",
-    "website": "https://m.facebook.com/pages/Valmiro-De-Bahia/113504738787001",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bispo%20Dos%20Santos%20%2F%20Valmiro&query_place_id=ChIJ06zgolI2wkcRzS0Jq3bQCSQ",
-    "open_hours_json": {
-      "Monday": [
-        "12–3 pm",
-        "6:30–11 pm"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "12–3 pm",
-        "6:30–11 pm"
-      ],
-      "Thursday": [
-        "12–3 pm",
-        "6:30–11 pm"
-      ],
-      "Friday": [
-        "12–3 pm",
-        "6:30–11 pm"
-      ],
-      "Saturday": [
-        "6:30–11 pm"
-      ],
-      "Sunday": [
-        "12–3 pm",
-        "6:30–11 pm"
-      ]
-    },
-    "review_count": 324,
-    "rating": 4.5,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf7oBoUCO5WHc0N5Kll93MDz54YH4Z3dzl65AYrsTshx94ltMh1wuj_386BMn2KvnuajhjywpC8EmKdtT5gSQuBTwbT6B4JsUDmPiuMlHOZEy8PzUU8yNpmZOvK5kIPG9lIabEo=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf7oBoUCO5WHc0N5Kll93MDz54YH4Z3dzl65AYrsTshx94ltMh1wuj_386BMn2KvnuajhjywpC8EmKdtT5gSQuBTwbT6B4JsUDmPiuMlHOZEy8PzUU8yNpmZOvK5kIPG9lIabEo=w1000-h750-no",
-    "source_query": "Fish restaurant in La Louvière, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJvzaPajM3wkcRedo1nTqhZ2s",
-    "name": "Black & White Burger La Louvière",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "La Louvière",
-    "address": "Black & White Burger La Louvière, Rue Sylvain Guyaux 26, 7100 La Louvière",
-    "street": "Rue Sylvain Guyaux 26",
-    "postal_code": "7100",
-    "region": null,
-    "latitude": 50.4752754,
-    "longitude": 4.185795199999999,
-    "phone": null,
-    "website": "https://restaurants.bnwburger.com/la-louviere-centre-ville/?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Black%20%26%20White%20Burger%20La%20Louvi%C3%A8re&query_place_id=ChIJvzaPajM3wkcRedo1nTqhZ2s",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcsycKmAZXLaNo5x8z1-WS5waQdm_wLCNX-5HJEHmsuZvVrkNiy30f_PglLg9zInkIPmqAubQM_kByXKfDOzQyMV4hoq7MPma7MwtzSVB3LJUkjL2nSKCYX8hNC7NibH_eV7Yw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcsycKmAZXLaNo5x8z1-WS5waQdm_wLCNX-5HJEHmsuZvVrkNiy30f_PglLg9zInkIPmqAubQM_kByXKfDOzQyMV4hoq7MPma7MwtzSVB3LJUkjL2nSKCYX8hNC7NibH_eV7Yw=w1000-h750-no",
-    "rating": null,
-    "review_count": 0,
-    "verification_status": "VERIFIED",
-    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJNZOb6lI3wkcR6iJIt17ZwL8",
-    "name": "CHEFDAG Cora La Louviere | Fried Chicken & More",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "La Louvière",
-    "address": "CHEFDAG Cora La Louviere | Fried Chicken & More, CORA Rue de la Franco-Belge, 228 bte 400 Belçika, 7100 La Louvière",
-    "street": "CORA Rue de la Franco-Belge, 228 bte 400 Belçika",
-    "postal_code": "7100",
-    "region": null,
-    "latitude": 50.485342499999994,
-    "longitude": 4.2032619,
-    "phone": "0486 13 21 38",
-    "website": "https://chefdag.com/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=CHEFDAG%20Cora%20La%20Louviere%20%7C%20Fried%20Chicken%20%26%20More&query_place_id=ChIJNZOb6lI3wkcR6iJIt17ZwL8",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd89rtozXjV7K8mbRldT-4mcGHn4IshGx1ttoeaxaJwgYeL7MoqMVRHIz5i7AD-mJSml7zzSynzqSqkOK80Bq_lD0R0zYhfnYNmaF_8L-Kf1nxkyme9rK5ll7xkOEl4u38c5s1gqw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd89rtozXjV7K8mbRldT-4mcGHn4IshGx1ttoeaxaJwgYeL7MoqMVRHIz5i7AD-mJSml7zzSynzqSqkOK80Bq_lD0R0zYhfnYNmaF_8L-Kf1nxkyme9rK5ll7xkOEl4u38c5s1gqw=w1000-h750-no",
-    "rating": 3.5,
-    "review_count": 119,
-    "verification_status": "VERIFIED",
-    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJCaKA5bM3wkcRpab_4z-WfQw",
-    "name": "Cappadoce Pitta sprl",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "La Louvière",
-    "address": "Cappadoce Pitta sprl, Rue Sylvain Guyaux 31, 7100 La Louvière",
-    "street": "Rue Sylvain Guyaux 31",
-    "postal_code": "7100",
-    "region": null,
-    "latitude": 50.475331499999996,
-    "longitude": 4.1851962,
-    "phone": "064 26 46 26",
-    "website": "https://pittacappacadoce.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cappadoce%20Pitta%20sprl&query_place_id=ChIJCaKA5bM3wkcRpab_4z-WfQw",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfHZrgFi7HvIyvzbYF5q6gXLHHxww_OW0aHp3SPH-ofwTdnECpRuHC9xckcYLlOYDmlYEm1GVsWI_qAuk7kVQFcnOGWae320HFOwCicktYZcjRdzqoGHVv3LH2yKVeoCXG4AHlXuQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfHZrgFi7HvIyvzbYF5q6gXLHHxww_OW0aHp3SPH-ofwTdnECpRuHC9xckcYLlOYDmlYEm1GVsWI_qAuk7kVQFcnOGWae320HFOwCicktYZcjRdzqoGHVv3LH2yKVeoCXG4AHlXuQ=w1000-h750-no",
-    "rating": 3.7,
-    "review_count": 433,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
     "place_id": "ChIJpR0EzR83wkcRNLoQF-Z0wbQ",
     "name": "Chick & Cheez La Louvière",
     "type": "restaurant",
@@ -406,8 +16,8 @@
     "phone": "064 45 02 06",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chick%20%26%20Cheez%20La%20Louvi%C3%A8re&query_place_id=ChIJpR0EzR83wkcRNLoQF-Z0wbQ",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfQlk1xz_4VRC4EFsdz45SFiEewL_qYLrXPFP010nYmOIgG_NNd1JXnyqYJliDisqwuruACbh6LwW_VspmaK2TzjfvNzIQSKXjSYnTH25aEfPz3BYDFsYzhWF8bcKfj40_Q_q-NhQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfQlk1xz_4VRC4EFsdz45SFiEewL_qYLrXPFP010nYmOIgG_NNd1JXnyqYJliDisqwuruACbh6LwW_VspmaK2TzjfvNzIQSKXjSYnTH25aEfPz3BYDFsYzhWF8bcKfj40_Q_q-NhQ=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcz9fhJYy80C5MQlumYa7Ht7j7QAMUj2LgOEbwTYfiiN5RyuJEoTRFGHrvn91ocaTgBeYgYkwNbabdJkWFsZ_o7xFSBeMPCIZp_vm_pjPSWc46Or3zVSeroYg0bBx7VG_UP5AMBEw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcz9fhJYy80C5MQlumYa7Ht7j7QAMUj2LgOEbwTYfiiN5RyuJEoTRFGHrvn91ocaTgBeYgYkwNbabdJkWFsZ_o7xFSBeMPCIZp_vm_pjPSWc46Or3zVSeroYg0bBx7VG_UP5AMBEw=w1000-h750-no",
     "rating": 3.1,
     "review_count": 45,
     "verification_status": "UNVERIFIED",
@@ -547,6 +157,32 @@
     "is_active": true,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJK_gge6g3wkcRG2bFxBj9Q54",
+    "name": "Côte 100 Os",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "La Louvière",
+    "address": "Côte 100 Os, Rue Sylvain Guyaux 61, 7100 La Louvière",
+    "street": "Rue Sylvain Guyaux 61",
+    "postal_code": "7100",
+    "region": null,
+    "latitude": 50.475784399999995,
+    "longitude": 4.1832427999999995,
+    "phone": "0470 13 77 66",
+    "website": "http://instagram.com/cote100os",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=C%C3%B4te%20100%20Os&query_place_id=ChIJK_gge6g3wkcRG2bFxBj9Q54",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLczUtkrJRbkvinMFSnTlZH4r16BCV15dL09zaD-YKYppm2PC2nGPOR2a1sa05_gGSOncAcAioKvTi_ts8ZLt7ieSl2px2lKKz8q2BjEs_NOpOO2fDBE6WKGegbE1sqXAv7_t35q=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLczUtkrJRbkvinMFSnTlZH4r16BCV15dL09zaD-YKYppm2PC2nGPOR2a1sa05_gGSOncAcAioKvTi_ts8ZLt7ieSl2px2lKKz8q2BjEs_NOpOO2fDBE6WKGegbE1sqXAv7_t35q=w1000-h750-no",
+    "rating": 4.5,
+    "review_count": 30,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
   },
   {
     "place_id": "ChIJKzSl29Y3wkcR2G1xXEhS-aE",
@@ -811,6 +447,32 @@
     "moderation_status": "approved"
   },
   {
+    "place_id": "ChIJiYxo-Ks3wkcRk0GaQrPKacY",
+    "name": "L.D.M. Boucherie",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "La Louvière",
+    "address": "L.D.M. Boucherie, Av. de Wallonie 6, 7100 La Louvière",
+    "street": "Av. de Wallonie 6",
+    "postal_code": "7100",
+    "region": null,
+    "latitude": 50.482755499999996,
+    "longitude": 4.1974835,
+    "phone": "064 84 80 83",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=L.D.M.%20Boucherie&query_place_id=ChIJiYxo-Ks3wkcRk0GaQrPKacY",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdZkwlgiRqCuIdzN-yyH2pXu2nQ9iDg6fu_F7fj9dihAbkPpbcbWzovuczTQSASfe7VinkvvV3PRrBJMFhSg5-xav1dpo1B07GnbKxKOrxIYdUeWXthd_v1f1A-h9CBahcIbVDaWvPzhemL=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdZkwlgiRqCuIdzN-yyH2pXu2nQ9iDg6fu_F7fj9dihAbkPpbcbWzovuczTQSASfe7VinkvvV3PRrBJMFhSg5-xav1dpo1B07GnbKxKOrxIYdUeWXthd_v1f1A-h9CBahcIbVDaWvPzhemL=w1000-h750-no",
+    "rating": 4.8,
+    "review_count": 13,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
     "place_id": "ChIJM5WrZUE3wkcRm2XuW630H6w",
     "name": "La Couscoussière",
     "type": "restaurant",
@@ -827,8 +489,8 @@
     "phone": "064 26 63 73",
     "website": "http://www.lacouscoussiere.net/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Couscoussi%C3%A8re&query_place_id=ChIJM5WrZUE3wkcRm2XuW630H6w",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeFt0uNmDxTue28iDF3fTQ4BWambz73N8AaMRHFTTeUy8Cd_JJnSIqc-IAlzQmXaptwKCBwEoZ_AftYrgyiO__BFMmMxUfMjWaeatJyVBddKgd7mZML0v3zZ2zrRoWyrN08KKXAPA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeFt0uNmDxTue28iDF3fTQ4BWambz73N8AaMRHFTTeUy8Cd_JJnSIqc-IAlzQmXaptwKCBwEoZ_AftYrgyiO__BFMmMxUfMjWaeatJyVBddKgd7mZML0v3zZ2zrRoWyrN08KKXAPA=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdX6W8i4Z22e3e2-zqo54mgJ8dGLkEFmUX4Jvpzb_HlEOuuQiqKxamXrwnKqQd-BCl6k0ceTzqVUc761fvaladCoBJO7LJpw4obXCJOkqGSG2c8I0kX7rdxtxf2asVoUq_8S1r3uw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdX6W8i4Z22e3e2-zqo54mgJ8dGLkEFmUX4Jvpzb_HlEOuuQiqKxamXrwnKqQd-BCl6k0ceTzqVUc761fvaladCoBJO7LJpw4obXCJOkqGSG2c8I0kX7rdxtxf2asVoUq_8S1r3uw=w1000-h750-no",
     "rating": 3.7,
     "review_count": 64,
     "verification_status": "UNVERIFIED",
@@ -1167,10 +829,10 @@
     "phone": "064 21 43 27",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Xalkis&query_place_id=ChIJncWMO7M3wkcRpSrxl-edXlw",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcU9BWEfX-bB8nfuCr3R9Y8I5g44LiKOdsL7rZE159QBYl2A9QuqwxfKwLzxJxvBDOf5tHWwsc8y0NknLS6d3z5bYSsd1ViFs8_ArhTStcgaGQkwlNj94T-nDkrKmTp-_dQJCN6DQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcU9BWEfX-bB8nfuCr3R9Y8I5g44LiKOdsL7rZE159QBYl2A9QuqwxfKwLzxJxvBDOf5tHWwsc8y0NknLS6d3z5bYSsd1ViFs8_ArhTStcgaGQkwlNj94T-nDkrKmTp-_dQJCN6DQ=w1000-h750-no",
-    "rating": null,
-    "review_count": 0,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf4I7fm-sBPxvFU_qjG7UDai5jAMG7cJzqnC4mG4i2DUtEmRsSf9QioGOcvdOHUiHz8ssUZHVxAHrlZ_1Q73s2Y4L5h2nXgiryzQne9yOrqOWlgg47tKQaTp-WNOngSXG4E3x1SOw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf4I7fm-sBPxvFU_qjG7UDai5jAMG7cJzqnC4mG4i2DUtEmRsSf9QioGOcvdOHUiHz8ssUZHVxAHrlZ_1Q73s2Y4L5h2nXgiryzQne9yOrqOWlgg47tKQaTp-WNOngSXG4E3x1SOw=w1000-h750-no",
+    "rating": 4.3,
+    "review_count": 832,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null,
     "is_active": true,
@@ -1325,8 +987,8 @@
     "phone": "0470 13 93 22",
     "website": "https://meknes-food.businessbooster.website/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Meknes%20Food&query_place_id=ChIJmazv5D03wkcRw2EOvusO87U",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfF_I4p2Og8QKmyzGxF4PF446kJSMPD4hU11t41fHBCYEnqWfwMiWfnGccwfBP3Rsr-7H7EQer7dUr59gYOureeHN2cSniFtbkUlCKL7HzROoyqaBDbif4Dhu3s0ue-69gpSJJS=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfF_I4p2Og8QKmyzGxF4PF446kJSMPD4hU11t41fHBCYEnqWfwMiWfnGccwfBP3Rsr-7H7EQer7dUr59gYOureeHN2cSniFtbkUlCKL7HzROoyqaBDbif4Dhu3s0ue-69gpSJJS=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdif-G2HcrvGbOgtCdkZjpQieF2uUxENmpQVJPJPDCP0VkJ1ck-2clbuwBx-j0dbDVV_KCGjqrKieIUfoczQ_XZuXe2iRUvc6nK0EJ611VHDrbCrXkNz2ez8Qf2OTJZPOWffxMI=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdif-G2HcrvGbOgtCdkZjpQieF2uUxENmpQVJPJPDCP0VkJ1ck-2clbuwBx-j0dbDVV_KCGjqrKieIUfoczQ_XZuXe2iRUvc6nK0EJ611VHDrbCrXkNz2ez8Qf2OTJZPOWffxMI=w1000-h750-no",
     "rating": 4.5,
     "review_count": 8,
     "verification_status": "VERIFIED",
@@ -1563,8 +1225,8 @@
     "phone": "0484 06 85 86",
     "website": "https://yellow.pages.wwwcafe.de/pitta-keko/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pitta%20Keko%20-%20La%20Louvi%C3%A8re&query_place_id=ChIJv7yLqLM3wkcRUlArwRX7dFw",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcZbk46wsDX0KdWh-nOabiLTX2AZdjXUcsYBwHZnnVhC47_2iNQPhOJ3n-KklQvGjbls9FxqKYv6TQYuvHBmqvXxHvvspOTPL74nYm74Hx2eYDAYCa9YhLg4Wa4EsUjNgt3T9vx=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcZbk46wsDX0KdWh-nOabiLTX2AZdjXUcsYBwHZnnVhC47_2iNQPhOJ3n-KklQvGjbls9FxqKYv6TQYuvHBmqvXxHvvspOTPL74nYm74Hx2eYDAYCa9YhLg4Wa4EsUjNgt3T9vx=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLei7z_xPD6uydFl3xW2dQsCTG7ScGeMZ_bVKPsamHSQCOkKALRArD4KIAeSfFpEo2x1kPKgpUL_Xx9X9DcOtuyKOlD427lxX9U3nLIVEylBFjLn-rFTCFZRw9uRpFJzk9wZckGt=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLei7z_xPD6uydFl3xW2dQsCTG7ScGeMZ_bVKPsamHSQCOkKALRArD4KIAeSfFpEo2x1kPKgpUL_Xx9X9DcOtuyKOlD427lxX9U3nLIVEylBFjLn-rFTCFZRw9uRpFJzk9wZckGt=w1000-h750-no",
     "rating": 4.4,
     "review_count": 225,
     "verification_status": "UNVERIFIED",
@@ -1931,6 +1593,32 @@
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcLWNeMPrr8qjLiGzMBYYLR7iixJMvTWHLnL41pfUfeBmI8LkDiLszK1Io4xBroMp76hvDRPyjhEmVzJk0QkHX2HqEA1d440prnKIenD_198YtaXTmSb2hHvh0s9QrJWXh1wd9W=w1000-h750-no",
     "rating": 4.0,
     "review_count": 8,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJDxco3v43wkcRrC4yMllWtEo",
+    "name": "Supermarché Assima",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "La Louvière",
+    "address": "Supermarché Assima, Rue Kéramis 56, 7100 La Louvière",
+    "street": "Rue Kéramis 56",
+    "postal_code": "7100",
+    "region": null,
+    "latitude": 50.476616899999996,
+    "longitude": 4.1842044,
+    "phone": "064 38 26 92",
+    "website": "https://www.facebook.com/supermarche.assima",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Supermarch%C3%A9%20Assima&query_place_id=ChIJDxco3v43wkcRrC4yMllWtEo",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfXtY27k0cZ4rtdbrMSn6HztPhtRSJseAK6nOUcg5pVKJhL3_IajH1ZhUM2-D_LbXooagjcQj8u2Kuk83bcbOrzJxCsh7qZ-NvsHEMNQFUyOSuEV3Xsq7Tbc-WFJnvdaGXiNOI=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfXtY27k0cZ4rtdbrMSn6HztPhtRSJseAK6nOUcg5pVKJhL3_IajH1ZhUM2-D_LbXooagjcQj8u2Kuk83bcbOrzJxCsh7qZ-NvsHEMNQFUyOSuEV3Xsq7Tbc-WFJnvdaGXiNOI=w1000-h750-no",
+    "rating": 4.2,
+    "review_count": 120,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null,
     "is_active": true,
@@ -7795,32 +7483,6 @@
     "moderation_status": "approved"
   },
   {
-    "place_id": "ChIJZQzEYdBhwUcRexCYig8ffw0",
-    "name": "Al Taj",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Leuven",
-    "address": "Al Taj, Kolonel Begaultlaan 3, 3012 Leuven",
-    "street": "Kolonel Begaultlaan 3",
-    "postal_code": "3012",
-    "region": null,
-    "latitude": 50.889218,
-    "longitude": 4.7059128999999995,
-    "phone": "016 56 52 07",
-    "website": "https://m.facebook.com/pages/category/Supermarket/ALTAJ-Supermarket-294029654635878/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Taj&query_place_id=ChIJZQzEYdBhwUcRexCYig8ffw0",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcFizz--b5QUZIjMpU_eqRifCD7fkUqte3GrLZdBvaRKVtP4jCw_Fjh8hbGcyfRDMXS54f7O7Tdgky1uF0tFLFWDp21K96qm1gLGye9oxc_XS9iZfDECJ-8y21ZJPlcUkBDpFoV2A=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcFizz--b5QUZIjMpU_eqRifCD7fkUqte3GrLZdBvaRKVtP4jCw_Fjh8hbGcyfRDMXS54f7O7Tdgky1uF0tFLFWDp21K96qm1gLGye9oxc_XS9iZfDECJ-8y21ZJPlcUkBDpFoV2A=w1000-h750-no",
-    "rating": 4.1,
-    "review_count": 638,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
     "place_id": "ChIJmTk9rdlgwUcR8u0Ls72sJ-o",
     "name": "Ali Baba",
     "type": "restaurant",
@@ -7875,32 +7537,6 @@
     "is_active": true,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJO2gXZN5gwUcRwmQH1ffFAGI",
-    "name": "Amin & Co Halal",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Leuven",
-    "address": "Amin & Co Halal, Brusselsestraat 148, 3000 Leuven",
-    "street": "Brusselsestraat 148",
-    "postal_code": "3000",
-    "region": null,
-    "latitude": 50.880736399999996,
-    "longitude": 4.6930017,
-    "phone": "0489 33 43 25",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Amin%20%26%20Co%20Halal&query_place_id=ChIJO2gXZN5gwUcRwmQH1ffFAGI",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf-hbGHPmAQdN14PIUVqdXGgZI13mjsZfNE_7dEhGeBFSZmrW0fhf1cGJREM94i8W_9WGr6Ir7P-qUxTEJWQJKPbNHweBBDa0p4F2gc4JtX4mD8_b8PDvp83wmTbRqsAClcbVLk=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf-hbGHPmAQdN14PIUVqdXGgZI13mjsZfNE_7dEhGeBFSZmrW0fhf1cGJREM94i8W_9WGr6Ir7P-qUxTEJWQJKPbNHweBBDa0p4F2gc4JtX4mD8_b8PDvp83wmTbRqsAClcbVLk=w1000-h750-no",
-    "rating": 4.8,
-    "review_count": 5,
-    "verification_status": "VERIFIED",
-    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
-    "is_active": true,
-    "moderation_status": "approved"
   },
   {
     "place_id": "ChIJgawzuyVhwUcRsa9HsznaSNw",
@@ -8295,32 +7931,6 @@
     "is_active": true,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJOwRlrNVgwUcR3W7-4AO-39M",
-    "name": "Beenhouwerij Mediterranee",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Leuven",
-    "address": "Beenhouwerij Mediterranee, Maria Theresiastraat 45, 3000 Leuven",
-    "street": "Maria Theresiastraat 45",
-    "postal_code": "3000",
-    "region": null,
-    "latitude": 50.8781228,
-    "longitude": 4.7114883,
-    "phone": "0479 57 74 96",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Beenhouwerij%20Mediterranee&query_place_id=ChIJOwRlrNVgwUcR3W7-4AO-39M",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfGMmLFnRaltqI5EEL2FMYBHXPrptiqtsfmiDfS1GdA6I8AJyEue9x02LDvlcNafAzezWJeW8kBQseQQHPCCk0O2LPdZHykWjijEvLUkryVWHwkWceblP8fQlqWX5zeDoFOkamieg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfGMmLFnRaltqI5EEL2FMYBHXPrptiqtsfmiDfS1GdA6I8AJyEue9x02LDvlcNafAzezWJeW8kBQseQQHPCCk0O2LPdZHykWjijEvLUkryVWHwkWceblP8fQlqWX5zeDoFOkamieg=w1000-h750-no",
-    "rating": 4.6,
-    "review_count": 53,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
   },
   {
     "place_id": "ChIJdU0y8zphwUcRTx8CCbXRiEs",
@@ -10266,32 +9876,6 @@
     "verification_evidence": null
   },
   {
-    "place_id": "ChIJ-5bzid5gwUcRztzJ803Rnak",
-    "name": "Fontein Slagerij",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Leuven",
-    "address": "Fontein Slagerij, Tessenstraat 1b, 3000 Leuven",
-    "street": "Tessenstraat 1b",
-    "postal_code": "3000",
-    "region": null,
-    "latitude": 50.8809896,
-    "longitude": 4.6933036,
-    "phone": "0472 81 24 00",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Fontein%20Slagerij&query_place_id=ChIJ-5bzid5gwUcRztzJ803Rnak",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdczTBfi706Oc3_Po-E1njq6kg1L8uMSf_uAD-vFHv4OLvGiP_RyAjuMKHdWqE_rgnD4pAeOmn0DOSgLY9crxLKKnPk3vebGYBV6T3eP9pjSpHIl8iFGqhB3nBaVfhTnRvE7kzMDA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdczTBfi706Oc3_Po-E1njq6kg1L8uMSf_uAD-vFHv4OLvGiP_RyAjuMKHdWqE_rgnD4pAeOmn0DOSgLY9crxLKKnPk3vebGYBV6T3eP9pjSpHIl8iFGqhB3nBaVfhTnRvE7kzMDA=w1000-h750-no",
-    "rating": 4.2,
-    "review_count": 16,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
     "place_id": "ChIJD0Et_TNhwUcRPYYp9NkTqsQ",
     "name": "Fuji Sushi",
     "type": "restaurant",
@@ -10517,8 +10101,452 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Grill%26Service&query_place_id=ChIJFQw09YBhwUcR9Sf3dIYDhJE",
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeYY4lry_HEAkC7DMXBrEtm75o2xFJHq5GSTIIN7lS1z0nAPpp5qyf8dNE8SYLXL7vOHHojDZyE22_64ZKEpJbRBIJS5fuTEsIyyJuYXfzyDSaqimeucXXnO7_smB65oAJlYVs=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeYY4lry_HEAkC7DMXBrEtm75o2xFJHq5GSTIIN7lS1z0nAPpp5qyf8dNE8SYLXL7vOHHojDZyE22_64ZKEpJbRBIJS5fuTEsIyyJuYXfzyDSaqimeucXXnO7_smB65oAJlYVs=w1000-h750-no",
-    "rating": 4.2,
-    "review_count": 170,
+    "rating": null,
+    "review_count": 0,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJO4Lr5qBhwUcRuIRb4okKyqI",
+    "name": "Groepspraktijk HAES - Leuven",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Leuven",
+    "address": "Groepspraktijk HAES - Leuven, Vaartstraat 70, 3000 Leuven",
+    "street": "Vaartstraat 70",
+    "postal_code": "3000",
+    "region": null,
+    "latitude": 50.884060999999996,
+    "longitude": 4.7011009,
+    "phone": "0471 71 09 62",
+    "website": "http://praktijkhaes.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Groepspraktijk%20HAES%20-%20Leuven&query_place_id=ChIJO4Lr5qBhwUcRuIRb4okKyqI",
+    "open_hours_json": null,
+    "review_count": 4,
+    "rating": 5.0,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcFL_ig5OfyQn1EtaTmCcYg_W6YszCRsQfH-novlEk1XydLmPu66sLVNXlDE_ySQD7X5ubonIS9x1K7YBb-dWBs0wWkcCIedjkiySTZH2-Ri2YFaxg1wtiLSJdIhTvxKVOj1gFVM-3Y0oaw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcFL_ig5OfyQn1EtaTmCcYg_W6YszCRsQfH-novlEk1XydLmPu66sLVNXlDE_ySQD7X5ubonIS9x1K7YBb-dWBs0wWkcCIedjkiySTZH2-Ri2YFaxg1wtiLSJdIhTvxKVOj1gFVM-3Y0oaw=w1000-h750-no",
+    "source_query": "Pharmacy in Leuven, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJjS-6TgBhwUcRukNNdor-Mro",
+    "name": "H Foods Leuven 华润超市",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Leuven",
+    "address": "H Foods Leuven 华润超市, Brusselsestraat 118a, 3000 Leuven",
+    "street": "Brusselsestraat 118a",
+    "postal_code": "3000",
+    "region": null,
+    "latitude": 50.8805833,
+    "longitude": 4.6950813,
+    "phone": "016 89 88 30",
+    "website": "https://www.hfoods.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=H%20Foods%20Leuven%20%E5%8D%8E%E6%B6%A6%E8%B6%85%E5%B8%82&query_place_id=ChIJjS-6TgBhwUcRukNNdor-Mro",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "10 am–7 pm"
+      ],
+      "Wednesday": [
+        "10 am–7 pm"
+      ],
+      "Thursday": [
+        "10 am–7 pm"
+      ],
+      "Friday": [
+        "10 am–7 pm"
+      ],
+      "Saturday": [
+        "10 am–7 pm"
+      ],
+      "Sunday": [
+        "1–7 pm"
+      ]
+    },
+    "review_count": 69,
+    "rating": 4.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcm5DsBzqLgSj5mr6X6nRQbbvdyESaKgmZAug4Bb_uzUcwKTyScoFXJMP4w6LyrwLUkyotVgd3Zb7kiYhQ1t6kQQw5o9GLuNu62SxXVQUcbmO3m4Q5JCs_h8dpMN5LmLnES0pk=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcm5DsBzqLgSj5mr6X6nRQbbvdyESaKgmZAug4Bb_uzUcwKTyScoFXJMP4w6LyrwLUkyotVgd3Zb7kiYhQ1t6kQQw5o9GLuNu62SxXVQUcbmO3m4Q5JCs_h8dpMN5LmLnES0pk=w1000-h750-no",
+    "source_query": "Hypermarket in Leuven, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ4SaXQMphwUcRA_sxbSmQFdA",
+    "name": "Habibi",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Leuven",
+    "address": "Habibi, Diestsestraat 128, 3000 Leuven",
+    "street": "Diestsestraat 128",
+    "postal_code": "3000",
+    "region": null,
+    "latitude": 50.8811609,
+    "longitude": 4.7088779,
+    "phone": "0488 79 75 35",
+    "website": "https://www.habibi-leuven.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Habibi&query_place_id=ChIJ4SaXQMphwUcRA_sxbSmQFdA",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfT39dnUrqU-yFwj55FolK8apuZwKzlqLIq4kicbLKZtICjzUSM47bKV-vSE_7W8OFoFuiNHJXqAfGaMZk59M1_eqAAyDSvKMuyh3mJ6y6dZgOEPdzOgyILJKQL3k2yhunS8u4lVw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfT39dnUrqU-yFwj55FolK8apuZwKzlqLIq4kicbLKZtICjzUSM47bKV-vSE_7W8OFoFuiNHJXqAfGaMZk59M1_eqAAyDSvKMuyh3mJ6y6dZgOEPdzOgyILJKQL3k2yhunS8u4lVw=w1000-h750-no",
+    "rating": 4.8,
+    "review_count": 735,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJWy4ZTB1nwUcRd2bH9adav5Y",
+    "name": "Habibi - Hal5",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Leuven",
+    "address": "Habibi - Hal5, Hal, Locomotievenstraat 5, 3010 Leuven",
+    "street": "Hal, Locomotievenstraat 5",
+    "postal_code": "3010",
+    "region": null,
+    "latitude": 50.8830272,
+    "longitude": 4.722290699999999,
+    "phone": "0488 79 75 21",
+    "website": "https://www.habibikitchen.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Habibi%20-%20Hal5&query_place_id=ChIJWy4ZTB1nwUcRd2bH9adav5Y",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdPmSmN6tcRKlGAU724VUOGF1xX6lkrLPT3UmXKAmJuQo8QUrc_lJTZLYzIID-VNji9O_AXtBubRO31ChopQznI-3GiZF0p01nXju96VUNbU_7oD6wSTU_dbnNHyZPYA9dmXAMwNQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdPmSmN6tcRKlGAU724VUOGF1xX6lkrLPT3UmXKAmJuQo8QUrc_lJTZLYzIID-VNji9O_AXtBubRO31ChopQznI-3GiZF0p01nXju96VUNbU_7oD6wSTU_dbnNHyZPYA9dmXAMwNQ=w1000-h750-no",
+    "rating": 4.5,
+    "review_count": 115,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJX61y-9NgwUcRvpe3T2_Oyyc",
+    "name": "Haspa Retail Bvba",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Leuven",
+    "address": "Haspa Retail Bvba, Diestsestraat 173, 3000 Leuven",
+    "street": "Diestsestraat 173",
+    "postal_code": "3000",
+    "region": null,
+    "latitude": 50.8815196,
+    "longitude": 4.7098544,
+    "phone": "016 22 89 66",
+    "website": "http://www.colruytgroep.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Haspa%20Retail%20Bvba&query_place_id=ChIJX61y-9NgwUcRvpe3T2_Oyyc",
+    "open_hours_json": null,
+    "review_count": 0,
+    "rating": null,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=T04zNif8s3jgmMhLVIa4Xg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=359.97604&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=T04zNif8s3jgmMhLVIa4Xg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=359.97604&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Hypermarket in Leuven, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJb55ox9dgwUcR2qHRXF7yhms",
+    "name": "Heli's",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Leuven",
+    "address": "Heli's, Tiensestraat 62, 3000 Leuven",
+    "street": "Tiensestraat 62",
+    "postal_code": "3000",
+    "region": null,
+    "latitude": 50.8772575,
+    "longitude": 4.7044283,
+    "phone": "016 62 47 83",
+    "website": "http://www.helisleuven.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Heli%27s&query_place_id=ChIJb55ox9dgwUcR2qHRXF7yhms",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "12–3 pm",
+        "5–10 pm"
+      ],
+      "Wednesday": [
+        "12–3 pm",
+        "5–10 pm"
+      ],
+      "Thursday": [
+        "12–3 pm",
+        "5–10 pm"
+      ],
+      "Friday": [
+        "12–3 pm",
+        "5–10 pm"
+      ],
+      "Saturday": [
+        "12–3 pm",
+        "5–10 pm"
+      ],
+      "Sunday": [
+        "12–3 pm",
+        "5–9 pm"
+      ]
+    },
+    "review_count": 554,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLduGy0hczZmtozDmQsBFGLkPPBtnq6gS8gleMwHG3_ALhC8XJBHK8M2ZSLJctrRIxU7FDlv4gPdOUifTExUK8V5bfGFrAR2w8Ls0fOErVUe8r3crjvoUYrO6SKcXyIXupxblRVrbA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLduGy0hczZmtozDmQsBFGLkPPBtnq6gS8gleMwHG3_ALhC8XJBHK8M2ZSLJctrRIxU7FDlv4gPdOUifTExUK8V5bfGFrAR2w8Ls0fOErVUe8r3crjvoUYrO6SKcXyIXupxblRVrbA=w1000-h750-no",
+    "source_query": "Halal restaurant in Leuven, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJDZMnrtlgwUcR_gr5Lx-hlz0",
+    "name": "Het Moorinneken",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Leuven",
+    "address": "Het Moorinneken, Grote Markt 10, 3000 Leuven",
+    "street": "Grote Markt 10",
+    "postal_code": "3000",
+    "region": null,
+    "latitude": 50.8790262,
+    "longitude": 4.70075,
+    "phone": "016 20 80 44",
+    "website": "http://www.moorinneken.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Het%20Moorinneken&query_place_id=ChIJDZMnrtlgwUcR_gr5Lx-hlz0",
+    "open_hours_json": {
+      "Monday": [
+        "10 am–1 am"
+      ],
+      "Tuesday": [
+        "10 am–1 am"
+      ],
+      "Wednesday": [
+        "10 am–1 am"
+      ],
+      "Thursday": [
+        "10 am–1 am"
+      ],
+      "Friday": [
+        "10 am–1 am"
+      ],
+      "Saturday": [
+        "10 am–1 am"
+      ],
+      "Sunday": [
+        "10 am–1 am"
+      ]
+    },
+    "review_count": 505,
+    "rating": 4.1,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc7ybkEt4WmuYu9GL_RGAgXcQKbB7T_ar2KaD_YVspZlYkJ6fdWRUgp6WnhhWZqBvF6g-7q1qYKTRpEBpdvyoWYAnhMaqtpkOcKUxVGu4-lUBFgXkuNzChMuLkLQdmzpBNNXT8=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc7ybkEt4WmuYu9GL_RGAgXcQKbB7T_ar2KaD_YVspZlYkJ6fdWRUgp6WnhhWZqBvF6g-7q1qYKTRpEBpdvyoWYAnhMaqtpkOcKUxVGu4-lUBFgXkuNzChMuLkLQdmzpBNNXT8=w1000-h750-no",
+    "source_query": "Fish restaurant in Leuven, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJdXV9MCthwUcRmaqYOSR-tLY",
+    "name": "Het land aan de overkant",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Leuven",
+    "address": "Het land aan de overkant, Léon Schreursvest 85, 3001 Leuven",
+    "street": "Léon Schreursvest 85",
+    "postal_code": "3001",
+    "region": null,
+    "latitude": 50.870928799999994,
+    "longitude": 4.7123495,
+    "phone": "016 22 61 81",
+    "website": "http://www.hetlandaandeoverkant.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Het%20land%20aan%20de%20overkant&query_place_id=ChIJdXV9MCthwUcRmaqYOSR-tLY",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "7–11 pm"
+      ],
+      "Wednesday": [
+        "12–1:30 pm",
+        "7–11 pm"
+      ],
+      "Thursday": [
+        "12–1:30 pm",
+        "7–11 pm"
+      ],
+      "Friday": [
+        "12–1:30 pm",
+        "7–11 pm"
+      ],
+      "Saturday": [
+        "7–11 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 381,
+    "rating": 4.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe_pxzWVrF44UHTSmy7l42Ro_Yxc-NGGjVbwfrrQKrTk8KBplbkHenzFmmAd79Lai5nGc6RrJl8D6224uDS6dqVopj6AKtn6YLwD95bOre2itdmytNrGzNJQANv2554lbHz-ZB6tg=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe_pxzWVrF44UHTSmy7l42Ro_Yxc-NGGjVbwfrrQKrTk8KBplbkHenzFmmAd79Lai5nGc6RrJl8D6224uDS6dqVopj6AKtn6YLwD95bOre2itdmytNrGzNJQANv2554lbHz-ZB6tg=w1000-h750-no",
+    "source_query": "Fish restaurant in Leuven, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJVWS4bzhhwUcRriz60loFpoA",
+    "name": "Holland & Barrett",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Leuven",
+    "address": "Holland & Barrett, Diestsestraat 29/31, 3000 Leuven",
+    "street": "Diestsestraat 29/31",
+    "postal_code": "3000",
+    "region": null,
+    "latitude": 50.880089999999996,
+    "longitude": 4.70285,
+    "phone": "09 282 29 68",
+    "website": "https://www.hollandandbarrett.be/winkels/leuven-diestsestraat-9023/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Holland%20%26%20Barrett&query_place_id=ChIJVWS4bzhhwUcRriz60loFpoA",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "9:30 am–6:30 pm"
+      ],
+      "Wednesday": [
+        "9:30 am–6:30 pm"
+      ],
+      "Thursday": [
+        "9:30 am–6:30 pm"
+      ],
+      "Friday": [
+        "9:30 am–6:30 pm"
+      ],
+      "Saturday": [
+        "9:30 am–6:30 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 76,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcSXTAIChC8ACo6uGvfqKenNc_mP5kpUD-VkCf0uh00k2O6t0av3amzPA47yGZqTFi4DknEnqM-O0fxN6Xp2tPWQzpdWSGsuPBBjsSCJRLsw5mZWD2hBZCiRzfdFWYykPlCRIqx=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcSXTAIChC8ACo6uGvfqKenNc_mP5kpUD-VkCf0uh00k2O6t0av3amzPA47yGZqTFi4DknEnqM-O0fxN6Xp2tPWQzpdWSGsuPBBjsSCJRLsw5mZWD2hBZCiRzfdFWYykPlCRIqx=w1000-h750-no",
+    "source_query": "Hypermarket in Leuven, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ71kNIsVgwUcRwArO8rnk4ZE",
+    "name": "Hop - gastrobar",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Leuven",
+    "address": "Hop - gastrobar, Vaartkom 1a, 3000 Leuven",
+    "street": "Vaartkom 1a",
+    "postal_code": "3000",
+    "region": null,
+    "latitude": 50.8879403,
+    "longitude": 4.7004998,
+    "phone": "016 35 61 53",
+    "website": "http://www.hopgastrobar.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Hop%20-%20gastrobar&query_place_id=ChIJ71kNIsVgwUcRwArO8rnk4ZE",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "7–11 pm"
+      ],
+      "Wednesday": [
+        "7–11 pm"
+      ],
+      "Thursday": [
+        "7–11 pm"
+      ],
+      "Friday": [
+        "12–2 pm",
+        "7–11 pm"
+      ],
+      "Saturday": [
+        "7–11 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 393,
+    "rating": 4.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcJwhLd-YXnfDOyXaa2JutlAcv_kUSZy3xBtsLdqBGiqv3Rza6dlbqZiDTRx0XUNQ-OER_0EWwwW2bxCgZBnCzfW3eNjGHfg9kTx9ukC4JSOnRVlj71dAR-Ygk1lBO2L9IU2a0=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcJwhLd-YXnfDOyXaa2JutlAcv_kUSZy3xBtsLdqBGiqv3Rza6dlbqZiDTRx0XUNQ-OER_0EWwwW2bxCgZBnCzfW3eNjGHfg9kTx9ukC4JSOnRVlj71dAR-Ygk1lBO2L9IU2a0=w1000-h750-no",
+    "source_query": "Fish restaurant in Leuven, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJfTUq_0dhwUcRsz9Df6sUMGY",
+    "name": "Indian Aroma",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Leuven",
+    "address": "Indian Aroma, Brusselsestraat 116, 3000 Leuven",
+    "street": "Brusselsestraat 116",
+    "postal_code": "3000",
+    "region": null,
+    "latitude": 50.880581299999996,
+    "longitude": 4.6951396999999995,
+    "phone": "016 41 86 77",
+    "website": "http://www.indianaroma.eu/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Indian%20Aroma&query_place_id=ChIJfTUq_0dhwUcRsz9Df6sUMGY",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLey1GWNVE4tE1ubC3b43alwrmizS2NIEHnvpGpxCWBqyh_5BBuIYHWdm2C7YhrllhkVCBldjo4e2SXUKtiLOF4U6qt9906Ysyb4jHs3HbBkiea21-VCOqwoUvkqe2WgyvJWIWmBbu8R5Clu=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLey1GWNVE4tE1ubC3b43alwrmizS2NIEHnvpGpxCWBqyh_5BBuIYHWdm2C7YhrllhkVCBldjo4e2SXUKtiLOF4U6qt9906Ysyb4jHs3HbBkiea21-VCOqwoUvkqe2WgyvJWIWmBbu8R5Clu=w1000-h750-no",
+    "rating": 4.5,
+    "review_count": 205,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null,
     "is_active": true,

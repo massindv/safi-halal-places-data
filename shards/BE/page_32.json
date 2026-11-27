@@ -1,5 +1,55 @@
 [
   {
+    "place_id": "ChIJb6XQQbIXwUcRPZKH1tm20X4",
+    "name": "‘t Bretoentje",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Sint-Truiden",
+    "address": "‘t Bretoentje, Stapelstraat 96, 3800 Sint-Truiden",
+    "street": "Stapelstraat 96",
+    "postal_code": "3800",
+    "region": null,
+    "latitude": 50.815664299999995,
+    "longitude": 5.1810857,
+    "phone": "011 68 62 51",
+    "website": "https://bretoentje.eatbu.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E2%80%98t%20Bretoentje&query_place_id=ChIJb6XQQbIXwUcRPZKH1tm20X4",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "7:30 am–6 pm"
+      ],
+      "Wednesday": [
+        "7:30 am–6 pm"
+      ],
+      "Thursday": [
+        "7:30 am–6 pm"
+      ],
+      "Friday": [
+        "7:30 am–6 pm"
+      ],
+      "Saturday": [
+        "7:30 am–6 pm"
+      ],
+      "Sunday": [
+        "7 am–12 pm"
+      ]
+    },
+    "review_count": 53,
+    "rating": 4.4,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd66VoKbsjs2TqK9n8jon1z82FEf7kBZ7ZrJzs5PfVNBkf3SBP7yTtKbCFZ1uAhEeMCRCpsRpi4yiHgvByTbJZzK6hmjtjlFcxmJjjwf-p36GnfoBT-81P_5MlxMb031SNWQPqMgw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd66VoKbsjs2TqK9n8jon1z82FEf7kBZ7ZrJzs5PfVNBkf3SBP7yTtKbCFZ1uAhEeMCRCpsRpi4yiHgvByTbJZzK6hmjtjlFcxmJjjwf-p36GnfoBT-81P_5MlxMb031SNWQPqMgw=w1000-h750-no",
+    "source_query": "Hypermarket in Sint-Truiden, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJxZPZIE7HwEcRHIb-quwaPBo",
     "name": "Moskee Nasir",
     "type": "mosque",
@@ -7499,8 +7549,8 @@
     "phone": null,
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Ayasofya&query_place_id=ChIJ75GT34s4w0cRL9nOFsW4qkc",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe9Sfsvy9D0SKqgcwccH9iY4lEfC2NdAoxYWx-kt_k_OLO0_6BHeYKaat0fl2O5dKk-hkxQUJkXwTv75CkUqbSsjhb0hYD2drxyEXwfxsvpaVWB6Nat0Le99Hzw5JP3mLhTuk5mAT1mWBk=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe9Sfsvy9D0SKqgcwccH9iY4lEfC2NdAoxYWx-kt_k_OLO0_6BHeYKaat0fl2O5dKk-hkxQUJkXwTv75CkUqbSsjhb0hYD2drxyEXwfxsvpaVWB6Nat0Le99Hzw5JP3mLhTuk5mAT1mWBk=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdbucCENum9Jd_TcXymwstLcHyZtehAxXHGjqxpTsPTr3m-upKHBm-S7ju7iitxQsNh61ViWkg6o3Iq7xgASTQEvdumptes1LcTlYGN7Lr7w7zhj5u8ixPsOd4Wuy6EICI8g_IZI5WpQ1g=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdbucCENum9Jd_TcXymwstLcHyZtehAxXHGjqxpTsPTr3m-upKHBm-S7ju7iitxQsNh61ViWkg6o3Iq7xgASTQEvdumptes1LcTlYGN7Lr7w7zhj5u8ixPsOd4Wuy6EICI8g_IZI5WpQ1g=w1000-h750-no",
     "rating": 4.7,
     "review_count": 12,
     "verification_status": "UNVERIFIED",
@@ -9396,32 +9446,6 @@
     "is_active": true,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJG34ziFJtwUcRv2thPkADLiw",
-    "name": "Bereket Slagerij / Boucherie Halal مجزرة حلال",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Tienen",
-    "address": "Bereket Slagerij / Boucherie Halal مجزرة حلال, Bostsestraat 26, 3300 Tienen",
-    "street": "Bostsestraat 26",
-    "postal_code": "3300",
-    "region": null,
-    "latitude": 50.803763,
-    "longitude": 4.9401461,
-    "phone": "0466 46 28 21",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bereket%20Slagerij%20%2F%20Boucherie%20Halal%20%D9%85%D8%AC%D8%B2%D8%B1%D8%A9%20%D8%AD%D9%84%D8%A7%D9%84&query_place_id=ChIJG34ziFJtwUcRv2thPkADLiw",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfgTwL5jEywIPdvywUKOOzDY417FuIfvgJgsYwPXwH_m1pnkHxSx3eBOYUCUlqngR8R5E8TuWLIrAEBhngaUdXtV-Znkw4xFfh2slrqlw1wThQju1-Y4H5UtOIUtYqTG3qRzUnNmA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfgTwL5jEywIPdvywUKOOzDY417FuIfvgJgsYwPXwH_m1pnkHxSx3eBOYUCUlqngR8R5E8TuWLIrAEBhngaUdXtV-Znkw4xFfh2slrqlw1wThQju1-Y4H5UtOIUtYqTG3qRzUnNmA=w1000-h750-no",
-    "rating": null,
-    "review_count": 0,
-    "verification_status": "VERIFIED",
-    "verification_evidence": "Boucherie Halal",
-    "is_active": true,
-    "moderation_status": "approved"
   },
   {
     "place_id": "ChIJoZnjIsFtwUcRCTiown2XIJs",
