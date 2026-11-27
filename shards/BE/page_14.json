@@ -1,5 +1,812 @@
 [
   {
+    "place_id": "ChIJNV6D2eCt3EcRCD39E5PRF-Y",
+    "name": "Vrijetijdscentrum Zomerloos",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Gistel",
+    "address": "Vrijetijdscentrum Zomerloos, Sportstraat 1, 8470 Gistel",
+    "street": "Sportstraat 1",
+    "postal_code": "8470",
+    "region": null,
+    "latitude": 51.160723,
+    "longitude": 2.9660545999999997,
+    "phone": "059 27 98 71",
+    "website": "https://www.gistel.be/vrijetijdscentrum-zomerloos",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Vrijetijdscentrum%20Zomerloos&query_place_id=ChIJNV6D2eCt3EcRCD39E5PRF-Y",
+    "open_hours_json": {
+      "Monday": [
+        "9 am–12 pm",
+        "1:30–5 pm"
+      ],
+      "Tuesday": [
+        "9 am–12 pm",
+        "1:30–5 pm"
+      ],
+      "Wednesday": [
+        "9 am–12 pm",
+        "1:30–5 pm"
+      ],
+      "Thursday": [
+        "9 am–12 pm"
+      ],
+      "Friday": [
+        "9 am–12 pm",
+        "1:30–5 pm"
+      ],
+      "Saturday": [
+        "9 am–12 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 486,
+    "rating": 4.2,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdcwpPqQ5ppKZxJrzHjE6fkx8TAWMyF7igSZjkuLM3HFZ_D_JD0AircFnNeLL7m_7cx_ZCzw3DxMv8ujAlVM8zh4o5opAS05Gtarz34zjunFDfn6_jsH5_AvDId_lU68vh-Nljw7A=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdcwpPqQ5ppKZxJrzHjE6fkx8TAWMyF7igSZjkuLM3HFZ_D_JD0AircFnNeLL7m_7cx_ZCzw3DxMv8ujAlVM8zh4o5opAS05Gtarz34zjunFDfn6_jsH5_AvDId_lU68vh-Nljw7A=w1000-h750-no",
+    "source_query": "Mosque in Gistel, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJt2jJ-qXpwUcRwY76APE2gn8",
+    "name": "Intermarché HYPER Givet",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "FR",
+    "country_code": "FR",
+    "city": "Givet",
+    "address": "Intermarché HYPER Givet, Centre Commercial Rives D'europe, Rte de Beauraing, 08600 Givet, France",
+    "street": "Centre Commercial Rives D'europe, Rte de Beauraing",
+    "postal_code": "08600",
+    "region": null,
+    "latitude": 50.134996,
+    "longitude": 4.854225,
+    "phone": "+33 3 24 42 30 40",
+    "website": "https://www.intermarche.com/magasin?pdvref=02888&utm_source=gmb",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Intermarch%C3%A9%20HYPER%20Givet&query_place_id=ChIJt2jJ-qXpwUcRwY76APE2gn8",
+    "open_hours_json": {
+      "Monday": [
+        "8:30 am–8 pm"
+      ],
+      "Tuesday": [
+        "8:30 am–8 pm"
+      ],
+      "Wednesday": [
+        "8:30 am–8 pm"
+      ],
+      "Thursday": [
+        "8:30 am–8 pm"
+      ],
+      "Friday": [
+        "8:30 am–8 pm"
+      ],
+      "Saturday": [
+        "8:30 am–8 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 6030,
+    "rating": 4.2,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdNjJGSE7Qh3RIJjRSq3UDOTbBsieL2WUmBOEBcW6ACIjUgJ73vD94Gj_0G38QoNg3fg0G0H46z1CFxSt-yG_4NnuV1ewOxf4HAqLT0P-2-M5CtjrlxigwNx5Lg0wXStfMWKLVm=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdNjJGSE7Qh3RIJjRSq3UDOTbBsieL2WUmBOEBcW6ACIjUgJ73vD94Gj_0G38QoNg3fg0G0H46z1CFxSt-yG_4NnuV1ewOxf4HAqLT0P-2-M5CtjrlxigwNx5Lg0wXStfMWKLVm=w1000-h750-no",
+    "source_query": "Hypermarket in Beauraing, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJseM1txHpwUcRcqIKviJQ--w",
+    "name": "Mosquée de Givet",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "FR",
+    "country_code": "FR",
+    "city": "Givet",
+    "address": "Mosquée de Givet, 71 Bd Bourck, 08600 Givet, France",
+    "street": "71 Bd Bourck",
+    "postal_code": "08600",
+    "region": null,
+    "latitude": 50.1360642,
+    "longitude": 4.833476999999999,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mosqu%C3%A9e%20de%20Givet&query_place_id=ChIJseM1txHpwUcRcqIKviJQ--w",
+    "open_hours_json": null,
+    "review_count": 15,
+    "rating": 4.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf8dfqGBt6-YtolNT7B9u-tx81iM_Gl15UsSP1OK87PqanbvjvnSf5NXw9P72k550zyp45y3p8qtZXTGMaYmuO8eUwrGeDKLEhF9n_Zjmog_-r4_1uRYV1IVzSngfGNBht7VQI=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf8dfqGBt6-YtolNT7B9u-tx81iM_Gl15UsSP1OK87PqanbvjvnSf5NXw9P72k550zyp45y3p8qtZXTGMaYmuO8eUwrGeDKLEhF9n_Zjmog_-r4_1uRYV1IVzSngfGNBht7VQI=w1000-h750-no",
+    "source_query": "Mosque in Philippeville, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJq0V6R2vpwUcRWK2ruwS4jPE",
+    "name": "Mosquée de Givet",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "FR",
+    "country_code": "FR",
+    "city": "Givet",
+    "address": "Mosquée de Givet, 11 Rue de Mon Bijou, 08600 Givet, France",
+    "street": "11 Rue de Mon Bijou",
+    "postal_code": "08600",
+    "region": null,
+    "latitude": 50.146212399999996,
+    "longitude": 4.8200027,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mosqu%C3%A9e%20de%20Givet&query_place_id=ChIJq0V6R2vpwUcRWK2ruwS4jPE",
+    "open_hours_json": null,
+    "review_count": 0,
+    "rating": null,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc-LP-pge_RYEhfXKTmuZebpj9XAjKkYfcnVG4WAg4FXaDjbcaplIGD0XAvL0UbWt32314AieEePLXVe3HWR-o73pPWMV2lNOLpBmbrBNDKTop0w2_mhMJ1v9ZZExhVaNgXko38Sg=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc-LP-pge_RYEhfXKTmuZebpj9XAjKkYfcnVG4WAg4FXaDjbcaplIGD0XAvL0UbWt32314AieEePLXVe3HWR-o73pPWMV2lNOLpBmbrBNDKTop0w2_mhMJ1v9ZZExhVaNgXko38Sg=w1000-h750-no",
+    "source_query": "Mosque in Philippeville, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJAypPyNlwwUcRkAHUaF8O81c",
+    "name": "CHEZ LOUIS",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Glimes",
+    "address": "CHEZ LOUIS, Chau. de Jodoigne 7, 1315 Glimes",
+    "street": "Chau. de Jodoigne 7",
+    "postal_code": "1315",
+    "region": null,
+    "latitude": 50.674583399999996,
+    "longitude": 4.827476,
+    "phone": "010 86 69 77",
+    "website": "http://www.chezlouis.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=CHEZ%20LOUIS&query_place_id=ChIJAypPyNlwwUcRkAHUaF8O81c",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "12–2:30 pm",
+        "7–10 pm"
+      ],
+      "Wednesday": [
+        "12–2:30 pm",
+        "7–10 pm"
+      ],
+      "Thursday": [
+        "12–2:30 pm",
+        "7–10 pm"
+      ],
+      "Friday": [
+        "12–2:30 pm",
+        "7–10 pm"
+      ],
+      "Saturday": [
+        "7–10 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 666,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcLDaIeMEZeD-sODTsOamPSVoQfBwpFpIl1oYXb_LkrSxbX-IXnDN9PiyJ3hNaJuz9qgHSk3rWfyBU1BDX1y8yI-ZM_tZnODZKaHCcaWeX3PQVLolijeZAxRkg7wDb2dVghlWndxQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcLDaIeMEZeD-sODTsOamPSVoQfBwpFpIl1oYXb_LkrSxbX-IXnDN9PiyJ3hNaJuz9qgHSk3rWfyBU1BDX1y8yI-ZM_tZnODZKaHCcaWeX3PQVLolijeZAxRkg7wDb2dVghlWndxQ=w1000-h750-no",
+    "source_query": "Fish restaurant in Jodoigne, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJgT2-0nIvwkcRS4u-rbBLJaY",
+    "name": "Fady's Street Food",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Gosselies",
+    "address": "Fady's Street Food, Rue Du Chemin De Fer 13, 6041 Gosselies",
+    "street": "Rue Du Chemin De Fer 13",
+    "postal_code": "6041",
+    "region": null,
+    "latitude": 50.4725634,
+    "longitude": 4.4394713,
+    "phone": "071 49 68 68",
+    "website": "https://fadys.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Fady%27s%20Street%20Food&query_place_id=ChIJgT2-0nIvwkcRS4u-rbBLJaY",
+    "open_hours_json": {
+      "Monday": [
+        "11 am–10 pm"
+      ],
+      "Tuesday": [
+        "11 am–10 pm"
+      ],
+      "Wednesday": [
+        "11 am–10 pm"
+      ],
+      "Thursday": [
+        "11 am–10 pm"
+      ],
+      "Friday": [
+        "11 am–10 pm"
+      ],
+      "Saturday": [
+        "11 am–10 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 107,
+    "rating": 4.4,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLevj4UcO2zOy4tbRNEewjev75S5fGRcH_of9exdvPGbATMSw8YQOsnCPMSbfAiAo4IBz0u0YB2JghlnatmKpm3WhKOFPEUUlElXltkM1bV5qDyEwoBh6KS4ulMHf2iJcXRPlc1D_Af4Ht1O=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLevj4UcO2zOy4tbRNEewjev75S5fGRcH_of9exdvPGbATMSw8YQOsnCPMSbfAiAo4IBz0u0YB2JghlnatmKpm3WhKOFPEUUlElXltkM1bV5qDyEwoBh6KS4ulMHf2iJcXRPlc1D_Af4Ht1O=w1000-h750-no",
+    "source_query": "Halal restaurant in Fleurus, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJhT33dEw7wkcRCq9nGzUyesY",
+    "name": "Au Bief du Moulin",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Gozée",
+    "address": "Au Bief du Moulin, Rue Émile Vandervelde 290, 6534 Gozée",
+    "street": "Rue Émile Vandervelde 290",
+    "postal_code": "6534",
+    "region": null,
+    "latitude": 50.366895799999995,
+    "longitude": 4.3323623,
+    "phone": "071 51 60 74",
+    "website": "http://www.biefdumoulin.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Au%20Bief%20du%20Moulin&query_place_id=ChIJhT33dEw7wkcRCq9nGzUyesY",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "Closed"
+      ],
+      "Friday": [
+        "11 am–10 pm"
+      ],
+      "Saturday": [
+        "11 am–10 pm"
+      ],
+      "Sunday": [
+        "11 am–10 pm"
+      ]
+    },
+    "review_count": 1245,
+    "rating": 4.0,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcCeOacvV_6vjLJd8nzQE2Qbr2SnBjWpJ9nedEFQqfvfiSHLATTGiJ4uEDBjuMyAKNT13Mvxbhy6ZDvhhjHdIZKuK_0NwAx90V0KbDS0wSbDRnTi2jn-OARM67ZJEstiu_aiY8u=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcCeOacvV_6vjLJd8nzQE2Qbr2SnBjWpJ9nedEFQqfvfiSHLATTGiJ4uEDBjuMyAKNT13Mvxbhy6ZDvhhjHdIZKuK_0NwAx90V0KbDS0wSbDRnTi2jn-OARM67ZJEstiu_aiY8u=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Thuin, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ97Xke1M7wkcRjdvsU1OPOLg",
+    "name": "Caves de l'Abbaye d'Aulne",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Gozée",
+    "address": "Caves de l'Abbaye d'Aulne, Rue Émile Vandervelde 279, 6534 Gozée",
+    "street": "Rue Émile Vandervelde 279",
+    "postal_code": "6534",
+    "region": null,
+    "latitude": 50.3663696,
+    "longitude": 4.3320307,
+    "phone": "071 51 98 28",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Caves%20de%20l%27Abbaye%20d%27Aulne&query_place_id=ChIJ97Xke1M7wkcRjdvsU1OPOLg",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "12–2:30 pm",
+        "6:30–9:30 pm"
+      ],
+      "Thursday": [
+        "12–2:30 pm",
+        "6:30–9:30 pm"
+      ],
+      "Friday": [
+        "12–2:30 pm",
+        "6:30–9:30 pm"
+      ],
+      "Saturday": [
+        "12–2:30 pm",
+        "6:30–9:30 pm"
+      ],
+      "Sunday": [
+        "12–4 pm"
+      ]
+    },
+    "review_count": 689,
+    "rating": 4.1,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcVjQKFD1i0Rx7into_lrxizgQiJNBFMbToWhC8m7Semr-zeXrcKYhxmC3JHv87FWn-y65fRbSecu1pmXhg_5XAuvCvH7iUtPSnc_zuAn4P-g9_nZE3351kLiH22n6RINV27eTn=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcVjQKFD1i0Rx7into_lrxizgQiJNBFMbToWhC8m7Semr-zeXrcKYhxmC3JHv87FWn-y65fRbSecu1pmXhg_5XAuvCvH7iUtPSnc_zuAn4P-g9_nZE3351kLiH22n6RINV27eTn=w1000-h750-no",
+    "source_query": "Halal restaurant in Thuin, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJmyIjWvLDw0cRRu3R1SrIbHA",
+    "name": "Beenhouwerij Mutsaard Halal",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Grimbergen",
+    "address": "Beenhouwerij Mutsaard Halal, Mutsaertplaats 4, 1853 Grimbergen",
+    "street": "Mutsaertplaats 4",
+    "postal_code": "1853",
+    "region": null,
+    "latitude": 50.9019238,
+    "longitude": 4.3607347,
+    "phone": "0484 32 22 03",
+    "website": "https://www.facebook.com/boucherie.mutsaard",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Beenhouwerij%20Mutsaard%20Halal&query_place_id=ChIJmyIjWvLDw0cRRu3R1SrIbHA",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdpRTNPvZyj8nQ7O2svIoN45JWKSTe56oCjD3Wn5rmoCqrN7gHwM8VAMyI59Vlfa2rayO3RmQUArrDpJ5haHGsGPRD-do1J1Ga3tJJV9BKrGKZPa2YhtT72WE-L1zmH9E00q-0H=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdpRTNPvZyj8nQ7O2svIoN45JWKSTe56oCjD3Wn5rmoCqrN7gHwM8VAMyI59Vlfa2rayO3RmQUArrDpJ5haHGsGPRD-do1J1Ga3tJJV9BKrGKZPa2YhtT72WE-L1zmH9E00q-0H=w1000-h750-no",
+    "rating": 4.6,
+    "review_count": 97,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJ6w7Ub5nDw0cRabE9SrgfmFQ",
+    "name": "EFENDI SLAGERIJ (HALAL)",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Grimbergen",
+    "address": "EFENDI SLAGERIJ (HALAL), Grimbergsesteenweg 168, 1853 Grimbergen",
+    "street": "Grimbergsesteenweg 168",
+    "postal_code": "1853",
+    "region": null,
+    "latitude": 50.9120877,
+    "longitude": 4.3562338,
+    "phone": "0491 33 21 74",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=EFENDI%20SLAGERIJ%20%28HALAL%29&query_place_id=ChIJ6w7Ub5nDw0cRabE9SrgfmFQ",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfwQ0TI_cd91MVXhoUAq5H83CzmTTMhVVB-bUcfRXCTgdi207y3L2n-ABNzlQwjBtIRXFNpTI6XwySZfT6CDLsrtzKAZjELBOtUc17wocTm6AoJqBf70gW_K64QGrGQtGDapDRt-kmTr1Q=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfwQ0TI_cd91MVXhoUAq5H83CzmTTMhVVB-bUcfRXCTgdi207y3L2n-ABNzlQwjBtIRXFNpTI6XwySZfT6CDLsrtzKAZjELBOtUc17wocTm6AoJqBf70gW_K64QGrGQtGDapDRt-kmTr1Q=w1000-h750-no",
+    "rating": 4.9,
+    "review_count": 55,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJz3iujkLCw0cRuGG8a8eedqA",
+    "name": "Moskee Hicret Strombeek",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Grimbergen",
+    "address": "Moskee Hicret Strombeek, Grimbergsesteenweg 139, 1853 Grimbergen",
+    "street": "Grimbergsesteenweg 139",
+    "postal_code": "1853",
+    "region": null,
+    "latitude": 50.9121119,
+    "longitude": 4.356586,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Hicret%20Strombeek&query_place_id=ChIJz3iujkLCw0cRuGG8a8eedqA",
+    "open_hours_json": null,
+    "review_count": 28,
+    "rating": 4.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfcNbJG8iRgyhfjAYUcd0-cWduHQpjyLA1Gg2cqH5TpCpHdsaeWx70TmZE-LrzVNx_VvG-hJ1wSOMsJV-Qx8utYsLX5ACoBbQvZJtYGmn1qHQ9AvIS1froNZ4L_3Jn9KsUtyplw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfcNbJG8iRgyhfjAYUcd0-cWduHQpjyLA1Gg2cqH5TpCpHdsaeWx70TmZE-LrzVNx_VvG-hJ1wSOMsJV-Qx8utYsLX5ACoBbQvZJtYGmn1qHQ9AvIS1froNZ4L_3Jn9KsUtyplw=w1000-h750-no",
+    "source_query": "Mosque in Tielt-Winge, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ7YpG4YX7wEcRGgTvgqxVdzM",
+    "name": "Au 64",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Grâce-Hollogne",
+    "address": "Au 64, Rue Hector Denis 64, 4460 Grâce-Hollogne",
+    "street": "Rue Hector Denis 64",
+    "postal_code": "4460",
+    "region": null,
+    "latitude": 50.646711599999996,
+    "longitude": 5.497289299999999,
+    "phone": "0470 49 89 07",
+    "website": "http://www.au64.net/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Au%2064&query_place_id=ChIJ7YpG4YX7wEcRGgTvgqxVdzM",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "5:30–8:30 pm"
+      ],
+      "Thursday": [
+        "5:30–8:30 pm"
+      ],
+      "Friday": [
+        "5:30–9:30 pm"
+      ],
+      "Saturday": [
+        "5:30–9:30 pm"
+      ],
+      "Sunday": [
+        "12–2 pm",
+        "5:30–8:30 pm"
+      ]
+    },
+    "review_count": 125,
+    "rating": 4.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe2hOsoDWOBqspUS1qqoUNvoEP8Aes8uDvR2xSH8Ca7kCBXycvYunkzs4HiAWc-bTc7MnRz9eb2qIvSeMWwk9qAR0ZMCAk-PnZ1AncRpUyVI5Kdi5VID9ju5Iy8Plw2PMMi9NeW=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe2hOsoDWOBqspUS1qqoUNvoEP8Aes8uDvR2xSH8Ca7kCBXycvYunkzs4HiAWc-bTc7MnRz9eb2qIvSeMWwk9qAR0ZMCAk-PnZ1AncRpUyVI5Kdi5VID9ju5Iy8Plw2PMMi9NeW=w1000-h750-no",
+    "source_query": "Fish restaurant in Mons-lez-Liège, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJuXGdMVX5wEcRNUbeElTXH0o",
+    "name": "Au p'tit marché de Hollogne",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Grâce-Hollogne",
+    "address": "Au p'tit marché de Hollogne, Rue de l'Hôtel Communal 52, 4460 Grâce-Hollogne",
+    "street": "Rue de l'Hôtel Communal 52",
+    "postal_code": "4460",
+    "region": null,
+    "latitude": 50.6320043,
+    "longitude": 5.4801882,
+    "phone": "04 234 09 29",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Au%20p%27tit%20march%C3%A9%20de%20Hollogne&query_place_id=ChIJuXGdMVX5wEcRNUbeElTXH0o",
+    "open_hours_json": {
+      "Monday": [
+        "8 am–7 pm"
+      ],
+      "Tuesday": [
+        "8 am–7 pm"
+      ],
+      "Wednesday": [
+        "8 am–7 pm"
+      ],
+      "Thursday": [
+        "8 am–7 pm"
+      ],
+      "Friday": [
+        "8 am–7 pm"
+      ],
+      "Saturday": [
+        "Closed"
+      ],
+      "Sunday": [
+        "8 am–7 pm"
+      ]
+    },
+    "review_count": 8,
+    "rating": 3.9,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfO8cfBKuoJa1h6nWIS_t3UHiViPW5Oo7x2LlOYLy4Hfrmgam0Ys0AMbVpQmqXE-Y8LEO0Tkh8FRTFkNBTTCxT80kzkkvIBYYEdib4MVUdYpb-XPRxL7lipwPfSPjL2Fq0xK4vwAg=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfO8cfBKuoJa1h6nWIS_t3UHiViPW5Oo7x2LlOYLy4Hfrmgam0Ys0AMbVpQmqXE-Y8LEO0Tkh8FRTFkNBTTCxT80kzkkvIBYYEdib4MVUdYpb-XPRxL7lipwPfSPjL2Fq0xK4vwAg=w1000-h750-no",
+    "source_query": "Hypermarket in Mons-lez-Liège, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJy0FXeV_5wEcRYYG0rVHFOE4",
+    "name": "Food Planet L'Epicerie",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Grâce-Hollogne",
+    "address": "Food Planet L'Epicerie, Rue Alfred Defuisseaux, 4460 Grâce-Hollogne",
+    "street": "Rue Alfred Defuisseaux",
+    "postal_code": null,
+    "region": null,
+    "latitude": 50.6353684,
+    "longitude": 5.5064328,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Food%20Planet%20L%27Epicerie&query_place_id=ChIJy0FXeV_5wEcRYYG0rVHFOE4",
+    "open_hours_json": null,
+    "review_count": 4,
+    "rating": 3.5,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=inB7rvNxpiRAABVu6h8kYQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=147.37712&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=inB7rvNxpiRAABVu6h8kYQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=147.37712&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Hypermarket in Mons-lez-Liège, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJH_p2XwD7wEcRWq1h-40N5us",
+    "name": "Food planet",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Grâce-Hollogne",
+    "address": "Food planet, Rue Mathieu de Lexhy 114/B, 4460 Grâce-Hollogne",
+    "street": "Rue Mathieu de Lexhy 114/B",
+    "postal_code": "4460",
+    "region": null,
+    "latitude": 50.6483603,
+    "longitude": 5.5067626999999995,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Food%20planet&query_place_id=ChIJH_p2XwD7wEcRWq1h-40N5us",
+    "open_hours_json": {
+      "Monday": [
+        "12–11 pm"
+      ],
+      "Tuesday": [
+        "12–11 pm"
+      ],
+      "Wednesday": [
+        "12–11 pm"
+      ],
+      "Thursday": [
+        "12–11 pm"
+      ],
+      "Friday": [
+        "12–11 pm"
+      ],
+      "Saturday": [
+        "12–11 pm"
+      ],
+      "Sunday": [
+        "2–11 pm"
+      ]
+    },
+    "review_count": 9,
+    "rating": 3.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc59slE1d5ipxuUgzTRAj4ZXRAWjJMK9D5oGlAGxOfTxlvp5pVbKXYNvKRLjITkxAhx8pwr9vvO07yGwo7f1jP-OAUDbawiXFMwLNVuracevX55b8aLI7Mc7kVkCnSCLnvrTXBH_kO-X9RI=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc59slE1d5ipxuUgzTRAj4ZXRAWjJMK9D5oGlAGxOfTxlvp5pVbKXYNvKRLjITkxAhx8pwr9vvO07yGwo7f1jP-OAUDbawiXFMwLNVuracevX55b8aLI7Mc7kVkCnSCLnvrTXBH_kO-X9RI=w1000-h750-no",
+    "source_query": "Hypermarket in Mons-lez-Liège, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJe1lAicL7wEcRsMe1Xg7kF2Q",
+    "name": "Intermarché Grâce Hollogne",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Grâce-Hollogne",
+    "address": "Intermarché Grâce Hollogne, Chau. de Liège 180, 4460 Grâce-Hollogne",
+    "street": "Chau. de Liège 180",
+    "postal_code": "4460",
+    "region": null,
+    "latitude": 50.6478045,
+    "longitude": 5.480143,
+    "phone": "04 247 40 24",
+    "website": "https://www.intermarche.be/magasins/intermarche-grace-hollogne/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Intermarch%C3%A9%20Gr%C3%A2ce%20Hollogne&query_place_id=ChIJe1lAicL7wEcRsMe1Xg7kF2Q",
+    "open_hours_json": {
+      "Monday": [
+        "8 am–8 pm"
+      ],
+      "Tuesday": [
+        "8 am–8 pm"
+      ],
+      "Wednesday": [
+        "8 am–8 pm"
+      ],
+      "Thursday": [
+        "8 am–8 pm"
+      ],
+      "Friday": [
+        "8 am–8 pm"
+      ],
+      "Saturday": [
+        "8 am–8 pm"
+      ],
+      "Sunday": [
+        "8 am–7 pm"
+      ]
+    },
+    "review_count": 2251,
+    "rating": 4.1,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdjnBaq67R5rP9P0J-pStNYto4M7GVZG8FGx57Ov5Qu33WgQuln24rPZ4ug_2httC6CCh3HElHnZAzFDYz27DUP0BQIwwT8S0N2a__vvQ72lOQVbsOOPUvlFXEwX316VHXnpV5aAw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdjnBaq67R5rP9P0J-pStNYto4M7GVZG8FGx57Ov5Qu33WgQuln24rPZ4ug_2httC6CCh3HElHnZAzFDYz27DUP0BQIwwT8S0N2a__vvQ72lOQVbsOOPUvlFXEwX316VHXnpV5aAw=w1000-h750-no",
+    "source_query": "Hypermarket in Mons-lez-Liège, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJw3u6EM39wEcR-2RcbrkPDwQ",
+    "name": "L'Echappée Boeuf",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Grâce-Hollogne",
+    "address": "L'Echappée Boeuf, Rue de l'Aéroport 1, 4460 Grâce-Hollogne",
+    "street": "Rue de l'Aéroport 1",
+    "postal_code": "4460",
+    "region": null,
+    "latitude": 50.643132699999995,
+    "longitude": 5.4610585,
+    "phone": "04 235 88 90",
+    "website": "http://www.echappeeboeuf.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=L%27Echapp%C3%A9e%20Boeuf&query_place_id=ChIJw3u6EM39wEcR-2RcbrkPDwQ",
+    "open_hours_json": {
+      "Monday": [
+        "12–2 pm"
+      ],
+      "Tuesday": [
+        "12–2 pm"
+      ],
+      "Wednesday": [
+        "12–2 pm"
+      ],
+      "Thursday": [
+        "12–2 pm",
+        "6:30–9 pm"
+      ],
+      "Friday": [
+        "12–2 pm",
+        "6:30–9 pm"
+      ],
+      "Saturday": [
+        "6:30–9 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 268,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcgwdXwZHhsvvMFj3mn-ny25l0a_LXRftqpND2udVn6lmUkGx77GFgNai3JQ8-F4SeCJTTkClM84XzRspLl3WSgMGhU9Ya20uVWuWwLzsOgEIBM-mWZRL2FctxlT6_r5t1mMug=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcgwdXwZHhsvvMFj3mn-ny25l0a_LXRftqpND2udVn6lmUkGx77GFgNai3JQ8-F4SeCJTTkClM84XzRspLl3WSgMGhU9Ya20uVWuWwLzsOgEIBM-mWZRL2FctxlT6_r5t1mMug=w1000-h750-no",
+    "source_query": "Halal restaurant in Mons-lez-Liège, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJs32nMVX5wEcRkkZ6fHc6jxs",
+    "name": "Supermarché",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Grâce-Hollogne",
+    "address": "Supermarché, Rue de l'Hôtel Communal 52, 4460 Grâce-Hollogne",
+    "street": "Rue de l'Hôtel Communal 52",
+    "postal_code": "4460",
+    "region": null,
+    "latitude": 50.631983,
+    "longitude": 5.4802588,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Supermarch%C3%A9&query_place_id=ChIJs32nMVX5wEcRkkZ6fHc6jxs",
+    "open_hours_json": null,
+    "review_count": 0,
+    "rating": null,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vnvD_cQs-X-W-XiS1tof1Q&cb_client=search.gws-prod.grass&w=80&h=92&yaw=231.7521&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vnvD_cQs-X-W-XiS1tof1Q&cb_client=search.gws-prod.grass&w=80&h=92&yaw=231.7521&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Hypermarket in Mons-lez-Liège, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJHeWeEwD7wEcRASwajlzqa40",
+    "name": "XF FOODEX Liège - Magazin romanesc",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Grâce-Hollogne",
+    "address": "XF FOODEX Liège - Magazin romanesc, Chau. de Liège 387, 4460 Grâce-Hollogne",
+    "street": "Chau. de Liège 387",
+    "postal_code": "4460",
+    "region": null,
+    "latitude": 50.6478933,
+    "longitude": 5.4941965999999995,
+    "phone": "0465 71 43 25",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=XF%20FOODEX%20Li%C3%A8ge%20-%20Magazin%20romanesc&query_place_id=ChIJHeWeEwD7wEcRASwajlzqa40",
+    "open_hours_json": {
+      "Monday": [
+        "10 am–8 pm"
+      ],
+      "Tuesday": [
+        "10 am–8 pm"
+      ],
+      "Wednesday": [
+        "10 am–8 pm"
+      ],
+      "Thursday": [
+        "10 am–8 pm"
+      ],
+      "Friday": [
+        "10 am–8 pm"
+      ],
+      "Saturday": [
+        "10 am–8 pm"
+      ],
+      "Sunday": [
+        "10 am–6 pm"
+      ]
+    },
+    "review_count": 175,
+    "rating": 4.2,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe3oS_YOL-pJklBwEwVMtM9i0Er8Jt4YMN-LHO5vvpvU8_RPulgKgW0694hVZxx5vjcD_NhhabgQr4_fxRoqjqNDtIN7bzcZUi5-Cy5Pl7m1tGX_u-bWPY6TN8U4N5IofZlM-HPhQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe3oS_YOL-pJklBwEwVMtM9i0Er8Jt4YMN-LHO5vvpvU8_RPulgKgW0694hVZxx5vjcD_NhhabgQr4_fxRoqjqNDtIN7bzcZUi5-Cy5Pl7m1tGX_u-bWPY6TN8U4N5IofZlM-HPhQ=w1000-h750-no",
+    "source_query": "Hypermarket in Mons-lez-Liège, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJs93b8SU3wkcRzJZh0a6BaK0",
     "name": "Ristorante Valentino",
     "type": "restaurant",
@@ -8039,7 +8846,7 @@
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdw8VJTxD92EvjkzH3wFl6w4HrojOE4ktDnBzR6JGNIGWFxMuMw81ejFd6DTkzSly5_Tz8JeA7dyK6m6fdeu_yhHsTKw7MSLZoAA7uCQS5W3hyFfaNRjhVvgVZqQxADU2g7h8Xiu-D-BYQ=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdw8VJTxD92EvjkzH3wFl6w4HrojOE4ktDnBzR6JGNIGWFxMuMw81ejFd6DTkzSly5_Tz8JeA7dyK6m6fdeu_yhHsTKw7MSLZoAA7uCQS5W3hyFfaNRjhVvgVZqQxADU2g7h8Xiu-D-BYQ=w1000-h750-no",
     "rating": 4.2,
-    "review_count": 140,
+    "review_count": 141,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null,
     "is_active": true,
@@ -8402,8 +9209,8 @@
     "phone": "0488 88 88 88",
     "website": "http://udoncom.be/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Air%20Tech%20Noodles&query_place_id=ChIJo8_-JpAhwUcR2AW3pXGUPPA",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeKSE--LUXLHIQvE3jLOCPjPw9fOz1Wp-rPzymySk40vpbd9ezM_nY0DwMDUAnSR74nlNreWfYOSmqHOnHQauCw-25ehumuffMMlSQLKMGVlMJhcgz0DA5jVVVrzBx2KsOYvqmVKSko5PLL=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeKSE--LUXLHIQvE3jLOCPjPw9fOz1Wp-rPzymySk40vpbd9ezM_nY0DwMDUAnSR74nlNreWfYOSmqHOnHQauCw-25ehumuffMMlSQLKMGVlMJhcgz0DA5jVVVrzBx2KsOYvqmVKSko5PLL=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLexwVxkyRY4Z2Nxl-0Hs76DFRsY52meBCV8Lgm1IsovW9HdIiQgiB8S25a27icR6ZK3IFsOh5WpU2Kj2HeDhWaEPIFCyc4Hc8lYc4z2W297aCYZblXDQ71pqI1eqvCgnaNOTiGPVO9gDKHY=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLexwVxkyRY4Z2Nxl-0Hs76DFRsY52meBCV8Lgm1IsovW9HdIiQgiB8S25a27icR6ZK3IFsOh5WpU2Kj2HeDhWaEPIFCyc4Hc8lYc4z2W297aCYZblXDQ71pqI1eqvCgnaNOTiGPVO9gDKHY=w1000-h750-no",
     "rating": 3.8,
     "review_count": 89,
     "verification_status": "UNVERIFIED",
@@ -8428,8 +9235,8 @@
     "phone": "011 23 52 52",
     "website": "http://akropolis-hasselt.be/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Akropolis%20Hasselt&query_place_id=ChIJPQ6gPH8hwUcRsKEoDh5Pzf8",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfrrl8d8tuaT3WHFPtlrBXX_Ll38rge71UEwfaDUhaEsIe8d_txxnZd_Vj8BA0uzufrdced6XOtCG1EKonmkzfrMX81fwBiaYP-J0DKMy2MSXEkNtSxWzI9qZsCEwyZg7CmaYho=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfrrl8d8tuaT3WHFPtlrBXX_Ll38rge71UEwfaDUhaEsIe8d_txxnZd_Vj8BA0uzufrdced6XOtCG1EKonmkzfrMX81fwBiaYP-J0DKMy2MSXEkNtSxWzI9qZsCEwyZg7CmaYho=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfKpDSCebORBEZB_O0dnTwVjr7CsbB3bm2hy5hleuqHopMLKbqV3I4umYpEAfGg8400bRSDaAuh9WAj-NfpuNIcuPlSCvSKHJ6IDiVbs7DCQwQybFk0XyKaJM5250Ji3PIthCVT=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfKpDSCebORBEZB_O0dnTwVjr7CsbB3bm2hy5hleuqHopMLKbqV3I4umYpEAfGg8400bRSDaAuh9WAj-NfpuNIcuPlSCvSKHJ6IDiVbs7DCQwQybFk0XyKaJM5250Ji3PIthCVT=w1000-h750-no",
     "rating": 4.3,
     "review_count": 619,
     "verification_status": "UNVERIFIED",
@@ -8508,8 +9315,8 @@
     "phone": "0466 22 22 53",
     "website": "http://www.baraka-land.be/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Baraka-Land%20%2F%20%D8%A8%D8%B1%D9%83%D8%A9%20%D9%84%D8%A7%D9%86%D8%AF&query_place_id=ChIJG-x22gkjwUcRAgI2wWFzgso",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdMz6Nc7x-T5jOc9NPWMgo1Ydr-L2JQcquCjUBctSyTO3NcgyX--jw1eKL8cgBDUaJnOomQSCQ2CgkN4U1Ti34as_1mekk15YtxyP6MHSjpW4bNXHIzhtlZCtW9yIeRFuo8Kn0=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdMz6Nc7x-T5jOc9NPWMgo1Ydr-L2JQcquCjUBctSyTO3NcgyX--jw1eKL8cgBDUaJnOomQSCQ2CgkN4U1Ti34as_1mekk15YtxyP6MHSjpW4bNXHIzhtlZCtW9yIeRFuo8Kn0=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdcib6D3qXL85gFxWZb5KQzqjcXlYB1iUp19fgXPOwechRa_FJFiLgUcRWUyhYqgLFNccIA51kSmJMHum3H5QBC0IMbQmdvB1FZnp3peIoPf1r-bHBeeorPkGWuyxmEC7l0AJM=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdcib6D3qXL85gFxWZb5KQzqjcXlYB1iUp19fgXPOwechRa_FJFiLgUcRWUyhYqgLFNccIA51kSmJMHum3H5QBC0IMbQmdvB1FZnp3peIoPf1r-bHBeeorPkGWuyxmEC7l0AJM=w1000-h750-no",
     "rating": 4.0,
     "review_count": 138,
     "verification_status": "UNVERIFIED",
@@ -8560,8 +9367,8 @@
     "phone": "011 18 66 59",
     "website": "https://belchicken.com/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Belchicken&query_place_id=ChIJxxL7Ju8hwUcREQuKprXgG-I",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf9FrTusGiF7vSTccPT565YrowMNR25foHriOU9Vz2sd_irUcxR7c-q3l--FBbFaOGNEb2b2DZrxsKnqZ6xkxKV5EZkI_abIz2bWeVrNQl3xEUSV8D71-dQ60OhouOgYdq9Rio=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf9FrTusGiF7vSTccPT565YrowMNR25foHriOU9Vz2sd_irUcxR7c-q3l--FBbFaOGNEb2b2DZrxsKnqZ6xkxKV5EZkI_abIz2bWeVrNQl3xEUSV8D71-dQ60OhouOgYdq9Rio=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdxW2T2kgxurE_i9lAZYQe6jX7-Wu33KoQXZXtT2CTRwPdw4mQF9b-jDP-HpvhNGUwa-WgBzMKHdTCyLWMmXd6OBo0ByoZNeTthtweqWw-JU24xH_MlC4vP0pUSPdTIdbxF8iIW6w=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdxW2T2kgxurE_i9lAZYQe6jX7-Wu33KoQXZXtT2CTRwPdw4mQF9b-jDP-HpvhNGUwa-WgBzMKHdTCyLWMmXd6OBo0ByoZNeTthtweqWw-JU24xH_MlC4vP0pUSPdTIdbxF8iIW6w=w1000-h750-no",
     "rating": 4.1,
     "review_count": 669,
     "verification_status": "UNVERIFIED",
@@ -8636,8 +9443,8 @@
     "phone": "011 24 32 28",
     "website": "http://www.borrelhuis.be/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Borrelhuis&query_place_id=ChIJmbb8TH8hwUcRsiKsEJh6uzE",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfb9eSpW2-6KbDAomdrOkTCrLBdOuh-ymW8gciE1lTdzYRe-kliCN5Puf7eWJQ0Qr5QvT6b_u7VDPYCSVlz1HQDJFBIrbS_R4DaPgGcoC0SR9NYA7Z91gE4BLpgpAxhYiJfM_TquA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfb9eSpW2-6KbDAomdrOkTCrLBdOuh-ymW8gciE1lTdzYRe-kliCN5Puf7eWJQ0Qr5QvT6b_u7VDPYCSVlz1HQDJFBIrbS_R4DaPgGcoC0SR9NYA7Z91gE4BLpgpAxhYiJfM_TquA=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc_sVtcyCToGBDXPCRZdRTknB9JHHWQYRxxLI_QSwfrkOwgwkLUYmr-ZT9_XjtH8jXx2w5RpyvEGvXZa3edKfX41BoSRvH35X7Xx_AhjxRZrySjSj9in2zVRhQYPa5n-YG01DfQ-w=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc_sVtcyCToGBDXPCRZdRTknB9JHHWQYRxxLI_QSwfrkOwgwkLUYmr-ZT9_XjtH8jXx2w5RpyvEGvXZa3edKfX41BoSRvH35X7Xx_AhjxRZrySjSj9in2zVRhQYPa5n-YG01DfQ-w=w1000-h750-no",
     "rating": 4.2,
     "review_count": 783,
     "verification_status": "UNVERIFIED",
@@ -8716,8 +9523,8 @@
     "phone": "0483 00 99 00",
     "website": "https://www.ceyhansgrill.be/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=CEYHAN%27S%20grill%20kebab%20HASSELT&query_place_id=ChIJJ9YK0UIhwUcR5mzjFnR00hM",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcFc8HnlEtkDe_OuuNgVmusau189TL-qPa9OWeAI9xSGAi9-tKBFv-IomSSoYQ-jzlHhiFw41lgTyHfEw1Rn21J6_9mKzIm09_FkZUPaApF9z67zipJFeL5U83n1C8KFlDOw-hj3Q=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcFc8HnlEtkDe_OuuNgVmusau189TL-qPa9OWeAI9xSGAi9-tKBFv-IomSSoYQ-jzlHhiFw41lgTyHfEw1Rn21J6_9mKzIm09_FkZUPaApF9z67zipJFeL5U83n1C8KFlDOw-hj3Q=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcgKlqbGvSoJQJcyrwvPDfe7YhgJEn0GtsTsvTajXmXb1MZ8XY2J-M5OF1TdrCOgYIRyuP8aFGapiTXu3_gqIedcRtfYmUh1s0lfgzOM1fSvWUSZgFtYJGwfe6jm4Z92TBpzP4K=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcgKlqbGvSoJQJcyrwvPDfe7YhgJEn0GtsTsvTajXmXb1MZ8XY2J-M5OF1TdrCOgYIRyuP8aFGapiTXu3_gqIedcRtfYmUh1s0lfgzOM1fSvWUSZgFtYJGwfe6jm4Z92TBpzP4K=w1000-h750-no",
     "rating": 4.8,
     "review_count": 381,
     "verification_status": "UNVERIFIED",
@@ -9030,7 +9837,7 @@
     "latitude": 50.9313569,
     "longitude": 5.3401621,
     "phone": "0499 37 75 28",
-    "website": null,
+    "website": "http://www.elassyl.be/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=El%20Assyl&query_place_id=ChIJeYXoehMhwUcRm6mzbTzphC4",
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdd2aMC5dfmyOlvEv47lDZGNv_x5JKSMIM5o0LpvwGj-Frrvh-dm3AP4cu94AYBxcIZOiftrpJz2xOCSdnnOIBo8Ry6bBi5xn9kz6Qs51-KdeWcHRzQIOolbzUvVO8j2zsjGk0sEQ=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdd2aMC5dfmyOlvEv47lDZGNv_x5JKSMIM5o0LpvwGj-Frrvh-dm3AP4cu94AYBxcIZOiftrpJz2xOCSdnnOIBo8Ry6bBi5xn9kz6Qs51-KdeWcHRzQIOolbzUvVO8j2zsjGk0sEQ=w1000-h750-no",
@@ -9172,6 +9979,32 @@
     "moderation_status": "approved"
   },
   {
+    "place_id": "ChIJm254OvgjwUcR9MsFOtRGPZ4",
+    "name": "Hasseltse Kebab & Pizzeria",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Hasselt",
+    "address": "Hasseltse Kebab & Pizzeria, Bampslaan 9, 3500 Hasselt",
+    "street": "Bampslaan 9",
+    "postal_code": "3500",
+    "region": null,
+    "latitude": 50.9301263,
+    "longitude": 5.3318256,
+    "phone": "011 19 41 44",
+    "website": "https://www.hasseltsekebabpizzeria.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Hasseltse%20Kebab%20%26%20Pizzeria&query_place_id=ChIJm254OvgjwUcR9MsFOtRGPZ4",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfm__Zee7Gdj6olToTkhLVr4v1_NiNlais3TnOKHL9I9VLBeJn-V5ozS8SFh1Yc-h_hWsQ6nKiG35BIB8DGz5a5wZCSsZadDrJjwEQrMYeHwhS7SBMqRVizRtVxDB07Lo_MDPQruw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfm__Zee7Gdj6olToTkhLVr4v1_NiNlais3TnOKHL9I9VLBeJn-V5ozS8SFh1Yc-h_hWsQ6nKiG35BIB8DGz5a5wZCSsZadDrJjwEQrMYeHwhS7SBMqRVizRtVxDB07Lo_MDPQruw=w1000-h750-no",
+    "rating": 3.6,
+    "review_count": 205,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
     "place_id": "ChIJyySUlhYhwUcRkB7-QLHOb4w",
     "name": "Hawaiian Poké Bowl - Quartier Bleu",
     "type": "restaurant",
@@ -9238,8 +10071,8 @@
     "phone": "011 42 53 77",
     "website": "https://indiacurryhouse.be/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=India%20curry%20house&query_place_id=ChIJ2Za4S0AjwUcR0VV03INQfZI",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdnxOrQdLctalqZFo42Ge2SQhXbEk1ylMC_NYCcCP1nb2b9zXmfubfcOosIeB-ffinVlk5W6eKcs68rqzi4_YOQVPJUXMx7v-V6tKIbRFqFeJXTXpRNZyVnfjdtBImyZQCMHGSBs429MbPU=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdnxOrQdLctalqZFo42Ge2SQhXbEk1ylMC_NYCcCP1nb2b9zXmfubfcOosIeB-ffinVlk5W6eKcs68rqzi4_YOQVPJUXMx7v-V6tKIbRFqFeJXTXpRNZyVnfjdtBImyZQCMHGSBs429MbPU=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfH21of5Vd-mXylsjbaxSb8yu72KbHl_WnB4Az_P0RJLyonVjzLcN5_O71uIVLQ0pDWVN8Gyxk3W1an4zHPfvmjGK72dW5ihRAIoawOTHG2Nz921lbz4lVsPcI0jYgIDA6FhiHr0WryTajz=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfH21of5Vd-mXylsjbaxSb8yu72KbHl_WnB4Az_P0RJLyonVjzLcN5_O71uIVLQ0pDWVN8Gyxk3W1an4zHPfvmjGK72dW5ihRAIoawOTHG2Nz921lbz4lVsPcI0jYgIDA6FhiHr0WryTajz=w1000-h750-no",
     "rating": 4.3,
     "review_count": 36,
     "verification_status": "UNVERIFIED",
@@ -9468,8 +10301,8 @@
     "phone": "011 96 32 56",
     "website": "https://www.lavenida.be/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=L%27avenida&query_place_id=ChIJG5Vyn6chwUcRCfjL4gqtqVs",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdIEHZknRTGkwI0nk68VPNma4iRp5BTA1bZafKPvBvlqLbFM-4NbS0KolWItq9br3tZGLNl_MvgLZUV1kGoZHY_6yeJqLFkc0Yav-RvFhWjd2PPZIFhjv_HXlMiOsBFLGJD6HSl9Q=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdIEHZknRTGkwI0nk68VPNma4iRp5BTA1bZafKPvBvlqLbFM-4NbS0KolWItq9br3tZGLNl_MvgLZUV1kGoZHY_6yeJqLFkc0Yav-RvFhWjd2PPZIFhjv_HXlMiOsBFLGJD6HSl9Q=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeRmz2fd8zA_4vrQHTuFicWx3nFranwef5Dcyzd1jT7VA8DeHugzpsN7hCZtPsZDKFiFEwP0mpbSd4dFRaboOAnNaCn0SW8ILjUecyOAM6GTAYpt3B6hW3R3grQSioJ6HqeCdJ7hQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeRmz2fd8zA_4vrQHTuFicWx3nFranwef5Dcyzd1jT7VA8DeHugzpsN7hCZtPsZDKFiFEwP0mpbSd4dFRaboOAnNaCn0SW8ILjUecyOAM6GTAYpt3B6hW3R3grQSioJ6HqeCdJ7hQ=w1000-h750-no",
     "rating": 4.2,
     "review_count": 697,
     "verification_status": "UNVERIFIED",
@@ -9520,10 +10353,10 @@
     "phone": "011 41 69 80",
     "website": "http://www.lets-wok.be/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Let%E2%80%99s%20Wok&query_place_id=ChIJaa61DiohwUcRABLnfa7-Xdo",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeS8DLs3w6eUH8nQttJruo72xg4i26yUqP6B2pJBdDr6N4zAlzU6rHLnGXiEjQKApg2IJTueX1UJ9oUt_KUvt1-JRxk5ypL3FZ8656LF3WS4pBxwLgWC5MHD2Mk4NHkhTYvlGw9=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeS8DLs3w6eUH8nQttJruo72xg4i26yUqP6B2pJBdDr6N4zAlzU6rHLnGXiEjQKApg2IJTueX1UJ9oUt_KUvt1-JRxk5ypL3FZ8656LF3WS4pBxwLgWC5MHD2Mk4NHkhTYvlGw9=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdRr688reMxZ59lUAtOeQD_e0a-npGfksKk6h2g3MMaa_entUGgaZyA_MiEKhAaQMcN7-1obqJGZmcHg6md4tlEepOfUf8TNXJ6zq1k88xEHzA5XEV8mVVhtg7AD9p35n5ecETtfw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdRr688reMxZ59lUAtOeQD_e0a-npGfksKk6h2g3MMaa_entUGgaZyA_MiEKhAaQMcN7-1obqJGZmcHg6md4tlEepOfUf8TNXJ6zq1k88xEHzA5XEV8mVVhtg7AD9p35n5ecETtfw=w1000-h750-no",
     "rating": 4.3,
-    "review_count": 903,
+    "review_count": 904,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null,
     "is_active": true,
@@ -9546,8 +10379,8 @@
     "phone": "0487 44 50 95",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Lilla%20Hasselt&query_place_id=ChIJ54Qa21khwUcRS126sEiVEuk",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdXtwgUPbjTbZGmHF_IE1hgGxampJ7Tt35KRmAtZnyk9HSK4Tm0aYc63CqjLi2XbIgyjkxcK9kVJIdgCoELQiE3_OpoPeqScGbanyLV_I2SuMryTsvXTB4NVZ1Yw6zCO9333Pr58A=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdXtwgUPbjTbZGmHF_IE1hgGxampJ7Tt35KRmAtZnyk9HSK4Tm0aYc63CqjLi2XbIgyjkxcK9kVJIdgCoELQiE3_OpoPeqScGbanyLV_I2SuMryTsvXTB4NVZ1Yw6zCO9333Pr58A=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeaV9pDieRV8IgtXsyUcTQU9uW1ptqxM0HqGY0KQK0h0ubaPjI3B0eb1jps7eVdZp2qPKJQPPRfdq4IvrR0t-AxU2SfM4yX7gPAahx6bSTBRaXa2z-ZshxwNjlQlmblAFq0c4NC4A=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeaV9pDieRV8IgtXsyUcTQU9uW1ptqxM0HqGY0KQK0h0ubaPjI3B0eb1jps7eVdZp2qPKJQPPRfdq4IvrR0t-AxU2SfM4yX7gPAahx6bSTBRaXa2z-ZshxwNjlQlmblAFq0c4NC4A=w1000-h750-no",
     "rating": 4.3,
     "review_count": 388,
     "verification_status": "UNVERIFIED",
@@ -9632,6 +10465,58 @@
     "is_active": true,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ_5xV6tQjwUcR1Lopw8qvK6o",
+    "name": "Moskee Badr Hasselt",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Hasselt",
+    "address": "Moskee Badr Hasselt, Mouterijstraat 1, 3500 Hasselt",
+    "street": "Mouterijstraat 1",
+    "postal_code": "3500",
+    "region": null,
+    "latitude": 50.933699,
+    "longitude": 5.3299978,
+    "phone": "011 87 29 61",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Badr%20Hasselt&query_place_id=ChIJ_5xV6tQjwUcR1Lopw8qvK6o",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfPrNVFOer6zAolDx_Z7WhkSvfzr_E2fOdMS08JELkEpzrhhPoaMIP-MrD5FjyUX2XyJ60_9lHmjc_C73PN2yechTMdNS-T3FIK1US0xVfJ6fxBCVTlRFOqX4I1VO3Ksv4TFlg=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfPrNVFOer6zAolDx_Z7WhkSvfzr_E2fOdMS08JELkEpzrhhPoaMIP-MrD5FjyUX2XyJ60_9lHmjc_C73PN2yechTMdNS-T3FIK1US0xVfJ6fxBCVTlRFOqX4I1VO3Ksv4TFlg=w1000-h750-no",
+    "rating": 4.7,
+    "review_count": 139,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJIWjPcwAjwUcRELa3UEXtsBI",
+    "name": "Moskee cheikh mansour",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Hasselt",
+    "address": "Moskee cheikh mansour, Sint-Truidersteenweg 466, 3500 Hasselt",
+    "street": "Sint-Truidersteenweg 466",
+    "postal_code": "3500",
+    "region": null,
+    "latitude": 50.904245499999995,
+    "longitude": 5.314019399999999,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20cheikh%20mansour&query_place_id=ChIJIWjPcwAjwUcRELa3UEXtsBI",
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fFyDQUvkWJu0IvDZM33GaQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=124.3075&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fFyDQUvkWJu0IvDZM33GaQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=124.3075&pitch=0&thumbfov=w1000-h750-no",
+    "rating": 5.0,
+    "review_count": 2,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
   },
   {
     "place_id": "ChIJbTAhiRghwUcRevAh4PKphpw",
@@ -9726,10 +10611,10 @@
     "phone": "0494 67 09 39",
     "website": "https://restaurants.o-tacos.com/belgium/vlaams-gewest/limburg/hasselt/hasselt-grote-markt?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=O%27Tacos%20Hasselt&query_place_id=ChIJTe3xIrkhwUcRjmZWSwBFVA4",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfGa0gLMFbnZiuVGWdNPjvo12_ofWb-jwCvvwEU58QWE0TUlbt0srho59qt7vjsnq2OkSqt9Tp45SFTj3wppMsZUqJvj_4WF34UhRLqia5flHFHLq6u47PRsSMfDhEoW7lkssYETA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfGa0gLMFbnZiuVGWdNPjvo12_ofWb-jwCvvwEU58QWE0TUlbt0srho59qt7vjsnq2OkSqt9Tp45SFTj3wppMsZUqJvj_4WF34UhRLqia5flHFHLq6u47PRsSMfDhEoW7lkssYETA=w1000-h750-no",
-    "rating": null,
-    "review_count": 0,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfMaoHpKZztlve7Z7Gz9s5rccNwzBhW2c114YAUoz3yIm0EljjxFYrM_SQXlxkKuJTjUz0p3_lYHzQZeZbFxaKpzDc6R699lQe13wFUgNxvnuFDV-VjZFenfqNgcH396xMY_SE=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfMaoHpKZztlve7Z7Gz9s5rccNwzBhW2c114YAUoz3yIm0EljjxFYrM_SQXlxkKuJTjUz0p3_lYHzQZeZbFxaKpzDc6R699lQe13wFUgNxvnuFDV-VjZFenfqNgcH396xMY_SE=w1000-h750-no",
+    "rating": 3.8,
+    "review_count": 208,
     "verification_status": "VERIFIED",
     "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
     "is_active": true,
@@ -9854,10 +10739,10 @@
     "phone": "011 20 14 11",
     "website": "https://www.preuverie.be/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Preuverie&query_place_id=ChIJ04Sl4oEhwUcR7fAQsBG8KHk",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc3H3Ox8A8IV3SPPB1ddMK3xpCi2uA4zckfYwL4ccLKSo_b6pWj_Tu4rd4GUWVTWTawWux1llHkSpD3SURutmvhwK-_kG7zslg5vyBrUSsriEbFkhVn_5DSvsI9iS1qSa0SgYg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc3H3Ox8A8IV3SPPB1ddMK3xpCi2uA4zckfYwL4ccLKSo_b6pWj_Tu4rd4GUWVTWTawWux1llHkSpD3SURutmvhwK-_kG7zslg5vyBrUSsriEbFkhVn_5DSvsI9iS1qSa0SgYg=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfk95NkyV14cn2e0ZCOJs8v86Zf7mBBzpUvHWyCJUHa1kPIP0QELF1ACLIbtl7nI8PBz-OLddq-51QaV-udaH3soYMHnJjnmnZWRkbieRf0HlPbCTjf2EksKUU-qkQ78fZPFN8=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfk95NkyV14cn2e0ZCOJs8v86Zf7mBBzpUvHWyCJUHa1kPIP0QELF1ACLIbtl7nI8PBz-OLddq-51QaV-udaH3soYMHnJjnmnZWRkbieRf0HlPbCTjf2EksKUU-qkQ78fZPFN8=w1000-h750-no",
     "rating": 4.5,
-    "review_count": 311,
+    "review_count": 312,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null,
     "is_active": true,
@@ -9888,651 +10773,5 @@
     "verification_evidence": null,
     "is_active": true,
     "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJ4Wmr1S4iwUcR3UJ5YnsuiAQ",
-    "name": "SPAR Hasselt Runkst",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Hasselt",
-    "address": "SPAR Hasselt Runkst, Sint-Hubertusplein 52, 3500 Hasselt",
-    "street": "Sint-Hubertusplein 52",
-    "postal_code": "3500",
-    "region": null,
-    "latitude": 50.9247752,
-    "longitude": 5.3260355,
-    "phone": "011 22 99 26",
-    "website": "https://www.mijnspar.be/winkels/spar-runkst",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=SPAR%20Hasselt%20Runkst&query_place_id=ChIJ4Wmr1S4iwUcR3UJ5YnsuiAQ",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcSozQnQcA30-hgR-USFpoSZPS0BH1YI67D_Tg9eK1vaqfACxFcktvsLU0CRJGFMaEV9yAQGKP27acR1Z8g-ZiYrn2s1_M6STK7A-r8Hc7J_OSBbS69HFWcc59WGQvqLxBhHNXvJA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcSozQnQcA30-hgR-USFpoSZPS0BH1YI67D_Tg9eK1vaqfACxFcktvsLU0CRJGFMaEV9yAQGKP27acR1Z8g-ZiYrn2s1_M6STK7A-r8Hc7J_OSBbS69HFWcc59WGQvqLxBhHNXvJA=w1000-h750-no",
-    "rating": 4.3,
-    "review_count": 420,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJAajWPRsjwUcRidlJx6UjpuU",
-    "name": "SUPERETTE KARAN",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Hasselt",
-    "address": "SUPERETTE KARAN, Blijde-Inkomststraat 45, 3500 Hasselt",
-    "street": "Blijde-Inkomststraat 45",
-    "postal_code": "3500",
-    "region": null,
-    "latitude": 50.935167299999996,
-    "longitude": 5.3308732999999995,
-    "phone": "0465 91 42 37",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=SUPERETTE%20KARAN&query_place_id=ChIJAajWPRsjwUcRidlJx6UjpuU",
-    "open_hours_json": {
-      "Monday": [
-        "7:30 am–10 pm"
-      ],
-      "Tuesday": [
-        "7:30 am–10 pm"
-      ],
-      "Wednesday": [
-        "7:30 am–10 pm"
-      ],
-      "Thursday": [
-        "7:30 am–10 pm"
-      ],
-      "Friday": [
-        "7:30 am–10 pm"
-      ],
-      "Saturday": [
-        "10 am–10 pm"
-      ],
-      "Sunday": [
-        "10 am–10 pm"
-      ]
-    },
-    "review_count": 6,
-    "rating": 5.0,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcAO-C1ebVsnTiVhqEqLxGvurslqFGjzFmHFojDM6gfjAOrtfgm3uCZtLMmIzUn3DEVdOVsk8LimYVvPhhPaCzpfzWLpcSh1XOarr5D0MpnIGSldq2L0G_B9hGDZS4xhcQOF6wLbLU9CeU=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcAO-C1ebVsnTiVhqEqLxGvurslqFGjzFmHFojDM6gfjAOrtfgm3uCZtLMmIzUn3DEVdOVsk8LimYVvPhhPaCzpfzWLpcSh1XOarr5D0MpnIGSldq2L0G_B9hGDZS4xhcQOF6wLbLU9CeU=w1000-h750-no",
-    "source_query": "Hypermarket in Sint-Truiden, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJu1sd958hwUcRkRQUCanCJu0",
-    "name": "Sedr Chef",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Hasselt",
-    "address": "Sedr Chef, Demerstraat 91, 3500 Hasselt",
-    "street": "Demerstraat 91",
-    "postal_code": "3500",
-    "region": null,
-    "latitude": 50.9332163,
-    "longitude": 5.3390837,
-    "phone": "0470 10 76 80",
-    "website": "https://sedrchef.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Sedr%20Chef&query_place_id=ChIJu1sd958hwUcRkRQUCanCJu0",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe4jzhyTdpzmmNFeWgWGRoCICTIeA43rWBXnhENMWt9pQiohH6-FJNqOYNjJH0IoPYoTGsrXufQ6h-kfXf6ykleiQmQFgPJKtKonh_G_NQZNg4ycWg6ITwOSJ9-rVCJ1CL_BIE2t_ez_kuK=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe4jzhyTdpzmmNFeWgWGRoCICTIeA43rWBXnhENMWt9pQiohH6-FJNqOYNjJH0IoPYoTGsrXufQ6h-kfXf6ykleiQmQFgPJKtKonh_G_NQZNg4ycWg6ITwOSJ9-rVCJ1CL_BIE2t_ez_kuK=w1000-h750-no",
-    "rating": 4.9,
-    "review_count": 183,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJ5WJfT9UjwUcRSzbqwl5LUU4",
-    "name": "Shaam Hasselt",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Hasselt",
-    "address": "Shaam Hasselt, Manteliusstraat 29, 3500 Hasselt",
-    "street": "Manteliusstraat 29",
-    "postal_code": "3500",
-    "region": null,
-    "latitude": 50.933290299999996,
-    "longitude": 5.3331392,
-    "phone": "011 18 29 81",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Shaam%20Hasselt&query_place_id=ChIJ5WJfT9UjwUcRSzbqwl5LUU4",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdwovIjDr_0s42QPiCbbFxrVm6B1d7l4bp38d0VHSwJNVYmwHfqGj0kK_XCqr8m9nmoV6eVgIWJG7YXhrlU1PJBDF0KfJksXv3pyvDXO158GlHInIQG6btVG4SrGH2IMTmcF3nZ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdwovIjDr_0s42QPiCbbFxrVm6B1d7l4bp38d0VHSwJNVYmwHfqGj0kK_XCqr8m9nmoV6eVgIWJG7YXhrlU1PJBDF0KfJksXv3pyvDXO158GlHInIQG6btVG4SrGH2IMTmcF3nZ=w1000-h750-no",
-    "rating": 4.4,
-    "review_count": 524,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJV1Q5i4EhwUcReW5TRoOdeBQ",
-    "name": "Slagerij Geerts",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Hasselt",
-    "address": "Slagerij Geerts, Aldestraat 36, 3500 Hasselt",
-    "street": "Aldestraat 36",
-    "postal_code": "3500",
-    "region": null,
-    "latitude": 50.9304061,
-    "longitude": 5.3355562999999995,
-    "phone": "011 22 10 47",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Slagerij%20Geerts&query_place_id=ChIJV1Q5i4EhwUcReW5TRoOdeBQ",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcVKTO4laydpWUp0T9GJZhG-HQOm8Y9dhIb9HwrjcFH0BK6kWVllI-sMo_KP9UT_onE3JyFXAsX2rpXKGjTr254T8MezNVhivUTmJtxvwUls8jXtBctYP0IWoAziPhO2zeG-YVH=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcVKTO4laydpWUp0T9GJZhG-HQOm8Y9dhIb9HwrjcFH0BK6kWVllI-sMo_KP9UT_onE3JyFXAsX2rpXKGjTr254T8MezNVhivUTmJtxvwUls8jXtBctYP0IWoAziPhO2zeG-YVH=w1000-h750-no",
-    "rating": 4.5,
-    "review_count": 34,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJA1-g8IAhwUcRlinIt9OouIc",
-    "name": "Slagerij Oosterbosch",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Hasselt",
-    "address": "Slagerij Oosterbosch, Havermarkt 21, 3500 Hasselt",
-    "street": "Havermarkt 21",
-    "postal_code": "3500",
-    "region": null,
-    "latitude": 50.9294228,
-    "longitude": 5.3358272,
-    "phone": "011 22 12 86",
-    "website": "https://www.facebook.com/Slagerij-Oosterbosch-101545984830575/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Slagerij%20Oosterbosch&query_place_id=ChIJA1-g8IAhwUcRlinIt9OouIc",
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=bxs3GbE9LC4budXA45XTmA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=330.17764&pitch=-1.2973515&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=bxs3GbE9LC4budXA45XTmA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=330.17764&pitch=-1.2973515&thumbfov=w1000-h750-no",
-    "rating": 4.7,
-    "review_count": 61,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJRexS2n4hwUcRolSfuDdXeGY",
-    "name": "Snack Aydin",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Hasselt",
-    "address": "Snack Aydin, Kempische Steenweg 39, 3500 Hasselt",
-    "street": "Kempische Steenweg 39",
-    "postal_code": "3500",
-    "region": null,
-    "latitude": 50.935333,
-    "longitude": 5.340218999999999,
-    "phone": "011 23 33 47",
-    "website": "https://www.facebook.com/SnackAydinHasselt/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Snack%20Aydin&query_place_id=ChIJRexS2n4hwUcRolSfuDdXeGY",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdi2Fd9y2e96skDrJm4_vY6SmsKR-ealOHY1ayGi5AvKLU7c8BoU3kLd-1NTHD3cXW0Bx1Qu61t3ITY8GCYsVHJcfQ2c3ZRnjWjFUcIocLSQoZBPu8uQGaKnYEygmsLohoTaatWqQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdi2Fd9y2e96skDrJm4_vY6SmsKR-ealOHY1ayGi5AvKLU7c8BoU3kLd-1NTHD3cXW0Bx1Qu61t3ITY8GCYsVHJcfQ2c3ZRnjWjFUcIocLSQoZBPu8uQGaKnYEygmsLohoTaatWqQ=w1000-h750-no",
-    "rating": 4.5,
-    "review_count": 880,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJv8PTc80jwUcRAlowEqe7KjA",
-    "name": "Snack Marrakech",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Hasselt",
-    "address": "Snack Marrakech, Kuringersteenweg 191, 3500 Hasselt",
-    "street": "Kuringersteenweg 191",
-    "postal_code": "3500",
-    "region": null,
-    "latitude": 50.935308199999994,
-    "longitude": 5.3207040999999995,
-    "phone": "0484 41 89 52",
-    "website": "http://www.mmmarrakech.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Snack%20Marrakech&query_place_id=ChIJv8PTc80jwUcRAlowEqe7KjA",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeTBseyG76CTZT6bZRlu5h4k70yzvBF3N4ReNEBWm_N5do6hzxN8WlL6GZWITK9NPxucBfBfNNQcDcQYC5r-O3BkjzgHsaRaN5L_-cGD89GIqTwbv2u9jFIkt4Cy9z33ifKiF0PvQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeTBseyG76CTZT6bZRlu5h4k70yzvBF3N4ReNEBWm_N5do6hzxN8WlL6GZWITK9NPxucBfBfNNQcDcQYC5r-O3BkjzgHsaRaN5L_-cGD89GIqTwbv2u9jFIkt4Cy9z33ifKiF0PvQ=w1000-h750-no",
-    "rating": 4.8,
-    "review_count": 193,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJKegcx34hwUcRubAgCI8aGAo",
-    "name": "Snack Marrakech",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Hasselt",
-    "address": "Snack Marrakech, Kempische Steenweg 46, 3500 Hasselt",
-    "street": "Kempische Steenweg 46",
-    "postal_code": "3500",
-    "region": null,
-    "latitude": 50.9359465,
-    "longitude": 5.340054599999999,
-    "phone": "0497 54 28 65",
-    "website": "https://snackmarrakech.eatbu.com/?lang=nl#",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Snack%20Marrakech&query_place_id=ChIJKegcx34hwUcRubAgCI8aGAo",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfgIWJwvyeD9tBPR-VAt6lumHUuzCMAWm5nkZlAxQGet_qD9MSynKl03V7yQiEFIYAgVr6qrs7P8b1TEldOpEVtUE3ldEuXbwqU7rsfzyy4RHa7Gc6Ykmh-_B_jjIIBXbSO1_rKJ9u7hAsd=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfgIWJwvyeD9tBPR-VAt6lumHUuzCMAWm5nkZlAxQGet_qD9MSynKl03V7yQiEFIYAgVr6qrs7P8b1TEldOpEVtUE3ldEuXbwqU7rsfzyy4RHa7Gc6Ykmh-_B_jjIIBXbSO1_rKJ9u7hAsd=w1000-h750-no",
-    "rating": 4.7,
-    "review_count": 191,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJVwLdaWUhwUcRA9APheEE8aU",
-    "name": "Sombrero",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Hasselt",
-    "address": "Sombrero, Genkersteenweg 52, 3500 Hasselt",
-    "street": "Genkersteenweg 52",
-    "postal_code": "3500",
-    "region": null,
-    "latitude": 50.9439156,
-    "longitude": 5.3484754,
-    "phone": "011 24 11 83",
-    "website": "http://www.sombrerobbq.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Sombrero&query_place_id=ChIJVwLdaWUhwUcRA9APheEE8aU",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfj1LTd76FQhQ4NbywtgM4fXFubXRHI9vdk7c57dubzkPo-EPSexasHiqEbuVlId3_7tmD-2Mr9kGu6CBLSLQz8JtiC9giG5ZufAFUQlh29S1OjfUB848LLNb5PAlWQIlL3ePXH=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfj1LTd76FQhQ4NbywtgM4fXFubXRHI9vdk7c57dubzkPo-EPSexasHiqEbuVlId3_7tmD-2Mr9kGu6CBLSLQz8JtiC9giG5ZufAFUQlh29S1OjfUB848LLNb5PAlWQIlL3ePXH=w1000-h750-no",
-    "rating": 4.0,
-    "review_count": 789,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJ42KLW94hwUcRC2i0GAXOTIM",
-    "name": "Supervers.be",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Hasselt",
-    "address": "Supervers.be, Scheepvaartkaai 20, 3500 Hasselt",
-    "street": "Scheepvaartkaai 20",
-    "postal_code": "3500",
-    "region": null,
-    "latitude": 50.9407905,
-    "longitude": 5.3434265,
-    "phone": null,
-    "website": "https://supervers.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Supervers.be&query_place_id=ChIJ42KLW94hwUcRC2i0GAXOTIM",
-    "open_hours_json": {
-      "Monday": [
-        "Open 24 hours"
-      ],
-      "Tuesday": [
-        "Open 24 hours"
-      ],
-      "Wednesday": [
-        "Open 24 hours"
-      ],
-      "Thursday": [
-        "Open 24 hours"
-      ],
-      "Friday": [
-        "Open 24 hours"
-      ],
-      "Saturday": [
-        "Open 24 hours"
-      ],
-      "Sunday": [
-        "Open 24 hours"
-      ]
-    },
-    "review_count": 81,
-    "rating": 4.8,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcFjzgDdlUbr3sjKUvlOAavi_Z442DK_9Jx3SNQSx0JwMEn8crZWrLYcrg44mb9rrIJm1vadzaV7zfolP2Sof432G9aXHQQUGJ7jwupLtuxoY6x8NkfYFZuKttwVCOqQR0dcGOjhQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcFjzgDdlUbr3sjKUvlOAavi_Z442DK_9Jx3SNQSx0JwMEn8crZWrLYcrg44mb9rrIJm1vadzaV7zfolP2Sof432G9aXHQQUGJ7jwupLtuxoY6x8NkfYFZuKttwVCOqQR0dcGOjhQ=w1000-h750-no",
-    "source_query": "Hypermarket in Beringen, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJC9VGsJ0hwUcR0N3q3ugbirc",
-    "name": "TANS",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Hasselt",
-    "address": "TANS, Maastrichtersteenweg 93/3500, tans@telenet.be Hasselt",
-    "street": "Maastrichtersteenweg 93/3500",
-    "postal_code": "tans@telenet.be",
-    "region": null,
-    "latitude": 50.929608099999996,
-    "longitude": 5.3501436,
-    "phone": "011 22 39 01",
-    "website": "https://www.instagram.com/slagerijtans?igsh=NHZvdnpyZHAzZzk4&utm_source=qr",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=TANS&query_place_id=ChIJC9VGsJ0hwUcR0N3q3ugbirc",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfwGz6uUZ5sceK_4gmVlqORslfqNl5MdG5173JuOr7S-JZweFaXb8jlqYBYje4I8_OY1t5lD1yA0c25HNfkMdwz7NuIWBCGk6dymXiY2OF6ei1HjE4WNMUAOAuw9FAjykk51lSCnA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfwGz6uUZ5sceK_4gmVlqORslfqNl5MdG5173JuOr7S-JZweFaXb8jlqYBYje4I8_OY1t5lD1yA0c25HNfkMdwz7NuIWBCGk6dymXiY2OF6ei1HjE4WNMUAOAuw9FAjykk51lSCnA=w1000-h750-no",
-    "rating": 4.5,
-    "review_count": 38,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJy9MOdIQhwUcR7klrjQvOfbc",
-    "name": "TAT Kebab",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Hasselt",
-    "address": "TAT Kebab, Stadsomvaart 14, 3500 Hasselt",
-    "street": "Stadsomvaart 14",
-    "postal_code": "3500",
-    "region": null,
-    "latitude": 50.926595899999995,
-    "longitude": 5.3412805,
-    "phone": "011 22 55 42",
-    "website": "https://tatkebab-hasselt.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=TAT%20Kebab&query_place_id=ChIJy9MOdIQhwUcR7klrjQvOfbc",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe3CZKo5A9-qE1a5jr8V4fQCNX31ECn-nZNWArqp1X5TtgNogF4MmWZDIweea8b3cpfNrleZM06K1haJZW9Tn3SKkwTLB3Z3KnpdE3WESR4boogmpR6S9obAmDRpmzHekqp_kse=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe3CZKo5A9-qE1a5jr8V4fQCNX31ECn-nZNWArqp1X5TtgNogF4MmWZDIweea8b3cpfNrleZM06K1haJZW9Tn3SKkwTLB3Z3KnpdE3WESR4boogmpR6S9obAmDRpmzHekqp_kse=w1000-h750-no",
-    "rating": 4.6,
-    "review_count": 950,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJfbuwmoEhwUcR_Xgw-02-VQI",
-    "name": "Taste of India",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Hasselt",
-    "address": "Taste of India, Fruitmarkt 26, 3500 Hasselt",
-    "street": "Fruitmarkt 26",
-    "postal_code": "3500",
-    "region": null,
-    "latitude": 50.9302047,
-    "longitude": 5.3391717,
-    "phone": "011 26 28 23",
-    "website": "http://www.tasteofindia1.com/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Taste%20of%20India&query_place_id=ChIJfbuwmoEhwUcR_Xgw-02-VQI",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcPHlta7z7ulPtHPKiaeyl_uIqhT9pu2OwMd9KQAZ98Izf9LUIGV9d98asadtyv6Et3LRRB2ea2JP-BxrX7K_EpCU-qb-MRvBWibYyTA7uReYTONLllO87mlSqRfqv3SQSpeBm4=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcPHlta7z7ulPtHPKiaeyl_uIqhT9pu2OwMd9KQAZ98Izf9LUIGV9d98asadtyv6Et3LRRB2ea2JP-BxrX7K_EpCU-qb-MRvBWibYyTA7uReYTONLllO87mlSqRfqv3SQSpeBm4=w1000-h750-no",
-    "rating": 4.3,
-    "review_count": 1127,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJHfX0eCoiwUcR5yhmotL3tnc",
-    "name": "Temyil",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Hasselt",
-    "address": "Temyil, Ridder Portmansstraat 6, 3500 Hasselt",
-    "street": "Ridder Portmansstraat 6",
-    "postal_code": "3500",
-    "region": null,
-    "latitude": 50.929393,
-    "longitude": 5.3333578,
-    "phone": "011 27 49 32",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Temyil&query_place_id=ChIJHfX0eCoiwUcR5yhmotL3tnc",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe6iw-hkxRbuaSB_NgyxkgwtXvBZJ3Ce86oCkiZqicGx61Ont6pV0_HrZ0TdZZPqII9Q6q3bqjRgZhVvOkzA2H-dC7l8SGhQrPXaIo5Sd7kCTN13903DBq4p-6lz1pjcvj0bc63=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe6iw-hkxRbuaSB_NgyxkgwtXvBZJ3Ce86oCkiZqicGx61Ont6pV0_HrZ0TdZZPqII9Q6q3bqjRgZhVvOkzA2H-dC7l8SGhQrPXaIo5Sd7kCTN13903DBq4p-6lz1pjcvj0bc63=w1000-h750-no",
-    "rating": 3.3,
-    "review_count": 3,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJf8O-22UhwUcRrm5aMRyM7jU",
-    "name": "The Butchery",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Hasselt",
-    "address": "The Butchery, Zegestraat, 3500 Hasselt",
-    "street": "Zegestraat",
-    "postal_code": "3500",
-    "region": null,
-    "latitude": 50.947074199999996,
-    "longitude": 5.3475649,
-    "phone": "011 21 03 19",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=The%20Butchery&query_place_id=ChIJf8O-22UhwUcRrm5aMRyM7jU",
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rU1CfnUFOI-IcVdmhnb6Kw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=152.67422&pitch=0.21794875&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rU1CfnUFOI-IcVdmhnb6Kw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=152.67422&pitch=0.21794875&thumbfov=w1000-h750-no",
-    "rating": null,
-    "review_count": 0,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJQ3DKXAXZwEcRG4uJB5pGKO4",
-    "name": "Türkmen Pide & Kebap",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Hasselt",
-    "address": "Türkmen Pide & Kebap, Kempische Steenweg 475, 3500 Hasselt",
-    "street": "Kempische Steenweg 475",
-    "postal_code": "3500",
-    "region": null,
-    "latitude": 50.965391399999994,
-    "longitude": 5.3574461,
-    "phone": "011 24 24 73",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=T%C3%BCrkmen%20Pide%20%26%20Kebap&query_place_id=ChIJQ3DKXAXZwEcRG4uJB5pGKO4",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc1w0cn_ykkyFiHuCqXq2NNZL5vFRzZ29RZkphG3vsgHDtu-bWGtYhebbRQrdZP404JvK6v6gsfHDWtoElQCjotaE384cInvHXK8Xr2Qk2Y-UKV_oKfj0hBjHakiI7s8gMM-qEM=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc1w0cn_ykkyFiHuCqXq2NNZL5vFRzZ29RZkphG3vsgHDtu-bWGtYhebbRQrdZP404JvK6v6gsfHDWtoElQCjotaE384cInvHXK8Xr2Qk2Y-UKV_oKfj0hBjHakiI7s8gMM-qEM=w1000-h750-no",
-    "rating": null,
-    "review_count": 0,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJ_1LqQWAhwUcRAEzwYevqt3w",
-    "name": "WASBAR",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Hasselt",
-    "address": "WASBAR, Grote Markt 14, 3500 Hasselt",
-    "street": "Grote Markt 14",
-    "postal_code": "3500",
-    "region": null,
-    "latitude": 50.929465,
-    "longitude": 5.33813,
-    "phone": "011 41 67 43",
-    "website": "https://www.wasbar.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=WASBAR&query_place_id=ChIJ_1LqQWAhwUcRAEzwYevqt3w",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdgw4eJV3QcdrXrTm2MGE6uw4rWjpmjZbWwc7vGwzQC0OZ2VA51QD1vbbAo6DGtjAS_mxs4jT1wAK6kDDK0wA2eFcWQK1N1riVfnI3xt5I9-mdml_retL3upEgmtELmojU-QaMg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdgw4eJV3QcdrXrTm2MGE6uw4rWjpmjZbWwc7vGwzQC0OZ2VA51QD1vbbAo6DGtjAS_mxs4jT1wAK6kDDK0wA2eFcWQK1N1riVfnI3xt5I9-mdml_retL3upEgmtELmojU-QaMg=w1000-h750-no",
-    "rating": 4.3,
-    "review_count": 965,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJI8WtvWIhwUcRQmzKpW7Y-1g",
-    "name": "Wok Dynasty Hasselt",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Hasselt",
-    "address": "Wok Dynasty Hasselt, Kempische Steenweg 136a, 3500 Hasselt",
-    "street": "Kempische Steenweg 136a",
-    "postal_code": "3500",
-    "region": null,
-    "latitude": 50.938587399999996,
-    "longitude": 5.3407241,
-    "phone": "011 25 08 88",
-    "website": "https://www.wokdynasty.be/hasselt/nl/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Wok%20Dynasty%20Hasselt&query_place_id=ChIJI8WtvWIhwUcRQmzKpW7Y-1g",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdh51dOR3w-GNzHr-MeNZ3gj9LxkF_vILW14jw9b3mGM1h-BsetcklJezLSXHD1ScLkvSfHHktIlQauIn9t5S1RW0WQlOMbqaULzJ4zqigGEoyNhfJcHJFvmk0Uj1wGuCjfJLM5_g=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdh51dOR3w-GNzHr-MeNZ3gj9LxkF_vILW14jw9b3mGM1h-BsetcklJezLSXHD1ScLkvSfHHktIlQauIn9t5S1RW0WQlOMbqaULzJ4zqigGEoyNhfJcHJFvmk0Uj1wGuCjfJLM5_g=w1000-h750-no",
-    "rating": null,
-    "review_count": 0,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJM2I_fwAhwUcRAy50Q_zMRTo",
-    "name": "omae sushi",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Hasselt",
-    "address": "omae sushi, Maastrichtersteenweg 9، 3500 Hasselt",
-    "street": "Maastrichtersteenweg 9",
-    "postal_code": "3500",
-    "region": null,
-    "latitude": 50.9304582,
-    "longitude": 5.3452198,
-    "phone": "0496 38 02 02",
-    "website": "https://www.omae-sushi.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=omae%20sushi&query_place_id=ChIJM2I_fwAhwUcRAy50Q_zMRTo",
-    "open_hours_json": {
-      "Monday": [
-        "5–10 pm"
-      ],
-      "Tuesday": [
-        "5–10 pm"
-      ],
-      "Wednesday": [
-        "5–10 pm"
-      ],
-      "Thursday": [
-        "5–10 pm"
-      ],
-      "Friday": [
-        "5–10:30 pm"
-      ],
-      "Saturday": [
-        "11:30 am–11 pm"
-      ],
-      "Sunday": [
-        "11:30 am–11 pm"
-      ]
-    },
-    "review_count": 194,
-    "rating": 4.9,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeDxQp6Za9gv7RkdunMiwc2l6yqUisCynsM7RmK0bJPA4s2uqaLTA2ctVOs0PdGrGk58xLYoiuiniNbe0YV_-JirP8M48JPcqCxz6sclVY6Tk2F4mSiBiCJwInH3jOWsWrOvaKMZ-jM8YCe=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeDxQp6Za9gv7RkdunMiwc2l6yqUisCynsM7RmK0bJPA4s2uqaLTA2ctVOs0PdGrGk58xLYoiuiniNbe0YV_-JirP8M48JPcqCxz6sclVY6Tk2F4mSiBiCJwInH3jOWsWrOvaKMZ-jM8YCe=w1000-h750-no",
-    "source_query": "Halal restaurant in Hasselt, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJcY3bJd8jwUcRuS2XcgHBLC0",
-    "name": "tikka N talk",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Hasselt",
-    "address": "tikka N talk, Bampslaan 24, 3500 Hasselt",
-    "street": "Bampslaan 24",
-    "postal_code": "3500",
-    "region": null,
-    "latitude": 50.9302533,
-    "longitude": 5.3304732,
-    "phone": "0492 53 29 22",
-    "website": "https://tikkantalk.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=tikka%20N%20talk&query_place_id=ChIJcY3bJd8jwUcRuS2XcgHBLC0",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdXTvCybKjufWUywhxickhnBuzn7syKuKDsyl0bKAbI5veU5jV5Vggz8jlh9pfxiDsF56qL_Bnr6a2XsqJs1qBQVlTMvwR94Cv-TaXPlGuRVZ4ZMEPHTCz16wgquJINXt873kM-=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdXTvCybKjufWUywhxickhnBuzn7syKuKDsyl0bKAbI5veU5jV5Vggz8jlh9pfxiDsF56qL_Bnr6a2XsqJs1qBQVlTMvwR94Cv-TaXPlGuRVZ4ZMEPHTCz16wgquJINXt873kM-=w1000-h750-no",
-    "rating": 3.9,
-    "review_count": 153,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJ6YXsqGvh3EcR5QzIKTHFVIE",
-    "name": "Hazebrouck Mosque",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "FR",
-    "country_code": "FR",
-    "city": "Hazebrouck",
-    "address": "Hazebrouck Mosque, 380 Rue de Merville, 59190 Hazebrouck, France",
-    "street": "380 Rue de Merville",
-    "postal_code": "59190",
-    "region": null,
-    "latitude": 50.7110864,
-    "longitude": 2.5487306,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Hazebrouck%20Mosque&query_place_id=ChIJ6YXsqGvh3EcR5QzIKTHFVIE",
-    "open_hours_json": null,
-    "review_count": 25,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdNTQeEFyX_BqF5SIjqzrilcIJfKahRc8BFih9tdlHBbOn9G5YJLcvmIAyvpqNeNs8lwCRsOAYr40lkOUZIGJGi6YrsbUdi9rJwOZwexPF1s_2C8r3zyNgirpXhJlqm89LXp7Al=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdNTQeEFyX_BqF5SIjqzrilcIJfKahRc8BFih9tdlHBbOn9G5YJLcvmIAyvpqNeNs8lwCRsOAYr40lkOUZIGJGi6YrsbUdi9rJwOZwexPF1s_2C8r3zyNgirpXhJlqm89LXp7Al=w1000-h750-no",
-    "source_query": "Mosque in Reningelst, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
   }
 ]

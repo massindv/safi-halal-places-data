@@ -1,5 +1,783 @@
 [
   {
+    "place_id": "ChIJPZYWO00_wUcR6A3xBhwFW8s",
+    "name": "De Goeie Kost",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Diest",
+    "address": "De Goeie Kost, Koning Albertstraat 31, 3290 Diest",
+    "street": "Koning Albertstraat 31",
+    "postal_code": "3290",
+    "region": null,
+    "latitude": 50.985780899999995,
+    "longitude": 5.0529673,
+    "phone": "013 29 78 25",
+    "website": "https://www.degoeiekost.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=De%20Goeie%20Kost&query_place_id=ChIJPZYWO00_wUcR6A3xBhwFW8s",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "12–3 pm",
+        "6–10 pm"
+      ],
+      "Wednesday": [
+        "12–3 pm",
+        "6–10 pm"
+      ],
+      "Thursday": [
+        "12–3 pm",
+        "6–10 pm"
+      ],
+      "Friday": [
+        "12–3 pm",
+        "6–10 pm"
+      ],
+      "Saturday": [
+        "12–3 pm",
+        "6–10 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 279,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfNsIWH9sbKvOx8N_tr2oVIq79oCcUscr1QxvYUyIzVEbfjbC4H5zjK2anhZ7Is-0KM9Vax7hRm2QzHygFiaNJ3JqD8-sRmnshWQ1EkGCPddZjzbBvTdmwx33dLDxFwA_FRO2aC=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfNsIWH9sbKvOx8N_tr2oVIq79oCcUscr1QxvYUyIzVEbfjbC4H5zjK2anhZ7Is-0KM9Vax7hRm2QzHygFiaNJ3JqD8-sRmnshWQ1EkGCPddZjzbBvTdmwx33dLDxFwA_FRO2aC=w1000-h750-no",
+    "source_query": "Halal restaurant in Diest, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJafGUx04_wUcRz7Fp6CUlvHs",
+    "name": "EFES KEBAP DIEST",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Diest",
+    "address": "EFES KEBAP DIEST, Hasseltsestraat 83, 3290 Diest",
+    "street": "Hasseltsestraat 83",
+    "postal_code": "3290",
+    "region": null,
+    "latitude": 50.9798504,
+    "longitude": 5.0549479999999996,
+    "phone": "013 31 57 52",
+    "website": "https://efeskebabdiest.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=EFES%20KEBAP%20DIEST&query_place_id=ChIJafGUx04_wUcRz7Fp6CUlvHs",
+    "open_hours_json": {
+      "Monday": [
+        "11 am–11:30 pm"
+      ],
+      "Tuesday": [
+        "10:30 am–11:30 pm"
+      ],
+      "Wednesday": [
+        "10:30 am–11:30 pm"
+      ],
+      "Thursday": [
+        "10:45 am–11:30 pm"
+      ],
+      "Friday": [
+        "10:45 am–11:30 pm"
+      ],
+      "Saturday": [
+        "10:45 am–11:30 pm"
+      ],
+      "Sunday": [
+        "10:45 am–11:30 pm"
+      ]
+    },
+    "review_count": 366,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdJHEDqzV6DHZLKGsdx4QWlhB93KsQW2rXb4FJuH4lnWF_uA_7FeZGwTUP4tAdfG5NiC73nUO5ubvuDOskAZJ7v4ohONGgX65LSKES_iYGPGUMF6zYqYc3zLflDwSM9sRoaSQGu=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdJHEDqzV6DHZLKGsdx4QWlhB93KsQW2rXb4FJuH4lnWF_uA_7FeZGwTUP4tAdfG5NiC73nUO5ubvuDOskAZJ7v4ohONGgX65LSKES_iYGPGUMF6zYqYc3zLflDwSM9sRoaSQGu=w1000-h750-no",
+    "source_query": "Halal restaurant in Diest, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJq5JCf-s_wUcRNhTHPXDTOUE",
+    "name": "Elite Slagerij Diest (Halal)",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Diest",
+    "address": "Elite Slagerij Diest (Halal), Hasseltsestraat 81, 3290 Diest",
+    "street": "Hasseltsestraat 81",
+    "postal_code": "3290",
+    "region": null,
+    "latitude": 50.979898899999995,
+    "longitude": 5.054863999999999,
+    "phone": "0465 85 84 84",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Elite%20Slagerij%20Diest%20%28Halal%29&query_place_id=ChIJq5JCf-s_wUcRNhTHPXDTOUE",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcHKKNv9y6Gl5EeurE9CM-tMUFh6Qo2-14vUYU7-XONmGHtynZQTgC73SjDlaT2IpW6m-fGFa9RQoRESxMF5mVylwr3AA_jHEVynx2m3eoEJNUhPNhZ1_MvxIg0HWa4SUwXsQpO=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcHKKNv9y6Gl5EeurE9CM-tMUFh6Qo2-14vUYU7-XONmGHtynZQTgC73SjDlaT2IpW6m-fGFa9RQoRESxMF5mVylwr3AA_jHEVynx2m3eoEJNUhPNhZ1_MvxIg0HWa4SUwXsQpO=w1000-h750-no",
+    "rating": 4.7,
+    "review_count": 19,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJYZbQjvE5wUcRqHxYc0UWA04",
+    "name": "Garlic",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Diest",
+    "address": "Garlic, Koning Albertstraat 74, 3290 Diest",
+    "street": "Koning Albertstraat 74",
+    "postal_code": "3290",
+    "region": null,
+    "latitude": 50.987199499999996,
+    "longitude": 5.055132599999999,
+    "phone": "0465 14 70 26",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Garlic&query_place_id=ChIJYZbQjvE5wUcRqHxYc0UWA04",
+    "open_hours_json": {
+      "Monday": [
+        "10 am–3 pm"
+      ],
+      "Tuesday": [
+        "10 am–7 pm"
+      ],
+      "Wednesday": [
+        "10 am–7 pm"
+      ],
+      "Thursday": [
+        "10 am–7 pm"
+      ],
+      "Friday": [
+        "10 am–7 pm"
+      ],
+      "Saturday": [
+        "10 am–7 pm"
+      ],
+      "Sunday": [
+        "10 am–3 pm"
+      ]
+    },
+    "review_count": 1,
+    "rating": 5.0,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeZyrhHGE0ierXQPKWbNoP1QueJbKpsbUNgpi30iAQnBv5dYw_qan_3_oZl_ZE0vLVHjl6wOfskpvXkbaAKfydZJmjRYkFS1h8oaTlGC0b9c0vy4AM2BdwSEw5lObMVnaHSt4SU3oXMfcmB=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeZyrhHGE0ierXQPKWbNoP1QueJbKpsbUNgpi30iAQnBv5dYw_qan_3_oZl_ZE0vLVHjl6wOfskpvXkbaAKfydZJmjRYkFS1h8oaTlGC0b9c0vy4AM2BdwSEw5lObMVnaHSt4SU3oXMfcmB=w1000-h750-no",
+    "source_query": "Hypermarket in Diest, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJsfRU0E4_wUcR5itdTeYjzfk",
+    "name": "Immigrand",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Diest",
+    "address": "Immigrand, Commissaris Neyskenslaan 5, 3290 Diest",
+    "street": "Commissaris Neyskenslaan 5",
+    "postal_code": "3290",
+    "region": null,
+    "latitude": 50.9794505,
+    "longitude": 5.0549589,
+    "phone": "013 77 64 00",
+    "website": "https://www.immigrand-diest.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Immigrand&query_place_id=ChIJsfRU0E4_wUcR5itdTeYjzfk",
+    "open_hours_json": null,
+    "review_count": 269,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLchfaH5t75BK1xAF8XeNkjCHG8MUdaB9GvTmpRYuVZW3GggiFzUHisA7RU-FRu_iIsMse2xZIE9P3kWPHZrt9u0qq0G1F84nOP1l2qKSrhwWcyS7vsFYHZaWPjHxwdxr3iOboY=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLchfaH5t75BK1xAF8XeNkjCHG8MUdaB9GvTmpRYuVZW3GggiFzUHisA7RU-FRu_iIsMse2xZIE9P3kWPHZrt9u0qq0G1F84nOP1l2qKSrhwWcyS7vsFYHZaWPjHxwdxr3iOboY=w1000-h750-no",
+    "source_query": "Halal restaurant in Diest, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJNbmkbU0_wUcRZIFJOAQr-Oo",
+    "name": "In De Beiaard",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Diest",
+    "address": "In De Beiaard, Koning Albertstraat 1, 3290 Diest",
+    "street": "Koning Albertstraat 1",
+    "postal_code": "3290",
+    "region": null,
+    "latitude": 50.9851294,
+    "longitude": 5.0521598,
+    "phone": "013 32 21 74",
+    "website": "http://www.indebeiaard.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=In%20De%20Beiaard&query_place_id=ChIJNbmkbU0_wUcRZIFJOAQr-Oo",
+    "open_hours_json": null,
+    "review_count": 354,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe7oe0N3kUpcvWvrQcy_99RqLKZq9CnuYpP3LA4pP4cBToydY8845BPjtMDqc7jY-EeCt_U2na9ckNm96VMu_uf7gFDf8hHT9Fq8I6hsmWZ13QHQh0Efl2hAAwS5WKJnv8z-3Y=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe7oe0N3kUpcvWvrQcy_99RqLKZq9CnuYpP3LA4pP4cBToydY8845BPjtMDqc7jY-EeCt_U2na9ckNm96VMu_uf7gFDf8hHT9Fq8I6hsmWZ13QHQh0Efl2hAAwS5WKJnv8z-3Y=w1000-h750-no",
+    "source_query": "Halal restaurant in Diest, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ86Z0cU0_wUcRoTXFuH7Nn9E",
+    "name": "In Den Zoeten Inval",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Diest",
+    "address": "In Den Zoeten Inval, Grote Markt 6, 3290 Diest",
+    "street": "Grote Markt 6",
+    "postal_code": "3290",
+    "region": null,
+    "latitude": 50.984603,
+    "longitude": 5.0515517999999995,
+    "phone": "013 32 63 51",
+    "website": "http://www.indenzoeteninval.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=In%20Den%20Zoeten%20Inval&query_place_id=ChIJ86Z0cU0_wUcRoTXFuH7Nn9E",
+    "open_hours_json": {
+      "Monday": [
+        "10 am–10 pm"
+      ],
+      "Tuesday": [
+        "10 am–10 pm"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "Closed"
+      ],
+      "Friday": [
+        "10 am–10 pm"
+      ],
+      "Saturday": [
+        "10 am–10 pm"
+      ],
+      "Sunday": [
+        "10 am–10 pm"
+      ]
+    },
+    "review_count": 267,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf7c5oyOGE3hyyzWL8mjoym-8Oe0Kp6YF71t1vFf8f_P2llwO-sd2mn7l5h5t6qwQ79VMwVuj-HgYo0UurAIuRSxTjVu75BJeR9CqRCxYtwvEll_QW8hqYoDhE4HiU2PnfvMaA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf7c5oyOGE3hyyzWL8mjoym-8Oe0Kp6YF71t1vFf8f_P2llwO-sd2mn7l5h5t6qwQ79VMwVuj-HgYo0UurAIuRSxTjVu75BJeR9CqRCxYtwvEll_QW8hqYoDhE4HiU2PnfvMaA=w1000-h750-no",
+    "source_query": "Halal restaurant in Diest, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJc_vJXUg_wUcRN-LkZuL6fc0",
+    "name": "Islamitische Federatie Van Belgié",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Diest",
+    "address": "Islamitische Federatie Van Belgié, Eduard Robeynslaan, 3290 Diest",
+    "street": "Eduard Robeynslaan",
+    "postal_code": "3290",
+    "region": null,
+    "latitude": 50.9774289,
+    "longitude": 5.0591573,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Islamitische%20Federatie%20Van%20Belgi%C3%A9&query_place_id=ChIJc_vJXUg_wUcRN-LkZuL6fc0",
+    "open_hours_json": null,
+    "review_count": 2,
+    "rating": 4.0,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vR8FeJDe_yckHOK49BPDGQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=209.67554&pitch=-1.1680794&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vR8FeJDe_yckHOK49BPDGQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=209.67554&pitch=-1.1680794&thumbfov=w1000-h750-no",
+    "source_query": "Mosque in Tielt-Winge, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJI3KMf604wUcRbOxhZVJYbnc",
+    "name": "JAS SUPERMARKET",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Diest",
+    "address": "JAS SUPERMARKET, Statiestraat 88, 3290 Diest",
+    "street": "Statiestraat 88",
+    "postal_code": "3290",
+    "region": null,
+    "latitude": 50.9894258,
+    "longitude": 5.0511452,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=JAS%20SUPERMARKET&query_place_id=ChIJI3KMf604wUcRbOxhZVJYbnc",
+    "open_hours_json": {
+      "Monday": [
+        "Open 24 hours"
+      ],
+      "Tuesday": [
+        "Open 24 hours"
+      ],
+      "Wednesday": [
+        "Open 24 hours"
+      ],
+      "Thursday": [
+        "Open 24 hours"
+      ],
+      "Friday": [
+        "Open 24 hours"
+      ],
+      "Saturday": [
+        "Open 24 hours"
+      ],
+      "Sunday": [
+        "Open 24 hours"
+      ]
+    },
+    "review_count": 0,
+    "rating": null,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ijWVa7kZV474h8M75QqdTQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=310.9125&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ijWVa7kZV474h8M75QqdTQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=310.9125&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Hypermarket in Diest, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJxxjp3kM_wUcRciJrb3p6GEY",
+    "name": "Jerome",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Diest",
+    "address": "Jerome, Felix Moonsstraat 28, 3290 Diest",
+    "street": "Felix Moonsstraat 28",
+    "postal_code": "3290",
+    "region": null,
+    "latitude": 50.9853725,
+    "longitude": 5.0533112,
+    "phone": "013 44 11 23",
+    "website": "https://www.jerome.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Jerome&query_place_id=ChIJxxjp3kM_wUcRciJrb3p6GEY",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "12–2 pm",
+        "6:30–9:30 pm"
+      ],
+      "Wednesday": [
+        "12–2 pm",
+        "6:30–9:30 pm"
+      ],
+      "Thursday": [
+        "12–2 pm",
+        "6:30–9:30 pm"
+      ],
+      "Friday": [
+        "12–2 pm",
+        "6:30–9:30 pm"
+      ],
+      "Saturday": [
+        "6:30–9:30 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 111,
+    "rating": 4.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe5v1g2ZKdUMmrIn0dL-BbXIY36AFGbrkBuy5OSBzib6qutUyBLGSmGVu-vDRajavKrlhLTGeDtp0eGZY6c6lMMYLZy-71Cz-GJDSDTmaytjBI21uAf751wIP1rMUtK-w-py1PrF6RFeUpK=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe5v1g2ZKdUMmrIn0dL-BbXIY36AFGbrkBuy5OSBzib6qutUyBLGSmGVu-vDRajavKrlhLTGeDtp0eGZY6c6lMMYLZy-71Cz-GJDSDTmaytjBI21uAf751wIP1rMUtK-w-py1PrF6RFeUpK=w1000-h750-no",
+    "source_query": "Halal restaurant in Diest, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ8-2f1Uw_wUcRB7iWw6550ZM",
+    "name": "Johnny Flamingo",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Diest",
+    "address": "Johnny Flamingo, Koning Albertstraat 59, 3290 Diest",
+    "street": "Koning Albertstraat 59",
+    "postal_code": "3290",
+    "region": null,
+    "latitude": 50.986481399999995,
+    "longitude": 5.0541130999999995,
+    "phone": "013 77 45 42",
+    "website": "https://www.johnnyflamingo.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Johnny%20Flamingo&query_place_id=ChIJ8-2f1Uw_wUcRB7iWw6550ZM",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "5–10 pm"
+      ],
+      "Thursday": [
+        "5–10 pm"
+      ],
+      "Friday": [
+        "5–10 pm"
+      ],
+      "Saturday": [
+        "5–10 pm"
+      ],
+      "Sunday": [
+        "5–10 pm"
+      ]
+    },
+    "review_count": 732,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeWg0x4ClSNNfG9RNwSBq6FDV2aE--0q4yLx8IDCIsNkkRC7FS4sSVsT_CuFV6LeaTTCRowX4f9Rwfzg0iOtWZag5XZoxzFd3MOoQMyWIiDo2YdQgf2RQnAMLnwuJlMfxZ-tOLbtg=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeWg0x4ClSNNfG9RNwSBq6FDV2aE--0q4yLx8IDCIsNkkRC7FS4sSVsT_CuFV6LeaTTCRowX4f9Rwfzg0iOtWZag5XZoxzFd3MOoQMyWIiDo2YdQgf2RQnAMLnwuJlMfxZ-tOLbtg=w1000-h750-no",
+    "source_query": "Halal restaurant in Diest, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJy0YRg04_wUcRV7w8UVMg9Ak",
+    "name": "Kusadasi",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Diest",
+    "address": "Kusadasi, Hasseltsestraat 38, 3290 Diest",
+    "street": "Hasseltsestraat 38",
+    "postal_code": "3290",
+    "region": null,
+    "latitude": 50.981269399999995,
+    "longitude": 5.0536451,
+    "phone": "0478 45 06 45",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kusadasi&query_place_id=ChIJy0YRg04_wUcRV7w8UVMg9Ak",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "11:30 am–10:30 pm"
+      ],
+      "Wednesday": [
+        "11:30 am–10:30 pm"
+      ],
+      "Thursday": [
+        "11:30 am–10:30 pm"
+      ],
+      "Friday": [
+        "11:30 am–12 am"
+      ],
+      "Saturday": [
+        "2 pm–12 am"
+      ],
+      "Sunday": [
+        "2–10:30 pm"
+      ]
+    },
+    "review_count": 119,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfHN6-LdBFeKY1y9Tn7uwuzgtOqnJ8r5LmRsjgaf2OCvxtcyE_oEvCzhRUGJ3ROji_1NA1qMxq89z8QijYi4gwJedo3Axw7P5uydGdGljYv-HUbhJbI0XJ4-WyJA353E0d1f-I6lw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfHN6-LdBFeKY1y9Tn7uwuzgtOqnJ8r5LmRsjgaf2OCvxtcyE_oEvCzhRUGJ3ROji_1NA1qMxq89z8QijYi4gwJedo3Axw7P5uydGdGljYv-HUbhJbI0XJ4-WyJA353E0d1f-I6lw=w1000-h750-no",
+    "source_query": "Halal restaurant in Diest, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJac94OCA_wUcRup7JE9vWiqs",
+    "name": "La Margherita",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Diest",
+    "address": "La Margherita, Grote Markt 23, 3290 Diest",
+    "street": "Grote Markt 23",
+    "postal_code": "3290",
+    "region": null,
+    "latitude": 50.9839122,
+    "longitude": 5.0502804999999995,
+    "phone": "013 29 44 11",
+    "website": "https://lamargheritadiest.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Margherita&query_place_id=ChIJac94OCA_wUcRup7JE9vWiqs",
+    "open_hours_json": {
+      "Monday": [
+        "5–9 pm"
+      ],
+      "Tuesday": [
+        "5–9 pm"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "Closed"
+      ],
+      "Friday": [
+        "5–10 pm"
+      ],
+      "Saturday": [
+        "5–9:30 pm"
+      ],
+      "Sunday": [
+        "12–2 pm",
+        "4:30–9 pm"
+      ]
+    },
+    "review_count": 360,
+    "rating": 4.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLea81LwKDD4tP2gNnWRIJ90bXlI5FifN0ZVdkmgtQpyY0vOOInuTkh4qibgKE-DZ2S5VUMtySN2uyVnWpmlPqVnBeun0p3Y2zDZeFZM7t3lKZ1vnwoDeflNdbk8JWdELPVCtBuU=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLea81LwKDD4tP2gNnWRIJ90bXlI5FifN0ZVdkmgtQpyY0vOOInuTkh4qibgKE-DZ2S5VUMtySN2uyVnWpmlPqVnBeun0p3Y2zDZeFZM7t3lKZ1vnwoDeflNdbk8JWdELPVCtBuU=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Diest, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ3wgCoVk_wUcRQi53CMpe0To",
+    "name": "Lunch Garden Webbekom",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Diest",
+    "address": "Lunch Garden Webbekom, Leuvensesteenweg 110A, 3290 Diest",
+    "street": "Leuvensesteenweg 110A",
+    "postal_code": "3290",
+    "region": null,
+    "latitude": 50.9735814,
+    "longitude": 5.0441633,
+    "phone": "0490 47 59 45",
+    "website": "https://www.lunchgarden.be/nl/onze-restaurants/webbekom",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Lunch%20Garden%20Webbekom&query_place_id=ChIJ3wgCoVk_wUcRQi53CMpe0To",
+    "open_hours_json": {
+      "Monday": [
+        "8:30 am–9:30 pm"
+      ],
+      "Tuesday": [
+        "8:30 am–9:30 pm"
+      ],
+      "Wednesday": [
+        "8:30 am–9:30 pm"
+      ],
+      "Thursday": [
+        "8:30 am–9:30 pm"
+      ],
+      "Friday": [
+        "8:30 am–9:30 pm"
+      ],
+      "Saturday": [
+        "8:30 am–9:30 pm"
+      ],
+      "Sunday": [
+        "8:30 am–9:30 pm"
+      ]
+    },
+    "review_count": 1340,
+    "rating": 3.9,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfj4KPEOT70MJXc7x9k0yq1CwqCmg1tXQelbP81F1i90My1vjYcHQrQukXyhptKqObnyeufOYSCwmw-Q0bWLRfSD_0eGtETW5rDuXx19qvpn3OSqkvWYmg80KjPC3aZYsbDlKp6=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfj4KPEOT70MJXc7x9k0yq1CwqCmg1tXQelbP81F1i90My1vjYcHQrQukXyhptKqObnyeufOYSCwmw-Q0bWLRfSD_0eGtETW5rDuXx19qvpn3OSqkvWYmg80KjPC3aZYsbDlKp6=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Diest, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJpaVXf1I_wUcRfODrrbTEOZI",
+    "name": "Nicky's, Café",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Diest",
+    "address": "Nicky's, Café, Grote Markt 26, 3290 Diest",
+    "street": "Grote Markt 26",
+    "postal_code": "3290",
+    "region": null,
+    "latitude": 50.984141799999996,
+    "longitude": 5.0501619,
+    "phone": "013 31 36 40",
+    "website": "https://www.nickyscatwalk.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Nicky%27s%2C%20Caf%C3%A9&query_place_id=ChIJpaVXf1I_wUcRfODrrbTEOZI",
+    "open_hours_json": {
+      "Monday": [
+        "Open 24 hours"
+      ],
+      "Tuesday": [
+        "9 am–11 pm"
+      ],
+      "Wednesday": [
+        "9 am–11 pm"
+      ],
+      "Thursday": [
+        "9 am–11 pm"
+      ],
+      "Friday": [
+        "9 am–11 pm"
+      ],
+      "Saturday": [
+        "9 am–11 pm"
+      ],
+      "Sunday": [
+        "9 am–11 pm"
+      ]
+    },
+    "review_count": 1004,
+    "rating": 4.0,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd6h5P65mNtWdvzggWvWxZneV_OJVGHNORDZaWOe1FtPSwzi9cPOc0LyBiS0eRhfgcAgu0P8Ub1JIqhuPYSKHqQnht1Mb3jGOD7rXVIAwx5EehmJy5YK6cqQd9moNU6wSGfPG6H=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd6h5P65mNtWdvzggWvWxZneV_OJVGHNORDZaWOe1FtPSwzi9cPOc0LyBiS0eRhfgcAgu0P8Ub1JIqhuPYSKHqQnht1Mb3jGOD7rXVIAwx5EehmJy5YK6cqQd9moNU6wSGfPG6H=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Diest, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ9cUgPE0_wUcRRE-c0Et4tT4",
+    "name": "Pizzeria Da Leonardo",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Diest",
+    "address": "Pizzeria Da Leonardo, Koning Albertstraat 23, 3290 Diest",
+    "street": "Koning Albertstraat 23",
+    "postal_code": "3290",
+    "region": null,
+    "latitude": 50.9856695,
+    "longitude": 5.0528336,
+    "phone": "013 29 77 89",
+    "website": "https://daleonardo.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Da%20Leonardo&query_place_id=ChIJ9cUgPE0_wUcRRE-c0Et4tT4",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "11:30 am–2 pm",
+        "5–10 pm"
+      ],
+      "Thursday": [
+        "11:30 am–2 pm",
+        "5–10 pm"
+      ],
+      "Friday": [
+        "11:30 am–2 pm",
+        "5–11 pm"
+      ],
+      "Saturday": [
+        "11:30 am–2 pm",
+        "5–11 pm"
+      ],
+      "Sunday": [
+        "11:30 am–2 pm",
+        "5–10 pm"
+      ]
+    },
+    "review_count": 536,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc7-JhX-MBX8XUJG245nKxJZko6FJuCQgPLDlVX-OLf7e360wDQFRUEEzvfCNkjSuxMuwRgXERtlcAJejORJn3RPff5QaX0lbr0ztoc2clObJBH3R0bEgfdlf0qno0D0cHz_owZOQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc7-JhX-MBX8XUJG245nKxJZko6FJuCQgPLDlVX-OLf7e360wDQFRUEEzvfCNkjSuxMuwRgXERtlcAJejORJn3RPff5QaX0lbr0ztoc2clObJBH3R0bEgfdlf0qno0D0cHz_owZOQ=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Diest, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJVWjiSQA5wUcREFNyIpIENo0",
+    "name": "QBAB DIEST",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Diest",
+    "address": "QBAB DIEST, Valleilaan 133, 3290 Diest",
+    "street": "Valleilaan 133",
+    "postal_code": "3290",
+    "region": null,
+    "latitude": 50.989422,
+    "longitude": 5.0508136,
+    "phone": "0471 65 67 57",
+    "website": "http://www.eethuisqbabdiest.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=QBAB%20DIEST&query_place_id=ChIJVWjiSQA5wUcREFNyIpIENo0",
+    "open_hours_json": {
+      "Monday": [
+        "11:30 am–1:30 pm",
+        "4–10 pm"
+      ],
+      "Tuesday": [
+        "11:30 am–1:30 pm",
+        "4–10 pm"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "11:30 am–1:30 pm",
+        "4–10 pm"
+      ],
+      "Friday": [
+        "11:30 am–11 pm"
+      ],
+      "Saturday": [
+        "4–11 pm"
+      ],
+      "Sunday": [
+        "4–10 pm"
+      ]
+    },
+    "review_count": 117,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdc5nw39lrpKlyJ1SoVUobzoplBfGRg5_WHOsi5IINU2cc7JKZ6Xj_YuudUdsK0cW5HV1xCx1lv_loBc0WB5VsxsOj254DX_qjukSIuDSnAGEiPJ9FpH18hauK_RDSn0Mwm7TzsiCVFa7Ck=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdc5nw39lrpKlyJ1SoVUobzoplBfGRg5_WHOsi5IINU2cc7JKZ6Xj_YuudUdsK0cW5HV1xCx1lv_loBc0WB5VsxsOj254DX_qjukSIuDSnAGEiPJ9FpH18hauK_RDSn0Mwm7TzsiCVFa7Ck=w1000-h750-no",
+    "source_query": "Halal restaurant in Diest, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJw69UfltHwUcRTD4s2Xu8iTQ",
     "name": "Restaurant Berkenhof",
     "type": "restaurant",
@@ -5557,6 +6335,32 @@
     "verification_evidence": null
   },
   {
+    "place_id": "ChIJg8BgludZwkcRPAyzMBqPVxk",
+    "name": "Boucherie-Charcuterie-Traiteur \"Chez Léon\"",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Dour",
+    "address": "Boucherie-Charcuterie-Traiteur \"Chez Léon\", Rue Grande 73, 7370 Dour",
+    "street": "Rue Grande 73",
+    "postal_code": "7370",
+    "region": null,
+    "latitude": 50.3992394,
+    "longitude": 3.7811298,
+    "phone": "065 65 23 16",
+    "website": "https://shop.boucheriechezleon.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boucherie-Charcuterie-Traiteur%20%22Chez%20L%C3%A9on%22&query_place_id=ChIJg8BgludZwkcRPAyzMBqPVxk",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfHfj66H2LqP7PtltED5DPWAG9bSiAe2wFXfauYs7KnUW1cC1gECxaddFDQqmkjm2ytdlBPhRSEIzJVfUynj5pdVCwYRSGkttyJVV2CbV8_QAFtyQJQULgYRe3NW9dDZIH1p2G6=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfHfj66H2LqP7PtltED5DPWAG9bSiAe2wFXfauYs7KnUW1cC1gECxaddFDQqmkjm2ytdlBPhRSEIzJVfUynj5pdVCwYRSGkttyJVV2CbV8_QAFtyQJQULgYRe3NW9dDZIH1p2G6=w1000-h750-no",
+    "rating": 4.5,
+    "review_count": 61,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
     "place_id": "ChIJfdDUSwBZwkcRzRc-iT5rLXc",
     "name": "Sajan Lashari",
     "type": "mosque",
@@ -9176,8 +9980,8 @@
     "phone": "0491 59 68 59",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=BAD%20BUN&query_place_id=ChIJIaJZMC7Fw0cRQJmeACtT8q4",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe1TWCkRzh8AqDIyHIHjsP2YgTITQrlx1hYrKRPhLNLG6qRYYPuBUNFSbFoJ2n0JKA0-NrDjfZiBTGmh8kcqHdQ1WURuaAzBjMaMGw5kijkDXs0u8fvVKA0ohXJ1bi4UYZBO3b_Rw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe1TWCkRzh8AqDIyHIHjsP2YgTITQrlx1hYrKRPhLNLG6qRYYPuBUNFSbFoJ2n0JKA0-NrDjfZiBTGmh8kcqHdQ1WURuaAzBjMaMGw5kijkDXs0u8fvVKA0ohXJ1bi4UYZBO3b_Rw=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdS0IKz5iKEPiZAWrQ33nq1caEBIWRpeOvpfJzGHWdPAkuk5WJ0KHkn3iopcACA0G9SiCFnZlvk19hUB7MAI9_ZzCdKAbtsZxbei2ffbTF_CieIdCDor6fsDlK78XDHskiVPLDoXA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdS0IKz5iKEPiZAWrQ33nq1caEBIWRpeOvpfJzGHWdPAkuk5WJ0KHkn3iopcACA0G9SiCFnZlvk19hUB7MAI9_ZzCdKAbtsZxbei2ffbTF_CieIdCDor6fsDlK78XDHskiVPLDoXA=w1000-h750-no",
     "rating": 4.7,
     "review_count": 495,
     "verification_status": "UNVERIFIED",
@@ -9680,6 +10484,32 @@
     "moderation_status": "approved"
   },
   {
+    "place_id": "ChIJ-UHHYQDFw0cR_5Regl6ULQg",
+    "name": "Mosquée Malibran",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Elsene",
+    "address": "Mosquée Malibran, Rue Maria Malibran, 1050 Ixelles",
+    "street": "Maria Malibranstraat",
+    "postal_code": "1050",
+    "region": null,
+    "latitude": 50.8308197,
+    "longitude": 4.3734288999999995,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mosqu%C3%A9e%20Malibran&query_place_id=ChIJ-UHHYQDFw0cR_5Regl6ULQg",
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wBjU5ztUEQN2xPQhrS7efQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=333.46426&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wBjU5ztUEQN2xPQhrS7efQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=333.46426&pitch=0&thumbfov=w1000-h750-no",
+    "rating": null,
+    "review_count": 0,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null,
+    "is_active": true,
+    "moderation_status": "approved"
+  },
+  {
     "place_id": "ChIJ4buVYY_Ew0cRB1Ue_rIDu9E",
     "name": "Mumtaz – British Curry House with Indian & Pakistani Soul",
     "type": "restaurant",
@@ -9990,912 +10820,5 @@
     "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
     "is_active": true,
     "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJo8xrKXLFw0cRLYJORkGUZLk",
-    "name": "Yemeni Restaurant",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Elsene",
-    "address": "Yemeni Restaurant, Elsensesteenweg 298, 1050 Elsene",
-    "street": "Elsensesteenweg 298",
-    "postal_code": "1050",
-    "region": null,
-    "latitude": 50.828753,
-    "longitude": 4.3707809,
-    "phone": "0470 70 74 70",
-    "website": "http://alyemenirestaurant.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Yemeni%20Restaurant&query_place_id=ChIJo8xrKXLFw0cRLYJORkGUZLk",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdD4GrWKNwkJSPkF_Gl0R6UJpVwZtPtQycgZZNl_rPERMwqjfVvdxnk7glh0dZirIfgSrezlaKPEjVpQSID6oe9LeenX_ohzKmEQCaBhQfx5_aoxi645QZCzaGn9fxoGu5aTGT-AQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdD4GrWKNwkJSPkF_Gl0R6UJpVwZtPtQycgZZNl_rPERMwqjfVvdxnk7glh0dZirIfgSrezlaKPEjVpQSID6oe9LeenX_ohzKmEQCaBhQfx5_aoxi645QZCzaGn9fxoGu5aTGT-AQ=w1000-h750-no",
-    "rating": 4.4,
-    "review_count": 1620,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJY_j4ut-zw0cR7ca_dxAgUHM",
-    "name": "Al Vecchio Mercato",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Enghien",
-    "address": "Al Vecchio Mercato, Chau. de Bruxelles 335, 7850 Enghien",
-    "street": "Chau. de Bruxelles 335",
-    "postal_code": "7850",
-    "region": null,
-    "latitude": 50.6902237,
-    "longitude": 4.059504,
-    "phone": "02 355 07 24",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Al%20Vecchio%20Mercato&query_place_id=ChIJY_j4ut-zw0cR7ca_dxAgUHM",
-    "open_hours_json": {
-      "Monday": [
-        "12–2 pm",
-        "6:30–9 pm"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "12–2 pm",
-        "6:30–9 pm"
-      ],
-      "Thursday": [
-        "12–2 pm",
-        "6:30–9 pm"
-      ],
-      "Friday": [
-        "12–2 pm",
-        "6:30–9:30 pm"
-      ],
-      "Saturday": [
-        "6:30–9:30 pm"
-      ],
-      "Sunday": [
-        "12–2 pm",
-        "6:30–9:30 pm"
-      ]
-    },
-    "review_count": 451,
-    "rating": 4.4,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeMCAIM26-82ELtvKBwd9SD2MlXWqqMnr7aYeQxEkNLjy9lw7LFrC-BED2M3WP8HqUtmjalFBPC5IHjEzEsgk23qo43du2sQKArSqPql9Kd6UxzbDQFIn3_h7XYrD4omw8NEW3R=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeMCAIM26-82ELtvKBwd9SD2MlXWqqMnr7aYeQxEkNLjy9lw7LFrC-BED2M3WP8HqUtmjalFBPC5IHjEzEsgk23qo43du2sQKArSqPql9Kd6UxzbDQFIn3_h7XYrD4omw8NEW3R=w1000-h750-no",
-    "source_query": "Halal restaurant in Enghien, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJJxJquH-xw0cRIVBr4OOEGKc",
-    "name": "Autrement",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Enghien",
-    "address": "Autrement, Rue d'Hérinnes 14, 7850 Enghien",
-    "street": "Rue d'Hérinnes 14",
-    "postal_code": "7850",
-    "region": null,
-    "latitude": 50.6939108,
-    "longitude": 4.039207,
-    "phone": "02 395 47 60",
-    "website": "https://www.bioautrement.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Autrement&query_place_id=ChIJJxJquH-xw0cRIVBr4OOEGKc",
-    "open_hours_json": {
-      "Monday": [
-        "2–6:30 pm"
-      ],
-      "Tuesday": [
-        "9 am–6:30 pm"
-      ],
-      "Wednesday": [
-        "8:30 am–6:30 pm"
-      ],
-      "Thursday": [
-        "9 am–6:30 pm"
-      ],
-      "Friday": [
-        "9 am–6:30 pm"
-      ],
-      "Saturday": [
-        "9 am–6 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 60,
-    "rating": 4.9,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdJZu8paQI70NxNu_gJ7qjWBKpxLIq1PbuJ6_uZqTFfeOu10mLwfi_9v7TxZVlae1Xp04_tcKV5wptmduPrKtQclRCGtKGPFy59eVHVLiqzFnmkJhzpEEsxeb06xOfOCCMzzTvoIQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdJZu8paQI70NxNu_gJ7qjWBKpxLIq1PbuJ6_uZqTFfeOu10mLwfi_9v7TxZVlae1Xp04_tcKV5wptmduPrKtQclRCGtKGPFy59eVHVLiqzFnmkJhzpEEsxeb06xOfOCCMzzTvoIQ=w1000-h750-no",
-    "source_query": "Halal restaurant in Enghien, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ6xRkcBOxw0cRk5WpAH1Vp_Y",
-    "name": "Boutique",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Enghien",
-    "address": "Boutique, Pl. du Vieux Marché 30, 7850 Enghien",
-    "street": "Pl. du Vieux Marché 30",
-    "postal_code": "7850",
-    "region": null,
-    "latitude": 50.6953927,
-    "longitude": 4.0438814,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boutique&query_place_id=ChIJ6xRkcBOxw0cRk5WpAH1Vp_Y",
-    "open_hours_json": {
-      "Monday": [
-        "8:30 am–8:30 pm"
-      ],
-      "Tuesday": [
-        "8:30 am–8:30 pm"
-      ],
-      "Wednesday": [
-        "8:30 am–8:30 pm"
-      ],
-      "Thursday": [
-        "8:30 am–8:30 pm"
-      ],
-      "Friday": [
-        "8:30 am–8:30 pm"
-      ],
-      "Saturday": [
-        "8:30 am–8:30 pm"
-      ],
-      "Sunday": [
-        "8:30 am–8:30 pm"
-      ]
-    },
-    "review_count": 73,
-    "rating": 4.1,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf5jskQzJT8keJ0JO9J_wtfsygAtDgetzRdVVh1Tmy0LDLqDYiwirTVtkRVHScKtzbjlR62klltkAmBcIc-iwjHbI2wjf7TpZ0ck0OVu37qgN_Ny6CAWofOi6o-msAX01uA6pDK=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf5jskQzJT8keJ0JO9J_wtfsygAtDgetzRdVVh1Tmy0LDLqDYiwirTVtkRVHScKtzbjlR62klltkAmBcIc-iwjHbI2wjf7TpZ0ck0OVu37qgN_Ny6CAWofOi6o-msAX01uA6pDK=w1000-h750-no",
-    "source_query": "Hypermarket in Enghien, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJfYrwmCqyw0cRgI8AJ8TaYTA",
-    "name": "Broodjeszaak Applisnack",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Enghien",
-    "address": "Broodjeszaak Applisnack, Rue Montgomery 84, 7850 Enghien",
-    "street": "Rue Montgomery 84",
-    "postal_code": "7850",
-    "region": null,
-    "latitude": 50.6922936,
-    "longitude": 4.0351611,
-    "phone": "0476 39 44 31",
-    "website": "https://mylunch.be/applisnack",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Broodjeszaak%20Applisnack&query_place_id=ChIJfYrwmCqyw0cRgI8AJ8TaYTA",
-    "open_hours_json": {
-      "Monday": [
-        "12–2 pm"
-      ],
-      "Tuesday": [
-        "12–2 pm"
-      ],
-      "Wednesday": [
-        "12–2 pm"
-      ],
-      "Thursday": [
-        "12–2 pm"
-      ],
-      "Friday": [
-        "12–2 pm"
-      ],
-      "Saturday": [
-        "Closed"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 19,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdiJPRQAR5MzScjNKne7EReL3Hie71cZzZ25A-kDhmYvseGUSFYks2c9PQnEwqhjJkzIPuz2M_7aIDS6aeHA7My2-MzvernChKjyaEPpB6Qoq23cmgdGdkt3C07e6UnNITC3wWE=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdiJPRQAR5MzScjNKne7EReL3Hie71cZzZ25A-kDhmYvseGUSFYks2c9PQnEwqhjJkzIPuz2M_7aIDS6aeHA7My2-MzvernChKjyaEPpB6Qoq23cmgdGdkt3C07e6UnNITC3wWE=w1000-h750-no",
-    "source_query": "Halal restaurant in Enghien, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJFZGkNcqxw0cRAoaaEEJZx4g",
-    "name": "Chifuri Enghien",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Enghien",
-    "address": "Chifuri Enghien, Rue de Bruxelles 75, 7850 Enghien",
-    "street": "Rue de Bruxelles 75",
-    "postal_code": "7850",
-    "region": null,
-    "latitude": 50.694736,
-    "longitude": 4.0422278,
-    "phone": null,
-    "website": "http://chifuri.io/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chifuri%20Enghien&query_place_id=ChIJFZGkNcqxw0cRAoaaEEJZx4g",
-    "open_hours_json": null,
-    "review_count": 0,
-    "rating": null,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLchmIZPQFRS-mVJV8HkEqHcg6c7JFePVc-QdU0hNk4zI3CpstrmMUexRgrZroxXa33iRiP6ETrmow8-koHpzYRaH1Erl8C91b4wrvrLcJ11_7uTsWsASmjQEgfCEFNsgabdWwFEvg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLchmIZPQFRS-mVJV8HkEqHcg6c7JFePVc-QdU0hNk4zI3CpstrmMUexRgrZroxXa33iRiP6ETrmow8-koHpzYRaH1Erl8C91b4wrvrLcJ11_7uTsWsASmjQEgfCEFNsgabdWwFEvg=w1000-h750-no",
-    "source_query": "Halal restaurant in Enghien, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJczHzTiqyw0cRb5NPH5CCUc4",
-    "name": "Collect&Go Edingen",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Enghien",
-    "address": "Collect&Go Edingen, Rue d'Hoves 124, 7850 Enghien",
-    "street": "Rue d'Hoves 124",
-    "postal_code": "7850",
-    "region": null,
-    "latitude": 50.690923899999994,
-    "longitude": 4.0330976,
-    "phone": "02 363 50 05",
-    "website": "https://www.collectandgo.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Collect%26Go%20Edingen&query_place_id=ChIJczHzTiqyw0cRb5NPH5CCUc4",
-    "open_hours_json": {
-      "Monday": [
-        "8 am–8 pm"
-      ],
-      "Tuesday": [
-        "8 am–8 pm"
-      ],
-      "Wednesday": [
-        "8 am–8 pm"
-      ],
-      "Thursday": [
-        "8 am–8 pm"
-      ],
-      "Friday": [
-        "8 am–9 pm"
-      ],
-      "Saturday": [
-        "8 am–8 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 3,
-    "rating": 5.0,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FTcZtb71vLNGJXYuBc2xPQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=114.52275&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FTcZtb71vLNGJXYuBc2xPQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=114.52275&pitch=0&thumbfov=w1000-h750-no",
-    "source_query": "Hypermarket in Enghien, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJjVakT36xw0cRX4lEp7OglQQ",
-    "name": "Grill Place",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Enghien",
-    "address": "Grill Place, Rue de Bruxelles 34, 7850 Enghien",
-    "street": "Rue de Bruxelles 34",
-    "postal_code": "7850",
-    "region": null,
-    "latitude": 50.694432,
-    "longitude": 4.0408587,
-    "phone": "0478 88 84 04",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Grill%20Place&query_place_id=ChIJjVakT36xw0cRX4lEp7OglQQ",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "11 am–10 pm"
-      ],
-      "Wednesday": [
-        "11 am–10 pm"
-      ],
-      "Thursday": [
-        "11 am–10 pm"
-      ],
-      "Friday": [
-        "11 am–10 pm"
-      ],
-      "Saturday": [
-        "11 am–10 pm"
-      ],
-      "Sunday": [
-        "12–10 pm"
-      ]
-    },
-    "review_count": 106,
-    "rating": 3.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfdpr2rFPclIexydYsxlJffRIceGSZEJWrtEIUCPffXoF-8sGVf4X8HN8tDuVp8IVQm_SDZSCl6U0oEW_PpexuQbSzQzhaSbyi7uTMwXEz0l0HFAt9twrZQZdpXTuvH7XdqepNy=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfdpr2rFPclIexydYsxlJffRIceGSZEJWrtEIUCPffXoF-8sGVf4X8HN8tDuVp8IVQm_SDZSCl6U0oEW_PpexuQbSzQzhaSbyi7uTMwXEz0l0HFAt9twrZQZdpXTuvH7XdqepNy=w1000-h750-no",
-    "source_query": "Halal restaurant in Enghien, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJp0aUy3-xw0cRNquNCYLbyBM",
-    "name": "Halalslagerij Mokhadam",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Enghien",
-    "address": "Halalslagerij Mokhadam, Rue de Bruxelles 11, 7850 Enghien",
-    "street": "Rue de Bruxelles 11",
-    "postal_code": "7850",
-    "region": null,
-    "latitude": 50.6936511,
-    "longitude": 4.039876,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Halalslagerij%20Mokhadam&query_place_id=ChIJp0aUy3-xw0cRNquNCYLbyBM",
-    "open_hours_json": null,
-    "review_count": 35,
-    "rating": 4.4,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=S8THsKelAPsqli8veweqpQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=148.22603&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=S8THsKelAPsqli8veweqpQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=148.22603&pitch=0&thumbfov=w1000-h750-no",
-    "source_query": "Halal restaurant in Enghien, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "VERIFIED",
-    "verification_evidence": "Explicit Halal keyword indicators in listing metadata"
-  },
-  {
-    "place_id": "ChIJiYLNhS2yw0cRAxxTw2tNj5M",
-    "name": "Krëfel",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Enghien",
-    "address": "Krëfel, Pavé de Soignies 87, 7850 Enghien",
-    "street": "Pavé de Soignies 87",
-    "postal_code": "7850",
-    "region": null,
-    "latitude": 50.6827067,
-    "longitude": 4.0312202,
-    "phone": "02 395 78 18",
-    "website": "https://www.krefel.be/fr/magasins/enghien",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kr%C3%ABfel&query_place_id=ChIJiYLNhS2yw0cRAxxTw2tNj5M",
-    "open_hours_json": {
-      "Monday": [
-        "10 am–6:30 pm"
-      ],
-      "Tuesday": [
-        "10 am–6:30 pm"
-      ],
-      "Wednesday": [
-        "10 am–6:30 pm"
-      ],
-      "Thursday": [
-        "10 am–6:30 pm"
-      ],
-      "Friday": [
-        "10 am–6:30 pm"
-      ],
-      "Saturday": [
-        "10 am–6 pm"
-      ],
-      "Sunday": [
-        "10 am–6 pm"
-      ]
-    },
-    "review_count": 640,
-    "rating": 4.1,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfFOgz6cx_VpzeMdyOatVtPkilQHHvuUYAbGGnBUGF5QlPzT2EYIRVl2vhlonCtabcmNjOBLbKfbx_6HUjhtOi53LjKVVpPN76mP1G4bOcoRybfopkBcUO8XQK7hd90ghLv-08=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfFOgz6cx_VpzeMdyOatVtPkilQHHvuUYAbGGnBUGF5QlPzT2EYIRVl2vhlonCtabcmNjOBLbKfbx_6HUjhtOi53LjKVVpPN76mP1G4bOcoRybfopkBcUO8XQK7hd90ghLv-08=w1000-h750-no",
-    "source_query": "Hypermarket in Enghien, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJUSstZ36xw0cRY3_mkQ0cuTU",
-    "name": "Le Mékong",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Enghien",
-    "address": "Le Mékong, Rue de Bruxelles 74, 7850 Enghien",
-    "street": "Rue de Bruxelles 74",
-    "postal_code": "7850",
-    "region": null,
-    "latitude": 50.6949763,
-    "longitude": 4.0424279,
-    "phone": "02 395 84 28",
-    "website": "https://www.facebook.com/LeMekongEnghien/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20M%C3%A9kong&query_place_id=ChIJUSstZ36xw0cRY3_mkQ0cuTU",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "6–9 pm"
-      ],
-      "Thursday": [
-        "6–9 pm"
-      ],
-      "Friday": [
-        "6–9 pm"
-      ],
-      "Saturday": [
-        "6–9 pm"
-      ],
-      "Sunday": [
-        "12–1:30 pm",
-        "6–9 pm"
-      ]
-    },
-    "review_count": 184,
-    "rating": 4.0,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcHxBCIVesSQsRwsw5zhpHXrG_a217d8EDPQ2X5fF0CqiPmUVN6MOcpDK7darYg0ji06y_rkRZxJry6ksX1v1IxsIRPc0q9d8cuB8mGt2XAUerH0qSm6X5QlBmUa4NUkaDcz7kG=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcHxBCIVesSQsRwsw5zhpHXrG_a217d8EDPQ2X5fF0CqiPmUVN6MOcpDK7darYg0ji06y_rkRZxJry6ksX1v1IxsIRPc0q9d8cuB8mGt2XAUerH0qSm6X5QlBmUa4NUkaDcz7kG=w1000-h750-no",
-    "source_query": "Halal restaurant in Enghien, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ5Xoj1H-xw0cRtQkOlMJvOxE",
-    "name": "Le Platani",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Enghien",
-    "address": "Le Platani, Grand place, Pl. Pierre Delannoy 38, 7850 Enghien",
-    "street": "Grand place, Pierre Delannoyplaats 38",
-    "postal_code": "7850",
-    "region": null,
-    "latitude": 50.6928888,
-    "longitude": 4.0397444,
-    "phone": "02 395 59 66",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Platani&query_place_id=ChIJ5Xoj1H-xw0cRtQkOlMJvOxE",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "12–2 pm",
-        "6:30–9:30 pm"
-      ],
-      "Wednesday": [
-        "12–2 pm",
-        "6:30–9:30 pm"
-      ],
-      "Thursday": [
-        "12–2 pm",
-        "6:30–9:30 pm"
-      ],
-      "Friday": [
-        "12–2 pm",
-        "6:30–9:30 pm"
-      ],
-      "Saturday": [
-        "6:30–9:30 pm"
-      ],
-      "Sunday": [
-        "12–2 pm"
-      ]
-    },
-    "review_count": 423,
-    "rating": 4.2,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfks102ue74hwsEGeyzQsQADA934Xv3vH1aHSyu5R24SvK4QPmT_CpKwKjm4QLCdxzXFZdzsz7g5KsepsBgnjdcNSj_inW9zFkXYsudUxm5seTd7nyLb8DNs99brmQ0bZdta--u=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfks102ue74hwsEGeyzQsQADA934Xv3vH1aHSyu5R24SvK4QPmT_CpKwKjm4QLCdxzXFZdzsz7g5KsepsBgnjdcNSj_inW9zFkXYsudUxm5seTd7nyLb8DNs99brmQ0bZdta--u=w1000-h750-no",
-    "source_query": "Halal restaurant in Enghien, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJkR9V3X-xw0cRbUycNtQliuQ",
-    "name": "Le Sumo",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Enghien",
-    "address": "Le Sumo, Rue Montgomery 5, 7850 Enghien",
-    "street": "Rue Montgomery 5",
-    "postal_code": "7850",
-    "region": null,
-    "latitude": 50.6933553,
-    "longitude": 4.0383116,
-    "phone": "02 395 99 99",
-    "website": "https://mapz5.com/le-sumo-414550-be",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Sumo&query_place_id=ChIJkR9V3X-xw0cRbUycNtQliuQ",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "12–3 pm",
-        "6 pm–12 am"
-      ],
-      "Wednesday": [
-        "12–3 pm",
-        "6 pm–12 am"
-      ],
-      "Thursday": [
-        "12–3 pm",
-        "6–11 pm"
-      ],
-      "Friday": [
-        "12–3 pm",
-        "6 pm–12 am"
-      ],
-      "Saturday": [
-        "12–3 pm",
-        "6 pm–12 am"
-      ],
-      "Sunday": [
-        "12–3 pm",
-        "6–11 pm"
-      ]
-    },
-    "review_count": 524,
-    "rating": 3.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcJ2Kt2KGbkOMtkZIOJNGEDB_Otz8NGD1EAJqi4d37p-vMsdstGWBs69-_NjPxMvDjUjhxaGDs5SB0Hc_6VcHKtRTDSZ0OGLNgS6M3wXrSQY-32uf3Cfi3CA2q7SoQTPCJgO1lp=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcJ2Kt2KGbkOMtkZIOJNGEDB_Otz8NGD1EAJqi4d37p-vMsdstGWBs69-_NjPxMvDjUjhxaGDs5SB0Hc_6VcHKtRTDSZ0OGLNgS6M3wXrSQY-32uf3Cfi3CA2q7SoQTPCJgO1lp=w1000-h750-no",
-    "source_query": "Halal restaurant in Enghien, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJO_BkSzKxw0cR-B46iJ4ijOI",
-    "name": "POINT SHOP",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Enghien",
-    "address": "POINT SHOP, Pl. du Vieux Marché 30, 7850 Enghien",
-    "street": "Pl. du Vieux Marché 30",
-    "postal_code": "7850",
-    "region": null,
-    "latitude": 50.6953927,
-    "longitude": 4.0438814,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=POINT%20SHOP&query_place_id=ChIJO_BkSzKxw0cR-B46iJ4ijOI",
-    "open_hours_json": {
-      "Monday": [
-        "6 am–9 pm"
-      ],
-      "Tuesday": [
-        "6 am–9 pm"
-      ],
-      "Wednesday": [
-        "6 am–9 pm"
-      ],
-      "Thursday": [
-        "6 am–9 pm"
-      ],
-      "Friday": [
-        "6 am–9 pm"
-      ],
-      "Saturday": [
-        "7 am–9 pm"
-      ],
-      "Sunday": [
-        "7 am–9 pm"
-      ]
-    },
-    "review_count": 47,
-    "rating": 4.1,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfC8yfSfJ4IseLZHjOfLMgmFMOfKghBA0CbXNXpFIZjVEWhtw6EI9sFSDrAX1US9Bwg6w4z3ABpB7NyRNImB8UlfqRYoIba96IYeDUhyn1msoFVyFlZkZkgA52gL0bmQEtbwn77xLBM4kjC=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfC8yfSfJ4IseLZHjOfLMgmFMOfKghBA0CbXNXpFIZjVEWhtw6EI9sFSDrAX1US9Bwg6w4z3ABpB7NyRNImB8UlfqRYoIba96IYeDUhyn1msoFVyFlZkZkgA52gL0bmQEtbwn77xLBM4kjC=w1000-h750-no",
-    "source_query": "Hypermarket in Enghien, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJbdbjha23w0cRNpSJtvkC2mQ",
-    "name": "Restaurant du Monde",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Enghien",
-    "address": "Restaurant du Monde, Chau. de Bruxelles 66, 7850 Enghien",
-    "street": "Chau. de Bruxelles 66",
-    "postal_code": "7850",
-    "region": null,
-    "latitude": 50.691390899999995,
-    "longitude": 4.0946731,
-    "phone": "02 534 88 46",
-    "website": "https://fr.restaurantguru.com/Restaurant-du-monde-Buffet-Royal-Enghien",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20du%20Monde&query_place_id=ChIJbdbjha23w0cRNpSJtvkC2mQ",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "12–3 pm",
-        "6–10 pm"
-      ],
-      "Wednesday": [
-        "12–3 pm",
-        "6–10 pm"
-      ],
-      "Thursday": [
-        "12–3 pm",
-        "6–10 pm"
-      ],
-      "Friday": [
-        "12–3 pm",
-        "6–11 pm"
-      ],
-      "Saturday": [
-        "12–3 pm",
-        "6–11 pm"
-      ],
-      "Sunday": [
-        "12–3 pm",
-        "6–10 pm"
-      ]
-    },
-    "review_count": 692,
-    "rating": 3.9,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe1BVEhBb_RifAcNxENqxLlEa6OBpUGzl8pNwzxDdalKTq7oVdSdWTx6tgpWoPimy4GrMHBGnWBd6YCNG__5Dg26Pj0fY5CgQgwwq_7vkr6tDSg4CTfRW-hTGdDeJMiiwMGZsTv=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe1BVEhBb_RifAcNxENqxLlEa6OBpUGzl8pNwzxDdalKTq7oVdSdWTx6tgpWoPimy4GrMHBGnWBd6YCNG__5Dg26Pj0fY5CgQgwwq_7vkr6tDSg4CTfRW-hTGdDeJMiiwMGZsTv=w1000-h750-no",
-    "source_query": "Halal restaurant in Enghien, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJmbKV2n-xw0cR1HvJiGPwtrQ",
-    "name": "Sint-Niklaaskerk",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Enghien",
-    "address": "Sint-Niklaaskerk, Pl. Pierre Delannoy 2, 7850 Enghien",
-    "street": "Pl. Pierre Delannoy 2",
-    "postal_code": "7850",
-    "region": null,
-    "latitude": 50.6931024,
-    "longitude": 4.0392713,
-    "phone": "02 395 92 36",
-    "website": "http://recherche.egliseinfo.be/communaute/Bto/78/enghien-silly",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Sint-Niklaaskerk&query_place_id=ChIJmbKV2n-xw0cR1HvJiGPwtrQ",
-    "open_hours_json": {
-      "Monday": [
-        "9:30 am–5 pm"
-      ],
-      "Tuesday": [
-        "9:30 am–5 pm"
-      ],
-      "Wednesday": [
-        "9:30 am–5 pm"
-      ],
-      "Thursday": [
-        "9:30 am–5 pm"
-      ],
-      "Friday": [
-        "9:30 am–5 pm"
-      ],
-      "Saturday": [
-        "9:30 am–5 pm"
-      ],
-      "Sunday": [
-        "9:30 am–5 pm"
-      ]
-    },
-    "review_count": 120,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfi7rsVacNyocv50ue8lzqEEEgrTyMmyIaA61DD_sTBokaCT7IuzBakaw7brDUTsnKutjq0A1ou71fpZdYrtSP0iLN15ksYpGN0UYInBfQ1-OvTAHSjvNK_3-_-C1Qyh99VInUS=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfi7rsVacNyocv50ue8lzqEEEgrTyMmyIaA61DD_sTBokaCT7IuzBakaw7brDUTsnKutjq0A1ou71fpZdYrtSP0iLN15ksYpGN0UYInBfQ1-OvTAHSjvNK_3-_-C1Qyh99VInUS=w1000-h750-no",
-    "source_query": "Mosque in Enghien, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJN3NbW36xw0cRSGhK5d1UOw4",
-    "name": "Tortue Pizza",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Enghien",
-    "address": "Tortue Pizza, Rue de Bruxelles 53, 7850 Enghien",
-    "street": "Rue de Bruxelles 53",
-    "postal_code": "7850",
-    "region": null,
-    "latitude": 50.6945164,
-    "longitude": 4.0414141,
-    "phone": "02 437 15 02",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Tortue%20Pizza&query_place_id=ChIJN3NbW36xw0cRSGhK5d1UOw4",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "5:30–10 pm"
-      ],
-      "Wednesday": [
-        "5:30–10 pm"
-      ],
-      "Thursday": [
-        "5:30–10 pm"
-      ],
-      "Friday": [
-        "5:30–10 pm"
-      ],
-      "Saturday": [
-        "5:30–10 pm"
-      ],
-      "Sunday": [
-        "5:30–10 pm"
-      ]
-    },
-    "review_count": 183,
-    "rating": 3.7,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdYwWqtfOBPNBmNXZGqWuAsdmG04ZwbJA8vNGtGGvb268Ly6oP8_mrUrjIDQXn5drmfBHxEKuKYU2Kg2Vo8dnJ0aqp47fE3S2YjIdjjnRg1Dj6lbwwa7qwDHxhEOdz-Tu100sfa=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdYwWqtfOBPNBmNXZGqWuAsdmG04ZwbJA8vNGtGGvb268Ly6oP8_mrUrjIDQXn5drmfBHxEKuKYU2Kg2Vo8dnJ0aqp47fE3S2YjIdjjnRg1Dj6lbwwa7qwDHxhEOdz-Tu100sfa=w1000-h750-no",
-    "source_query": "Halal restaurant in Enghien, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJE3Vnmy2xw0cRCQ8MFhZdPEc",
-    "name": "Ujamaa concept store",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Enghien",
-    "address": "Ujamaa concept store, Rue de Bruxelles 19, 7850 Enghien",
-    "street": "Rue de Bruxelles 19",
-    "postal_code": "7850",
-    "region": null,
-    "latitude": 50.6937949,
-    "longitude": 4.0401977,
-    "phone": "0494 78 84 70",
-    "website": "https://www.lesracinesdendaya.com/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ujamaa%20concept%20store&query_place_id=ChIJE3Vnmy2xw0cRCQ8MFhZdPEc",
-    "open_hours_json": {
-      "Monday": [
-        "9 am–7:30 pm"
-      ],
-      "Tuesday": [
-        "9 am–7:30 pm"
-      ],
-      "Wednesday": [
-        "9 am–7:30 pm"
-      ],
-      "Thursday": [
-        "9 am–7:30 pm"
-      ],
-      "Friday": [
-        "9 am–7:30 pm"
-      ],
-      "Saturday": [
-        "9 am–7:30 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 8,
-    "rating": 5.0,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeMoUaJzkJSL3oTmMtnLJkuzpTs8GY1t4dbNVwIxrlykNgI3D5j7CEWStuaslaPnlK1LgMORY1TbKAVarJxyJmwY9-hWYOBSCWukb3cYFk5shSjtjhoppaG_KA8ph7VuzysPSY5=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeMoUaJzkJSL3oTmMtnLJkuzpTs8GY1t4dbNVwIxrlykNgI3D5j7CEWStuaslaPnlK1LgMORY1TbKAVarJxyJmwY9-hWYOBSCWukb3cYFk5shSjtjhoppaG_KA8ph7VuzysPSY5=w1000-h750-no",
-    "source_query": "Hypermarket in Enghien, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJETtkW36xw0cR6YDRDsF2vIg",
-    "name": "Van Der Elst Jean Marc",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Enghien",
-    "address": "Van Der Elst Jean Marc, Rue de Bruxelles 51, 7850 Enghien",
-    "street": "Rue de Bruxelles 51",
-    "postal_code": "7850",
-    "region": null,
-    "latitude": 50.6945088,
-    "longitude": 4.0413026,
-    "phone": "02 395 47 16",
-    "website": "https://jvanderelst.wixsite.com/boucherievanderelst",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Van%20Der%20Elst%20Jean%20Marc&query_place_id=ChIJETtkW36xw0cR6YDRDsF2vIg",
-    "open_hours_json": {
-      "Monday": [
-        "9 am–12 pm",
-        "2–6:30 pm"
-      ],
-      "Tuesday": [
-        "9 am–12 pm",
-        "2–6 pm"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "Closed"
-      ],
-      "Friday": [
-        "9 am–6:30 pm"
-      ],
-      "Saturday": [
-        "9 am–12 pm",
-        "2–6 pm"
-      ],
-      "Sunday": [
-        "9 am–12 pm"
-      ]
-    },
-    "review_count": 24,
-    "rating": 4.8,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ipKSqyLhRH9e7WWA318npg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=202.86662&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ipKSqyLhRH9e7WWA318npg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=202.86662&pitch=0&thumbfov=w1000-h750-no",
-    "source_query": "Halal restaurant in Enghien, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
   }
 ]

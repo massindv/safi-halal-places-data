@@ -1,5 +1,110 @@
 [
   {
+    "place_id": "ChIJo5H8WnsVw0cR4n9Ehq5fM5Q",
+    "name": "Bowls",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Waregem",
+    "address": "Bowls, Stationsstraat 122, 8790 Waregem",
+    "street": "Stationsstraat 122",
+    "postal_code": "8790",
+    "region": null,
+    "latitude": 50.8910859,
+    "longitude": 3.4283132999999997,
+    "phone": "0492 54 54 24",
+    "website": "https://bowls.be/nl/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bowls&query_place_id=ChIJo5H8WnsVw0cR4n9Ehq5fM5Q",
+    "open_hours_json": {
+      "Monday": [
+        "11 am–2 pm",
+        "5–9 pm"
+      ],
+      "Tuesday": [
+        "11 am–2 pm",
+        "5–9 pm"
+      ],
+      "Wednesday": [
+        "11 am–2 pm",
+        "5–9 pm"
+      ],
+      "Thursday": [
+        "11 am–2 pm",
+        "5–9 pm"
+      ],
+      "Friday": [
+        "11 am–2 pm",
+        "5–9 pm"
+      ],
+      "Saturday": [
+        "Closed"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 144,
+    "rating": 4.2,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc-iXnlUSOJLpqQXaRTjXFXt-p1WIQqg06KZVV5btDqEx4s5HdJR9XBAj2o5_sFMbkfU-xggxKBz8ttBn3xlz6OBi62H-Y4UkOmyY_cCO0FJ3OLVpNxnNDAs7R8f-W2dy5-8AA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc-iXnlUSOJLpqQXaRTjXFXt-p1WIQqg06KZVV5btDqEx4s5HdJR9XBAj2o5_sFMbkfU-xggxKBz8ttBn3xlz6OBi62H-Y4UkOmyY_cCO0FJ3OLVpNxnNDAs7R8f-W2dy5-8AA=w1000-h750-no",
+    "source_query": "Fish restaurant in Waregem, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJcX3Kw0IXw0cRPW2ZimzcOv8",
+    "name": "Breakpoint Foodstation Waregem",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Waregem",
+    "address": "Breakpoint Foodstation Waregem, Anzegemseweg 14, 8790 Waregem",
+    "street": "Anzegemseweg 14",
+    "postal_code": "8790",
+    "region": null,
+    "latitude": 50.8685544,
+    "longitude": 3.4440245,
+    "phone": "056 13 65 35",
+    "website": "https://www.enjoybreakpoint.be/nl/foodstation/breakpoint-waregem",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Breakpoint%20Foodstation%20Waregem&query_place_id=ChIJcX3Kw0IXw0cRPW2ZimzcOv8",
+    "open_hours_json": {
+      "Monday": [
+        "5 am–10 pm"
+      ],
+      "Tuesday": [
+        "5 am–10 pm"
+      ],
+      "Wednesday": [
+        "5 am–10 pm"
+      ],
+      "Thursday": [
+        "5 am–10 pm"
+      ],
+      "Friday": [
+        "5 am–10 pm"
+      ],
+      "Saturday": [
+        "7 am–10 pm"
+      ],
+      "Sunday": [
+        "7 am–10 pm"
+      ]
+    },
+    "review_count": 60,
+    "rating": 4.4,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd8xHcIoM_ea2LIyehbhFKxfcMXc5EreH_TZgISYQzZTUoPeBeHZJ-qNYJp-iosMEaBNeCDbEIT92D8-KCri0sawtm10yXWrkATq8KQrOzqr2xYobTxsafSnv578CXaU1OcGUDV41bOf5x-=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd8xHcIoM_ea2LIyehbhFKxfcMXc5EreH_TZgISYQzZTUoPeBeHZJ-qNYJp-iosMEaBNeCDbEIT92D8-KCri0sawtm10yXWrkATq8KQrOzqr2xYobTxsafSnv578CXaU1OcGUDV41bOf5x-=w1000-h750-no",
+    "source_query": "Fish restaurant in Waregem, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJWY9azxk8w0cRsoibvthexXs",
     "name": "Castor",
     "type": "restaurant",
@@ -669,8 +774,8 @@
     "phone": "0465 44 56 99",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Halal%20Slagerij%20Ali&query_place_id=ChIJVXFnRQAVw0cRA1ggP_lxeMU",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcFgxZulKVK5E2honaihoqcoWsjAxrmE3JQli-_XPBwYrCtoLbwLqGgRiS7lbHgZ2dykbHBkh4ISOvVwh_1zRPjaivhF-1_6iOFamRS3iG0y4QJKxRBdh8GwCVGGnpl4rXKxnUC=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcFgxZulKVK5E2honaihoqcoWsjAxrmE3JQli-_XPBwYrCtoLbwLqGgRiS7lbHgZ2dykbHBkh4ISOvVwh_1zRPjaivhF-1_6iOFamRS3iG0y4QJKxRBdh8GwCVGGnpl4rXKxnUC=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfvp72-zldFBTKXfHBdMVt0F0luGxsJJwBfHXmazwhj8zLYsBNcrxVHH93gmVRGTTqkfD9Ww7oO1UNZHYQRZ5FUr8fUeDErHOm-V2iEsbvvZpQLEsJlxew0IubT8DC802L9aDR9=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfvp72-zldFBTKXfHBdMVt0F0luGxsJJwBfHXmazwhj8zLYsBNcrxVHH93gmVRGTTqkfD9Ww7oO1UNZHYQRZ5FUr8fUeDErHOm-V2iEsbvvZpQLEsJlxew0IubT8DC802L9aDR9=w1000-h750-no",
     "rating": 4.8,
     "review_count": 54,
     "verification_status": "VERIFIED",
@@ -11698,110 +11803,6 @@
     "rating": 4.4,
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe81saJ_dp5iVSlAN514Uay90V8j2A6t7-KWuprTDTepcMi_6r407IwE_erv1ST-IDE6VH_l1ID_SELllsinR5QlRZz7njVAmaDhFB1UzujFn1Pc6D0cEggyiM7xYRktze9rK6k=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe81saJ_dp5iVSlAN514Uay90V8j2A6t7-KWuprTDTepcMi_6r407IwE_erv1ST-IDE6VH_l1ID_SELllsinR5QlRZz7njVAmaDhFB1UzujFn1Pc6D0cEggyiM7xYRktze9rK6k=w1000-h750-no",
-    "source_query": "Fish restaurant in Reninge, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJP0n_WyDP3EcRBXZWVTgcL3k",
-    "name": "Hoevewinkel 't Omloophof",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Ypres",
-    "address": "Hoevewinkel 't Omloophof, Noordhofweg 1, 8900 Ieper",
-    "street": "Noordhofweg 1",
-    "postal_code": "8900",
-    "region": null,
-    "latitude": 50.8663058,
-    "longitude": 2.8563323,
-    "phone": "0496 39 63 02",
-    "website": "http://hoevewinkelomloophof.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Hoevewinkel%20%27t%20Omloophof&query_place_id=ChIJP0n_WyDP3EcRBXZWVTgcL3k",
-    "open_hours_json": {
-      "Monday": [
-        "1:30–6:30 pm"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "8:30 am–12:30 pm",
-        "1:30–6:30 pm"
-      ],
-      "Thursday": [
-        "8:30 am–12:30 pm",
-        "1:30–6:30 pm"
-      ],
-      "Friday": [
-        "8:30 am–12:30 pm",
-        "1:30–6:30 pm"
-      ],
-      "Saturday": [
-        "8:30 am–12:30 pm",
-        "1:30–5 pm"
-      ],
-      "Sunday": [
-        "10 am–12 pm"
-      ]
-    },
-    "review_count": 78,
-    "rating": 4.8,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLceGK3lgQ7bvc-GkBdkT52WGD1EJQtrVUzokVWHYVMf_ik9FgvYdbOrCxmSugTZFEpi3S_C91DVs4sqpdYBBSWQ3dq-hUr8WqE_RWODDEjophMs0fhmbMX809fkXsSU7XLA5ex-5w=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLceGK3lgQ7bvc-GkBdkT52WGD1EJQtrVUzokVWHYVMf_ik9FgvYdbOrCxmSugTZFEpi3S_C91DVs4sqpdYBBSWQ3dq-hUr8WqE_RWODDEjophMs0fhmbMX809fkXsSU7XLA5ex-5w=w1000-h750-no",
-    "source_query": "Hypermarket in Reningelst, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ7ZYJCVbO3EcRWhiwTo-lGrk",
-    "name": "In 't Klein Stadhuis",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Ypres",
-    "address": "In 't Klein Stadhuis, Grote Markt 32, 8900 Ieper",
-    "street": "Grote Markt 32",
-    "postal_code": "8900",
-    "region": null,
-    "latitude": 50.851593199999996,
-    "longitude": 2.8861374,
-    "phone": "057 21 55 42",
-    "website": "http://www.inhetkleinstadhuis.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=In%20%27t%20Klein%20Stadhuis&query_place_id=ChIJ7ZYJCVbO3EcRWhiwTo-lGrk",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "11 am–11 pm"
-      ],
-      "Wednesday": [
-        "11 am–11 pm"
-      ],
-      "Thursday": [
-        "11 am–11 pm"
-      ],
-      "Friday": [
-        "11 am–11 pm"
-      ],
-      "Saturday": [
-        "10 am–11:30 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 1837,
-    "rating": 4.5,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc09KxPKiqN9n9kLfdHEQeCuFNm_aDjenntLoN99l0FSbwmSl4rp525FweS9QmklpSXkJqKPnUO5Mz85HpyHBbzF5SvZn3CMEIzZmIy6a1XPGGVaLK3AaPlsodICwf6U2CZbOI=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc09KxPKiqN9n9kLfdHEQeCuFNm_aDjenntLoN99l0FSbwmSl4rp525FweS9QmklpSXkJqKPnUO5Mz85HpyHBbzF5SvZn3CMEIzZmIy6a1XPGGVaLK3AaPlsodICwf6U2CZbOI=w1000-h750-no",
     "source_query": "Fish restaurant in Reninge, Flanders, BE",
     "moderation_status": "approved",
     "is_active": true,
