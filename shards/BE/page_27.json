@@ -1,55 +1,5 @@
 [
   {
-    "place_id": "ChIJi1egaAMRw0cRe-Wh9jTZy-4",
-    "name": "BOEF Oudenaarde",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Oudenaarde",
-    "address": "BOEF Oudenaarde, Tussenbruggen 20, 9700 Oudenaarde",
-    "street": "Tussenbruggen 20",
-    "postal_code": "9700",
-    "region": null,
-    "latitude": 50.842887,
-    "longitude": 3.6089849999999997,
-    "phone": "055 60 39 52",
-    "website": "http://www.boef-oudenaarde.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=BOEF%20Oudenaarde&query_place_id=ChIJi1egaAMRw0cRe-Wh9jTZy-4",
-    "open_hours_json": {
-      "Monday": [
-        "8:30 am–2 pm"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "Closed"
-      ],
-      "Friday": [
-        "8:30 am–5 pm"
-      ],
-      "Saturday": [
-        "8:30 am–5 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 502,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfYsKLGiiSH6LdDwGN7bC2k-aKbrzPXzpbKYEUIHjFSrTAR0tMIxO6C0JA8jyUhG0QNvHhbYwRuSmxSUvCuLwhS8CcYdVSsOnj9CxJsqMM8ypUCEZV1Wqb4aPb_tJFxUbo0k1Uy=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfYsKLGiiSH6LdDwGN7bC2k-aKbrzPXzpbKYEUIHjFSrTAR0tMIxO6C0JA8jyUhG0QNvHhbYwRuSmxSUvCuLwhS8CcYdVSsOnj9CxJsqMM8ypUCEZV1Wqb4aPb_tJFxUbo0k1Uy=w1000-h750-no",
-    "source_query": "Halal restaurant in Oudenaarde, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
     "place_id": "ChIJmeiW2nIOw0cR8JZCv7aIqLQ",
     "name": "Bert Roodhooft osteopaat DO",
     "type": "restaurant",
@@ -11621,5 +11571,33 @@
     "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
     "is_active": true,
     "moderation_status": "approved"
+  },
+  {
+    "place_id": "ChIJcS3OuxJbwkcRa02yO6VwwwQ",
+    "name": "BEREKET RESTAURANT (QUAREGNON)",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Quaregnon",
+    "address": "BEREKET RESTAURANT (QUAREGNON), Rue de Monsville 81, 7390 Quaregnon",
+    "street": "Rue de Monsville 81",
+    "postal_code": "7390",
+    "region": null,
+    "latitude": 50.439054299999995,
+    "longitude": 3.8658622,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=BEREKET%20RESTAURANT%20%28QUAREGNON%29&query_place_id=ChIJcS3OuxJbwkcRa02yO6VwwwQ",
+    "open_hours_json": null,
+    "review_count": 101,
+    "rating": 4.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeze69C8PI8dq5bM64NToOCIEhfhhg26gMQYZvKUuMtX72M5jPQxVdpJ0ZEfb_hsU-hMJSLHIzVqTTJqwDQaVRKtV2L47kZvZ9UrjFH5SzhC9dHe19LzF38n0lZWptSBPaMl9IA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeze69C8PI8dq5bM64NToOCIEhfhhg26gMQYZvKUuMtX72M5jPQxVdpJ0ZEfb_hsU-hMJSLHIzVqTTJqwDQaVRKtV2L47kZvZ9UrjFH5SzhC9dHe19LzF38n0lZWptSBPaMl9IA=w1000-h750-no",
+    "source_query": "Halal restaurant in Saint-Ghislain, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
   }
 ]

@@ -1,5 +1,820 @@
 [
   {
+    "place_id": "ChIJxSDO1z46wUcRLw-Xp-Ti9L4",
+    "name": "Maara Kebap",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Beringen",
+    "address": "Maara Kebap, Paal dorp 17, 3583 Beringen",
+    "street": "Paal dorp 17",
+    "postal_code": "3583",
+    "region": null,
+    "latitude": 51.0396097,
+    "longitude": 5.1721620999999995,
+    "phone": "011 22 53 81",
+    "website": "https://www.maarakebapberingen.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Maara%20Kebap&query_place_id=ChIJxSDO1z46wUcRLw-Xp-Ti9L4",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "12–1:30 pm",
+        "4–11 pm"
+      ],
+      "Wednesday": [
+        "12–1:30 pm",
+        "4–11 pm"
+      ],
+      "Thursday": [
+        "12–1:30 pm",
+        "4–11 pm"
+      ],
+      "Friday": [
+        "12–1:30 pm",
+        "4 pm–12 am"
+      ],
+      "Saturday": [
+        "4 pm–12 am"
+      ],
+      "Sunday": [
+        "4–11 pm"
+      ]
+    },
+    "review_count": 274,
+    "rating": 4.1,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeBNu_ucHah2RiJDbFgNfkqxI_Lg_k1gxPf9EiQSvCHud7Y9OVvT6E9lSlNA5wPWCtQgEI4BwuuoIyfXhzC-PmTVFyD2wfid8isjSGcoafPugdnFMHu_-5dtgddL65Mg4PCedJj=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeBNu_ucHah2RiJDbFgNfkqxI_Lg_k1gxPf9EiQSvCHud7Y9OVvT6E9lSlNA5wPWCtQgEI4BwuuoIyfXhzC-PmTVFyD2wfid8isjSGcoafPugdnFMHu_-5dtgddL65Mg4PCedJj=w1000-h750-no",
+    "source_query": "Halal restaurant in Beringen, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJy3oc8QAlwUcRr3KCxKo-kfU",
+    "name": "Magreb Breakfast Lunch and Dinner",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Beringen",
+    "address": "Magreb Breakfast Lunch and Dinner, Koersel-Dorp 7, 3582 Beringen",
+    "street": "Koersel-Dorp 7",
+    "postal_code": "3582",
+    "region": null,
+    "latitude": 51.0585382,
+    "longitude": 5.2722937,
+    "phone": "0468 37 75 04",
+    "website": "http://www.magrebbreakfastlunchdinner.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Magreb%20Breakfast%20Lunch%20and%20Dinner&query_place_id=ChIJy3oc8QAlwUcRr3KCxKo-kfU",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "Closed"
+      ],
+      "Friday": [
+        "Closed"
+      ],
+      "Saturday": [
+        "Closed"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 205,
+    "rating": 4.9,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdMXo6qxlCZy-N1ycjDL0Fl6WLxGXzHX3GtFhd4Tv9reyUkSIOu5hY_ko1xpX9GHBprRgzmobgCEDRZwUC_JJthH89o5bsLus1iObia9fwxaR4vZPtrXjXhkQsnP6-CRduDKrAq=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdMXo6qxlCZy-N1ycjDL0Fl6WLxGXzHX3GtFhd4Tv9reyUkSIOu5hY_ko1xpX9GHBprRgzmobgCEDRZwUC_JJthH89o5bsLus1iObia9fwxaR4vZPtrXjXhkQsnP6-CRduDKrAq=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Geel, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJFbXpiXAwwUcROzv7XAtQZcY",
+    "name": "Maxi Zoo Beringen",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Beringen",
+    "address": "Maxi Zoo Beringen, be-MINE 7, 3582 Beringen",
+    "street": "be-MINE 7",
+    "postal_code": "3582",
+    "region": null,
+    "latitude": 51.067563899999996,
+    "longitude": 5.2252377,
+    "phone": "011 23 59 81",
+    "website": "https://www.maxizoo.be/nl/stores/maxi-zoo-beringen/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Maxi%20Zoo%20Beringen&query_place_id=ChIJFbXpiXAwwUcROzv7XAtQZcY",
+    "open_hours_json": {
+      "Monday": [
+        "9 am–6:30 pm"
+      ],
+      "Tuesday": [
+        "9 am–6:30 pm"
+      ],
+      "Wednesday": [
+        "9 am–6:30 pm"
+      ],
+      "Thursday": [
+        "9 am–6:30 pm"
+      ],
+      "Friday": [
+        "9 am–6:30 pm"
+      ],
+      "Saturday": [
+        "9 am–6:30 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 452,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdZ40E007e1OaaD-oJnOx80NeHsss1gGdp6Sn-QnFQQrKnv19SH0i7Wlm-87o6wHgarOtoSwLP3IRnaG6YDnvStf7i_uZlCBgcvY-y-eOpQ3w8C1vcRVgoHmWPW4OcwIK6XgHtYeQX59HJl=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdZ40E007e1OaaD-oJnOx80NeHsss1gGdp6Sn-QnFQQrKnv19SH0i7Wlm-87o6wHgarOtoSwLP3IRnaG6YDnvStf7i_uZlCBgcvY-y-eOpQ3w8C1vcRVgoHmWPW4OcwIK6XgHtYeQX59HJl=w1000-h750-no",
+    "source_query": "Hypermarket in Beringen, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJO5MkJwA7wUcR3LAAIblIHv0",
+    "name": "Mini's",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Beringen",
+    "address": "Mini's, Collegestraat 10, 3580 Beringen",
+    "street": "Collegestraat 10",
+    "postal_code": "3580",
+    "region": null,
+    "latitude": 51.0486935,
+    "longitude": 5.2238354,
+    "phone": null,
+    "website": "https://www.instagram.com/minis.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mini%27s&query_place_id=ChIJO5MkJwA7wUcR3LAAIblIHv0",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "10 am–5 pm"
+      ],
+      "Wednesday": [
+        "10 am–5 pm"
+      ],
+      "Thursday": [
+        "10 am–5 pm"
+      ],
+      "Friday": [
+        "10 am–5 pm"
+      ],
+      "Saturday": [
+        "10 am–5 pm"
+      ],
+      "Sunday": [
+        "10 am–3 pm"
+      ]
+    },
+    "review_count": 75,
+    "rating": 4.9,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcwUWSqKluOsRY-rafzWIT5CN-yzX5WQv2Kexvhtoi-vDw8ej_-KzRyTMSr2T3ZetCuYC-iQBnCn0nlMu8HFFh7_ZWAXmaWmZtYXqyR6NaPWnzzewE-_9Ta9EdZPVozXnyoi8ciHGNAiqEe=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcwUWSqKluOsRY-rafzWIT5CN-yzX5WQv2Kexvhtoi-vDw8ej_-KzRyTMSr2T3ZetCuYC-iQBnCn0nlMu8HFFh7_ZWAXmaWmZtYXqyR6NaPWnzzewE-_9Ta9EdZPVozXnyoi8ciHGNAiqEe=w1000-h750-no",
+    "source_query": "Halal restaurant in Beringen, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ1WzI6WswwUcRCPE0xkhNEGA",
+    "name": "Mosque Hazreti Hamza Camii",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Beringen",
+    "address": "Mosque Hazreti Hamza Camii, Leysestraat 130, 3581 Beringen",
+    "street": "Leysestraat 130",
+    "postal_code": "3581",
+    "region": null,
+    "latitude": 51.0797119,
+    "longitude": 5.2285455999999995,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mosque%20Hazreti%20Hamza%20Camii&query_place_id=ChIJ1WzI6WswwUcRCPE0xkhNEGA",
+    "open_hours_json": null,
+    "review_count": 26,
+    "rating": 4.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd8JjwUdqw0vj2zaK9xyhoSpkHX4cxXLmY5CrxL3xwrbl23FiktjrNQvix49w6gaYkImXarMe1qS9XQWsi0JWszyluD8WkIOzRy3py8-0uF9YFOBA7Yb04iWSJcC70z_zZ7-nxk=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd8JjwUdqw0vj2zaK9xyhoSpkHX4cxXLmY5CrxL3xwrbl23FiktjrNQvix49w6gaYkImXarMe1qS9XQWsi0JWszyluD8WkIOzRy3py8-0uF9YFOBA7Yb04iWSJcC70z_zZ7-nxk=w1000-h750-no",
+    "source_query": "Mosque in Zoutleeuw, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJe1QBWFklwUcR2JrGlLErXhI",
+    "name": "Nova Night Shop Koersel",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Beringen",
+    "address": "Nova Night Shop Koersel, Pieter Vanhoudtstraat 69, 3582 Beringen",
+    "street": "Pieter Vanhoudtstraat 69",
+    "postal_code": "3582",
+    "region": null,
+    "latitude": 51.055491499999995,
+    "longitude": 5.2734087999999995,
+    "phone": null,
+    "website": "http://nightmart.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Nova%20Night%20Shop%20Koersel&query_place_id=ChIJe1QBWFklwUcR2JrGlLErXhI",
+    "open_hours_json": {
+      "Monday": [
+        "6 pm–2 am"
+      ],
+      "Tuesday": [
+        "6 pm–2 am"
+      ],
+      "Wednesday": [
+        "6 pm–2 am"
+      ],
+      "Thursday": [
+        "6 pm–2 am"
+      ],
+      "Friday": [
+        "6 pm–3 am"
+      ],
+      "Saturday": [
+        "6 pm–3 am"
+      ],
+      "Sunday": [
+        "6 pm–2 am"
+      ]
+    },
+    "review_count": 59,
+    "rating": 4.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdSv0SgPUoUltxaGlA_0CpvfNZ3BsmpLR9F-Vk4besc1Yrxdfj_LP9mTNGbaOmD6PD-d3tbzztyQ_0FlrpsUfHI3py7OyqpLIMhS1Y2HmwYY_07OW5C5NzTgFwHPjMwAtcFCq3W7WEFx26u=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdSv0SgPUoUltxaGlA_0CpvfNZ3BsmpLR9F-Vk4besc1Yrxdfj_LP9mTNGbaOmD6PD-d3tbzztyQ_0FlrpsUfHI3py7OyqpLIMhS1Y2HmwYY_07OW5C5NzTgFwHPjMwAtcFCq3W7WEFx26u=w1000-h750-no",
+    "source_query": "Hypermarket in Beringen, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJkdqvnkA6wUcRDVBMgTvYoQ0",
+    "name": "OKay Paal",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Beringen",
+    "address": "OKay Paal, Paalsesteenweg 295, 3583 Beringen",
+    "street": "Paalsesteenweg 295",
+    "postal_code": "3583",
+    "region": null,
+    "latitude": 51.040808399999996,
+    "longitude": 5.1773827,
+    "phone": "011 24 31 33",
+    "website": "https://www.okay.be/nl/onze-winkels/Okay-paal",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=OKay%20Paal&query_place_id=ChIJkdqvnkA6wUcRDVBMgTvYoQ0",
+    "open_hours_json": {
+      "Monday": [
+        "8 am–7:30 pm"
+      ],
+      "Tuesday": [
+        "8 am–7:30 pm"
+      ],
+      "Wednesday": [
+        "8 am–7:30 pm"
+      ],
+      "Thursday": [
+        "8 am–7:30 pm"
+      ],
+      "Friday": [
+        "8 am–7:30 pm"
+      ],
+      "Saturday": [
+        "8 am–7:30 pm"
+      ],
+      "Sunday": [
+        "8 am–12:30 pm"
+      ]
+    },
+    "review_count": 503,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeMsKqYLFE08XxiG-m4RuU9uRoUMebTh32yYJRi6kLrTVtbtsCWLwJOiYTCIcmID8axtzjG0grPx8BahROuxZeLjhazOCkS51Finxvk9OtPnEeqfflVzTQxU6kwMgBqo-SqW_lb5eob7AU=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeMsKqYLFE08XxiG-m4RuU9uRoUMebTh32yYJRi6kLrTVtbtsCWLwJOiYTCIcmID8axtzjG0grPx8BahROuxZeLjhazOCkS51Finxvk9OtPnEeqfflVzTQxU6kwMgBqo-SqW_lb5eob7AU=w1000-h750-no",
+    "source_query": "Hypermarket in Beringen, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJG1NFPvAxwUcRV0WkUBSOO7g",
+    "name": "OSES Çigköfte Beringen",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Beringen",
+    "address": "OSES Çigköfte Beringen, Koolmijnlaan 354, 3581 Beringen",
+    "street": "Koolmijnlaan 354",
+    "postal_code": "3581",
+    "region": null,
+    "latitude": 51.077342099999996,
+    "longitude": 5.2191697,
+    "phone": "0476 01 75 15",
+    "website": "https://www.osesberingen.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=OSES%20%C3%87igk%C3%B6fte%20Beringen&query_place_id=ChIJG1NFPvAxwUcRV0WkUBSOO7g",
+    "open_hours_json": {
+      "Monday": [
+        "1 pm–12 am"
+      ],
+      "Tuesday": [
+        "1 pm–12 am"
+      ],
+      "Wednesday": [
+        "1 pm–12 am"
+      ],
+      "Thursday": [
+        "1 pm–12 am"
+      ],
+      "Friday": [
+        "1 pm–1 am"
+      ],
+      "Saturday": [
+        "1 pm–1 am"
+      ],
+      "Sunday": [
+        "1 pm–12 am"
+      ]
+    },
+    "review_count": 672,
+    "rating": 5.0,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe-MlczuLgYoNuML7UyWYcGUmN75q2Cy7X-4XWAIXKEuHTOCPsUiwuSNE14BUZkpZD19cctCD3dOEVjsgG7PVsjPmZ-OVqvwNTk90Ai5qF1OaJmxFeVinizfbk8fksxFtpIhLoc=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe-MlczuLgYoNuML7UyWYcGUmN75q2Cy7X-4XWAIXKEuHTOCPsUiwuSNE14BUZkpZD19cctCD3dOEVjsgG7PVsjPmZ-OVqvwNTk90Ai5qF1OaJmxFeVinizfbk8fksxFtpIhLoc=w1000-h750-no",
+    "source_query": "Halal restaurant in Beringen, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJq9KzFAE5wUcRuRrFdeFdCHU",
+    "name": "Old Egypt Paal",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Beringen",
+    "address": "Old Egypt Paal, Holststraat 1, 3583 Beringen",
+    "street": "Holststraat 1",
+    "postal_code": "3583",
+    "region": null,
+    "latitude": 51.049968299999996,
+    "longitude": 5.1504585,
+    "phone": "011 65 22 55",
+    "website": "https://oldegypt.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Old%20Egypt%20Paal&query_place_id=ChIJq9KzFAE5wUcRuRrFdeFdCHU",
+    "open_hours_json": {
+      "Monday": [
+        "4–10 pm"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "4–10 pm"
+      ],
+      "Thursday": [
+        "4–10 pm"
+      ],
+      "Friday": [
+        "4–11 pm"
+      ],
+      "Saturday": [
+        "4–11 pm"
+      ],
+      "Sunday": [
+        "11:30 am–10 pm"
+      ]
+    },
+    "review_count": 97,
+    "rating": 4.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdVZvRFeG5ogYU32UL5rLF5gTnWK_oWt0ecSQRAZA6YVannx87ZwuJf5lGUpf8zxf94mYq2w_tvVjgXzV_CiEz98ydjVNa5AHKD54c-96_0feOVQnJNfTYRCxBv0y8jkSMYnbz4fOP9zDwX=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdVZvRFeG5ogYU32UL5rLF5gTnWK_oWt0ecSQRAZA6YVannx87ZwuJf5lGUpf8zxf94mYq2w_tvVjgXzV_CiEz98ydjVNa5AHKD54c-96_0feOVQnJNfTYRCxBv0y8jkSMYnbz4fOP9zDwX=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Beringen, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJg24xhMo7wUcR5o6tUAO6SjU",
+    "name": "R&B Foods bvba",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Beringen",
+    "address": "R&B Foods bvba, Voortstraat 43, 3582 Beringen",
+    "street": "Voortstraat 43",
+    "postal_code": "3582",
+    "region": null,
+    "latitude": 51.0580797,
+    "longitude": 5.2167758,
+    "phone": null,
+    "website": "https://rbfood.com/de/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=R%26B%20Foods%20bvba&query_place_id=ChIJg24xhMo7wUcR5o6tUAO6SjU",
+    "open_hours_json": null,
+    "review_count": 24,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeZ4LXj8ez6jT4GLaAwAVwGa4DR4fp-d-1KDiMF8DOzib6F3qxcei4koi8J9EF0lfGKlaZ5jDcTPji5pBekBUlTU18lpFI-vuX_nVqWscVE2h1Gfg74i-XMqVAliuFA-tiiaSRu=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeZ4LXj8ez6jT4GLaAwAVwGa4DR4fp-d-1KDiMF8DOzib6F3qxcei4koi8J9EF0lfGKlaZ5jDcTPji5pBekBUlTU18lpFI-vuX_nVqWscVE2h1Gfg74i-XMqVAliuFA-tiiaSRu=w1000-h750-no",
+    "source_query": "Hypermarket in Beringen, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJgxUQWYk7wUcRDeWuwQHxQPI",
+    "name": "ROYAL & CO BERINGEN",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Beringen",
+    "address": "ROYAL & CO BERINGEN, Koolmijnlaan 12, 3580 Beringen",
+    "street": "Koolmijnlaan 12",
+    "postal_code": "3580",
+    "region": null,
+    "latitude": 51.049940799999995,
+    "longitude": 5.2234031,
+    "phone": "0484 06 63 06",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=ROYAL%20%26%20CO%20BERINGEN&query_place_id=ChIJgxUQWYk7wUcRDeWuwQHxQPI",
+    "open_hours_json": {
+      "Monday": [
+        "6 pm–2 am"
+      ],
+      "Tuesday": [
+        "6 pm–2 am"
+      ],
+      "Wednesday": [
+        "6 pm–2 am"
+      ],
+      "Thursday": [
+        "6 pm–2 am"
+      ],
+      "Friday": [
+        "6 pm–3 am"
+      ],
+      "Saturday": [
+        "6 pm–3 am"
+      ],
+      "Sunday": [
+        "6 pm–2 am"
+      ]
+    },
+    "review_count": 10,
+    "rating": 4.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfzCZ5I7uEWJaSCPWvr8cNBuWRPraeoHnT8macPjsYlD2EjWiukqFWU1XYC-0GdQEi5fD8LG0Lw5OocO8D7zcsWeZotL5sw5qbeCIQZxtnBmN1Id_87ZIzNpBmhuEOULNkNwR8=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfzCZ5I7uEWJaSCPWvr8cNBuWRPraeoHnT8macPjsYlD2EjWiukqFWU1XYC-0GdQEi5fD8LG0Lw5OocO8D7zcsWeZotL5sw5qbeCIQZxtnBmN1Id_87ZIzNpBmhuEOULNkNwR8=w1000-h750-no",
+    "source_query": "Hypermarket in Beringen, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ7bnp7pY6wUcR-4ZGXn9dfqg",
+    "name": "Ristorante Italia",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Beringen",
+    "address": "Ristorante Italia, Collegestraat 7, 3580 Beringen",
+    "street": "Collegestraat 7",
+    "postal_code": "3580",
+    "region": null,
+    "latitude": 51.049023899999995,
+    "longitude": 5.2239965,
+    "phone": "0478 43 69 22",
+    "website": "http://www.ristoranteitalia.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante%20Italia&query_place_id=ChIJ7bnp7pY6wUcR-4ZGXn9dfqg",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "5:30–11 pm"
+      ],
+      "Thursday": [
+        "5:30–11 pm"
+      ],
+      "Friday": [
+        "12–2 pm",
+        "5:30–11 pm"
+      ],
+      "Saturday": [
+        "5:30–11 pm"
+      ],
+      "Sunday": [
+        "12–2 pm",
+        "5:30–11 pm"
+      ]
+    },
+    "review_count": 692,
+    "rating": 4.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLddO0J8SkiUoVkZOuh_a4VYtcl9Ylov2ymb2hCRYB90yn8CW_amF220QDEnHTWlyHP2dQYneHwPAoV-OzGvjWX0Svz83ibERgAphG5NginuQM_VlhtUfWIaCSoDwqxpaFX8I9bp=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLddO0J8SkiUoVkZOuh_a4VYtcl9Ylov2ymb2hCRYB90yn8CW_amF220QDEnHTWlyHP2dQYneHwPAoV-OzGvjWX0Svz83ibERgAphG5NginuQM_VlhtUfWIaCSoDwqxpaFX8I9bp=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Beringen, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJ81UAn3cwwUcRP-CNms5P2FQ",
+    "name": "SPAR",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Beringen",
+    "address": "SPAR, Tennisstraat 104, 3582 Beringen",
+    "street": "Tennisstraat 104",
+    "postal_code": "3582",
+    "region": null,
+    "latitude": 51.0651975,
+    "longitude": 5.219839299999999,
+    "phone": "011 42 23 15",
+    "website": "https://sparberingen.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=SPAR&query_place_id=ChIJ81UAn3cwwUcRP-CNms5P2FQ",
+    "open_hours_json": {
+      "Monday": [
+        "12–8 pm"
+      ],
+      "Tuesday": [
+        "8 am–8 pm"
+      ],
+      "Wednesday": [
+        "8 am–8 pm"
+      ],
+      "Thursday": [
+        "8 am–8 pm"
+      ],
+      "Friday": [
+        "8 am–8 pm"
+      ],
+      "Saturday": [
+        "8 am–6 pm"
+      ],
+      "Sunday": [
+        "8 am–12 pm"
+      ]
+    },
+    "review_count": 740,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLchzsXlqNum6VPJeXpjQ_Pt3z0uzmbcl0c_071iojeLJXug9bMe1lRBemDj4rmoxP6hjm4vV8NxjDRs6kqWDe6oaYI1rCRzBXeGFao1aOTFF7cJVVM_WOHxWm5U4ZB_aIeTGGDE=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLchzsXlqNum6VPJeXpjQ_Pt3z0uzmbcl0c_071iojeLJXug9bMe1lRBemDj4rmoxP6hjm4vV8NxjDRs6kqWDe6oaYI1rCRzBXeGFao1aOTFF7cJVVM_WOHxWm5U4ZB_aIeTGGDE=w1000-h750-no",
+    "source_query": "Hypermarket in Beringen, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJh7do5mQ7wUcRTZDoLtMjngY",
+    "name": "Sandhu Dagwinkel",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Beringen",
+    "address": "Sandhu Dagwinkel, Koerselsesteenweg 75, 3580 Beringen",
+    "street": "Koerselsesteenweg 75",
+    "postal_code": "3580",
+    "region": null,
+    "latitude": 51.049949899999994,
+    "longitude": 5.2316157,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Sandhu%20Dagwinkel&query_place_id=ChIJh7do5mQ7wUcRTZDoLtMjngY",
+    "open_hours_json": {
+      "Monday": [
+        "8 am–9 pm"
+      ],
+      "Tuesday": [
+        "8 am–9 pm"
+      ],
+      "Wednesday": [
+        "8 am–9 pm"
+      ],
+      "Thursday": [
+        "8 am–9 pm"
+      ],
+      "Friday": [
+        "8 am–9 pm"
+      ],
+      "Saturday": [
+        "8 am–9 pm"
+      ],
+      "Sunday": [
+        "9 am–9 pm"
+      ]
+    },
+    "review_count": 9,
+    "rating": 3.0,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe7qHYF2vT5NperzCBqmUDHdxFLHtUpMjA3Qu-JvppdjBpFYkOrWzmBfGA3aKkghudc_xve353ftapjf4uygMfrSHRM7IKvjsuN2BN5s7KJUf4bU44OZJzG0vsG-bcjSSNclAVSVsaqQ6sy=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe7qHYF2vT5NperzCBqmUDHdxFLHtUpMjA3Qu-JvppdjBpFYkOrWzmBfGA3aKkghudc_xve353ftapjf4uygMfrSHRM7IKvjsuN2BN5s7KJUf4bU44OZJzG0vsG-bcjSSNclAVSVsaqQ6sy=w1000-h750-no",
+    "source_query": "Hypermarket in Beringen, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJu5zEvG8wwUcRoD9qBRMs8wg",
+    "name": "Semerşah Vakfı Beringen",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Beringen",
+    "address": "Semerşah Vakfı Beringen, Kerkstraat 6, 3581 Beringen",
+    "street": "Kerkstraat 6",
+    "postal_code": "3581",
+    "region": null,
+    "latitude": 51.0754479,
+    "longitude": 5.2222884999999994,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Semer%C5%9Fah%20Vakf%C4%B1%20Beringen&query_place_id=ChIJu5zEvG8wwUcRoD9qBRMs8wg",
+    "open_hours_json": {
+      "Monday": [
+        "6 pm–1 am"
+      ],
+      "Tuesday": [
+        "6 pm–1 am"
+      ],
+      "Wednesday": [
+        "6 pm–1 am"
+      ],
+      "Thursday": [
+        "6 pm–1 am"
+      ],
+      "Friday": [
+        "6 pm–1 am"
+      ],
+      "Saturday": [
+        "6 pm–1 am"
+      ],
+      "Sunday": [
+        "6 pm–1 am"
+      ]
+    },
+    "review_count": 35,
+    "rating": 5.0,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcv0gEtt_Z4WQ7HTl6AAK9pvxXQdhQLp2SsdWZJlIGCselH4kzZj7nRSnsMb26vWOziWe5MJWnCHK4F1Z54tEMvFAUrjjmE9B1YTYyzbIGX3PSJd7obL5CQ6LhWBT2VU0L0Y7VQxg=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcv0gEtt_Z4WQ7HTl6AAK9pvxXQdhQLp2SsdWZJlIGCselH4kzZj7nRSnsMb26vWOziWe5MJWnCHK4F1Z54tEMvFAUrjjmE9B1YTYyzbIGX3PSJd7obL5CQ6LhWBT2VU0L0Y7VQxg=w1000-h750-no",
+    "source_query": "Mosque in Tielt-Winge, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJu5Ph5HcwwUcR3K7lysAnVUE",
+    "name": "Stadhuis Beringen",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Beringen",
+    "address": "Stadhuis Beringen, Collegestraat 1, 3580 Beringen",
+    "street": "Collegestraat 1",
+    "postal_code": "3580",
+    "region": null,
+    "latitude": 51.0486917,
+    "longitude": 5.2242435,
+    "phone": "011 43 02 11",
+    "website": "https://www.beringen.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Stadhuis%20Beringen&query_place_id=ChIJu5Ph5HcwwUcR3K7lysAnVUE",
+    "open_hours_json": {
+      "Monday": [
+        "9 am–12:30 pm",
+        "1:30–7 pm"
+      ],
+      "Tuesday": [
+        "9 am–12:30 pm"
+      ],
+      "Wednesday": [
+        "9 am–12:30 pm",
+        "1:30–5 pm"
+      ],
+      "Thursday": [
+        "9 am–12:30 pm",
+        "1:30–5 pm"
+      ],
+      "Friday": [
+        "9 am–12:30 pm"
+      ],
+      "Saturday": [
+        "Closed"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 144,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfNAo_g9GN3tao0drqTLWCSIDBPJolQoqUSLndekxCZvRy-MzTEJKSiR9o_c1URA_gqY3VIeEvGYVb3T0T9DQRhDQ4ax1-iODAggYZcriNGUhzmZE80jR_JuLZuLHswPRMRxnuvrA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfNAo_g9GN3tao0drqTLWCSIDBPJolQoqUSLndekxCZvRy-MzTEJKSiR9o_c1URA_gqY3VIeEvGYVb3T0T9DQRhDQ4ax1-iODAggYZcriNGUhzmZE80jR_JuLZuLHswPRMRxnuvrA=w1000-h750-no",
+    "source_query": "Hypermarket in Beringen, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJQUfkFQA7wUcRMvOGfXTmFOE",
+    "name": "Sushi King Beringen",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Beringen",
+    "address": "Sushi King Beringen, Scheigoorstraat 4, 3580 Beringen",
+    "street": "Scheigoorstraat 4",
+    "postal_code": "3580",
+    "region": null,
+    "latitude": 51.0463728,
+    "longitude": 5.2251750999999995,
+    "phone": "011 18 36 18",
+    "website": "https://beringen.sushiking.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Sushi%20King%20Beringen&query_place_id=ChIJQUfkFQA7wUcRMvOGfXTmFOE",
+    "open_hours_json": {
+      "Monday": [
+        "4:30–9:30 pm"
+      ],
+      "Tuesday": [
+        "4:30–9:30 pm"
+      ],
+      "Wednesday": [
+        "4:30–9:30 pm"
+      ],
+      "Thursday": [
+        "4:30–9:30 pm"
+      ],
+      "Friday": [
+        "4:30–9:30 pm"
+      ],
+      "Saturday": [
+        "4:30–9:30 pm"
+      ],
+      "Sunday": [
+        "4:30–9:30 pm"
+      ]
+    },
+    "review_count": 225,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLelbMMY95qpkyYoyVlLkwZ_Ml4JXyfGsik6PHGrRDgdUa8l2sGk_VtOQ1XkHv15zwRm_BQWdv2oTSXfQer0khIclLYgi_l-2Uk2WInhbdaqygzAvt-Yaue1nSP4fEB1ZJD2WC4X=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLelbMMY95qpkyYoyVlLkwZ_Ml4JXyfGsik6PHGrRDgdUa8l2sGk_VtOQ1XkHv15zwRm_BQWdv2oTSXfQer0khIclLYgi_l-2Uk2WInhbdaqygzAvt-Yaue1nSP4fEB1ZJD2WC4X=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Beringen, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJ1UQL7a07wUcRVkKz_CZhgt0",
     "name": "T broodjeshoekje Beringen",
     "type": "restaurant",
@@ -10865,794 +11680,6 @@
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcOZGKDKLmpHqwCNPxF-CJQ4f_8vfGpeYYVMH01IAhWnWm0rKTxQ4p00LWrTI4Fg5UPoRXNUgR6dqaHRig-0FwafuZf8YWDeAK-NPR49-HLYIfcHf1lV5NQ7jHOYeAks_TZodVU=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcOZGKDKLmpHqwCNPxF-CJQ4f_8vfGpeYYVMH01IAhWnWm0rKTxQ4p00LWrTI4Fg5UPoRXNUgR6dqaHRig-0FwafuZf8YWDeAK-NPR49-HLYIfcHf1lV5NQ7jHOYeAks_TZodVU=w1000-h750-no",
     "source_query": "Moroccan restaurant in Braine-le-Comte, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJaQlYxTK1w0cRSkoGlmH904Y",
-    "name": "Yummy",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Braine-le-Comte",
-    "address": "Yummy, Rue de la Station 120, 7090 Braine-le-Comte",
-    "street": "Rue de la Station 120",
-    "postal_code": "7090",
-    "region": null,
-    "latitude": 50.606707099999994,
-    "longitude": 4.1379298,
-    "phone": "067 21 40 23",
-    "website": "https://www.facebook.com/yummy.vietnamien/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Yummy&query_place_id=ChIJaQlYxTK1w0cRSkoGlmH904Y",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "6–10 pm"
-      ],
-      "Wednesday": [
-        "6–10 pm"
-      ],
-      "Thursday": [
-        "6–10 pm"
-      ],
-      "Friday": [
-        "6–10 pm"
-      ],
-      "Saturday": [
-        "6–10 pm"
-      ],
-      "Sunday": [
-        "12–2 pm"
-      ]
-    },
-    "review_count": 246,
-    "rating": 4.4,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc_7nZgmQIDsuzjLHYJhIxOssBvZ4kQG5MUHnztOzcTLDDJynxU7AU5Z6VSgak7_FnIQPVO67Gj_fwNIPZ6-OuwRkwXc9RfYJnpeL2aOdhmBb5_u3V1E3VFJ4MmAyQ9yr9zjXcI=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc_7nZgmQIDsuzjLHYJhIxOssBvZ4kQG5MUHnztOzcTLDDJynxU7AU5Z6VSgak7_FnIQPVO67Gj_fwNIPZ6-OuwRkwXc9RfYJnpeL2aOdhmBb5_u3V1E3VFJ4MmAyQ9yr9zjXcI=w1000-h750-no",
-    "source_query": "Halal restaurant in Braine-le-Comte, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ5Waz7UCpw0cRUscRixi0aro",
-    "name": "Slagerij De Bergen",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Brakel",
-    "address": "Slagerij De Bergen, Oude Blekerijstraat 1, 9660 Brakel",
-    "street": "Oude Blekerijstraat 1",
-    "postal_code": "9660",
-    "region": null,
-    "latitude": 50.8076727,
-    "longitude": 3.7787924,
-    "phone": "0499 28 88 39",
-    "website": "https://slagerijdebergen.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Slagerij%20De%20Bergen&query_place_id=ChIJ5Waz7UCpw0cRUscRixi0aro",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLecT0fYOgYRq73uu7xw2mOFIDz5aEn9p4ynMSNqmd6Ssj2OcYyW5hCJtZEm5e1vDepHz7sS6Qb4Ef9uD9EWI8VIBsPdbCGg8-Dff4t-gO1BCxMSzZZJ4Geby8i3-ZkU_ZdOjBnS=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLecT0fYOgYRq73uu7xw2mOFIDz5aEn9p4ynMSNqmd6Ssj2OcYyW5hCJtZEm5e1vDepHz7sS6Qb4Ef9uD9EWI8VIBsPdbCGg8-Dff4t-gO1BCxMSzZZJ4Geby8i3-ZkU_ZdOjBnS=w1000-h750-no",
-    "rating": 4.4,
-    "review_count": 7,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJCZ4r4HmR3EcRMxeulvoyT2o",
-    "name": "snack royale",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "FR",
-    "country_code": "FR",
-    "city": "Bray-Dunes",
-    "address": "snack royale, 750 Bd Georges Pompidou, 59123 Bray-Dunes, France",
-    "street": "750 Bd Georges Pompidou",
-    "postal_code": "59123",
-    "region": null,
-    "latitude": 51.0791615,
-    "longitude": 2.5173123,
-    "phone": "+33 6 13 22 39 92",
-    "website": "https://www.instagram.com/kik_ikebab?igsh=MXNtaWQ1MWx4ZjVuOA==",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=snack%20royale&query_place_id=ChIJCZ4r4HmR3EcRMxeulvoyT2o",
-    "open_hours_json": {
-      "Monday": [
-        "6–9:30 pm"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "6–9:30 pm"
-      ],
-      "Thursday": [
-        "6–9:30 pm"
-      ],
-      "Friday": [
-        "6–9:30 pm"
-      ],
-      "Saturday": [
-        "11 am–2 pm",
-        "6–10 pm"
-      ],
-      "Sunday": [
-        "6–10 pm"
-      ]
-    },
-    "review_count": 333,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfO9lMO998xzKJFBImhiylG3FRrohwy7VFLWwrjZqfgWvpZz1UzFYnUvEjLUFFPHxb0HWjnNsxBrQWhIvXGR3HnU_owo_s9JhuTq_pZL7XmVaexH5ijLThFl1DJdzUNaWv5dmQh=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfO9lMO998xzKJFBImhiylG3FRrohwy7VFLWwrjZqfgWvpZz1UzFYnUvEjLUFFPHxb0HWjnNsxBrQWhIvXGR3HnU_owo_s9JhuTq_pZL7XmVaexH5ijLThFl1DJdzUNaWv5dmQh=w1000-h750-no",
-    "source_query": "Halal restaurant in Veurne, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJfRK4g8Op3EcRmG3nBCbPdnY",
-    "name": "Indian Tandoori Grill",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Bredene",
-    "address": "Indian Tandoori Grill, Kapelstraat 33, 8450 Bredene",
-    "street": "Kapelstraat 33",
-    "postal_code": "8450",
-    "region": null,
-    "latitude": 51.2484531,
-    "longitude": 2.9635708,
-    "phone": "0466 21 16 87",
-    "website": "https://indiantandoorigrill.com/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Indian%20Tandoori%20Grill&query_place_id=ChIJfRK4g8Op3EcRmG3nBCbPdnY",
-    "open_hours_json": {
-      "Monday": [
-        "5:30–10 pm"
-      ],
-      "Tuesday": [
-        "5:30–10 pm"
-      ],
-      "Wednesday": [
-        "5:30–10 pm"
-      ],
-      "Thursday": [
-        "5–10 pm"
-      ],
-      "Friday": [
-        "5–10 pm"
-      ],
-      "Saturday": [
-        "5:30–10 pm"
-      ],
-      "Sunday": [
-        "5:30–10 pm"
-      ]
-    },
-    "review_count": 566,
-    "rating": 4.5,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc9_6-9wgdOpEbm_vQ-buJMyNQLnmAv92Utdsc4M3HgRpOhCvlyy8SYT0ONQ6-NGw5BEndmvh1SF56onw1GvPwG9pvuj1fHw-beQAtoP3S-Sve7XhC9iY4mEK6CDvhdL4gY4dw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc9_6-9wgdOpEbm_vQ-buJMyNQLnmAv92Utdsc4M3HgRpOhCvlyy8SYT0ONQ6-NGw5BEndmvh1SF56onw1GvPwG9pvuj1fHw-beQAtoP3S-Sve7XhC9iY4mEK6CDvhdL4gY4dw=w1000-h750-no",
-    "source_query": "Halal restaurant in Oudenburg, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ1RbQ3gOs3EcR2Ua1SlH74xQ",
-    "name": "SPAR CG Unimarket, Bredene",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Bredene",
-    "address": "SPAR CG Unimarket, Bredene, Brugsesteenweg 37/bus 9, 8450 Bredene",
-    "street": "Brugsesteenweg 37/bus 9",
-    "postal_code": "8450",
-    "region": null,
-    "latitude": 51.220647,
-    "longitude": 2.9633401999999998,
-    "phone": "059 27 54 04",
-    "website": "https://www.mijnspar.be/winkels/spar-bredene-shoppingcenter",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=SPAR%20CG%20Unimarket%2C%20Bredene&query_place_id=ChIJ1RbQ3gOs3EcR2Ua1SlH74xQ",
-    "open_hours_json": {
-      "Monday": [
-        "7:30 am–7:30 pm"
-      ],
-      "Tuesday": [
-        "7:30 am–7:30 pm"
-      ],
-      "Wednesday": [
-        "7:30 am–7:30 pm"
-      ],
-      "Thursday": [
-        "7:30 am–7:30 pm"
-      ],
-      "Friday": [
-        "7:30 am–7:30 pm"
-      ],
-      "Saturday": [
-        "7:30 am–7:30 pm"
-      ],
-      "Sunday": [
-        "7:30 am–7:30 pm"
-      ]
-    },
-    "review_count": 493,
-    "rating": 3.9,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc2wIl1OsHUNTWdrCI4_40XBGqInWN6i5PhYcdZbpDRcJM6XDPDN-LFzmRkiOcQNxSet1LcVY1y0zhONrtjxLvIVaz2nh5TgnEkrrrRUW2I1Dt7NlqVS2v9QpuZZV0ybj3VnEfF=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc2wIl1OsHUNTWdrCI4_40XBGqInWN6i5PhYcdZbpDRcJM6XDPDN-LFzmRkiOcQNxSet1LcVY1y0zhONrtjxLvIVaz2nh5TgnEkrrrRUW2I1Dt7NlqVS2v9QpuZZV0ybj3VnEfF=w1000-h750-no",
-    "source_query": "Hypermarket in Oudenburg, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ921Gu-_TwEcRYb4yN1_zXLU",
-    "name": "'t Kruidenhuys",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Bree",
-    "address": "'t Kruidenhuys, Opitterstraat 4, 3960 Bree",
-    "street": "Opitterstraat 4",
-    "postal_code": "3960",
-    "region": null,
-    "latitude": 51.141224,
-    "longitude": 5.599537199999999,
-    "phone": "089 47 35 52",
-    "website": "http://www.kruidenhuys.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%27t%20Kruidenhuys&query_place_id=ChIJ921Gu-_TwEcRYb4yN1_zXLU",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "9:30 am–12 pm",
-        "2–6 pm"
-      ],
-      "Wednesday": [
-        "9:30 am–12 pm",
-        "2–6 pm"
-      ],
-      "Thursday": [
-        "Closed"
-      ],
-      "Friday": [
-        "8:30 am–12 pm",
-        "2–6 pm"
-      ],
-      "Saturday": [
-        "9:30 am–12 pm",
-        "1–5 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 57,
-    "rating": 4.5,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeHWTY2Kmhwz7arzJFwbqKgY3tmPw0TulEg-i-XRg9AMvudfRMJqobmKbVpqvgoEs7tb4m_kUrglcs7-6Rz0n-OjqQ-R_dL697xv0YmaIhnW98HPo0Y3NHrdrd32yFrDmw5OFJ-=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeHWTY2Kmhwz7arzJFwbqKgY3tmPw0TulEg-i-XRg9AMvudfRMJqobmKbVpqvgoEs7tb4m_kUrglcs7-6Rz0n-OjqQ-R_dL697xv0YmaIhnW98HPo0Y3NHrdrd32yFrDmw5OFJ-=w1000-h750-no",
-    "source_query": "Hypermarket in Bree, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJEVL7o93TwEcRQT5bQuzCP5A",
-    "name": "A.v.m.",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Bree",
-    "address": "A.v.m., Roterstraat 7, 3960 Bree",
-    "street": "Roterstraat 7",
-    "postal_code": "3960",
-    "region": null,
-    "latitude": 51.136603199999996,
-    "longitude": 5.6075446,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=A.v.m.&query_place_id=ChIJEVL7o93TwEcRQT5bQuzCP5A",
-    "open_hours_json": null,
-    "review_count": 0,
-    "rating": null,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oBCOwKKJEv4KmMQ8SmKlFQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=81.464035&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oBCOwKKJEv4KmMQ8SmKlFQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=81.464035&pitch=0&thumbfov=w1000-h750-no",
-    "source_query": "Hypermarket in Bree, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ3yFzOe_TwEcRkrUQOR800hI",
-    "name": "CocoThai",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Bree",
-    "address": "CocoThai, Hoogstraat 18, 3960 Bree",
-    "street": "Hoogstraat 18",
-    "postal_code": "3960",
-    "region": null,
-    "latitude": 51.1411928,
-    "longitude": 5.5986381,
-    "phone": "089 23 96 65",
-    "website": "http://www.cocothaibree.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=CocoThai&query_place_id=ChIJ3yFzOe_TwEcRkrUQOR800hI",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "5–10 pm"
-      ],
-      "Wednesday": [
-        "5–10 pm"
-      ],
-      "Thursday": [
-        "5–10 pm"
-      ],
-      "Friday": [
-        "5–10 pm"
-      ],
-      "Saturday": [
-        "5–10 pm"
-      ],
-      "Sunday": [
-        "5–10 pm"
-      ]
-    },
-    "review_count": 248,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeyBqgCD4BRv9vgL8SU8W-_OX2uZxfjPoIpSl65m51h0VmXa-OEUtMetA9AGSyJx-L7Xd5QRAlPEYY7LU2Sxs1cGfBegnLz68NBgg_WGQ4R3OCENCddd0wx9ONKe6_VP0vI3UwJnw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeyBqgCD4BRv9vgL8SU8W-_OX2uZxfjPoIpSl65m51h0VmXa-OEUtMetA9AGSyJx-L7Xd5QRAlPEYY7LU2Sxs1cGfBegnLz68NBgg_WGQ4R3OCENCddd0wx9ONKe6_VP0vI3UwJnw=w1000-h750-no",
-    "source_query": "Halal restaurant in Bree, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJIdiyo-jTwEcRegQIjt5l6s8",
-    "name": "Doner Kebab Palmiye",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Bree",
-    "address": "Doner Kebab Palmiye, Grauwe Torenwal 40, 3960 Bree",
-    "street": "Grauwe Torenwal 40",
-    "postal_code": "3960",
-    "region": null,
-    "latitude": 51.140197099999995,
-    "longitude": 5.6010485999999995,
-    "phone": "089 46 33 79",
-    "website": "https://www.palmiye-bree.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Doner%20Kebab%20Palmiye&query_place_id=ChIJIdiyo-jTwEcRegQIjt5l6s8",
-    "open_hours_json": {
-      "Monday": [
-        "4:30–8:30 pm"
-      ],
-      "Tuesday": [
-        "4–10 pm"
-      ],
-      "Wednesday": [
-        "4–10 pm"
-      ],
-      "Thursday": [
-        "4–10 pm"
-      ],
-      "Friday": [
-        "4–10 pm"
-      ],
-      "Saturday": [
-        "4–10 pm"
-      ],
-      "Sunday": [
-        "4–9 pm"
-      ]
-    },
-    "review_count": 196,
-    "rating": 4.5,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLervzvMnuZmtmnVND7E3Yxpg3DrsJTvTYEeQ5RW3sw_dYdwNpc6UdzOxbC2qj7r4HgfXBwdH0lix19ZBco9zhbaX7SqzqL8LjEUJpxcPucv3tMg6TzjR1-ul5MHpyjIUyELxPn2fQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLervzvMnuZmtmnVND7E3Yxpg3DrsJTvTYEeQ5RW3sw_dYdwNpc6UdzOxbC2qj7r4HgfXBwdH0lix19ZBco9zhbaX7SqzqL8LjEUJpxcPucv3tMg6TzjR1-ul5MHpyjIUyELxPn2fQ=w1000-h750-no",
-    "source_query": "Halal restaurant in Bree, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJBdYBTN3TwEcR4DDeWiYbIEc",
-    "name": "DreamLand Bree",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Bree",
-    "address": "DreamLand Bree, Regenboogstraat 12, 3960 Bree",
-    "street": "Regenboogstraat 12",
-    "postal_code": "3960",
-    "region": null,
-    "latitude": 51.138703,
-    "longitude": 5.6065689,
-    "phone": "089 70 45 92",
-    "website": "https://www.dreamland.be/nl/winkels/dreamland-bree",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=DreamLand%20Bree&query_place_id=ChIJBdYBTN3TwEcR4DDeWiYbIEc",
-    "open_hours_json": {
-      "Monday": [
-        "10 am–6:30 pm"
-      ],
-      "Tuesday": [
-        "10 am–6:30 pm"
-      ],
-      "Wednesday": [
-        "10 am–6:30 pm"
-      ],
-      "Thursday": [
-        "10 am–6:30 pm"
-      ],
-      "Friday": [
-        "10 am–7 pm"
-      ],
-      "Saturday": [
-        "9:30 am–6:30 pm"
-      ],
-      "Sunday": [
-        "10 am–5 pm"
-      ]
-    },
-    "review_count": 795,
-    "rating": 4.2,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdXdQmi6ooiY3pdJQLKOFMGDUmu3uHTeFlg2zClho-s0BXTKEKbMPyEZmYaKaqB7rPj2ALIU0qjrnlSIKaufdoirYIAlr7mYvUEWceMS5mrp-9zFhRUFVwj_2IIktY_yqlCe-sUeg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdXdQmi6ooiY3pdJQLKOFMGDUmu3uHTeFlg2zClho-s0BXTKEKbMPyEZmYaKaqB7rPj2ALIU0qjrnlSIKaufdoirYIAlr7mYvUEWceMS5mrp-9zFhRUFVwj_2IIktY_yqlCe-sUeg=w1000-h750-no",
-    "source_query": "Hypermarket in Bree, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJmae1UOTTwEcRM8r0e6tJo1o",
-    "name": "Granny's Ice",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Bree",
-    "address": "Granny's Ice, Rode Kruislaan 28, 3960 Bree",
-    "street": "Rode Kruislaan 28",
-    "postal_code": "3960",
-    "region": null,
-    "latitude": 51.136829399999996,
-    "longitude": 5.5960874,
-    "phone": "089 20 30 30",
-    "website": "http://www.omasijs.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Granny%27s%20Ice&query_place_id=ChIJmae1UOTTwEcRM8r0e6tJo1o",
-    "open_hours_json": null,
-    "review_count": 694,
-    "rating": 4.5,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfeAy_w89Vl6u9Oif9nO979jEYh1gqCBzk0-oiZf6Jnhk-t8w3xg4XoLx9KIKamrpQ3-etnGm6JrFrpK_1ShxF1sdDB74PmgpxgfToYhu81e-b0xVE8ZafenRqUKb2U_THiyI4=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfeAy_w89Vl6u9Oif9nO979jEYh1gqCBzk0-oiZf6Jnhk-t8w3xg4XoLx9KIKamrpQ3-etnGm6JrFrpK_1ShxF1sdDB74PmgpxgfToYhu81e-b0xVE8ZafenRqUKb2U_THiyI4=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Bree, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ3X7lPFjTwEcRfHzfNenfZHo",
-    "name": "Grill De Gouden Os",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Bree",
-    "address": "Grill De Gouden Os, Het Hasseltkiezel 19a, 3960 Bree",
-    "street": "Het Hasseltkiezel 19a",
-    "postal_code": "3960",
-    "region": null,
-    "latitude": 51.142896799999995,
-    "longitude": 5.6586896,
-    "phone": "0472 64 82 29",
-    "website": "https://www.degoudenos.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Grill%20De%20Gouden%20Os&query_place_id=ChIJ3X7lPFjTwEcRfHzfNenfZHo",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "Closed"
-      ],
-      "Friday": [
-        "5–10:30 pm"
-      ],
-      "Saturday": [
-        "5–10:30 pm"
-      ],
-      "Sunday": [
-        "12–3 pm",
-        "5–10:30 pm"
-      ]
-    },
-    "review_count": 34,
-    "rating": 4.4,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfHUaByMUf2qTTLiHcfuXMovluh84_aRtD9ahAt3bxxeSb-11yaYQBm9_QCzk_tJb3PH0uGy9ZiwZyGvGFMiN7B83AsXrpWA_IgnK5Ypv28_baY9tgjQw2iquPzMP07fmTUdh69xZjnrsw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfHUaByMUf2qTTLiHcfuXMovluh84_aRtD9ahAt3bxxeSb-11yaYQBm9_QCzk_tJb3PH0uGy9ZiwZyGvGFMiN7B83AsXrpWA_IgnK5Ypv28_baY9tgjQw2iquPzMP07fmTUdh69xZjnrsw=w1000-h750-no",
-    "source_query": "Moroccan restaurant in Bree, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJVZ5rtOjTwEcRa5lWH7MGgTA",
-    "name": "Joseph Grill",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Bree",
-    "address": "Joseph Grill, Opitterstraat 19, 3960 Bree",
-    "street": "Opitterstraat 19",
-    "postal_code": "3960",
-    "region": null,
-    "latitude": 51.1409143,
-    "longitude": 5.6001034,
-    "phone": "089 77 55 38",
-    "website": "http://www.josephgrill.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Joseph%20Grill&query_place_id=ChIJVZ5rtOjTwEcRa5lWH7MGgTA",
-    "open_hours_json": {
-      "Monday": [
-        "6–8 pm"
-      ],
-      "Tuesday": [
-        "6–8 pm"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "6–8 pm"
-      ],
-      "Friday": [
-        "6 pm–12 am"
-      ],
-      "Saturday": [
-        "6 pm–12 am"
-      ],
-      "Sunday": [
-        "5 pm–12 am"
-      ]
-    },
-    "review_count": 435,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcUcOPPIDb43yX7eiWTxa7jcHInaQvCypR8fNcskUQMC6G9TB3huNuYfigDSwitV_UJ9KkcGfiJ_WllEzq1574HACtdMze0bKUkbkLWB0XO21rbQVHJPgK3DyNEUX1svAZWmpBJ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcUcOPPIDb43yX7eiWTxa7jcHInaQvCypR8fNcskUQMC6G9TB3huNuYfigDSwitV_UJ9KkcGfiJ_WllEzq1574HACtdMze0bKUkbkLWB0XO21rbQVHJPgK3DyNEUX1svAZWmpBJ=w1000-h750-no",
-    "source_query": "Halal restaurant in Bree, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ4VzRYBjTwEcRIkJ56DboRJU",
-    "name": "Jumbo Bree | de Jumbo's van Ralf & René",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Bree",
-    "address": "Jumbo Bree | de Jumbo's van Ralf & René, Sportlaan 44, 3960 Bree",
-    "street": "Sportlaan 44",
-    "postal_code": "3960",
-    "region": null,
-    "latitude": 51.149877,
-    "longitude": 5.591983,
-    "phone": "089 46 90 80",
-    "website": "https://www.jumbo.com/nl-be/winkels/jumbo-bree",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Jumbo%20Bree%20%7C%20de%20Jumbo%27s%20van%20Ralf%20%26%20Ren%C3%A9&query_place_id=ChIJ4VzRYBjTwEcRIkJ56DboRJU",
-    "open_hours_json": {
-      "Monday": [
-        "7 am–9 pm"
-      ],
-      "Tuesday": [
-        "7 am–9 pm"
-      ],
-      "Wednesday": [
-        "7 am–9 pm"
-      ],
-      "Thursday": [
-        "7 am–9 pm"
-      ],
-      "Friday": [
-        "7 am–9 pm"
-      ],
-      "Saturday": [
-        "7 am–9 pm"
-      ],
-      "Sunday": [
-        "7 am–9 pm"
-      ]
-    },
-    "review_count": 587,
-    "rating": 4.3,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeszLYvlEHO2D6EKJiVjnH7YMv0C2PjBhdxM43ZV45p0WEAeNWsWQh0G2QW9uQBUPg78kpFtWgxPTqnVueeGsmNtjSH_EyStrHev73p82X_plKsw3TL2EVZpn6rTT8dkwc31BIHxQ=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeszLYvlEHO2D6EKJiVjnH7YMv0C2PjBhdxM43ZV45p0WEAeNWsWQh0G2QW9uQBUPg78kpFtWgxPTqnVueeGsmNtjSH_EyStrHev73p82X_plKsw3TL2EVZpn6rTT8dkwc31BIHxQ=w1000-h750-no",
-    "source_query": "Hypermarket in Bree, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJLyaOZePTwEcRqpfqWaWbRTo",
-    "name": "Moskee Ajiaal",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Bree",
-    "address": "Moskee Ajiaal, Gruitroderstraat 57, 3960 Bree",
-    "street": "Gruitroderstraat 57",
-    "postal_code": "3960",
-    "region": null,
-    "latitude": 51.1339294,
-    "longitude": 5.5939809,
-    "phone": "0485 43 60 38",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moskee%20Ajiaal&query_place_id=ChIJLyaOZePTwEcRqpfqWaWbRTo",
-    "open_hours_json": {
-      "Monday": [
-        "Open 24 hours"
-      ],
-      "Tuesday": [
-        "Open 24 hours"
-      ],
-      "Wednesday": [
-        "Open 24 hours"
-      ],
-      "Thursday": [
-        "Open 24 hours"
-      ],
-      "Friday": [
-        "Open 24 hours"
-      ],
-      "Saturday": [
-        "Open 24 hours"
-      ],
-      "Sunday": [
-        "Open 24 hours"
-      ]
-    },
-    "review_count": 27,
-    "rating": 4.4,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcXPox0RaCZ_g2f2kol8qhgzCKKVN63DQr8tGRKhF1Ns7hp_3EGVssYqgnf5iugju9XHuOaKbzscjQsa7dkFrtThfSy1TQJDsEBJ3M3VyC6vIriHs27zZUEyaw4FsE0_lR8FuCW=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcXPox0RaCZ_g2f2kol8qhgzCKKVN63DQr8tGRKhF1Ns7hp_3EGVssYqgnf5iugju9XHuOaKbzscjQsa7dkFrtThfSy1TQJDsEBJ3M3VyC6vIriHs27zZUEyaw4FsE0_lR8FuCW=w1000-h750-no",
-    "source_query": "Mosque in Peer, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJX4INbeTTwEcRGgJFS-pYE_I",
-    "name": "NOSTIMO",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Bree",
-    "address": "NOSTIMO, Markt 15, 3960 Bree",
-    "street": "Markt 15",
-    "postal_code": "3960",
-    "region": null,
-    "latitude": 51.141105499999995,
-    "longitude": 5.597033499999999,
-    "phone": "089 20 97 64",
-    "website": "https://www.nostimo.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=NOSTIMO&query_place_id=ChIJX4INbeTTwEcRGgJFS-pYE_I",
-    "open_hours_json": {
-      "Monday": [
-        "4–9 pm"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "4–9 pm"
-      ],
-      "Friday": [
-        "12–9 pm"
-      ],
-      "Saturday": [
-        "12–9 pm"
-      ],
-      "Sunday": [
-        "12–9 pm"
-      ]
-    },
-    "review_count": 112,
-    "rating": 4.4,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcTI7EyF2-5qnAa0PY73jdAtwKWs5-DFzD-TufEPbRcStKrmq6_xINjUH5RTwD2JA4Nq-lAVQ4ibhBqH7jFv59tIF6t3yz4cA7IOF1H1fjkhvNPJ4BAVKJXfux1ckIg9Rs7VJA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcTI7EyF2-5qnAa0PY73jdAtwKWs5-DFzD-TufEPbRcStKrmq6_xINjUH5RTwD2JA4Nq-lAVQ4ibhBqH7jFv59tIF6t3yz4cA7IOF1H1fjkhvNPJ4BAVKJXfux1ckIg9Rs7VJA=w1000-h750-no",
-    "source_query": "Halal restaurant in Bree, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ96atMwDTwEcRWB-K1iBeFvE",
-    "name": "Orient Bree",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Bree",
-    "address": "Orient Bree, Stift 50, 3960 Bree",
-    "street": "Stift 50",
-    "postal_code": "3960",
-    "region": null,
-    "latitude": 51.144999999999996,
-    "longitude": 5.5988888999999995,
-    "phone": "0473 26 99 51",
-    "website": "https://orientkebapbree.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Orient%20Bree&query_place_id=ChIJ96atMwDTwEcRWB-K1iBeFvE",
-    "open_hours_json": {
-      "Monday": [
-        "4:30–11 pm"
-      ],
-      "Tuesday": [
-        "4:30–11 pm"
-      ],
-      "Wednesday": [
-        "4:30–11 pm"
-      ],
-      "Thursday": [
-        "4:30–11 pm"
-      ],
-      "Friday": [
-        "4:30 pm–3 am"
-      ],
-      "Saturday": [
-        "4:30 pm–3 am"
-      ],
-      "Sunday": [
-        "4:30–11 pm"
-      ]
-    },
-    "review_count": 65,
-    "rating": 4.4,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcHE_4UOX0Xi5ACI2aZZZU5AUunzb5Pph5-TOYLazA9zGLKMZuzJtcCwo9j6CkJTw01i8IS0vVFkJQl7bR1yuXTYg7SlWPGmdeieGrp7LpIeRXGSUrb8LuB0dXQMnRqZRhQXCqVSIUooAKV=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcHE_4UOX0Xi5ACI2aZZZU5AUunzb5Pph5-TOYLazA9zGLKMZuzJtcCwo9j6CkJTw01i8IS0vVFkJQl7bR1yuXTYg7SlWPGmdeieGrp7LpIeRXGSUrb8LuB0dXQMnRqZRhQXCqVSIUooAKV=w1000-h750-no",
-    "source_query": "Halal restaurant in Bree, Flanders, BE",
     "moderation_status": "approved",
     "is_active": true,
     "verification_status": "UNVERIFIED",

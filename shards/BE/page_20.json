@@ -1,5 +1,105 @@
 [
   {
+    "place_id": "ChIJ0dGz5dL9w0cRd-Kl50yS0eY",
+    "name": "RestoLier",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Lier",
+    "address": "RestoLier, Zimmerplein 8, 2500 Lier",
+    "street": "Zimmerplein 8",
+    "postal_code": "2500",
+    "region": null,
+    "latitude": 51.1294575,
+    "longitude": 4.5698476,
+    "phone": "03 297 21 69",
+    "website": "http://www.restolier.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=RestoLier&query_place_id=ChIJ0dGz5dL9w0cRd-Kl50yS0eY",
+    "open_hours_json": {
+      "Monday": [
+        "11 am–10 pm"
+      ],
+      "Tuesday": [
+        "11 am–10 pm"
+      ],
+      "Wednesday": [
+        "11 am–10 pm"
+      ],
+      "Thursday": [
+        "11 am–10 pm"
+      ],
+      "Friday": [
+        "11 am–10 pm"
+      ],
+      "Saturday": [
+        "10 am–10 pm"
+      ],
+      "Sunday": [
+        "11 am–10 pm"
+      ]
+    },
+    "review_count": 97,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLef-OVv-T7XXbCCvHAQ9WHiaGxQwt7nYXO93fkt5KagkEqezywiVnmVfGV6iEGoQMdUMXd6Up2NpvX3o_429jwlQCnNWaFzl-gbS8HiN3aVHpcVwxzDFFqvvl1StenU4YfcTo1AQT1Hrkw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLef-OVv-T7XXbCCvHAQ9WHiaGxQwt7nYXO93fkt5KagkEqezywiVnmVfGV6iEGoQMdUMXd6Up2NpvX3o_429jwlQCnNWaFzl-gbS8HiN3aVHpcVwxzDFFqvvl1StenU4YfcTo1AQT1Hrkw=w1000-h750-no",
+    "source_query": "Halal restaurant in Lier, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJo-z-OFf7w0cRMzKC7QauzW4",
+    "name": "RiverCatch",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Lier",
+    "address": "RiverCatch, Stijn Streuvelslaan 14, 2500 Lier",
+    "street": "Stijn Streuvelslaan 14",
+    "postal_code": "2500",
+    "region": null,
+    "latitude": 51.1392673,
+    "longitude": 4.5443305,
+    "phone": "0489 47 36 58",
+    "website": "http://www.rivercatch.eu/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=RiverCatch&query_place_id=ChIJo-z-OFf7w0cRMzKC7QauzW4",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "Closed"
+      ],
+      "Friday": [
+        "Closed"
+      ],
+      "Saturday": [
+        "Closed"
+      ],
+      "Sunday": [
+        "12–5 pm"
+      ]
+    },
+    "review_count": 18,
+    "rating": 4.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdjMWykUgyi6grWGPVNBppXLq5QAs1_L-UydZaSbYopR7BixEGJXx76P4WaWmBxntwRW1hBjfnzoxcZtJUj3nJimvDNa5_HNE0LfaDTWunnlU8__vb0doQ6No42f-Wlk4usm6nPqw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdjMWykUgyi6grWGPVNBppXLq5QAs1_L-UydZaSbYopR7BixEGJXx76P4WaWmBxntwRW1hBjfnzoxcZtJUj3nJimvDNa5_HNE0LfaDTWunnlU8__vb0doQ6No42f-Wlk4usm6nPqw=w1000-h750-no",
+    "source_query": "Fish restaurant in Lier, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJdaqQXIj8w0cREut4_gu9By0",
     "name": "Rosario Lier",
     "type": "restaurant",
@@ -3012,8 +3112,8 @@
     "phone": "04 224 33 43",
     "website": "https://boucherie-el-kamel-express.be/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boucherie%20El%20Kamel&query_place_id=ChIJtY19Yy76wEcRkanHBx-q7rI",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdpqDGvEYTJ4qxFE4m5h-9Eeb8c8dWnqGNDnSodyXUDt6F2MHgIsZX43q2ifLQDhuIRBfuAWuTmzlMKRfbibG7fpwPT3ibUODg1Cst-_LqaJnS3rJPacObE7tj58mOg89q_HJzY5Q=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdpqDGvEYTJ4qxFE4m5h-9Eeb8c8dWnqGNDnSodyXUDt6F2MHgIsZX43q2ifLQDhuIRBfuAWuTmzlMKRfbibG7fpwPT3ibUODg1Cst-_LqaJnS3rJPacObE7tj58mOg89q_HJzY5Q=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeFeuvGG-iz3zmyUx-TIp82-DaAalShiTCAy68nD13tdyUaclFXO6_R5PuMXUagZxDMjSaruE6cTgvUtZ1EmoPXfX0zbrujZZ2XCw0mvp7KwaDoDhH_WHgu76SPHqyDAqlIdglfjw=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeFeuvGG-iz3zmyUx-TIp82-DaAalShiTCAy68nD13tdyUaclFXO6_R5PuMXUagZxDMjSaruE6cTgvUtZ1EmoPXfX0zbrujZZ2XCw0mvp7KwaDoDhH_WHgu76SPHqyDAqlIdglfjw=w1000-h750-no",
     "rating": 4.5,
     "review_count": 197,
     "verification_status": "UNVERIFIED",
@@ -3064,8 +3164,8 @@
     "phone": "04 342 41 75",
     "website": "https://boucherielaperehalal.eatbu.com/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boucherie%20Lapere%20Halal&query_place_id=ChIJUbwpUPvxwEcRX55WaT72Vc8",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe_biA3fLaTkUphCndOualyLi5BC5qCvEk9DZ-oTySwiaMGkAwIg2lwT-xz6XGpdhQ0AuorFQK6wu1rhDtwOcJHWdM4c6Sx4VtFtgNvVisngFr55RKQKxW8I4nlLaqQdQDe2YSUQAp1a8U=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe_biA3fLaTkUphCndOualyLi5BC5qCvEk9DZ-oTySwiaMGkAwIg2lwT-xz6XGpdhQ0AuorFQK6wu1rhDtwOcJHWdM4c6Sx4VtFtgNvVisngFr55RKQKxW8I4nlLaqQdQDe2YSUQAp1a8U=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc5UbAq0tTQnCSmJjfKoyoAjimHoqSaSttnUdqC2yoNiM6wPGOj4PPH5p2bckTGKRHw1aixa9z5NVQllOJjmhG2qMpXDskYTYNeItsYndO0uzDyHgxh8T181CL2CAUjzgoNAot4=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc5UbAq0tTQnCSmJjfKoyoAjimHoqSaSttnUdqC2yoNiM6wPGOj4PPH5p2bckTGKRHw1aixa9z5NVQllOJjmhG2qMpXDskYTYNeItsYndO0uzDyHgxh8T181CL2CAUjzgoNAot4=w1000-h750-no",
     "rating": 4.7,
     "review_count": 73,
     "verification_status": "VERIFIED",
@@ -3170,8 +3270,8 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boucherie%20Traiteur%20Halal%20Sprl&query_place_id=ChIJmfL3pAn6wEcR2Umdkf5eYvY",
     "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Cega2yA51X-aHwltscv-OQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=201.4584&pitch=0&thumbfov=w1000-h750-no",
     "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Cega2yA51X-aHwltscv-OQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=201.4584&pitch=0&thumbfov=w1000-h750-no",
-    "rating": 3.6,
-    "review_count": 15,
+    "rating": null,
+    "review_count": 0,
     "verification_status": "VERIFIED",
     "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
     "is_active": true,
@@ -3761,8 +3861,8 @@
     "phone": "0465 56 80 63",
     "website": "https://www.takeaway.com/be/menu/chef-city-snack?sharingId=i1668729737808",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chef%20City%20Li%C3%A8ge&query_place_id=ChIJAX3KATnxwEcRy8lLDK5hFXo",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcwkr6KHg9YEQo-Me_wVKb_MB114IqmT91ZUpzX8bFjvswgUBrBzGMB7S50HUFHgMroSiCbDPFfD9fuca6OF4EZ9UvyumuKNUBd6Xs_hk8YRH710ZPAHeGylCHS4CRX85odXiV_=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcwkr6KHg9YEQo-Me_wVKb_MB114IqmT91ZUpzX8bFjvswgUBrBzGMB7S50HUFHgMroSiCbDPFfD9fuca6OF4EZ9UvyumuKNUBd6Xs_hk8YRH710ZPAHeGylCHS4CRX85odXiV_=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe5Eq3gYlp4G-9_edEcw-QAB5W3VXhENNxxIEDvmPRREjM8TrQjDEifAzb3R2FCOxcG9Vofln5-pD-ibvI6lMgL79AMMFsgY7CytyjxUm7gbKTl5w8_u76SJtnYVskIJkw9jjDK=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe5Eq3gYlp4G-9_edEcw-QAB5W3VXhENNxxIEDvmPRREjM8TrQjDEifAzb3R2FCOxcG9Vofln5-pD-ibvI6lMgL79AMMFsgY7CytyjxUm7gbKTl5w8_u76SJtnYVskIJkw9jjDK=w1000-h750-no",
     "rating": 4.5,
     "review_count": 286,
     "verification_status": "UNVERIFIED",
@@ -4426,8 +4526,8 @@
     "phone": "0455 17 94 83",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=EL%20REY%20DEL%20MAR&query_place_id=ChIJhTXh7hDxwEcRgrxsW95LrgI",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeS4mYUgrOMNPTgLx_DM4AdkPljqi62dz2hpxqoD1EwY8HwIaAGVQRILOhX8pVRLVL3MwqwtO5VN0OP1kYOqNchmQJYLKSZtApLY_TrDp8HVQXVOWnxPaI091_ECMZ5YbuvDBqFKg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeS4mYUgrOMNPTgLx_DM4AdkPljqi62dz2hpxqoD1EwY8HwIaAGVQRILOhX8pVRLVL3MwqwtO5VN0OP1kYOqNchmQJYLKSZtApLY_TrDp8HVQXVOWnxPaI091_ECMZ5YbuvDBqFKg=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf2P2eztwDW0PczDpSDWO46VlDKxq37_n39Ai-vnSMlOrPsmyrqKfCcQURKJSWtXzqRgTNgKFbaEqQkoQLXRFI7gVGkasuSaSXrbEnTmPQCyjts5INF2G8mcAv0ABncCgPE02SWdA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf2P2eztwDW0PczDpSDWO46VlDKxq37_n39Ai-vnSMlOrPsmyrqKfCcQURKJSWtXzqRgTNgKFbaEqQkoQLXRFI7gVGkasuSaSXrbEnTmPQCyjts5INF2G8mcAv0ABncCgPE02SWdA=w1000-h750-no",
     "rating": 4.4,
     "review_count": 134,
     "verification_status": "VERIFIED",
@@ -6826,7 +6926,7 @@
     "region": null,
     "latitude": 50.645824999999995,
     "longitude": 5.5754459,
-    "phone": "0470 93 87 36",
+    "phone": null,
     "website": "https://lazeez.eu/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Lazeez&query_place_id=ChIJp4YYEQz6wEcRCoyBOkP-ofQ",
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfabPa6rqo8vOIK6U2HGJ93K8hd3Oc0sSxXt9hxF9JkE_lAzhLiLnXsGqE_6BvnonXVXSTGIsUoKkq-N3plSin3JASDVpY2zbxs4hvf-_JRZu5DXSRlRCpyo8Do3xF1RYQihYFd=w1000-h750-no",
@@ -6965,8 +7065,8 @@
     "phone": "0490 38 66 59",
     "website": "https://lebonchwa-ans.be/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Bon%20Chwa&query_place_id=ChIJI-GNEUr6wEcRxaPHusbBlL8",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcDdgoSEhyFm473S-qx4GV-MZcJ59kbHzrKd8UMjlPwhgTVTjCrAbxqyO_9lbrrD8S3gCoH-IPsT2iS6nv603G5YV12G_n5qWP90LzrE2rhvH0Lk_cxVzg8Z4RHoTA9ybp-vx-H3A=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcDdgoSEhyFm473S-qx4GV-MZcJ59kbHzrKd8UMjlPwhgTVTjCrAbxqyO_9lbrrD8S3gCoH-IPsT2iS6nv603G5YV12G_n5qWP90LzrE2rhvH0Lk_cxVzg8Z4RHoTA9ybp-vx-H3A=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcMaJboz0_n1BCLyeQqGya6s7Cp8RVHlPvWjGl8Kt2PuhWmxlZrl7H_90O3oYOfPRrIwGrUSUA2tHlEwQf8PY9QkkRUcl1btWjUPwcCRvUJ0iQf_-eBmAGw-1VEjirIlp72_7VWFA=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcMaJboz0_n1BCLyeQqGya6s7Cp8RVHlPvWjGl8Kt2PuhWmxlZrl7H_90O3oYOfPRrIwGrUSUA2tHlEwQf8PY9QkkRUcl1btWjUPwcCRvUJ0iQf_-eBmAGw-1VEjirIlp72_7VWFA=w1000-h750-no",
     "rating": 4.5,
     "review_count": 78,
     "verification_status": "VERIFIED",
@@ -7979,10 +8079,10 @@
     "phone": "0472 03 76 31",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=MIRO%20KUMPIR&query_place_id=ChIJTUX7m-z7wEcROXj1kOnTlQA",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfNiSk_a_ccO8BSqXU4YMQTqxgJWdAydndVIa1YH1OU0T2prVFuZiP9c84QXd7gUe2XOoEAl-Y0K1_i7KcA2VdlF4mfGY6E55PeP_6RsDeLpIecdIOegRqlnr8H_9OPpFZXSyd1Nu74dHYr=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfNiSk_a_ccO8BSqXU4YMQTqxgJWdAydndVIa1YH1OU0T2prVFuZiP9c84QXd7gUe2XOoEAl-Y0K1_i7KcA2VdlF4mfGY6E55PeP_6RsDeLpIecdIOegRqlnr8H_9OPpFZXSyd1Nu74dHYr=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe8yhyo5c3ZgEjssnO3T9v3JqUIGKUOnM6Qn71-mVP9iegRBsv-SfTp4j8bPN81oOvWuLxPm-FDR0Q9A2oQlI0UcgNx4Kt5fO-T4RJfkPvLTARPVoRKRbeZVUjYrIwxzSJjdCyMnmGY_nVL=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe8yhyo5c3ZgEjssnO3T9v3JqUIGKUOnM6Qn71-mVP9iegRBsv-SfTp4j8bPN81oOvWuLxPm-FDR0Q9A2oQlI0UcgNx4Kt5fO-T4RJfkPvLTARPVoRKRbeZVUjYrIwxzSJjdCyMnmGY_nVL=w1000-h750-no",
     "rating": 4.5,
-    "review_count": 111,
+    "review_count": 112,
     "verification_status": "VERIFIED",
     "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
     "is_active": true,
@@ -8532,8 +8632,8 @@
     "phone": null,
     "website": "https://www.kanunicami.com/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mosque%20Kanuni%20Sultan%20S%C3%BCleyman%20Cultural%20Center%20Turkish%20De%20Saint-Nicolas&query_place_id=ChIJ8W7b9C36wEcRe0-t0PIdo6c",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcKmPg-DGmM9xODM12lMhugm6SsnUEvKkgqgDBN_0Z0HigkBTZIs4Vag9y9OVY5Z83C39Q5ZTgt4SARNoR_698IrEzE10PEJMx72OFqad9GY5Y35fReb2l3B8liyxz6iaT91hLn=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcKmPg-DGmM9xODM12lMhugm6SsnUEvKkgqgDBN_0Z0HigkBTZIs4Vag9y9OVY5Z83C39Q5ZTgt4SARNoR_698IrEzE10PEJMx72OFqad9GY5Y35fReb2l3B8liyxz6iaT91hLn=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd2fXYD6hk-f3d0QDb1G92Pj3O4HNFEjGPMuZG2Z4SKqKtoGSJZmsjP-fBVrAVwvBmUaMK5llcqbfXrhgtuA8QJneauZTQtPfXiH5O3cHH967RswHtAm2n4IaeaUy-NCIj96vjv=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd2fXYD6hk-f3d0QDb1G92Pj3O4HNFEjGPMuZG2Z4SKqKtoGSJZmsjP-fBVrAVwvBmUaMK5llcqbfXrhgtuA8QJneauZTQtPfXiH5O3cHH967RswHtAm2n4IaeaUy-NCIj96vjv=w1000-h750-no",
     "rating": 4.9,
     "review_count": 61,
     "verification_status": "UNVERIFIED",
@@ -8610,8 +8710,8 @@
     "phone": "02 465 09 91",
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mosqu%C3%A9e%20Al-Mouh%C3%A7inine&query_place_id=ChIJn6uJ4J_wwEcRj7V6-CoortU",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcljP8jH1NCJLwlO2mX1pRgltEgp-KUD5ryR-UZrq98bZqWdmn1V9orYHWmeOko8ikDX0IGrF-ui8TyGJjyhFpzh0F1vyV6kmDMBtUqNv2yoPzhiGsLG97ByZ-IAA4B2_SNbCpw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcljP8jH1NCJLwlO2mX1pRgltEgp-KUD5ryR-UZrq98bZqWdmn1V9orYHWmeOko8ikDX0IGrF-ui8TyGJjyhFpzh0F1vyV6kmDMBtUqNv2yoPzhiGsLG97ByZ-IAA4B2_SNbCpw=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeTv8NKaUgOPQAPhapJDe1b78Qm5hqYn36jfjNEOSj3Hp_FLAQ7FaWKLEKJdbj0zxzoGfZd_950EXxXmcw_PRFFBUh6XzFO1LTZ7EzT6yRChLR0ImCHNLTZWBJm9L-LglLrPUZa=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeTv8NKaUgOPQAPhapJDe1b78Qm5hqYn36jfjNEOSj3Hp_FLAQ7FaWKLEKJdbj0zxzoGfZd_950EXxXmcw_PRFFBUh6XzFO1LTZ7EzT6yRChLR0ImCHNLTZWBJm9L-LglLrPUZa=w1000-h750-no",
     "rating": 4.5,
     "review_count": 25,
     "verification_status": "UNVERIFIED",
@@ -8776,32 +8876,6 @@
     "moderation_status": "approved"
   },
   {
-    "place_id": "ChIJFfLTBwn6wEcReqmbWSUbboA",
-    "name": "Mosquée Essalam",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Liège",
-    "address": "Mosquée Essalam, Chau. des Prés 6, 4020 Liège",
-    "street": "Chau. des Prés 6",
-    "postal_code": "4020",
-    "region": null,
-    "latitude": 50.6426842,
-    "longitude": 5.5800936,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mosqu%C3%A9e%20Essalam&query_place_id=ChIJFfLTBwn6wEcReqmbWSUbboA",
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4eFI1ztfcu4725pDJg20sg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=175.24686&pitch=-0.70669186&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4eFI1ztfcu4725pDJg20sg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=175.24686&pitch=-0.70669186&thumbfov=w1000-h750-no",
-    "rating": 5.0,
-    "review_count": 1,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
     "place_id": "ChIJT4ROWQD7wEcR53t2245iboM",
     "name": "Mosquée kanuni sultan suleyman camii",
     "type": "mosque",
@@ -8818,8 +8892,8 @@
     "phone": null,
     "website": null,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mosqu%C3%A9e%20kanuni%20sultan%20suleyman%20camii&query_place_id=ChIJT4ROWQD7wEcR53t2245iboM",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd41t2qVUkJXeOb0oKfVtna0-FMIPwxu8XHKKn8B6ra62DEoG8nW-iRxRkgaxYo-OisS_6yKOI_TTY-eUzCQX957uB1pEH-jDZzDauYUmAMoFKae1aNjYSI7TiRrmILjkm5fuimm9UH1B0=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd41t2qVUkJXeOb0oKfVtna0-FMIPwxu8XHKKn8B6ra62DEoG8nW-iRxRkgaxYo-OisS_6yKOI_TTY-eUzCQX957uB1pEH-jDZzDauYUmAMoFKae1aNjYSI7TiRrmILjkm5fuimm9UH1B0=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcDh_nvIkmHwlwdRAHwVBJW-kIqAXggTu_3G6HYITaQPN9WDriEQYEQWEe8klkWn_VIiqSU3_XVVkcB2uZz22qaxOycMybFMS1uChhVGi74Nk17QJ2vT0PKwB-M1HN5TphwnwfO_SSW5zE=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcDh_nvIkmHwlwdRAHwVBJW-kIqAXggTu_3G6HYITaQPN9WDriEQYEQWEe8klkWn_VIiqSU3_XVVkcB2uZz22qaxOycMybFMS1uChhVGi74Nk17QJ2vT0PKwB-M1HN5TphwnwfO_SSW5zE=w1000-h750-no",
     "rating": 5.0,
     "review_count": 13,
     "verification_status": "UNVERIFIED",
@@ -8844,8 +8918,8 @@
     "phone": null,
     "website": "https://www.facebook.com/CentreCulturelTurcDeLiege/?locale=fr_FR",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mosqu%C3%A9e%20turc%20centre%20de%20Li%C3%A8ge&query_place_id=ChIJlZJuzA76wEcRI0X4kavMAvM",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfOPEUCduDBtN9axBpnn-LRpIHhlHeYRpBdfpiknwkE2G2GGGfybS6qfwyCX03UQ7OejQlHxwIzcEhErrxThaO6vmGM9QrCx5k3XTLQKAa78QUvj5eGgKUF5z0uIfFz7OEDzLr7=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfOPEUCduDBtN9axBpnn-LRpIHhlHeYRpBdfpiknwkE2G2GGGfybS6qfwyCX03UQ7OejQlHxwIzcEhErrxThaO6vmGM9QrCx5k3XTLQKAa78QUvj5eGgKUF5z0uIfFz7OEDzLr7=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfUH_E_M8oG-iApWJbF7z65ZxM2R8uB0n03wnXFndRlhJMp48_VCkkrPD3Wei6slC3Y6WTqIcI9TUSU_sWFkFsCfGAG7gnO8skt_ROn3Rb0sEixx9vouuTsDmjgijKMTOV0ssYR=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfUH_E_M8oG-iApWJbF7z65ZxM2R8uB0n03wnXFndRlhJMp48_VCkkrPD3Wei6slC3Y6WTqIcI9TUSU_sWFkFsCfGAG7gnO8skt_ROn3Rb0sEixx9vouuTsDmjgijKMTOV0ssYR=w1000-h750-no",
     "rating": 4.6,
     "review_count": 85,
     "verification_status": "UNVERIFIED",
@@ -9978,55 +10052,5 @@
     "is_active": true,
     "verification_status": "VERIFIED",
     "verification_evidence": "Explicit Halal keyword indicators in listing metadata"
-  },
-  {
-    "place_id": "ChIJPZwvZnj7wEcRgArSuOae8hU",
-    "name": "Place aux Huîtres",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Liège",
-    "address": "Place aux Huîtres, Quai Sur - Meuse 14, 4000 Liège",
-    "street": "Quai Sur - Meuse 14",
-    "postal_code": "4000",
-    "region": null,
-    "latitude": 50.642542,
-    "longitude": 5.5771486999999995,
-    "phone": "0493 71 34 71",
-    "website": "https://placeauxhuitres.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20aux%20Hu%C3%AEtres&query_place_id=ChIJPZwvZnj7wEcRgArSuOae8hU",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "Closed"
-      ],
-      "Wednesday": [
-        "Closed"
-      ],
-      "Thursday": [
-        "Closed"
-      ],
-      "Friday": [
-        "Closed"
-      ],
-      "Saturday": [
-        "Closed"
-      ],
-      "Sunday": [
-        "10:30 am–4 pm"
-      ]
-    },
-    "review_count": 27,
-    "rating": 4.4,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcZYqpcl95Wh65_qUO7lZvhmjcQHdipxpWOlLBZu5wQ2IiUAcd-pK5-C8DzE_1Edd0lLKDkxn2jx7vAnt23bGhZNB2YXHrG9ojvbLoKBmRPVKUOLfrwslkDM0hcwbbdsJioB5gvOulUUhnP=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcZYqpcl95Wh65_qUO7lZvhmjcQHdipxpWOlLBZu5wQ2IiUAcd-pK5-C8DzE_1Edd0lLKDkxn2jx7vAnt23bGhZNB2YXHrG9ojvbLoKBmRPVKUOLfrwslkDM0hcwbbdsJioB5gvOulUUhnP=w1000-h750-no",
-    "source_query": "Fish restaurant in Seraing, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
   }
 ]
