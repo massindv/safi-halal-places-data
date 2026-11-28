@@ -1,5 +1,584 @@
 [
   {
+    "place_id": "ChIJnUBMCwAnw0cRnymhCYz77KQ",
+    "name": "عبدالله كلاسك",
+    "type": "hypermarket",
+    "category": "hypermarket",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tournai",
+    "address": "عبدالله كلاسك, Rue Jules Schelstraete, 7520 Tournai",
+    "street": "Rue Jules Schelstraete",
+    "postal_code": "7520",
+    "region": null,
+    "latitude": 50.641673399999995,
+    "longitude": 3.2934696,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87%20%D9%83%D9%84%D8%A7%D8%B3%D9%83&query_place_id=ChIJnUBMCwAnw0cRnymhCYz77KQ",
+    "open_hours_json": null,
+    "review_count": 5,
+    "rating": 5.0,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8F1eaeLVchx9s34f4VQBsA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=316.77435&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8F1eaeLVchx9s34f4VQBsA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=316.77435&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Hypermarket in Tournai, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJxwfzGrDhwkcR3UopffCtQYo",
+    "name": "ショッピングモール",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tournai",
+    "address": "〒7500 Tournai, Bd Walter de Marvis, ショッピングモール",
+    "street": "Bd Walter de Marvis 22",
+    "postal_code": "7500",
+    "region": null,
+    "latitude": 50.6021402,
+    "longitude": 3.4048873,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%83%A2%E3%83%BC%E3%83%AB&query_place_id=ChIJxwfzGrDhwkcR3UopffCtQYo",
+    "open_hours_json": null,
+    "review_count": 0,
+    "rating": null,
+    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ymNUeEuD2VDsPd49PSvxDg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=34.828594&pitch=0&thumbfov=w1000-h750-no",
+    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ymNUeEuD2VDsPd49PSvxDg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=34.828594&pitch=0&thumbfov=w1000-h750-no",
+    "source_query": "Hypermarket in Tournai, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJH74knXZlwEcReE-vKg25MEs",
+    "name": "Chez Tahsim",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Trois-Ponts",
+    "address": "Chez Tahsim, Av. Joseph Lejeune 2, 4980 Trois-Ponts",
+    "street": "Av. Joseph Lejeune 2",
+    "postal_code": "4980",
+    "region": null,
+    "latitude": 50.3719451,
+    "longitude": 5.8702157999999995,
+    "phone": "0484 16 86 92",
+    "website": "https://www.facebook.com/Pita-Trois-Ponts-243541922323143/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chez%20Tahsim&query_place_id=ChIJH74knXZlwEcReE-vKg25MEs",
+    "open_hours_json": {
+      "Monday": [
+        "11:30 am–2 pm",
+        "5–10 pm"
+      ],
+      "Tuesday": [
+        "11:30 am–2 pm",
+        "5–10 pm"
+      ],
+      "Wednesday": [
+        "11:30 am–2 pm",
+        "5–10 pm"
+      ],
+      "Thursday": [
+        "11:30 am–2 pm",
+        "5–10 pm"
+      ],
+      "Friday": [
+        "11:30 am–10 pm"
+      ],
+      "Saturday": [
+        "11:30 am–10 pm"
+      ],
+      "Sunday": [
+        "11:30 am–10 pm"
+      ]
+    },
+    "review_count": 1206,
+    "rating": 4.9,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc9P6BITu3IpzaNwSyqhVXyWqxYh7HWx3UPVh2lqshfRk-aRfhtJcJ2k6KOec1FHX-B4Yp31Wgo5sAvQp2VrmuppXSQ7mMDb5YNNfZMJDtaNhpbEs1oimvzdKZ5_S0WVGP9zzTc=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc9P6BITu3IpzaNwSyqhVXyWqxYh7HWx3UPVh2lqshfRk-aRfhtJcJ2k6KOec1FHX-B4Yp31Wgo5sAvQp2VrmuppXSQ7mMDb5YNNfZMJDtaNhpbEs1oimvzdKZ5_S0WVGP9zzTc=w1000-h750-no",
+    "source_query": "Halal restaurant in Lierneux, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJJxF1W49lwEcRX4aEeRCrmvc",
+    "name": "Restaurant de la place/Dina",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Trois-Ponts",
+    "address": "Restaurant de la place/Dina, Pl. Communale 21, 4980 Trois-Ponts",
+    "street": "Pl. Communale 21",
+    "postal_code": "4980",
+    "region": null,
+    "latitude": 50.371959,
+    "longitude": 5.8708903,
+    "phone": "080 68 44 30",
+    "website": "https://nl-nl.facebook.com/RestaurantDeLaPlace/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20de%20la%20place%2FDina&query_place_id=ChIJJxF1W49lwEcRX4aEeRCrmvc",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "6–8:30 pm"
+      ],
+      "Thursday": [
+        "6–8:30 pm"
+      ],
+      "Friday": [
+        "6–8:30 pm"
+      ],
+      "Saturday": [
+        "6–8:30 pm"
+      ],
+      "Sunday": [
+        "12–2 pm",
+        "6–8:30 pm"
+      ]
+    },
+    "review_count": 192,
+    "rating": 4.5,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf41S7h-GAwYcF_QcHtzWO3tH233R2HFVk-cU0ldRKnVCu57y5E90rLkhR19xnckU9GIe3yk_4MktiyUehmfQjpaxB2zatPScHgccdzzNvT6zWdDhBqXoOJWX-ul7VJTJZ1fd1GtQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf41S7h-GAwYcF_QcHtzWO3tH233R2HFVk-cU0ldRKnVCu57y5E90rLkhR19xnckU9GIe3yk_4MktiyUehmfQjpaxB2zatPScHgccdzzNvT6zWdDhBqXoOJWX-ul7VJTJZ1fd1GtQ=w1000-h750-no",
+    "source_query": "Fish restaurant in Lierneux, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJhU1gBgALwEcRJdjPILZ8_4U",
+    "name": "Mosquée AL-SIDDIQ Asbl",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "LU",
+    "country_code": "LU",
+    "city": "Troisvierges",
+    "address": "Mosquée AL-SIDDIQ Asbl, 9908 Troisvierges, Luxembourg",
+    "street": null,
+    "postal_code": "9908",
+    "region": null,
+    "latitude": 50.1213049,
+    "longitude": 6.0008678,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mosqu%C3%A9e%20AL-SIDDIQ%20Asbl&query_place_id=ChIJhU1gBgALwEcRJdjPILZ8_4U",
+    "open_hours_json": null,
+    "review_count": 3,
+    "rating": 5.0,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfryCKqpTyv-kCCEduq8c1_I40OlzNndi-evZB0ncH18YhtSo0MuQv5heSni7MoCeU84Mi_7w-jtc3Otwn7ZouvfuPyRdMMFVTnA_ONMDXMTQA6AUsvleJ7OWPn889WE81IBcPJgbmDnV4=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfryCKqpTyv-kCCEduq8c1_I40OlzNndi-evZB0ncH18YhtSo0MuQv5heSni7MoCeU84Mi_7w-jtc3Otwn7ZouvfuPyRdMMFVTnA_ONMDXMTQA6AUsvleJ7OWPn889WE81IBcPJgbmDnV4=w1000-h750-no",
+    "source_query": "Mosque in Lierneux, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJn7zwUK4LwEcRmnIkADecp4M",
+    "name": "Mosquée Centre culturel Islamique du Troisvierges (Al Saddiq)",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "LU",
+    "country_code": "LU",
+    "city": "Troisvierges",
+    "address": "Mosquée Centre culturel Islamique du Troisvierges (Al Saddiq), 13 Grand-Rue, 9905 Troisvierges, Luxembourg",
+    "street": "13 Grand-Rue",
+    "postal_code": "9905",
+    "region": null,
+    "latitude": 50.121291199999995,
+    "longitude": 6.0009106999999995,
+    "phone": "+352 691 810 373",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mosqu%C3%A9e%20Centre%20culturel%20Islamique%20du%20Troisvierges%20%28Al%20Saddiq%29&query_place_id=ChIJn7zwUK4LwEcRmnIkADecp4M",
+    "open_hours_json": {
+      "Monday": [
+        "Open 24 hours"
+      ],
+      "Tuesday": [
+        "Open 24 hours"
+      ],
+      "Wednesday": [
+        "Open 24 hours"
+      ],
+      "Thursday": [
+        "Open 24 hours"
+      ],
+      "Friday": [
+        "Open 24 hours"
+      ],
+      "Saturday": [
+        "Open 24 hours"
+      ],
+      "Sunday": [
+        "Open 24 hours"
+      ]
+    },
+    "review_count": 4,
+    "rating": 5.0,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfQj0bv8qwHf9JPYz_1dtRNmKnzg5aFIWE9vteJZ5EhxfvZdFs_DbrKU9rRUk95Ade2w_zosIIDFzHNPew2olJH2nsaczxpJN0SQp0IhKTYDDIqLZIijjpCndGA-KjIr_bL0zlPUr7IuK9l=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfQj0bv8qwHf9JPYz_1dtRNmKnzg5aFIWE9vteJZ5EhxfvZdFs_DbrKU9rRUk95Ade2w_zosIIDFzHNPew2olJH2nsaczxpJN0SQp0IhKTYDDIqLZIijjpCndGA-KjIr_bL0zlPUr7IuK9l=w1000-h750-no",
+    "source_query": "Mosque in Houffalize, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJJ2lSqfbJw0cRgeZ9PfD8v10",
+    "name": "Akira - Cuisine Japonaise",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tubize",
+    "address": "Akira - Cuisine Japonaise, Rue de Mons 37, 1480 Tubize",
+    "street": "Rue de Mons 37",
+    "postal_code": "1480",
+    "region": null,
+    "latitude": 50.6916217,
+    "longitude": 4.2035118,
+    "phone": "02 390 03 89",
+    "website": "http://www.akira-tubize.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Akira%20-%20Cuisine%20Japonaise&query_place_id=ChIJJ2lSqfbJw0cRgeZ9PfD8v10",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "11:30 am–2:30 pm",
+        "6–10 pm"
+      ],
+      "Wednesday": [
+        "11:30 am–2:30 pm",
+        "6–10 pm"
+      ],
+      "Thursday": [
+        "11:30 am–2:30 pm",
+        "6–10 pm"
+      ],
+      "Friday": [
+        "11:30 am–2:30 pm",
+        "6–10 pm"
+      ],
+      "Saturday": [
+        "11:30 am–2:30 pm",
+        "6–10 pm"
+      ],
+      "Sunday": [
+        "11:30 am–2:30 pm",
+        "6–10 pm"
+      ]
+    },
+    "review_count": 382,
+    "rating": 4.4,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLccbtzFmtFZtBiNLMA4B_EzSktFpLdMg6EjqF3aTrws9Q3lVTcgs1T0wohtJhz2g8DhwOA1HFDlrjdd2eBs_Wi4_n4b30b_ouYxoApwAtntzgUcHqZofA9fFsmYkjFmV5n7UXE=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLccbtzFmtFZtBiNLMA4B_EzSktFpLdMg6EjqF3aTrws9Q3lVTcgs1T0wohtJhz2g8DhwOA1HFDlrjdd2eBs_Wi4_n4b30b_ouYxoApwAtntzgUcHqZofA9fFsmYkjFmV5n7UXE=w1000-h750-no",
+    "source_query": "Fish restaurant in Tubize, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJFUqxUPbJw0cRK8hjSixVA2U",
+    "name": "Archipelagos Food, Restaurant",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tubize",
+    "address": "Archipelagos Food, Restaurant, Rue de Mons 133, 1480 Tubize",
+    "street": "Rue de Mons 133",
+    "postal_code": "1480",
+    "region": null,
+    "latitude": 50.6891441,
+    "longitude": 4.2009845,
+    "phone": "02 355 43 04",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Archipelagos%20Food%2C%20Restaurant&query_place_id=ChIJFUqxUPbJw0cRK8hjSixVA2U",
+    "open_hours_json": {
+      "Monday": [
+        "6–11 pm"
+      ],
+      "Tuesday": [
+        "6–11 pm"
+      ],
+      "Wednesday": [
+        "Closed"
+      ],
+      "Thursday": [
+        "6–11 pm"
+      ],
+      "Friday": [
+        "6–11 pm"
+      ],
+      "Saturday": [
+        "6–11 pm"
+      ],
+      "Sunday": [
+        "12–3 pm",
+        "6–11 pm"
+      ]
+    },
+    "review_count": 299,
+    "rating": 4.0,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLetnIfJkgeDQ8hZj4fxjAF9EFxIhpiVEENeHOim_UKD1-YC2u51piwEMhfOgB4p3RS766WqOq-YH-R71BWs-Ld_vdYgFAxPhCcxZIFQop8hQAQQCTwmHBSVlozkHHhs5lR-nBVN=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLetnIfJkgeDQ8hZj4fxjAF9EFxIhpiVEENeHOim_UKD1-YC2u51piwEMhfOgB4p3RS766WqOq-YH-R71BWs-Ld_vdYgFAxPhCcxZIFQop8hQAQQCTwmHBSVlozkHHhs5lR-nBVN=w1000-h750-no",
+    "source_query": "Fish restaurant in Tubize, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJhaYFgh7Kw0cRNKEGVNdfq5k",
+    "name": "Attawba",
+    "type": "mosque",
+    "category": "mosque",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tubize",
+    "address": "Attawba, Rue des Freres Lefort 24, 1480 Tubize",
+    "street": "Rue des Freres Lefort 24",
+    "postal_code": "1480",
+    "region": null,
+    "latitude": 50.6839048,
+    "longitude": 4.2027925,
+    "phone": null,
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Attawba&query_place_id=ChIJhaYFgh7Kw0cRNKEGVNdfq5k",
+    "open_hours_json": null,
+    "review_count": 82,
+    "rating": 4.6,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdoYlYnB2JTg3xjMz1_RCJgGqQLH7v2pK4ZASIjL2W7SYSc3z-_q4jj5Kr5ayMA9vpCeDmk-pBR9LfL0OGHv19KXcTXFoLDMmWMUpfdhaptTgFTGDrsJLsS1vqYyEls6SagrqN_SsdIevsc=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdoYlYnB2JTg3xjMz1_RCJgGqQLH7v2pK4ZASIjL2W7SYSc3z-_q4jj5Kr5ayMA9vpCeDmk-pBR9LfL0OGHv19KXcTXFoLDMmWMUpfdhaptTgFTGDrsJLsS1vqYyEls6SagrqN_SsdIevsc=w1000-h750-no",
+    "source_query": "Mosque in Geraardsbergen, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJv0eTB_TDw0cRdLt5TNw0pg4",
+    "name": "Boucherie Dahri&Fils",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tubize",
+    "address": "Boucherie Dahri&Fils, Rue de Mons 50, 1480 Tubize",
+    "street": "Rue de Mons 50",
+    "postal_code": "1480",
+    "region": null,
+    "latitude": 50.691935,
+    "longitude": 4.20413,
+    "phone": "0486 86 88 23",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boucherie%20Dahri%26Fils&query_place_id=ChIJv0eTB_TDw0cRdLt5TNw0pg4",
+    "open_hours_json": {
+      "Monday": [
+        "8:30 am–8 pm"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "8:30 am–8 pm"
+      ],
+      "Thursday": [
+        "8:30 am–8 pm"
+      ],
+      "Friday": [
+        "8:30 am–8 pm"
+      ],
+      "Saturday": [
+        "8:30 am–8 pm"
+      ],
+      "Sunday": [
+        "8:30 am–8 pm"
+      ]
+    },
+    "review_count": 199,
+    "rating": 4.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdaq48KKiVZUhHauVS4j2cQlI5FljDT4jYKBk3UeIfkKsOonILjXpbDAwH-fBv20Q0OnV1eq5jCqnjFa1wDjhOLhSy4xVvhUxtiIJZtp8opFyOPWYuzA_ODlukyD2ssUj9UoZGjLQ=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdaq48KKiVZUhHauVS4j2cQlI5FljDT4jYKBk3UeIfkKsOonILjXpbDAwH-fBv20Q0OnV1eq5jCqnjFa1wDjhOLhSy4xVvhUxtiIJZtp8opFyOPWYuzA_ODlukyD2ssUj9UoZGjLQ=w1000-h750-no",
+    "source_query": "Halal restaurant in Halle, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJw6ef7_PJw0cRYxRt3zotCw8",
+    "name": "Boucherie L&F",
+    "type": "butcher",
+    "category": "butcher",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tubize",
+    "address": "Boucherie L&F, Plt de la Gare 5, 1480 Tubize",
+    "street": "Plt de la Gare 5",
+    "postal_code": "1480",
+    "region": null,
+    "latitude": 50.6925345,
+    "longitude": 4.2051568999999995,
+    "phone": "02 355 35 49",
+    "website": "http://www.boucherielaghmich.be/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boucherie%20L%26F&query_place_id=ChIJw6ef7_PJw0cRYxRt3zotCw8",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "9 am–7:30 pm"
+      ],
+      "Wednesday": [
+        "9 am–7:30 pm"
+      ],
+      "Thursday": [
+        "9 am–7:30 pm"
+      ],
+      "Friday": [
+        "9 am–12:45 pm",
+        "2–7:30 pm"
+      ],
+      "Saturday": [
+        "9 am–7:30 pm"
+      ],
+      "Sunday": [
+        "9 am–3:30 pm"
+      ]
+    },
+    "review_count": 296,
+    "rating": 4.8,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcdmsOw_jOgxjiw_hYq2weX__bZRVe7jnltA8fQQcdAud850qqoRDY7me4EWA42J0KvHVDXxmU8jqfOVP4xRdqcX1pZooCfzgk7hgHXr3Ma2cEmROD4HkOOJd1A6picNCEDUitl=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcdmsOw_jOgxjiw_hYq2weX__bZRVe7jnltA8fQQcdAud850qqoRDY7me4EWA42J0KvHVDXxmU8jqfOVP4xRdqcX1pZooCfzgk7hgHXr3Ma2cEmROD4HkOOJd1A6picNCEDUitl=w1000-h750-no",
+    "source_query": "Halal restaurant in Halle, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJZdxewvPJw0cRNogZ3qNw1A4",
+    "name": "Boulangerie L’Orientale",
+    "type": "bakery",
+    "category": "bakery",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tubize",
+    "address": "Boulangerie L’Orientale, Grand'Place 14, 1480 Tubize",
+    "street": "Grand'Place 14",
+    "postal_code": "1480",
+    "region": null,
+    "latitude": 50.6930019,
+    "longitude": 4.2042363,
+    "phone": "02 366 28 46",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boulangerie%20L%E2%80%99Orientale&query_place_id=ChIJZdxewvPJw0cRNogZ3qNw1A4",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "7:30 am–8 pm"
+      ],
+      "Wednesday": [
+        "7:30 am–8 pm"
+      ],
+      "Thursday": [
+        "7:30 am–8 pm"
+      ],
+      "Friday": [
+        "7:30 am–8 pm"
+      ],
+      "Saturday": [
+        "7:30 am–8 pm"
+      ],
+      "Sunday": [
+        "7:30 am–8 pm"
+      ]
+    },
+    "review_count": 115,
+    "rating": 4.3,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdkvnqLp-pq6WQd7YRKIj-y-hwnRGH74E_1A4ROOZudVpa5uqaDkMzPHobCAOMM_o1ybOkrJDb2pJmOoVbZWJBQPc4I4FY52_EMn9ET1BU-ROlauZEPEaHMGgB27hger_2jF3yW=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdkvnqLp-pq6WQd7YRKIj-y-hwnRGH74E_1A4ROOZudVpa5uqaDkMzPHobCAOMM_o1ybOkrJDb2pJmOoVbZWJBQPc4I4FY52_EMn9ET1BU-ROlauZEPEaHMGgB27hger_2jF3yW=w1000-h750-no",
+    "source_query": "Moroccan restaurant in Tubize, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJOU-GfwPKw0cRARtbOxi20yg",
+    "name": "Chez David",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Tubize",
+    "address": "Chez David, Chau. de Mons 327, 1480 Tubize",
+    "street": "Chau. de Mons 327",
+    "postal_code": "1480",
+    "region": null,
+    "latitude": 50.682790399999995,
+    "longitude": 4.1933101,
+    "phone": "02 355 94 39",
+    "website": null,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chez%20David&query_place_id=ChIJOU-GfwPKw0cRARtbOxi20yg",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "8:30 am–12 pm",
+        "1–6 pm"
+      ],
+      "Wednesday": [
+        "8:30 am–12 pm",
+        "1–6 pm"
+      ],
+      "Thursday": [
+        "8:30 am–12 pm",
+        "1:30–6 pm"
+      ],
+      "Friday": [
+        "8:30 am–12 pm",
+        "1–6 pm"
+      ],
+      "Saturday": [
+        "8:30 am–5:30 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 105,
+    "rating": 4.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeWWN0CLKlncoGwphacZ7jv5XzDo6UwW2e2zx8GfkbWOJvLXeUfXPPvoMEPoHQhRs-PG60bBHJXxQvsW3-jUcBl9hJWIMQe39LMUHk2fbll00A28ZzC7TSDJHEWJXeZUlzudtxX1tfhdyo=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeWWN0CLKlncoGwphacZ7jv5XzDo6UwW2e2zx8GfkbWOJvLXeUfXPPvoMEPoHQhRs-PG60bBHJXxQvsW3-jUcBl9hJWIMQe39LMUHk2fbll00A28ZzC7TSDJHEWJXeZUlzudtxX1tfhdyo=w1000-h750-no",
+    "source_query": "Fish restaurant in Tubize, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJX8tBQovJw0cRkJ-Nki1Uq-E",
     "name": "Chez Pilato",
     "type": "restaurant",
@@ -4649,32 +5228,6 @@
     "moderation_status": "approved"
   },
   {
-    "place_id": "ChIJi-AhBBXFw0cRfhahHjcgyRQ",
-    "name": "CUTS Meat & Fire",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Ukkel",
-    "address": "CUTS Meat & Fire, Chau. de Waterloo 1368, 1180 Uccle",
-    "street": "Waterloosesteenweg 1368",
-    "postal_code": "1180",
-    "region": null,
-    "latitude": 50.7888643,
-    "longitude": 4.3754091,
-    "phone": "02 503 01 49",
-    "website": "https://www.cuts-benelux.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=CUTS%20Meat%20%26%20Fire&query_place_id=ChIJi-AhBBXFw0cRfhahHjcgyRQ",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeOErMy9ZuQcR-34cBpPa--UrlodUA5qhhQNDUv37MlCjB1gTbSQiFiuLFDfokGTWqUEsxpRdwZvNC1TX9yO795oW6FeOzZJG6bGSSNQC1F0oNWSpCWSMRlMa6nFpuJxKu5NYxV=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeOErMy9ZuQcR-34cBpPa--UrlodUA5qhhQNDUv37MlCjB1gTbSQiFiuLFDfokGTWqUEsxpRdwZvNC1TX9yO795oW6FeOzZJG6bGSSNQC1F0oNWSpCWSMRlMa6nFpuJxKu5NYxV=w1000-h750-no",
-    "rating": 4.8,
-    "review_count": 61,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
     "place_id": "ChIJe5WMjbvFw0cRa-OmYGbcIbk",
     "name": "Chez Hassan",
     "type": "restaurant",
@@ -4753,32 +5306,6 @@
     "moderation_status": "approved"
   },
   {
-    "place_id": "ChIJH224cK3Fw0cR9Esrws-zHug",
-    "name": "KARIM boucherie",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Ukkel",
-    "address": "KARIM boucherie, Rue Vanderkindere 133, 1180 Uccle",
-    "street": "Vanderkinderestraat 133",
-    "postal_code": "1180",
-    "region": null,
-    "latitude": 50.813669499999996,
-    "longitude": 4.3467633999999995,
-    "phone": "0472 48 52 31",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=KARIM%20boucherie&query_place_id=ChIJH224cK3Fw0cR9Esrws-zHug",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLek5NbCJQ1Osc5OFpNdv6VsQBTLu082lN9fiTnq9yjbz4vFGF_w9XVtB_o8aN3rzW0dR97IlDLY0bv8GyErB6J3tX_35u3Gl4T9YkHB_G8g9HuUDR_wTiTau6FNZogwybEkVjWbsLtsVVA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLek5NbCJQ1Osc5OFpNdv6VsQBTLu082lN9fiTnq9yjbz4vFGF_w9XVtB_o8aN3rzW0dR97IlDLY0bv8GyErB6J3tX_35u3Gl4T9YkHB_G8g9HuUDR_wTiTau6FNZogwybEkVjWbsLtsVVA=w1000-h750-no",
-    "rating": 4.7,
-    "review_count": 91,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
     "place_id": "ChIJ_RZovK3Fw0cRxFJg5-ze7VM",
     "name": "KOYZINA Authentica 🇬🇷",
     "type": "restaurant",
@@ -4831,54 +5358,28 @@
     "moderation_status": "approved"
   },
   {
-    "place_id": "ChIJr8X3cLLFw0cRTSPINQfgWH8",
-    "name": "La Moutonnerie",
+    "place_id": "ChIJY-xkBOXFw0cR3QCNMIZ1hAQ",
+    "name": "La Boucherie Traditionnelle Halal",
     "type": "butcher",
     "category": "butcher",
     "country": "BE",
     "country_code": "BE",
     "city": "Ukkel",
-    "address": "La Moutonnerie, Xavier De Buestraat 69, 1180 Ukkel",
-    "street": "Xavier De Buestraat 69",
+    "address": "La Boucherie Traditionnelle Halal, Chau. d'Alsemberg 439, 1180 Uccle",
+    "street": "Alsembergsesteenweg 439",
     "postal_code": "1180",
     "region": null,
-    "latitude": 50.8033394,
-    "longitude": 4.3385845,
-    "phone": "02 347 69 00",
-    "website": "http://lamoutonnerie.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Moutonnerie&query_place_id=ChIJr8X3cLLFw0cRTSPINQfgWH8",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfHZNTo8BamGnIUsQvU2HKR7DBxEq_Uweew40UOA4Qz1hhyKy5MtwbVHjjAbsrNI02cbZBaxqBaww7UDOvULe18STJBu24J7X89LcW59vid8lhbJFxruY5VtmG1e5as937Vfrmw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfHZNTo8BamGnIUsQvU2HKR7DBxEq_Uweew40UOA4Qz1hhyKy5MtwbVHjjAbsrNI02cbZBaxqBaww7UDOvULe18STJBu24J7X89LcW59vid8lhbJFxruY5VtmG1e5as937Vfrmw=w1000-h750-no",
-    "rating": 4.1,
-    "review_count": 134,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJBSlNAb_Fw0cRDWcGpSnCcUc",
-    "name": "Les Délices De Chez Omar",
-    "type": "butcher",
-    "category": "butcher",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Ukkel",
-    "address": "Les Délices De Chez Omar, Chau. d'Alsemberg 845, 1180 Uccle",
-    "street": "Alsembergsesteenweg 845",
-    "postal_code": "1180",
-    "region": null,
-    "latitude": 50.800866899999995,
-    "longitude": 4.336340799999999,
-    "phone": "02 315 21 08",
-    "website": "http://lesdelicesdechez.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les%20D%C3%A9lices%20De%20Chez%20Omar&query_place_id=ChIJBSlNAb_Fw0cRDWcGpSnCcUc",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdwJA3A11ix-B99Smpm8Z8bdyV0zf4WP-kHnbQRgsPHKZoGqWysZSpLXyGvU6_ka5gGM6mVnJBAeW3w8S3KAM1fqRtLGLb59t9y16uEEMzLO_1b32TrYNlum5BCIjWB2jRzEQD3rBDB5eE=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdwJA3A11ix-B99Smpm8Z8bdyV0zf4WP-kHnbQRgsPHKZoGqWysZSpLXyGvU6_ka5gGM6mVnJBAeW3w8S3KAM1fqRtLGLb59t9y16uEEMzLO_1b32TrYNlum5BCIjWB2jRzEQD3rBDB5eE=w1000-h750-no",
-    "rating": 4.9,
-    "review_count": 35,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
+    "latitude": 50.812664899999994,
+    "longitude": 4.3382879,
+    "phone": "0471 70 36 51",
+    "website": "https://www.instagram.com/laboucherietraditionnelle?igsh=MW80YWJzZW5uejU5Zg==&utm_source=qr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Boucherie%20Traditionnelle%20Halal&query_place_id=ChIJY-xkBOXFw0cR3QCNMIZ1hAQ",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe65gr7C7TuJIG6tFXHOQ6dUQVtJq008E5GWcHSBOLBP-GlePcH9rPQqd4aMNJpN7kB-BAsQRm80z1KUK2ULCRf0WrCS9pBxCMwX6JzzcotluolCP1MRM4eNymE1egoVWiqgm2TqC7rZq8X=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe65gr7C7TuJIG6tFXHOQ6dUQVtJq008E5GWcHSBOLBP-GlePcH9rPQqd4aMNJpN7kB-BAsQRm80z1KUK2ULCRf0WrCS9pBxCMwX6JzzcotluolCP1MRM4eNymE1egoVWiqgm2TqC7rZq8X=w1000-h750-no",
+    "rating": 5.0,
+    "review_count": 56,
+    "verification_status": "VERIFIED",
+    "verification_evidence": "Explicit Halal keyword indicators in listing metadata",
     "is_active": true,
     "moderation_status": "approved"
   },
@@ -5159,8 +5660,8 @@
     "phone": "02 374 08 86",
     "website": "https://boucherie-saint-job.be/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Slagerij%20St-Job&query_place_id=ChIJ4T-SZRDFw0cRdOciwj-Ai2M",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeVYVnrs0jEqqj6483TqMfi6JlQKvGauVlZTMRP9_0xbE7CbPSc_CpZFP_DwtJy1ZLAcCe5il8zGjCStjTAqIOyjidSHdGPR7Tv2LCDEBrfhormYZb1026pVKxuyKGcIcMXpPwB=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeVYVnrs0jEqqj6483TqMfi6JlQKvGauVlZTMRP9_0xbE7CbPSc_CpZFP_DwtJy1ZLAcCe5il8zGjCStjTAqIOyjidSHdGPR7Tv2LCDEBrfhormYZb1026pVKxuyKGcIcMXpPwB=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf39FTR5W6ZVd8gndCAWn43AOxDMksYOftaHBXYIVB8E8ME0F0sQ0XRFz8xeoJJ5f46v-Uhdk8Y2HAG2x3HucMajaEeT-7CavgB9m_-NXUwkINXGdaXaXDN4RxdXJKTxBGWqt90=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf39FTR5W6ZVd8gndCAWn43AOxDMksYOftaHBXYIVB8E8ME0F0sQ0XRFz8xeoJJ5f46v-Uhdk8Y2HAG2x3HucMajaEeT-7CavgB9m_-NXUwkINXGdaXaXDN4RxdXJKTxBGWqt90=w1000-h750-no",
     "rating": 3.7,
     "review_count": 224,
     "verification_status": "UNVERIFIED",
@@ -6072,8 +6573,8 @@
     "phone": "087 33 96 22",
     "website": "https://www.facebook.com/Baba-Sofra-snack-et-grillades-475335056593230/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Baba%20sofra&query_place_id=ChIJ5zoMjWGLwEcRskmjBINlArg",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcMZgTN0nHA0ZRCBx-wabrarGht_pFFjPU4cI9q3_SUFssJtb8IfQVa_meGybmRgn_ucozalSiuADWlD1uJTePZzdPH_8phjxl-_Xk8PvFyxMgMHuV5_vYofOg24E0A-C6C0jw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcMZgTN0nHA0ZRCBx-wabrarGht_pFFjPU4cI9q3_SUFssJtb8IfQVa_meGybmRgn_ucozalSiuADWlD1uJTePZzdPH_8phjxl-_Xk8PvFyxMgMHuV5_vYofOg24E0A-C6C0jw=w1000-h750-no",
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc7WvXLIxAMCyDAfrHmE5ZOgyiRZFhpqy4Pk0eDMTlusgkhEgBwW8mDamK2eSEc8qpt7v5Z3bPbBg1GjbRny-nmmiGUf3U9GiR2yld1w6m5pvWVbKrBKvhz52-NnnaUO0iRG4Q=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc7WvXLIxAMCyDAfrHmE5ZOgyiRZFhpqy4Pk0eDMTlusgkhEgBwW8mDamK2eSEc8qpt7v5Z3bPbBg1GjbRny-nmmiGUf3U9GiR2yld1w6m5pvWVbKrBKvhz52-NnnaUO0iRG4Q=w1000-h750-no",
     "rating": 4.5,
     "review_count": 231,
     "verification_status": "UNVERIFIED",
@@ -6672,32 +7173,6 @@
     "verification_evidence": null
   },
   {
-    "place_id": "ChIJs57l-emLwEcRDtRcgcpdJ_k",
-    "name": "CC VAYNAH Verviers",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Verviers",
-    "address": "CC VAYNAH Verviers, Rue de Dison 53, 4800 Verviers",
-    "street": "Rue de Dison 53",
-    "postal_code": "4800",
-    "region": null,
-    "latitude": 50.5945073,
-    "longitude": 5.854671,
-    "phone": "0466 08 54 45",
-    "website": "https://www.instagram.com/cc.vaynah.verviers",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=CC%20VAYNAH%20Verviers&query_place_id=ChIJs57l-emLwEcRDtRcgcpdJ_k",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLennzLxztFu8KPvSPLoFJ4Wt-lh7JvAuYtkehib9r6E2_SqZI8pYup7aByCmQxAHLizfe17s1yELhy0PiMRE91zdXBvNOqrUsrE75kxoRTK8d-87JUxY0BDzfC5Th3WMurRY-48smIDX5g=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLennzLxztFu8KPvSPLoFJ4Wt-lh7JvAuYtkehib9r6E2_SqZI8pYup7aByCmQxAHLizfe17s1yELhy0PiMRE91zdXBvNOqrUsrE75kxoRTK8d-87JUxY0BDzfC5Th3WMurRY-48smIDX5g=w1000-h750-no",
-    "rating": 5.0,
-    "review_count": 6,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
     "place_id": "ChIJEd0UEcGLwEcRv5U2g_daXTQ",
     "name": "Cafe Du Theatre",
     "type": "restaurant",
@@ -6896,32 +7371,6 @@
     "is_active": true,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJM4rw1OqLwEcRd7OY7mZ1QGk",
-    "name": "Centre Islamique, Culturel et Social-Mosquée Kobaa",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Verviers",
-    "address": "Centre Islamique, Culturel et Social-Mosquée Kobaa, Rue des Fabriques 28, 4800 Verviers",
-    "street": "Rue des Fabriques 28",
-    "postal_code": "4800",
-    "region": null,
-    "latitude": 50.597108399999996,
-    "longitude": 5.8546854,
-    "phone": "087 31 57 44",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Centre%20Islamique%2C%20Culturel%20et%20Social-Mosqu%C3%A9e%20Kobaa&query_place_id=ChIJM4rw1OqLwEcRd7OY7mZ1QGk",
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CsUnltGA-rK8cZkyQqpqZQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=180.21063&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CsUnltGA-rK8cZkyQqpqZQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=180.21063&pitch=0&thumbfov=w1000-h750-no",
-    "rating": 4.9,
-    "review_count": 19,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
   },
   {
     "place_id": "ChIJF8XGnQSLwEcRKdT3cS8FdZk",
@@ -7338,32 +7787,6 @@
     "verification_evidence": null
   },
   {
-    "place_id": "ChIJVwJSCcCLwEcR_yUsFe4CBIA",
-    "name": "Complexe Educatif et Culturel Islamique",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Verviers",
-    "address": "Complexe Educatif et Culturel Islamique, Rue de Hodimont 244, 4800 Verviers",
-    "street": "Rue de Hodimont 244",
-    "postal_code": "4800",
-    "region": null,
-    "latitude": 50.595526199999995,
-    "longitude": 5.852994499999999,
-    "phone": "087 44 89 49",
-    "website": "http://www.ceciv.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Complexe%20Educatif%20et%20Culturel%20Islamique&query_place_id=ChIJVwJSCcCLwEcR_yUsFe4CBIA",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcnJXp9nw7OZRMOewD9y6a2p08z9u7ykv-j-IF7us1J8fYgIUHtf9NGpWjhPnz7lGfKUU385Y59yYKUPrZqHI70X9VpDp2KSypYoQMg_mYoyF0t_HwhR5hGu93F1L8NhyaS1PGxfA=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcnJXp9nw7OZRMOewD9y6a2p08z9u7ykv-j-IF7us1J8fYgIUHtf9NGpWjhPnz7lGfKUU385Y59yYKUPrZqHI70X9VpDp2KSypYoQMg_mYoyF0t_HwhR5hGu93F1L8NhyaS1PGxfA=w1000-h750-no",
-    "rating": 4.8,
-    "review_count": 138,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
     "place_id": "ChIJZSmODLW5sQAR_cZMEElyE_M",
     "name": "Couscous Salem",
     "type": "restaurant",
@@ -7720,32 +8143,6 @@
     "is_active": true,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJ3_uUBLyLwEcRpLJKVEdzTdc",
-    "name": "Errahma",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Verviers",
-    "address": "Errahma, Rue du Peignage 30, 4800 Verviers",
-    "street": "Rue du Peignage 30",
-    "postal_code": "4800",
-    "region": null,
-    "latitude": 50.5905218,
-    "longitude": 5.846154299999999,
-    "phone": "087 54 12 44",
-    "website": "https://fr.masjidway.com/masjid/1991-mosquee-arrahma",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Errahma&query_place_id=ChIJ3_uUBLyLwEcRpLJKVEdzTdc",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfarzkvn9F9kFeUXn2OETpfgyUYyfryig3dToF8tlSEiK2K1gYctxoapxqRxZNIInMJWuq7wkIJaYgf9I-l89UF9LsWTbfN5uPwoAOZ0_W61Q3US2gydqH-f8lEsJVzzhShDD-5mFGTSoL_=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfarzkvn9F9kFeUXn2OETpfgyUYyfryig3dToF8tlSEiK2K1gYctxoapxqRxZNIInMJWuq7wkIJaYgf9I-l89UF9LsWTbfN5uPwoAOZ0_W61Q3US2gydqH-f8lEsJVzzhShDD-5mFGTSoL_=w1000-h750-no",
-    "rating": 4.7,
-    "review_count": 32,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
   },
   {
     "place_id": "ChIJx7nYPseLwEcR9o30ztVk1x4",
@@ -9550,84 +9947,6 @@
     "moderation_status": "approved"
   },
   {
-    "place_id": "ChIJBbiNHWeLwEcRsGSx3Ks9fmE",
-    "name": "Mosque Assalam",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Verviers",
-    "address": "Mosque Assalam, Rue du Prince 26, 4800 Verviers",
-    "street": "Rue du Prince 26",
-    "postal_code": "4800",
-    "region": null,
-    "latitude": 50.598284199999995,
-    "longitude": 5.8756021,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mosque%20Assalam&query_place_id=ChIJBbiNHWeLwEcRsGSx3Ks9fmE",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcXHXTb5ml_CLvpyuj2EMhvJkN4gc1iUp-OnlfFPBV42wO8yBg2xHnj5Aw1tSrjvmiISfJfHYxEX1T_bHm8L5co1_6nMu6it0-d1hOE_GdD7Usd8DDIaDckHj1ZeYEyJSiNczAK=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcXHXTb5ml_CLvpyuj2EMhvJkN4gc1iUp-OnlfFPBV42wO8yBg2xHnj5Aw1tSrjvmiISfJfHYxEX1T_bHm8L5co1_6nMu6it0-d1hOE_GdD7Usd8DDIaDckHj1ZeYEyJSiNczAK=w1000-h750-no",
-    "rating": 4.4,
-    "review_count": 9,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJLfD1gb-LwEcRIO9Djlw59nw",
-    "name": "Mosque Sultan Ahmet",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Verviers",
-    "address": "Mosque Sultan Ahmet, Rue Lucien Defays 39, 4800 Verviers",
-    "street": "Rue Lucien Defays 39",
-    "postal_code": "4800",
-    "region": null,
-    "latitude": 50.592275199999996,
-    "longitude": 5.8530657,
-    "phone": "087 34 04 77",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mosque%20Sultan%20Ahmet&query_place_id=ChIJLfD1gb-LwEcRIO9Djlw59nw",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcN-SdCYDAZ7p5skk-u40w1Q1PacrOIJhrmT_vKIThEcpuh2ZIgPgD50V9mBWyg-jhqy5T9JUzerGnqKFl0NaEsXZxsdmvIf5uT5PjB2eP_HY01wnyiUzkE4zEe5zX-oOff5ahR=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcN-SdCYDAZ7p5skk-u40w1Q1PacrOIJhrmT_vKIThEcpuh2ZIgPgD50V9mBWyg-jhqy5T9JUzerGnqKFl0NaEsXZxsdmvIf5uT5PjB2eP_HY01wnyiUzkE4zEe5zX-oOff5ahR=w1000-h750-no",
-    "rating": 4.8,
-    "review_count": 20,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
-    "place_id": "ChIJE1KKDMCLwEcRSfV6mLZzZkE",
-    "name": "Mosquée Bilal",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Verviers",
-    "address": "Mosquée Bilal, Rue de Hodimont 47, 4800 Verviers",
-    "street": "Rue de Hodimont 47",
-    "postal_code": "4800",
-    "region": null,
-    "latitude": 50.5936453,
-    "longitude": 5.8542499,
-    "phone": null,
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mosqu%C3%A9e%20Bilal&query_place_id=ChIJE1KKDMCLwEcRSfV6mLZzZkE",
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rq15oT7GY5kFlgsbg_f-cQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=234.63132&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rq15oT7GY5kFlgsbg_f-cQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=234.63132&pitch=0&thumbfov=w1000-h750-no",
-    "rating": 4.7,
-    "review_count": 34,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
     "place_id": "ChIJDZLrP3mLwEcRhqaMTB4witU",
     "name": "Murmure",
     "type": "restaurant",
@@ -9868,32 +10187,6 @@
     "verification_evidence": "Explicit Halal keyword indicators in listing metadata"
   },
   {
-    "place_id": "ChIJWy0gK76LwEcRrsyDr95fauQ",
-    "name": "Orhan Gazii",
-    "type": "mosque",
-    "category": "mosque",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Verviers",
-    "address": "Orhan Gazii, Rue des Messieurs 18, 4800 Verviers",
-    "street": "Rue des Messieurs 18",
-    "postal_code": "4800",
-    "region": null,
-    "latitude": 50.5948036,
-    "longitude": 5.850784,
-    "phone": "087 46 00 57",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Orhan%20Gazii&query_place_id=ChIJWy0gK76LwEcRrsyDr95fauQ",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfZ57tcpw62cr4Rt8w-fV4MQZseQqqyqH-Baw8V3CEy6fHBaVyhTEgMp93kYYN3tktV1rnNS8oF2cAxdf-f1hPB6gkRqi7rzrrPeUD-VZoC2BqY7XMilzRaVU98aZoJzszyoxVQJq40xbM=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfZ57tcpw62cr4Rt8w-fV4MQZseQqqyqH-Baw8V3CEy6fHBaVyhTEgMp93kYYN3tktV1rnNS8oF2cAxdf-f1hPB6gkRqi7rzrrPeUD-VZoC2BqY7XMilzRaVU98aZoJzszyoxVQJq40xbM=w1000-h750-no",
-    "rating": 4.6,
-    "review_count": 51,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
-  },
-  {
     "place_id": "ChIJQYJcn8SLwEcRTEzaiV_nrro",
     "name": "Osteria Bella Casa",
     "type": "restaurant",
@@ -10075,85 +10368,5 @@
     "is_active": true,
     "verification_status": "UNVERIFIED",
     "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJE1DhPcGLwEcRkuSotc33pxg",
-    "name": "Piccolo Mondo 2",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Verviers",
-    "address": "Piccolo Mondo 2, Rue Jardon 48, 4800 Verviers",
-    "street": "Rue Jardon 48",
-    "postal_code": "4800",
-    "region": null,
-    "latitude": 50.5906496,
-    "longitude": 5.8574255,
-    "phone": "0474 30 62 18",
-    "website": "https://www.facebook.com/profile.php?id=100083575172511",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Piccolo%20Mondo%202&query_place_id=ChIJE1DhPcGLwEcRkuSotc33pxg",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "6–10 pm"
-      ],
-      "Wednesday": [
-        "11:30 am–3 pm",
-        "6–10 pm"
-      ],
-      "Thursday": [
-        "11:30 am–3 pm",
-        "6–10 pm"
-      ],
-      "Friday": [
-        "11:30 am–3 pm",
-        "6–10 pm"
-      ],
-      "Saturday": [
-        "11:30 am–3 pm",
-        "6–10 pm"
-      ],
-      "Sunday": [
-        "Closed"
-      ]
-    },
-    "review_count": 181,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeFykmTPzVedxBo9ns7rNyR9b28WJ1AiSwMyOgASL3A44DtiYJRy2zF2bi90YI0h7soETX4bVNd_07xyAEsVH1LnUTjaby5A6iCPRntoN5ymNdY_Rnl3INun1I1Xzaz38joXNWFQw=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeFykmTPzVedxBo9ns7rNyR9b28WJ1AiSwMyOgASL3A44DtiYJRy2zF2bi90YI0h7soETX4bVNd_07xyAEsVH1LnUTjaby5A6iCPRntoN5ymNdY_Rnl3INun1I1Xzaz38joXNWFQw=w1000-h750-no",
-    "source_query": "Fish restaurant in Verviers, Wallonia, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJLYwZysKLwEcR0nktj7GO3r8",
-    "name": "Pita Fleurs",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Verviers",
-    "address": "Pita Fleurs, Crapaurue 3, 4800 Verviers",
-    "street": "Crapaurue 3",
-    "postal_code": "4800",
-    "region": null,
-    "latitude": 50.5927784,
-    "longitude": 5.8667427,
-    "phone": "087 35 45 47",
-    "website": "https://www.pitafleurs.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pita%20Fleurs&query_place_id=ChIJLYwZysKLwEcR0nktj7GO3r8",
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfK-QjFVroKKGAksetvom_7p92jRhpJ7UNgwcsmvNI52UqcZDw5X_JjG67pcmN-U211qmcXFHEg9X1wI4qkUIRyf7ryX6-1aDpKLJ-Au-kLKMGyhtv-KooT6fdY7GduD-gCPrud=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfK-QjFVroKKGAksetvom_7p92jRhpJ7UNgwcsmvNI52UqcZDw5X_JjG67pcmN-U211qmcXFHEg9X1wI4qkUIRyf7ryX6-1aDpKLJ-Au-kLKMGyhtv-KooT6fdY7GduD-gCPrud=w1000-h750-no",
-    "rating": 4.6,
-    "review_count": 357,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null,
-    "is_active": true,
-    "moderation_status": "approved"
   }
 ]

@@ -1,5 +1,55 @@
 [
   {
+    "place_id": "ChIJY7kPVPkVw0cRxc1CUe8ziY4",
+    "name": "'t Croissanske - Waregem",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Waregem",
+    "address": "'t Croissanske - Waregem, Stormestraat 143, 8790 Waregem",
+    "street": "Stormestraat 143",
+    "postal_code": "8790",
+    "region": null,
+    "latitude": 50.8841396,
+    "longitude": 3.4268541999999997,
+    "phone": "0478 44 68 84",
+    "website": "http://croissanske.sumupstore.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%27t%20Croissanske%20-%20Waregem&query_place_id=ChIJY7kPVPkVw0cRxc1CUe8ziY4",
+    "open_hours_json": {
+      "Monday": [
+        "7:30 am–1:30 pm"
+      ],
+      "Tuesday": [
+        "7:30 am–1:30 pm"
+      ],
+      "Wednesday": [
+        "7:30 am–1:30 pm"
+      ],
+      "Thursday": [
+        "7:30 am–1:30 pm"
+      ],
+      "Friday": [
+        "7:30 am–1:30 pm"
+      ],
+      "Saturday": [
+        "Closed"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 73,
+    "rating": 4.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLelXpNzKLWFikbKvPkRoSkeZvgUL4LQWuFUSSsg8jAlZpekIUYPsjcGOHZ_huOiX5A5Ppv9yNhHca5YMHJdwShNKlnSZGK9PzHjVnIUfsjZ_9wftdZY4As8gHyEfk_QVVcU-uEB=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLelXpNzKLWFikbKvPkRoSkeZvgUL4LQWuFUSSsg8jAlZpekIUYPsjcGOHZ_huOiX5A5Ppv9yNhHca5YMHJdwShNKlnSZGK9PzHjVnIUfsjZ_9wftdZY4As8gHyEfk_QVVcU-uEB=w1000-h750-no",
+    "source_query": "Halal restaurant in Waregem, Flanders, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJg_Dq2po-w0cRvil2u43_we0",
     "name": "Assounah Desselgem",
     "type": "mosque",
@@ -11776,34 +11826,6 @@
     "rating": null,
     "thumbnail_url": null,
     "image_url": null,
-    "source_query": "Fish restaurant in Reningelst, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJIxKlZ1DO3EcRkmcd_l5Tc6I",
-    "name": "De Voerman",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Ypres",
-    "address": "De Voerman, Rijselseweg 10, 8900 Ieper",
-    "street": "Rijselseweg 10",
-    "postal_code": "8900",
-    "region": null,
-    "latitude": 50.8432509,
-    "longitude": 2.8894471999999998,
-    "phone": "0479 50 58 49",
-    "website": "http://www.devoerman.com/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=De%20Voerman&query_place_id=ChIJIxKlZ1DO3EcRkmcd_l5Tc6I",
-    "open_hours_json": null,
-    "review_count": 160,
-    "rating": 4.2,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeMPnGNRvbZGSV75xna5Q8ePEFNaa-LVSNC9qeGK66B4PcwGH8jwJ6oEThx6U1wI5201WU7DLBr2g1T1BuFnLbhYdX2ksKAxV4NuF5LUVi7ayD5esD5VRF2L1o9D3nHXNcCqS27Qg=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeMPnGNRvbZGSV75xna5Q8ePEFNaa-LVSNC9qeGK66B4PcwGH8jwJ6oEThx6U1wI5201WU7DLBr2g1T1BuFnLbhYdX2ksKAxV4NuF5LUVi7ayD5esD5VRF2L1o9D3nHXNcCqS27Qg=w1000-h750-no",
     "source_query": "Fish restaurant in Reningelst, Flanders, BE",
     "moderation_status": "approved",
     "is_active": true,
