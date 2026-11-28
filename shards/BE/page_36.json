@@ -1,5 +1,110 @@
 [
   {
+    "place_id": "ChIJ4S5kj6wfwkcRAQp9xqQ2mI4",
+    "name": "Office du Tourisme de Walcourt",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Walcourt",
+    "address": "Office du Tourisme de Walcourt, Rue de la Montagne 3, 5650 Walcourt",
+    "street": "Rue de la Montagne 3",
+    "postal_code": "5650",
+    "region": null,
+    "latitude": 50.2538604,
+    "longitude": 4.4344743,
+    "phone": "0478 79 34 07",
+    "website": "https://www.walcourt.be/tourisme/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Office%20du%20Tourisme%20de%20Walcourt&query_place_id=ChIJ4S5kj6wfwkcRAQp9xqQ2mI4",
+    "open_hours_json": {
+      "Monday": [
+        "9:30 am–12:30 pm",
+        "1–4 pm"
+      ],
+      "Tuesday": [
+        "9:30 am–12:30 pm",
+        "1–4 pm"
+      ],
+      "Wednesday": [
+        "9:30 am–12:30 pm",
+        "1–4 pm"
+      ],
+      "Thursday": [
+        "9:30 am–12:30 pm",
+        "1–4 pm"
+      ],
+      "Friday": [
+        "9:30 am–12:30 pm",
+        "1–4 pm"
+      ],
+      "Saturday": [
+        "8 am–12 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 6,
+    "rating": 4.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf7uPtsCsTMx-bvxRrFhrabBfiS_ny1BHDH9kgs2ijfydCYncvAHEwAuxmsxN-asP3Mo8Ek0GZound5f8EYAY-i-Y1uM_6pzYRtSotP-_h1sdOthedu4DKCwzxC1Cf3qsUagj26=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf7uPtsCsTMx-bvxRrFhrabBfiS_ny1BHDH9kgs2ijfydCYncvAHEwAuxmsxN-asP3Mo8Ek0GZound5f8EYAY-i-Y1uM_6pzYRtSotP-_h1sdOthedu4DKCwzxC1Cf3qsUagj26=w1000-h750-no",
+    "source_query": "Mosque in Walcourt, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
+    "place_id": "ChIJKXBrUVsfwkcRf5qGzbVcGvM",
+    "name": "Pizzeria Dolce Sapore Walcourt",
+    "type": "restaurant",
+    "category": "restaurant",
+    "country": "BE",
+    "country_code": "BE",
+    "city": "Walcourt",
+    "address": "Pizzeria Dolce Sapore Walcourt, Rue de la Montagne 29, 5650 Walcourt",
+    "street": "Rue de la Montagne 29",
+    "postal_code": "5650",
+    "region": null,
+    "latitude": 50.2539127,
+    "longitude": 4.4323748,
+    "phone": "0496 30 11 79",
+    "website": "https://www.dolce-sapore-walcourt.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzeria%20Dolce%20Sapore%20Walcourt&query_place_id=ChIJKXBrUVsfwkcRf5qGzbVcGvM",
+    "open_hours_json": {
+      "Monday": [
+        "Closed"
+      ],
+      "Tuesday": [
+        "Closed"
+      ],
+      "Wednesday": [
+        "6–9 pm"
+      ],
+      "Thursday": [
+        "6–9 pm"
+      ],
+      "Friday": [
+        "6–9:30 pm"
+      ],
+      "Saturday": [
+        "6–9:30 pm"
+      ],
+      "Sunday": [
+        "Closed"
+      ]
+    },
+    "review_count": 463,
+    "rating": 4.7,
+    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcH6Sp1xpC1UqIpXnb_fkj6rIru9CNdUXLHDrmQzc6ZmpPX04DE3jkY5owtqO-haNU002qM78F83tf7WfpvP1h_Ubo-ZXSZC8i8gjyi1r1-8BFm5BTTwgA-9MlslUotxBZROX9q=w1000-h750-no",
+    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcH6Sp1xpC1UqIpXnb_fkj6rIru9CNdUXLHDrmQzc6ZmpPX04DE3jkY5owtqO-haNU002qM78F83tf7WfpvP1h_Ubo-ZXSZC8i8gjyi1r1-8BFm5BTTwgA-9MlslUotxBZROX9q=w1000-h750-no",
+    "source_query": "Halal restaurant in Walcourt, Wallonia, BE",
+    "moderation_status": "approved",
+    "is_active": true,
+    "verification_status": "UNVERIFIED",
+    "verification_evidence": null
+  },
+  {
     "place_id": "ChIJOYGya18fwkcRn642f-4gjGU",
     "name": "Service Travaux",
     "type": "restaurant",
@@ -11695,111 +11800,6 @@
     "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfCPPgdjuZ_mq8IEMeSuvoLmidIWuTAySPQ_wCQd81Lr9ZuFZoDiSwU-qxqhkz_4ULauWLm2z_-3YY9apwfKvFYEit2fgEMHDx_WhTWvjvQSxbR3g4UQyM1dQk6JTckZY9Um7My=w1000-h750-no",
     "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfCPPgdjuZ_mq8IEMeSuvoLmidIWuTAySPQ_wCQd81Lr9ZuFZoDiSwU-qxqhkz_4ULauWLm2z_-3YY9apwfKvFYEit2fgEMHDx_WhTWvjvQSxbR3g4UQyM1dQk6JTckZY9Um7My=w1000-h750-no",
     "source_query": "Fish restaurant in Reninge, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJQ5LXvvnP3EcRUZEAhlVz-N8",
-    "name": "Boudry / Frans",
-    "type": "hypermarket",
-    "category": "hypermarket",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Ypres",
-    "address": "Boudry / Frans, Kerkstraat 4, 8900 Ieper",
-    "street": "Kerkstraat 4",
-    "postal_code": "8900",
-    "region": null,
-    "latitude": 50.820063,
-    "longitude": 2.8320244,
-    "phone": "057 20 62 38",
-    "website": null,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boudry%20%2F%20Frans&query_place_id=ChIJQ5LXvvnP3EcRUZEAhlVz-N8",
-    "open_hours_json": {
-      "Monday": [
-        "8:30 am–7 pm"
-      ],
-      "Tuesday": [
-        "8:30 am–7 pm"
-      ],
-      "Wednesday": [
-        "8:30 am–7 pm"
-      ],
-      "Thursday": [
-        "8:30 am–7 pm"
-      ],
-      "Friday": [
-        "8:30 am–7 pm"
-      ],
-      "Saturday": [
-        "8:30 am–7 pm"
-      ],
-      "Sunday": [
-        "9 am–12 pm"
-      ]
-    },
-    "review_count": 0,
-    "rating": null,
-    "thumbnail_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JvV340n7Sd4hardlg_zXfA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=273.75983&pitch=0&thumbfov=w1000-h750-no",
-    "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JvV340n7Sd4hardlg_zXfA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=273.75983&pitch=0&thumbfov=w1000-h750-no",
-    "source_query": "Hypermarket in Reningelst, Flanders, BE",
-    "moderation_status": "approved",
-    "is_active": true,
-    "verification_status": "UNVERIFIED",
-    "verification_evidence": null
-  },
-  {
-    "place_id": "ChIJZdyXf_jO3EcRFAlDyg18ZOs",
-    "name": "Captain cook",
-    "type": "restaurant",
-    "category": "restaurant",
-    "country": "BE",
-    "country_code": "BE",
-    "city": "Ypres",
-    "address": "Captain cook, Menenstraat 3, 8900 Ieper",
-    "street": "Menenstraat 3",
-    "postal_code": "8900",
-    "region": null,
-    "latitude": 50.851678299999996,
-    "longitude": 2.8887967999999997,
-    "phone": "057 36 86 50",
-    "website": "https://captaincook.be/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Captain%20cook&query_place_id=ChIJZdyXf_jO3EcRFAlDyg18ZOs",
-    "open_hours_json": {
-      "Monday": [
-        "Closed"
-      ],
-      "Tuesday": [
-        "12–2 pm",
-        "5–10 pm"
-      ],
-      "Wednesday": [
-        "5–10 pm"
-      ],
-      "Thursday": [
-        "12–2 pm",
-        "5–10 pm"
-      ],
-      "Friday": [
-        "12–2 pm",
-        "5–10 pm"
-      ],
-      "Saturday": [
-        "12–2 pm",
-        "5–10 pm"
-      ],
-      "Sunday": [
-        "12–2 pm",
-        "5–9:30 pm"
-      ]
-    },
-    "review_count": 809,
-    "rating": 4.6,
-    "thumbnail_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfjxjUMWSDUzKgq8Vgc07xg4qyjVBEWNAlJhk8tEEu6s7G9JR9v5WBwKgT8-7kLAskampbCVT-0aPcFRZ8nCLRB3otASncDhUkZ3AZKD4piayWEcxxyFBMrdJ4Se7nADhN-NVn9=w1000-h750-no",
-    "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfjxjUMWSDUzKgq8Vgc07xg4qyjVBEWNAlJhk8tEEu6s7G9JR9v5WBwKgT8-7kLAskampbCVT-0aPcFRZ8nCLRB3otASncDhUkZ3AZKD4piayWEcxxyFBMrdJ4Se7nADhN-NVn9=w1000-h750-no",
-    "source_query": "Fish restaurant in Reningelst, Flanders, BE",
     "moderation_status": "approved",
     "is_active": true,
     "verification_status": "UNVERIFIED",
