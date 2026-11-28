@@ -78,11 +78,11 @@
     },
     "AT": {
       "name": "Austria",
-      "count": 1426,
+      "count": 1428,
       "total_shards": 6,
       "shards_dir": "shards/AT",
       "cities_file": "shards/AT/cities.json",
-      "updated_at": "2026-11-28T07:01:46.084361+00:00"
+      "updated_at": "2026-11-28T09:39:28.741292+00:00"
     },
     "SE": {
       "name": "Sweden",
@@ -141,6 +141,6 @@
       "updated_at": "2026-11-28T02:40:18.843443+00:00"
     }
   },
-  "updated_at": "2026-11-28T09:29:31.420050+00:00",
-  "total_places": 40538
+  "updated_at": "2026-11-28T09:39:28.741292+00:00",
+  "total_places": 40540
 }
